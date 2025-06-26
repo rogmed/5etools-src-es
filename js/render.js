@@ -8011,13 +8011,13 @@ Renderer.optionalfeature = class {
 	static getCostEntry (ent) {
 		if (!ent.consumes?.name) return null;
 
-		const ptPrefix = "Cost: ";
+		const ptPrefix = "Coste: ";
 		const tksUnit = ent.consumes.name
 			.split(" ")
 			.map(it => it.trim())
 			.filter(Boolean);
 		const amtMax = ent.consumes.amountMax ?? ent.consumes.amount;
-		tksUnit.last(tksUnit.last()[amtMax != null && amtMax !== 1 ? "toPlural" : "toString"]());
+		// tksUnit.last(tksUnit.last()[amtMax != null && amtMax !== 1 ? "toPlural" : "toString"]());
 		const ptUnit = ` ${tksUnit.join(" ")}`;
 
 		if (ent.consumes?.amountMin != null && ent.consumes?.amountMax != null) return `{@i ${ptPrefix}${ent.consumes.amountMin}\u2013${ent.consumes.amountMax}${ptUnit}}`;

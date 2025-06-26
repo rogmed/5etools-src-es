@@ -1057,7 +1057,7 @@
 			"classSource": "XPHB",
 			"level": 7,
 			"consumes": {
-				"name": "Sorcery Point",
+				"name": "Punto de hechicería",
 				"amount": 2
 			},
 			"entries": [
@@ -1344,7 +1344,7 @@
 		{
 			"name": "Implosión deformadora",
 			"source": "XPHB",
-			"page": 146,
+			"page": 130,
 			"className": "Hechicero",
 			"classSource": "XPHB",
 			"subclassShortName": "Aberrante",
@@ -1363,7 +1363,7 @@
 		{
 			"name": "Hechicería mecánica",
 			"source": "XPHB",
-			"page": 146,
+			"page": 134,
 			"className": "Hechicero",
 			"classSource": "XPHB",
 			"subclassShortName": "Mecánica",
@@ -1385,7 +1385,7 @@
 		{
 			"name": "Conjuros mecánicos",
 			"source": "XPHB",
-			"page": 146,
+			"page": 134,
 			"className": "Hechicero",
 			"classSource": "XPHB",
 			"subclassShortName": "Mecánica",
@@ -1468,7 +1468,7 @@
 		{
 			"name": "Restablecer equilibrio",
 			"source": "XPHB",
-			"page": 146,
+			"page": 135,
 			"className": "Hechicero",
 			"classSource": "XPHB",
 			"subclassShortName": "Mecánica",
@@ -1483,7 +1483,7 @@
 		{
 			"name": "Bastión de la ley",
 			"source": "XPHB",
-			"page": 147,
+			"page": 135,
 			"className": "Hechicero",
 			"classSource": "XPHB",
 			"subclassShortName": "Mecánica",
@@ -1491,7 +1491,7 @@
 			"level": 6,
 			"header": 2,
 			"consumes": {
-				"name": "Sorcery Point",
+				"name": "Punto de hechicería",
 				"amountMin": 1,
 				"amountMax": 5
 			},
@@ -1503,7 +1503,7 @@
 		{
 			"name": "Trance de orden",
 			"source": "XPHB",
-			"page": 147,
+			"page": 135,
 			"className": "Hechicero",
 			"classSource": "XPHB",
 			"subclassShortName": "Mecánica",
@@ -1511,7 +1511,7 @@
 			"level": 14,
 			"header": 2,
 			"consumes": {
-				"name": "Sorcery Point",
+				"name": "Punto de hechicería",
 				"amount": 5
 			},
 			"entries": [
@@ -1522,7 +1522,7 @@
 		{
 			"name": "Cabalgata mecánica",
 			"source": "XPHB",
-			"page": 147,
+			"page": 135,
 			"className": "Hechicero",
 			"classSource": "XPHB",
 			"subclassShortName": "Mecánica",
@@ -1530,7 +1530,7 @@
 			"level": 18,
 			"header": 2,
 			"consumes": {
-				"name": "Sorcery Point",
+				"name": "Punto de hechicería",
 				"amount": 7
 			},
 			"entries": [
@@ -1680,7 +1680,7 @@
 			"level": 14,
 			"header": 2,
 			"consumes": {
-				"name": "Sorcery Point",
+				"name": "Punto de hechicería",
 				"amount": 3
 			},
 			"entries": [
@@ -1887,7 +1887,7 @@
 			"level": 6,
 			"header": 2,
 			"consumes": {
-				"name": "Sorcery Point"
+				"name": "Punto de hechicería"
 			},
 			"entries": [
 				"You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the {@dice d20} for a {@variantrule D20 Test|XPHB}, you can take a {@variantrule Reaction|XPHB} and spend 1 Sorcery Point to roll {@dice 1d4} and apply the number rolled as a bonus or penalty (your choice) to the {@dice d20} roll."

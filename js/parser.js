@@ -1164,12 +1164,12 @@ Parser.skillProficienciesToFull = function (skillProficiencies, {styleHint = nul
 				const count = chObj.count ?? 1;
 				if (chObj.from.length === 18) {
 					ptChoose = styleHint === "classic"
-						? `choose any ${count === 1 ? "skill" : chObj.count}`
-						: `Choose ${chObj.count}`;
+						? `elige ${count === 1 ? "skill" : chObj.count}`
+						: `Elige ${chObj.count}`;
 				} else {
 					ptChoose = styleHint === "classic"
-						? `choose ${count} from ${chObj.from.map(it => getRenderedSkill(it)).joinConjunct(", ", " and ")}`
-						: Renderer.get().render(`{@i Choose ${count}:} ${chObj.from.map(it => getRenderedSkill(it)).joinConjunct(", ", " or ")}`);
+						? `elige ${count} de ${chObj.from.map(it => getRenderedSkill(it)).joinConjunct(", ", " y ")}`
+						: Renderer.get().render(`{@i Elige ${count}:} ${chObj.from.map(it => getRenderedSkill(it)).joinConjunct(", ", " o ")}`);
 				}
 			}
 

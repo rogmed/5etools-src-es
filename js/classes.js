@@ -1198,9 +1198,9 @@ class ClassesPage extends MixinComponentGlobalState(MixinBaseComponent(MixinProx
 				${$tblGroupHeaders}
 			</tr>
 			<tr>
-				<th class="cls-tbl__col-level">Level</th>
-				<th class="cls-tbl__col-prof-bonus">Proficiency Bonus</th>
-				<th class="ve-text-left">Features</th>
+				<th class="cls-tbl__col-level">Nivel</th>
+				<th class="cls-tbl__col-prof-bonus">Bon. por competencia</th>
+				<th class="ve-text-left">Rasgo de clase</th>
 				${$tblHeaders}
 			</tr>
 			${metasTblRows.map(it => it.$row)}

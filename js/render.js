@@ -6704,17 +6704,17 @@ Renderer.class = class {
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
 
 		const [profsArmor, profsOther] = armorProfs
-			.segregate(it => ["light", "medium", "heavy"].includes(it));
+			.segregate(it => ["ligera", "media", "pesada"].includes(it));
 
 		const ptsArmor = profsArmor
-			.map((a, i, arr) => Renderer.get().render(`{@filter ${styleHint === "classic" ? a : a.toTitleCase()}${styleHint === "classic" || i === arr.length - 1 ? " armor" : ""}|items|type=${a} armor}`));
+			.map((a, i, arr) => Renderer.get().render(`{@filter ${i === 0 ? "Armaduras" : ""} ${a}s|items|type=${a} armor}`));
 
 		const ptsOther = profsOther
 			.map(a => {
 				if (a.full) return Renderer.get().render(a.full);
-				if (a === "shield") {
-					if (styleHint === "classic") Renderer.get().render(`{@item shield|PHB|shields}`);
-					return Renderer.get().render(`{@item shield|XPHB|Shields}`);
+				if (a === "escudo") {
+					if (styleHint === "classic") Renderer.get().render(`{@item shield|PHB|escudos}`);
+					return Renderer.get().render(`{@item shield|XPHB|escudos}`);
 				}
 				return Renderer.get().render(a);
 			});
@@ -6728,11 +6728,11 @@ Renderer.class = class {
 		}
 
 		return [
-			ptsArmor.joinConjunct(", ", " and "),
+			ptsArmor.joinConjunct(", ", " y "),
 			...ptsOther,
 		]
 			.filter(Boolean)
-			.joinConjunct(", ", " and ");
+			.joinConjunct(", ", " y ");
 	}
 
 	/**
@@ -6743,10 +6743,10 @@ Renderer.class = class {
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
 
 		const [profsSimpleMartial, profsOther] = weaponProfs
-			.segregate(it => ["simple", "martial"].includes(it));
+			.segregate(it => ["sencillas", "marciales"].includes(it));
 
 		const ptsSimpleMartial = profsSimpleMartial
-			.map((w, i, arr) => Renderer.get().render(`{@filter ${styleHint === "classic" ? w : w.toTitleCase()}${styleHint === "classic" || i === arr.length - 1 ? " weapons" : ""}|items|type=${w} weapon}`));
+			.map((w, i, arr) => Renderer.get().render(`{@filter ${styleHint === "classic" ? w : w.toTitleCase()}|items|type=${w} weapon}`));
 
 		const ptsOther = profsOther
 			.map(w => {
@@ -6759,7 +6759,7 @@ Renderer.class = class {
 			...ptsOther,
 		];
 
-		return styleHint === "classic" ? pts.join(", ") : pts.joinConjunct(", ", " and ");
+		return styleHint === "classic" ? pts.join(", ") : pts.joinConjunct(", ", " y ");
 	}
 
 	/**
@@ -6795,7 +6795,7 @@ Renderer.class = class {
 			})
 			.joinConjunct(", ", " o ");
 
-		return `<div><b>Primary Ability:</b> <span>${pts}</span></div>`;
+		return `<div><b>Característica principal:</b> <span>${pts}</span></div>`;
 	}
 
 	static getHtmlPtHitPoints (cls, {renderer = null, styleHint = null}) {
@@ -6804,15 +6804,13 @@ Renderer.class = class {
 		renderer ||= Renderer.get();
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
 
-		return `<div><strong>Hit Point Die:</strong> ${renderer.render(Renderer.class.getHitDiceEntry(cls.hd, {styleHint}))} per ${cls.name} level</div>
-		<div><strong>Hit Points at Level 1:</strong> ${Renderer.class.getHitPointsAtFirstLevel(cls.hd, {styleHint})}</div>
-		<div><strong>Hit Points per additional ${cls.name} Level:</strong> ${Renderer.class.getHitPointsAtHigherLevels(cls.name, cls.hd, {styleHint})}</div>`;
+		return `<div><strong>Dado de puntos de golpe:</strong> ${renderer.render(Renderer.class.getHitDiceEntry(cls.hd, {styleHint}))} por nivel de ${cls.name}</div>`;
 	}
 
 	static getHtmlPtSavingThrows (cls) {
 		if (!cls.proficiency) return "";
 
-		return `<div><b>Saving Throw Proficiencies:</b> <span>${cls.proficiency.map(p => Parser.attAbvToFull(p)).join(", ")}</span></div>`;
+		return `<div><b>Competencias en tiradas de salvación:</b> <span>${cls.proficiency.map(p => Parser.attAbvToFull(p)).join(", ")}</span></div>`;
 	}
 
 	static getHtmlPtSkills (cls, {styleHint = null}) {
@@ -6820,7 +6818,7 @@ Renderer.class = class {
 
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
 
-		return `<div><b>Skill Proficiencies:</b> <span>${Renderer.class.getRenderedSkillProfs(cls.startingProficiencies.skills, {styleHint})}</span></div>`;
+		return `<div><b>Competencias en habilidades:</b> <span>${Renderer.class.getRenderedSkillProfs(cls.startingProficiencies.skills, {styleHint})}</span></div>`;
 	}
 
 	static getHtmlPtWeaponProficiencies (cls, {styleHint = null}) {
@@ -6828,7 +6826,7 @@ Renderer.class = class {
 
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
 
-		return `<div><b>Weapon Proficiencies:</b> <span>${Renderer.class.getRenderedWeaponProfs(cls.startingProficiencies.weapons, {styleHint})}</span></div>`;
+		return `<div><b>Competencias con armas:</b> <span>${Renderer.class.getRenderedWeaponProfs(cls.startingProficiencies.weapons, {styleHint})}</span></div>`;
 	}
 
 	static getHtmlPtToolProficiencies (cls, {styleHint = null}) {
@@ -6844,7 +6842,7 @@ Renderer.class = class {
 
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
 
-		return `<div><b>Armor Training:</b> <span>${Renderer.class.getRenderedArmorProfs(cls.startingProficiencies.armor, {styleHint})}</span></div>`;
+		return `<div><b>Entrenamiento con armaduras:</b> <span>${Renderer.class.getRenderedArmorProfs(cls.startingProficiencies.armor, {styleHint})}</span></div>`;
 	}
 
 	static getHtmlPtStartingEquipment (cls, {renderer = null, styleHint = null}) {
@@ -6882,7 +6880,7 @@ Renderer.class = class {
 		return renderer.render({
 			type: "entries",
 			entries: [
-				`{@b Starting Equipment:} ${firstEntry}`,
+				`{@b Equipo inicial:} ${firstEntry}`,
 				...otherEntries,
 			],
 		});

@@ -99,7 +99,10 @@
 			],
 			"startingProficiencies": {
 				"weapons": [
-					"simple"
+					"sencillas"
+				],
+				"armor": [
+					"Ninguna"
 				],
 				"skills": [
 					{

@@ -10627,7 +10627,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Draconic Resilience",
+			"name": "Resistencia dracónica",
 			"source": "PHB",
 			"className": "Hechicero",
 			"classSource": "PHB",
@@ -10678,7 +10678,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Dragon Wings",
+			"name": "Alas de dragón",
 			"source": "PHB",
 			"className": "Hechicero",
 			"classSource": "PHB",
@@ -20466,7 +20466,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Draconic Resilience",
+			"name": "Resistencia dracónica",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
@@ -20475,7 +20475,7 @@
 			"level": 3,
 			"effects": [
 				{
-					"name": "Draconic Resilience: Armor",
+					"name": "Resistencia dracónica: Armor",
 					"transfer": true,
 					"changes": [
 						{
@@ -20486,7 +20486,7 @@
 					]
 				},
 				{
-					"name": "Draconic Resilience: HP",
+					"name": "Resistencia dracónica: HP",
 					"transfer": true,
 					"changes": [
 						{
@@ -20500,7 +20500,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Elemental Affinity",
+			"name": "Afinidad elemental",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
@@ -20627,7 +20627,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Dragon Wings",
+			"name": "Alas de dragón",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
@@ -20636,7 +20636,7 @@
 			"level": 14,
 			"activities": [
 				{
-					"name": "Dragon Wings",
+					"name": "Alas de dragón",
 					"type": "utility",
 					"activation": {
 						"type": "bonus"
@@ -20711,7 +20711,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Dragon Companion",
+			"name": "Compañero dragón",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",

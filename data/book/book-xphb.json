@@ -6036,7 +6036,7 @@
 									"page": 44,
 									"id": "111",
 									"entries": [
-										"If you have multiple ways to calculate your {@variantrule Armor Class|XPHB}, you can benefit from only one at a time. For example, a Monk/Hechicero with a Monk's Unarmored Defense feature and a Hechicero's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class."
+										"If you have multiple ways to calculate your {@variantrule Armor Class|XPHB}, you can benefit from only one at a time. For example, a Monk/Hechicero with a Monk's Unarmored Defense feature and a Hechicero's Resistencia dracónica feature must choose only one of those features as a way to calculate Armor Class."
 									]
 								},
 								{
@@ -13052,7 +13052,7 @@
 								"{@spell Sleep|XPHB}",
 								"{@spell Sleet Storm|XPHB}",
 								"{@spell Slow|XPHB}",
-								"{@spell Sorcerous Burst|XPHB}",
+								"{@spell Estallido mágico|XPHB}",
 								"{@spell Spare the Dying|XPHB}",
 								"{@spell Speak with Animals|XPHB}",
 								"{@spell Speak with Dead|XPHB}",

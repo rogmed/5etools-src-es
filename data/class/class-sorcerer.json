@@ -669,8 +669,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Draconic Sorcery",
-			"shortName": "Draconic",
+			"name": "Hechicería dracónica",
+			"shortName": "Dracónica",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
@@ -703,10 +703,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Draconic Sorcery|Hechicero|XPHB|Draconic|XPHB|3",
-				"Elemental Affinity|Hechicero|XPHB|Draconic|XPHB|6",
-				"Dragon Wings|Hechicero|XPHB|Draconic|XPHB|14",
-				"Dragon Companion|Hechicero|XPHB|Draconic|XPHB|18"
+				"Hechicería dracónica|Hechicero|XPHB|Dracónica|XPHB|3",
+				"Afinidad elemental|Hechicero|XPHB|Dracónica|XPHB|6",
+				"Alas de dragón|Hechicero|XPHB|Dracónica|XPHB|14",
+				"Compañero dragón|Hechicero|XPHB|Dracónica|XPHB|18"
 			],
 			"hasFluffImages": true
 		},
@@ -1564,49 +1564,49 @@
 			]
 		},
 		{
-			"name": "Draconic Sorcery",
+			"name": "Hechicería dracónica",
 			"source": "XPHB",
-			"page": 148,
+			"page": 133,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Draconic",
+			"subclassShortName": "Dracónica",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Breathe the Magic of Dragons}",
-				"Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons' power. Or perhaps you handled a treasure taken from a dragon's hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.",
+				"{@i Exhala la magia de los dragones}",
+				"Tu magia innata proviene de un regalo dracónico. Tal vez un dragón anciano a punto de morir te transfiriera parte de su poder mágico a ti o a un antepasado tuyo. Puede que hayas absorbido magia de un lugar impregnado con poder dracónico, manipulado un tesoro de un dragón impregnado de su poder o quizá uno de tus antecesores fuera un dragón.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Draconic Resilience|Hechicero|XPHB|Draconic|XPHB|3"
+					"subclassFeature": "Resistencia dracónica|Hechicero|XPHB|Dracónica|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Draconic Spells|Hechicero|XPHB|Draconic|XPHB|3"
+					"subclassFeature": "Conjuros dracónicos|Hechicero|XPHB|Dracónica|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Draconic Spells",
+			"name": "Conjuros dracónicos",
 			"source": "XPHB",
-			"page": 148,
+			"page": 133,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Draconic",
+			"subclassShortName": "Dracónica",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Hechicero level specified in the Draconic Spells table, you thereafter always have the listed spells prepared.",
+				"Cuando alcances un nivel de hechicero especificado en la tabla “Conjuros dracónicos”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Draconic Spells",
+					"caption": "Conjuros dracónicos",
 					"colLabels": [
-						"Hechicero Level",
-						"Spells"
+						"Nivel de hechicero",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1614,19 +1614,19 @@
 					],
 					"rows": [
 						[
-							"3rd",
+							"3",
 							"{@spell Alter Self|XPHB}, {@spell Chromatic Orb|XPHB}, {@spell Command|XPHB}, {@spell Dragon's Breath|XPHB}"
 						],
 						[
-							"5th",
+							"5",
 							"{@spell Fear|XPHB}, {@spell Fly|XPHB}"
 						],
 						[
-							"7th",
+							"7",
 							"{@spell Arcane Eye|XPHB}, {@spell Charm Monster|XPHB}"
 						],
 						[
-							"9th",
+							"9",
 							"{@spell Legend Lore|XPHB}, {@spell Summon Dragon|XPHB}"
 						]
 					]
@@ -1634,48 +1634,48 @@
 			]
 		},
 		{
-			"name": "Draconic Resilience",
+			"name": "Resistencia dracónica",
 			"source": "XPHB",
-			"page": 148,
+			"page": 134,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Draconic",
+			"subclassShortName": "Dracónica",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"The magic in your body manifests physical traits of your draconic gift. Your {@variantrule Hit Points|XPHB|Hit Point} maximum increases by 3, and it increases by 1 whenever you gain another Hechicero level.",
-				"Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base {@variantrule Armor Class|XPHB} equals 10 plus your Dexterity and Charisma modifiers."
+				"La magia de tu cuerpo manifiesta tu don dracónico de forma física. Tus puntos de golpe máximos aumentan en 3 y en 1 más por cada nivel de hechicero que subas en el futuro.",
+				"Además, partes de tu cuerpo se cubren de escamas similares a las de los dragones. Mientras no lleves armadura, tu clase de armadura base será igual a 10 más tus modificadores por Destreza y Carisma."
 			]
 		},
 		{
-			"name": "Elemental Affinity",
+			"name": "Afinidad elemental",
 			"source": "XPHB",
-			"page": 148,
+			"page": 134,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Draconic",
+			"subclassShortName": "Dracónica",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.",
-				"You have {@variantrule Resistance|XPHB} to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell."
+				"Tu magia dracónica tiene afinidad con un tipo de daño asociado a los dragones. Elige uno de estos tipos: ácido, frío, fuego, relámpago o veneno.",
+				"Tienes resistencia a ese tipo de daño. Además, cuando lances un conjuro que inflija daño de ese tipo, puedes sumar tu modificador por Carisma a una tirada de daño del conjuro."
 			]
 		},
 		{
-			"name": "Dragon Wings",
+			"name": "Alas de dragón",
 			"source": "XPHB",
-			"page": 148,
+			"page": 134,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Draconic",
+			"subclassShortName": "Dracónica",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
@@ -1684,25 +1684,25 @@
 				"amount": 3
 			},
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a {@variantrule Fly Speed|XPHB} of 60 feet.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB} unless you spend 3 Sorcery Points (no action required) to restore your use of it."
+				"Como acción adicional, puedes hacer que te crezcan alas dracónicas de la espalda. Las alas permanecen 1 hora O hasta que las hagas desaparecer (no requiere acción). Mientras dure el efecto, tienes una velocidad volando de 60 pies (18 m).",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes 3 puntos de hechicería (no requiere acción) para restablecer su uso."
 			]
 		},
 		{
-			"name": "Dragon Companion",
+			"name": "Compañero dragón",
 			"source": "XPHB",
-			"page": 148,
+			"page": 134,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Draconic",
+			"subclassShortName": "Dracónica",
 			"subclassSource": "XPHB",
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"You can cast {@spell Summon Dragon|XPHB} without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a {@variantrule Long Rest|XPHB}.",
-				"Whenever you start casting the spell, you can modify it so that it doesn't require {@status Concentration|XPHB}. If you do so, the spell's duration becomes 1 minute for that casting."
+				"Puedes lanzar {@spell Invocar dragón|XPHB} sin ningún componente material. También puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo de esta forma tras finalizar un descanso largo.",
+				"Cuando empieces a lanzar el conjuro, puedes modificarlo para que no requiera {@status Concentración|XPHB}. Si lo haces, la duración del conjuro es de 1 minuto para ese lanzamiento."
 			]
 		},
 		{

@@ -8275,7 +8275,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Draconic Sorcery",
+									"name": "Hechicería dracónica",
 									"entry": "You know one {@filter cantrip of your choice from the hechicero spell list|spells|level=0|class=Hechicero}. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip (choose when you select this race)."
 								}
 							],

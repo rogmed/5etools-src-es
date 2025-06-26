@@ -140,7 +140,7 @@
 												},
 												{
 													"type": "entries",
-													"name": "Draconic Resilience (Hechicero)",
+													"name": "Resistencia dracónica (Hechicero)",
 													"id": "011",
 													"entries": [
 														"13 + your Dexterity modifier."
@@ -152,7 +152,7 @@
 													"id": "012",
 													"entries": [
 														"10 + your Dexterity modifier + your natural armor bonus. This is a calculation method typically used only by monsters and NPCs, although it is also relevant to a druid or another character who assumes a form that has natural armor.",
-														"These methods\u2014along with any others that give you a formula for calculating your AC\u2014are mutually exclusive; you can benefit from only one at a time. If you have access to more than one, you pick which one to use. For example, if you're a hechicero/monk, you can use either Unarmored Defense or Draconic Resilience, not both. Similarly, a druid/ barbarian who transforms into a beast form that has natural armor can use either the beast's natural armor or Unarmored Defense (you aren't considered to be wearing armor when you use natural armor).",
+														"These methods\u2014along with any others that give you a formula for calculating your AC\u2014are mutually exclusive; you can benefit from only one at a time. If you have access to more than one, you pick which one to use. For example, if you're a hechicero/monk, you can use either Unarmored Defense or Resistencia dracónica, not both. Similarly, a druid/ barbarian who transforms into a beast form that has natural armor can use either the beast's natural armor or Unarmored Defense (you aren't considered to be wearing armor when you use natural armor).",
 														"What about a shield? A shield increases your AC by 2 while you use it. For example, if you're unarmored and use a shield, your AC is 12 + your Dexterity modifier. Keep in mind that some AC calculations, such as a monk's Unarmored Defense, prohibit the use of a shield.",
 														"Once you have your base AC, it can be temporarily modified by situational bonuses and penalties. For instance, having half cover gives you a +2 bonus to your AC, and three-quarters cover gives a +5 bonus. Spells sometimes modify AC as well. {@spell Shield of faith}, for example, grants a target a +2 bonus to AC until the spell ends.",
 														"Magic items can also enhance your AC. Here are a few examples: {@item +1 chain mail} gives you an AC of 17, a {@item ring of protection} gives you a +1 bonus to AC no matter what you're wearing, and {@item bracers of defense} grant you a +2 bonus to AC if you're not wearing armor or using a shield."
@@ -761,10 +761,10 @@
 										},
 										{
 											"type": "entries",
-											"name": "Elemental Affinity improves one damage roll of a spell, not multiple rolls? So with scorching ray, I don't add my Charisma modifier to each ray that hits?",
+											"name": "Afinidad elemental improves one damage roll of a spell, not multiple rolls? So with scorching ray, I don't add my Charisma modifier to each ray that hits?",
 											"id": "052",
 											"entries": [
-												"That's correct. Elemental Affinity benefits one damage roll per casting of a spell, even if the spell allows more than one roll. So, for example, the feature improves one of the rays of a {@spell scorching ray} spell or one of the beams of an {@spell eldritch blast} spell."
+												"That's correct. Afinidad elemental benefits one damage roll per casting of a spell, even if the spell allows more than one roll. So, for example, the feature improves one of the rays of a {@spell scorching ray} spell or one of the beams of an {@spell eldritch blast} spell."
 											]
 										},
 										{

@@ -17407,9 +17407,10 @@
 			]
 		},
 		{
-			"name": "Sorcerous Burst",
+			"name": "Estallido mágico",
+			"originalname": "Sorcerous Burst",
 			"source": "XPHB",
-			"page": 318,
+			"page": 281,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -17423,7 +17424,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -17437,15 +17438,15 @@
 				}
 			],
 			"entries": [
-				"You cast sorcerous energy at one creature or object within range. Make a ranged attack roll against the target. On a hit, the target takes {@damage 1d8} damage of a type you choose: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.",
-				"If you roll an 8 on a {@dice d8} for this spell, you can roll another {@dice d8}, and add it to the damage. When you cast this spell, the maximum number of these d8s you can add to the spell's damage equals your spellcasting ability modifier."
+				"Lanzas energía mágica contra una criatura u objeto dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibe {@damage 1d8} de daño del tipo que elijas: ácido, frío, fuego, psíquico, relámpago, trueno o veneno.",
+				"Si sacas un 8 en un {@dice d8} con este conjuro, puedes tirar otro {@dice d8} y sumarlo al daño. Cuando lances este conjuro, la cantidad máxima de d8 que puedes sumar al daño del conjuro es igual a tu modificador por aptitud mágica."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d8} when you reach levels 5 ({@damage 2d8}), 11 ({@damage 3d8}), and 17 ({@damage 4d8})."
+						"El daño aumenta en {@damage 1d8} cuando alcanzas los niveles 5 ({@damage 2d8}), 11 ({@damage 3d8}) y 17 ({@damage 4d8})."
 					]
 				}
 			],

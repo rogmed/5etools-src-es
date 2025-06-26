@@ -10723,7 +10723,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Telepathic Speech",
+			"name": "Habla telepática",
 			"source": "TCE",
 			"className": "Hechicero",
 			"classSource": "PHB",
@@ -10748,7 +10748,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Warping Implosion",
+			"name": "Implosión deformadora",
 			"source": "TCE",
 			"className": "Hechicero",
 			"classSource": "PHB",
@@ -19939,16 +19939,16 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Telepathic Speech",
+			"name": "Habla telepática",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
 				{
-					"name": "Telepathic Speech",
+					"name": "Habla telepática",
 					"type": "utility",
 					"activation": {
 						"type": "bonus"
@@ -19973,11 +19973,11 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Psionic Sorcery",
+			"name": "Hechicería psionica",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"activities": [
@@ -20009,11 +20009,11 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Psychic Defenses",
+			"name": "Defensas psíquicas",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"entryData": {
@@ -20024,11 +20024,11 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Revelation in Flesh",
+			"name": "Revelación en carne",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"activities": [
@@ -20128,16 +20128,16 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Warping Implosion",
+			"name": "Implosión deformadora",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 18,
 			"activities": [
 				{
-					"name": "Warping Implosion",
+					"name": "Implosión deformadora",
 					"type": "save",
 					"activation": {
 						"type": "action"

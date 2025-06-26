@@ -6717,7 +6717,7 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Hechicero|XPHB|Aberrant Sorcery|Aberrant|XPHB} to use strange psionic magic.",
+												"{@class Hechicero|XPHB|Hechicería aberrante|Aberrante|XPHB} to use strange psionic magic.",
 												"{@class Hechicero|XPHB|Clockwork Sorcery|Clockwork|XPHB} to harness cosmic forces of order.",
 												"{@class Hechicero|XPHB|Draconic Sorcery|Draconic|XPHB} to breathe the magic of dragons.",
 												"{@class Hechicero|XPHB|Wild Magic Sorcery|Wild Magic|XPHB} to unleash chaos magic."

@@ -9,7 +9,7 @@
 		{
 			"name": "Hechicero",
 			"source": "XPHB",
-			"page": 138,
+			"page": 123,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
@@ -587,12 +587,12 @@
 	],
 	"subclass": [
 		{
-			"name": "Aberrant Sorcery",
-			"shortName": "Aberrant",
+			"name": "Hechicería aberrante",
+			"shortName": "Aberrante",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"page": 145,
+			"page": 129,
 			"edition": "one",
 			"additionalSpells": [
 				{
@@ -620,11 +620,11 @@
 				}
 			],
 			"subclassFeatures": [
-				"Aberrant Sorcery|Hechicero|XPHB|Aberrant|XPHB|3",
-				"Psionic Sorcery|Hechicero|XPHB|Aberrant|XPHB|6",
-				"Psychic Defenses|Hechicero|XPHB|Aberrant|XPHB|6",
-				"Revelation in Flesh|Hechicero|XPHB|Aberrant|XPHB|14",
-				"Warping Implosion|Hechicero|XPHB|Aberrant|XPHB|18"
+				"Hechicería aberrante|Hechicero|XPHB|Aberrante|XPHB|3",
+				"Hechicería psionica|Hechicero|XPHB|Aberrante|XPHB|6",
+				"Defensas psíquicas|Hechicero|XPHB|Aberrante|XPHB|6",
+				"Revelación en carne|Hechicero|XPHB|Aberrante|XPHB|14",
+				"Implosión deformadora|Hechicero|XPHB|Aberrante|XPHB|18"
 			],
 			"hasFluffImages": true
 		},
@@ -1185,46 +1185,46 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Aberrant Sorcery",
+			"name": "Hechicería aberrante",
 			"source": "XPHB",
-			"page": 145,
+			"page": 129,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Wield Unnatural Psionic Power}",
-				"An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you. Will this power shine from you as a hopeful beacon to others? Or will you be a terror to those who feel the stab of your mind?",
-				"Perhaps a psychic wind from the Astral Plane carried psionic energy to you, or you were exposed to the Far Realm's warping influence. Alternatively, you were implanted with a mind flayer tadpole, but your transformation into a mind flayer never occurred; now the tadpole's psionic power is yours. However you acquired this power, your mind is aflame with it.",
+				"{@i Emplea un poder psiónico antinatural}",
+				"Una influencia alienígena ha atrapado tu mente entre sus zarcillos, otorgándote poder psiónico. Ahora puedes tocar otras mentes con ese poder y alterar el mundo que te rodea. ¿Conseguirás que este poder brille como una baliza de esperanza que marque el camino a los demás? ¿O sembrarás el terror entre quienes sientan la puñalada de tu mente?",
+				"Quizá un viento psíquico del Plano Astral te insufló energía psiónica o sufriste una exposición a la influencia distorsionadora del Reino Lejano. Otra opción es que te implantaran un renacuajo de azotamentes, pero la ceremorfosis nunca llegó a completarse y ahora su poder psiónico es tuyo. Sea cual sea el origen de este poder, tu mente arde con él.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Spells|Hechicero|XPHB|Aberrant|XPHB|3"
+					"subclassFeature": "Conjuros psiónicos|Hechicero|XPHB|Aberrante|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Telepathic Speech|Hechicero|XPHB|Aberrant|XPHB|3"
+					"subclassFeature": "Habla telepática|Hechicero|XPHB|Aberrante|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Psionic Spells",
+			"name": "Conjuros psiónicos",
 			"source": "XPHB",
-			"page": 145,
+			"page": 129,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Hechicero level specified in the Psionic Spells table, you thereafter always have the listed spells prepared.",
+				"Cuando alcances un nivel de hechicero especificado en la tabla “Conjuros psiónicos”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Psionic Spells",
+					"caption": "Conjuros psiónicos",
 					"colLabels": [
-						"Hechicero Level",
-						"Spells"
+						"Nivel de hechicero",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1232,19 +1232,19 @@
 					],
 					"rows": [
 						[
-							"3rd",
+							"3",
 							"{@spell Arms of Hadar|XPHB}, {@spell Calm Emotions|XPHB}, {@spell Detect Thoughts|XPHB}, {@spell Dissonant Whispers|XPHB}, {@spell Mind Sliver|XPHB}"
 						],
 						[
-							"5th",
+							"5",
 							"{@spell Hunger of Hadar|XPHB}, {@spell Sending|XPHB}"
 						],
 						[
-							"7th",
+							"7",
 							"{@spell Evard's Black Tentacles|XPHB}, {@spell Summon Aberration|XPHB}"
 						],
 						[
-							"9th",
+							"9",
 							"{@spell Rary's Telepathic Bond|XPHB}, {@spell Telekinesis|XPHB}"
 						]
 					]
@@ -1252,89 +1252,89 @@
 			]
 		},
 		{
-			"name": "Telepathic Speech",
+			"name": "Habla telepática",
 			"source": "XPHB",
-			"page": 145,
+			"page": 129,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can form a telepathic connection between your mind and the mind of another. As a {@variantrule Bonus Action|XPHB}, choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.",
-				"The telepathic connection lasts for a number of minutes equal to your Hechicero level. It ends early if you use this ability to form a connection with a different creature."
+				"Puedes establecer una conexión telepática con la mente de otra criatura. Como acción adicional, elige una criatura que puedas ver a 9 m o menos de ti. La criatura elegida y tú podréis comunicaros telepáticamente mientras estéis a una distancia máxima igual a 1 milla (1,5 km) x tu modificador por Carisma (mínimo de 1 milla (1,5 km)). Para entenderos, debéis emplear mentalmente un idioma que ambos conozcáis.",
+				"La conexión telepática dura un número de minutos igual a tu nivel de hechicero. Terminará antes de tiempo si usas esta capacidad para establecer una conexión con otra criatura."
 			]
 		},
 		{
-			"name": "Psionic Sorcery",
+			"name": "Hechicería psionica",
 			"source": "XPHB",
-			"page": 146,
+			"page": 130,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell's level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it."
+				"Cuando lanzas cualquier conjuro de nivel 1 o superior de tu rasgo Conjuros psiónicos, puedes hacerlo gastando un espacio de conjuro de la forma normal o gastando una cantidad de puntos de hechicería igual al nivel del conjuro. Si lanzas el conjuro usando puntos de hechicería, no requerirá componentes verbales ni somáticos, ni tampoco componentes materiales, a menos que se consuman como parte del conjuro o que tengan un coste especificado en él."
 			]
 		},
 		{
-			"name": "Psychic Defenses",
+			"name": "Defensas psíquicas",
 			"source": "XPHB",
-			"page": 146,
+			"page": 130,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You have {@variantrule Resistance|XPHB} to Psychic damage, and you have {@variantrule Advantage|XPHB} on saving throws to avoid or end the {@condition Charmed|XPHB} or {@condition Frightened|XPHB} condition."
+				"Tienes resistencia al daño psíquico y ventaja en las tiradas de salvación para evitar o poner fin a los estados de {@condition Asustado|XPHB} o {@condition Hechizado|XPHB}."
 			]
 		},
 		{
-			"name": "Revelation in Flesh",
+			"name": "Revelación en carne",
 			"source": "XPHB",
-			"page": 146,
+			"page": 130,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"You can unleash the aberrant truth hidden within yourself. As a {@variantrule Bonus Action|XPHB}, you can spend 1 Sorcery Point or more to magically alter your body for 10 minutes. For each Sorcery Point you spend, you gain one of the following benefits of your choice, the effects of which last until the alteration ends.",
+				"Puedes desatar la aberrante verdad que se esconde en tu interior. Como acción adicional, puedes gastar 1 o más puntos de hechicería para alterar mágicamente tu cuerpo durante 10 minutos. Por cada punto de hechicería que gastes, obtienes uno de los siguientes beneficios, a tu elección, y sus efectos duran hasta que la alteración finalice.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Aquatic Adaptation",
+							"name": "Adaptación acuática",
 							"entries": [
-								"You gain a {@variantrule Swim Speed|XPHB} equal to twice your {@variantrule Speed|XPHB}, and you can breathe underwater. Gills grow from your neck or flare behind your ears, and your fingers become webbed or you grow wriggling cilia."
+								"Obtienes una velocidad nadando igual al doble de tu velocidad y puedes respirar bajo el agua. Te crecen branquias en el cuello o se te despliegan tras las orejas, y te salen membranas entre los dedos o te brotan cilios que se retuercen."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Glistening Flight",
+							"name": "Movimiento anélido",
 							"entries": [
-								"You gain a {@variantrule Fly Speed|XPHB} equal to your {@variantrule Speed|XPHB}, and you can hover. As you fly, your skin glistens with mucus or otherworldly light."
+								"Tu cuerpo, junto con cualquier equipo que vistas o lleves contigo, se vuelve baboso y maleable. Puedes colarte por cualquier espacio hasta de 2,5 cm de ancho y puedes gastar 5 pies (1,5 m) de movimiento para escapar de limitaciones no mágicas o del estado de {@condition Agarrado|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "See the Invisible",
+							"name": "Ver lo invisible",
 							"entries": [
-								"You can see any {@condition Invisible|XPHB} creature within 60 feet of yourself that isn't behind {@variantrule Cover|XPHB|Total Cover}. Your eyes also turn black or become writhing sensory tendrils."
+								"Puedes ver a cualquier criatura {@condition Invisible|XPHB} que esté a 60 pies (18 m) o menos de ti que no esté tras una cobertura completa. Además, tus ojos se vuelven negros o se convierten en zarcillos sensoriales serpenteantes."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Wormlike Movement",
+							"name": "Vuelo brillante",
 							"entries": [
-								"Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch, and you can spend 5 feet of movement to escape from nonmagical restraints or the {@condition Grappled|XPHB} condition."
+								"Obtienes una velocidad volando igual a tu velocidad y puedes levitar. Cuando vuelas, tu piel resplandece recubierta de mucosa o luz espectral."
 							]
 						}
 					]
@@ -1342,22 +1342,22 @@
 			]
 		},
 		{
-			"name": "Warping Implosion",
+			"name": "Implosión deformadora",
 			"source": "XPHB",
 			"page": 146,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Aberrant",
+			"subclassShortName": "Aberrante",
 			"subclassSource": "XPHB",
 			"level": 18,
 			"header": 2,
 			"consumes": {
-				"name": "Sorcery Point",
+				"name": "Punto de hechicería",
 				"amount": 5
 			},
 			"entries": [
-				"You can unleash a space-warping anomaly. As a {@action Magic|XPHB} action, you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes {@damage 3d10} Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB} unless you spend 5 Sorcery Points (no action required) to restore your use of it."
+				"Puedes desencadenar una anomalía que distorsiona el espacio. Como acción de magia, te teletransportas a un espacio sin ocupar que puedas ver a 120 pies (36 m) o menos de ti. Inmediatamente después de que desaparezcas, cada criatura que esté a 30 pies (9 m) o menos del espacio que hayas abandonado deberá realizar una tirada de salvación de Fuerza contra tu CD de salvación de conjuros. Si la falla, recibirá {@damage 3d10} de daño de fuerza y será arrastrada directamente al espacio que hayas abandonado, acabando en un espacio sin ocupar lo más cercano posible a tu espacio anterior. Si la supera, solo sufrirá la mitad de ese daño.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes 5 puntos de hechicería (no requiere acción) para restablecer su uso."
 			]
 		},
 		{

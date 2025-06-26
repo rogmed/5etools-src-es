@@ -7168,6 +7168,7 @@ class _RenderCompactSpellsImplBase extends _RenderCompactImplBase {
 		const {
 			htmlPtIsExcluded,
 			htmlPtName,
+			htmlPtOriginalName,
 
 			htmlPtLevelSchoolRitual,
 
@@ -7299,6 +7300,10 @@ Renderer.spell = class {
 	}
 
 	/* -------------------------------------------- */
+		static getHtmlPtOriginalName (spell, {styleHint = null} = {}) {
+		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
+		return `${spell.originalname ? spell.originalname : ""}`;
+	}
 
 	static getHtmlPtLevelSchoolRitual (spell, {styleHint = null} = {}) {
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");

@@ -105,6 +105,8 @@ class _RenderSpellsImplBase extends RenderPageImplBase {
 		return {
 			...super._getCommonHtmlParts({ent, renderer, opts}),
 
+			htmlPtOriginalName: this._getCommonHtmlParts_originalName({ent}),
+
 			htmlPtLevelSchoolRitual: this._getCommonHtmlParts_levelSchoolRitual({ent}),
 
 			htmlPtCastingTime: this._getCommonHtmlParts_castingTime({ent}),
@@ -118,6 +120,10 @@ class _RenderSpellsImplBase extends RenderPageImplBase {
 	}
 
 	/* ----- */
+
+	_getCommonHtmlParts_originalName ({ent}) {
+		return `<tr><td style="font-size:95%; color:grey" colspan="6">${Renderer.spell.getHtmlPtOriginalName(ent, {styleHint: this._style})}</td></tr>`;
+	}
 
 	_getCommonHtmlParts_levelSchoolRitual ({ent}) {
 		return `<tr><td colspan="6">${Renderer.spell.getHtmlPtLevelSchoolRitual(ent, {styleHint: this._style})}</td></tr>`;
@@ -237,6 +243,7 @@ class _RenderSpellsImplClassic extends _RenderSpellsImplBase {
 		const {
 			htmlPtIsExcluded,
 			htmlPtName,
+			htmlPtOriginalName,
 
 			htmlPtLevelSchoolRitual,
 
@@ -260,6 +267,7 @@ class _RenderSpellsImplClassic extends _RenderSpellsImplBase {
 
 			${htmlPtIsExcluded}
 			${htmlPtName}
+			${htmlPtOriginalName}
 
 			${htmlPtLevelSchoolRitual}
 
@@ -290,6 +298,7 @@ class _RenderSpellsImplOne extends _RenderSpellsImplBase {
 		const {
 			htmlPtIsExcluded,
 			htmlPtName,
+			htmlPtOriginalName,
 
 			htmlPtLevelSchoolRitual,
 
@@ -313,6 +322,7 @@ class _RenderSpellsImplOne extends _RenderSpellsImplBase {
 
 			${htmlPtIsExcluded}
 			${htmlPtName}
+			${htmlPtOriginalName}
 
 			${htmlPtLevelSchoolRitual}
 

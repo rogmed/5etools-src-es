@@ -2246,7 +2246,7 @@
 			],
 			"trait": [
 				{
-					"name": "Empowered Spell (3/Day)",
+					"name": "Conjuro potenciado (3/Day)",
 					"entries": [
 						"When the blastseeker rolls damage for a spell, it can reroll up to four dice of damage. It must use the new dice."
 					]

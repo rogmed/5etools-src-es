@@ -12417,8 +12417,8 @@ Renderer.item = class {
 				if (item.scfType === "arcane" && item.source !== Parser.SRC_ERLW) {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
-						? "An arcane focus is a special item\u2014an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item\u2014designed to channel the power of arcane spells. A {@class sorcerer}, {@class warlock}, or {@class wizard} can use such an item as a spellcasting focus."
-						: "An Arcane Focus takes a specific form and is bejeweled or carved to channel arcane magic. A {@class Sorcerer|XPHB}, {@class Warlock|XPHB}, or {@class Wizard|XPHB} can use such an item as a {@variantrule Spellcasting Focus|XPHB}.";
+						? "An arcane focus is a special item\u2014an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item\u2014designed to channel the power of arcane spells. A {@class hechicero}, {@class warlock}, or {@class wizard} can use such an item as a spellcasting focus."
+						: "An Arcane Focus takes a specific form and is bejeweled or carved to channel arcane magic. A {@class Hechicero|XPHB}, {@class Warlock|XPHB}, or {@class Wizard|XPHB} can use such an item as a {@variantrule Spellcasting Focus|XPHB}.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 				if (item.scfType === "druid") {
@@ -12439,8 +12439,8 @@ Renderer.item = class {
 				if (item.scfType === "arcane") {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
-						? "An arcane focus is a special item designed to channel the power of arcane spells. A {@class sorcerer}, {@class warlock}, or {@class wizard} can use such an item as a spellcasting focus."
-						: "An Arcane Focus takes a specific form and is bejeweled or carved to channel arcane magic. A {@class Sorcerer|XPHB}, {@class Warlock|XPHB}, or {@class Wizard|XPHB} can use such an item as a {@variantrule Spellcasting Focus|XPHB}.";
+						? "An arcane focus is a special item designed to channel the power of arcane spells. A {@class hechicero}, {@class warlock}, or {@class wizard} can use such an item as a spellcasting focus."
+						: "An Arcane Focus takes a specific form and is bejeweled or carved to channel arcane magic. A {@class Hechicero|XPHB}, {@class Warlock|XPHB}, or {@class Wizard|XPHB} can use such an item as a {@variantrule Spellcasting Focus|XPHB}.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 				if (item.scfType === "druid") {

@@ -4155,7 +4155,7 @@
 											"Low"
 										],
 										[
-											"{@class Sorcerer|XPHB}",
+											"{@class Hechicero|XPHB}",
 											"Power",
 											"Charisma",
 											"High"
@@ -4203,7 +4203,7 @@
 												{
 													"type": "item",
 													"name": "Wizard:",
-													"entry": "Replace with {@class Bard|XPHB}, {@class Sorcerer|XPHB}, or {@class Warlock|XPHB}"
+													"entry": "Replace with {@class Bard|XPHB}, {@class Hechicero|XPHB}, or {@class Warlock|XPHB}"
 												}
 											]
 										}
@@ -4775,7 +4775,7 @@
 													"8"
 												],
 												[
-													"{@class Sorcerer|XPHB}",
+													"{@class Hechicero|XPHB}",
 													"10",
 													"13",
 													"14",
@@ -5511,7 +5511,7 @@
 															"8 + Con. modifier"
 														],
 														[
-															"{@class Sorcerer|XPHB} or {@class Wizard|XPHB}",
+															"{@class Hechicero|XPHB} or {@class Wizard|XPHB}",
 															"6 + Con. modifier"
 														]
 													]
@@ -5821,7 +5821,7 @@
 															"5 + Con. modifier"
 														],
 														[
-															"{@class Sorcerer|XPHB} or {@class Wizard|XPHB}",
+															"{@class Hechicero|XPHB} or {@class Wizard|XPHB}",
 															"4 + Con. modifier"
 														]
 													]
@@ -6036,7 +6036,7 @@
 									"page": 44,
 									"id": "111",
 									"entries": [
-										"If you have multiple ways to calculate your {@variantrule Armor Class|XPHB}, you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class."
+										"If you have multiple ways to calculate your {@variantrule Armor Class|XPHB}, you can benefit from only one at a time. For example, a Monk/Hechicero with a Monk's Unarmored Defense feature and a Hechicero's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class."
 									]
 								},
 								{
@@ -6334,7 +6334,7 @@
 											"page": 44,
 											"id": "114",
 											"entries": [
-												"You determine what spells you can prepare for each class individually, as if you were a single-classed member of that class. If you are a level 4 Ranger / level 3 Sorcerer, for example, you can prepare five level 1 Ranger spells, and you can prepare six Sorcerer spells of level 1 or 2 (as well as four Sorcerer cantrips).",
+												"You determine what spells you can prepare for each class individually, as if you were a single-classed member of that class. If you are a level 4 Ranger / level 3 Hechicero, for example, you can prepare five level 1 Ranger spells, and you can prepare six Hechicero spells of level 1 or 2 (as well as four Hechicero cantrips).",
 												"Each spell you prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell."
 											]
 										},
@@ -6357,14 +6357,14 @@
 												{
 													"type": "list",
 													"items": [
-														"All your levels in the Bard, Cleric, Druid, Sorcerer, and Wizard classes",
+														"All your levels in the Bard, Cleric, Druid, Hechicero, and Wizard classes",
 														"Half your levels (round up) in the Paladin and Ranger classes",
 														"One third of your Fighter or Rogue levels (round down) if you have the Eldritch Knight or Arcane Trickster subclass."
 													]
 												},
 												"Then look up this total level in the Level column of the Multiclass Spellcaster table. You use the slots for that level to cast spells of an appropriate level from any class whose Spellcasting feature you have.",
 												"This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like {@spell Burning Hands|XPHB}, has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.",
-												"For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can't prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare\u2014and potentially enhance their effects."
+												"For example, if you are a level 4 Ranger / level 3 Hechicero, you count as a level 5 character when determining your spell slots, counting all your levels as a Hechicero and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can't prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare\u2014and potentially enhance their effects."
 											]
 										},
 										{
@@ -6701,7 +6701,7 @@
 									"type": "image",
 									"href": {
 										"type": "internal",
-										"path": "book/XPHB/035-03-011.sorcerer-symbol.webp"
+										"path": "book/XPHB/035-03-011.hechicero-symbol.webp"
 									},
 									"maxWidth": 120,
 									"width": 254,
@@ -6709,7 +6709,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "{@class Sorcerer|XPHB}",
+									"name": "{@class Hechicero|XPHB}",
 									"page": 138,
 									"entries": [
 										"Wield magic innate to your being, shaping the power to your will. Then channel...",
@@ -6717,10 +6717,10 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Sorcerer|XPHB|Aberrant Sorcery|Aberrant|XPHB} to use strange psionic magic.",
-												"{@class Sorcerer|XPHB|Clockwork Sorcery|Clockwork|XPHB} to harness cosmic forces of order.",
-												"{@class Sorcerer|XPHB|Draconic Sorcery|Draconic|XPHB} to breathe the magic of dragons.",
-												"{@class Sorcerer|XPHB|Wild Magic Sorcery|Wild Magic|XPHB} to unleash chaos magic."
+												"{@class Hechicero|XPHB|Aberrant Sorcery|Aberrant|XPHB} to use strange psionic magic.",
+												"{@class Hechicero|XPHB|Clockwork Sorcery|Clockwork|XPHB} to harness cosmic forces of order.",
+												"{@class Hechicero|XPHB|Draconic Sorcery|Draconic|XPHB} to breathe the magic of dragons.",
+												"{@class Hechicero|XPHB|Wild Magic Sorcery|Wild Magic|XPHB} to unleash chaos magic."
 											]
 										}
 									],
@@ -10188,7 +10188,7 @@
 									"page": 224,
 									"id": "6ae",
 									"entries": [
-										"An Arcane Focus takes one of the forms in the Arcane Focuses table and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Wizard can use such an item as a Spellcasting Focus.",
+										"An Arcane Focus takes one of the forms in the Arcane Focuses table and is bejeweled or carved to channel arcane magic. A Hechicero, Warlock, or Wizard can use such an item as a Spellcasting Focus.",
 										{
 											"type": "table",
 											"caption": "Arcane Focuses",
@@ -12147,7 +12147,7 @@
 											"One"
 										],
 										[
-											"{@class Sorcerer|XPHB}",
+											"{@class Hechicero|XPHB}",
 											"Gain a level",
 											"One"
 										],

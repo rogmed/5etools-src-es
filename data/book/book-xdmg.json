@@ -3715,7 +3715,7 @@
 							"id": "0bb",
 							"entries": [
 								"Combat starts when\u2014and only when\u2014you say it does. Some characters have abilities that trigger on an {@variantrule Initiative|XPHB} roll; you, not the players, decide if and when Initiative is rolled. A high-level Barbarian can't just punch their Paladin friend and roll Initiative to regain expended uses of Rage.",
-								"In any situation where a character's actions initiate combat, you can give the acting character {@variantrule Advantage|XPHB} on their Initiative roll. For example, if a conversation with an NPC is cut short because the Sorcerer is convinced that NPC is a doppelganger and targets it with a {@spell Chromatic Orb|XPHB} spell, everyone rolls Initiative, and the Sorcerer does so with Advantage. If the doppelganger rolls well, it might still act before the Sorcerer's spell goes off, reflecting the monster's ability to anticipate the spell.",
+								"In any situation where a character's actions initiate combat, you can give the acting character {@variantrule Advantage|XPHB} on their Initiative roll. For example, if a conversation with an NPC is cut short because the Hechicero is convinced that NPC is a doppelganger and targets it with a {@spell Chromatic Orb|XPHB} spell, everyone rolls Initiative, and the Hechicero does so with Advantage. If the doppelganger rolls well, it might still act before the Hechicero's spell goes off, reflecting the monster's ability to anticipate the spell.",
 								{
 									"type": "entries",
 									"name": "Using Initiative Scores",
@@ -5279,7 +5279,7 @@
 								{
 									"type": "item",
 									"name": "Identity",
-									"entry": "Make sure the spell fits with the identity of those who can cast it. Sorcerers and Wizards don't typically cast healing spells, for example."
+									"entry": "Make sure the spell fits with the identity of those who can cast it. Hechiceros and Wizards don't typically cast healing spells, for example."
 								},
 								{
 									"type": "item",
@@ -24708,7 +24708,7 @@
 														{
 															"type": "item",
 															"name": "Random Determination:",
-															"entry": "Use the tables at the end of this chapter to randomly determine starting items. Use the {@book Arcana tables|XDMG|6|Arcana Tables} for Sorcerers, Warlocks, and Wizards. Use the {@book Armaments tables|XDMG|6|Armaments Tables} for Barbarians, Fighters, Paladins, and Rangers. Use the {@book Implements tables|XDMG|6|Implements Tables} for Bards, Monks, and Rogues. Use the {@book Relics tables|XDMG|6|Relics Tables} for Clerics and Druids. Feel free to vary the tables you use to give each character a mix of useful items and to match character themes. For example, for a Fighter with the Eldritch Knight subclass, you might choose one item from the {@book Arcana tables|XDMG|6|Arcana Tables} and the rest of the character's items from the {@book Armaments tables|XDMG|6|Armaments Tables}."
+															"entry": "Use the tables at the end of this chapter to randomly determine starting items. Use the {@book Arcana tables|XDMG|6|Arcana Tables} for Hechiceros, Warlocks, and Wizards. Use the {@book Armaments tables|XDMG|6|Armaments Tables} for Barbarians, Fighters, Paladins, and Rangers. Use the {@book Implements tables|XDMG|6|Implements Tables} for Bards, Monks, and Rogues. Use the {@book Relics tables|XDMG|6|Relics Tables} for Clerics and Druids. Feel free to vary the tables you use to give each character a mix of useful items and to match character themes. For example, for a Fighter with the Eldritch Knight subclass, you might choose one item from the {@book Arcana tables|XDMG|6|Arcana Tables} and the rest of the character's items from the {@book Armaments tables|XDMG|6|Armaments Tables}."
 														}
 													]
 												}
@@ -30160,7 +30160,7 @@
 					"page": 355,
 					"id": "7a8",
 					"entries": [
-						"Delina {@i (dell-EEN-ah)} is a young elf Sorcerer who wields the unpredictable power of wild magic. Finding herself in trouble in the city of {@book Baldur's Gate|XDMG|8|Baldur's Gate}, she accidentally reawakened the ancient hero of the city, {@book Minsc|XDMG|8|Minsc}, and got thrown into further adventures pursuing her lost twin brother."
+						"Delina {@i (dell-EEN-ah)} is a young elf Hechicero who wields the unpredictable power of wild magic. Finding herself in trouble in the city of {@book Baldur's Gate|XDMG|8|Baldur's Gate}, she accidentally reawakened the ancient hero of the city, {@book Minsc|XDMG|8|Minsc}, and got thrown into further adventures pursuing her lost twin brother."
 					]
 				},
 				{
@@ -30404,7 +30404,7 @@
 					"page": 359,
 					"id": "7bf",
 					"entries": [
-						"The League of Malevolence is an odious assemblage of villains united in one purpose: the accumulation of power. Its founding member, Kelek the Sorcerer, expects his confederates to work together for their mutual benefit, but he also encourages them to pursue their own evil schemes. Other members include the remorseless killer for hire Warduke, the assassin Zarak, and the evil Zargash, a servant of Orcus. Skylla, a Warlock whose power derives from a pact with {@book Baba Yaga|XDMG|8|Baba Yaga}, maintains a tenuous alliance with the league but despises Kelek."
+						"The League of Malevolence is an odious assemblage of villains united in one purpose: the accumulation of power. Its founding member, Kelek the Hechicero, expects his confederates to work together for their mutual benefit, but he also encourages them to pursue their own evil schemes. Other members include the remorseless killer for hire Warduke, the assassin Zarak, and the evil Zargash, a servant of Orcus. Skylla, a Warlock whose power derives from a pact with {@book Baba Yaga|XDMG|8|Baba Yaga}, maintains a tenuous alliance with the league but despises Kelek."
 					]
 				},
 				{

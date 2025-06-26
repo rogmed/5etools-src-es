@@ -1799,7 +1799,7 @@
 								"{@b Position Proficiency}: In addition to the proficiencies noted below, you can add your proficiency bonus to an ability check to organize lore, analyze official or arcane documents, or convey a legally binding point of view.",
 								{
 									"type": "inset",
-									"name": "Air Genasi Documancer (Sorcerer)",
+									"name": "Air Genasi Documancer (Hechicero)",
 									"page": 23,
 									"entries": [
 										{
@@ -2125,7 +2125,7 @@
 													"A nondescript coin pouch"
 												],
 												[
-													"Sorcerer",
+													"Hechicero",
 													"A battered leather satchel, prone to spitting out multicolored sparks at the seams"
 												],
 												[
@@ -3550,7 +3550,7 @@
 								"{@b Paladin}: Oath of Conquest",
 								"{@b Ranger}: Gloom Stalker, Horizon Walker, Monster Slayer",
 								"{@b Rogue}: Mastermind, Scout, Swashbuckler",
-								"{@b Sorcerer}: Divine Soul, Shadow Magic, Storm Sorcery",
+								"{@b Hechicero}: Divine Soul, Shadow Magic, Storm Sorcery",
 								"{@b Warlock}: Celestial, Hexblade",
 								"{@b Wizard}: War Magic"
 							],
@@ -5758,11 +5758,11 @@
 						},
 						{
 							"type": "entries",
-							"name": "Sorcerer",
+							"name": "Hechicero",
 							"page": 67,
 							"entries": [
 								"{@i Yes, that's a fine idea. We should totally put that to a vote. Hey, that's weird\u2014my hands are starting to glow. Is anyone else seeing that}?",
-								"A sorcerer's use of magic runs the range from chaotic to catastrophic\u2014which suits the style of many Acquisitions Incorporated franchises alarmingly well. When a loud and emphatic marketing statement needs to be made using magic, trust a sorcerer to do the talking. And with natural charisma powering their magic, a sorcerer also makes a good public face for a franchise, with their darker or more chaotic tendencies either hidden or amplified depending on need.",
+								"A hechicero's use of magic runs the range from chaotic to catastrophic\u2014which suits the style of many Acquisitions Incorporated franchises alarmingly well. When a loud and emphatic marketing statement needs to be made using magic, trust a hechicero to do the talking. And with natural charisma powering their magic, a hechicero also makes a good public face for a franchise, with their darker or more chaotic tendencies either hidden or amplified depending on need.",
 								{
 									"type": "entries",
 									"name": "The Burden of Leadership",
@@ -5778,7 +5778,7 @@
 									"name": "Focusing with Flair",
 									"page": 67,
 									"entries": [
-										"All sorcerers rely on an arcane focus through which they channel their magic, but traditional focuses lack a singular style. Staffs, orbs, wands, blah, blah. You like to do things differently.",
+										"All hechiceros rely on an arcane focus through which they channel their magic, but traditional focuses lack a singular style. Staffs, orbs, wands, blah, blah. You like to do things differently.",
 										{
 											"type": "table",
 											"caption": "Unusual Arcane Focuses",
@@ -5904,10 +5904,10 @@
 						},
 						{
 							"type": "entries",
-							"name": "Origins Make the Sorcerer",
+							"name": "Origins Make the Hechicero",
 							"page": 68,
 							"entries": [
-								"Each sorcerer draws their power from different sources, based on their lineage or their connection to the multiverse. Your own lineage defines much about your place in the world and your approach to magic, and can help you establish your connection to your Acquisitions Incorporated franchise.",
+								"Each hechicero draws their power from different sources, based on their lineage or their connection to the multiverse. Your own lineage defines much about your place in the world and your approach to magic, and can help you establish your connection to your Acquisitions Incorporated franchise.",
 								{
 									"type": "entries",
 									"name": "Divine Soul",
@@ -5931,7 +5931,7 @@
 									"name": "Shadow Magic",
 									"page": 68,
 									"entries": [
-										"As a shadow sorcerer, your mysterious connection to the Shadowfell makes you a master of social encounters. The sinister laugh, the glowing eyes\u2014nothing makes a clutch negotiation session go quicker. And when negotiations reach an impasse, your connection to the shadow world makes you a valuable tool for spying, infiltration, security, and, of course, killing."
+										"As a shadow hechicero, your mysterious connection to the Shadowfell makes you a master of social encounters. The sinister laugh, the glowing eyes\u2014nothing makes a clutch negotiation session go quicker. And when negotiations reach an impasse, your connection to the shadow world makes you a valuable tool for spying, infiltration, security, and, of course, killing."
 									],
 									"id": "146"
 								},
@@ -5940,7 +5940,7 @@
 									"name": "Storm Sorcery",
 									"page": 68,
 									"entries": [
-										"Harnessing the energy of wind and lightning makes you great fun in combat. But as a storm sorcerer, you have even greater utility when your franchise travels overland or across water for business, as you shield allies and important cargo from inclement or dangerous weather. And sure, those allies harp sometimes about your occasional bouts of rage and your proclivity for blowing things up first and asking questions later. But you take it all in stride, because it's not like you have a temper or anything."
+										"Harnessing the energy of wind and lightning makes you great fun in combat. But as a storm hechicero, you have even greater utility when your franchise travels overland or across water for business, as you shield allies and important cargo from inclement or dangerous weather. And sure, those allies harp sometimes about your occasional bouts of rage and your proclivity for blowing things up first and asking questions later. But you take it all in stride, because it's not like you have a temper or anything."
 									],
 									"id": "147"
 								},

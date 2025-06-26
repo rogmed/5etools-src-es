@@ -4769,7 +4769,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Weave Subtle Spells of Deception}",
+				"{@i Weave Conjuro sutils of Deception}",
 				"You specialize in magic that dazzles the senses and tricks the mind, and the illusions you craft make the impossible seem real.",
 				{
 					"type": "refSubclassFeature",

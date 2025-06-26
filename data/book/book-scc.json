@@ -1857,7 +1857,7 @@
 									"1st",
 									"{@spell Silvery Barbs|SCC}",
 									"Enchantment",
-									"{@class Bard}, {@class Sorcerer}, {@class Wizard}"
+									"{@class Bard}, {@class Hechicero}, {@class Wizard}"
 								],
 								[
 									"2nd",
@@ -1869,19 +1869,19 @@
 									"2nd",
 									"{@spell Kinetic Jaunt|SCC}",
 									"Transmutation",
-									"{@class Artificer|TCE},* {@class Bard}, {@class Sorcerer}, {@class Wizard}"
+									"{@class Artificer|TCE},* {@class Bard}, {@class Hechicero}, {@class Wizard}"
 								],
 								[
 									"2nd",
 									"{@spell Vortex Warp|SCC}",
 									"Conjuration",
-									"{@class Artificer|TCE},* {@class Sorcerer}, {@class Wizard}"
+									"{@class Artificer|TCE},* {@class Hechicero}, {@class Wizard}"
 								],
 								[
 									"2nd",
 									"{@spell Wither and Bloom|SCC}",
 									"Necromancy",
-									"{@class Druid}, {@class Sorcerer}, {@class Wizard}"
+									"{@class Druid}, {@class Hechicero}, {@class Wizard}"
 								]
 							],
 							"footnotes": [

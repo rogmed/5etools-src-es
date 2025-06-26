@@ -2880,7 +2880,7 @@
 					]
 				},
 				{
-					"name": "Twinned Spell",
+					"name": "Conjuro gemelo",
 					"entries": [
 						"Eo uses Spellcasting to cast {@spell banishment}, dominate person, finger of death, or power word stun. This spell targets a second creature in range."
 					]

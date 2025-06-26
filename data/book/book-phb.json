@@ -505,7 +505,7 @@
 										"type": "entries",
 										"entries": [
 											"{@i Measures:} Confidence, eloquence, leadership",
-											"{@i Important for:} Bard, sorcerer, warlock",
+											"{@i Important for:} Bard, hechicero, warlock",
 											"{@filter Races that have a bonus to Charisma|races|Ability Scores (Including Subspecies)=Charisma +any}"
 										],
 										"id": "01e"
@@ -1227,7 +1227,7 @@
 							"Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords"
 						],
 						[
-							"{@class Sorcerer}",
+							"{@class Hechicero}",
 							"A spellcaster who draws on inherent magic from a gift or bloodline",
 							"d6",
 							"Charisma",
@@ -1894,8 +1894,8 @@
 									"{@dice 4d4×10|4d4 × 10|Rogue Starting Wealth} gp"
 								],
 								[
-									"Sorcerer",
-									"{@dice 3d4×10|3d4 × 10|Sorcerer Starting Wealth} gp"
+									"Hechicero",
+									"{@dice 3d4×10|3d4 × 10|Hechicero Starting Wealth} gp"
 								],
 								[
 									"Warlock",
@@ -3951,7 +3951,7 @@
 											"name": "Arcane Focus",
 											"page": 151,
 											"entries": [
-												"An arcane focus is a special item\u2014an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item\u2014designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, as described in chapter 10."
+												"An arcane focus is a special item\u2014an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item\u2014designed to channel the power of arcane spells. A hechicero, warlock, or wizard can use such an item as a spellcasting focus, as described in chapter 10."
 											],
 											"id": "0a0"
 										},
@@ -5869,7 +5869,7 @@
 											"Dexterity 13"
 										],
 										[
-											"{@class Sorcerer}",
+											"{@class Hechicero}",
 											"Charisma 13"
 										],
 										[
@@ -5969,7 +5969,7 @@
 											"Light armor, one skill from the class's skill list, {@item thieves' tools|phb}"
 										],
 										[
-											"{@class Sorcerer}",
+											"{@class Hechicero}",
 											"\u2014"
 										],
 										[
@@ -6040,7 +6040,7 @@
 											"name": "Spell Slots",
 											"page": 164,
 											"entries": [
-												"You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.",
+												"You determine your available spell slots by adding together all your levels in the bard, cleric, druid, hechicero, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.",
 												"If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like {@spell burning hands}, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.",
 												"For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know\u2014and potentially enhance their effects."
 											],
@@ -7248,7 +7248,7 @@
 									"name": "Spellcasting Ability",
 									"page": 179,
 									"entries": [
-										"Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast."
+										"Bards, paladins, hechiceros, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast."
 									],
 									"id": "142"
 								}
@@ -9479,7 +9479,7 @@
 								"The words within the D&D multiverse are magical places. All existence is suffused with magical power, and potential energy lies untapped in every rock, stream, and living creature, the mute and mindless will of existence, permeating every bit of matter and present in every manifestation of energy throughout the multiverse.",
 								"Mortals can't directly shape this raw magic. Instead, they make use of a fabric of magic, a kind of interface between the will of a spellcaster and the stuff of raw magic. The spellcasters of the Forgotten Realms call it the Weave and recognize its essence as the goddess Mystra, but casters have varied ways of naming and visualizing this interface.",
 								"By any name, without the Weave, raw magic is locked away and inaccessible; the most powerful archmage can't light a candle with magic in an area where the Weave has been torn. But surrounded by the Weave, a spellcaster can shape lightning to blast foes, transport hundreds of miles in the blink of an eye, or even reverse death itself.",
-								"All magic depends on the Weave, though different kinds of magic access it in a variety of ways. The spells of wizards, warlocks, sorcerers, and bards are commonly called {@b arcane magic}. These spells rely on an understanding\u2014learned or intuitive\u2014of the workings of the Weave. The caster plucks directly at the strands of the Weave to create the desired effect. Eldritch knights and arcane tricksters also use arcane magic. The spells of clerics, druids, paladins, and rangers are called {@b divine magic}. These spellcasters' access to the Weave is mediated by divine power\u2014gods, the divine forces of nature, or the sacred weight of a paladin's oath.",
+								"All magic depends on the Weave, though different kinds of magic access it in a variety of ways. The spells of wizards, warlocks, hechiceros, and bards are commonly called {@b arcane magic}. These spells rely on an understanding\u2014learned or intuitive\u2014of the workings of the Weave. The caster plucks directly at the strands of the Weave to create the desired effect. Eldritch knights and arcane tricksters also use arcane magic. The spells of clerics, druids, paladins, and rangers are called {@b divine magic}. These spellcasters' access to the Weave is mediated by divine power\u2014gods, the divine forces of nature, or the sacred weight of a paladin's oath.",
 								"Whenever a magic effect is created, the threads of the Weave intertwine, twist, and fold to make the effect possible.",
 								"When characters use divination spells such as {@i detect magic} or {@i identify}, they glimpse the Weave. A spell such as {@i dispel magic} smooths the Weave. Spells such as {@i antimagic field} rearrange the Weave so that magic flows around, rather than through the area affected by the spell. And in places where the Weave is damaged or torn, magic works in unpredictable ways\u2014or not at all."
 							],
@@ -10299,7 +10299,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Sorcerer Spells",
+					"name": "Hechicero Spells",
 					"entries": [
 						{
 							"type": "list",

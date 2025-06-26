@@ -1124,7 +1124,7 @@ SpellcastingTypeTag.CLASSES = {
 	"CD": /(^|[^a-zA-Z])druid([^a-zA-Z]|$)/gi,
 	"CP": /(^|[^a-zA-Z])paladin([^a-zA-Z]|$)/gi,
 	"CR": /(^|[^a-zA-Z])ranger([^a-zA-Z]|$)/gi,
-	"CS": /(^|[^a-zA-Z])sorcerer([^a-zA-Z]|$)/gi,
+	"CS": /(^|[^a-zA-Z])hechicero([^a-zA-Z]|$)/gi,
 	"CL": /(^|[^a-zA-Z])warlock([^a-zA-Z]|$)/gi,
 	"CW": /(^|[^a-zA-Z])wizard([^a-zA-Z]|$)/gi,
 };

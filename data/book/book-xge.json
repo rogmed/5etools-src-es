@@ -358,20 +358,20 @@
 							"Delivers deadly strikes with speed and panache "
 						],
 						[
-							"Sorcerer",
-							"{@class Sorcerer|phb|Divine Soul|Divine Soul|xge}",
+							"Hechicero",
+							"{@class Hechicero|phb|Divine Soul|Divine Soul|xge}",
 							"1st",
 							"Harnesses magic bestowed by a god or other divine source"
 						],
 						[
-							"Sorcerer",
-							"{@class Sorcerer|phb|Shadow Magic|Shadow|xge}",
+							"Hechicero",
+							"{@class Hechicero|phb|Shadow Magic|Shadow|xge}",
 							"1st",
 							"Wields the grim magic of the Shadowfell"
 						],
 						[
-							"Sorcerer",
-							"{@class Sorcerer|phb|Storm Sorcery|Storm|xge}",
+							"Hechicero",
+							"{@class Hechicero|phb|Storm Sorcery|Storm|xge}",
 							"1st",
 							"Crackles with the power of the storm"
 						],
@@ -1992,10 +1992,10 @@
 												},
 												{
 													"type": "table",
-													"caption": "Sorcerer",
+													"caption": "Hechicero",
 													"colLabels": [
 														"d6",
-														"I became a sorcerer because..."
+														"I became a hechicero because..."
 													],
 													"colStyles": [
 														"col-2 text-center",
@@ -2327,7 +2327,7 @@
 												],
 												[
 													"3",
-													"You witnessed a powerful spell being cast by a cleric, a druid, a sorcerer, a warlock, or a wizard."
+													"You witnessed a powerful spell being cast by a cleric, a druid, a hechicero, a warlock, or a wizard."
 												],
 												[
 													"4",
@@ -2896,7 +2896,7 @@
 										],
 										[
 											"85-89",
-											"Sorcerer"
+											"Hechicero"
 										],
 										[
 											"90-94",
@@ -3478,7 +3478,7 @@
 							"entries": [
 								"Many spells create obvious effects: explosions of fire, walls of ice, teleportation, and the like. Other spells, such as charm person, display no visible, audible, or otherwise perceptible sign of their effects, and could easily go unnoticed by someone unaffected by them. As noted in the Player's Handbook, you normally don't know that a spell has been cast unless the spell produces a noticeable effect.",
 								"But what about the act of casting a spell? Is it possible for someone to perceive that a spell is being cast in their presence? To be perceptible, the casting of a spell must involve a verbal, somatic, or material component. The form of a material component doesn't matter for the purposes of perception, whether it's an object specified in the spell's description, a component pouch, or a spellcasting focus.",
-								"If the need for a spell's components has been removed by a special ability, such as the sorcerer's Subtle Spell feature or the Innate Spellcasting trait possessed by many creatures, the casting of the spell is imperceptible. If an imperceptible casting produces a perceptible effect, it's normally impossible to determine who cast the spell in the absence of other evidence."
+								"If the need for a spell's components has been removed by a special ability, such as the hechicero's Conjuro sutil feature or the Innate Spellcasting trait possessed by many creatures, the casting of the spell is imperceptible. If an imperceptible casting produces a perceptible effect, it's normally impossible to determine who cast the spell in the absence of other evidence."
 							],
 							"id": "043"
 						},
@@ -7095,7 +7095,7 @@
 														],
 														[
 															"4",
-															"A sorcerer claims your item as a birthright and demands you hand it over."
+															"A hechicero claims your item as a birthright and demands you hand it over."
 														],
 														[
 															"5",

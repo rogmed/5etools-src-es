@@ -10166,12 +10166,12 @@
 								{
 									"type": "item",
 									"name": "Person",
-									"entry": "A person (perhaps a sorcerer, warlock, or wizard) who uses arcane magic or other specialized learning."
+									"entry": "A person (perhaps a hechicero, warlock, or wizard) who uses arcane magic or other specialized learning."
 								},
 								{
 									"type": "item",
 									"name": "Creature or Trap",
-									"entry": "A creature with abilities similar to those of a sorcerer, warlock, or wizard."
+									"entry": "A creature with abilities similar to those of a hechicero, warlock, or wizard."
 								},
 								{
 									"type": "item",
@@ -20296,7 +20296,7 @@
 			},
 			"entries": [
 				"CHAPTER 1: WITCHLIGHT CARNIVAL",
-				"Candlefoot's appearance is strangely monochromatic, due to the chaotic magic of a reckless sorcerer to whom he was apprenticed in his youth. After fleeing his master, Candlefoot found a home in the Witchlight Carnival. He can communicate only through mime until his stolen voice is retrieved from the kenku warlock, Kettlesteam.",
+				"Candlefoot's appearance is strangely monochromatic, due to the chaotic magic of a reckless hechicero to whom he was apprenticed in his youth. After fleeing his master, Candlefoot found a home in the Witchlight Carnival. He can communicate only through mime until his stolen voice is retrieved from the kenku warlock, Kettlesteam.",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -25275,7 +25275,7 @@
 			},
 			"entries": [
 				"Facing and allowing deep-seated fears to dissolve in the light of your awareness. Remove words from the mind and breathe.",
-				"{@i You encounter a sorcerer who wants you to look into her crystal ball.}"
+				"{@i You encounter a hechicero who wants you to look into her crystal ball.}"
 			]
 		},
 		{

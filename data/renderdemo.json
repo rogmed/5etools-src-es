@@ -855,8 +855,8 @@
 							"prop": "subclass",
 							"source": "XPHB",
 							"name": "Wild Magic",
-							"displayName": "Wild Magic Sorcerer",
-							"className": "Sorcerer",
+							"displayName": "Wild Magic Hechicero",
+							"className": "Hechicero",
 							"classSource": "XPHB",
 							"collapsed": true
 						}

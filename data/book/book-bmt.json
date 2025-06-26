@@ -66,7 +66,7 @@
 							"entries": [
 								"Two versions of the deck were presented for the fourth edition of D&D. The first appeared in {@i Dungeon} 177 and was an artifact intended for heroes of levels 11\u201320; the second appeared a year later in the boxed adventure {@i Madness at Gardmore Abbey} (2011) and was aimed at levels 1\u201310.",
 								"But in the fourth edition of D&D, artifacts were more than just magic items that couldn't be duplicated; they had minds of their own and pursued secret purposes. The deck sought to sow chaos and topple powerful leaders regardless of whether they were good or evil. Characters who helped the deck pursue these goals were rewarded with favorable cards, while those who thwarted the deck were forced to draw multiple cards and keep the worst.",
-								"A new origin for the deck was put forward but not confirmed in {@i Madness at Gardmore Abbey}: the deck was a gift from an archfey to a mighty emperor. As the archfey predicted, the emperor was unable to resist using the deck to cast his own future, and the deck shattered his empire. The deck also gained magical powers distinct from the cards' effects: wizards, sorcerers, and warlocks could use the deck to empower their spells.",
+								"A new origin for the deck was put forward but not confirmed in {@i Madness at Gardmore Abbey}: the deck was a gift from an archfey to a mighty emperor. As the archfey predicted, the emperor was unable to resist using the deck to cast his own future, and the deck shattered his empire. The deck also gained magical powers distinct from the cards' effects: wizards, hechiceros, and warlocks could use the deck to empower their spells.",
 								"The {@item Deck of Many Things} was central to {@i Madness at Gardmore Abbey}. Cards were scattered throughout the adventure, and the characters were charged with collecting them. Each card had unique powers, so characters could enjoy using the cards before the deck was fully assembled. But there was also a random factor inspired by the use of tarokka cards in the classic adventure {@i Ravenloft}. The DM could draw cards from the deck to determine the identity of their patron, the location of each card, and the scene of the adventure's denouement. To facilitate this, the adventure included another re-creation of the deck, with art by William O'Connor. (O'Connor's designs also appeared when Magic: The Gathering drew on the {@item Deck of Many Things} for a set inspired by the Forgotten Realms.) Like \"House of Cards,\" {@i Madness at Gardmore Abbey} forced characters to interact with the {@item Deck of Many Things}, but it rewarded them with new powers instead of punishing them and blocking all efforts to escape the deck."
 							]
 						},
@@ -136,7 +136,7 @@
 							"entries": [
 								"Next are four chapters of character-focused content:",
 								"{@book Chapter 6: Rogue|BMT|5}. This chapter provides advice and new magic items suited to bards, rangers, rogues, and other characters who prioritize their skills. The \"{@book Rogues' Gallery|BMT|5|Rogues' Gallery}\" section presents treacherous adversaries for when a player draws the Rogue card from the deck.",
-								"{@book Chapter 7: Sage|BMT|6}. This chapter focuses on sorcerers, warlocks, wizards, and other characters who wield arcane magic. It includes the new Cartomancer feat, new spells, and the {@item Deck of Many More Things|BMT}: the cards added to the {@item Deck of Many Things} over the centuries by mortal spellcasters.",
+								"{@book Chapter 7: Sage|BMT|6}. This chapter focuses on hechiceros, warlocks, wizards, and other characters who wield arcane magic. It includes the new Cartomancer feat, new spells, and the {@item Deck of Many More Things|BMT}: the cards added to the {@item Deck of Many Things} over the centuries by mortal spellcasters.",
 								"{@book Chapter 8: Fates|BMT|7}. New backgrounds in this chapter describe characters whose lives have been transformed by the {@item Deck of Many Things} or a similar effect. This chapter also includes character creation advice and magic items appropriate for clerics, druids, paladins, and other characters with a connection to the divine.",
 								"{@book Chapter 9: Knight|BMT|8}. Characters who draw the Knight card gain the service of an ally; this chapter describes a new creature that answers that call. DMs can also find advice on integrating allies into an adventuring party. In addition, the chapter includes character creation advice and new magic items for barbarians, fighters, monks, and other combat specialists.",
 								{
@@ -3302,7 +3302,7 @@
 											"Conjuration",
 											"No",
 											"No",
-											"Bard, sorcerer, warlock, wizard"
+											"Bard, hechicero, warlock, wizard"
 										],
 										[
 											"3rd",
@@ -3310,7 +3310,7 @@
 											"Enchantment",
 											"No",
 											"No",
-											"Bard, sorcerer, warlock, wizard"
+											"Bard, hechicero, warlock, wizard"
 										],
 										[
 											"4th",
@@ -3318,7 +3318,7 @@
 											"Necromancy",
 											"Yes",
 											"No",
-											"Sorcerer, warlock, wizard"
+											"Hechicero, warlock, wizard"
 										]
 									]
 								}
@@ -4199,7 +4199,7 @@
 										},
 										"entry": "Sage"
 									},
-									"Descended from a family of sorcerers, you were the only one not to show magical aptitude."
+									"Descended from a family of hechiceros, you were the only one not to show magical aptitude."
 								],
 								[
 									{

@@ -571,14 +571,14 @@
 						"Rangers",
 						"Rogues",
 						"Roguish Archetypes",
-						"Sorcerers",
+						"Hechiceros",
 						"Sorcerous Origin",
 						"Warlocks",
 						"Otherworldly Patron",
 						"Wizards",
 						"Wizardly Groups",
 						"Arcane Tradition",
-						"Cantrips for Sorcerers, Warlocks, and Wizards"
+						"Cantrips for Hechiceros, Warlocks, and Wizards"
 					],
 					"ordinal": {
 						"type": "chapter",
@@ -2549,7 +2549,7 @@
 						"Paladin",
 						"Ranger",
 						"Rogue",
-						"Sorcerer",
+						"Hechicero",
 						"Warlock",
 						"Wizard",
 						"Feats"
@@ -4032,7 +4032,7 @@
 							"depth": 1
 						},
 						{
-							"header": "Sorcerer",
+							"header": "Hechicero",
 							"depth": 1
 						},
 						{

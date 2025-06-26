@@ -3631,12 +3631,12 @@
 										{
 											"type": "item",
 											"name": "Person",
-											"entry": "A person (perhaps a sorcerer, warlock, or wizard) who uses arcane magic or other specialized learning."
+											"entry": "A person (perhaps a hechicero, warlock, or wizard) who uses arcane magic or other specialized learning."
 										},
 										{
 											"type": "item",
 											"name": "Creature or Trap",
-											"entry": "A creature with abilities similar to those of a sorcerer, warlock, or wizard."
+											"entry": "A creature with abilities similar to those of a hechicero, warlock, or wizard."
 										},
 										{
 											"type": "item",

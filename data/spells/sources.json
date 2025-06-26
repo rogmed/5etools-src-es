@@ -11,7 +11,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -31,7 +31,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -65,7 +65,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -81,7 +81,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -263,7 +263,7 @@
 					"definedInSource": "FTD"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "FTD"
 				},
@@ -278,7 +278,7 @@
 					"definedInSource": "FTD"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "FTD"
 				},
@@ -297,7 +297,7 @@
 					"definedInSource": "FTD"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "FTD"
 				},
@@ -312,7 +312,7 @@
 					"definedInSource": "FTD"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "FTD"
 				},
@@ -326,7 +326,7 @@
 		"Fizban's Platinum Shield": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "FTD"
 				},
@@ -336,7 +336,7 @@
 					"definedInSource": "FTD"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "FTD"
 				},
@@ -355,7 +355,7 @@
 					"definedInSource": "FTD"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "FTD"
 				},
@@ -370,7 +370,7 @@
 					"definedInSource": "FTD"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "FTD"
 				},
@@ -389,7 +389,7 @@
 					"definedInSource": "FTD"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "FTD"
 				},
@@ -409,7 +409,7 @@
 					"definedInSource": "FTD"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "FTD"
 				},
@@ -428,7 +428,7 @@
 		"Rime's Binding Ice": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "FTD"
 				},
@@ -438,7 +438,7 @@
 					"definedInSource": "FTD"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "FTD"
 				},
@@ -457,7 +457,7 @@
 					"definedInSource": "FTD"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "FTD"
 				},
@@ -553,7 +553,7 @@
 		"Acid Splash": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -613,7 +613,7 @@
 		"Alter Self": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -685,7 +685,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -752,7 +752,7 @@
 		"Arcane Gate": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -926,7 +926,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1000,7 +1000,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				}
@@ -1021,7 +1021,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1053,7 +1053,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1085,7 +1085,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1097,7 +1097,7 @@
 		"Blink": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1113,7 +1113,7 @@
 		"Blur": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1137,7 +1137,7 @@
 		"Burning Hands": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1169,7 +1169,7 @@
 		"Chain Lightning": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1189,7 +1189,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1205,7 +1205,7 @@
 		"Chill Touch": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1221,7 +1221,7 @@
 		"Chromatic Orb": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1233,7 +1233,7 @@
 		"Circle of Death": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1265,7 +1265,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1289,7 +1289,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1305,7 +1305,7 @@
 		"Cloudkill": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1317,7 +1317,7 @@
 		"Color Spray": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1387,7 +1387,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1411,7 +1411,7 @@
 		"Cone of Cold": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1438,7 +1438,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1629,7 +1629,7 @@
 		"Counterspell": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1689,7 +1689,7 @@
 		"Creation": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1709,7 +1709,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1765,7 +1765,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1781,7 +1781,7 @@
 		"Darkness": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1805,7 +1805,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1837,7 +1837,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				}
 			]
@@ -1857,7 +1857,7 @@
 		"Delayed Blast Fireball": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1879,7 +1879,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				}
@@ -1928,7 +1928,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1968,7 +1968,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -1984,7 +1984,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2004,7 +2004,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2020,7 +2020,7 @@
 		"Disintegrate": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2060,7 +2060,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2128,7 +2128,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				}
 			],
@@ -2147,7 +2147,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2167,7 +2167,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2219,7 +2219,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				}
 			]
@@ -2271,7 +2271,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2295,7 +2295,7 @@
 		"Enlarge/Reduce": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2366,7 +2366,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2390,7 +2390,7 @@
 		"Expeditious Retreat": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2414,7 +2414,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2458,7 +2458,7 @@
 		"False Life": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2478,7 +2478,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2498,7 +2498,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2602,7 +2602,7 @@
 		"Finger of Death": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2618,7 +2618,7 @@
 		"Fire Bolt": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2645,7 +2645,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				}
@@ -2662,7 +2662,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				}
 			]
@@ -2670,7 +2670,7 @@
 		"Fireball": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2688,7 +2688,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				}
@@ -2715,7 +2715,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				}
@@ -2739,7 +2739,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				}
@@ -2748,7 +2748,7 @@
 		"Fly": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2776,7 +2776,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2860,7 +2860,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2876,7 +2876,7 @@
 		"Gaseous Form": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2896,7 +2896,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -2978,7 +2978,7 @@
 		"Globe of Invulnerability": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3044,7 +3044,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				}
@@ -3057,7 +3057,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3144,7 +3144,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3207,7 +3207,7 @@
 		"Haste": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3318,7 +3318,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3346,7 +3346,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3390,7 +3390,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3410,7 +3410,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3466,7 +3466,7 @@
 		"Incendiary Cloud": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3501,7 +3501,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				}
 			]
@@ -3513,7 +3513,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3541,7 +3541,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3561,7 +3561,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3641,7 +3641,7 @@
 		"Levitate": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3665,7 +3665,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3689,7 +3689,7 @@
 		"Lightning Bolt": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3797,7 +3797,7 @@
 		"Mage Armor": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3813,7 +3813,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3861,7 +3861,7 @@
 		"Magic Missile": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3908,7 +3908,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				}
@@ -3921,7 +3921,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -3980,7 +3980,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4043,7 +4043,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4063,7 +4063,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4079,7 +4079,7 @@
 		"Meteor Swarm": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4107,7 +4107,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4139,7 +4139,7 @@
 		"Mirror Image": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4181,7 +4181,7 @@
 		"Misty Step": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4269,7 +4269,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4311,7 +4311,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				}
@@ -4368,7 +4368,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4446,7 +4446,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4482,7 +4482,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4510,7 +4510,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4541,7 +4541,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4561,7 +4561,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4596,7 +4596,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4616,7 +4616,7 @@
 		"Prismatic Spray": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4694,7 +4694,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4824,7 +4824,7 @@
 		"Ray of Frost": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4840,7 +4840,7 @@
 		"Ray of Sickness": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -4928,7 +4928,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5000,7 +5000,7 @@
 		"Scorching Ray": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5055,7 +5055,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5075,7 +5075,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5127,7 +5127,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5143,7 +5143,7 @@
 		"Shield": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5175,7 +5175,7 @@
 		"Shocking Grasp": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5211,7 +5211,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5235,7 +5235,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5251,7 +5251,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5263,7 +5263,7 @@
 		"Slow": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5345,7 +5345,7 @@
 		"Spider Climb": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5405,7 +5405,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5445,7 +5445,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5473,7 +5473,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5493,7 +5493,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5516,7 +5516,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5578,7 +5578,7 @@
 		"Telekinesis": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5602,7 +5602,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5618,7 +5618,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5681,7 +5681,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5693,7 +5693,7 @@
 		"Time Stop": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5713,7 +5713,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5785,7 +5785,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5805,7 +5805,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5855,7 +5855,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				}
@@ -5876,7 +5876,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5908,7 +5908,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5955,7 +5955,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5983,7 +5983,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -5995,7 +5995,7 @@
 		"Web": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -6046,7 +6046,7 @@
 		"Wish": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -6058,7 +6058,7 @@
 		"Witch Bolt": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -6108,7 +6108,7 @@
 		"Gate Seal": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "SatO"
 				},
@@ -6123,7 +6123,7 @@
 					"definedInSource": "SatO"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "SatO"
 				},
@@ -6142,7 +6142,7 @@
 		"Warp Sense": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "SatO"
 				},
@@ -6157,7 +6157,7 @@
 					"definedInSource": "SatO"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "SatO"
 				},
@@ -6218,7 +6218,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -6234,7 +6234,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -6250,7 +6250,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -6262,7 +6262,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -6274,7 +6274,7 @@
 		"Vortex Warp": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -6286,7 +6286,7 @@
 					"source": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -6302,7 +6302,7 @@
 					"source": "PHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB"
 				},
 				{
@@ -6314,7 +6314,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -6328,7 +6328,7 @@
 		"Blade of Disaster": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				},
@@ -6343,7 +6343,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TCE"
 				},
@@ -6366,7 +6366,7 @@
 					"source": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "SCAG"
 				},
@@ -6381,7 +6381,7 @@
 					"definedInSource": "SCAG"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "SCAG"
 				},
@@ -6398,7 +6398,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				},
@@ -6413,7 +6413,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TCE"
 				},
@@ -6437,7 +6437,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				},
@@ -6457,7 +6457,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TCE"
 				},
@@ -6480,7 +6480,7 @@
 					"source": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "SCAG"
 				},
@@ -6495,7 +6495,7 @@
 					"definedInSource": "SCAG"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "SCAG"
 				},
@@ -6512,7 +6512,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				},
@@ -6527,7 +6527,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TCE"
 				},
@@ -6557,7 +6557,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				},
@@ -6577,7 +6577,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TCE"
 				},
@@ -6600,7 +6600,7 @@
 					"source": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "SCAG"
 				},
@@ -6615,7 +6615,7 @@
 					"definedInSource": "SCAG"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "SCAG"
 				},
@@ -6632,7 +6632,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				},
@@ -6647,7 +6647,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TCE"
 				},
@@ -6666,7 +6666,7 @@
 		"Mind Sliver": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				},
@@ -6885,7 +6885,7 @@
 					"source": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "SCAG"
 				},
@@ -6900,7 +6900,7 @@
 					"definedInSource": "SCAG"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "SCAG"
 				},
@@ -6917,7 +6917,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				},
@@ -6932,7 +6932,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TCE"
 				},
@@ -6957,7 +6957,7 @@
 			],
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				},
@@ -6967,7 +6967,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TCE"
 				},
@@ -6981,7 +6981,7 @@
 		"Tasha's Mind Whip": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				},
@@ -6991,7 +6991,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TCE"
 				},
@@ -7005,7 +7005,7 @@
 		"Tasha's Otherworldly Guise": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TCE"
 				},
@@ -7020,7 +7020,7 @@
 					"definedInSource": "TCE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TCE"
 				},
@@ -7051,7 +7051,7 @@
 					"definedInSource": "TDCSR"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TDCSR"
 				},
@@ -7066,7 +7066,7 @@
 					"definedInSource": "TDCSR"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TDCSR"
 				}
@@ -7080,7 +7080,7 @@
 					"definedInSource": "TDCSR"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "TDCSR"
 				},
@@ -7095,7 +7095,7 @@
 					"definedInSource": "TDCSR"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "TDCSR"
 				},
@@ -7111,7 +7111,7 @@
 		"Abi-Dalzim's Horrid Wilting": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7121,7 +7121,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7145,7 +7145,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7170,7 +7170,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7184,7 +7184,7 @@
 		"Aganazzar's Scorcher": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7194,7 +7194,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7246,7 +7246,7 @@
 		"Catapult": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7261,7 +7261,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7280,7 +7280,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7300,7 +7300,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7362,12 +7362,12 @@
 		"Chaos Bolt": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				}
@@ -7386,7 +7386,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7410,7 +7410,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7425,7 +7425,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7444,7 +7444,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7459,7 +7459,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7478,7 +7478,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7503,7 +7503,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7536,7 +7536,7 @@
 		"Crown of Stars": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7551,7 +7551,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7618,7 +7618,7 @@
 		"Dragon's Breath": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7651,7 +7651,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7666,7 +7666,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7690,7 +7690,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7710,7 +7710,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7729,7 +7729,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7749,7 +7749,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7812,7 +7812,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7832,7 +7832,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7851,7 +7851,7 @@
 		"Enervation": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7866,7 +7866,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7890,7 +7890,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7905,7 +7905,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7919,7 +7919,7 @@
 		"Far Step": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -7934,7 +7934,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -7977,7 +7977,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8002,7 +8002,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8021,7 +8021,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8046,7 +8046,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8094,7 +8094,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8109,7 +8109,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8176,7 +8176,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8204,7 +8204,7 @@
 		"Immolation": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8214,7 +8214,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8257,7 +8257,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8277,7 +8277,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8301,7 +8301,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8321,7 +8321,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8345,7 +8345,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8365,7 +8365,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8389,7 +8389,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8409,7 +8409,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8433,7 +8433,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8453,7 +8453,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8582,7 +8582,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8597,7 +8597,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8611,7 +8611,7 @@
 		"Maximilian's Earthen Grasp": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8621,7 +8621,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8635,7 +8635,7 @@
 		"Melf's Minute Meteors": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8645,7 +8645,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8659,7 +8659,7 @@
 		"Mental Prison": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8674,7 +8674,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8707,7 +8707,7 @@
 		"Mind Spike": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8731,7 +8731,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8746,7 +8746,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8784,7 +8784,7 @@
 		"Power Word Pain": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8799,7 +8799,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8851,7 +8851,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8871,7 +8871,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8895,7 +8895,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8915,7 +8915,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8929,7 +8929,7 @@
 		"Scatter": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8944,7 +8944,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -8963,7 +8963,7 @@
 		"Shadow Blade": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -8978,7 +8978,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9016,7 +9016,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9031,7 +9031,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9045,7 +9045,7 @@
 		"Sickening Radiance": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9060,7 +9060,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9084,7 +9084,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9104,7 +9104,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9196,7 +9196,7 @@
 		"Snilloc's Snowball Swarm": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9206,7 +9206,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9258,7 +9258,7 @@
 		"Storm Sphere": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9268,7 +9268,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9335,7 +9335,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9382,7 +9382,7 @@
 		"Thunder Step": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9397,7 +9397,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9426,7 +9426,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9455,7 +9455,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9470,7 +9470,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9551,7 +9551,7 @@
 		"Vitriolic Sphere": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9565,7 +9565,7 @@
 		"Wall of Light": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9580,7 +9580,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9618,7 +9618,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9633,7 +9633,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9657,7 +9657,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9677,7 +9677,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9696,7 +9696,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9711,7 +9711,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9730,7 +9730,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "XGE"
 				},
@@ -9745,7 +9745,7 @@
 					"definedInSource": "XGE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "XGE"
 				},
@@ -9813,7 +9813,7 @@
 					"definedInSource": "BMT"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "BMT"
 				},
@@ -9833,7 +9833,7 @@
 					"definedInSource": "BMT"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "BMT"
 				},
@@ -9852,7 +9852,7 @@
 		"Spirit of Death": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "BMT"
 				},
@@ -9867,7 +9867,7 @@
 					"definedInSource": "BMT"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "BMT"
 				},
@@ -9891,7 +9891,7 @@
 					"definedInSource": "BMT"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "BMT"
 				},
@@ -9911,7 +9911,7 @@
 					"definedInSource": "BMT"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "BMT"
 				},
@@ -9980,7 +9980,7 @@
 		"Heartseeker": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "GHLoE"
 				},
@@ -9990,7 +9990,7 @@
 					"definedInSource": "GHLoE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "GHLoE"
 				},
@@ -10018,12 +10018,12 @@
 		"Magic Mirror": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "GHLoE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "GHLoE"
 				}
@@ -10037,7 +10037,7 @@
 					"definedInSource": "GHLoE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "GHLoE"
 				},
@@ -10057,7 +10057,7 @@
 					"definedInSource": "GHLoE"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "GHLoE"
 				},
@@ -10097,7 +10097,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10117,7 +10117,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10136,7 +10136,7 @@
 		"Contaminated Power": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10151,7 +10151,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10185,7 +10185,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10215,7 +10215,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10239,7 +10239,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10259,7 +10259,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10278,7 +10278,7 @@
 		"Delerium Orb": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10293,7 +10293,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10312,7 +10312,7 @@
 		"Forced Evolution": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10327,7 +10327,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10371,7 +10371,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10411,7 +10411,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10435,7 +10435,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10455,7 +10455,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10499,7 +10499,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10539,7 +10539,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10563,7 +10563,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10583,7 +10583,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10607,7 +10607,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10627,7 +10627,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10690,7 +10690,7 @@
 		"Siphon Contamination": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10705,7 +10705,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10724,7 +10724,7 @@
 		"Warp Bolt": {
 			"classVariant": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "PHB",
 					"definedInSource": "DoDk"
 				},
@@ -10739,7 +10739,7 @@
 					"definedInSource": "DoDk"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB",
 					"definedInSource": "DoDk"
 				},
@@ -10760,7 +10760,7 @@
 		"Acid Splash": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -10820,7 +10820,7 @@
 		"Alter Self": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -10892,7 +10892,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -10956,7 +10956,7 @@
 		"Arcane Gate": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -10984,7 +10984,7 @@
 		"Arcane Vigor": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11124,7 +11124,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11212,7 +11212,7 @@
 		"Bigby's Hand": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11240,7 +11240,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11272,7 +11272,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11304,7 +11304,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11316,7 +11316,7 @@
 		"Blink": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11332,7 +11332,7 @@
 		"Blur": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11348,7 +11348,7 @@
 		"Burning Hands": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11380,7 +11380,7 @@
 		"Chain Lightning": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11400,7 +11400,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11424,7 +11424,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11440,7 +11440,7 @@
 		"Chill Touch": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11456,7 +11456,7 @@
 		"Chromatic Orb": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11468,7 +11468,7 @@
 		"Circle of Death": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11508,7 +11508,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11532,7 +11532,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11548,7 +11548,7 @@
 		"Cloudkill": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11564,7 +11564,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11624,7 +11624,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11652,7 +11652,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11672,7 +11672,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11856,7 +11856,7 @@
 		"Counterspell": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11916,7 +11916,7 @@
 		"Creation": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11936,7 +11936,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -11992,7 +11992,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12008,7 +12008,7 @@
 		"Darkness": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12032,7 +12032,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12060,7 +12060,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12084,7 +12084,7 @@
 		"Delayed Blast Fireball": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12096,7 +12096,7 @@
 		"Demiplane": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12148,7 +12148,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12196,7 +12196,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12212,7 +12212,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12232,7 +12232,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12248,7 +12248,7 @@
 		"Disintegrate": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12288,7 +12288,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12368,7 +12368,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				}
 			]
@@ -12380,7 +12380,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12400,7 +12400,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12412,7 +12412,7 @@
 		"Dragon's Breath": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12464,7 +12464,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				}
 			]
@@ -12504,7 +12504,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12532,7 +12532,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12556,7 +12556,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12612,7 +12612,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12636,7 +12636,7 @@
 		"Expeditious Retreat": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12660,7 +12660,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12704,7 +12704,7 @@
 		"False Life": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12724,7 +12724,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12744,7 +12744,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12828,7 +12828,7 @@
 		"Finger of Death": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12844,7 +12844,7 @@
 		"Fire Bolt": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12864,7 +12864,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12884,7 +12884,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				}
 			]
@@ -12892,7 +12892,7 @@
 		"Fireball": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12908,7 +12908,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				}
 			]
@@ -12928,7 +12928,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12944,7 +12944,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12956,7 +12956,7 @@
 		"Fly": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -12984,7 +12984,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13080,7 +13080,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13096,7 +13096,7 @@
 		"Gaseous Form": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13116,7 +13116,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13192,7 +13192,7 @@
 		"Globe of Invulnerability": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13248,7 +13248,7 @@
 		"Grease": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13268,7 +13268,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13360,7 +13360,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13416,7 +13416,7 @@
 		"Haste": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13524,7 +13524,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13552,7 +13552,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13596,7 +13596,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13616,7 +13616,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13632,7 +13632,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13692,7 +13692,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13720,7 +13720,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				}
 			]
@@ -13732,7 +13732,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13772,7 +13772,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13792,7 +13792,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13872,7 +13872,7 @@
 		"Levitate": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13896,7 +13896,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -13920,7 +13920,7 @@
 		"Lightning Bolt": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14028,7 +14028,7 @@
 		"Mage Armor": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14044,7 +14044,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14092,7 +14092,7 @@
 		"Magic Missile": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14124,7 +14124,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14148,7 +14148,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14204,7 +14204,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14260,7 +14260,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14284,7 +14284,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14300,7 +14300,7 @@
 		"Meteor Swarm": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14324,7 +14324,7 @@
 		"Mind Sliver": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14340,7 +14340,7 @@
 		"Mind Spike": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14360,7 +14360,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14396,7 +14396,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14428,7 +14428,7 @@
 		"Misty Step": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14516,7 +14516,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14552,7 +14552,7 @@
 		"Otiluke's Freezing Sphere": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14612,7 +14612,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14684,7 +14684,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14720,7 +14720,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14748,7 +14748,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14788,7 +14788,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14808,7 +14808,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14840,7 +14840,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14864,7 +14864,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -14932,7 +14932,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15056,7 +15056,7 @@
 		"Ray of Frost": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15072,7 +15072,7 @@
 		"Ray of Sickness": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15160,7 +15160,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15228,7 +15228,7 @@
 		"Scorching Ray": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15276,7 +15276,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15296,7 +15296,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15348,7 +15348,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15360,7 +15360,7 @@
 		"Shield": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15400,7 +15400,7 @@
 		"Shocking Grasp": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15436,7 +15436,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15460,7 +15460,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15476,7 +15476,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15492,7 +15492,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15504,7 +15504,7 @@
 		"Sorcerous Burst": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				}
 			]
@@ -15580,7 +15580,7 @@
 		"Spider Climb": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15664,7 +15664,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15704,7 +15704,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15732,7 +15732,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15872,7 +15872,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15892,7 +15892,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15936,7 +15936,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -15980,7 +15980,7 @@
 		"Telekinesis": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16004,7 +16004,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16020,7 +16020,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16072,7 +16072,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16108,7 +16108,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16120,7 +16120,7 @@
 		"Time Stop": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16156,7 +16156,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16228,7 +16228,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16248,7 +16248,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16288,7 +16288,7 @@
 		"Vampiric Touch": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16312,7 +16312,7 @@
 		"Vitriolic Sphere": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16328,7 +16328,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16360,7 +16360,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16404,7 +16404,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16432,7 +16432,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16444,7 +16444,7 @@
 		"Web": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16492,7 +16492,7 @@
 		"Wish": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{
@@ -16504,7 +16504,7 @@
 		"Witch Bolt": {
 			"class": [
 				{
-					"name": "Sorcerer",
+					"name": "Hechicero",
 					"source": "XPHB"
 				},
 				{

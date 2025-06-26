@@ -100,8 +100,8 @@
 			]
 		},
 		{
-			"name": "Wild Magic Sorcery",
-			"shortName": "Wild Magic",
+			"name": "Hechicería de magia salvaje",
+			"shortName": "Magia salvaje",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",

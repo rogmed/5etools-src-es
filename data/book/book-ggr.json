@@ -1488,7 +1488,7 @@
 											"Izzet"
 										],
 										[
-											"{@class Hechicero||Wild Magic|Wild}",
+											"{@class Hechicero||Magia salvaje|Wild}",
 											"Izzet"
 										]
 									],
@@ -8763,7 +8763,7 @@
 											"rows": [
 												[
 													"1",
-													"Every spell cast in the area triggers a wild magic surge. (Roll on the {@table Wild Magic Surge|PHB} table in the \"Hechicero\" section of the {@i Player's Handbook}.)"
+													"Every spell cast in the area triggers a wild magic surge. (Roll on the {@table Sobrecarga de magia salvaje|PHB} table in the \"Hechicero\" section of the {@i Player's Handbook}.)"
 												],
 												[
 													"2",

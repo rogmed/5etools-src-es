@@ -393,7 +393,7 @@
 									"columns": 2,
 									"items": [
 										"{@class Barbarian|phb|Path of the Beast|Beast|TCE}",
-										"{@class Barbarian|phb|Path of Wild Magic|Wild Magic|TCE}"
+										"{@class Barbarian|phb|Senda de la magia salvaje|Magia salvaje|TCE}"
 									]
 								}
 							]

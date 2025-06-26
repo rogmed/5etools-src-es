@@ -9146,7 +9146,7 @@
 							"name": "Wild Magic Fog",
 							"entries": [
 								"Few know the origins of wild magic fog, with some claiming it is the creation of capricious gods while others believe it is the result of magical experimentation gone wrong. A {@dc 15} Intelligence ({@skill Arcana}) check reveals that this mist is wild magic fog.",
-								"Whenever a creature in wild magic fog casts a spell of 1st level or higher, roll on the {@table Wild Magic Surge|PHB} table in chapter 3, \"{@book Classes|PHB|3},\" of the {@book Player's Handbook|PHB} to create a magical effect."
+								"Whenever a creature in wild magic fog casts a spell of 1st level or higher, roll on the {@table Sobrecarga de magia salvaje|PHB} table in chapter 3, \"{@book Classes|PHB|3},\" of the {@book Player's Handbook|PHB} to create a magical effect."
 							]
 						}
 					]

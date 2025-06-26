@@ -793,10 +793,10 @@
 										},
 										{
 											"type": "entries",
-											"name": "Does a hechicero's {@table Wild Magic Surge|PHB} effect replace the effect of the spell that triggered it, or do both effects happen?",
+											"name": "Does a hechicero's {@table Sobrecarga de magia salvaje|PHB} effect replace the effect of the spell that triggered it, or do both effects happen?",
 											"id": "056",
 											"entries": [
-												"The spell and the {@table Wild Magic Surge|PHB} effect both happen. As clarified in the errata for the {@book Player's Handbook|PHB}, a surge effect that normally requires {@book concentration|PHB|10|Concentration} does not require concentration in this case."
+												"The spell and the {@table Sobrecarga de magia salvaje|PHB} effect both happen. As clarified in the errata for the {@book Player's Handbook|PHB}, a surge effect that normally requires {@book concentration|PHB|10|Concentration} does not require concentration in this case."
 											]
 										}
 									]
@@ -1066,10 +1066,10 @@
 										},
 										{
 											"type": "entries",
-											"name": "A wizard multiclasses into Wild Magic hechicero. Do spells cast from their spellbook trigger {@table Wild Magic Surge|PHB} if they are on the hechicero spell list, or do they have to gain them from hechicero to trigger?",
+											"name": "A wizard multiclasses into Wild Magic hechicero. Do spells cast from their spellbook trigger {@table Sobrecarga de magia salvaje|PHB} if they are on the hechicero spell list, or do they have to gain them from hechicero to trigger?",
 											"id": "076",
 											"entries": [
-												"From the {@book multiclassing rules|PHB|6|Spellcasting}: \"Each spell you know and prepare is associated with one of your classes\". This rule means only the spells gained from levels in hechicero trigger {@table Wild Magic Surge|PHB}."
+												"From the {@book multiclassing rules|PHB|6|Spellcasting}: \"Each spell you know and prepare is associated with one of your classes\". This rule means only the spells gained from levels in hechicero trigger {@table Sobrecarga de magia salvaje|PHB}."
 											]
 										}
 									]

@@ -20509,7 +20509,7 @@
 			"type": "OTH",
 			"rarity": "none",
 			"entries": [
-				"Introduced into Sharn by Daask, dragon's blood is a potent and highly addictive stimulant. In addition to inducing euphoria, it can enhance spellcasting ability or even temporarily imbue a user with the ability to cast hechicero spells. The drug's effects are potentially dangerous and always unpredictable. This isn't something a player character should want to use; adventurers are more likely to interfere with Daask smugglers or deal with an addict who accidentally casts a {@spell fireball} in a crowded street. The specific effects of dragon's blood are up to you, but you can take inspiration from the {@table Wild Magic Surge|PHB} table in the {@book Player's Handbook|PHB}."
+				"Introduced into Sharn by Daask, dragon's blood is a potent and highly addictive stimulant. In addition to inducing euphoria, it can enhance spellcasting ability or even temporarily imbue a user with the ability to cast hechicero spells. The drug's effects are potentially dangerous and always unpredictable. This isn't something a player character should want to use; adventurers are more likely to interfere with Daask smugglers or deal with an addict who accidentally casts a {@spell fireball} in a crowded street. The specific effects of dragon's blood are up to you, but you can take inspiration from the {@table Sobrecarga de magia salvaje|PHB} table in the {@book Player's Handbook|PHB}."
 			]
 		},
 		{
@@ -24143,8 +24143,8 @@
 			],
 			"entries": [
 				"This warm crystal glints with the sunset colors of the Feywild sky and evokes whispers of emotional memory. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.",
-				"When you use a Metamagic option on a spell while you are holding or wearing the shard, you can roll on the {@table Wild Magic Surge|PHB} table in the {@book Player's Handbook|PHB}. If the result is a spell, it is too wild to be affected by your Metamagic, and if it normally requires {@status concentration}, it doesn't require {@status concentration} in this case; the spell lasts for its full duration.",
-				"If you don't have the Wild Magic Sorcerous Origin, once this property is used to roll on the {@table Wild Magic Surge|PHB} table, it can't be used again until the next dawn."
+				"When you use a Metamagic option on a spell while you are holding or wearing the shard, you can roll on the {@table Sobrecarga de magia salvaje|PHB} table in the {@book Player's Handbook|PHB}. If the result is a spell, it is too wild to be affected by your Metamagic, and if it normally requires {@status concentration}, it doesn't require {@status concentration} in this case; the spell lasts for its full duration.",
+				"If you don't have the Wild Magic Sorcerous Origin, once this property is used to roll on the {@table Sobrecarga de magia salvaje|PHB} table, it can't be used again until the next dawn."
 			],
 			"hasFluffImages": true
 		},
@@ -66553,7 +66553,7 @@
 						[
 							"70",
 							"You know one cantrip of the DM's choice, and can cast one 1st-level spell of the DM's choice at will.",
-							"Whenever you cast a spell or use a magic item property that requires an action or a bonus action to activate, roll on the {@table Wild Magic Surge|PHB} table (see the hechicero section in chapter 3 of the Player's Handbook) to see what happens."
+							"Whenever you cast a spell or use a magic item property that requires an action or a bonus action to activate, roll on the {@table Sobrecarga de magia salvaje|PHB} table (see the hechicero section in chapter 3 of the Player's Handbook) to see what happens."
 						],
 						[
 							"71",

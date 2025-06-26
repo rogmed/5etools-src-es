@@ -10213,7 +10213,7 @@
 								{
 									"type": "item",
 									"name": "Place",
-									"entry": "A place where magic has caused destruction, doesn't work (like the effect of an {@spell Antimagic Field}), or works unpredictably (perhaps triggering {@table Wild Magic Surge|PHB|wild magic surges})."
+									"entry": "A place where magic has caused destruction, doesn't work (like the effect of an {@spell Antimagic Field}), or works unpredictably (perhaps triggering {@table Sobrecarga de magia salvaje|PHB|wild magic surges})."
 								},
 								{
 									"type": "item",

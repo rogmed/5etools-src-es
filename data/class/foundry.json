@@ -7342,7 +7342,7 @@
 			"source": "TCE",
 			"className": "Barbarian",
 			"classSource": "PHB",
-			"subclassShortName": "Wild Magic",
+			"subclassShortName": "Magia salvaje",
 			"subclassSource": "TCE",
 			"level": 3,
 			"activities": [
@@ -20738,16 +20738,16 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Bend Luck",
+			"name": "Doblegar la suerte",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Magic",
+			"subclassShortName": "Magia salvaje",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"activities": [
 				{
-					"name": "Bend Luck",
+					"name": "Doblegar la suerte",
 					"type": "utility",
 					"activation": {
 						"type": "reaction",

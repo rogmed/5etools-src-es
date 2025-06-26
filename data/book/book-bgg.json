@@ -5124,8 +5124,8 @@
 										},
 										{
 											"type": "item",
-											"name": "Wild Magic",
-											"entry": "The Feywild energy that fuels the crystal interacts unpredictably with other magic. Whenever a creature casts a spell of 1st level or higher within the glade, that creature must succeed on a {@dc 10} saving throw using its spellcasting ability or roll on the {@table Wild Magic Surge|PHB|Wild Magic Surge table} (see the \"{@class Hechicero}\" section in the {@book Player's Handbook|PHB})."
+											"name": "Magia salvaje",
+											"entry": "The Feywild energy that fuels the crystal interacts unpredictably with other magic. Whenever a creature casts a spell of 1st level or higher within the glade, that creature must succeed on a {@dc 10} saving throw using its spellcasting ability or roll on the {@table Sobrecarga de magia salvaje|PHB|Sobrecarga de magia salvaje table} (see the \"{@class Hechicero}\" section in the {@book Player's Handbook|PHB})."
 										}
 									]
 								}

@@ -711,18 +711,18 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Wild Magic Sorcery",
-			"shortName": "Wild Magic",
+			"name": "Hechicería de magia salvaje",
+			"shortName": "Magia salvaje",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
 			"page": 149,
 			"edition": "one",
 			"subclassFeatures": [
-				"Wild Magic Sorcery|Hechicero|XPHB|Wild Magic|XPHB|3",
-				"Bend Luck|Hechicero|XPHB|Wild Magic|XPHB|6",
-				"Controlled Chaos|Hechicero|XPHB|Wild Magic|XPHB|14",
-				"Tamed Surge|Hechicero|XPHB|Wild Magic|XPHB|18"
+				"Hechicería de magia salvaje|Hechicero|XPHB|Magia salvaje|XPHB|3",
+				"Doblegar la suerte|Hechicero|XPHB|Magia salvaje|XPHB|6",
+				"Caos controlado|Hechicero|XPHB|Magia salvaje|XPHB|14",
+				"Sobrecarga domada|Hechicero|XPHB|Magia salvaje|XPHB|18"
 			],
 			"hasFluffImages": true
 		}
@@ -1706,61 +1706,61 @@
 			]
 		},
 		{
-			"name": "Wild Magic Sorcery",
+			"name": "Hechicería de magia salvaje",
 			"source": "XPHB",
-			"page": 149,
+			"page": 130,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Magic",
+			"subclassShortName": "Magia salvaje",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Unleash Chaotic Magic}",
-				"Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. Whatever its source, this magic churns within you, waiting for any outlet.",
+				"{@i Desata una magia caótica}",
+				"Tu magia innata proviene de las fuerzas del caos que subyacen en el orden de la creación. Es posible que tú o un antepasado hayáis estado expuestos a magia en bruto, quizá a través de un portal interplanar que llevaba a Limbo o los Planos Elementales. A lo mejor te bendijo un ser feérico o te marcó un demonio, o puede que tu magia se deba a un suceso casual, sin motivo aparente. Sea cual sea su origen, la magia bulle en tu interior, esperando la oportunidad de manifestarse.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Wild Magic Surge|Hechicero|XPHB|Wild Magic|XPHB|3"
+					"subclassFeature": "Sobrecarga de magia salvaje|Hechicero|XPHB|Magia salvaje|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Tides of Chaos|Hechicero|XPHB|Wild Magic|XPHB|3"
+					"subclassFeature": "Mareas del caos|Hechicero|XPHB|Magia salvaje|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Tides of Chaos",
+			"name": "Mareas del caos",
 			"source": "XPHB",
-			"page": 149,
+			"page": 130,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Magic",
+			"subclassShortName": "Magia salvaje",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can manipulate chaos itself to give yourself {@variantrule Advantage|XPHB} on one {@variantrule D20 Test|XPHB} before you roll the {@dice d20}. Once you do so, you must cast a Hechicero spell with a spell slot or finish a {@variantrule Long Rest|XPHB} before you can use this feature again.",
-				"If you do cast a Hechicero spell with a spell slot before you finish a {@variantrule Long Rest|XPHB}, you automatically roll on the {@table Wild Magic Surge|XPHB} table."
+				"Puedes manipular el propio caos para otorgarte ventaja en una prueba con d20 antes de que tires el dado. Una vez que lo hagas, deberás lanzar un conjuro de hechicero con un espacio de conjuro o finalizar un descanso largo para poder usar este rasgo de nuevo.",
+				"Si lanzas un conjuro de hechicero usando un espacio de conjuro antes de finalizar un descanso largo, tira automáticamente en la tabla “Sobrecarga de magia salvaje”."
 			]
 		},
 		{
-			"name": "Wild Magic Surge",
+			"name": "Sobrecarga de magia salvaje",
 			"source": "XPHB",
-			"page": 149,
+			"page": 130,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Magic",
+			"subclassShortName": "Magia salvaje",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Your spellcasting can unleash surges of untamed magic. Once per turn, you can roll {@dice 1d20} immediately after you cast a Hechicero spell with a spell slot. If you roll a 20, roll on the Wild Magic Surge table to create a magical effect.",
-				"If the magical effect is a spell, it is too wild to be affected by your Metamagia.",
+				"Tu lanzamiento de conjuros puede desencadenar sobrecargas de magia descontrolada. Una vez por turno, puedes tirar 1d20 nada más lanzar un conjuro de hechicero con un espacio de conjuro. Si sacas un 20, tira en la tabla “Sobrecarga de magia salvaje” para crear un efecto mágico.",
+				"Si el efecto mágico es un conjuro, este será demasiado salvaje para verse afectado por tu metamagia.",
 				{
 					"type": "table",
-					"caption": "Wild Magic Surge",
+					"caption": "Sobrecarga de magia salvaje",
 					"colLabels": [
 						"{@dice 1d100}",
-						"Effect"
+						"Efecto"
 					],
 					"colStyles": [
 						"col-1 text-center",
@@ -1769,103 +1769,103 @@
 					"rows": [
 						[
 							"01\u201304",
-							"Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls."
+							"Tira en esta tabla al principio de cada uno de tus turnos durante el próximo minuto, ignorando este resultado en esas tiradas."
 						],
 						[
 							"05\u201308",
-							"A creature that is Friendly toward you appears in a random unoccupied space within 60 feet of you. The creature is under the DM's control and disappears 1 minute later. Roll {@dice 1d4} to determine the creature: on a 1, a Modron Duodrone appears; on a 2, a Flumph appears; on a 3, a Modron Monodrone appears; on a 4, a Unicorn appears. See the Monster Manual for the creature's stat block."
+							"Una criatura amistosa contigo aparecerá en un espacio sin ocupar aleatorio a 60 pies (18 m) o menos de ti. La criatura está bajo el control de tu DM y desaparecerá 1 minuto después. Tira 1d4 para determinar la criatura: si el resultado es 1, aparecerá un modron duodron; si es 2, aparecerá un flumph, si es 3, aparecerá un modron monodron; si es 4, aparecerá un unicornio. Consulta el Manual de monstruos para conocer el perfil de la criatura."
 						],
 						[
 							"09\u201312",
-							"For the next minute, you regain 5 {@variantrule Hit Points|XPHB} at the start of each of your turns."
+							"Durante el próximo minuto, recuperas 5 puntos de golpe al principio de cada uno la de tus turnos."
 						],
 						[
 							"13\u201316",
-							"Creatures have {@variantrule Disadvantage|XPHB} on saving throws against the next spell you cast in the next minute that involves a saving throw."
+							"Las criaturas tienen desventaja en las tiradas de salvación contra el siguiente conjuro que lances durante el próximo minuto y que implique hacer tiradas de salvación."
 						],
 						[
 							"17\u201320",
-							"You are subjected to an effect that lasts for 1 minute unless its description says otherwise. Roll {@dice 1d8} to determine the effect: on a 1, you're surrounded by faint, ethereal music only you and creatures within 5 feet of you can hear; on a 2, your size increases by one size category; on a 3, you grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode from your face and vanish; on a 4, you must shout when you speak; on a 5, illusory butterflies flutter in the air within 10 feet of you; on a 6, an eye appears on your forehead, granting you {@variantrule Advantage|XPHB} on Wisdom ({@skill Perception|XPHB}) checks; on an 7, pink bubbles float out of your mouth whenever you speak; on an 8, your skin turns a vibrant shade of blue for 24 hours or until the effect is ended by a {@spell Remove Curse|XPHB} spell."
+							"Sufres un efecto que dura 1 minuto salvo que la descripción indique algo diferente. Tira 1d8 para determinar el efecto: si el resultado es <b>1</b>, te rodea una débil música etérea que solo tú y las criaturas a 1,5 m o menos de ti podéis oír; si es <b>2</b>, tu tamaño aumenta en una categoría; si es <b>3</b>, te crece una larga barba de plumas que permanece hasta que estornudas, momento en el cual las plumas salen despedidas de tu rostro y se desvanecen; si es <b>4</b>, deberás gritar siempre que hables; si es <b>5</b>, unas mariposas ilusorias revolotean a 3 m o menos de ti; b si es <b>6</b>, te aparece un ojo en la frente, lo que te dará ventaja en pruebas de Sabiduría (Percepción); si es <b>7</b>, te saldrán burbujas rosas flotando de la boca al hablar; si es <b>8</b>, tu piel se volverá de un brillante color azul durante 24 horas o hasta que se le ponga fin al efecto con un conjuro levantar maldición."
 						],
 						[
 							"21\u201324",
-							"For the next minute, all your spells with a casting time of an action have a casting time of a {@variantrule Bonus Action|XPHB}."
+							"Durante el próximo minuto, todos tus conjuros con un tiempo de lanzamiento de una acción poseen un tiempo de lanzamiento de una acción adicional."
 						],
 						[
 							"25\u201328",
-							"You are transported to the Astral Plane until the end of your next turn. You then return to the space you previously occupied or the nearest unoccupied space if that space is occupied."
+							"Te teletransportas al Plano Astral hasta el final de tu siguiente turno. A continuación, vuelves al espacio que ocupabas antes o al más cercano sin ocupar si ese espacio ya está ocupado."
 						],
 						[
 							"29\u201332",
-							"The next time you cast a spell that deals damage within the next minute, don't roll the spell's damage dice for the damage. Instead use the highest number possible for each damage die."
+							"La siguiente vez que lances un conjuro que cause daño durante el próximo minuto, no tiras los dados de daño del conjuro. En su lugar, usa el número más alto posible para cada dado de daño."
 						],
 						[
 							"33\u201336",
-							"You have {@variantrule Resistance|XPHB} to all damage for the next minute."
+							"Tienes resistencia a todo el daño durante el próximo minuto."
 						],
 						[
 							"37\u201340",
-							"You turn into a potted plant until the start of your next turn. While you're a plant, you have the {@condition Incapacitated|XPHB} condition and have {@variantrule Vulnerability|XPHB} to all damage. If you drop to 0 {@variantrule Hit Points|XPHB}, your pot breaks, and your form reverts."
+							"Te transformas en una planta en una maceta hasta el principio de tu siguiente turno. Mientras seas una planta, tendrás el estado de {@condition incapacitado|XPHB} y serás vulnerable a todo el daño. Si tus puntos de golpe se reducen a 0, se romperá la maceta y volverás a tu forma anterior."
 						],
 						[
 							"41\u201344",
-							"For the next minute, you can teleport up to 20 feet as a {@variantrule Bonus Action|XPHB} on each of your turns."
+							"Durante el próximo minuto, puedes teletransportarte hasta 20 pies (6 m) como acción adicional durante cada uno de tus turnos."
 						],
 						[
 							"45\u201348",
-							"You and up to three creatures you choose within 30 feet of you have the {@condition Invisible|XPHB} condition for 1 minute. This invisibility ends on a creature immediately after it makes an attack roll, deals damage, or casts a spell."
+							"Tú y hasta tres criaturas que elijas a 30 pies (9 m) o menos de ti tenéis el estado de {@condition Invisible|XPHB|Invisibles} durante 1 minuto. Esta invisibilidad terminará inmediatamente después de que una criatura realice una tirada de ataque, cause daño o lance un conjuro."
 						],
 						[
 							"49\u201352",
-							"A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to {@spell Magic Missile|XPHB}."
+							"Un escudo espectral levita cerca de ti durante el próximo minuto, lo que te otorga un bonificador de +2 a la CA e inmunidad a {@spell Proyectil mágico|XPHB}."
 						],
 						[
 							"53\u201356",
-							"You can take one extra action on this turn."
+							"Puedes realizar una acción extra durante este turno."
 						],
 						[
 							"57\u201360",
-							"You cast a random spell. If the spell normally requires {@status Concentration|XPHB}, it doesn't require {@status Concentration|XPHB} in this case; the spell lasts for its full duration. Roll {@dice 1d10} to determine the spell: on a 1, {@spell Confusion|XPHB}; on a 2, {@spell Fireball|XPHB}; on a 3, {@spell Fog Cloud|XPHB}; on a 4, {@spell Fly|XPHB} (cast on a random creature within 60 feet of you), on a 5, {@spell Grease|XPHB}; on a 6, {@spell Levitate|XPHB} (cast on yourself); on a 7, {@spell Magic Missile|XPHB} (cast as a level 5 spell); on an 8, {@spell Mirror Image|XPHB}; on a 9, {@spell Polymorph|XPHB} (cast on yourself), and if you fail the saving throw, you turn into a Goat (see appendix B); on a 10, {@spell See Invisibility|XPHB}."
+							"Lanzas un conjuro aleatorio. Si normalmente requiere {@status Concentración|XPHB}, no la necesitará en este caso; el conjuro se mantiene toda su duración. Tira 1d10 para determinar el conjuro: si el resultado es 1, lanzas bola de fuego; si es 2, confusión; si es 3, grasa; si es 4, imagen múltiple; si es 5, levitar (sobre ti); si es 6, nube de oscurecimiento; si es 7, polimorfar (sobre ti), y si fallas la tirada de salvación, te conviertes en una cabra (consulta el apéndice B); si es 8, proyectil mágico (como conjuro de nivel 5); si es 9, ver invisibilidad; si es 10, volar (sobre una criatura aleatoria que esté a 18 m o menos de ti)."
 						],
 						[
 							"61\u201364",
-							"For the next minute, any flammable, nonmagical object you touch that isn't being worn or carried by another creature bursts into flame, takes {@damage 1d4} Fire damage, and is burning."
+							"Durante el próximo minuto, cualquier objeto no mágico inflamable que toques y no esté llevando o vistiendo otra criatura se prenderá fuego, pracónica sufrirá 1d4 de daño de fuego y arderá."
 						],
 						[
 							"65\u201368",
-							"If you die within the next hour, you immediately revive as if by the {@spell Reincarnate|XPHB} spell."
+							"Si mueres durante la próxima hora, volverás inmediatamente a la vida como si te hubieran lanzado el conjuro reencarnar."
 						],
 						[
 							"69\u201372",
-							"You have the {@condition Frightened|XPHB} condition until the end of your next turn. The DM determines the source of your fear."
+							"Tienes el estado de {@condition Asustado|XPHB} hasta el final de tu siguiente turno. Tu DM establece el motivo del miedo."
 						],
 						[
 							"73\u201376",
-							"You teleport up to 60 feet to an unoccupied space you can see."
+							"Teteletransportas hasta 60 pies (18 m) a un espacio sin ocupar que puedas ver."
 						],
 						[
 							"77\u201380",
-							"A random creature within 60 feet of you has the {@condition Envenenado|XPHB} condition for {@dice 1d4} hours."
+							"Una criatura aleatoria a 60 pies (18 m) o menos de ti tendrá el estado de {@condition Envenenado|XPHB} durante 1d4 horas."
 						],
 						[
 							"81\u201384",
-							"You radiate {@variantrule Bright Light|XPHB} in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you has the {@condition Blinded|XPHB} condition until the end of its next turn."
+							"Durante el próximo minuto, emites una luz brillante en un radio de 30 pies (9 m). Cualquier criatura que acabe su turno a 5 pies (1,5 m) o menos de ti tendrá el estado de {@condition Cegado|XPHB} hasta el final de su siguiente turno."
 						],
 						[
 							"85\u201388",
-							"Up to three creatures of your choice that you can see within 30 feet of you take {@damage 1d10} Necrotic damage. You regain {@variantrule Hit Points|XPHB} equal to the sum of the Necrotic damage dealt."
+							"Hasta tres criaturas de tu elección que puedas ver a 30 pies (9 m) o menos de ti sufren 1d10 de daño necrótico. Recuperas una cantidad de puntos de golpe igual al daño necrótico causado."
 						],
 						[
 							"89\u201392",
-							"Up to three creatures of your choice that you can see within 30 feet of you take {@damage 4d10} Lightning damage."
+							"Hasta tres criaturas de tu elección que puedas ver a 30 pies (9 m) o menos de ti sufren 4d10 de daño de relámpago."
 						],
 						[
 							"93\u201396",
-							"You and all creatures within 30 feet of you have {@variantrule Vulnerability|XPHB} to Piercing damage for the next minute."
+							"Tú y todas las criaturas que estén a 9 m o menos de ti tenéis vulnerabilidad al daño perforante durante el próximo minuto."
 						],
 						[
 							"97\u201300",
-							"Roll {@dice 1d6} On a 1, you regain {@dice 2d10} {@variantrule Hit Points|XPHB}; on a 2, one ally of your choice within 300 feet of you regains {@dice 2d10} {@variantrule Hit Points|XPHB}; on a 3, you regain your lowest-level expended spell slot; on a 4, one ally of your choice within 300 feet of you regains their lowest-level expended spell slot; on a 5, you regain all your expended Sorcery Points; on a 6, all the effects of row 17\u201320 affect you simultaneously."
+							"Tira 1d6. Si el resultado es 1, recuperas 2d10 puntos de golpe; si es 2, un aliado de tu elección a 300 pies (90 m) o menos de ti recupera 2d10 puntos de golpe; si es 3, recuperas tu espacio de conjuro de menor nivel; si es 4, un aliado de tu elección a 300 pies (90 m) o menos de ti recupera su espacio de conjuro de menor nivel; si es 5, recuperas todos los puntos de hechicería; si es 6, se aplican a la vez todos los efectos de la fila 17-20."
 						]
 					],
 					"data": {
@@ -1877,12 +1877,12 @@
 			]
 		},
 		{
-			"name": "Bend Luck",
+			"name": "Doblegar la suerte",
 			"source": "XPHB",
-			"page": 149,
+			"page": 130,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Magic",
+			"subclassShortName": "Magia salvaje",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
@@ -1890,36 +1890,36 @@
 				"name": "Punto de hechicería"
 			},
 			"entries": [
-				"You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the {@dice d20} for a {@variantrule D20 Test|XPHB}, you can take a {@variantrule Reaction|XPHB} and spend 1 Sorcery Point to roll {@dice 1d4} and apply the number rolled as a bonus or penalty (your choice) to the {@dice d20} roll."
+				"Tienes la capacidad de retorcer el destino con tu magia salvaje. Inmediatamente después de que otra criatura que puedas ver tire para una prueba con d20, puedes usar una reacción y gastar 1 punto de hechicería para tirar 1d4 y aplicar el resultado como bonificador o penalizador (tú eliges) a ese d20."
 			]
 		},
 		{
-			"name": "Controlled Chaos",
+			"name": "Caos controlado",
 			"source": "XPHB",
-			"page": 149,
+			"page": 130,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Magic",
+			"subclassShortName": "Magia salvaje",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"You gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild {@action Magic|XPHB} Surge table, you can roll twice and use either number."
+				"Adgquieres un ápice de control sobre las sobrecargas de tu magia salvaje. Siempre que tires en la tabla “Sobrecarga de magia salvaje”, puedes lanzar dos veces y usar el resultado que quieras."
 			]
 		},
 		{
-			"name": "Tamed Surge",
+			"name": "Sobrecarga domada",
 			"source": "XPHB",
-			"page": 150,
+			"page": 130,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Magic",
+			"subclassShortName": "Magia salvaje",
 			"subclassSource": "XPHB",
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"Immediately after you cast a Hechicero spell with a spell slot, you can create an effect of your choice from the {@table Wild Magic Surge|XPHB} table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}."
+				"Inmediatamente después de lanzar un conjuro de hechicero con un espacio de conjuro, puedes crear un efecto de tu elección de la tabla {@table Sobrecarga de magia salvaje|XPHB} en lugar de tirar en la tabla. Puedes elegir cualquier efecto de la tabla excepto la última fila, y si el efecto elegido implica una tirada, debes hacerla.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo."
 			]
 		}
 	]

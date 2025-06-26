@@ -629,8 +629,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Clockwork Sorcery",
-			"shortName": "Clockwork",
+			"name": "Hechicería mecánica",
+			"shortName": "Mecánica",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
@@ -661,10 +661,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Clockwork Sorcery|Hechicero|XPHB|Clockwork|XPHB|3",
-				"Bastion of Law|Hechicero|XPHB|Clockwork|XPHB|6",
-				"Trance of Order|Hechicero|XPHB|Clockwork|XPHB|14",
-				"Clockwork Cavalcade|Hechicero|XPHB|Clockwork|XPHB|18"
+				"Hechicería mecánica|Hechicero|XPHB|Mecánica|XPHB|3",
+				"Bastión de la ley|Hechicero|XPHB|Mecánica|XPHB|6",
+				"Trance de orden|Hechicero|XPHB|Mecánica|XPHB|14",
+				"Cabalgata mecánica|Hechicero|XPHB|Mecánica|XPHB|18"
 			],
 			"hasFluffImages": true
 		},
@@ -1361,45 +1361,45 @@
 			]
 		},
 		{
-			"name": "Clockwork Sorcery",
+			"name": "Hechicería mecánica",
 			"source": "XPHB",
 			"page": 146,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Clockwork",
+			"subclassShortName": "Mecánica",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Channel Cosmic Forces of Order}",
-				"The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it\u2014a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system.",
+				"{@i Canaliza las fuerzas cósmicas del orden}",
+				"La fuerza cósmica del orden te ha imbuido de magia. Ese poder surge de Mechanus o de un reino similar, un plano de existencia modelado enteramente por la eficacia de la mecánica de un reloj. O tú o alguien de tu linaje habéis debido enredaros en las maquinaciones de los modrons, los organizados seres que habitan Mechanus. Incluso es posible que un antepasado tuyo participase en la Gran Marcha Modron. Sea cual sea su origen en tu caso, el poder del orden puede parecerle extraño a otros, pero, para ti, forma parte de un inmenso y glorioso sistema.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Clockwork Spells|Hechicero|XPHB|Clockwork|XPHB|3"
+					"subclassFeature": "Conjuros mecánicos|Hechicero|XPHB|Mecánica|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Restore Balance|Hechicero|XPHB|Clockwork|XPHB|3"
+					"subclassFeature": "Restablecer equilibrio|Hechicero|XPHB|Mecánica|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Clockwork Spells",
+			"name": "Conjuros mecánicos",
 			"source": "XPHB",
 			"page": 146,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Clockwork",
+			"subclassShortName": "Mecánica",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Hechicero level specified in the Clockwork Spells table, you thereafter always have the listed spells prepared.",
+				"Cuando alcances un nivel de hechicero especificado en la tabla “Conjuros mecánicos”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Clockwork Spells",
+					"caption": "Conjuros mecánicos",
 					"colLabels": [
-						"Hechicero Level",
-						"Spells"
+						"Nivel de hechicero",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1407,30 +1407,30 @@
 					],
 					"rows": [
 						[
-							"3rd",
+							"3",
 							"{@spell Aid|XPHB}, {@spell Alarm|XPHB}, {@spell Lesser Restoration|XPHB}, {@spell Protection from Evil and Good|XPHB}"
 						],
 						[
-							"5th",
+							"5",
 							"{@spell Dispel Magic|XPHB}, {@spell Protection From Energy|XPHB}"
 						],
 						[
-							"7th",
+							"7",
 							"{@spell Freedom of Movement|XPHB}, {@spell Summon Construct|XPHB}"
 						],
 						[
-							"9th",
+							"9",
 							"{@spell Greater Restoration|XPHB}, {@spell Wall of Force|XPHB}"
 						]
 					]
 				},
-				"In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Hechicero spells.",
+				"Además, consulta la tabla “Manifestaciones del orden” y elige o determina al azar el modo en que quieres que se manifieste tu conexión con el orden mientras lanzas cualquiera de tus conjuros de hechicero.",
 				{
 					"type": "table",
-					"caption": "Manifestations of Order",
+					"caption": "Manifestaciones del orden",
 					"colLabels": [
 						"{@dice 1d6}",
-						"Manifestation"
+						"Manifestación"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1439,54 +1439,54 @@
 					"rows": [
 						[
 							"1",
-							"Spectral cogwheels hover behind you."
+							"Unos engranajes espectrales levitan tras de ti."
 						],
 						[
 							"2",
-							"The hands of a clock spin in your eyes."
+							"Las manecillas de un reloj giran en tus ojos."
 						],
 						[
 							"3",
-							"Your skin glows with a brassy sheen."
+							"Tupiel resplandece con un brillo metálico."
 						],
 						[
 							"4",
-							"Floating equations and geometric objects overlay your body."
+							"Objetos geométricos y ecuaciones flotantes recubren tu cuerpo."
 						],
 						[
 							"5",
-							"Your {@variantrule Spellcasting Focus|XPHB} temporarily takes the form of a Tiny clockwork mechanism."
+							"Tucanalizador mágico adopta temporalmente la forma de un mecanismo de relojería Diminuto."
 						],
 						[
 							"6",
-							"The ticking of gears or ringing of a clock can be heard by you and those affected by your magic."
+							"Tanto tú como aquellos afectados por tu magia podéis escuchar el tictac de los engranajes o el timbre de un reloj."
 						]
 					]
 				}
 			]
 		},
 		{
-			"name": "Restore Balance",
+			"name": "Restablecer equilibrio",
 			"source": "XPHB",
 			"page": 146,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Clockwork",
+			"subclassShortName": "Mecánica",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of yourself is about to roll a {@dice d20} with {@variantrule Advantage|XPHB} or {@variantrule Disadvantage|XPHB}, you can take a {@variantrule Reaction|XPHB} to prevent the roll from being affected by {@variantrule Advantage|XPHB} and {@variantrule Disadvantage|XPHB}.",
-				"You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"Tu conexión con el plano del orden absoluto te permite ecualizar momentos caóticos. Cuando una criatura que puedas ver a 60 pies (18 m) o menos de ti esté a punto de tirar un d20 con ventaja o desventaja, puedes usar una reacción para impedir que la tirada tenga ventaja y desventaja.",
+				"Puedes usar este rasgo una cantidad de veces igual a tu modificador por Carisma (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo."
 			]
 		},
 		{
-			"name": "Bastion of Law",
+			"name": "Bastión de la ley",
 			"source": "XPHB",
 			"page": 147,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Clockwork",
+			"subclassShortName": "Mecánica",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
@@ -1496,17 +1496,17 @@
 				"amountMax": 5
 			},
 			"entries": [
-				"You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As a {@action Magic|XPHB} action, you can expend 1 to 5 Sorcery Points to create a magical ward around yourself or another creature you can see within 30 feet of yourself. The ward is represented by a number of d8s equal to the number of Sorcery Points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.",
-				"The ward lasts until you finish a {@variantrule Long Rest|XPHB} or until you use this feature again."
+				"Puedes acceder a la gran ecuación de la existencia para imbuir a una criatura de un escudo resplandeciente de orden. Como acción de magia, puedes gastar de la 5 puntos de hechicería para crear una protección mágica a tu alrededor o alrededor de otra criatura que puedas ver a 30 pies (9 m) o menos de ti. Esta protección está representada por un número de d8 igual a la cantidad de puntos de hechicería gastados para crearla. Si la criatura protegida recibe daño, puede gastar varios de esos dados, tirarlos y restar el resultado al daño recibido.",
+				"La protección durará hasta que finalices un descanso largo o hasta que vuelvas a usar este rasgo."
 			]
 		},
 		{
-			"name": "Trance of Order",
+			"name": "Trance de orden",
 			"source": "XPHB",
 			"page": 147,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Clockwork",
+			"subclassShortName": "Mecánica",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
@@ -1515,17 +1515,17 @@
 				"amount": 5
 			},
 			"entries": [
-				"You gain the ability to align your consciousness with the endless calculations of Mechanus. As a {@variantrule Bonus Action|XPHB}, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from {@variantrule Advantage|XPHB}, and whenever you make a {@variantrule D20 Test|XPHB}, you can treat a roll of 9 or lower on the {@dice d20} as a 10.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB} unless you spend 5 Sorcery Points (no action required) to restore your use of it."
+				"Obtienes la capacidad de alinear tu consciencia con los infinitos cálculos de Mechanus. Como acción adicional, puedes entrar en este estado durante 1 minuto. Mientras dure, las tiradas de ataque contra ti no podrán tener ventaja y siempre que realices una prueba con d20, podrás sustituir un resultado de 9 o menos en el 420 por un 10.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes 5 puntos de hechicería (no requiere acción) para restablecer su uso."
 			]
 		},
 		{
-			"name": "Clockwork Cavalcade",
+			"name": "Cabalgata mecánica",
 			"source": "XPHB",
 			"page": 147,
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Clockwork",
+			"subclassShortName": "Mecánica",
 			"subclassSource": "XPHB",
 			"level": 18,
 			"header": 2,
@@ -1534,29 +1534,29 @@
 				"amount": 7
 			},
 			"entries": [
-				"You momentarily summon spirits of order to expunge disorder around you. As a {@action Magic|XPHB} action, you summon the spirits in a 30-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the {@variantrule Cube [Area of Effect]|XPHB|Cube} before vanishing. Once you use this action, you can't use it again until you finish a {@variantrule Long Rest|XPHB} unless you spend 7 Sorcery Points (no action required) to restore your use of it.",
+				"Invocas espíritus del orden temporalmente para acabar con el desorden que te rodea. Como acción de magia, invocas los espíritus en un cubo de 30 pies (9 m) de lado que se origina en ti. Los espíritus tienen aspecto de modrons o de otros autómatas de tu elección. Los espíritus son intangibles e invulnerables y crean los efectos indicados a continuación dentro del cubo antes dedesvanecerse. Cuando uses esta acción, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes 7 puntos de hechicería (no requiere acción) para restablecer su uso.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Heal",
+							"name": "Curar",
 							"entries": [
-								"The spirits restore up to 100 {@variantrule Hit Points|XPHB}, divided as you choose among any number of creatures of your choice in the {@variantrule Cube [Area of Effect]|XPHB|Cube}."
+								"Los espíritus permiten recuperar hasta 100 puntos de golpe, repartidos como tú elijas entre una cantidad de criaturas de tu elección que estén en el cubo."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Repair",
+							"name": "Reparar.",
 							"entries": [
-								"Any damaged objects entirely in the {@variantrule Cube [Area of Effect]|XPHB|Cube} are repaired instantly."
+								"Todos los objetos dañados que estén por completo en el cubo se reparan al instante."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Dispel",
+							"name": "Disipar.",
 							"entries": [
-								"Every spell of level 6 and lower ends on creatures and objects of your choice in the {@variantrule Cube [Area of Effect]|XPHB|Cube}."
+								"Se acaban todos los conjuros de nivel 6 o inferior sobre criaturas u objetos de tu elección que estén en el cubo."
 							]
 						}
 					]

@@ -62,8 +62,8 @@
 			]
 		},
 		{
-			"name": "Clockwork Sorcery",
-			"shortName": "Clockwork",
+			"name": "Hechicería mecánica",
+			"shortName": "Mecánica",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",

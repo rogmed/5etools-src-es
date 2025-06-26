@@ -10773,7 +10773,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Restore Balance",
+			"name": "Restablecer equilibrio",
 			"source": "TCE",
 			"className": "Hechicero",
 			"classSource": "PHB",
@@ -10798,7 +10798,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Bastion of Law",
+			"name": "Bastión de la ley",
 			"source": "TCE",
 			"className": "Hechicero",
 			"classSource": "PHB",
@@ -10823,7 +10823,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Clockwork Cavalcade",
+			"name": "Cabalgata mecánica",
 			"source": "TCE",
 			"className": "Hechicero",
 			"classSource": "PHB",
@@ -20181,11 +20181,11 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Restore Balance",
+			"name": "Restablecer equilibrio",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Clockwork",
+			"subclassShortName": "Mecánica",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"system": {
@@ -20229,11 +20229,11 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Bastion of Law",
+			"name": "Bastión de la ley",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Clockwork",
+			"subclassShortName": "Mecánica",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"activities": [
@@ -20285,11 +20285,11 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Trance of Order",
+			"name": "Trance de orden",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Clockwork",
+			"subclassShortName": "Mecánica",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"activities": [
@@ -20373,11 +20373,11 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Clockwork Cavalcade",
+			"name": "Cabalgata mecánica",
 			"source": "XPHB",
 			"className": "Hechicero",
 			"classSource": "XPHB",
-			"subclassShortName": "Clockwork",
+			"subclassShortName": "Mecánica",
 			"subclassSource": "XPHB",
 			"level": 18,
 			"activities": [

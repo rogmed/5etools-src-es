@@ -101,7 +101,7 @@
 						"Alustriel casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 22}):"
 					],
 					"will": [
-						"{@spell "Luces danzantes"}",
+						"{@spell Luces danzantes}",
 						"{@spell Detect Magic}",
 						"{@spell Mage Armor} (self only)",
 						"{@spell Mage Hand}"

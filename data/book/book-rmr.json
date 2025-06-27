@@ -5729,7 +5729,7 @@
 									"name": "Cantrips (0 Level)",
 									"style": "list-hang",
 									"items": [
-										""Luces danzantes" {@comicNote JERRY SPELL}",
+										"Luces danzantes {@comicNote JERRY SPELL}",
 										"Light {@comicNote OK}",
 										"Mano de mago {@comicNote YES}",
 										"Prestidigitación {@comicNote YES}",

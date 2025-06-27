@@ -4061,7 +4061,7 @@
 						"The tower sage casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell "Luces danzantes"}",
+						"{@spell Luces danzantes}",
 						"{@spell Mage Hand}",
 						"{@spell Prestidigitation}"
 					],

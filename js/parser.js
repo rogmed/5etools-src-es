@@ -1232,16 +1232,12 @@ Parser._spSchoolAbvToStylePart_prereleaseBrew = function ({school, brewUtil}) {
 Parser.getOrdinalForm = function (i) {
 	i = Number(i);
 	if (isNaN(i)) return "";
-	const j = i % 10; const k = i % 100;
-	if (j === 1 && k !== 11) return `${i}st`;
-	if (j === 2 && k !== 12) return `${i}nd`;
-	if (j === 3 && k !== 13) return `${i}rd`;
-	return `${i}th`;
+	return `${i}º`;
 };
 
 Parser.spLevelToFull = function (level) {
-	if (level === 0) return "Cantrip";
-	else return Parser.getOrdinalForm(level);
+	if (level === 0) return "Truco";
+	else return level;
 };
 
 Parser.getArticle = function (str) {
@@ -1606,7 +1602,7 @@ Parser.spRangeToFull._renderArea = function ({range, styleHint, isDisplaySelfAre
 };
 Parser.spRangeToFull._getAreaStyleString = function (range) {
 	switch (range.type) {
-		case Parser.RNG_SPHERE: return " radius";
+		case Parser.RNG_SPHERE: return " radio";
 		case Parser.RNG_HEMISPHERE: return `-radius ${range.type}`;
 		case Parser.RNG_CYLINDER: return "-radius";
 		default: return ` ${range.type}`;

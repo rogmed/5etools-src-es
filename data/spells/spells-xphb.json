@@ -2,6 +2,7 @@
 	"spell": [
 		{
 			"name": "Acid Splash",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 239,
 			"srd52": true,
@@ -67,6 +68,7 @@
 		},
 		{
 			"name": "Aid",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 239,
 			"srd52": true,
@@ -121,6 +123,7 @@
 		},
 		{
 			"name": "Alarm",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 239,
 			"srd52": true,
@@ -186,6 +189,7 @@
 		},
 		{
 			"name": "Alter Self",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 239,
 			"srd52": true,
@@ -250,6 +254,7 @@
 		},
 		{
 			"name": "Animal Friendship",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 239,
 			"srd52": true,
@@ -314,6 +319,7 @@
 		},
 		{
 			"name": "Animal Messenger",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 240,
 			"srd52": true,
@@ -378,6 +384,7 @@
 		},
 		{
 			"name": "Animal Shapes",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 240,
 			"srd52": true,
@@ -424,6 +431,7 @@
 		},
 		{
 			"name": "Animate Dead",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 240,
 			"srd52": true,
@@ -478,6 +486,7 @@
 		},
 		{
 			"name": "Animate Objects",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 240,
 			"srd52": true,
@@ -542,6 +551,7 @@
 		},
 		{
 			"name": "Antilife Shell",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 241,
 			"srd52": true,
@@ -599,6 +609,7 @@
 		},
 		{
 			"name": "Antimagic Field",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 241,
 			"srd52": true,
@@ -648,6 +659,7 @@
 		},
 		{
 			"name": "Antipathy/Sympathy",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 242,
 			"srd52": true,
@@ -727,6 +739,7 @@
 		},
 		{
 			"name": "Arcane Eye",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 242,
 			"srd52": true,
@@ -771,6 +784,7 @@
 		},
 		{
 			"name": "Arcane Gate",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 242,
 			"level": 6,
@@ -816,6 +830,7 @@
 		},
 		{
 			"name": "Arcane Lock",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 242,
 			"srd52": true,
@@ -860,6 +875,7 @@
 		},
 		{
 			"name": "Arcane Vigor",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 242,
 			"level": 2,
@@ -903,6 +919,7 @@
 		},
 		{
 			"name": "Armor of Agathys",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 243,
 			"level": 1,
@@ -955,6 +972,7 @@
 		},
 		{
 			"name": "Arms of Hadar",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 243,
 			"level": 1,
@@ -1006,6 +1024,7 @@
 		},
 		{
 			"name": "Astral Projection",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 243,
 			"srd52": true,
@@ -1062,6 +1081,7 @@
 		},
 		{
 			"name": "Augury",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 244,
 			"srd52": true,
@@ -1134,6 +1154,7 @@
 		},
 		{
 			"name": "Aura of Life",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 244,
 			"srd52": true,
@@ -1181,6 +1202,7 @@
 		},
 		{
 			"name": "Aura of Purity",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 244,
 			"level": 4,
@@ -1226,6 +1248,7 @@
 		},
 		{
 			"name": "Aura of Vitality",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 244,
 			"level": 3,
@@ -1268,6 +1291,7 @@
 		},
 		{
 			"name": "Awaken",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 244,
 			"srd52": true,
@@ -1320,6 +1344,7 @@
 		},
 		{
 			"name": "Bane",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 245,
 			"srd52": true,
@@ -1379,6 +1404,7 @@
 		},
 		{
 			"name": "Banishing Smite",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 245,
 			"level": 5,
@@ -1424,6 +1450,7 @@
 		},
 		{
 			"name": "Banishment",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 245,
 			"srd52": true,
@@ -1487,6 +1514,7 @@
 		},
 		{
 			"name": "Barkskin",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 245,
 			"srd52": true,
@@ -1531,6 +1559,7 @@
 		},
 		{
 			"name": "Beacon of Hope",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 245,
 			"srd52": true,
@@ -1577,6 +1606,7 @@
 		},
 		{
 			"name": "Beast Sense",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 245,
 			"level": 2,
@@ -1618,6 +1648,7 @@
 		},
 		{
 			"name": "Befuddlement",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 245,
 			"srd52": true,
@@ -1667,6 +1698,7 @@
 		},
 		{
 			"name": "Bestow Curse",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 246,
 			"srd52": true,
@@ -1735,6 +1767,7 @@
 		},
 		{
 			"name": "Bigby's Hand",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 246,
 			"srd52": "Arcane Hand",
@@ -1842,6 +1875,7 @@
 		},
 		{
 			"name": "Blade Barrier",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 247,
 			"srd52": true,
@@ -1894,6 +1928,7 @@
 		},
 		{
 			"name": "Blade Ward",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 247,
 			"level": 0,
@@ -1930,6 +1965,7 @@
 		},
 		{
 			"name": "Bless",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 247,
 			"srd52": true,
@@ -1988,6 +2024,7 @@
 		},
 		{
 			"name": "Blight",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 247,
 			"srd52": true,
@@ -2044,6 +2081,7 @@
 		},
 		{
 			"name": "Blinding Smite",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 247,
 			"level": 3,
@@ -2100,6 +2138,7 @@
 		},
 		{
 			"name": "Blindness/Deafness",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 248,
 			"srd52": true,
@@ -2160,6 +2199,7 @@
 		},
 		{
 			"name": "Blink",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 248,
 			"srd52": true,
@@ -2201,6 +2241,7 @@
 		},
 		{
 			"name": "Blur",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 248,
 			"srd52": true,
@@ -2238,6 +2279,7 @@
 		},
 		{
 			"name": "Burning Hands",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 248,
 			"srd52": true,
@@ -2294,6 +2336,7 @@
 		},
 		{
 			"name": "Call Lightning",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 248,
 			"srd52": true,
@@ -2358,6 +2401,7 @@
 		},
 		{
 			"name": "Calm Emotions",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 249,
 			"srd52": true,
@@ -2413,6 +2457,7 @@
 		},
 		{
 			"name": "Chain Lightning",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 249,
 			"srd52": true,
@@ -2473,6 +2518,7 @@
 		},
 		{
 			"name": "Charm Monster",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 249,
 			"srd52": true,
@@ -2533,6 +2579,7 @@
 		},
 		{
 			"name": "Charm Person",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 249,
 			"srd52": true,
@@ -2596,6 +2643,7 @@
 		},
 		{
 			"name": "Chill Touch",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 249,
 			"srd52": true,
@@ -2659,6 +2707,7 @@
 		},
 		{
 			"name": "Chromatic Orb",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 249,
 			"srd52": true,
@@ -2725,6 +2774,7 @@
 		},
 		{
 			"name": "Circle of Death",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 250,
 			"srd52": true,
@@ -2781,6 +2831,7 @@
 		},
 		{
 			"name": "Circle of Power",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 250,
 			"level": 5,
@@ -2823,6 +2874,7 @@
 		},
 		{
 			"name": "Clairvoyance",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 250,
 			"srd52": true,
@@ -2871,6 +2923,7 @@
 		},
 		{
 			"name": "Clone",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 251,
 			"srd52": true,
@@ -2913,6 +2966,7 @@
 		},
 		{
 			"name": "Cloud of Daggers",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 251,
 			"level": 2,
@@ -2967,6 +3021,7 @@
 		},
 		{
 			"name": "Cloudkill",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 251,
 			"srd52": true,
@@ -3029,6 +3084,7 @@
 		},
 		{
 			"name": "Color Spray",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 251,
 			"srd52": true,
@@ -3073,6 +3129,7 @@
 		},
 		{
 			"name": "Command",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 251,
 			"srd52": true,
@@ -3169,6 +3226,7 @@
 		},
 		{
 			"name": "Commune",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 251,
 			"srd52": true,
@@ -3212,6 +3270,7 @@
 		},
 		{
 			"name": "Commune with Nature",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 252,
 			"srd52": true,
@@ -3264,6 +3323,7 @@
 		},
 		{
 			"name": "Compelled Duel",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 252,
 			"level": 1,
@@ -3310,6 +3370,7 @@
 		},
 		{
 			"name": "Comprehend Languages",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 252,
 			"srd52": true,
@@ -3351,6 +3412,7 @@
 		},
 		{
 			"name": "Compulsion",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 252,
 			"srd52": true,
@@ -3404,6 +3466,7 @@
 		},
 		{
 			"name": "Cone of Cold",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 253,
 			"srd52": true,
@@ -3458,6 +3521,7 @@
 		},
 		{
 			"name": "Confusion",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 253,
 			"srd52": true,
@@ -3546,6 +3610,7 @@
 		},
 		{
 			"name": "Conjure Animals",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 254,
 			"srd52": true,
@@ -3609,6 +3674,7 @@
 		},
 		{
 			"name": "Conjure Barrage",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 254,
 			"level": 3,
@@ -3666,6 +3732,7 @@
 		},
 		{
 			"name": "Conjure Celestial",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 254,
 			"srd52": true,
@@ -3749,6 +3816,7 @@
 		},
 		{
 			"name": "Conjure Elemental",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 254,
 			"srd52": true,
@@ -3813,6 +3881,7 @@
 		},
 		{
 			"name": "Conjure Fey",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 255,
 			"srd52": true,
@@ -3872,6 +3941,7 @@
 		},
 		{
 			"name": "Conjure Minor Elementals",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 255,
 			"srd52": true,
@@ -3934,6 +4004,7 @@
 		},
 		{
 			"name": "Conjure Volley",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 255,
 			"level": 5,
@@ -3982,6 +4053,7 @@
 		},
 		{
 			"name": "Conjure Woodland Beings",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 255,
 			"srd52": true,
@@ -4041,6 +4113,7 @@
 		},
 		{
 			"name": "Contact Other Plane",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 255,
 			"srd52": true,
@@ -4087,6 +4160,7 @@
 		},
 		{
 			"name": "Contagion",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 256,
 			"srd52": true,
@@ -4138,6 +4212,7 @@
 		},
 		{
 			"name": "Contingency",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 256,
 			"srd52": true,
@@ -4181,6 +4256,7 @@
 		},
 		{
 			"name": "Continual Flame",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 256,
 			"srd52": true,
@@ -4226,6 +4302,7 @@
 		},
 		{
 			"name": "Control Water",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 256,
 			"srd52": true,
@@ -4311,6 +4388,7 @@
 		},
 		{
 			"name": "Control Weather",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 257,
 			"srd52": true,
@@ -4460,6 +4538,7 @@
 		},
 		{
 			"name": "Cordon of Arrows",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 258,
 			"level": 2,
@@ -4515,6 +4594,7 @@
 		},
 		{
 			"name": "Counterspell",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 258,
 			"srd52": true,
@@ -4555,6 +4635,7 @@
 		},
 		{
 			"name": "Create Food and Water",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 258,
 			"srd52": true,
@@ -4589,6 +4670,7 @@
 		},
 		{
 			"name": "Create or Destroy Water",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 258,
 			"srd52": true,
@@ -4659,6 +4741,7 @@
 		},
 		{
 			"name": "Create Undead",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 258,
 			"srd52": true,
@@ -4716,6 +4799,7 @@
 		},
 		{
 			"name": "Creation",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 259,
 			"srd52": true,
@@ -4795,6 +4879,7 @@
 		},
 		{
 			"name": "Crown of Madness",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 259,
 			"level": 2,
@@ -4849,6 +4934,7 @@
 		},
 		{
 			"name": "Crusader's Mantle",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 259,
 			"level": 3,
@@ -4894,6 +4980,7 @@
 		},
 		{
 			"name": "Cure Wounds",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 259,
 			"srd52": true,
@@ -4942,6 +5029,7 @@
 		},
 		{
 			"name": "Dancing Lights",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 259,
 			"srd52": true,
@@ -4987,6 +5075,7 @@
 		},
 		{
 			"name": "Darkness",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 260,
 			"srd52": true,
@@ -5034,6 +5123,7 @@
 		},
 		{
 			"name": "Darkvision",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 260,
 			"srd52": true,
@@ -5075,6 +5165,7 @@
 		},
 		{
 			"name": "Daylight",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 260,
 			"srd52": true,
@@ -5124,6 +5215,7 @@
 		},
 		{
 			"name": "Death Ward",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 261,
 			"srd52": true,
@@ -5165,6 +5257,7 @@
 		},
 		{
 			"name": "Delayed Blast Fireball",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 261,
 			"srd52": true,
@@ -5229,6 +5322,7 @@
 		},
 		{
 			"name": "Demiplane",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 261,
 			"srd52": true,
@@ -5273,6 +5367,7 @@
 		},
 		{
 			"name": "Destructive Wave",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 261,
 			"level": 5,
@@ -5319,6 +5414,7 @@
 		},
 		{
 			"name": "Detect Evil and Good",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 261,
 			"srd52": true,
@@ -5367,6 +5463,7 @@
 		},
 		{
 			"name": "Detect Magic",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 262,
 			"srd52": true,
@@ -5410,6 +5507,7 @@
 		},
 		{
 			"name": "Detect Poison and Disease",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 262,
 			"srd52": true,
@@ -5454,6 +5552,7 @@
 		},
 		{
 			"name": "Detect Thoughts",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 262,
 			"srd52": true,
@@ -5567,7 +5666,8 @@
 					"name": "Leer pensamientos",
 					"entries": [
 						"Haces objetivo a una criatura que puedas ver a 9 m o menos de ti o a una criatura a 9 m o menos de ti que hayas detectado con la opción de sentir pensamientos y averiguas lo principal que ocupa su mente en ese momento. Si el objetivo no conoce ningún idioma o no es telepático, no descubres nada.",
-						"Como acción de magia en tu próximo turno, puedes intentar sondear en profundidad su mente. Si lo haces, el objetivo hará una tirada de salvación de Sabiduría. Si la falla, descubrirás su forma de razonar, sus emociones y algo que sea de gran importancia en su mente (una preocupación o algo que ame u odie). Si la supera, el conjuro terminará. De cualquier forma, el objetivo sabrá que estás sondeando su mente y, a menos que desplaces tu atención, podrá usar una acción en su turno para hacer una prueba de Inteligencia ({@skill Conocimiento arcano|XPHB}) contra tu CD de salvación de conjuros; si la supera, el conjuro terminará."					]
+						"Como acción de magia en tu próximo turno, puedes intentar sondear en profundidad su mente. Si lo haces, el objetivo hará una tirada de salvación de Sabiduría. Si la falla, descubrirás su forma de razonar, sus emociones y algo que sea de gran importancia en su mente (una preocupación o algo que ame u odie). Si la supera, el conjuro terminará. De cualquier forma, el objetivo sabrá que estás sondeando su mente y, a menos que desplaces tu atención, podrá usar una acción en su turno para hacer una prueba de Inteligencia ({@skill Conocimiento arcano|XPHB}) contra tu CD de salvación de conjuros; si la supera, el conjuro terminará."
+					]
 				}
 			],
 			"savingThrow": [
@@ -5582,6 +5682,7 @@
 		},
 		{
 			"name": "Dimension Door",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 262,
 			"srd52": true,
@@ -5623,6 +5724,7 @@
 		},
 		{
 			"name": "Disguise Self",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 262,
 			"srd52": true,
@@ -5668,6 +5770,7 @@
 		},
 		{
 			"name": "Disintegrate",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 263,
 			"srd52": true,
@@ -5727,6 +5830,7 @@
 		},
 		{
 			"name": "Dispel Evil and Good",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 263,
 			"srd52": true,
@@ -5797,6 +5901,7 @@
 		},
 		{
 			"name": "Dispel Magic",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 264,
 			"srd52": true,
@@ -5846,6 +5951,7 @@
 		},
 		{
 			"name": "Dissonant Whispers",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 264,
 			"srd52": true,
@@ -5900,6 +6006,7 @@
 		},
 		{
 			"name": "Divination",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 264,
 			"srd52": true,
@@ -5942,6 +6049,7 @@
 		},
 		{
 			"name": "Divine Favor",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 265,
 			"srd52": true,
@@ -5985,6 +6093,7 @@
 		},
 		{
 			"name": "Divine Smite",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 265,
 			"srd52": true,
@@ -6034,6 +6143,7 @@
 		},
 		{
 			"name": "Divine Word",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 265,
 			"srd52": true,
@@ -6108,6 +6218,7 @@
 		},
 		{
 			"name": "Dominate Beast",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 265,
 			"srd52": true,
@@ -6173,6 +6284,7 @@
 		},
 		{
 			"name": "Dominate Monster",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 265,
 			"srd52": true,
@@ -6235,6 +6347,7 @@
 		},
 		{
 			"name": "Dominate Person",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 266,
 			"srd52": true,
@@ -6300,6 +6413,7 @@
 		},
 		{
 			"name": "Dragon's Breath",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 266,
 			"srd52": true,
@@ -6362,6 +6476,7 @@
 		},
 		{
 			"name": "Drawmij's Instant Summons",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 266,
 			"srd52": "Instant Summons",
@@ -6410,6 +6525,7 @@
 		},
 		{
 			"name": "Dream",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 266,
 			"srd52": true,
@@ -6460,6 +6576,7 @@
 		},
 		{
 			"name": "Druidcraft",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 266,
 			"srd52": true,
@@ -6523,6 +6640,7 @@
 		},
 		{
 			"name": "Earthquake",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 267,
 			"srd52": true,
@@ -6600,6 +6718,7 @@
 		},
 		{
 			"name": "Eldritch Blast",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 267,
 			"srd52": true,
@@ -6656,6 +6775,7 @@
 		},
 		{
 			"name": "Elemental Weapon",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 267,
 			"level": 3,
@@ -6711,6 +6831,7 @@
 		},
 		{
 			"name": "Elementalism",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 267,
 			"srd52": true,
@@ -6787,6 +6908,7 @@
 		},
 		{
 			"name": "Enhance Ability",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 268,
 			"srd52": true,
@@ -6842,6 +6964,7 @@
 		},
 		{
 			"name": "Enlarge/Reduce",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 268,
 			"srd52": true,
@@ -6908,6 +7031,7 @@
 		},
 		{
 			"name": "Ensnaring Strike",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 268,
 			"srd52": true,
@@ -6968,6 +7092,7 @@
 		},
 		{
 			"name": "Entangle",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 268,
 			"srd52": true,
@@ -7024,6 +7149,7 @@
 		},
 		{
 			"name": "Enthrall",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 269,
 			"srd52": true,
@@ -7071,6 +7197,7 @@
 		},
 		{
 			"name": "Etherealness",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 269,
 			"srd52": true,
@@ -7127,6 +7254,7 @@
 		},
 		{
 			"name": "Evard's Black Tentacles",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 270,
 			"srd52": "Black Tentacles",
@@ -7189,6 +7317,7 @@
 		},
 		{
 			"name": "Expeditious Retreat",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 270,
 			"srd52": true,
@@ -7230,6 +7359,7 @@
 		},
 		{
 			"name": "Eyebite",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 270,
 			"srd52": true,
@@ -7303,6 +7433,7 @@
 		},
 		{
 			"name": "Fabricate",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 271,
 			"srd52": true,
@@ -7344,6 +7475,7 @@
 		},
 		{
 			"name": "Faerie Fire",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 271,
 			"srd52": true,
@@ -7393,6 +7525,7 @@
 		},
 		{
 			"name": "False Life",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 271,
 			"srd52": true,
@@ -7439,6 +7572,7 @@
 		},
 		{
 			"name": "Fear",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 271,
 			"srd52": true,
@@ -7489,6 +7623,7 @@
 		},
 		{
 			"name": "Feather Fall",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 271,
 			"srd52": true,
@@ -7531,6 +7666,7 @@
 		},
 		{
 			"name": "Feign Death",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 271,
 			"level": 3,
@@ -7596,6 +7732,7 @@
 		},
 		{
 			"name": "Find Familiar",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 272,
 			"srd52": true,
@@ -7672,6 +7809,7 @@
 		},
 		{
 			"name": "Find Steed",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 272,
 			"srd52": true,
@@ -7734,6 +7872,7 @@
 		},
 		{
 			"name": "Find the Path",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 273,
 			"srd52": true,
@@ -7777,6 +7916,7 @@
 		},
 		{
 			"name": "Find Traps",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 273,
 			"srd52": true,
@@ -7815,6 +7955,7 @@
 		},
 		{
 			"name": "Finger of Death",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 273,
 			"srd52": true,
@@ -7867,6 +8008,7 @@
 			"alias": [
 				"Firebolt"
 			],
+			"originalname": "",
 			"source": "XPHB",
 			"page": 274,
 			"srd52": true,
@@ -7932,6 +8074,7 @@
 		},
 		{
 			"name": "Fire Shield",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 274,
 			"srd52": true,
@@ -7983,6 +8126,7 @@
 		},
 		{
 			"name": "Fire Storm",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 275,
 			"srd52": true,
@@ -8030,6 +8174,7 @@
 		},
 		{
 			"name": "Fireball",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 274,
 			"srd52": true,
@@ -8088,6 +8233,7 @@
 		},
 		{
 			"name": "Flame Blade",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 275,
 			"srd52": true,
@@ -8151,6 +8297,7 @@
 		},
 		{
 			"name": "Flame Strike",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 275,
 			"srd52": true,
@@ -8205,6 +8352,7 @@
 		},
 		{
 			"name": "Flaming Sphere",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 275,
 			"srd52": true,
@@ -8270,6 +8418,7 @@
 		},
 		{
 			"name": "Flesh to Stone",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 275,
 			"srd52": true,
@@ -8326,6 +8475,7 @@
 		},
 		{
 			"name": "Fly",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 276,
 			"srd52": true,
@@ -8380,6 +8530,7 @@
 		},
 		{
 			"name": "Fog Cloud",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 276,
 			"srd52": true,
@@ -8434,6 +8585,7 @@
 		},
 		{
 			"name": "Forbiddance",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 276,
 			"srd52": true,
@@ -8497,6 +8649,7 @@
 		},
 		{
 			"name": "Forcecage",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 276,
 			"srd52": true,
@@ -8551,6 +8704,7 @@
 		},
 		{
 			"name": "Foresight",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 276,
 			"srd52": true,
@@ -8595,6 +8749,7 @@
 		},
 		{
 			"name": "Fount of Moonlight",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 277,
 			"level": 4,
@@ -8650,6 +8805,7 @@
 		},
 		{
 			"name": "Freedom of Movement",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 277,
 			"srd52": true,
@@ -8708,6 +8864,7 @@
 		},
 		{
 			"name": "Friends",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 277,
 			"level": 0,
@@ -8758,6 +8915,7 @@
 		},
 		{
 			"name": "Gaseous Form",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 277,
 			"srd52": true,
@@ -8818,6 +8976,7 @@
 		},
 		{
 			"name": "Gate",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 277,
 			"srd52": true,
@@ -8870,6 +9029,7 @@
 		},
 		{
 			"name": "Geas",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 278,
 			"srd52": true,
@@ -8935,6 +9095,7 @@
 		},
 		{
 			"name": "Gentle Repose",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 278,
 			"srd52": true,
@@ -8980,6 +9141,7 @@
 		},
 		{
 			"name": "Giant Insect",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 279,
 			"srd52": true,
@@ -9032,6 +9194,7 @@
 		},
 		{
 			"name": "Glibness",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 279,
 			"srd52": true,
@@ -9068,6 +9231,7 @@
 		},
 		{
 			"name": "Globe of Invulnerability",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 279,
 			"srd52": true,
@@ -9121,6 +9285,7 @@
 		},
 		{
 			"name": "Glyph of Warding",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 279,
 			"srd52": true,
@@ -9213,6 +9378,7 @@
 		},
 		{
 			"name": "Goodberry",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 280,
 			"srd52": true,
@@ -9255,6 +9421,7 @@
 		},
 		{
 			"name": "Grasping Vine",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 280,
 			"level": 4,
@@ -9320,6 +9487,7 @@
 		},
 		{
 			"name": "Grease",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 280,
 			"srd52": true,
@@ -9372,6 +9540,7 @@
 		},
 		{
 			"name": "Greater Invisibility",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 281,
 			"srd52": true,
@@ -9416,6 +9585,7 @@
 		},
 		{
 			"name": "Greater Restoration",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 281,
 			"srd52": true,
@@ -9467,6 +9637,7 @@
 		},
 		{
 			"name": "Guardian of Faith",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 281,
 			"srd52": true,
@@ -9515,6 +9686,7 @@
 		},
 		{
 			"name": "Guards and Wards",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 282,
 			"srd52": true,
@@ -9603,6 +9775,7 @@
 		},
 		{
 			"name": "Guidance",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 282,
 			"srd52": true,
@@ -9644,6 +9817,7 @@
 		},
 		{
 			"name": "Guiding Bolt",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 282,
 			"srd52": true,
@@ -9703,6 +9877,7 @@
 		},
 		{
 			"name": "Gust of Wind",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 282,
 			"srd52": true,
@@ -9755,6 +9930,7 @@
 		},
 		{
 			"name": "Hail of Thorns",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 283,
 			"level": 1,
@@ -9804,6 +9980,7 @@
 		},
 		{
 			"name": "Hallow",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 283,
 			"srd52": true,
@@ -9970,6 +10147,7 @@
 		},
 		{
 			"name": "Hallucinatory Terrain",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 283,
 			"srd52": true,
@@ -10016,6 +10194,7 @@
 		},
 		{
 			"name": "Harm",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 283,
 			"srd52": true,
@@ -10062,6 +10241,7 @@
 		},
 		{
 			"name": "Haste",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 284,
 			"srd52": true,
@@ -10114,6 +10294,7 @@
 		},
 		{
 			"name": "Heal",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 284,
 			"srd52": true,
@@ -10164,6 +10345,7 @@
 		},
 		{
 			"name": "Healing Word",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 284,
 			"srd52": true,
@@ -10213,6 +10395,7 @@
 		},
 		{
 			"name": "Heat Metal",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 284,
 			"srd52": true,
@@ -10277,6 +10460,7 @@
 		},
 		{
 			"name": "Hellish Rebuke",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 284,
 			"srd52": true,
@@ -10333,6 +10517,7 @@
 		},
 		{
 			"name": "Heroes' Feast",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 284,
 			"srd52": true,
@@ -10389,6 +10574,7 @@
 		},
 		{
 			"name": "Heroism",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 285,
 			"srd52": true,
@@ -10446,6 +10632,7 @@
 		},
 		{
 			"name": "Hex",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 285,
 			"srd52": true,
@@ -10507,6 +10694,7 @@
 		},
 		{
 			"name": "Hold Monster",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 285,
 			"srd52": true,
@@ -10569,6 +10757,7 @@
 		},
 		{
 			"name": "Hold Person",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 286,
 			"srd52": true,
@@ -10634,6 +10823,7 @@
 		},
 		{
 			"name": "Holy Aura",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 286,
 			"srd52": true,
@@ -10689,6 +10879,7 @@
 		},
 		{
 			"name": "Hunger of Hadar",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 286,
 			"level": 3,
@@ -10754,6 +10945,7 @@
 		},
 		{
 			"name": "Hunter's Mark",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 287,
 			"srd52": true,
@@ -10814,6 +11006,7 @@
 		},
 		{
 			"name": "Hypnotic Pattern",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 287,
 			"srd52": true,
@@ -10864,6 +11057,7 @@
 		},
 		{
 			"name": "Ice Knife",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 287,
 			"srd52": true,
@@ -10921,6 +11115,7 @@
 		},
 		{
 			"name": "Ice Storm",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 287,
 			"srd52": true,
@@ -10979,6 +11174,7 @@
 		},
 		{
 			"name": "Identify",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 287,
 			"srd52": true,
@@ -11026,6 +11222,7 @@
 		},
 		{
 			"name": "Illusory Script",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 288,
 			"srd52": true,
@@ -11072,6 +11269,7 @@
 		},
 		{
 			"name": "Imprisonment",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 288,
 			"srd52": true,
@@ -11176,6 +11374,7 @@
 		},
 		{
 			"name": "Incendiary Cloud",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 288,
 			"srd52": true,
@@ -11229,6 +11428,7 @@
 		},
 		{
 			"name": "Inflict Wounds",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 288,
 			"srd52": true,
@@ -11280,6 +11480,7 @@
 		},
 		{
 			"name": "Insect Plague",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 289,
 			"srd52": true,
@@ -11343,6 +11544,7 @@
 		},
 		{
 			"name": "Invisibility",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 289,
 			"srd52": true,
@@ -11400,6 +11602,7 @@
 		},
 		{
 			"name": "Jallarzi's Storm of Radiance",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 289,
 			"level": 5,
@@ -11466,6 +11669,7 @@
 		},
 		{
 			"name": "Jump",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 290,
 			"srd52": true,
@@ -11519,6 +11723,7 @@
 		},
 		{
 			"name": "Knock",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 290,
 			"srd52": true,
@@ -11559,6 +11764,7 @@
 		},
 		{
 			"name": "Legend Lore",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 290,
 			"srd52": true,
@@ -11602,6 +11808,7 @@
 		},
 		{
 			"name": "Leomund's Secret Chest",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 290,
 			"srd52": "Secret Chest",
@@ -11648,6 +11855,7 @@
 		},
 		{
 			"name": "Leomund's Tiny Hut",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 291,
 			"srd52": "Tiny Hut",
@@ -11699,6 +11907,7 @@
 		},
 		{
 			"name": "Lesser Restoration",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 291,
 			"srd52": true,
@@ -11736,6 +11945,7 @@
 		},
 		{
 			"name": "Levitate",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 291,
 			"srd52": true,
@@ -11788,6 +11998,7 @@
 		},
 		{
 			"name": "Light",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 292,
 			"srd52": true,
@@ -11830,6 +12041,7 @@
 		},
 		{
 			"name": "Lightning Arrow",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 292,
 			"level": 3,
@@ -11881,6 +12093,7 @@
 		},
 		{
 			"name": "Lightning Bolt",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 292,
 			"srd52": true,
@@ -11937,6 +12150,7 @@
 		},
 		{
 			"name": "Locate Animals or Plants",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 292,
 			"srd52": true,
@@ -11978,6 +12192,7 @@
 		},
 		{
 			"name": "Locate Creature",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 292,
 			"srd52": true,
@@ -12019,6 +12234,7 @@
 		},
 		{
 			"name": "Locate Object",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 293,
 			"srd52": true,
@@ -12063,6 +12279,7 @@
 		},
 		{
 			"name": "Longstrider",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 293,
 			"srd52": true,
@@ -12116,6 +12333,7 @@
 		},
 		{
 			"name": "Mage Armor",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 293,
 			"srd52": true,
@@ -12206,6 +12424,7 @@
 		},
 		{
 			"name": "Magic Circle",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 293,
 			"srd52": true,
@@ -12284,6 +12503,7 @@
 		},
 		{
 			"name": "Magic Jar",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 294,
 			"srd52": true,
@@ -12339,6 +12559,7 @@
 		},
 		{
 			"name": "Magic Missile",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 295,
 			"srd52": true,
@@ -12393,6 +12614,7 @@
 		},
 		{
 			"name": "Magic Mouth",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 295,
 			"srd52": true,
@@ -12444,6 +12666,7 @@
 		},
 		{
 			"name": "Magic Weapon",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 295,
 			"srd52": true,
@@ -12490,6 +12713,7 @@
 		},
 		{
 			"name": "Major Image",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 295,
 			"srd52": true,
@@ -12548,6 +12772,7 @@
 		},
 		{
 			"name": "Mass Cure Wounds",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 296,
 			"srd52": true,
@@ -12598,6 +12823,7 @@
 		},
 		{
 			"name": "Mass Heal",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 296,
 			"srd52": true,
@@ -12639,6 +12865,7 @@
 		},
 		{
 			"name": "Mass Healing Word",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 296,
 			"srd52": true,
@@ -12688,6 +12915,7 @@
 		},
 		{
 			"name": "Mass Suggestion",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 296,
 			"srd52": true,
@@ -12748,6 +12976,7 @@
 		},
 		{
 			"name": "Maze",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 296,
 			"srd52": true,
@@ -12798,6 +13027,7 @@
 		},
 		{
 			"name": "Meld into Stone",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 296,
 			"srd52": true,
@@ -12846,6 +13076,7 @@
 		},
 		{
 			"name": "Melf's Acid Arrow",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 297,
 			"srd52": "Acid Arrow",
@@ -12900,6 +13131,7 @@
 		},
 		{
 			"name": "Mending",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 297,
 			"srd52": true,
@@ -12938,6 +13170,7 @@
 		},
 		{
 			"name": "Message",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 298,
 			"srd52": true,
@@ -12980,6 +13213,7 @@
 		},
 		{
 			"name": "Meteor Swarm",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 298,
 			"srd52": true,
@@ -13029,6 +13263,7 @@
 		},
 		{
 			"name": "Mind Blank",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 298,
 			"srd52": true,
@@ -13075,6 +13310,7 @@
 		},
 		{
 			"name": "Mind Sliver",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 298,
 			"level": 0,
@@ -13137,6 +13373,7 @@
 		},
 		{
 			"name": "Mind Spike",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 298,
 			"srd52": true,
@@ -13196,6 +13433,7 @@
 		},
 		{
 			"name": "Minor Illusion",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 298,
 			"srd52": true,
@@ -13252,6 +13490,7 @@
 		},
 		{
 			"name": "Mirage Arcane",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 299,
 			"srd52": true,
@@ -13295,6 +13534,7 @@
 		},
 		{
 			"name": "Mirror Image",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 299,
 			"srd52": true,
@@ -13334,6 +13574,7 @@
 		},
 		{
 			"name": "Mislead",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 299,
 			"srd52": true,
@@ -13379,6 +13620,7 @@
 		},
 		{
 			"name": "Misty Step",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 299,
 			"srd52": true,
@@ -13415,6 +13657,7 @@
 		},
 		{
 			"name": "Modify Memory",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 299,
 			"srd52": true,
@@ -13481,6 +13724,7 @@
 		},
 		{
 			"name": "Moonbeam",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 300,
 			"srd52": true,
@@ -13543,6 +13787,7 @@
 		},
 		{
 			"name": "Mordenkainen's Faithful Hound",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 300,
 			"srd52": "Faithful Hound",
@@ -13594,6 +13839,7 @@
 		},
 		{
 			"name": "Mordenkainen's Magnificent Mansion",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 300,
 			"srd52": "Magnificent Mansion",
@@ -13644,6 +13890,7 @@
 		},
 		{
 			"name": "Mordenkainen's Private Sanctum",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 301,
 			"srd52": "Private Sanctum",
@@ -13712,6 +13959,7 @@
 		},
 		{
 			"name": "Mordenkainen's Sword",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 302,
 			"srd52": "Arcane Sword",
@@ -13770,6 +14018,7 @@
 		},
 		{
 			"name": "Move Earth",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 302,
 			"srd52": true,
@@ -13816,6 +14065,7 @@
 		},
 		{
 			"name": "Nondetection",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 302,
 			"srd52": true,
@@ -13864,6 +14114,7 @@
 		},
 		{
 			"name": "Nystul's Magic Aura",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 302,
 			"srd52": "Arcanist's Magic Aura",
@@ -13924,6 +14175,7 @@
 		},
 		{
 			"name": "Otiluke's Freezing Sphere",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 302,
 			"srd52": "Freezing {@variantrule Sphere [Area of Effect]|XPHB|Sphere}",
@@ -13982,6 +14234,7 @@
 		},
 		{
 			"name": "Otiluke's Resilient Sphere",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 303,
 			"srd52": "Resilient {@variantrule Sphere [Area of Effect]|XPHB|Sphere}",
@@ -14049,6 +14302,7 @@
 		},
 		{
 			"name": "Otto's Irresistible Dance",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 303,
 			"srd52": "Irresistible Dance",
@@ -14100,6 +14354,7 @@
 		},
 		{
 			"name": "Pass without Trace",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 303,
 			"srd52": true,
@@ -14143,6 +14398,7 @@
 		},
 		{
 			"name": "Passwall",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 304,
 			"srd52": true,
@@ -14187,6 +14443,7 @@
 		},
 		{
 			"name": "Phantasmal Force",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 304,
 			"srd52": true,
@@ -14242,6 +14499,7 @@
 		},
 		{
 			"name": "Phantasmal Killer",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 304,
 			"srd52": true,
@@ -14303,6 +14561,7 @@
 		},
 		{
 			"name": "Phantom Steed",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 304,
 			"srd52": true,
@@ -14349,6 +14608,7 @@
 		},
 		{
 			"name": "Planar Ally",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 304,
 			"srd52": true,
@@ -14390,6 +14650,7 @@
 		},
 		{
 			"name": "Planar Binding",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 305,
 			"srd52": true,
@@ -14458,6 +14719,7 @@
 		},
 		{
 			"name": "Plane Shift",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 305,
 			"srd52": true,
@@ -14500,6 +14762,7 @@
 		},
 		{
 			"name": "Plant Growth",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 305,
 			"srd52": true,
@@ -14557,6 +14820,7 @@
 		},
 		{
 			"name": "Poison Spray",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 306,
 			"srd52": true,
@@ -14621,6 +14885,7 @@
 		},
 		{
 			"name": "Polymorph",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 306,
 			"srd52": true,
@@ -14673,6 +14938,7 @@
 		},
 		{
 			"name": "Power Word Fortify",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 306,
 			"level": 7,
@@ -14711,6 +14977,7 @@
 		},
 		{
 			"name": "Power Word Heal",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 306,
 			"srd52": true,
@@ -14751,6 +15018,7 @@
 		},
 		{
 			"name": "Power Word Kill",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 306,
 			"srd52": true,
@@ -14793,6 +15061,7 @@
 		},
 		{
 			"name": "Power Word Stun",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 306,
 			"srd52": true,
@@ -14839,6 +15108,7 @@
 		},
 		{
 			"name": "Prayer of Healing",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 307,
 			"srd52": true,
@@ -14887,6 +15157,7 @@
 		},
 		{
 			"name": "Prestidigitation",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 307,
 			"srd52": true,
@@ -14970,6 +15241,7 @@
 		},
 		{
 			"name": "Prismatic Spray",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 307,
 			"srd52": true,
@@ -15073,6 +15345,7 @@
 		},
 		{
 			"name": "Prismatic Wall",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 308,
 			"srd52": true,
@@ -15181,6 +15454,7 @@
 		},
 		{
 			"name": "Produce Flame",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 308,
 			"srd52": true,
@@ -15251,6 +15525,7 @@
 		},
 		{
 			"name": "Programmed Illusion",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 309,
 			"srd52": true,
@@ -15299,6 +15574,7 @@
 		},
 		{
 			"name": "Project Image",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 309,
 			"srd52": true,
@@ -15350,6 +15626,7 @@
 		},
 		{
 			"name": "Protection from Energy",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 309,
 			"srd52": true,
@@ -15398,6 +15675,7 @@
 		},
 		{
 			"name": "Protection from Evil and Good",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 309,
 			"srd52": true,
@@ -15455,6 +15733,7 @@
 		},
 		{
 			"name": "Protection from Poison",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 310,
 			"srd52": true,
@@ -15501,6 +15780,7 @@
 		},
 		{
 			"name": "Purify Food and Drink",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 310,
 			"srd52": true,
@@ -15541,6 +15821,7 @@
 		},
 		{
 			"name": "Raise Dead",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 310,
 			"srd52": true,
@@ -15601,6 +15882,7 @@
 		},
 		{
 			"name": "Rary's Telepathic Bond",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 311,
 			"srd52": "Telepathic Bond",
@@ -15647,6 +15929,7 @@
 		},
 		{
 			"name": "Ray of Enfeeblement",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 311,
 			"srd52": true,
@@ -15693,6 +15976,7 @@
 		},
 		{
 			"name": "Ray of Frost",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 311,
 			"srd52": true,
@@ -15757,6 +16041,7 @@
 		},
 		{
 			"name": "Ray of Sickness",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 311,
 			"srd52": true,
@@ -15812,6 +16097,7 @@
 		},
 		{
 			"name": "Regenerate",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 311,
 			"srd52": true,
@@ -15856,6 +16142,7 @@
 		},
 		{
 			"name": "Reincarnate",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 311,
 			"srd52": true,
@@ -15955,6 +16242,7 @@
 		},
 		{
 			"name": "Remove Curse",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 312,
 			"srd52": true,
@@ -15994,6 +16282,7 @@
 		},
 		{
 			"name": "Resistance",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 312,
 			"srd52": true,
@@ -16035,6 +16324,7 @@
 		},
 		{
 			"name": "Resurrection",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 312,
 			"srd52": true,
@@ -16094,6 +16384,7 @@
 		},
 		{
 			"name": "Reverse Gravity",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 312,
 			"srd52": true,
@@ -16144,6 +16435,7 @@
 		},
 		{
 			"name": "Revivify",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 312,
 			"srd52": true,
@@ -16188,6 +16480,7 @@
 		},
 		{
 			"name": "Rope Trick",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 312,
 			"srd52": true,
@@ -16227,6 +16520,7 @@
 		},
 		{
 			"name": "Sacred Flame",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 313,
 			"srd52": true,
@@ -16292,6 +16586,7 @@
 		},
 		{
 			"name": "Sanctuary",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 313,
 			"srd52": true,
@@ -16338,6 +16633,7 @@
 		},
 		{
 			"name": "Scorching Ray",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 313,
 			"srd52": true,
@@ -16391,6 +16687,7 @@
 		},
 		{
 			"name": "Scrying",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 313,
 			"srd52": true,
@@ -16490,6 +16787,7 @@
 		},
 		{
 			"name": "Searing Smite",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 314,
 			"srd52": true,
@@ -16545,6 +16843,7 @@
 		},
 		{
 			"name": "See Invisibility",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 314,
 			"srd52": true,
@@ -16583,6 +16882,7 @@
 		},
 		{
 			"name": "Seeming",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 314,
 			"srd52": true,
@@ -16636,6 +16936,7 @@
 		},
 		{
 			"name": "Sending",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 314,
 			"srd52": true,
@@ -16672,6 +16973,7 @@
 		},
 		{
 			"name": "Sequester",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 315,
 			"srd52": true,
@@ -16725,6 +17027,7 @@
 		},
 		{
 			"name": "Shapechange",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 315,
 			"srd52": true,
@@ -16774,6 +17077,7 @@
 		},
 		{
 			"name": "Shatter",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 316,
 			"srd52": true,
@@ -16831,6 +17135,7 @@
 		},
 		{
 			"name": "Shield",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 316,
 			"srd52": true,
@@ -16872,6 +17177,7 @@
 		},
 		{
 			"name": "Shield of Faith",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 316,
 			"srd52": true,
@@ -16918,6 +17224,7 @@
 		},
 		{
 			"name": "Shillelagh",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 316,
 			"srd52": true,
@@ -16979,6 +17286,7 @@
 		},
 		{
 			"name": "Shining Smite",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 316,
 			"srd52": true,
@@ -17037,6 +17345,7 @@
 		},
 		{
 			"name": "Shocking Grasp",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 316,
 			"srd52": true,
@@ -17100,6 +17409,7 @@
 		},
 		{
 			"name": "Silence",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 316,
 			"srd52": true,
@@ -17154,6 +17464,7 @@
 		},
 		{
 			"name": "Silent Image",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 317,
 			"srd52": true,
@@ -17200,6 +17511,7 @@
 		},
 		{
 			"name": "Simulacrum",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 317,
 			"srd52": true,
@@ -17251,6 +17563,7 @@
 		},
 		{
 			"name": "Sleep",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 317,
 			"srd52": true,
@@ -17302,6 +17615,7 @@
 		},
 		{
 			"name": "Sleet Storm",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 317,
 			"srd52": true,
@@ -17356,6 +17670,7 @@
 		},
 		{
 			"name": "Slow",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 318,
 			"srd52": true,
@@ -17481,6 +17796,7 @@
 		},
 		{
 			"name": "Spare the Dying",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 318,
 			"srd52": true,
@@ -17530,6 +17846,7 @@
 		},
 		{
 			"name": "Speak with Animals",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 318,
 			"srd52": true,
@@ -17575,6 +17892,7 @@
 		},
 		{
 			"name": "Speak with Dead",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 318,
 			"srd52": true,
@@ -17630,6 +17948,7 @@
 		},
 		{
 			"name": "Speak with Plants",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 319,
 			"srd52": true,
@@ -17677,6 +17996,7 @@
 		},
 		{
 			"name": "Spider Climb",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 319,
 			"srd52": true,
@@ -17728,6 +18048,7 @@
 		},
 		{
 			"name": "Spike Growth",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 319,
 			"srd52": true,
@@ -17781,6 +18102,7 @@
 		},
 		{
 			"name": "Spirit Guardians",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 319,
 			"srd52": true,
@@ -17841,6 +18163,7 @@
 		},
 		{
 			"name": "Spiritual Weapon",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 319,
 			"srd52": true,
@@ -17903,6 +18226,7 @@
 		},
 		{
 			"name": "Staggering Smite",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 320,
 			"level": 4,
@@ -17955,6 +18279,7 @@
 		},
 		{
 			"name": "Starry Wisp",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 320,
 			"srd52": true,
@@ -18021,6 +18346,7 @@
 		},
 		{
 			"name": "Steel Wind Strike",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 320,
 			"level": 5,
@@ -18070,6 +18396,7 @@
 		},
 		{
 			"name": "Stinking Cloud",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 321,
 			"srd52": true,
@@ -18120,6 +18447,7 @@
 		},
 		{
 			"name": "Stone Shape",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 321,
 			"srd52": true,
@@ -18157,6 +18485,7 @@
 		},
 		{
 			"name": "Stoneskin",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 321,
 			"srd52": true,
@@ -18208,6 +18537,7 @@
 		},
 		{
 			"name": "Storm of Vengeance",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 321,
 			"srd52": true,
@@ -18298,6 +18628,7 @@
 		},
 		{
 			"name": "Suggestion",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 321,
 			"srd52": true,
@@ -18350,6 +18681,7 @@
 		},
 		{
 			"name": "Summon Aberration",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 322,
 			"level": 4,
@@ -18406,6 +18738,7 @@
 		},
 		{
 			"name": "Summon Beast",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 322,
 			"level": 2,
@@ -18461,6 +18794,7 @@
 		},
 		{
 			"name": "Summon Celestial",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 323,
 			"level": 5,
@@ -18517,6 +18851,7 @@
 		},
 		{
 			"name": "Summon Construct",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 324,
 			"level": 4,
@@ -18573,6 +18908,7 @@
 		},
 		{
 			"name": "Summon Dragon",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 324,
 			"srd52": true,
@@ -18631,6 +18967,7 @@
 		},
 		{
 			"name": "Summon Elemental",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 325,
 			"level": 4,
@@ -18686,6 +19023,7 @@
 		},
 		{
 			"name": "Summon Fey",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 326,
 			"level": 3,
@@ -18742,6 +19080,7 @@
 		},
 		{
 			"name": "Summon Fiend",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 326,
 			"level": 6,
@@ -18798,6 +19137,7 @@
 		},
 		{
 			"name": "Summon Undead",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 328,
 			"level": 3,
@@ -18854,6 +19194,7 @@
 		},
 		{
 			"name": "Sunbeam",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 329,
 			"srd52": true,
@@ -18911,6 +19252,7 @@
 		},
 		{
 			"name": "Sunburst",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 329,
 			"srd52": true,
@@ -18964,6 +19306,7 @@
 		},
 		{
 			"name": "Swift Quiver",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 329,
 			"level": 5,
@@ -19007,6 +19350,7 @@
 		},
 		{
 			"name": "Symbol",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 329,
 			"srd52": true,
@@ -19126,6 +19470,7 @@
 		},
 		{
 			"name": "Synaptic Static",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 330,
 			"level": 5,
@@ -19169,6 +19514,7 @@
 		},
 		{
 			"name": "Tasha's Bubbling Cauldron",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 330,
 			"level": 6,
@@ -19213,6 +19559,7 @@
 		},
 		{
 			"name": "Tasha's Hideous Laughter",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 331,
 			"srd52": "Hideous Laughter",
@@ -19277,6 +19624,7 @@
 		},
 		{
 			"name": "Telekinesis",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 331,
 			"srd52": true,
@@ -19346,6 +19694,7 @@
 		},
 		{
 			"name": "Telepathy",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 331,
 			"level": 8,
@@ -19386,6 +19735,7 @@
 		},
 		{
 			"name": "Teleport",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 331,
 			"srd52": true,
@@ -19540,6 +19890,7 @@
 		},
 		{
 			"name": "Teleportation Circle",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 332,
 			"srd52": true,
@@ -19590,6 +19941,7 @@
 		},
 		{
 			"name": "Tenser's Floating Disk",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 332,
 			"srd52": "Floating Disk",
@@ -19638,6 +19990,7 @@
 		},
 		{
 			"name": "Thaumaturgy",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 333,
 			"srd52": true,
@@ -19720,6 +20073,7 @@
 		},
 		{
 			"name": "Thorn Whip",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 333,
 			"level": 0,
@@ -19784,6 +20138,7 @@
 		},
 		{
 			"name": "Thunderclap",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 333,
 			"level": 0,
@@ -19845,6 +20200,7 @@
 		},
 		{
 			"name": "Thunderous Smite",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 334,
 			"level": 1,
@@ -19898,6 +20254,7 @@
 		},
 		{
 			"name": "Thunderwave",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 334,
 			"srd52": true,
@@ -19955,6 +20312,7 @@
 		},
 		{
 			"name": "Time Stop",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 334,
 			"srd52": true,
@@ -19988,6 +20346,7 @@
 		},
 		{
 			"name": "Toll the Dead",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 334,
 			"level": 0,
@@ -20062,6 +20421,7 @@
 		},
 		{
 			"name": "Tongues",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 334,
 			"srd52": true,
@@ -20102,6 +20462,7 @@
 		},
 		{
 			"name": "Transport via Plants",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 334,
 			"srd52": true,
@@ -20144,6 +20505,7 @@
 		},
 		{
 			"name": "Tree Stride",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 335,
 			"srd52": true,
@@ -20187,6 +20549,7 @@
 		},
 		{
 			"name": "True Polymorph",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 335,
 			"srd52": true,
@@ -20266,6 +20629,7 @@
 		},
 		{
 			"name": "True Resurrection",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 336,
 			"srd52": true,
@@ -20312,6 +20676,7 @@
 		},
 		{
 			"name": "True Seeing",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 336,
 			"srd52": true,
@@ -20354,6 +20719,7 @@
 		},
 		{
 			"name": "True Strike",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 336,
 			"srd52": true,
@@ -20418,6 +20784,7 @@
 		},
 		{
 			"name": "Tsunami",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 336,
 			"srd52": true,
@@ -20472,6 +20839,7 @@
 		},
 		{
 			"name": "Unseen Servant",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 336,
 			"srd52": true,
@@ -20520,6 +20888,7 @@
 		},
 		{
 			"name": "Vampiric Touch",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 337,
 			"srd52": true,
@@ -20580,6 +20949,7 @@
 		},
 		{
 			"name": "Vicious Mockery",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 337,
 			"srd52": true,
@@ -20645,6 +21015,7 @@
 		},
 		{
 			"name": "Vitriolic Sphere",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 337,
 			"srd52": true,
@@ -20699,6 +21070,7 @@
 		},
 		{
 			"name": "Wall of Fire",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 338,
 			"srd52": true,
@@ -20759,6 +21131,7 @@
 		},
 		{
 			"name": "Wall of Force",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 338,
 			"srd52": true,
@@ -20803,6 +21176,7 @@
 		},
 		{
 			"name": "Wall of Ice",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 339,
 			"srd52": true,
@@ -20865,6 +21239,7 @@
 		},
 		{
 			"name": "Wall of Stone",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 339,
 			"srd52": true,
@@ -20920,6 +21295,7 @@
 		},
 		{
 			"name": "Wall of Thorns",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 339,
 			"srd52": true,
@@ -20981,6 +21357,7 @@
 		},
 		{
 			"name": "Warding Bond",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 340,
 			"srd52": true,
@@ -21029,6 +21406,7 @@
 		},
 		{
 			"name": "Water Breathing",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 340,
 			"srd52": true,
@@ -21075,6 +21453,7 @@
 		},
 		{
 			"name": "Water Walk",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 340,
 			"srd52": true,
@@ -21122,6 +21501,7 @@
 		},
 		{
 			"name": "Web",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 340,
 			"srd52": true,
@@ -21185,6 +21565,7 @@
 		},
 		{
 			"name": "Weird",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 341,
 			"srd52": true,
@@ -21237,6 +21618,7 @@
 		},
 		{
 			"name": "Wind Walk",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 341,
 			"srd52": true,
@@ -21283,6 +21665,7 @@
 		},
 		{
 			"name": "Wind Wall",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 341,
 			"srd52": true,
@@ -21334,6 +21717,7 @@
 		},
 		{
 			"name": "Wish",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 341,
 			"srd52": true,
@@ -21447,6 +21831,7 @@
 		},
 		{
 			"name": "Witch Bolt",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 343,
 			"level": 1,
@@ -21509,6 +21894,7 @@
 		},
 		{
 			"name": "Word of Radiance",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 343,
 			"level": 0,
@@ -21572,6 +21958,7 @@
 		},
 		{
 			"name": "Word of Recall",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 343,
 			"srd52": true,
@@ -21610,6 +21997,7 @@
 		},
 		{
 			"name": "Wrathful Smite",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 343,
 			"level": 1,
@@ -21666,6 +22054,7 @@
 		},
 		{
 			"name": "Yolande's Regal Presence",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 343,
 			"level": 5,
@@ -21721,6 +22110,7 @@
 		},
 		{
 			"name": "Zone of Truth",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 343,
 			"srd52": true,

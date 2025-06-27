@@ -11741,7 +11741,11 @@ Renderer.item = class {
 	}
 
 	static getPropertyOriginalname (ent) {
-		return ent.originalname || (ent.entries || ent.entriesTemplate)[0]?.originalname || "Unknown";
+		return (ent.originalname ||
+			(Array.isArray(ent.entries) && ent.entries[0]?.originalname) ||
+			(Array.isArray(ent.entriesTemplate) && ent.entriesTemplate[0]?.originalname) ||
+			"Unknown"
+		);
 	}
 
 	static _propertyMap = {};

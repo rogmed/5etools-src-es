@@ -846,7 +846,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -1307,7 +1307,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -1530,7 +1530,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -1620,7 +1620,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -1714,7 +1714,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -2659,7 +2659,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -2939,7 +2939,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -4176,7 +4176,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -4272,7 +4272,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -4552,7 +4552,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -4996,7 +4996,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -5139,7 +5139,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -5231,7 +5231,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -6429,7 +6429,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -6492,7 +6492,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -6789,7 +6789,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -6924,7 +6924,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -7680,7 +7680,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -8491,7 +8491,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -8601,7 +8601,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -8720,7 +8720,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -8821,7 +8821,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -8931,7 +8931,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -9111,7 +9111,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -9301,7 +9301,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -9394,7 +9394,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -9556,7 +9556,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -9601,7 +9601,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -9702,7 +9702,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -9791,7 +9791,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -9996,7 +9996,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -10590,7 +10590,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -11190,7 +11190,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -11238,7 +11238,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -11444,7 +11444,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -11560,7 +11560,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -11668,10 +11668,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Jump",
-			"originalname": "",
+			"name": "Salto",
+			"originalname": "Jump",
 			"source": "XPHB",
-			"page": 290,
+			"page": 331,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -11685,13 +11685,13 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a grasshopper's hind leg"
+				"m": "la pata trasera de un saltamontes"
 			},
 			"duration": [
 				{
@@ -11703,14 +11703,14 @@
 				}
 			],
 			"entries": [
-				"You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending 10 feet of movement."
+				"Tocas a una criatura voluntaria. Una vez en cada uno de sus turnos hasta que el conjuro termine, la criatura puede saltar hasta 30 pies (9 m) usando 10 pies (3 m) de movimiento."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You can target one additional creature for each spell slot level above 1."
+						"Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -11824,7 +11824,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -11923,7 +11923,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -12295,7 +12295,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -12349,7 +12349,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -12682,7 +12682,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -13043,7 +13043,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -13147,7 +13147,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -13279,7 +13279,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -14081,7 +14081,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -14130,7 +14130,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -14735,7 +14735,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -15642,7 +15642,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -15691,7 +15691,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -15749,7 +15749,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -15837,7 +15837,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -16113,7 +16113,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -16158,7 +16158,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -16258,7 +16258,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -16298,7 +16298,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -16340,7 +16340,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -16451,7 +16451,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -16496,7 +16496,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -16989,7 +16989,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -17240,7 +17240,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -17361,7 +17361,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -17527,7 +17527,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -17562,10 +17562,10 @@
 			]
 		},
 		{
-			"name": "Sleep",
-			"originalname": "",
+			"name": "Dormir",
+			"originalname": "Sl/eep",
 			"source": "XPHB",
-			"page": 317,
+			"page": 274,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -17586,7 +17586,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a pinch of sand or rose petals"
+				"m": "una pizca de arena o pétalos de rosa"
 			},
 			"duration": [
 				{
@@ -17599,8 +17599,8 @@
 				}
 			],
 			"entries": [
-				"Each creature of your choice in a 5-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within range must succeed on a Wisdom saving throw or have the {@condition Incapacitated|XPHB} condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the {@condition Inconsciente|XPHB} condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.",
-				"Creatures that don't sleep, such as elves, or that have {@variantrule Immunity|XPHB} to the {@condition Cansancio|XPHB} condition automatically succeed on saves against this spell."
+				"Todas las criaturas de tu elección en una esfera de 5 pies (1,5 m) de radio centrada en un punto dentro del alcance deben superar una tirada de salvación de Sabiduría o tendrán el estado de {@condition Incapacitado|XPHB|incapacitadas} hasta el final de su siguiente turno, momento en el que deberán repetir la tirada de salvación. Si un objetivo falla la segunda tirada, tendrá el estado de {@condition Inconsciente|XPHB} hasta que termine el conjuro. El conjuro termina sobre un objetivo si recibe daño o si alguien a 5 pies (1,5 m) o menos de él emplea una acción para zarandearlo y poner fin al efecto del conjuro.",
+				"Las criaturas que no duermen, como los elfos, o que tengan inmunidad al estado de {@condition Cansancio|XPHB} superan automáticamente las tiradas de salvación contra este conjuro."
 			],
 			"conditionInflict": [
 				"incapacitated",
@@ -18012,7 +18012,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -18463,7 +18463,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -18501,7 +18501,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -19366,7 +19366,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -19430,7 +19430,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Sleep",
+					"name": "Dormir",
 					"entries": [
 						"Each target must succeed on a Wisdom saving throw or have the {@condition Inconsciente|XPHB} condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake."
 					]
@@ -20437,7 +20437,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -20645,7 +20645,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -20692,7 +20692,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
@@ -21373,7 +21373,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {

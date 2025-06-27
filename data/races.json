@@ -4923,7 +4923,7 @@
 						"3": {
 							"daily": {
 								"1": [
-									"jump"
+									"salto"
 								]
 							}
 						},
@@ -14692,7 +14692,7 @@
 						"3": {
 							"daily": {
 								"1": [
-									"sleep"
+									"Dormir"
 								]
 							}
 						},
@@ -15691,7 +15691,7 @@
 						"3": {
 							"daily": {
 								"1": [
-									"jump"
+									"salto"
 								]
 							}
 						},
@@ -17485,7 +17485,7 @@
 					"expanded": {
 						"s1": [
 							"goodberry",
-							"sleep"
+							"Dormir"
 						],
 						"s2": [
 							"aid",
@@ -18004,7 +18004,7 @@
 					"expanded": {
 						"s1": [
 							"expeditious retreat",
-							"jump"
+							"salto"
 						],
 						"s2": [
 							"misty step",

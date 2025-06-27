@@ -1324,7 +1324,7 @@ Parser.SP_TM_SPECIAL = "special";
 Parser.SP_TIME_SINGLETONS = [Parser.SP_TM_ACTION, Parser.SP_TM_B_ACTION, Parser.SP_TM_REACTION, Parser.SP_TM_ROUND];
 Parser.SP_TIME_TO_FULL = {
 	[Parser.SP_TM_ACTION]: "Action",
-	[Parser.SP_TM_B_ACTION]: "Bonus Action",
+	[Parser.SP_TM_B_ACTION]: "Acción adicional",
 	[Parser.SP_TM_REACTION]: "Reaction",
 	[Parser.SP_TM_ROUND]: "Rounds",
 	[Parser.SP_TM_MINS]: "Minutes",
@@ -1382,7 +1382,7 @@ Parser.spTimeListToFull = function (times, meta, {isStripTags = false, styleHint
 				.filter(Boolean)
 				.join("");
 		})
-		.joinConjunct(", ", " or ");
+		.joinConjunct(", ", " o ");
 };
 
 Parser._TIME_UNITS_SHORTHAND = new Set([
@@ -1404,7 +1404,7 @@ Parser.getTimeToFull = function (time, {styleHint = null} = {}) {
 	styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
 
 	const ptNumber = Parser._getTimeToFull_number({time, styleHint});
-	const ptUnit = (time.unit === Parser.SP_TM_B_ACTION ? "bonus action" : time.unit)[(styleHint === "classic" || ptNumber) ? "toString" : "uppercaseFirst"]();
+	const ptUnit = (time.unit === Parser.SP_TM_B_ACTION ? "acción adicional" : time.unit)[(styleHint === "classic" || ptNumber) ? "toString" : "uppercaseFirst"]();
 	return `${ptNumber}${ptUnit}${time.number > 1 ? "s" : ""}`;
 };
 
@@ -1416,9 +1416,9 @@ Parser.getMinutesToFull = function (mins, {isShort = false} = {}) {
 	mins = mins % 60;
 
 	return [
-		days ? `${days} ${isShort ? `d` : `day${days > 1 ? "s" : ""}`}` : null,
-		hours ? `${hours} ${isShort ? `h` : `hour${hours > 1 ? "s" : ""}`}` : null,
-		mins ? `${mins} ${isShort ? `m` : `minute${mins > 1 ? "s" : ""}`}` : null,
+		days ? `${days} ${isShort ? `d` : `dia${days > 1 ? "s" : ""}`}` : null,
+		hours ? `${hours} ${isShort ? `h` : `hora${hours > 1 ? "s" : ""}`}` : null,
+		mins ? `${mins} ${isShort ? `m` : `minuto${mins > 1 ? "s" : ""}`}` : null,
 	].filter(Boolean)
 		.join(" ");
 };
@@ -4239,7 +4239,7 @@ Parser.PROP_TO_DISPLAY_NAME = {
 	"makebrewCreatureTrait": "Homebrew Builder Creature Trait",
 	"charoption": "Other Character Creation Option",
 
-	"bonus": "Bonus Action",
+	"bonus": "Acción adicional",
 	"legendary": "Legendary Action",
 	"mythic": "Mythic Action",
 	"lairActions": "Lair Action",

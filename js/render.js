@@ -9974,9 +9974,9 @@ Renderer.monster = class {
 				black: ["darkness", "Melf's acid arrow", "fog cloud", "scorching ray"],
 				green: ["ray of sickness", "charm person", "detect thoughts", "invisibility", "suggestion"],
 				white: ["ice knife|XGE", "Snilloc's snowball swarm|XGE"],
-				brass: ["see invisibility", "magic mouth", "blindness/deafness", "sleep", "detect thoughts"],
+				brass: ["see invisibility", "magic mouth", "blindness/deafness", "Dormir", "detect thoughts"],
 				bronze: ["gust of wind", "misty step", "locate object", "blur", "witch bolt", "thunderwave", "shield"],
-				copper: ["knock", "sleep", "detect thoughts", "blindness/deafness", "tasha's hideous laughter"],
+				copper: ["knock", "Dormir", "detect thoughts", "blindness/deafness", "tasha's hideous laughter"],
 			},
 			3: {
 				blue: ["wall of sand|XGE", "thunder step|XGE", "lightning bolt", "blink", "magic missile", "slow"],

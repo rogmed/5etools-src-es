@@ -3313,7 +3313,7 @@
 			"effects": [
 				{
 					"foundryId": "otherworldlyLeap",
-					"name": "Jump",
+					"name": "Salto",
 					"duration": {
 						"rounds": 1,
 						"seconds": 60

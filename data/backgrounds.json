@@ -6581,7 +6581,7 @@
 						],
 						"s1": [
 							"disguise self",
-							"sleep"
+							"Dormir"
 						],
 						"s2": [
 							"detect thoughts",
@@ -24666,7 +24666,7 @@
 						"s1": [
 							"detect poison and disease",
 							"expeditious retreat",
-							"jump"
+							"salto"
 						],
 						"s2": [
 							"alter self",

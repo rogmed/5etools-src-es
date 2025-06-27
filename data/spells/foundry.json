@@ -9383,7 +9383,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Jump",
+			"name": "Salto",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -9393,14 +9393,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "jump"
+							"foundryId": "salto"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "jump",
+					"foundryId": "salto",
 					"duration": {
 						"rounds": 1,
 						"seconds": 60
@@ -13686,7 +13686,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Sleep",
+			"name": "Dormir",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -13707,14 +13707,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "sleep"
+							"foundryId": "Dormir"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "sleep",
+					"foundryId": "Dormir",
 					"name": "Sleeping",
 					"duration": {
 						"seconds": 60
@@ -15614,7 +15614,7 @@
 					]
 				},
 				{
-					"name": "Sleep",
+					"name": "Dormir",
 					"type": "save",
 					"activation": {
 						"type": ""

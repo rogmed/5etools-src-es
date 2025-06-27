@@ -694,7 +694,7 @@
 			],
 			"trait": [
 				{
-					"name": "Jump",
+					"name": "Salto",
 					"entries": [
 						"If the Devil's Ride moves at least 30 feet in a straight line, it can clear a distance of up to 60 feet when jumping over a chasm, ravine, or other gap. Each foot it clears on the jump costs a foot of movement."
 					]

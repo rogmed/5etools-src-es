@@ -5967,7 +5967,7 @@
 				"charges": {
 					"1": [
 						"charm person",
-						"sleep"
+						"Dormir"
 					],
 					"2": [
 						"hold person",
@@ -28653,7 +28653,7 @@
 			"attachedSpells": {
 				"charges": {
 					"1": [
-						"sleep"
+						"Dormir"
 					],
 					"2": [
 						"slow"
@@ -50493,7 +50493,7 @@
 			],
 			"attachedSpells": {
 				"will": [
-					"jump"
+					"salto"
 				]
 			},
 			"lootTables": [
@@ -76748,7 +76748,7 @@
 				"charges": {
 					"1": [
 						"crown of madness",
-						"sleep"
+						"Dormir"
 					],
 					"2": [
 						"clairvoyance",

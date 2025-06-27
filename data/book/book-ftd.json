@@ -3918,7 +3918,7 @@
 											"rows": [
 												[
 													"1",
-													"Each affected creature gains 1 level of {@condition exhaustion} that can't be removed until the curse is broken."
+													"Each affected creature gains 1 level of {@condition cansancio} that can't be removed until the curse is broken."
 												],
 												[
 													"2",
@@ -5641,7 +5641,7 @@
 												{
 													"type": "item",
 													"name": "Grasping Muck",
-													"entry": "Tendrils of roiling muck extend from the dragon's lair to grasp up to three creatures of the dragon's choice that it can see within the lair. A targeted creature must succeed on a {@dc 15} Strength saving throw or be {@condition restrained} until initiative count 20 on the next round."
+													"entry": "Tendrils of roiling muck extend from the dragon's lair to grasp up to three creatures of the dragon's choice that it can see within the lair. A targeted creature must succeed on a {@dc 15} Strength saving throw or be {@condition apresado} until initiative count 20 on the next round."
 												},
 												{
 													"type": "item",
@@ -9483,7 +9483,7 @@
 												{
 													"type": "item",
 													"name": "Entangling Kelp",
-													"entry": "Strands of spectral kelp reach out to ensnare creatures in a 20-foot-radius sphere centered on a point in the lair that the dragon turtle can see. Each creature in that area must succeed on a {@dc 15} Strength saving throw or be {@condition restrained} until the end of its next turn."
+													"entry": "Strands of spectral kelp reach out to ensnare creatures in a 20-foot-radius sphere centered on a point in the lair that the dragon turtle can see. Each creature in that area must succeed on a {@dc 15} Strength saving throw or be {@condition apresado} until the end of its next turn."
 												},
 												{
 													"type": "item",
@@ -14079,7 +14079,7 @@
 												{
 													"type": "item",
 													"name": "Icy Grip",
-													"entry": "A sudden, supernatural chill fills the lair near the dragon. Each creature of the dragon's choice that it can see within 120 feet of it must succeed on a {@dc 15} Constitution saving throw or be {@condition restrained} until initiative count 20 on the next round. Creatures that have resistance to cold damage have advantage on the saving throw; creatures that have immunity to cold damage succeed automatically."
+													"entry": "A sudden, supernatural chill fills the lair near the dragon. Each creature of the dragon's choice that it can see within 120 feet of it must succeed on a {@dc 15} Constitution saving throw or be {@condition apresado} until initiative count 20 on the next round. Creatures that have resistance to cold damage have advantage on the saving throw; creatures that have immunity to cold damage succeed automatically."
 												}
 											]
 										}

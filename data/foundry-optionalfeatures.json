@@ -1742,12 +1742,12 @@
 			],
 			"effects": [
 				{
-					"name": "Restrained",
+					"name": "Apresado",
 					"duration": {
 						"seconds": 60
 					},
 					"statuses": [
-						"restrained"
+						"apresado"
 					]
 				}
 			],
@@ -2123,7 +2123,7 @@
 						{
 							"key": "system.traits.ci.value",
 							"mode": "ADD",
-							"value": "surprised"
+							"value": "sorpresa"
 						},
 						{
 							"key": "flags.dnd5e.initiativeAdv",
@@ -3101,7 +3101,7 @@
 						"turns": 1
 					},
 					"statuses": [
-						"frightened"
+						"asustado"
 					]
 				}
 			],

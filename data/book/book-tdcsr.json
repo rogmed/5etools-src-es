@@ -5791,7 +5791,7 @@
 														[
 															"{@item Gluebomb|TDCSR}",
 															"50gp",
-															"This unique explosive can be primed and thrown up to 30 feet as an action. It explodes on impact. Creatures within 20 feet of it must make a {@dc 12} Dexterity {@quickref saving throws|PHB|2|1|saving throw} or be {@condition restrained} for 1 minute. A {@condition restrained} creature can make a {@dc 12} Strength check as an action, escaping on a success."
+															"This unique explosive can be primed and thrown up to 30 feet as an action. It explodes on impact. Creatures within 20 feet of it must make a {@dc 12} Dexterity {@quickref saving throws|PHB|2|1|saving throw} or be {@condition apresado} for 1 minute. A {@condition apresado} creature can make a {@dc 12} Strength check as an action, escaping on a success."
 														],
 														[
 															"{@item Stink bomb|TDCSR}",
@@ -8421,7 +8421,7 @@
 											"name": "Mining The Past (any level)",
 											"page": 142,
 											"entries": [
-												"When the characters finish a {@quickref resting|PHB|2|0|short rest} in the {@book Crystalfen Caverns|TDCSR|3|Crystalfen Caverns}, they must each make a {@dc 15} Wisdom {@quickref saving throws|PHB|2|1|saving throw}. On a failure, a woman's voice fills their minds, saying, \"I sense someone...are you truly here, too? Please...I am lost, and alone in the dark.\" The voice guides them down the twisting caves to a 120-foot-deep mine shaft. The stones at the bottom shimmer with faint azure light. Should they descend into the {@item azuremite|TDCSR} mine, they travel through an uncharted tunnel and find a lone, dying {@creature aboleth} with five levels of {@condition exhaustion} that has wandered too far from its ruined domain.",
+												"When the characters finish a {@quickref resting|PHB|2|0|short rest} in the {@book Crystalfen Caverns|TDCSR|3|Crystalfen Caverns}, they must each make a {@dc 15} Wisdom {@quickref saving throws|PHB|2|1|saving throw}. On a failure, a woman's voice fills their minds, saying, \"I sense someone...are you truly here, too? Please...I am lost, and alone in the dark.\" The voice guides them down the twisting caves to a 120-foot-deep mine shaft. The stones at the bottom shimmer with faint azure light. Should they descend into the {@item azuremite|TDCSR} mine, they travel through an uncharted tunnel and find a lone, dying {@creature aboleth} with five levels of {@condition cansancio} that has wandered too far from its ruined domain.",
 												"The {@creature aboleth} doesn't seek to kill them\u2014yet. Its only priority is self-preservation, and it needs help fending off the {@creature kobold|MM|kobolds} that have made the mine their home in order to reach a subterranean lake where it can recover. Do the characters kill it or save it? If it reaches the lake, or dies, they are rewarded with a haunting premonition of the {@book Ruins of Salar|TDCSR|3|Ruins of Salar}, and a murky vision revealing the depths and expanse of the {@book Crystalfen Caverns|TDCSR|3|Crystalfen Caverns}.",
 												{
 													"type": "image",

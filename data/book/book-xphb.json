@@ -2554,7 +2554,7 @@
 									"page": 22,
 									"id": "06a",
 									"entries": [
-										"A saving throw is used to see whether a creature avoids or resists something. When the chest releases toxic gas, Phillip's and Amy's characters make Constitution saving throws. Constitution is one of the six abilities that measure creatures' capabilities, and it has to do with health and stamina. When they fail their saves, the gas causes them to have the {@condition Paralyzed|XPHB} condition. See \"{@book Conditions|XPHB|1|Conditions}\" later in this chapter for more information."
+										"A saving throw is used to see whether a creature avoids or resists something. When the chest releases toxic gas, Phillip's and Amy's characters make Constitution saving throws. Constitution is one of the six abilities that measure creatures' capabilities, and it has to do with health and stamina. When they fail their saves, the gas causes them to have the {@condition Paralizado|XPHB} condition. See \"{@book Conditions|XPHB|1|Conditions}\" later in this chapter for more information."
 									]
 								}
 							]
@@ -3248,7 +3248,7 @@
 							"page": 28,
 							"id": "0a3",
 							"entries": [
-								"When a creature drops to 0 Hit Points, it either dies outright or falls {@condition Unconscious|XPHB}, as explained below.",
+								"When a creature drops to 0 Hit Points, it either dies outright or falls {@condition Inconsciente|XPHB}, as explained below.",
 								{
 									"type": "entries",
 									"name": "Instant Death",
@@ -3300,14 +3300,14 @@
 									"page": 28,
 									"id": "0a9",
 									"entries": [
-										"If you reach 0 Hit Points and don't die instantly, you have the {@condition Unconscious|XPHB} condition until you regain any Hit Points, and you now face making {@variantrule Death Saving Throw|XPHB|Death Saving Throws} (see below).",
+										"If you reach 0 Hit Points and don't die instantly, you have the {@condition Inconsciente|XPHB} condition until you regain any Hit Points, and you now face making {@variantrule Death Saving Throw|XPHB|Death Saving Throws} (see below).",
 										{
 											"type": "inset",
 											"name": "Knocking Out a Creature",
 											"page": 28,
 											"id": "0aa",
 											"entries": [
-												"When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point and give it the {@condition Unconscious|XPHB} condition. It then starts a {@variantrule Short Rest|XPHB}, at the end of which that condition ends on it. The condition ends early if the creature regains any Hit Points or if someone takes an action to administer first aid to it, making a successful {@dc 10} Wisdom ({@skill Medicine|XPHB}) check."
+												"When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point and give it the {@condition Inconsciente|XPHB} condition. It then starts a {@variantrule Short Rest|XPHB}, at the end of which that condition ends on it. The condition ends early if the creature regains any Hit Points or if someone takes an action to administer first aid to it, making a successful {@dc 10} Wisdom ({@skill Medicine|XPHB}) check."
 											]
 										}
 									]
@@ -3356,7 +3356,7 @@
 									"id": "0af",
 									"entries": [
 										"You can take the {@action Help|XPHB} action to try to stabilize a creature with 0 Hit Points, which requires a successful {@dc 10} Wisdom ({@skill Medicine|XPHB}) check.",
-										"A Stable creature doesn't make Death Saving Throws even though it has 0 Hit Points, but it still has the {@condition Unconscious|XPHB} condition. If the creature takes damage, it stops being Stable and starts making Death Saving Throws again. A Stable creature that isn't healed regains 1 Hit Point after {@dice 1d4} hours."
+										"A Stable creature doesn't make Death Saving Throws even though it has 0 Hit Points, but it still has the {@condition Inconsciente|XPHB} condition. If the creature takes damage, it stops being Stable and starts making Death Saving Throws again. A Stable creature that isn't healed regains 1 Hit Point after {@dice 1d4} hours."
 									]
 								}
 							]
@@ -3421,20 +3421,20 @@
 							"columns": 3,
 							"items": [
 								"{@condition Blinded|XPHB}",
-								"{@condition Charmed|XPHB}",
-								"{@condition Deafened|XPHB}",
-								"{@condition Exhaustion|XPHB}",
-								"{@condition Frightened|XPHB}",
-								"{@condition Grappled|XPHB}",
+								"{@condition Hechizado|XPHB}",
+								"{@condition Ensordecido|XPHB}",
+								"{@condition Cansancio|XPHB}",
+								"{@condition Asustado|XPHB}",
+								"{@condition Agarrado|XPHB}",
 								"{@condition Incapacitated|XPHB}",
 								"{@condition Invisible|XPHB}",
-								"{@condition Paralyzed|XPHB}",
-								"{@condition Petrified|XPHB}",
+								"{@condition Paralizado|XPHB}",
+								"{@condition Petrificado|XPHB}",
 								"{@condition Envenenado|XPHB}",
 								"{@condition Prone|XPHB}",
-								"{@condition Restrained|XPHB}",
-								"{@condition Stunned|XPHB}",
-								"{@condition Unconscious|XPHB}"
+								"{@condition Apresado|XPHB}",
+								"{@condition Aturdido|XPHB}",
+								"{@condition Inconsciente|XPHB}"
 							],
 							"style": "list-no-bullets"
 						},
@@ -3454,7 +3454,7 @@
 							"page": 29,
 							"id": "0b7",
 							"entries": [
-								"If multiple effects impose the same condition on you, each instance of the condition has its own duration, but the condition's effects don't get worse. Either you have a condition or you don't. The {@condition Exhaustion|XPHB} condition is an exception; its effects get worse if you have the condition and receive it again."
+								"If multiple effects impose the same condition on you, each instance of the condition has its own duration, but the condition's effects don't get worse. Either you have a condition or you don't. The {@condition Cansancio|XPHB} condition is an exception; its effects get worse if you have the condition and receive it again."
 							]
 						},
 						{
@@ -10384,7 +10384,7 @@
 									"page": 224,
 									"id": "6bf",
 									"entries": [
-										"As a {@action Utilize|XPHB} action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the {@condition Grappled|XPHB}, {@condition Incapacitated|XPHB}, or {@condition Restrained|XPHB} condition if you succeed on a {@dc 13} Strength ({@skill Athletics|XPHB}) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful {@dc 18} Dexterity ({@skill Acrobatics|XPHB}) check as an action. Bursting the Chain requires a successful {@dc 20} Strength ({@skill Athletics|XPHB}) check as an action."
+										"As a {@action Utilize|XPHB} action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the {@condition Agarrado|XPHB}, {@condition Incapacitated|XPHB}, or {@condition Apresado|XPHB} condition if you succeed on a {@dc 13} Strength ({@skill Athletics|XPHB}) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful {@dc 18} Dexterity ({@skill Acrobatics|XPHB}) check as an action. Bursting the Chain requires a successful {@dc 20} Strength ({@skill Athletics|XPHB}) check as an action."
 									]
 								},
 								{
@@ -10552,7 +10552,7 @@
 									"page": 225,
 									"id": "6ce",
 									"entries": [
-										"A Healer's Kit has ten uses. As a {@action Utilize|XPHB} action, you can expend one of its uses to stabilize an {@condition Unconscious|XPHB} creature that has 0 Hit Points without needing to make a Wisdom ({@skill Medicine|XPHB}) check."
+										"A Healer's Kit has ten uses. As a {@action Utilize|XPHB} action, you can expend one of its uses to stabilize an {@condition Inconsciente|XPHB} creature that has 0 Hit Points without needing to make a Wisdom ({@skill Medicine|XPHB}) check."
 									]
 								},
 								{
@@ -10714,7 +10714,7 @@
 									"page": 226,
 									"id": "6db",
 									"entries": [
-										"As a {@action Utilize|XPHB} action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the {@condition Grappled|XPHB}, {@condition Incapacitated|XPHB}, or {@condition Restrained|XPHB} condition if you succeed on a {@dc 13} Dexterity ({@skill Sleight of Hand|XPHB}) check. While bound, a creature has {@variantrule Disadvantage|XPHB} on attack rolls, and the creature is {@condition Restrained|XPHB} if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful {@dc 20} Dexterity ({@skill Sleight of Hand|XPHB}) check as an action. Bursting them requires a successful {@dc 25} Strength ({@skill Athletics|XPHB}) check as an action.",
+										"As a {@action Utilize|XPHB} action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the {@condition Agarrado|XPHB}, {@condition Incapacitated|XPHB}, or {@condition Apresado|XPHB} condition if you succeed on a {@dc 13} Dexterity ({@skill Sleight of Hand|XPHB}) check. While bound, a creature has {@variantrule Disadvantage|XPHB} on attack rolls, and the creature is {@condition Apresado|XPHB} if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful {@dc 20} Dexterity ({@skill Sleight of Hand|XPHB}) check as an action. Bursting them requires a successful {@dc 25} Strength ({@skill Athletics|XPHB}) check as an action.",
 										"Each set of Manacles comes with a key. Without the key, a creature can use {@item Thieves' Tools|XPHB} to pick the Manacles' lock with a successful {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check."
 									]
 								},
@@ -10742,7 +10742,7 @@
 									"page": 227,
 									"id": "6de",
 									"entries": [
-										"When you take the {@action Attack|XPHB} action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw ({@dc 8} plus your Dexterity modifier and Proficiency Bonus) or have the {@condition Restrained|XPHB} condition until it escapes. The target succeeds automatically if it is Huge or larger.",
+										"When you take the {@action Attack|XPHB} action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw ({@dc 8} plus your Dexterity modifier and Proficiency Bonus) or have the {@condition Apresado|XPHB} condition until it escapes. The target succeeds automatically if it is Huge or larger.",
 										"To escape, the target or a creature within 5 feet of it must take an action to make a {@dc 10} Strength ({@skill Athletics|XPHB}) check, freeing the Restrained creature on a success. Destroying the Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect."
 									]
 								},
@@ -10906,7 +10906,7 @@
 									"id": "6f0",
 									"entries": [
 										"As a {@action Utilize|XPHB} action, you can tie a knot with Rope if you succeed on a {@dc 10} Dexterity ({@skill Sleight of Hand|XPHB}) check. The Rope can be burst with a successful {@dc 20} Strength ({@skill Athletics|XPHB}) check.",
-										"You can bind an unwilling creature with the Rope only if the creature has the {@condition Grappled|XPHB}, {@condition Incapacitated|XPHB}, or {@condition Restrained|XPHB} condition. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful {@dc 15} Dexterity ({@skill Acrobatics|XPHB}) check as an action."
+										"You can bind an unwilling creature with the Rope only if the creature has the {@condition Agarrado|XPHB}, {@condition Incapacitated|XPHB}, or {@condition Apresado|XPHB} condition. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful {@dc 15} Dexterity ({@skill Acrobatics|XPHB}) check as an action."
 									]
 								},
 								{
@@ -13982,7 +13982,7 @@
 							"type": "statblock",
 							"tag": "condition",
 							"source": "XPHB",
-							"name": "Deafened"
+							"name": "Ensordecido"
 						},
 						{
 							"type": "statblock",
@@ -14054,7 +14054,7 @@
 							"type": "statblock",
 							"tag": "condition",
 							"source": "XPHB",
-							"name": "Exhaustion"
+							"name": "Cansancio"
 						},
 						{
 							"type": "statblock",
@@ -14096,13 +14096,13 @@
 							"type": "statblock",
 							"tag": "condition",
 							"source": "XPHB",
-							"name": "Frightened"
+							"name": "Asustado"
 						},
 						{
 							"type": "statblock",
 							"tag": "condition",
 							"source": "XPHB",
-							"name": "Grappled"
+							"name": "Agarrado"
 						},
 						{
 							"type": "statblock",
@@ -14312,7 +14312,7 @@
 							"type": "statblock",
 							"tag": "condition",
 							"source": "XPHB",
-							"name": "Paralyzed"
+							"name": "Paralizado"
 						},
 						{
 							"type": "statblock",
@@ -14330,7 +14330,7 @@
 							"type": "statblock",
 							"tag": "condition",
 							"source": "XPHB",
-							"name": "Petrified"
+							"name": "Petrificado"
 						},
 						{
 							"type": "statblock",
@@ -14384,7 +14384,7 @@
 							"type": "statblock",
 							"tag": "condition",
 							"source": "XPHB",
-							"name": "Restrained"
+							"name": "Apresado"
 						},
 						{
 							"type": "statblock",
@@ -14498,7 +14498,7 @@
 							"type": "statblock",
 							"tag": "condition",
 							"source": "XPHB",
-							"name": "Stunned"
+							"name": "Aturdido"
 						},
 						{
 							"type": "statblock",
@@ -14510,7 +14510,7 @@
 							"type": "statblock",
 							"tag": "status",
 							"source": "XPHB",
-							"name": "Surprised"
+							"name": "Sorpresa"
 						},
 						{
 							"type": "statblock",
@@ -14570,7 +14570,7 @@
 							"type": "statblock",
 							"tag": "condition",
 							"source": "XPHB",
-							"name": "Unconscious"
+							"name": "Inconsciente"
 						},
 						{
 							"type": "statblock",

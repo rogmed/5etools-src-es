@@ -270,7 +270,7 @@
 			"entries": [
 				"You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target the ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of {@quickref difficult terrain||3} with a 10-foot radius that lasts until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by hand.",
 				"If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.",
-				"If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes {@damage 6d6} bludgeoning damage and is {@condition restrained}, pinched between the pillar and the obstacle. The {@condition restrained} creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer {@condition restrained} and must either move off the pillar or fall off it."
+				"If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes {@damage 6d6} bludgeoning damage and is {@condition apresado}, pinched between the pillar and the obstacle. The {@condition apresado} creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer {@condition apresado} and must either move off the pillar or fall off it."
 			],
 			"entriesHigherLevel": [
 				{
@@ -285,7 +285,7 @@
 				"bludgeoning"
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"dexterity"
@@ -393,7 +393,7 @@
 				}
 			],
 			"entries": [
-				"You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall {@condition unconscious} for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains {@condition unconscious} for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest."
+				"You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall {@condition inconsciente} for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains {@condition inconsciente} for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest."
 			],
 			"entriesHigherLevel": [
 				{
@@ -405,7 +405,7 @@
 				}
 			],
 			"conditionInflict": [
-				"unconscious"
+				"inconsciente"
 			],
 			"miscTags": [
 				"SCT",
@@ -448,7 +448,7 @@
 				}
 			],
 			"entries": [
-				"You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become {@condition frightened} of you until the spell ends. The {@condition frightened} target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+				"You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become {@condition asustado} of you until the spell ends. The {@condition asustado} target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 			],
 			"entriesHigherLevel": [
 				{
@@ -460,7 +460,7 @@
 				}
 			],
 			"conditionInflict": [
-				"frightened"
+				"asustado"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -1640,7 +1640,7 @@
 				}
 			],
 			"entries": [
-				"You reach into the mind of one creature you can see and force it to make an Intelligence saving throw. A creature automatically succeeds if it is immune to being {@condition frightened}. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the saving throw, ending the effect on itself on a success.",
+				"You reach into the mind of one creature you can see and force it to make an Intelligence saving throw. A creature automatically succeeds if it is immune to being {@condition asustado}. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the saving throw, ending the effect on itself on a success.",
 				"Whenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, spell, or other ability it's using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to."
 			],
 			"savingThrow": [
@@ -2352,7 +2352,7 @@
 			],
 			"entries": [
 				"By gathering threads of shadow material from the Shadowfell, you create a Huge shadowy dragon in an unoccupied space that you can see within range. The illusion lasts for the spell's duration and occupies its space, as if it were a creature.",
-				"When the illusion appears, any of your enemies that can see it must succeed on a Wisdom saving throw or become {@condition frightened} of it for 1 minute. If a {@condition frightened} creature ends its turn in a location where it doesn't have line of sight to the illusion, it can repeat the saving throw, ending the effect on itself on a success.",
+				"When the illusion appears, any of your enemies that can see it must succeed on a Wisdom saving throw or become {@condition asustado} of it for 1 minute. If a {@condition asustado} creature ends its turn in a location where it doesn't have line of sight to the illusion, it can repeat the saving throw, ending the effect on itself on a success.",
 				"As a bonus action on your turn, you can move the illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence saving throw, taking {@damage 7d6} damage of the chosen damage type on a failed save, or half as much damage on a successful one.",
 				"The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all saving throws, and it is immune to all damage and conditions. A creature that uses an action to examine the dragon can determine that it is an illusion by succeeding on an Intelligence ({@skill Investigation}) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through it and has advantage on saving throws against its breath."
 			],
@@ -2365,7 +2365,7 @@
 				"poison"
 			],
 			"conditionInflict": [
-				"frightened"
+				"asustado"
 			],
 			"savingThrow": [
 				"wisdom",
@@ -2737,7 +2737,7 @@
 					"items": [
 						"You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.",
 						"You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked {@condition prone}.",
-						"You can move across {@quickref difficult terrain||3} made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are {@condition stunned} until the end of your next turn."
+						"You can move across {@quickref difficult terrain||3} made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are {@condition aturdido} until the end of your next turn."
 					]
 				}
 			],
@@ -2748,7 +2748,7 @@
 			],
 			"conditionInflict": [
 				"prone",
-				"stunned"
+				"aturdido"
 			],
 			"savingThrow": [
 				"dexterity"
@@ -3164,16 +3164,16 @@
 				}
 			],
 			"entries": [
-				"You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes {@damage 2d6} bludgeoning damage and is {@condition restrained} for the spell's duration.",
-				"As an action, you can cause the hand to crush the {@condition restrained} target, which must make a Strength saving throw. The target takes {@damage 2d6} bludgeoning damage on a failed save, or half as much damage on a successful one.",
-				"To break out, the {@condition restrained} target can use its action to make a Strength check against your spell save DC. On a success, the target escapes and is no longer {@condition restrained} by the hand.",
-				"As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a {@condition restrained} target if you do either."
+				"You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes {@damage 2d6} bludgeoning damage and is {@condition apresado} for the spell's duration.",
+				"As an action, you can cause the hand to crush the {@condition apresado} target, which must make a Strength saving throw. The target takes {@damage 2d6} bludgeoning damage on a failed save, or half as much damage on a successful one.",
+				"To break out, the {@condition apresado} target can use its action to make a Strength check against your spell save DC. On a success, the target escapes and is no longer {@condition apresado} by the hand.",
+				"As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a {@condition apresado} target if you do either."
 			],
 			"damageInflict": [
 				"bludgeoning"
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"strength"
@@ -3285,7 +3285,7 @@
 				}
 			],
 			"entries": [
-				"You attempt to bind a creature within an illusory cell that only it perceives. One creature you can see within range must make an Intelligence saving throw. The target succeeds automatically if it is immune to being {@condition charmed}. On a successful save, the target takes {@damage 5d10} psychic damage, and the spell ends. On a failed save, the target takes {@damage 5d10} psychic damage, and you make the area immediately around the target's space appear dangerous to it in some way. You might cause the target to perceive itself as being surrounded by fire, floating razors, or hideous maws filled with dripping teeth. Whatever form the illusion takes, the target can't see or hear anything beyond it and is {@condition restrained} for the spell's duration. If the target is moved out of the illusion, makes a melee attack through it, or reaches any part of its body through it, the target takes {@damage 10d10} psychic damage, and the spell ends."
+				"You attempt to bind a creature within an illusory cell that only it perceives. One creature you can see within range must make an Intelligence saving throw. The target succeeds automatically if it is immune to being {@condition charmed}. On a successful save, the target takes {@damage 5d10} psychic damage, and the spell ends. On a failed save, the target takes {@damage 5d10} psychic damage, and you make the area immediately around the target's space appear dangerous to it in some way. You might cause the target to perceive itself as being surrounded by fire, floating razors, or hideous maws filled with dripping teeth. Whatever form the illusion takes, the target can't see or hear anything beyond it and is {@condition apresado} for the spell's duration. If the target is moved out of the illusion, makes a melee attack through it, or reaches any part of its body through it, the target takes {@damage 10d10} psychic damage, and the spell ends."
 			],
 			"damageInflict": [
 				"psychic"
@@ -3710,14 +3710,14 @@
 			],
 			"entries": [
 				"You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected.",
-				"Each target must make an Intelligence saving throw. On a failed save, a target takes {@damage 14d6} psychic damage and is {@condition stunned}. On a successful save, a target takes half as much damage and isn't {@condition stunned}. If a target is killed by this damage, its head explodes, assuming it has one.",
-				"A {@condition stunned} target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the stunning effect ends."
+				"Each target must make an Intelligence saving throw. On a failed save, a target takes {@damage 14d6} psychic damage and is {@condition aturdido}. On a successful save, a target takes half as much damage and isn't {@condition aturdido}. If a target is killed by this damage, its head explodes, assuming it has one.",
+				"A {@condition aturdido} target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the stunning effect ends."
 			],
 			"damageInflict": [
 				"psychic"
 			],
 			"conditionInflict": [
-				"stunned"
+				"aturdido"
 			],
 			"savingThrow": [
 				"intelligence"
@@ -4040,13 +4040,13 @@
 			],
 			"entries": [
 				"Dim, greenish light spreads within a 30-foot-radius sphere centered on a point you choose within range. The light spreads around corners, and it lasts until the spell ends.",
-				"When a creature moves into the spell's area for the first time on a turn or starts its turn there, that creature must succeed on a Constitution saving throw or take {@damage 4d10} radiant damage, and it suffers one level of {@condition exhaustion} and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being {@condition invisible}. The light and any levels of {@condition exhaustion} caused by this spell go away when the spell ends."
+				"When a creature moves into the spell's area for the first time on a turn or starts its turn there, that creature must succeed on a Constitution saving throw or take {@damage 4d10} radiant damage, and it suffers one level of {@condition cansancio} and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being {@condition invisible}. The light and any levels of {@condition cansancio} caused by this spell go away when the spell ends."
 			],
 			"damageInflict": [
 				"radiant"
 			],
 			"conditionInflict": [
-				"exhaustion"
+				"cansancio"
 			],
 			"savingThrow": [
 				"constitution"
@@ -4180,12 +4180,12 @@
 			"entries": [
 				"As you cast this spell, you use the rope to create a circle with a 5-foot radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap.",
 				"This trap is nearly invisible, requiring a successful Intelligence ({@skill Investigation}) check against your spell save DC to be discerned.",
-				"The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell's radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is {@condition restrained} there until the spell ends.",
-				"A {@condition restrained} creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence ({@skill Arcana}) check against your spell save DC. On a success, the {@condition restrained} effect ends.",
-				"After the trap is triggered, the spell ends when no creature is {@condition restrained} by it."
+				"The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell's radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is {@condition apresado} there until the spell ends.",
+				"A {@condition apresado} creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence ({@skill Arcana}) check against your spell save DC. On a success, the {@condition apresado} effect ends.",
+				"After the trap is triggered, the spell ends when no creature is {@condition apresado} by it."
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"dexterity"
@@ -4774,13 +4774,13 @@
 						"You can attack twice, instead of once, when you take the {@action Attack} action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks."
 					]
 				},
-				"Immediately after the spell ends, you must succeed on a {@dc 15} Constitution saving throw or suffer one level of {@condition exhaustion}."
+				"Immediately after the spell ends, you must succeed on a {@dc 15} Constitution saving throw or suffer one level of {@condition cansancio}."
 			],
 			"damageInflict": [
 				"force"
 			],
 			"conditionInflict": [
-				"exhaustion"
+				"cansancio"
 			],
 			"savingThrow": [
 				"constitution"
@@ -5126,13 +5126,13 @@
 						"Nonmagical rock of any sort in the area becomes an equal volume of thick, flowing mud that remains for the spell's duration."
 					]
 				},
-				"The ground in the spell's area becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength saving throw. A creature must also make the saving throw when it moves into the area for the first time on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is {@condition restrained}, though it can use an action to end the {@condition restrained} condition on itself by pulling itself free of the mud.",
+				"The ground in the spell's area becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength saving throw. A creature must also make the saving throw when it moves into the area for the first time on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is {@condition apresado}, though it can use an action to end the {@condition apresado} condition on itself by pulling itself free of the mud.",
 				"If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity saving throw. A creature takes {@damage 4d8} bludgeoning damage on a failed save, or half as much damage on a successful one.",
 				{
 					"type": "entries",
 					"name": "Transmute Mud to Rock",
 					"entries": [
-						"Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity saving throw. On a successful save, a creature is shunted safely to the surface in an unoccupied space. On a failed save, a creature becomes {@condition restrained} by the rock. A {@condition restrained} creature, or another creature within reach, can use an action to try to break the rock by succeeding on a {@dc 20} Strength check or by dealing damage to it. The rock has AC 15 and 25 hit points, and it is immune to poison and psychic damage."
+						"Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity saving throw. On a successful save, a creature is shunted safely to the surface in an unoccupied space. On a failed save, a creature becomes {@condition apresado} by the rock. A {@condition apresado} creature, or another creature within reach, can use an action to try to break the rock by succeeding on a {@dc 20} Strength check or by dealing damage to it. The rock has AC 15 and 25 hit points, and it is immune to poison and psychic damage."
 					]
 				}
 			],
@@ -5144,7 +5144,7 @@
 				"bludgeoning"
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"strength",
@@ -5445,7 +5445,7 @@
 				{
 					"type": "list",
 					"items": [
-						"It {@condition deafened||deafens} you and other creatures in its area.",
+						"It {@condition ensordecido||deafens} you and other creatures in its area.",
 						"It extinguishes unprotected flames in its area that are torch-sized or smaller.",
 						"It hedges out vapor, gas, and fog that can be dispersed by strong wind.",
 						"The area is {@quickref difficult terrain||3} for creatures other than you.",
@@ -5454,7 +5454,7 @@
 				}
 			],
 			"conditionInflict": [
-				"deafened"
+				"ensordecido"
 			],
 			"miscTags": [
 				"DFT"
@@ -5502,14 +5502,14 @@
 			],
 			"entries": [
 				"You conjure up a sphere of water with a 5-foot radius at a point you can see within range. The sphere can hover but no more than 10 feet off the ground. The sphere remains for the spell's duration.",
-				"Any creature in the sphere's space must make a Strength saving throw. On a successful save, a creature is ejected from that space to the nearest unoccupied space of the creature's choice outside the sphere. A Huge or larger creature succeeds on the saving throw automatically, and a Large or smaller creature can choose to fail it. On a failed save, a creature is {@condition restrained} by the sphere and is engulfed by the water. At the end of each of its turns, a {@condition restrained} target can repeat the saving throw, ending the effect on itself on a success.",
-				"The sphere can restrain as many as four Medium or smaller creatures or one Large creature. If the sphere restrains a creature that causes it to exceed this capacity, a random creature that was already {@condition restrained} by the sphere falls out of it and lands {@condition prone} in a space within 5 feet of it.",
-				"As an action, you can move the sphere up to 30 feet in a straight line. If it moves over a pit, a cliff, or other drop-off, it safely descends until it is hovering 10 feet above the ground. Any creature {@condition restrained} by the sphere moves with it. You can ram the sphere into creatures, forcing them to make the saving throw.",
-				"When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature {@condition restrained} by the sphere is knocked {@condition prone} in the space where it falls. The water then vanishes."
+				"Any creature in the sphere's space must make a Strength saving throw. On a successful save, a creature is ejected from that space to the nearest unoccupied space of the creature's choice outside the sphere. A Huge or larger creature succeeds on the saving throw automatically, and a Large or smaller creature can choose to fail it. On a failed save, a creature is {@condition apresado} by the sphere and is engulfed by the water. At the end of each of its turns, a {@condition apresado} target can repeat the saving throw, ending the effect on itself on a success.",
+				"The sphere can restrain as many as four Medium or smaller creatures or one Large creature. If the sphere restrains a creature that causes it to exceed this capacity, a random creature that was already {@condition apresado} by the sphere falls out of it and lands {@condition prone} in a space within 5 feet of it.",
+				"As an action, you can move the sphere up to 30 feet in a straight line. If it moves over a pit, a cliff, or other drop-off, it safely descends until it is hovering 10 feet above the ground. Any creature {@condition apresado} by the sphere moves with it. You can ram the sphere into creatures, forcing them to make the saving throw.",
+				"When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature {@condition apresado} by the sphere is knocked {@condition prone} in the space where it falls. The water then vanishes."
 			],
 			"conditionInflict": [
 				"prone",
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"strength"
@@ -5562,14 +5562,14 @@
 			],
 			"entries": [
 				"A whirlwind howls down to a point that you can see on the ground within range. The whirlwind is a 10-foot-radius, 30-foot-high cylinder centered on that point. Until the spell ends, you can use your action to move the whirlwind up to 30 feet in any direction along the ground. The whirlwind sucks up any Medium or smaller objects that aren't secured to anything and that aren't worn or carried by anyone.",
-				"A creature must make a Dexterity saving throw the first time on a turn that it enters the whirlwind or that the whirlwind enters its space, including when the whirlwind first appears. A creature takes {@damage 10d6} bludgeoning damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a Strength saving throw or become {@condition restrained} in the whirlwind until the spell ends. When a creature starts its turn {@condition restrained} by the whirlwind, the creature is pulled 5 feet higher inside it, unless the creature is at the top. A {@condition restrained} creature moves with the whirlwind and falls when the spell ends, unless the creature has some means to stay aloft.",
-				"A {@condition restrained} creature can use an action to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer {@condition restrained} by the whirlwind and is hurled {@dice 3d6 × 10} feet away from it in a random direction."
+				"A creature must make a Dexterity saving throw the first time on a turn that it enters the whirlwind or that the whirlwind enters its space, including when the whirlwind first appears. A creature takes {@damage 10d6} bludgeoning damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a Strength saving throw or become {@condition apresado} in the whirlwind until the spell ends. When a creature starts its turn {@condition apresado} by the whirlwind, the creature is pulled 5 feet higher inside it, unless the creature is at the top. A {@condition apresado} creature moves with the whirlwind and falls when the spell ends, unless the creature has some means to stay aloft.",
+				"A {@condition apresado} creature can use an action to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer {@condition apresado} by the whirlwind and is hurled {@dice 3d6 × 10} feet away from it in a random direction."
 			],
 			"damageInflict": [
 				"bludgeoning"
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"dexterity",
@@ -5699,7 +5699,7 @@
 					"type": "entries",
 					"name": "Roots and Vines",
 					"entries": [
-						"At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become {@condition restrained} until the spell ends. A {@condition restrained} creature can use an action to make a Strength ({@skill Athletics}) check against your spell save DC, ending the effect on itself on a success."
+						"At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become {@condition apresado} until the spell ends. A {@condition apresado} creature can use an action to make a Strength ({@skill Athletics}) check against your spell save DC, ending the effect on itself on a success."
 					]
 				},
 				{
@@ -5716,7 +5716,7 @@
 			],
 			"conditionInflict": [
 				"prone",
-				"restrained"
+				"apresado"
 			],
 			"spellAttack": [
 				"R"

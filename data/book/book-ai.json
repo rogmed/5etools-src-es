@@ -7079,7 +7079,7 @@
 											"name": "Freeze Assets (1/Day)",
 											"page": 214,
 											"entries": [
-												"The next time this creature hits with an attack, it can use a bonus action to cause the target of the attack to make a {@dc 13} Constitution saving throw. On a failed save, the target is {@condition paralyzed} until the start of its next turn."
+												"The next time this creature hits with an attack, it can use a bonus action to cause the target of the attack to make a {@dc 13} Constitution saving throw. On a failed save, the target is {@condition paralizado} until the start of its next turn."
 											],
 											"id": "184"
 										},
@@ -7130,7 +7130,7 @@
 											"name": "Noble Strike (1/Day)",
 											"page": 214,
 											"entries": [
-												"The next time this creature hits with an attack, it can use a bonus action to cause the target of the attack to become {@condition frightened}. An affected target can make a {@dc 13} Constitution saving throw at the end of each of its turns, ending the effect on itself on a success."
+												"The next time this creature hits with an attack, it can use a bonus action to cause the target of the attack to become {@condition asustado}. An affected target can make a {@dc 13} Constitution saving throw at the end of each of its turns, ending the effect on itself on a success."
 											],
 											"id": "188"
 										},
@@ -7190,7 +7190,7 @@
 											"name": "Touch of the Mask (1/Day)",
 											"page": 214,
 											"entries": [
-												"As an action, this creature thrusts a mask into the face of another creature within 5 feet of it, forcing that creature to make a {@dc 13} Dexterity saving throw. On a failure, the target is {@condition stunned} until the end of its next turn. A creature that has no face, or whose face is fully covered by a mask or helmet, is immune to this effect."
+												"As an action, this creature thrusts a mask into the face of another creature within 5 feet of it, forcing that creature to make a {@dc 13} Dexterity saving throw. On a failure, the target is {@condition aturdido} until the end of its next turn. A creature that has no face, or whose face is fully covered by a mask or helmet, is immune to this effect."
 											],
 											"id": "18d"
 										},
@@ -7208,7 +7208,7 @@
 											"name": "Zealot's Justice (1/Day)",
 											"page": 215,
 											"entries": [
-												"As an action, this creature unleashes a cacophony of platitudes that can leave others reeling. Each creature of its choice within 30 feet of it that can hear it must succeed on a {@dc 13} Wisdom saving throw or be {@condition restrained}. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on a success."
+												"As an action, this creature unleashes a cacophony of platitudes that can leave others reeling. Each creature of its choice within 30 feet of it that can hear it must succeed on a {@dc 13} Wisdom saving throw or be {@condition apresado}. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on a success."
 											],
 											"id": "18f"
 										}
@@ -7257,7 +7257,7 @@
 											"name": "Touch of Madness",
 											"page": 215,
 											"entries": [
-												"This creature has advantage on saving throws against being {@condition charmed} or {@condition frightened}."
+												"This creature has advantage on saving throws against being {@condition charmed} or {@condition asustado}."
 											],
 											"id": "194"
 										}

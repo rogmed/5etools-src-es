@@ -733,7 +733,7 @@
 												],
 												[
 													"6\u20137",
-													"You are {@condition petrified}."
+													"You are {@condition petrificado}."
 												],
 												[
 													"8",
@@ -819,7 +819,7 @@
 										],
 										[
 											"2",
-											"You gain {@dice 1d3} levels of {@condition exhaustion}. Until the curse ends, these levels of {@condition exhaustion} can't be removed."
+											"You gain {@dice 1d3} levels of {@condition cansancio}. Until the curse ends, these levels of {@condition cansancio} can't be removed."
 										],
 										[
 											"3",
@@ -976,7 +976,7 @@
 										],
 										[
 											"9",
-											"A tower that used to be the trunk of a giant {@condition petrified} tree, with rope bridges connecting it to the giant living trees that surround it"
+											"A tower that used to be the trunk of a giant {@condition petrificado} tree, with rope bridges connecting it to the giant living trees that surround it"
 										],
 										[
 											"10",

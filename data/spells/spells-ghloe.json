@@ -34,14 +34,14 @@
 				}
 			],
 			"entries": [
-				"You attempt to turn one creature that you can see within range into wood. If the target's body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is {@condition restrained} as its flesh begins to harden into bark. On a successful save, the creature isn't affected.",
-				"A creature {@condition restrained} by this spell must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its Constitution saving throw three times, it is turned into a tree and subjected to the {@condition petrified} condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.",
-				"If the transformed creature is burned, chopped down, or otherwise destroyed while {@condition petrified}, the creature is slain.",
+				"You attempt to turn one creature that you can see within range into wood. If the target's body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is {@condition apresado} as its flesh begins to harden into bark. On a successful save, the creature isn't affected.",
+				"A creature {@condition apresado} by this spell must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its Constitution saving throw three times, it is turned into a tree and subjected to the {@condition petrificado} condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.",
+				"If the transformed creature is burned, chopped down, or otherwise destroyed while {@condition petrificado}, the creature is slain.",
 				"A creature remains transformed unless the effect is reversed within one year with {@spell greater restoration}, {@spell wish}, or similar magical effects. If the creature spends one year and a day as a tree, the transformation becomes permanent, and nothing can return the creature to its original form."
 			],
 			"conditionInflict": [
-				"petrified",
-				"restrained"
+				"petrificado",
+				"apresado"
 			],
 			"savingThrow": [
 				"constitution"
@@ -240,14 +240,14 @@
 				}
 			],
 			"entries": [
-				"You create a pair of grasping hands made from {@condition invisible} forces. Make a spell attack against one creature that you can see within range. On a hit, the creature is {@condition restrained} as the hands crush their throat or bodily equivalent.",
-				"If the creature requires air to breathe, it begins to suffocate. A suffocating creature can survive for a number of rounds equal to 1 + its Constitution modifier (minimum of 1 round). At the start of its next turn after those rounds are over, it becomes {@condition unconscious}, and it can't regain hit points until it can breathe again.",
-				"A conscious creature {@condition restrained} by the hands can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, the spell ends on the target."
+				"You create a pair of grasping hands made from {@condition invisible} forces. Make a spell attack against one creature that you can see within range. On a hit, the creature is {@condition apresado} as the hands crush their throat or bodily equivalent.",
+				"If the creature requires air to breathe, it begins to suffocate. A suffocating creature can survive for a number of rounds equal to 1 + its Constitution modifier (minimum of 1 round). At the start of its next turn after those rounds are over, it becomes {@condition inconsciente}, and it can't regain hit points until it can breathe again.",
+				"A conscious creature {@condition apresado} by the hands can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, the spell ends on the target."
 			],
 			"conditionInflict": [
 				"invisible",
-				"restrained",
-				"unconscious"
+				"apresado",
+				"inconsciente"
 			],
 			"miscTags": [
 				"SGT"

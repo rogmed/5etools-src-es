@@ -284,7 +284,7 @@
 				}
 			],
 			"entries": [
-				"Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the {@condition Charmed|XPHB} condition for the duration. If you or one of your allies deals damage to the target, the spells ends."
+				"Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. If you or one of your allies deals damage to the target, the spells ends."
 			],
 			"entriesHigherLevel": [
 				{
@@ -691,14 +691,14 @@
 							"type": "item",
 							"name": "Antipathy",
 							"entries": [
-								"The creature has the {@condition Frightened|XPHB} condition. The {@condition Frightened|XPHB} creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route."
+								"The creature has the {@condition Asustado|XPHB} condition. The {@condition Asustado|XPHB} creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Sympathy",
 							"entries": [
-								"The creature has the {@condition Charmed|XPHB} condition. The {@condition Charmed|XPHB} creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the {@condition Charmed|XPHB} creature, that creature can make a Wisdom saving throw to end the effect, as described below."
+								"The creature has the {@condition Hechizado|XPHB} condition. The {@condition Hechizado|XPHB} creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the {@condition Hechizado|XPHB} creature, that creature can make a Wisdom saving throw to end the effect, as described below."
 							]
 						}
 					]
@@ -707,12 +707,12 @@
 					"type": "entries",
 					"name": "Ending the Effect",
 					"entries": [
-						"If the {@condition Frightened|XPHB} or {@condition Charmed|XPHB} creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again."
+						"If the {@condition Asustado|XPHB} or {@condition Hechizado|XPHB} creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again."
 					]
 				}
 			],
 			"conditionInflict": [
-				"frightened",
+				"asustado",
 				"charmed"
 			],
 			"savingThrow": [
@@ -1043,14 +1043,14 @@
 				}
 			],
 			"entries": [
-				"You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the {@condition Unconscious|XPHB} condition, doesn't need food or air, and doesn't age.",
+				"You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the {@condition Inconsciente|XPHB} condition, doesn't need food or air, and doesn't age.",
 				"A target's astral form resembles its body in almost every way, replicating its game statistics and possessions. The principal difference is the addition of a silvery cord that trails from between the shoulder blades of the astral form. The cord fades from view after 1 foot. If the cord is cut\u2014which happens only when an effect states that it does so\u2014the target's body and astral form both die.",
 				"A target's astral form can travel through the Astral Plane. The moment an astral form leaves that plane, the target's body and possessions travel along the silver cord, causing the target to re-enter its body on the new plane.",
 				"Any damage or other effects that apply to an astral form have no effect on the target's body and vice versa. If a target's body or astral form drops to 0 {@variantrule Hit Points|XPHB}, the spell ends for that target. The spell ends for all the targets if you take a {@action Magic|XPHB} action to dismiss it.",
 				"When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation."
 			],
 			"conditionInflict": [
-				"unconscious"
+				"inconsciente"
 			],
 			"miscTags": [
 				"PRM",
@@ -1212,7 +1212,7 @@
 				}
 			],
 			"entries": [
-				"An aura radiates from you in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} for the duration. While in the aura, you and your allies have {@variantrule Resistance|XPHB} to Poison damage and {@variantrule Advantage|XPHB} on saving throws to avoid or end effects that include the {@condition Blinded|XPHB}, {@condition Charmed|XPHB}, {@condition Deafened|XPHB}, {@condition Frightened|XPHB}, {@condition Paralyzed|XPHB}, {@condition Envenenado|XPHB}, or {@condition Stunned|XPHB} condition."
+				"An aura radiates from you in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} for the duration. While in the aura, you and your allies have {@variantrule Resistance|XPHB} to Poison damage and {@variantrule Advantage|XPHB} on saving throws to avoid or end effects that include the {@condition Blinded|XPHB}, {@condition Hechizado|XPHB}, {@condition Ensordecido|XPHB}, {@condition Asustado|XPHB}, {@condition Paralizado|XPHB}, {@condition Envenenado|XPHB}, or {@condition Aturdido|XPHB} condition."
 			],
 			"damageResist": [
 				"poison"
@@ -1302,7 +1302,7 @@
 			],
 			"entries": [
 				"You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a {@filter Beast|bestiary|type=beast|intelligence=[0;3]|miscellaneous=!swarm} or {@filter Plant|bestiary|type=plant|intelligence=[0;3]|miscellaneous=!swarm} creature with an Intelligence of 3 or less or a natural plant that isn't a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. The DM chooses statistics appropriate for the awakened Plant, such as the statistics for the {@creature Awakened Shrub|XMM} or {@creature Awakened Tree|XMM} in the {@book Monster Manual|XMM}.",
-				"The awakened target has the {@condition Charmed|XPHB} condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you."
+				"The awakened target has the {@condition Hechizado|XPHB} condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you."
 			],
 			"conditionInflict": [
 				"charmed"
@@ -1795,7 +1795,7 @@
 							"type": "item",
 							"name": "Grasping Hand",
 							"entries": [
-								"The hand attempts to grapple a Huge or smaller creature within 5 feet of it. The target must succeed on a Dexterity saving throw, or the target has the {@condition Grappled|XPHB} condition, with an escape DC equal to your spell save DC. While the hand grapples the target, you can take a {@variantrule Bonus Action|XPHB} to cause the hand to crush it, dealing Bludgeoning damage to the target equal to {@damage 4d6} plus your spellcasting ability modifier."
+								"The hand attempts to grapple a Huge or smaller creature within 5 feet of it. The target must succeed on a Dexterity saving throw, or the target has the {@condition Agarrado|XPHB} condition, with an escape DC equal to your spell save DC. While the hand grapples the target, you can take a {@variantrule Bonus Action|XPHB} to cause the hand to crush it, dealing Bludgeoning damage to the target equal to {@damage 4d6} plus your spellcasting ability modifier."
 							]
 						},
 						{
@@ -1822,7 +1822,7 @@
 				"force"
 			],
 			"conditionInflict": [
-				"grappled"
+				"agarrado"
 			],
 			"spellAttack": [
 				"M"
@@ -2132,7 +2132,7 @@
 				}
 			],
 			"entries": [
-				"One creature that you can see within range must succeed on a Constitution saving throw, or it has the {@condition Blinded|XPHB} or {@condition Deafened|XPHB} condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success."
+				"One creature that you can see within range must succeed on a Constitution saving throw, or it has the {@condition Blinded|XPHB} or {@condition Ensordecido|XPHB} condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success."
 			],
 			"entriesHigherLevel": [
 				{
@@ -2145,7 +2145,7 @@
 			],
 			"conditionInflict": [
 				"blinded",
-				"deafened"
+				"ensordecido"
 			],
 			"savingThrow": [
 				"constitution"
@@ -2396,7 +2396,7 @@
 				{
 					"type": "list",
 					"items": [
-						"The creature has {@variantrule Immunity|XPHB} to the {@condition Charmed|XPHB} and {@condition Frightened|XPHB} conditions until the spell ends. If the creature was already {@condition Charmed|XPHB} or {@condition Frightened|XPHB}, those conditions are suppressed for the duration.",
+						"The creature has {@variantrule Immunity|XPHB} to the {@condition Hechizado|XPHB} and {@condition Asustado|XPHB} conditions until the spell ends. If the creature was already {@condition Hechizado|XPHB} or {@condition Asustado|XPHB}, those conditions are suppressed for the duration.",
 						"The creature becomes {@variantrule Indifferent [Attitude]|XPHB|Indifferent} about creatures of your choice that it's {@variantrule Hostile [Attitude]|XPHB|Hostile} toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal."
 					]
 				}
@@ -2506,7 +2506,7 @@
 				}
 			],
 			"entries": [
-				"One creature you can see within range makes a Wisdom saving throw. It does so with {@variantrule Advantage|XPHB} if you or your allies are fighting it. On a failed save, the target has the {@condition Charmed|XPHB} condition until the spell ends or until you or your allies damage it. The {@condition Charmed|XPHB} creature is {@variantrule Friendly [Attitude]|XPHB|Friendly} to you. When the spell ends, the target knows it was {@condition Charmed|XPHB} by you."
+				"One creature you can see within range makes a Wisdom saving throw. It does so with {@variantrule Advantage|XPHB} if you or your allies are fighting it. On a failed save, the target has the {@condition Hechizado|XPHB} condition until the spell ends or until you or your allies damage it. The {@condition Hechizado|XPHB} creature is {@variantrule Friendly [Attitude]|XPHB|Friendly} to you. When the spell ends, the target knows it was {@condition Hechizado|XPHB} by you."
 			],
 			"entriesHigherLevel": [
 				{
@@ -2566,7 +2566,7 @@
 				}
 			],
 			"entries": [
-				"One Humanoid you can see within range makes a Wisdom saving throw. It does so with {@variantrule Advantage|XPHB} if you or your allies are fighting it. On a failed save, the target has the {@condition Charmed|XPHB} condition until the spell ends or until you or your allies damage it. The {@condition Charmed|XPHB} creature is {@variantrule Friendly [Attitude]|XPHB|Friendly} to you. When the spell ends, the target knows it was {@condition Charmed|XPHB} by you."
+				"One Humanoid you can see within range makes a Wisdom saving throw. It does so with {@variantrule Advantage|XPHB} if you or your allies are fighting it. On a failed save, the target has the {@condition Hechizado|XPHB} condition until the spell ends or until you or your allies damage it. The {@condition Hechizado|XPHB} creature is {@variantrule Friendly [Attitude]|XPHB|Friendly} to you. When the spell ends, the target knows it was {@condition Hechizado|XPHB} by you."
 			],
 			"entriesHigherLevel": [
 				{
@@ -3385,8 +3385,8 @@
 				}
 			],
 			"entries": [
-				"Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the {@condition Charmed|XPHB} condition until the spell ends.",
-				"For the duration, you can take a {@variantrule Bonus Action|XPHB} to designate a direction that is horizontal to you. Each {@condition Charmed|XPHB} target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success."
+				"Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition until the spell ends.",
+				"For the duration, you can take a {@variantrule Bonus Action|XPHB} to designate a direction that is horizontal to you. Each {@condition Hechizado|XPHB} target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success."
 			],
 			"conditionInflict": [
 				"charmed"
@@ -3784,7 +3784,7 @@
 			],
 			"entries": [
 				"You conjure a Large, intangible spirit from the Elemental Planes that appears in an unoccupied space within range. Choose the spirit's element, which determines its damage type: air (Lightning), earth (Thunder), fire (Fire), or water (Cold). The spirit lasts for the duration.",
-				"Whenever a creature you can see enters the spirit's space or starts its turn within 5 feet of the spirit, you can force that creature to make a Dexterity saving throw if the spirit has no creature {@condition Restrained|XPHB}. On failed save, the target takes {@damage 8d8} damage of the spirit's type, and the target has the {@condition Restrained|XPHB} condition until the spell ends. At the start of each of its turns, the {@condition Restrained|XPHB} target repeats the save. On a failed save, the target takes {@damage 4d8} damage of the spirit's type. On a successful save, the target isn't {@condition Restrained|XPHB} by the spirit."
+				"Whenever a creature you can see enters the spirit's space or starts its turn within 5 feet of the spirit, you can force that creature to make a Dexterity saving throw if the spirit has no creature {@condition Apresado|XPHB}. On failed save, the target takes {@damage 8d8} damage of the spirit's type, and the target has the {@condition Apresado|XPHB} condition until the spell ends. At the start of each of its turns, the {@condition Apresado|XPHB} target repeats the save. On a failed save, the target takes {@damage 4d8} damage of the spirit's type. On a successful save, the target isn't {@condition Apresado|XPHB} by the spirit."
 			],
 			"entriesHigherLevel": [
 				{
@@ -3802,7 +3802,7 @@
 				"cold"
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"dexterity"
@@ -3847,7 +3847,7 @@
 				}
 			],
 			"entries": [
-				"You conjure a Medium spirit from the Feywild in an unoccupied space you can see within range. The spirit lasts for the duration, and it looks like a Fey creature of your choice. When the spirit appears, you can make one melee spell attack against a creature within 5 feet of it. On a hit, the target takes Psychic damage equal to {@damage 3d12} plus your spellcasting ability modifier, and the target has the {@condition Frightened|XPHB} condition until the start of your next turn, with both you and the spirit as the source of the fear.",
+				"You conjure a Medium spirit from the Feywild in an unoccupied space you can see within range. The spirit lasts for the duration, and it looks like a Fey creature of your choice. When the spirit appears, you can make one melee spell attack against a creature within 5 feet of it. On a hit, the target takes Psychic damage equal to {@damage 3d12} plus your spellcasting ability modifier, and the target has the {@condition Asustado|XPHB} condition until the start of your next turn, with both you and the spirit as the source of the fear.",
 				"As a {@variantrule Bonus Action|XPHB} on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it."
 			],
 			"entriesHigherLevel": [
@@ -3863,7 +3863,7 @@
 				"psychic"
 			],
 			"conditionInflict": [
-				"frightened"
+				"asustado"
 			],
 			"miscTags": [
 				"SGT",
@@ -4827,8 +4827,8 @@
 				}
 			],
 			"entries": [
-				"One creature that you can see within range must succeed on a Wisdom saving throw or have the {@condition Charmed|XPHB} condition for the duration. The creature succeeds automatically if it isn't Humanoid.",
-				"A spectral crown appears on the {@condition Charmed|XPHB} target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.",
+				"One creature that you can see within range must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The creature succeeds automatically if it isn't Humanoid.",
+				"A spectral crown appears on the {@condition Hechizado|XPHB} target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.",
 				"On your later turns, you must take the {@action Magic|XPHB} action to maintain control of the target, or the spell ends."
 			],
 			"conditionInflict": [
@@ -5766,7 +5766,7 @@
 					"type": "entries",
 					"name": "Break Enchantment",
 					"entries": [
-						"As a {@action Magic|XPHB} action, you touch a creature that is possessed by or has the {@condition Charmed|XPHB} or {@condition Frightened|XPHB} condition from one or more creatures of the types above. The target is no longer possessed, {@condition Charmed|XPHB}, or {@condition Frightened|XPHB} by such creatures."
+						"As a {@action Magic|XPHB} action, you touch a creature that is possessed by or has the {@condition Hechizado|XPHB} or {@condition Asustado|XPHB} condition from one or more creatures of the types above. The target is no longer possessed, {@condition Hechizado|XPHB}, or {@condition Asustado|XPHB} by such creatures."
 					]
 				},
 				{
@@ -6081,23 +6081,23 @@
 						],
 						[
 							"21-30",
-							"The target has the {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, and {@condition Stunned|XPHB} conditions for 1 hour."
+							"The target has the {@condition Blinded|XPHB}, {@condition Ensordecido|XPHB}, and {@condition Aturdido|XPHB} conditions for 1 hour."
 						],
 						[
 							"31-40",
-							"The target has the {@condition Blinded|XPHB} and {@condition Deafened|XPHB} conditions for 10 minutes."
+							"The target has the {@condition Blinded|XPHB} and {@condition Ensordecido|XPHB} conditions for 10 minutes."
 						],
 						[
 							"41-50",
-							"The target has the {@condition Deafened|XPHB} condition for 1 minute."
+							"The target has the {@condition Ensordecido|XPHB} condition for 1 minute."
 						]
 					]
 				}
 			],
 			"conditionInflict": [
 				"blinded",
-				"deafened",
-				"stunned"
+				"ensordecido",
+				"aturdido"
 			],
 			"savingThrow": [
 				"charisma"
@@ -6142,8 +6142,8 @@
 				}
 			],
 			"entries": [
-				"One Beast you can see within range must succeed on a Wisdom saving throw or have the {@condition Charmed|XPHB} condition for the duration. The target has {@variantrule Advantage|XPHB} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.",
-				"You have a telepathic link with the {@condition Charmed|XPHB} target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as \"{@action Attack|XPHB} that creature,\" \"Move over there,\" or \"Fetch that object.\" The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.",
+				"One Beast you can see within range must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target has {@variantrule Advantage|XPHB} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.",
+				"You have a telepathic link with the {@condition Hechizado|XPHB} target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as \"{@action Attack|XPHB} that creature,\" \"Move over there,\" or \"Fetch that object.\" The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.",
 				"You can command the target to take a {@variantrule Reaction|XPHB} but must take your own {@variantrule Reaction|XPHB} to do so."
 			],
 			"entriesHigherLevel": [
@@ -6207,8 +6207,8 @@
 				}
 			],
 			"entries": [
-				"One creature you can see within range must succeed on a Wisdom saving throw or have the {@condition Charmed|XPHB} condition for the duration. The target has {@variantrule Advantage|XPHB} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.",
-				"You have a telepathic link with the {@condition Charmed|XPHB} target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as \"{@action Attack|XPHB} that creature,\" \"Move over there,\" or \"Fetch that object.\" The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.",
+				"One creature you can see within range must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target has {@variantrule Advantage|XPHB} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.",
+				"You have a telepathic link with the {@condition Hechizado|XPHB} target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as \"{@action Attack|XPHB} that creature,\" \"Move over there,\" or \"Fetch that object.\" The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.",
 				"You can command the target to take a {@variantrule Reaction|XPHB} but must take your own {@variantrule Reaction|XPHB} to do so."
 			],
 			"entriesHigherLevel": [
@@ -6269,8 +6269,8 @@
 				}
 			],
 			"entries": [
-				"One Humanoid you can see within range must succeed on a Wisdom saving throw or have the {@condition Charmed|XPHB} condition for the duration. The target has {@variantrule Advantage|XPHB} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.",
-				"You have a telepathic link with the {@condition Charmed|XPHB} target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as \"{@action Attack|XPHB} that creature,\" \"Move over there,\" or \"Fetch that object.\" The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.",
+				"One Humanoid you can see within range must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target has {@variantrule Advantage|XPHB} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.",
+				"You have a telepathic link with the {@condition Hechizado|XPHB} target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as \"{@action Attack|XPHB} that creature,\" \"Move over there,\" or \"Fetch that object.\" The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.",
 				"You can command the target to take a {@variantrule Reaction|XPHB} but must take your own {@variantrule Reaction|XPHB} to do so."
 			],
 			"entriesHigherLevel": [
@@ -6941,8 +6941,8 @@
 				}
 			],
 			"entries": [
-				"As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has {@variantrule Advantage|XPHB} on this save. On a failed save, the target has the {@condition Restrained|XPHB} condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.",
-				"While {@condition Restrained|XPHB}, the target takes {@damage 1d6} Piercing damage at the start of each of its turns. The target or a creature within reach of it can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC. On a success, the spell ends."
+				"As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has {@variantrule Advantage|XPHB} on this save. On a failed save, the target has the {@condition Apresado|XPHB} condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.",
+				"While {@condition Apresado|XPHB}, the target takes {@damage 1d6} Piercing damage at the start of each of its turns. The target or a creature within reach of it can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC. On a success, the spell ends."
 			],
 			"entriesHigherLevel": [
 				{
@@ -6957,7 +6957,7 @@
 				"piercing"
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"strength"
@@ -7003,10 +7003,10 @@
 			],
 			"entries": [
 				"Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into {@variantrule Difficult Terrain|XPHB}. They disappear when the spell ends.",
-				"Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the {@condition Restrained|XPHB} condition until the spell ends. A {@condition Restrained|XPHB} creature can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer {@condition Restrained|XPHB} by them."
+				"Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the {@condition Apresado|XPHB} condition until the spell ends. A {@condition Apresado|XPHB} creature can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer {@condition Apresado|XPHB} by them."
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"strength"
@@ -7163,14 +7163,14 @@
 			],
 			"entries": [
 				"Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into {@variantrule Difficult Terrain|XPHB}.",
-				"Each creature in that area makes a Strength saving throw. On a failed save, it takes {@damage 3d6} Bludgeoning damage, and it has the {@condition Restrained|XPHB} condition until the spell ends. A creature also makes that save if it enters the area or ends it turn there. A creature makes that save only once per turn.",
-				"A {@condition Restrained|XPHB} creature can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC, ending the condition on itself on a success."
+				"Each creature in that area makes a Strength saving throw. On a failed save, it takes {@damage 3d6} Bludgeoning damage, and it has the {@condition Apresado|XPHB} condition until the spell ends. A creature also makes that save if it enters the area or ends it turn there. A creature makes that save only once per turn.",
+				"A {@condition Apresado|XPHB} creature can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC, ending the condition on itself on a success."
 			],
 			"damageInflict": [
 				"bludgeoning"
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"strength"
@@ -7269,14 +7269,14 @@
 					"type": "entries",
 					"name": "Asleep",
 					"entries": [
-						"The target has the {@condition Unconscious|XPHB} condition. It wakes up if it takes any damage or if another creature takes an action to shake it awake."
+						"The target has the {@condition Inconsciente|XPHB} condition. It wakes up if it takes any damage or if another creature takes an action to shake it awake."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Panicked",
 					"entries": [
-						"The target has the {@condition Frightened|XPHB} condition. On each of its turns, the {@condition Frightened|XPHB} target must take the {@action Dash|XPHB} action and move away from you by the safest and shortest route available. If the target moves to a space at least 60 feet away from you where it can't see you, this effect ends."
+						"The target has the {@condition Asustado|XPHB} condition. On each of its turns, the {@condition Asustado|XPHB} target must take the {@action Dash|XPHB} action and move away from you by the safest and shortest route available. If the target moves to a space at least 60 feet away from you where it can't see you, this effect ends."
 					]
 				},
 				{
@@ -7288,8 +7288,8 @@
 				}
 			],
 			"conditionInflict": [
-				"frightened",
-				"unconscious"
+				"asustado",
+				"inconsciente"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -7474,11 +7474,11 @@
 				}
 			],
 			"entries": [
-				"Each creature in a 30-foot {@variantrule Cone [Area of Effect]|XPHB|Cone} must succeed on a Wisdom saving throw or drop whatever it is holding and have the {@condition Frightened|XPHB} condition for the duration.",
-				"A {@condition Frightened|XPHB} creature takes the {@action Dash|XPHB} action and moves away from you by the safest route on each of its turns unless there is nowhere to move. If the creature ends its turn in a space where it doesn't have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature."
+				"Each creature in a 30-foot {@variantrule Cone [Area of Effect]|XPHB|Cone} must succeed on a Wisdom saving throw or drop whatever it is holding and have the {@condition Asustado|XPHB} condition for the duration.",
+				"A {@condition Asustado|XPHB} creature takes the {@action Dash|XPHB} action and moves away from you by the safest route on each of its turns unless there is nowhere to move. If the creature ends its turn in a space where it doesn't have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature."
 			],
 			"conditionInflict": [
-				"frightened"
+				"asustado"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -8305,13 +8305,13 @@
 				}
 			],
 			"entries": [
-				"You attempt to turn one creature that you can see within range into stone. The target makes a Constitution saving throw. On a failed save, it has the {@condition Restrained|XPHB} condition for the duration. On a successful save, its {@variantrule Speed|XPHB} is 0 until the start of your next turn. Constructs automatically succeed on the save.",
-				"A {@condition Restrained|XPHB} target makes another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and has the {@condition Petrified|XPHB} condition for the duration. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.",
-				"If you maintain your {@status Concentration|XPHB} on this spell for the entire possible duration, the target is {@condition Petrified|XPHB} until the condition is ended by {@spell Greater Restoration|XPHB} or similar magic."
+				"You attempt to turn one creature that you can see within range into stone. The target makes a Constitution saving throw. On a failed save, it has the {@condition Apresado|XPHB} condition for the duration. On a successful save, its {@variantrule Speed|XPHB} is 0 until the start of your next turn. Constructs automatically succeed on the save.",
+				"A {@condition Apresado|XPHB} target makes another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and has the {@condition Petrificado|XPHB} condition for the duration. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.",
+				"If you maintain your {@status Concentration|XPHB} on this spell for the entire possible duration, the target is {@condition Petrificado|XPHB} until the condition is ended by {@spell Greater Restoration|XPHB} or similar magic."
 			],
 			"conditionInflict": [
-				"petrified",
-				"restrained"
+				"petrificado",
+				"apresado"
 			],
 			"savingThrow": [
 				"constitution"
@@ -8683,8 +8683,8 @@
 				}
 			],
 			"entries": [
-				"You touch a willing creature. For the duration, the target's movement is unaffected by {@variantrule Difficult Terrain|XPHB}, and spells and other magical effects can neither reduce the target's {@variantrule Speed|XPHB} nor cause the target to have the {@condition Paralyzed|XPHB} or {@condition Restrained|XPHB} conditions. The target also has a {@variantrule Swim Speed|XPHB} equal to its {@variantrule Speed|XPHB}.",
-				"In addition, the target can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the {@condition Grappled|XPHB} condition on it."
+				"You touch a willing creature. For the duration, the target's movement is unaffected by {@variantrule Difficult Terrain|XPHB}, and spells and other magical effects can neither reduce the target's {@variantrule Speed|XPHB} nor cause the target to have the {@condition Paralizado|XPHB} or {@condition Apresado|XPHB} conditions. The target also has a {@variantrule Swim Speed|XPHB} equal to its {@variantrule Speed|XPHB}.",
+				"In addition, the target can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the {@condition Agarrado|XPHB} condition on it."
 			],
 			"entriesHigherLevel": [
 				{
@@ -8696,8 +8696,8 @@
 				}
 			],
 			"conditionImmune": [
-				"paralyzed",
-				"restrained"
+				"paralizado",
+				"apresado"
 			],
 			"miscTags": [
 				"SCT"
@@ -8740,8 +8740,8 @@
 				}
 			],
 			"entries": [
-				"You magically emanate a sense of friendship toward one creature you can see within range. The target must succeed on a Wisdom saving throw or have the {@condition Charmed|XPHB} condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.",
-				"The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was {@condition Charmed|XPHB} by you."
+				"You magically emanate a sense of friendship toward one creature you can see within range. The target must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.",
+				"The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was {@condition Hechizado|XPHB} by you."
 			],
 			"conditionInflict": [
 				"charmed"
@@ -8902,8 +8902,8 @@
 				}
 			],
 			"entries": [
-				"You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the {@condition Charmed|XPHB} condition for the duration. The target automatically succeeds if it can't understand your command.",
-				"While {@condition Charmed|XPHB}, the creature takes {@damage 5d10} Psychic damage if it acts in a manner directly counter to your command. It takes this damage no more than once each day.",
+				"You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target automatically succeeds if it can't understand your command.",
+				"While {@condition Hechizado|XPHB}, the creature takes {@damage 5d10} Psychic damage if it acts in a manner directly counter to your command. It takes this damage no more than once each day.",
 				"You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.",
 				"A {@spell Remove Curse|XPHB}, {@spell Greater Restoration|XPHB}, or {@spell Wish|XPHB} spell ends this spell."
 			],
@@ -9288,7 +9288,7 @@
 			],
 			"entries": [
 				"You conjure a vine that sprouts from a surface in an unoccupied space that you can see within range. The vine lasts for the duration.",
-				"Make a melee spell attack against a creature within 30 feet of the vine. On a hit, the target takes {@damage 4d8} Bludgeoning damage and is pulled up to 30 feet toward the vine; if the target is Huge or smaller, it has the {@condition Grappled|XPHB} condition (escape DC equal to your spell save DC). The vine can grapple only one creature at a time, and you can cause the vine to release a {@condition Grappled|XPHB} creature (no action required).",
+				"Make a melee spell attack against a creature within 30 feet of the vine. On a hit, the target takes {@damage 4d8} Bludgeoning damage and is pulled up to 30 feet toward the vine; if the target is Huge or smaller, it has the {@condition Agarrado|XPHB} condition (escape DC equal to your spell save DC). The vine can grapple only one creature at a time, and you can cause the vine to release a {@condition Agarrado|XPHB} creature (no action required).",
 				"As a {@variantrule Bonus Action|XPHB} on your later turns, you can repeat the attack against a creature within 30 feet of the vine."
 			],
 			"entriesHigherLevel": [
@@ -9304,7 +9304,7 @@
 				"bludgeoning"
 			],
 			"conditionInflict": [
-				"grappled"
+				"agarrado"
 			],
 			"spellAttack": [
 				"M"
@@ -9453,8 +9453,8 @@
 				{
 					"type": "list",
 					"items": [
-						"1 {@condition Exhaustion|XPHB} level",
-						"The {@condition Charmed|XPHB} or {@condition Petrified|XPHB} condition",
+						"1 {@condition Cansancio|XPHB} level",
+						"The {@condition Hechizado|XPHB} or {@condition Petrificado|XPHB} condition",
 						"A curse, including the target's {@variantrule Attunement|XPHB} to a cursed magic item",
 						"Any reduction to one of the target's ability scores",
 						"Any reduction to the target's {@variantrule Hit Points|XPHB|Hit Point} maximum"
@@ -9845,7 +9845,7 @@
 					"type": "entries",
 					"name": "Hallowed Ward",
 					"entries": [
-						"Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can't willingly enter the area, and any creature that is possessed by or that has the {@condition Charmed|XPHB} or {@condition Frightened|XPHB} condition from such creatures isn't possessed, {@condition Charmed|XPHB}, or {@condition Frightened|XPHB} by them while in the area."
+						"Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can't willingly enter the area, and any creature that is possessed by or that has the {@condition Hechizado|XPHB} or {@condition Asustado|XPHB} condition from such creatures isn't possessed, {@condition Hechizado|XPHB}, or {@condition Asustado|XPHB} by them while in the area."
 					]
 				},
 				{
@@ -9861,7 +9861,7 @@
 									"type": "item",
 									"name": "Courage",
 									"entries": [
-										"Creatures of any types you choose can't gain the {@condition Frightened|XPHB} condition while in the area."
+										"Creatures of any types you choose can't gain the {@condition Asustado|XPHB} condition while in the area."
 									]
 								},
 								{
@@ -9896,7 +9896,7 @@
 									"type": "item",
 									"name": "Fear",
 									"entries": [
-										"Creatures of any types you choose have the {@condition Frightened|XPHB} condition while in the area."
+										"Creatures of any types you choose have the {@condition Asustado|XPHB} condition while in the area."
 									]
 								},
 								{
@@ -10143,7 +10143,7 @@
 				}
 			],
 			"entries": [
-				"Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 {@variantrule Hit Points|XPHB}. This spell also ends the {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, and {@condition Envenenado|XPHB} conditions on the target."
+				"Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 {@variantrule Hit Points|XPHB}. This spell also ends the {@condition Blinded|XPHB}, {@condition Ensordecido|XPHB}, and {@condition Envenenado|XPHB} conditions on the target."
 			],
 			"entriesHigherLevel": [
 				{
@@ -10368,13 +10368,13 @@
 			],
 			"entries": [
 				"You conjure a feast that appears on a surface in an unoccupied 10-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.",
-				"A creature that partakes gains several benefits, which last for 24 hours. The creature has {@variantrule Resistance|XPHB} to Poison damage, and it has {@variantrule Immunity|XPHB} to the {@condition Frightened|XPHB} and {@condition Envenenado|XPHB} conditions. Its {@variantrule Hit Points|XPHB|Hit Point} maximum also increases by {@dice 2d10}, and it gains the same number of {@variantrule Hit Points|XPHB}."
+				"A creature that partakes gains several benefits, which last for 24 hours. The creature has {@variantrule Resistance|XPHB} to Poison damage, and it has {@variantrule Immunity|XPHB} to the {@condition Asustado|XPHB} and {@condition Envenenado|XPHB} conditions. Its {@variantrule Hit Points|XPHB|Hit Point} maximum also increases by {@dice 2d10}, and it gains the same number of {@variantrule Hit Points|XPHB}."
 			],
 			"damageImmune": [
 				"poison"
 			],
 			"conditionImmune": [
-				"frightened",
+				"asustado",
 				"poisoned"
 			],
 			"miscTags": [
@@ -10422,7 +10422,7 @@
 				}
 			],
 			"entries": [
-				"A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the {@condition Frightened|XPHB} condition and gains {@variantrule Temporary Hit Points|XPHB} equal to your spellcasting ability modifier at the start of each of its turns."
+				"A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the {@condition Asustado|XPHB} condition and gains {@variantrule Temporary Hit Points|XPHB} equal to your spellcasting ability modifier at the start of each of its turns."
 			],
 			"entriesHigherLevel": [
 				{
@@ -10434,7 +10434,7 @@
 				}
 			],
 			"conditionImmune": [
-				"frightened"
+				"asustado"
 			],
 			"miscTags": [
 				"SCT",
@@ -10542,7 +10542,7 @@
 				}
 			],
 			"entries": [
-				"Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or have the {@condition Paralyzed|XPHB} condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success."
+				"Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or have the {@condition Paralizado|XPHB} condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success."
 			],
 			"entriesHigherLevel": [
 				{
@@ -10554,7 +10554,7 @@
 				}
 			],
 			"conditionInflict": [
-				"paralyzed"
+				"paralizado"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -10604,7 +10604,7 @@
 				}
 			],
 			"entries": [
-				"Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the {@condition Paralyzed|XPHB} condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success."
+				"Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the {@condition Paralizado|XPHB} condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success."
 			],
 			"entriesHigherLevel": [
 				{
@@ -10616,7 +10616,7 @@
 				}
 			],
 			"conditionInflict": [
-				"paralyzed"
+				"paralizado"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -10848,7 +10848,7 @@
 				}
 			],
 			"entries": [
-				"You create a twisting pattern of colors in a 30-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the {@condition Charmed|XPHB} condition for the duration. While {@condition Charmed|XPHB}, the creature has the {@condition Incapacitated|XPHB} condition and a {@variantrule Speed|XPHB} of 0.",
+				"You create a twisting pattern of colors in a 30-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. While {@condition Hechizado|XPHB}, the creature has the {@condition Incapacitated|XPHB} condition and a {@variantrule Speed|XPHB} of 0.",
 				"The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor."
 			],
 			"conditionInflict": [
@@ -11125,7 +11125,7 @@
 							"type": "item",
 							"name": "Chaining",
 							"entries": [
-								"Chains firmly rooted in the ground hold the target in place. The target has the {@condition Restrained|XPHB} condition and can't be moved by any means."
+								"Chains firmly rooted in the ground hold the target in place. The target has the {@condition Apresado|XPHB} condition and can't be moved by any means."
 							]
 						},
 						{
@@ -11146,7 +11146,7 @@
 							"type": "item",
 							"name": "Slumber",
 							"entries": [
-								"The target has the {@condition Unconscious|XPHB} condition and can't be awoken."
+								"The target has the {@condition Inconsciente|XPHB} condition and can't be awoken."
 							]
 						}
 					]
@@ -11161,8 +11161,8 @@
 				}
 			],
 			"conditionInflict": [
-				"restrained",
-				"unconscious"
+				"apresado",
+				"inconsciente"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -11433,7 +11433,7 @@
 				}
 			],
 			"entries": [
-				"You unleash a storm of flashing light and raging thunder in a 10-foot-radius, 40-foot-high {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centered on a point you can see within range. While in this area, creatures have the {@condition Blinded|XPHB} and {@condition Deafened|XPHB} conditions, and they can't cast spells with a Verbal component.",
+				"You unleash a storm of flashing light and raging thunder in a 10-foot-radius, 40-foot-high {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centered on a point you can see within range. While in this area, creatures have the {@condition Blinded|XPHB} and {@condition Ensordecido|XPHB} conditions, and they can't cast spells with a Verbal component.",
 				"When the storm appears, each creature in it makes a Constitution saving throw, taking {@damage 2d10} Radiant damage and {@damage 2d10} Thunder damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn."
 			],
 			"entriesHigherLevel": [
@@ -11451,7 +11451,7 @@
 			],
 			"conditionInflict": [
 				"blinded",
-				"deafened"
+				"ensordecido"
 			],
 			"savingThrow": [
 				"constitution"
@@ -11727,7 +11727,7 @@
 				}
 			],
 			"entries": [
-				"You touch a creature and end one condition on it: {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, {@condition Paralyzed|XPHB}, or {@condition Envenenado|XPHB}."
+				"You touch a creature and end one condition on it: {@condition Blinded|XPHB}, {@condition Ensordecido|XPHB}, {@condition Paralizado|XPHB}, or {@condition Envenenado|XPHB}."
 			],
 			"areaTags": [
 				"ST"
@@ -12251,7 +12251,7 @@
 					"items": [
 						"The creature can't willingly enter the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.",
 						"The creature has {@variantrule Disadvantage|XPHB} on attack rolls against targets within the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}.",
-						"Targets within the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} can't be possessed by or gain the {@condition Charmed|XPHB} or {@condition Frightened|XPHB} condition from the creature."
+						"Targets within the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} can't be possessed by or gain the {@condition Hechizado|XPHB} or {@condition Asustado|XPHB} condition from the creature."
 					]
 				},
 				"Each time you cast this spell, you can cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} and protecting targets outside it."
@@ -12627,7 +12627,7 @@
 				}
 			],
 			"entries": [
-				"A flood of healing energy flows from you into creatures around you. You restore up to 700 {@variantrule Hit Points|XPHB}, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, and {@condition Envenenado|XPHB} conditions removed from them."
+				"A flood of healing energy flows from you into creatures around you. You restore up to 700 {@variantrule Hit Points|XPHB}, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the {@condition Blinded|XPHB}, {@condition Ensordecido|XPHB}, and {@condition Envenenado|XPHB} conditions removed from them."
 			],
 			"miscTags": [
 				"HL",
@@ -12722,7 +12722,7 @@
 			],
 			"entries": [
 				"You suggest a course of activity\u2014described in no more than 25 words\u2014to twelve or fewer creatures you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to any of the targets or their allies. For example, you could say, \"Walk to the village down that road, and help the villagers there harvest crops until sunset.\" Or you could say, \"Now is not the time for violence. Drop your weapons, and dance! Stop in an hour.\"",
-				"Each target must succeed on a Wisdom saving throw or have the {@condition Charmed|XPHB} condition for the duration or until you or your allies deal damage to the target. Each {@condition Charmed|XPHB} target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for a target upon completing it."
+				"Each target must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration or until you or your allies deal damage to the target. Each {@condition Hechizado|XPHB} target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for a target upon completing it."
 			],
 			"entriesHigherLevel": [
 				{
@@ -13061,7 +13061,7 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, one willing creature you touch has {@variantrule Immunity|XPHB} to Psychic damage and the {@condition Charmed|XPHB} condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell\u2014not even {@spell Wish|XPHB}\u2014can gather information about the target, observe it remotely, or control its mind."
+				"Until the spell ends, one willing creature you touch has {@variantrule Immunity|XPHB} to Psychic damage and the {@condition Hechizado|XPHB} condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell\u2014not even {@spell Wish|XPHB}\u2014can gather information about the target, observe it remotely, or control its mind."
 			],
 			"damageImmune": [
 				"psychic"
@@ -13449,7 +13449,7 @@
 				}
 			],
 			"entries": [
-				"You attempt to reshape another creature's memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has {@variantrule Advantage|XPHB} on the save. On a failed save, the target has the {@condition Charmed|XPHB} condition for the duration. While {@condition Charmed|XPHB} in this way, the target also has the {@condition Incapacitated|XPHB} condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.",
+				"You attempt to reshape another creature's memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has {@variantrule Advantage|XPHB} on the save. On a failed save, the target has the {@condition Hechizado|XPHB} condition for the duration. While {@condition Hechizado|XPHB} in this way, the target also has the {@condition Incapacitated|XPHB} condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.",
 				"While this charm lasts, you can affect the target's memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity, change its memory of the event's details, or create a memory of some other event.",
 				"You must speak to the target to describe how its memories are affected, and it must be able to understand your language for the modified memories to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you finish describing the modified memories, the creature's memory isn't altered. Otherwise, the modified memories take hold when the spell ends.",
 				"A modified memory doesn't necessarily affect how a creature behaves, particularly if the memory contradicts the creature's natural inclinations, alignment, or beliefs. An illogical modified memory, such as a false memory of how much the creature enjoyed swimming in acid, is dismissed as a bad dream. The DM might deem a modified memory too nonsensical to affect a creature.",
@@ -13955,7 +13955,7 @@
 			],
 			"entries": [
 				"A frigid globe streaks from you to a point of your choice within range, where it explodes in a 60-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere}. Each creature in that area makes a Constitution saving throw, taking {@damage 10d6} Cold damage on failed save or half as much damage on a successful one.",
-				"If the globe strikes a body of water, it freezes the water to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice and have the {@condition Restrained|XPHB} condition. A trapped creature can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC to break free.",
+				"If the globe strikes a body of water, it freezes the water to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice and have the {@condition Apresado|XPHB} condition. A trapped creature can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC to break free.",
 				"You can refrain from firing the globe after completing the spell's casting. If you do so, a globe about the size of a sling bullet, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as a normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes."
 			],
 			"entriesHigherLevel": [
@@ -14083,7 +14083,7 @@
 			],
 			"entries": [
 				"One creature that you can see within range must make a Wisdom saving throw. On a successful save, the target dances comically until the end of its next turn, during which it must spend all its movement to dance in place.",
-				"On a failed save, the target has the {@condition Charmed|XPHB} condition for the duration. While {@condition Charmed|XPHB}, the target dances comically, must use all its movement to dance in place, and has {@variantrule Disadvantage|XPHB} on Dexterity saving throws and attack rolls, and other creatures have {@variantrule Advantage|XPHB} on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success."
+				"On a failed save, the target has the {@condition Hechizado|XPHB} condition for the duration. While {@condition Hechizado|XPHB}, the target dances comically, must use all its movement to dance in place, and has {@variantrule Disadvantage|XPHB} on Dexterity saving throws and attack rolls, and other creatures have {@variantrule Advantage|XPHB} on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success."
 			],
 			"conditionInflict": [
 				"charmed"
@@ -14740,7 +14740,7 @@
 				}
 			],
 			"entries": [
-				"A wave of healing energy washes over one creature you can see within range. The target regains all its {@variantrule Hit Points|XPHB}. If the creature has the {@condition Charmed|XPHB}, {@condition Frightened|XPHB}, {@condition Paralyzed|XPHB}, {@condition Envenenado|XPHB}, or {@condition Stunned|XPHB} condition, the condition ends. If the creature has the {@condition Prone|XPHB} condition, it can use its {@variantrule Reaction|XPHB} to stand up."
+				"A wave of healing energy washes over one creature you can see within range. The target regains all its {@variantrule Hit Points|XPHB}. If the creature has the {@condition Hechizado|XPHB}, {@condition Asustado|XPHB}, {@condition Paralizado|XPHB}, {@condition Envenenado|XPHB}, or {@condition Aturdido|XPHB} condition, the condition ends. If the creature has the {@condition Prone|XPHB} condition, it can use its {@variantrule Reaction|XPHB} to stand up."
 			],
 			"miscTags": [
 				"HL"
@@ -14821,11 +14821,11 @@
 				}
 			],
 			"entries": [
-				"You overwhelm the mind of one creature you can see within range. If the target has 150 {@variantrule Hit Points|XPHB} or fewer, it has the {@condition Stunned|XPHB} condition. Otherwise, its {@variantrule Speed|XPHB} is 0 until the start of your next turn.",
-				"The {@condition Stunned|XPHB} target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success."
+				"You overwhelm the mind of one creature you can see within range. If the target has 150 {@variantrule Hit Points|XPHB} or fewer, it has the {@condition Aturdido|XPHB} condition. Otherwise, its {@variantrule Speed|XPHB} is 0 until the start of your next turn.",
+				"The {@condition Aturdido|XPHB} target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success."
 			],
 			"conditionInflict": [
-				"stunned"
+				"aturdido"
 			],
 			"savingThrow": [
 				"constitution"
@@ -15034,7 +15034,7 @@
 						],
 						[
 							"6",
-							"{@b Indigo.} {@i Failed Save:} The target has the {@condition Restrained|XPHB} condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the {@condition Petrified|XPHB} condition until it is freed by an effect like the {@spell Greater Restoration|XPHB} spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind."
+							"{@b Indigo.} {@i Failed Save:} The target has the {@condition Apresado|XPHB} condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the {@condition Petrificado|XPHB} condition until it is freed by an effect like the {@spell Greater Restoration|XPHB} spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind."
 						],
 						[
 							"7",
@@ -15056,8 +15056,8 @@
 			],
 			"conditionInflict": [
 				"blinded",
-				"petrified",
-				"restrained"
+				"petrificado",
+				"apresado"
 			],
 			"savingThrow": [
 				"dexterity",
@@ -15144,7 +15144,7 @@
 						],
 						[
 							"6",
-							"{@b Indigo.} {@i Failed Save:} The target has the {@condition Restrained|XPHB} condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the {@condition Petrified|XPHB} condition until it is freed by an effect like the {@spell Greater Restoration|XPHB} spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. {@i Additional Effects:} Spells can't be cast through this layer, which is destroyed by {@variantrule Bright Light|XPHB} shed by the {@spell Daylight|XPHB} spell."
+							"{@b Indigo.} {@i Failed Save:} The target has the {@condition Apresado|XPHB} condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the {@condition Petrificado|XPHB} condition until it is freed by an effect like the {@spell Greater Restoration|XPHB} spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. {@i Additional Effects:} Spells can't be cast through this layer, which is destroyed by {@variantrule Bright Light|XPHB} shed by the {@spell Daylight|XPHB} spell."
 						],
 						[
 							"7",
@@ -15163,8 +15163,8 @@
 			],
 			"conditionInflict": [
 				"blinded",
-				"petrified",
-				"restrained"
+				"petrificado",
+				"apresado"
 			],
 			"savingThrow": [
 				"constitution",
@@ -15436,7 +15436,7 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have {@variantrule Disadvantage|XPHB} on attack rolls against the target. The target also can't be possessed by or gain the {@condition Charmed|XPHB} or {@condition Frightened|XPHB} conditions from them. If the target is already possessed, {@condition Charmed|XPHB}, or {@condition Frightened|XPHB} by such a creature, the target has {@variantrule Advantage|XPHB} on any new saving throw against the relevant effect."
+				"Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have {@variantrule Disadvantage|XPHB} on attack rolls against the target. The target also can't be possessed by or gain the {@condition Hechizado|XPHB} or {@condition Asustado|XPHB} conditions from them. If the target is already possessed, {@condition Hechizado|XPHB}, or {@condition Asustado|XPHB} by such a creature, the target has {@variantrule Advantage|XPHB} on any new saving throw against the relevant effect."
 			],
 			"affectsCreatureType": [
 				"aberration",
@@ -16709,12 +16709,12 @@
 			],
 			"entries": [
 				"With a touch, you magically sequester an object or a willing creature. For the duration, the target has the {@condition Invisible|XPHB} condition and can't be targeted by Divination spells, detected by magic, or viewed remotely with magic.",
-				"If the target is a creature, it enters a state of suspended animation; it has the {@condition Unconscious|XPHB} condition, doesn't age, and doesn't need food, water, or air.",
+				"If the target is a creature, it enters a state of suspended animation; it has the {@condition Inconsciente|XPHB} condition, doesn't age, and doesn't need food, water, or air.",
 				"You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include \"after 1,000 years\" or \"when the tarrasque awakens.\" This spell also ends if the target takes any damage."
 			],
 			"conditionInflict": [
 				"invisible",
-				"unconscious"
+				"inconsciente"
 			],
 			"miscTags": [
 				"OBJ"
@@ -17137,13 +17137,13 @@
 				"ritual": true
 			},
 			"entries": [
-				"For the duration, no sound can be created within or pass through a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point you choose within range. Any creature or object entirely inside the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} has {@variantrule Immunity|XPHB} to Thunder damage, and creatures have the {@condition Deafened|XPHB} condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there."
+				"For the duration, no sound can be created within or pass through a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point you choose within range. Any creature or object entirely inside the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} has {@variantrule Immunity|XPHB} to Thunder damage, and creatures have the {@condition Ensordecido|XPHB} condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there."
 			],
 			"damageImmune": [
 				"thunder"
 			],
 			"conditionInflict": [
-				"deafened"
+				"ensordecido"
 			],
 			"miscTags": [
 				"OBJ"
@@ -17286,12 +17286,12 @@
 				}
 			],
 			"entries": [
-				"Each creature of your choice in a 5-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within range must succeed on a Wisdom saving throw or have the {@condition Incapacitated|XPHB} condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the {@condition Unconscious|XPHB} condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.",
-				"Creatures that don't sleep, such as elves, or that have {@variantrule Immunity|XPHB} to the {@condition Exhaustion|XPHB} condition automatically succeed on saves against this spell."
+				"Each creature of your choice in a 5-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within range must succeed on a Wisdom saving throw or have the {@condition Incapacitated|XPHB} condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the {@condition Inconsciente|XPHB} condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.",
+				"Creatures that don't sleep, such as elves, or that have {@variantrule Immunity|XPHB} to the {@condition Cansancio|XPHB} condition automatically succeed on saves against this spell."
 			],
 			"conditionInflict": [
 				"incapacitated",
-				"unconscious"
+				"inconsciente"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -17929,7 +17929,7 @@
 				}
 			],
 			"entries": [
-				"The target takes an extra {@damage 4d6} Psychic damage from the attack, and the target must succeed on a Wisdom saving throw or have the {@condition Stunned|XPHB} condition until the end of your next turn."
+				"The target takes an extra {@damage 4d6} Psychic damage from the attack, and the target must succeed on a Wisdom saving throw or have the {@condition Aturdido|XPHB} condition until the end of your next turn."
 			],
 			"entriesHigherLevel": [
 				{
@@ -17944,7 +17944,7 @@
 				"psychic"
 			],
 			"conditionInflict": [
-				"stunned"
+				"aturdido"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -18242,7 +18242,7 @@
 				}
 			],
 			"entries": [
-				"A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take {@damage 2d6} Thunder damage and have the {@condition Deafened|XPHB} condition for the duration.",
+				"A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take {@damage 2d6} Thunder damage and have the {@condition Ensordecido|XPHB} condition for the duration.",
 				"At the start of each of your later turns, the storm produces different effects, as detailed below.",
 				{
 					"type": "entries",
@@ -18281,7 +18281,7 @@
 				"thunder"
 			],
 			"conditionInflict": [
-				"deafened"
+				"ensordecido"
 			],
 			"savingThrow": [
 				"constitution",
@@ -18333,7 +18333,7 @@
 			],
 			"entries": [
 				"You suggest a course of activity\u2014described in no more than 25 words\u2014to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or its allies. For example, you could say, \"Fetch the key to the cult's treasure vault, and give the key to me.\" Or you could say, \"Stop fighting, leave this library peacefully, and don't return.\"",
-				"The target must succeed on a Wisdom saving throw or have the {@condition Charmed|XPHB} condition for the duration or until you or your allies deal damage to the target. The {@condition Charmed|XPHB} target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it."
+				"The target must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration or until you or your allies deal damage to the target. The {@condition Hechizado|XPHB} target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it."
 			],
 			"conditionInflict": [
 				"charmed"
@@ -19074,7 +19074,7 @@
 					"type": "entries",
 					"name": "Fear",
 					"entries": [
-						"Each target must succeed on a Wisdom saving throw or have the {@condition Frightened|XPHB} condition for 1 minute. While {@condition Frightened|XPHB}, the target must move at least 30 feet away from the glyph on each of its turns, if able."
+						"Each target must succeed on a Wisdom saving throw or have the {@condition Asustado|XPHB} condition for 1 minute. While {@condition Asustado|XPHB}, the target must move at least 30 feet away from the glyph on each of its turns, if able."
 					]
 				},
 				{
@@ -19088,14 +19088,14 @@
 					"type": "entries",
 					"name": "Sleep",
 					"entries": [
-						"Each target must succeed on a Wisdom saving throw or have the {@condition Unconscious|XPHB} condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake."
+						"Each target must succeed on a Wisdom saving throw or have the {@condition Inconsciente|XPHB} condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Stunning",
 					"entries": [
-						"Each target must succeed on a Wisdom saving throw or have the {@condition Stunned|XPHB} condition for 1 minute."
+						"Each target must succeed on a Wisdom saving throw or have the {@condition Aturdido|XPHB} condition for 1 minute."
 					]
 				}
 			],
@@ -19103,10 +19103,10 @@
 				"necrotic"
 			],
 			"conditionInflict": [
-				"frightened",
+				"asustado",
 				"incapacitated",
-				"stunned",
-				"unconscious"
+				"aturdido",
+				"inconsciente"
 			],
 			"savingThrow": [
 				"constitution",
@@ -19316,7 +19316,7 @@
 					"type": "entries",
 					"name": "Creature",
 					"entries": [
-						"You can try to move a Huge or smaller creature. The target must succeed on a Strength saving throw, or you move it up to 30 feet in any direction within the spell's range. Until the end of your next turn, the creature has the {@condition Restrained|XPHB} condition, and if you lift it into the air, it is suspended there. It falls at the end of your next turn unless you use this option on it again and it fails the save."
+						"You can try to move a Huge or smaller creature. The target must succeed on a Strength saving throw, or you move it up to 30 feet in any direction within the spell's range. Until the end of your next turn, the creature has the {@condition Apresado|XPHB} condition, and if you lift it into the air, it is suspended there. It falls at the end of your next turn unless you use this option on it again and it fails the save."
 					]
 				},
 				{
@@ -19330,7 +19330,7 @@
 				}
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"strength"
@@ -21159,15 +21159,15 @@
 			"entries": [
 				"You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} there for the duration. The webs are {@variantrule Difficult Terrain|XPHB}, and the area within them is {@variantrule Lightly Obscured|XPHB}.",
 				"If the webs aren't anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.",
-				"The first time a creature enters the webs on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the {@condition Restrained|XPHB} condition while in the webs or until it breaks free.",
-				"A creature {@condition Restrained|XPHB} by the webs can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC. If it succeeds, it is no longer {@condition Restrained|XPHB}.",
+				"The first time a creature enters the webs on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the {@condition Apresado|XPHB} condition while in the webs or until it breaks free.",
+				"A creature {@condition Apresado|XPHB} by the webs can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC. If it succeeds, it is no longer {@condition Apresado|XPHB}.",
 				"The webs are flammable. Any 5-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} of webs exposed to fire burns away in 1 round, dealing {@damage 2d4} Fire damage to any creature that starts its turn in the fire."
 			],
 			"damageInflict": [
 				"fire"
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"dexterity"
@@ -21219,14 +21219,14 @@
 				}
 			],
 			"entries": [
-				"You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes {@damage 10d10} Psychic damage and has the {@condition Frightened|XPHB} condition for the duration. On a successful save, a target takes half as much damage only.",
-				"A {@condition Frightened|XPHB} target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes {@damage 5d10} Psychic damage. On a successful save, the spell ends on that target."
+				"You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes {@damage 10d10} Psychic damage and has the {@condition Asustado|XPHB} condition for the duration. On a successful save, a target takes half as much damage only.",
+				"A {@condition Asustado|XPHB} target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes {@damage 5d10} Psychic damage. On a successful save, the spell ends on that target."
 			],
 			"damageInflict": [
 				"psychic"
 			],
 			"conditionInflict": [
-				"frightened"
+				"asustado"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -21271,11 +21271,11 @@
 				}
 			],
 			"entries": [
-				"You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a {@variantrule Fly Speed|XPHB} of 300 feet and can hover; it has {@variantrule Immunity|XPHB} to the {@condition Prone|XPHB} condition; and it has {@variantrule Resistance|XPHB} to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the {@action Dash|XPHB} action or a {@action Magic|XPHB} action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the {@condition Stunned|XPHB} condition. Until the spell ends, the target can revert to cloud form, which also requires a {@action Magic|XPHB} action followed by a 1-minute transformation.",
+				"You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a {@variantrule Fly Speed|XPHB} of 300 feet and can hover; it has {@variantrule Immunity|XPHB} to the {@condition Prone|XPHB} condition; and it has {@variantrule Resistance|XPHB} to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the {@action Dash|XPHB} action or a {@action Magic|XPHB} action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the {@condition Aturdido|XPHB} condition. Until the spell ends, the target can revert to cloud form, which also requires a {@action Magic|XPHB} action followed by a 1-minute transformation.",
 				"If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance."
 			],
 			"conditionInflict": [
-				"stunned"
+				"aturdido"
 			],
 			"areaTags": [
 				"MT"
@@ -21640,7 +21640,7 @@
 				}
 			],
 			"entries": [
-				"The target takes an extra {@damage 1d6} Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the {@condition Frightened|XPHB} condition until the spell ends. At the end of each of its turns, the {@condition Frightened|XPHB} target repeats the save, ending the spell on itself on a success."
+				"The target takes an extra {@damage 1d6} Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the {@condition Asustado|XPHB} condition until the spell ends. At the end of each of its turns, the {@condition Asustado|XPHB} target repeats the save, ending the spell on itself on a success."
 			],
 			"entriesHigherLevel": [
 				{
@@ -21655,7 +21655,7 @@
 				"necrotic"
 			],
 			"conditionInflict": [
-				"frightened"
+				"asustado"
 			],
 			"savingThrow": [
 				"wisdom"

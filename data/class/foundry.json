@@ -3663,7 +3663,7 @@
 						"seconds": 60
 					},
 					"statuses": [
-						"frightened",
+						"asustado",
 						"incapacitated"
 					]
 				}
@@ -3745,7 +3745,7 @@
 						"seconds": 60
 					},
 					"statuses": [
-						"frightened",
+						"asustado",
 						"incapacitated"
 					]
 				}
@@ -5157,12 +5157,12 @@
 			"effects": [
 				{
 					"foundryId": "stunningStrike",
-					"name": "Stunned",
+					"name": "Aturdido",
 					"duration": {
 						"turns": 1
 					},
 					"statuses": [
-						"stunned"
+						"aturdido"
 					]
 				},
 				{
@@ -5764,7 +5764,7 @@
 						"seconds": 60
 					},
 					"statuses": [
-						"frightened"
+						"asustado"
 					]
 				}
 			],
@@ -6618,7 +6618,7 @@
 						"seconds": 60
 					},
 					"statuses": [
-						"unconscious"
+						"inconsciente"
 					],
 					"description": "The target has the Unconscious condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success."
 				}
@@ -8713,8 +8713,8 @@
 			"entryData": {
 				"conditionImmune": [
 					"blinded",
-					"deafened",
-					"frightened",
+					"ensordecido",
+					"asustado",
 					"poisoned"
 				]
 			},
@@ -12033,7 +12033,7 @@
 						{
 							"key": "system.traits.ci.value",
 							"mode": "ADD",
-							"value": "frightened"
+							"value": "asustado"
 						}
 					]
 				}
@@ -12151,7 +12151,7 @@
 						"rounds": 1
 					},
 					"statuses": [
-						"frightened"
+						"asustado"
 					]
 				}
 			],
@@ -13208,7 +13208,7 @@
 						"seconds": 60
 					},
 					"statuses": [
-						"frightened"
+						"asustado"
 					]
 				},
 				{
@@ -17399,7 +17399,7 @@
 						"seconds": 60
 					},
 					"statuses": [
-						"restrained"
+						"apresado"
 					]
 				}
 			],
@@ -18166,12 +18166,12 @@
 				},
 				{
 					"foundryId": "avengingAngel1",
-					"name": "Frightened",
+					"name": "Asustado",
 					"duration": {
 						"seconds": 60
 					},
 					"statuses": [
-						"frightened"
+						"asustado"
 					]
 				}
 			],
@@ -19861,7 +19861,7 @@
 						"seconds": 60
 					},
 					"statuses": [
-						"stunned"
+						"aturdido"
 					],
 					"description": "The target has the Stunned condition for 1 minute. The Stunned target repeats the save at the end of each of its turns, ending the effect on itself on a success."
 				}

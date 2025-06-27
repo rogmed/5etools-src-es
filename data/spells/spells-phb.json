@@ -407,7 +407,7 @@
 			],
 			"entries": [
 				"Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a {@filter Large or smaller beast with a challenge rating of 4 or lower|bestiary|challenge rating=[&0;&4]|type=beast|size=f;d;t;s;m;l|miscellaneous=!swarm}. On subsequent turns, you can use your action to transform affected creatures into new forms.",
-				"The transformation lasts for the duration for each target, or until the target drops to 0 hit points or dies. You can choose a different form for each target. A target's game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked {@condition unconscious}. The creature is limited in the actions it can perform by the nature of its new form, and it can't speak or cast spells.",
+				"The transformation lasts for the duration for each target, or until the target drops to 0 hit points or dies. You can choose a different form for each target. A target's game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked {@condition inconsciente}. The creature is limited in the actions it can perform by the nature of its new form, and it can't speak or cast spells.",
 				"The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment."
 			],
 			"miscTags": [
@@ -804,7 +804,7 @@
 					"type": "entries",
 					"name": "Antipathy",
 					"entries": [
-						"The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or become {@condition frightened}. The creature remains {@condition frightened} while it can see the target or is within 60 feet of it. While {@condition frightened} by the target, the creature must use its movement to move to the nearest safe spot from which it can't see the target. If the creature moves more than 60 feet from the target and can't see it, the creature is no longer {@condition frightened}, but the creature becomes {@condition frightened} again if it regains sight of the target or moves within 60 feet of it."
+						"The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or become {@condition asustado}. The creature remains {@condition asustado} while it can see the target or is within 60 feet of it. While {@condition asustado} by the target, the creature must use its movement to move to the nearest safe spot from which it can't see the target. If the creature moves more than 60 feet from the target and can't see it, the creature is no longer {@condition asustado}, but the creature becomes {@condition asustado} again if it regains sight of the target or moves within 60 feet of it."
 					]
 				},
 				{
@@ -825,7 +825,7 @@
 				"A creature that successfully saves against this effect is immune to it for 1 minute, after which time it can be affected again."
 			],
 			"conditionInflict": [
-				"frightened"
+				"asustado"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -1124,7 +1124,7 @@
 				}
 			],
 			"entries": [
-				"You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is {@condition unconscious} and in a state of suspended animation, it doesn't need food or air and doesn't age.",
+				"You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is {@condition inconsciente} and in a state of suspended animation, it doesn't need food or air and doesn't age.",
 				"Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut-something that can happen only when an effect specifically states that it does-your soul and body are separated, killing you instantly.",
 				"Your astral form can freely travel through the Astral Plane and can pass through portals there leading to any other plane. If you enter a new plane or return to the plane you were on when casting this spell, your body and possessions are transported along the silver cord, allowing you to re-enter your body as you enter the new plane. Your astral form is a separate incarnation. Any damage or other effects that apply to it have no effect on your physical body, nor do they persist when you return to it.",
 				"The spell ends for you and your companions when you use your action to dismiss it. When the spell ends, the affected creature returns to its physical body, and it awakens.",
@@ -1132,7 +1132,7 @@
 				"If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points."
 			],
 			"conditionInflict": [
-				"unconscious"
+				"inconsciente"
 			],
 			"miscTags": [
 				"PRM",
@@ -1286,7 +1286,7 @@
 				}
 			],
 			"entries": [
-				"Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) can't become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause any of the following conditions: {@condition blinded}, {@condition charmed}, {@condition deafened}, {@condition frightened}, {@condition paralyzed}, {@condition poisoned}, and {@condition stunned}."
+				"Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) can't become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause any of the following conditions: {@condition blinded}, {@condition charmed}, {@condition ensordecido}, {@condition asustado}, {@condition paralizado}, {@condition poisoned}, and {@condition aturdido}."
 			],
 			"damageResist": [
 				"poison"
@@ -1713,7 +1713,7 @@
 				"ritual": true
 			},
 			"entries": [
-				"You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast's senses, you gain the benefits of any special senses possessed by that creature, though you are {@condition blinded} and {@condition deafened} to your own surroundings."
+				"You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast's senses, you gain the benefits of any special senses possessed by that creature, though you are {@condition blinded} and {@condition ensordecido} to your own surroundings."
 			],
 			"areaTags": [
 				"ST"
@@ -2210,7 +2210,7 @@
 				}
 			],
 			"entries": [
-				"You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either {@condition blinded} or {@condition deafened} (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends."
+				"You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either {@condition blinded} or {@condition ensordecido} (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends."
 			],
 			"entriesHigherLevel": [
 				{
@@ -2223,7 +2223,7 @@
 			],
 			"conditionInflict": [
 				"blinded",
-				"deafened"
+				"ensordecido"
 			],
 			"savingThrow": [
 				"constitution"
@@ -2550,7 +2550,7 @@
 			],
 			"entries": [
 				"You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.",
-				"You can suppress any effect causing a target to be {@condition charmed} or {@condition frightened}. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.",
+				"You can suppress any effect causing a target to be {@condition charmed} or {@condition asustado}. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.",
 				"Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise."
 			],
 			"savingThrow": [
@@ -3179,7 +3179,7 @@
 				}
 			],
 			"entries": [
-				"A dazzling array of flashing, colored light springs from your hand. Roll {@dice 6d10}; the total is how many hit points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring {@condition unconscious} creatures and creatures that can't see).",
+				"A dazzling array of flashing, colored light springs from your hand. Roll {@dice 6d10}; the total is how many hit points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring {@condition inconsciente} creatures and creatures that can't see).",
 				"Starting with the creature that has the lowest current hit points, each creature affected by this spell is {@condition blinded} until the end of your next turn. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected."
 			],
 			"entriesHigherLevel": [
@@ -4316,13 +4316,13 @@
 					"type": "entries",
 					"name": "Slimy Doom",
 					"entries": [
-						"The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is {@condition stunned} until the end of its next turn."
+						"The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is {@condition aturdido} until the end of its next turn."
 					]
 				}
 			],
 			"conditionInflict": [
 				"blinded",
-				"stunned",
+				"aturdido",
 				"poisoned"
 			],
 			"spellAttack": [
@@ -6001,7 +6001,7 @@
 					"type": "entries",
 					"name": "Break Enchantment",
 					"entries": [
-						"As your action, you touch a creature you can reach that is {@condition charmed}, {@condition frightened}, or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer {@condition charmed}, {@condition frightened}, or possessed by such creatures."
+						"As your action, you touch a creature you can reach that is {@condition charmed}, {@condition asustado}, or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer {@condition charmed}, {@condition asustado}, or possessed by such creatures."
 					]
 				},
 				{
@@ -6118,7 +6118,7 @@
 				}
 			],
 			"entries": [
-				"You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes {@damage 3d6} psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A {@condition deafened} creature automatically succeeds on the save."
+				"You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes {@damage 3d6} psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A {@condition ensordecido} creature automatically succeeds on the save."
 			],
 			"entriesHigherLevel": [
 				{
@@ -6267,9 +6267,9 @@
 				{
 					"type": "list",
 					"items": [
-						"50 hit points or fewer: {@condition deafened} for 1 minute",
-						"40 hit points or fewer: {@condition deafened} and {@condition blinded} for 10 minutes",
-						"30 hit points or fewer: {@condition blinded}, {@condition deafened}, and {@condition stunned} for 1 hour",
+						"50 hit points or fewer: {@condition ensordecido} for 1 minute",
+						"40 hit points or fewer: {@condition ensordecido} and {@condition blinded} for 10 minutes",
+						"30 hit points or fewer: {@condition blinded}, {@condition ensordecido}, and {@condition aturdido} for 1 hour",
 						"20 hit points or fewer: killed instantly"
 					]
 				},
@@ -6277,8 +6277,8 @@
 			],
 			"conditionInflict": [
 				"blinded",
-				"deafened",
-				"stunned"
+				"ensordecido",
+				"aturdido"
 			],
 			"savingThrow": [
 				"charisma"
@@ -7032,8 +7032,8 @@
 				}
 			],
 			"entries": [
-				"The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw or be {@condition restrained} by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.",
-				"While {@condition restrained} by this spell, the target takes {@damage 1d6} piercing damage at the start of each of its turns. A creature {@condition restrained} by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed."
+				"The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw or be {@condition apresado} by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.",
+				"While {@condition apresado} by this spell, the target takes {@damage 1d6} piercing damage at the start of each of its turns. A creature {@condition apresado} by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed."
 			],
 			"entriesHigherLevel": [
 				{
@@ -7048,7 +7048,7 @@
 				"piercing"
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"strength"
@@ -7096,11 +7096,11 @@
 			],
 			"entries": [
 				"Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into {@quickref difficult terrain||3}.",
-				"A creature in the area when you cast the spell must succeed on a Strength saving throw or be {@condition restrained} by the entangling plants until the spell ends. A creature {@condition restrained} by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.",
+				"A creature in the area when you cast the spell must succeed on a Strength saving throw or be {@condition apresado} by the entangling plants until the spell ends. A creature {@condition apresado} by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.",
 				"When the spell ends, the conjured plants wilt away."
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"strength"
@@ -7262,14 +7262,14 @@
 			],
 			"entries": [
 				"Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into {@quickref difficult terrain||3}.",
-				"When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take {@damage 3d6} bludgeoning damage and be {@condition restrained} by the tentacles until the spell ends. A creature that starts its turn in the area and is already {@condition restrained} by the tentacles takes {@damage 3d6} bludgeoning damage.",
-				"A creature {@condition restrained} by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself."
+				"When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take {@damage 3d6} bludgeoning damage and be {@condition apresado} by the tentacles until the spell ends. A creature that starts its turn in the area and is already {@condition apresado} by the tentacles takes {@damage 3d6} bludgeoning damage.",
+				"A creature {@condition apresado} by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself."
 			],
 			"damageInflict": [
 				"bludgeoning"
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"dexterity"
@@ -7370,14 +7370,14 @@
 					"type": "entries",
 					"name": "Asleep",
 					"entries": [
-						"The target falls {@condition unconscious}. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake."
+						"The target falls {@condition inconsciente}. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Panicked",
 					"entries": [
-						"The target is {@condition frightened} of you. On each of its turns, the {@condition frightened} creature must take the {@action Dash} action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends."
+						"The target is {@condition asustado} of you. On each of its turns, the {@condition asustado} creature must take the {@action Dash} action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends."
 					]
 				},
 				{
@@ -7389,8 +7389,8 @@
 				}
 			],
 			"conditionInflict": [
-				"frightened",
-				"unconscious"
+				"asustado",
+				"inconsciente"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -7588,11 +7588,11 @@
 				}
 			],
 			"entries": [
-				"You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become {@condition frightened} for the duration.",
-				"While {@condition frightened} by this spell, a creature must take the {@action Dash} action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature."
+				"You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become {@condition asustado} for the duration.",
+				"While {@condition asustado} by this spell, a creature must take the {@action Dash} action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature."
 			],
 			"conditionInflict": [
-				"frightened"
+				"asustado"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -7812,7 +7812,7 @@
 				"{@note Additional {@filter animal form choices|bestiary|Miscellaneous=Familiar} may be available at the DM's discretion.}",
 				"Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.",
 				"When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. As an action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you. Whenever the familiar drops to 0 hit points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.",
-				"While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are {@condition deafened||deaf} and {@condition blinded||blind} with regard to your own senses.",
+				"While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are {@condition ensordecido||deaf} and {@condition blinded||blind} with regard to your own senses.",
 				"You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.",
 				"Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll."
 			],
@@ -8471,14 +8471,14 @@
 				}
 			],
 			"entries": [
-				"You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is {@condition restrained} as its flesh begins to harden. On a successful save, the creature isn't affected.",
-				"A creature {@condition restrained} by this spell must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the {@condition petrified} condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.",
-				"If the creature is physically broken while {@condition petrified}, it suffers from similar deformities if it reverts to its original state.",
+				"You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is {@condition apresado} as its flesh begins to harden. On a successful save, the creature isn't affected.",
+				"A creature {@condition apresado} by this spell must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the {@condition petrificado} condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.",
+				"If the creature is physically broken while {@condition petrificado}, it suffers from similar deformities if it reverts to its original state.",
 				"If you maintain your {@status concentration} on this spell for the entire possible duration, the creature is turned to stone until the effect is removed."
 			],
 			"conditionInflict": [
-				"petrified",
-				"restrained"
+				"petrificado",
+				"apresado"
 			],
 			"savingThrow": [
 				"constitution"
@@ -8816,12 +8816,12 @@
 				}
 			],
 			"entries": [
-				"You touch a willing creature. For the duration, the target's movement is unaffected by {@quickref difficult terrain||3}, and spells and other magical effects can neither reduce the target's speed nor cause the target to be {@condition paralyzed} or {@condition restrained}.",
-				"The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it {@condition grappled}. Finally, being underwater imposes no penalties on the target's movement or attacks."
+				"You touch a willing creature. For the duration, the target's movement is unaffected by {@quickref difficult terrain||3}, and spells and other magical effects can neither reduce the target's speed nor cause the target to be {@condition paralizado} or {@condition apresado}.",
+				"The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it {@condition agarrado}. Finally, being underwater imposes no penalties on the target's movement or attacks."
 			],
 			"conditionImmune": [
-				"paralyzed",
-				"restrained"
+				"paralizado",
+				"apresado"
 			],
 			"areaTags": [
 				"ST"
@@ -8911,7 +8911,7 @@
 			],
 			"entries": [
 				"You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn't affected.",
-				"While in this form, the target's only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can't fall and remains hovering in the air even when {@condition stunned} or otherwise {@condition incapacitated}.",
+				"While in this form, the target's only method of movement is a flying speed of 10 feet. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and it has advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can't fall and remains hovering in the air even when {@condition aturdido} or otherwise {@condition incapacitated}.",
 				"While in the form of a misty cloud, the target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. The target can't attack or cast spells."
 			],
 			"miscTags": [
@@ -9550,11 +9550,11 @@
 				}
 			],
 			"entries": [
-				"You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's {@condition exhaustion} level by one, or end one of the following effects on the target:",
+				"You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's {@condition cansancio} level by one, or end one of the following effects on the target:",
 				{
 					"type": "list",
 					"items": [
-						"One effect that {@condition charmed} or {@condition petrified} the target",
+						"One effect that {@condition charmed} or {@condition petrificado} the target",
 						"One curse, including the target's attunement to a cursed magic item",
 						"Any reduction to one of the target's ability scores",
 						"One effect reducing the target's hit point maximum"
@@ -9979,13 +9979,13 @@
 			],
 			"entries": [
 				"You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a hallow spell. The affected area is subject to the following effects.",
-				"First, celestials, elementals, fey, fiends, and undead can't enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature {@condition charmed}, {@condition frightened}, or possessed by such a creature is no longer {@condition charmed}, {@condition frightened}, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.",
+				"First, celestials, elementals, fey, fiends, and undead can't enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature {@condition charmed}, {@condition asustado}, or possessed by such a creature is no longer {@condition charmed}, {@condition asustado}, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.",
 				"Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the DM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the spell's area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.",
 				{
 					"type": "entries",
 					"name": "Courage",
 					"entries": [
-						"Affected creatures can't be {@condition frightened} while in the area."
+						"Affected creatures can't be {@condition asustado} while in the area."
 					]
 				},
 				{
@@ -10034,7 +10034,7 @@
 					"type": "entries",
 					"name": "Fear",
 					"entries": [
-						"Affected creatures are {@condition frightened} while in the area."
+						"Affected creatures are {@condition asustado} while in the area."
 					]
 				},
 				{
@@ -10265,7 +10265,7 @@
 				}
 			],
 			"entries": [
-				"Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends {@condition blinded||blindness}, {@condition deafened||deafness}, and any diseases affecting the target. This spell has no effect on constructs or undead."
+				"Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends {@condition blinded||blindness}, {@condition ensordecido||deafness}, and any diseases affecting the target. This spell has no effect on constructs or undead."
 			],
 			"entriesHigherLevel": [
 				{
@@ -10534,13 +10534,13 @@
 			],
 			"entries": [
 				"You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.",
-				"A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being {@condition frightened}, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by {@dice 2d10}, and it gains the same number of hit points. These benefits last for 24 hours."
+				"A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being {@condition asustado}, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by {@dice 2d10}, and it gains the same number of hit points. These benefits last for 24 hours."
 			],
 			"damageImmune": [
 				"poison"
 			],
 			"conditionImmune": [
-				"frightened"
+				"asustado"
 			],
 			"miscTags": [
 				"ADV",
@@ -10587,7 +10587,7 @@
 				}
 			],
 			"entries": [
-				"A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being {@condition frightened} and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell."
+				"A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being {@condition asustado} and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell."
 			],
 			"entriesHigherLevel": [
 				{
@@ -10599,7 +10599,7 @@
 				}
 			],
 			"conditionImmune": [
-				"frightened"
+				"asustado"
 			],
 			"miscTags": [
 				"SCT",
@@ -10710,7 +10710,7 @@
 				}
 			],
 			"entries": [
-				"Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be {@condition paralyzed} for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target."
+				"Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be {@condition paralizado} for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target."
 			],
 			"entriesHigherLevel": [
 				{
@@ -10722,7 +10722,7 @@
 				}
 			],
 			"conditionInflict": [
-				"paralyzed"
+				"paralizado"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -10796,7 +10796,7 @@
 				}
 			],
 			"entries": [
-				"Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be {@condition paralyzed} for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target."
+				"Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be {@condition paralizado} for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target."
 			],
 			"entriesHigherLevel": [
 				{
@@ -10808,7 +10808,7 @@
 				}
 			],
 			"conditionInflict": [
-				"paralyzed"
+				"paralizado"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -11268,7 +11268,7 @@
 					"type": "entries",
 					"name": "Chaining",
 					"entries": [
-						"Heavy chains, firmly rooted in the ground, hold the target in place. The target is {@condition restrained} until the spell ends, and it can't move or be moved by any means until then."
+						"Heavy chains, firmly rooted in the ground, hold the target in place. The target is {@condition apresado} until the spell ends, and it can't move or be moved by any means until then."
 					]
 				},
 				"The special component for this version of the spell is a fine chain of precious metal.",
@@ -11307,8 +11307,8 @@
 				"You can use a particular special component to create only one prison at a time. If you cast the spell again using the same component, the target of the first casting is immediately freed from its binding."
 			],
 			"conditionInflict": [
-				"restrained",
-				"unconscious"
+				"apresado",
+				"inconsciente"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -11830,7 +11830,7 @@
 				}
 			],
 			"entries": [
-				"You touch a creature and can end either one disease or one condition afflicting it. The condition can be {@condition blinded}, {@condition deafened}, {@condition paralyzed}, or {@condition poisoned}."
+				"You touch a creature and can end either one disease or one condition afflicting it. The condition can be {@condition blinded}, {@condition ensordecido}, {@condition paralizado}, or {@condition poisoned}."
 			],
 			"areaTags": [
 				"ST"
@@ -12412,7 +12412,7 @@
 					"items": [
 						"The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.",
 						"The creature has disadvantage on attack rolls against targets within the cylinder.",
-						"Targets within the cylinder can't be {@condition charmed}, {@condition frightened}, or possessed by the creature."
+						"Targets within the cylinder can't be {@condition charmed}, {@condition asustado}, or possessed by the creature."
 					]
 				},
 				"When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it."
@@ -12828,7 +12828,7 @@
 				}
 			],
 			"entries": [
-				"A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them {@condition blinded} or {@condition deafened}. This spell has no effect on undead or constructs."
+				"A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them {@condition blinded} or {@condition ensordecido}. This spell has no effect on undead or constructs."
 			],
 			"affectsCreatureType": [
 				"aberration",
@@ -13499,11 +13499,11 @@
 			"entries": [
 				"You become {@condition invisible} at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.",
 				"You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.",
-				"You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are {@condition blinded} and {@condition deafened} in regard to your own surroundings."
+				"You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are {@condition blinded} and {@condition ensordecido} in regard to your own surroundings."
 			],
 			"conditionInflict": [
 				"blinded",
-				"deafened",
+				"ensordecido",
 				"invisible"
 			],
 			"miscTags": [
@@ -14461,7 +14461,7 @@
 				}
 			],
 			"entries": [
-				"You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target becomes {@condition frightened} for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom saving throw or take {@damage 4d10} psychic damage. On a successful save, the spell ends."
+				"You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target becomes {@condition asustado} for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom saving throw or take {@damage 4d10} psychic damage. On a successful save, the spell ends."
 			],
 			"entriesHigherLevel": [
 				{
@@ -14476,7 +14476,7 @@
 				"psychic"
 			],
 			"conditionInflict": [
-				"frightened"
+				"asustado"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -14896,7 +14896,7 @@
 				}
 			],
 			"entries": [
-				"A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is {@condition charmed}, {@condition frightened}, {@condition paralyzed}, or {@condition stunned}, the condition ends. If the creature is {@condition prone}, it can use its reaction to stand up. This spell has no effect on undead or constructs."
+				"A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is {@condition charmed}, {@condition asustado}, {@condition paralizado}, or {@condition aturdido}, the condition ends. If the creature is {@condition prone}, it can use its reaction to stand up. This spell has no effect on undead or constructs."
 			],
 			"affectsCreatureType": [
 				"aberration",
@@ -14994,11 +14994,11 @@
 				}
 			],
 			"entries": [
-				"You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is {@condition stunned}. Otherwise, the spell has no effect.",
-				"The {@condition stunned} target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends."
+				"You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is {@condition aturdido}. Otherwise, the spell has no effect.",
+				"The {@condition aturdido} target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends."
 			],
 			"conditionInflict": [
-				"stunned"
+				"aturdido"
 			],
 			"savingThrow": [
 				"constitution"
@@ -15218,7 +15218,7 @@
 					"type": "entries",
 					"name": "6-Indigo",
 					"entries": [
-						"On a failed save, the target is {@condition restrained}. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the {@condition petrified} condition. The successes and failures don't need to be consecutive, keep track of both until the target collects three of a kind."
+						"On a failed save, the target is {@condition apresado}. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the {@condition petrificado} condition. The successes and failures don't need to be consecutive, keep track of both until the target collects three of a kind."
 					]
 				},
 				{
@@ -15245,8 +15245,8 @@
 			],
 			"conditionInflict": [
 				"blinded",
-				"petrified",
-				"restrained"
+				"petrificado",
+				"apresado"
 			],
 			"savingThrow": [
 				"dexterity",
@@ -15341,7 +15341,7 @@
 					"type": "entries",
 					"name": "Indigo",
 					"entries": [
-						"On a failed save, the creature is {@condition restrained}. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the {@condition petrified} condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.",
+						"On a failed save, the creature is {@condition apresado}. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the {@condition petrificado} condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.",
 						"While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a {@spell daylight} spell or a similar spell of equal or higher level."
 					]
 				},
@@ -15363,8 +15363,8 @@
 			],
 			"conditionInflict": [
 				"blinded",
-				"petrified",
-				"restrained"
+				"petrificado",
+				"apresado"
 			],
 			"savingThrow": [
 				"constitution",
@@ -15536,12 +15536,12 @@
 			"entries": [
 				"You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the spell ends.",
 				"You can use your action to move this illusion up to twice your speed, and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.",
-				"You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are {@condition blinded} and {@condition deafened} in regard to your own surroundings.",
+				"You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are {@condition blinded} and {@condition ensordecido} in regard to your own surroundings.",
 				"Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence ({@skill Investigation}) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature."
 			],
 			"conditionInflict": [
 				"blinded",
-				"deafened"
+				"ensordecido"
 			],
 			"abilityCheck": [
 				"intelligence"
@@ -15650,7 +15650,7 @@
 			],
 			"entries": [
 				"Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.",
-				"The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be {@condition charmed}, {@condition frightened}, or possessed by them. If the target is already {@condition charmed}, {@condition frightened}, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect."
+				"The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be {@condition charmed}, {@condition asustado}, or possessed by them. If the target is already {@condition charmed}, {@condition asustado}, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect."
 			],
 			"affectsCreatureType": [
 				"aberration",
@@ -17120,7 +17120,7 @@
 			],
 			"conditionInflict": [
 				"invisible",
-				"unconscious"
+				"inconsciente"
 			],
 			"miscTags": [
 				"OBJ"
@@ -17172,7 +17172,7 @@
 			"entries": [
 				"You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can't be a construct or an undead, and you must have seen the sort of creature at least once. You transform into an average example of that creature, one without any class levels or the Spellcasting trait.",
 				"Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus listed in its statistics is higher than yours, use the creature's bonus in place of yours. You can't use any legendary actions or lair actions of the new form.",
-				"You assume the hit points and Hit Dice of the new form. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked {@condition unconscious}.",
+				"You assume the hit points and Hit Dice of the new form. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked {@condition inconsciente}.",
 				"You retain the benefit of any features from your class, race, or other source and can use them, provided that your new form is physically capable of doing so. You can't use any special senses you have (for example, {@sense darkvision}) unless your new form also has that sense. You can only speak if the creature can normally speak.",
 				"When you transform, you choose whether your equipment falls to the ground, merges into the new form, or is worn by it. Worn equipment functions as normal. The DM determines whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change shape or size to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge into your new form. Equipment that merges has no effect in that state.",
 				"During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value."
@@ -17498,13 +17498,13 @@
 				"ritual": true
 			},
 			"entries": [
-				"For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are {@condition deafened} while entirely inside it. Casting a spell that includes a verbal component is impossible there."
+				"For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are {@condition ensordecido} while entirely inside it. Casting a spell that includes a verbal component is impossible there."
 			],
 			"damageImmune": [
 				"thunder"
 			],
 			"conditionInflict": [
-				"deafened"
+				"ensordecido"
 			],
 			"miscTags": [
 				"OBJ"
@@ -17659,8 +17659,8 @@
 				}
 			],
 			"entries": [
-				"This spell sends creatures into a magical slumber. Roll {@dice 5d8}; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring {@condition unconscious} creatures).",
-				"Starting with the creature that has the lowest current hit points, each creature affected by this spell falls {@condition unconscious} until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.",
+				"This spell sends creatures into a magical slumber. Roll {@dice 5d8}; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring {@condition inconsciente} creatures).",
+				"Starting with the creature that has the lowest current hit points, each creature affected by this spell falls {@condition inconsciente} until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.",
 				"Undead and creatures immune to being {@condition charmed} aren't affected by this spell."
 			],
 			"entriesHigherLevel": [
@@ -17673,7 +17673,7 @@
 				}
 			],
 			"conditionInflict": [
-				"unconscious"
+				"inconsciente"
 			],
 			"affectsCreatureType": [
 				"aberration",
@@ -18005,7 +18005,7 @@
 				"You can also turn {@quickref difficult terrain||3} caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into {@quickref difficult terrain||3} that lasts for the duration, causing vines and branches to hinder pursuers, for example.",
 				"Plants might be able to perform other tasks on your behalf, at the DM's discretion. The spell doesn't enable plants to uproot themselves and move about, but they can freely move branches, tendrils, and stalks.",
 				"If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.",
-				"This spell can cause the plants created by the {@spell entangle} spell to release a {@condition restrained} creature."
+				"This spell can cause the plants created by the {@spell entangle} spell to release a {@condition apresado} creature."
 			]
 		},
 		{
@@ -18483,7 +18483,7 @@
 				}
 			],
 			"entries": [
-				"A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution saving throw. On a failed save, a creature takes {@damage 2d6} thunder damage and becomes {@condition deafened} for 5 minutes.",
+				"A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution saving throw. On a failed save, a creature takes {@damage 2d6} thunder damage and becomes {@condition ensordecido} for 5 minutes.",
 				"Each round you maintain {@status concentration} on this spell, the storm produces different effects on your turn.",
 				{
 					"type": "entries",
@@ -18522,7 +18522,7 @@
 				"thunder"
 			],
 			"conditionInflict": [
-				"deafened"
+				"ensordecido"
 			],
 			"savingThrow": [
 				"constitution",
@@ -18821,7 +18821,7 @@
 					"type": "entries",
 					"name": "Fear",
 					"entries": [
-						"Each target must make a Wisdom saving throw and becomes {@condition frightened} for 1 minute on a failed save. While {@condition frightened}, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able."
+						"Each target must make a Wisdom saving throw and becomes {@condition asustado} for 1 minute on a failed save. While {@condition asustado}, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able."
 					]
 				},
 				{
@@ -18849,14 +18849,14 @@
 					"type": "entries",
 					"name": "Sleep",
 					"entries": [
-						"Each target must make a Wisdom saving throw and falls {@condition unconscious} for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake."
+						"Each target must make a Wisdom saving throw and falls {@condition inconsciente} for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Stunning",
 					"entries": [
-						"Each target must make a Wisdom saving throw and becomes {@condition stunned} for 1 minute on a failed save."
+						"Each target must make a Wisdom saving throw and becomes {@condition aturdido} for 1 minute on a failed save."
 					]
 				}
 			],
@@ -18864,10 +18864,10 @@
 				"necrotic"
 			],
 			"conditionInflict": [
-				"frightened",
+				"asustado",
 				"incapacitated",
-				"stunned",
-				"unconscious"
+				"aturdido",
+				"inconsciente"
 			],
 			"savingThrow": [
 				"constitution",
@@ -18985,7 +18985,7 @@
 					"type": "entries",
 					"name": "Creature",
 					"entries": [
-						"You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is {@condition restrained} in your telekinetic grip. A creature lifted upward is suspended in mid-air.",
+						"You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is {@condition apresado} in your telekinetic grip. A creature lifted upward is suspended in mid-air.",
 						"On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature by repeating the contest."
 					]
 				},
@@ -19000,7 +19000,7 @@
 				}
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"abilityCheck": [
 				"strength"
@@ -19760,7 +19760,7 @@
 						"If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its alignment and personality."
 					]
 				},
-				"The target assumes the hit points of its new form, and when it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked {@condition unconscious}.",
+				"The target assumes the hit points of its new form, and when it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked {@condition inconsciente}.",
 				"The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech unless its new form is capable of such actions.",
 				"The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.",
 				{
@@ -20654,15 +20654,15 @@
 			"entries": [
 				"You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are {@quickref difficult terrain||3} and lightly obscure their area.",
 				"If the webs aren't anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.",
-				"Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is {@condition restrained} as long as it remains in the webs or until it breaks free.",
-				"A creature {@condition restrained} by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer {@condition restrained}.",
+				"Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is {@condition apresado} as long as it remains in the webs or until it breaks free.",
+				"A creature {@condition apresado} by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer {@condition apresado}.",
 				"The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing {@damage 2d4} fire damage to any creature that starts its turn in the fire."
 			],
 			"damageInflict": [
 				"fire"
 			],
 			"conditionInflict": [
-				"restrained"
+				"apresado"
 			],
 			"savingThrow": [
 				"dexterity"
@@ -20716,13 +20716,13 @@
 				}
 			],
 			"entries": [
-				"Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes {@condition frightened} for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the {@condition frightened} creature's turns, it must succeed on a Wisdom saving throw or take {@damage 4d10} psychic damage. On a successful save, the spell ends for that creature."
+				"Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes {@condition asustado} for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the {@condition asustado} creature's turns, it must succeed on a Wisdom saving throw or take {@damage 4d10} psychic damage. On a successful save, the spell ends for that creature."
 			],
 			"damageInflict": [
 				"psychic"
 			],
 			"conditionInflict": [
-				"frightened"
+				"asustado"
 			],
 			"savingThrow": [
 				"wisdom"
@@ -21039,13 +21039,13 @@
 				}
 			],
 			"entries": [
-				"The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra {@damage 1d6} psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be {@condition frightened} of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell."
+				"The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra {@damage 1d6} psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be {@condition asustado} of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell."
 			],
 			"damageInflict": [
 				"psychic"
 			],
 			"conditionInflict": [
-				"frightened"
+				"asustado"
 			],
 			"savingThrow": [
 				"wisdom"

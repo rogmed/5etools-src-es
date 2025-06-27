@@ -1318,7 +1318,7 @@ Parser.SP_TM_ACTION = "action";
 Parser.SP_TM_B_ACTION = "bonus";
 Parser.SP_TM_REACTION = "reaction";
 Parser.SP_TM_ROUND = "round";
-Parser.SP_TM_MINS = "minute";
+Parser.SP_TM_MINS = "minuto";
 Parser.SP_TM_HRS = "hour";
 Parser.SP_TM_SPECIAL = "special";
 Parser.SP_TIME_SINGLETONS = [Parser.SP_TM_ACTION, Parser.SP_TM_B_ACTION, Parser.SP_TM_REACTION, Parser.SP_TM_ROUND];
@@ -1437,7 +1437,7 @@ Parser.RNG_SELF = "lanzador";
 Parser.RNG_SIGHT = "sight";
 Parser.RNG_UNLIMITED = "unlimited";
 Parser.RNG_UNLIMITED_SAME_PLANE = "plane";
-Parser.RNG_TOUCH = "touch";
+Parser.RNG_TOUCH = "toque";
 Parser.SP_RANGE_TYPE_TO_FULL = {
 	[Parser.RNG_SPECIAL]: "Special",
 	[Parser.RNG_POINT]: "Point",
@@ -1453,7 +1453,7 @@ Parser.SP_RANGE_TYPE_TO_FULL = {
 	[Parser.RNG_SIGHT]: "Sight",
 	[Parser.RNG_UNLIMITED]: "Unlimited",
 	[Parser.RNG_UNLIMITED_SAME_PLANE]: "Unlimited on the same plane",
-	[Parser.RNG_TOUCH]: "Touch",
+	[Parser.RNG_TOUCH]: "Toque",
 };
 
 Parser.spRangeTypeToFull = function (range) {
@@ -1600,7 +1600,7 @@ Parser.spRangeToFull._renderPoint = function (range) {
 	}
 };
 Parser.spRangeToFull._renderArea = function ({range, styleHint, isDisplaySelfArea = false}) {
-	if (styleHint !== "classic" && !isDisplaySelfArea) return "Self";
+	if (styleHint !== "classic" && !isDisplaySelfArea) return "Lanzador";
 	const size = range.distance;
 	return `Self (${size.amount}-${Parser.getSingletonUnit(size.type)}${Parser.spRangeToFull._getAreaStyleString(range)}${range.type === Parser.RNG_CYLINDER ? `${size.amountSecondary != null && size.typeSecondary != null ? `, ${size.amountSecondary}-${Parser.getSingletonUnit(size.typeSecondary)}-high` : ""} cylinder` : ""})`;
 };
@@ -1684,7 +1684,7 @@ Parser.spDurationToFull = function (durations, {isPlainText = false, styleHint} 
 };
 
 Parser.DURATION_TYPES = [
-	{type: "instant", full: "Instantaneous"},
+	{type: "instant", full: "Instantáneo"},
 	{type: "timed", hasAmount: true},
 	{type: "permanent", hasEnds: true},
 	{type: "special"},
@@ -1693,7 +1693,7 @@ Parser.DURATION_TYPES = [
 Parser.DURATION_AMOUNT_TYPES = [
 	"turn",
 	"round",
-	"minute",
+	"minuto",
 	"hour",
 	"day",
 	"week",

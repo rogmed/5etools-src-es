@@ -990,7 +990,7 @@
 				{
 					"known": {
 						"3": [
-							"prestidigitation#c"
+							"prestidigitación#c"
 						]
 					}
 				},
@@ -3892,7 +3892,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"At 3rd level, you learn magical theory or some of the secrets of nature\u2014typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the {@skill Arcana} or the {@skill Nature} skill, and you choose to learn either the {@spell prestidigitation} or the {@spell druidcraft} cantrip."
+				"At 3rd level, you learn magical theory or some of the secrets of nature\u2014typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the {@skill Arcana} or the {@skill Nature} skill, and you choose to learn either the {@spell prestidigitación} or the {@spell druidcraft} cantrip."
 			]
 		},
 		{

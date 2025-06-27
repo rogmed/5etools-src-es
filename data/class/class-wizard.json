@@ -2342,7 +2342,7 @@
 							"type": "entries",
 							"name": "Cantrips",
 							"entries": [
-								"You know three Wizard cantrips of your choice. {@spell Light|XPHB}, {@spell Mage Hand|XPHB}, and {@spell Ray of Frost|XPHB} are recommended. Whenever you finish a {@variantrule Long Rest|XPHB}, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.",
+								"You know three Wizard cantrips of your choice. {@spell Light|XPHB}, {@spell Mano de mago|XPHB}, and {@spell Ray of Frost|XPHB} are recommended. Whenever you finish a {@variantrule Long Rest|XPHB}, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.",
 								"When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table."
 							]
 						},

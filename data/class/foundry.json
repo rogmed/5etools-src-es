@@ -19129,7 +19129,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Mage Hand Legerdemain",
+			"name": "Mano de mago Legerdemain",
 			"source": "XPHB",
 			"className": "Rogue",
 			"classSource": "XPHB",
@@ -19143,7 +19143,7 @@
 						"type": "bonus"
 					},
 					"spell": {
-						"uuid": "@spell[mage hand|xphb]"
+						"uuid": "@spell[mano de mago|xphb]"
 					}
 				}
 			],

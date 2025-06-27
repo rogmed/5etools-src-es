@@ -14772,14 +14772,14 @@ Renderer.generic = class {
 
 				switch (duration.type) {
 					case "special":
-						if (duration.concentration) return `{@status Concentration${ptSrcStatus}}`;
+						if (duration.concentration) return `{@status Concentración${ptSrcStatus}}`;
 						return `Special${ptCondition}`;
 					case "instant":
-						return `Instantaneous${ptCondition}`;
+						return `Instantáneo${ptCondition}`;
 					case "timed":
-						return `${duration.concentration ? `{@status Concentration${ptSrcStatus}}, ` : ""}${duration.concentration ? "u" : duration.duration.upTo ? "U" : ""}${duration.concentration || duration.duration.upTo ? "p to " : ""}${duration.duration.amount} ${duration.duration.amount === 1 ? duration.duration.type : `${duration.duration.type}s`}${ptCondition}`;
+						return `${duration.concentration ? `{@status Concentración${ptSrcStatus}}, ` : ""}${duration.concentration ? "h" : duration.duration.upTo ? "H" : ""}${duration.concentration || duration.duration.upTo ? "asta " : ""}${duration.duration.amount} ${duration.duration.amount === 1 ? duration.duration.type : `${duration.duration.type}s`}${ptCondition}`;
 					case "permanent": {
-						if (!duration.ends) return `Permanent${ptCondition}`;
+						if (!duration.ends) return `Permanente${ptCondition}`;
 
 						const endsToJoin = duration.ends.map(m => Parser.spEndTypeToFull(m));
 						hasSubOr = hasSubOr || endsToJoin.length > 1;

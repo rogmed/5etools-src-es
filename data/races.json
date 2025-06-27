@@ -3945,7 +3945,7 @@
 								],
 								[
 									"High Elf",
-									"You know the {@spell Prestidigitation|XPHB} cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different {@filter cantrip from the Wizard spell list|spells|level=0|class=Wizard}.",
+									"You know the {@spell Prestidigitación|XPHB} cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different {@filter cantrip from the Wizard spell list|spells|level=0|class=Wizard}.",
 									"{@spell Detect Magic|XPHB}",
 									"{@spell Misty Step|XPHB}"
 								],
@@ -4047,7 +4047,7 @@
 								"name": "Elven Lineage (High Elf)",
 								"type": "entries",
 								"entries": [
-									"You are part of a lineage that grants you supernatural abilities. You know the {@spell Prestidigitation|XPHB} cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different {@filter cantrip from the Wizard spell list|spells|level=0|class=Wizard}.",
+									"You are part of a lineage that grants you supernatural abilities. You know the {@spell Prestidigitación|XPHB} cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different {@filter cantrip from the Wizard spell list|spells|level=0|class=Wizard}.",
 									"When you reach character level 3, you learn the {@spell Detect Magic|XPHB} spell. When you reach character level 5, you also learn the {@spell Misty Step|XPHB} spell. You always have these spells prepared, and you can cast each spell once without a spell slot. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a {@variantrule Long Rest|XPHB}. You can also cast the spell using any spell slots you have of the appropriate level.",
 									"Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage)."
 								]
@@ -4944,7 +4944,7 @@
 					},
 					"known": {
 						"1": [
-							"mage hand#c"
+							"mano de mago#c"
 						]
 					}
 				}
@@ -4961,7 +4961,7 @@
 					"type": "entries",
 					"name": "Githyanki Psionics",
 					"entries": [
-						"You know the {@spell mage hand} cantrip, and the hand is {@condition invisible} when you cast the cantrip with this trait.",
+						"You know the {@spell mano de mago} cantrip, and the hand is {@condition invisible} when you cast the cantrip with this trait.",
 						"Starting at 3rd level, you can cast the {@spell jump} spell with this trait. Starting at 5th level, you can also cast {@spell misty step} with it. Once you cast {@spell jump} or {@spell misty step} with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.",
 						"Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait."
 					]
@@ -5016,7 +5016,7 @@
 					},
 					"known": {
 						"1": [
-							"mage hand#c"
+							"mano de mago#c"
 						]
 					}
 				}
@@ -5026,7 +5026,7 @@
 					"type": "entries",
 					"name": "Githzerai Psionics",
 					"entries": [
-						"You know the {@spell mage hand} cantrip, and the hand is {@condition invisible} when you cast the cantrip with this trait.",
+						"You know the {@spell mano de mago} cantrip, and the hand is {@condition invisible} when you cast the cantrip with this trait.",
 						"Starting at 3rd level, you can cast the {@spell shield} spell with this trait. Starting at 5th level, you can also cast the {@spell detect thoughts} spell with it. Once you cast {@spell shield} or {@spell detect thoughts} spell with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.",
 						"Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait."
 					]
@@ -5229,7 +5229,7 @@
 									"type": "item",
 									"name": "Rock Gnome",
 									"entries": [
-										"You know the {@spell Mending|XPHB} and {@spell Prestidigitation|XPHB} cantrips. In addition, you can spend 10 minutes casting {@spell Prestidigitation|XPHB} to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from {@spell Prestidigitation|XPHB}; the device produces that effect whenever you or another creature takes a {@variantrule Bonus Action|XPHB} to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a {@action Utilize|XPHB} action."
+										"You know the {@spell Mending|XPHB} and {@spell Prestidigitación|XPHB} cantrips. In addition, you can spend 10 minutes casting {@spell Prestidigitación|XPHB} to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from {@spell Prestidigitación|XPHB}; the device produces that effect whenever you or another creature takes a {@variantrule Bonus Action|XPHB} to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a {@action Utilize|XPHB} action."
 									]
 								}
 							]
@@ -5293,7 +5293,7 @@
 								"name": "Gnomish Lineage (Rock Gnome)",
 								"type": "entries",
 								"entries": [
-									"You know the {@spell Mending|XPHB} and {@spell Prestidigitation|XPHB} cantrips. In addition, you can spend 10 minutes casting {@spell Prestidigitation|XPHB} to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from {@spell Prestidigitation|XPHB}; the device produces that effect whenever you or another creature takes a {@variantrule Bonus Action|XPHB} to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a {@action Utilize|XPHB} action."
+									"You know the {@spell Mending|XPHB} and {@spell Prestidigitación|XPHB} cantrips. In addition, you can spend 10 minutes casting {@spell Prestidigitación|XPHB} to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from {@spell Prestidigitación|XPHB}; the device produces that effect whenever you or another creature takes a {@variantrule Bonus Action|XPHB} to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a {@action Utilize|XPHB} action."
 								]
 							}
 						}
@@ -5310,7 +5310,7 @@
 							"known": {
 								"1": [
 									"mending|xphb#c",
-									"prestidigitation|xphb#c"
+									"prestidigitación|xphb#c"
 								]
 							}
 						}
@@ -15467,7 +15467,7 @@
 					},
 					"known": {
 						"1": [
-							"blade ward#c"
+							"guardia de cuchillas#c"
 						]
 					}
 				}
@@ -15484,7 +15484,7 @@
 					"type": "entries",
 					"name": "Merge with Stone",
 					"entries": [
-						"You know the {@spell blade ward} cantrip. You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.",
+						"You know the {@spell guardia de cuchillas} cantrip. You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.",
 						"Starting at 5th level, you can cast the {@spell pass without trace} spell with this trait, without requiring a material component. Once you cast that spell with this trait, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.",
 						"Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
 					]
@@ -15706,7 +15706,7 @@
 					"ability": "int",
 					"known": {
 						"1": [
-							"mage hand#c"
+							"mano de mago#c"
 						]
 					}
 				}
@@ -15736,7 +15736,7 @@
 				{
 					"name": "Githyanki Psionics",
 					"entries": [
-						"You know the {@spell mage hand} cantrip, and the hand is {@condition invisible} when you cast the cantrip with this trait.",
+						"You know the {@spell mano de mago} cantrip, and the hand is {@condition invisible} when you cast the cantrip with this trait.",
 						"When you reach 3rd level, you can cast {@spell jump} once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell misty step} spell once with this trait, and you regain the ability to do so when you finish a long rest.",
 						"Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components."
 					],
@@ -15787,7 +15787,7 @@
 					"ability": "wis",
 					"known": {
 						"1": [
-							"mage hand#c"
+							"mano de mago#c"
 						]
 					}
 				}
@@ -15810,7 +15810,7 @@
 				{
 					"name": "Githzerai Psionics",
 					"entries": [
-						"You know the {@spell mage hand} cantrip, and the hand is {@condition invisible} when you cast the cantrip with this trait.",
+						"You know the {@spell mano de mago} cantrip, and the hand is {@condition invisible} when you cast the cantrip with this trait.",
 						"When you reach 3rd level, you can cast {@spell shield} once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell detect thoughts} spell once with this trait, and you regain the ability to do so when you finish a long rest.",
 						"Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components."
 					],
@@ -17506,7 +17506,7 @@
 					"ability": "cha",
 					"known": {
 						"1": [
-							"prestidigitation#c",
+							"prestidigitación#c",
 							"purify food and drink",
 							"unseen servant"
 						]
@@ -17525,7 +17525,7 @@
 					"type": "entries",
 					"name": "Innkeeper's Magic",
 					"entries": [
-						"You know the {@spell prestidigitation} cantrip. You can also cast the {@spell purify food and drink} and {@spell unseen servant} spells with this trait. Once you cast either spell with this trait, you can't cast that spell with it again until you finish long rest. Charisma is your spellcasting ability for these spells."
+						"You know the {@spell prestidigitación} cantrip. You can also cast the {@spell purify food and drink} and {@spell unseen servant} spells with this trait. Once you cast either spell with this trait, you can't cast that spell with it again until you finish long rest. Charisma is your spellcasting ability for these spells."
 					]
 				},
 				{
@@ -19303,7 +19303,7 @@
 					"ability": "cha",
 					"known": {
 						"1": [
-							"mage hand#c"
+							"mano de mago#c"
 						]
 					}
 				}
@@ -19312,7 +19312,7 @@
 				{
 					"name": "Legacy of Minauros",
 					"entries": [
-						"You know the {@spell mage hand} cantrip. When you reach 3rd level, you can cast the {@spell Tenser's floating disk} spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the {@spell arcane lock} spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+						"You know the {@spell mano de mago} cantrip. When you reach 3rd level, you can cast the {@spell Tenser's floating disk} spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the {@spell arcane lock} spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
 					],
 					"type": "entries",
 					"data": {
@@ -19350,7 +19350,7 @@
 					"ability": "cha",
 					"known": {
 						"1": [
-							"mage hand#c"
+							"mano de mago#c"
 						]
 					}
 				}
@@ -19359,7 +19359,7 @@
 				{
 					"name": "Legacy of Cania",
 					"entries": [
-						"You know the {@spell mage hand} cantrip. When you reach 3rd level, you can cast the {@spell burning hands} spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell flame blade} spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+						"You know the {@spell mano de mago} cantrip. When you reach 3rd level, you can cast the {@spell burning hands} spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell flame blade} spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
 					],
 					"type": "entries",
 					"data": {

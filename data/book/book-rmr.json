@@ -5731,8 +5731,8 @@
 									"items": [
 										"Dancing Lights {@comicNote JERRY SPELL}",
 										"Light {@comicNote OK}",
-										"Mage Hand {@comicNote YES}",
-										"Prestidigitation {@comicNote YES}",
+										"Mano de mago {@comicNote YES}",
+										"Prestidigitación {@comicNote YES}",
 										"Ray of Frost {@comicNote YES, CHILL}",
 										"Shocking Grasp {@comicNote YES, ZAP}"
 									]
@@ -6211,7 +6211,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Mage Hand",
+							"name": "Mano de mago",
 							"page": 56,
 							"collapsed": true
 						},
@@ -6279,11 +6279,11 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Prestidigitation",
+							"name": "Prestidigitación",
 							"page": 57,
 							"collapsed": true
 						},
-						"{@comic I bet at first glance you figured I'd call this as a Jerry spell, but it's {@i not}, Morty. Prestidigitation is {@b awesome}! It doesn't take up any spell slots because it's a cantrip. That means you can use it {@b constantly}... and you {@i should}.}",
+						"{@comic I bet at first glance you figured I'd call this as a Jerry spell, but it's {@i not}, Morty. Prestidigitación is {@b awesome}! It doesn't take up any spell slots because it's a cantrip. That means you can use it {@b constantly}... and you {@i should}.}",
 						"{@comic Everywhere your wizard goes, they'll have glittering teeth, musky magic cologne, a warming glow, and their own personal soundtrack. Clean clothes, too. The other members of your party are gonna shamble into town smelling like ass while you get to be Slick McDick, Wizard Supreme.}",
 						{
 							"type": "statblock",
@@ -6488,7 +6488,7 @@
 							"page": 61,
 							"collapsed": true
 						},
-						"{@comic This spell wants to be prestidigitation for clerics, but it's definitely on the weak side. Here's some harmless tremors for you\u2014*FAAART*}",
+						"{@comic This spell wants to be prestidigitación for clerics, but it's definitely on the weak side. Here's some harmless tremors for you\u2014*FAAART*}",
 						{
 							"type": "statblock",
 							"tag": "spell",

@@ -2346,7 +2346,7 @@
 							"type": "entries",
 							"name": "Cantrips",
 							"entries": [
-								"You know two Warlock cantrips of your choice. {@spell Eldritch Blast|XPHB} and {@spell Prestidigitation|XPHB} are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.",
+								"You know two Warlock cantrips of your choice. {@spell Eldritch Blast|XPHB} and {@spell Prestidigitación|XPHB} are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.",
 								"When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table."
 							]
 						},

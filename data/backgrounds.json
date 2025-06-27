@@ -6577,7 +6577,7 @@
 					"expanded": {
 						"s0": [
 							"encode thoughts|ggr#c",
-							"mage hand#c"
+							"mano de mago#c"
 						],
 						"s1": [
 							"disguise self",
@@ -6706,7 +6706,7 @@
 							"rows": [
 								[
 									"Cantrip",
-									"{@spell encode thoughts|GGR}, {@spell mage hand}"
+									"{@spell encode thoughts|GGR}, {@spell mano de mago}"
 								],
 								[
 									"1st",
@@ -20337,7 +20337,7 @@
 				{
 					"expanded": {
 						"s1": [
-							"chromatic orb",
+							"orbe cromático",
 							"thunderwave"
 						],
 						"s2": [
@@ -20410,7 +20410,7 @@
 							"rows": [
 								[
 									"1st",
-									"{@spell Chromatic Orb}, {@spell Thunderwave}"
+									"{@spell Orbe cromático}, {@spell Thunderwave}"
 								],
 								[
 									"2nd",

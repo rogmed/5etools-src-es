@@ -3096,7 +3096,7 @@
 				{
 					"known": {
 						"_": [
-							"mage hand#c"
+							"mano de mago#c"
 						]
 					},
 					"innate": {
@@ -3114,7 +3114,7 @@
 			"entries": [
 				"{@i Piety 3+ Kruphix trait}",
 				"As a devotee of Kruphix, you have proven yourself a devotee of reality's mysteries and laws. You can cast {@spell detect magic} with this trait a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.",
-				"In addition, you know the {@spell mage hand} cantrip. Intelligence is your spellcasting ability for these spells."
+				"In addition, you know the {@spell mano de mago} cantrip. Intelligence is your spellcasting ability for these spells."
 			]
 		},
 		{
@@ -3126,14 +3126,14 @@
 				{
 					"known": {
 						"_": [
-							"mage hand#c"
+							"mano de mago#c"
 						]
 					}
 				}
 			],
 			"entries": [
 				"{@i Piety 25+ Kruphix trait}",
-				"As a true champion of Kruphix, you can use your {@spell mage hand} cantrip to protect yourself. While your spectral hand is within 5 feet of you, you gain a +2 bonus to your AC against ranged attacks."
+				"As a true champion of Kruphix, you can use your {@spell mano de mago} cantrip to protect yourself. While your spectral hand is within 5 feet of you, you gain a +2 bonus to your AC against ranged attacks."
 			]
 		},
 		{

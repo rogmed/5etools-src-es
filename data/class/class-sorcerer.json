@@ -602,7 +602,7 @@
 							"calm emotions|xphb",
 							"detect thoughts|xphb",
 							"dissonant whispers|xphb",
-							"mind sliver|xphb#c"
+							"fragmento mental|xphb#c"
 						],
 						"5": [
 							"hunger of hadar|xphb",
@@ -683,7 +683,7 @@
 					"prepared": {
 						"3": [
 							"alter self|xphb",
-							"chromatic orb|xphb",
+							"orbe cromático|xphb",
 							"command|xphb",
 							"dragon's breath|xphb"
 						],
@@ -1233,7 +1233,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Arms of Hadar|XPHB}, {@spell Calm Emotions|XPHB}, {@spell Detect Thoughts|XPHB}, {@spell Dissonant Whispers|XPHB}, {@spell Mind Sliver|XPHB}"
+							"{@spell Arms of Hadar|XPHB}, {@spell Calm Emotions|XPHB}, {@spell Detect Thoughts|XPHB}, {@spell Dissonant Whispers|XPHB}, {@spell Fragmento mental|XPHB}"
 						],
 						[
 							"5",
@@ -1615,7 +1615,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Alter Self|XPHB}, {@spell Chromatic Orb|XPHB}, {@spell Command|XPHB}, {@spell Dragon's Breath|XPHB}"
+							"{@spell Alter Self|XPHB}, {@spell Orbe cromático|XPHB}, {@spell Command|XPHB}, {@spell Dragon's Breath|XPHB}"
 						],
 						[
 							"5",

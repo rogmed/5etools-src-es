@@ -3715,7 +3715,7 @@
 							"id": "0bb",
 							"entries": [
 								"Combat starts when\u2014and only when\u2014you say it does. Some characters have abilities that trigger on an {@variantrule Initiative|XPHB} roll; you, not the players, decide if and when Initiative is rolled. A high-level Barbarian can't just punch their Paladin friend and roll Initiative to regain expended uses of Rage.",
-								"In any situation where a character's actions initiate combat, you can give the acting character {@variantrule Advantage|XPHB} on their Initiative roll. For example, if a conversation with an NPC is cut short because the Hechicero is convinced that NPC is a doppelganger and targets it with a {@spell Chromatic Orb|XPHB} spell, everyone rolls Initiative, and the Hechicero does so with Advantage. If the doppelganger rolls well, it might still act before the Hechicero's spell goes off, reflecting the monster's ability to anticipate the spell.",
+								"In any situation where a character's actions initiate combat, you can give the acting character {@variantrule Advantage|XPHB} on their Initiative roll. For example, if a conversation with an NPC is cut short because the Hechicero is convinced that NPC is a doppelganger and targets it with a {@spell Orbe cromático|XPHB} spell, everyone rolls Initiative, and the Hechicero does so with Advantage. If the doppelganger rolls well, it might still act before the Hechicero's spell goes off, reflecting the monster's ability to anticipate the spell.",
 								{
 									"type": "entries",
 									"name": "Using Initiative Scores",

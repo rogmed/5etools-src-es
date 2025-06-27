@@ -476,7 +476,7 @@
 				}
 			]
 		},
-		"Blade Ward": {
+		"Guardia de cuchillas": {
 			"class": [
 				{
 					"name": "Bard",
@@ -696,7 +696,7 @@
 				}
 			]
 		},
-		"Chromatic Orb": {
+		"Orbe cromático": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -3128,7 +3128,7 @@
 				}
 			]
 		},
-		"Light": {
+		"Luz": {
 			"class": [
 				{
 					"name": "Bard",
@@ -3280,7 +3280,7 @@
 				}
 			]
 		},
-		"Mage Hand": {
+		"Mano de mago": {
 			"class": [
 				{
 					"name": "Bard",
@@ -3564,7 +3564,7 @@
 				}
 			]
 		},
-		"Mind Sliver": {
+		"Fragmento mental": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -4076,7 +4076,7 @@
 				}
 			]
 		},
-		"Prestidigitation": {
+		"Prestidigitación": {
 			"class": [
 				{
 					"name": "Bard",

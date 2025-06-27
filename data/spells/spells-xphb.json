@@ -12,13 +12,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -78,13 +78,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -97,7 +97,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -108,7 +108,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Each target's {@variantrule Hit Points|XPHB} increase by 5 for each spell slot level above 2."
 					]
@@ -133,13 +133,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -152,7 +152,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -199,7 +199,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -216,7 +216,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -264,13 +264,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -283,7 +283,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -294,7 +294,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional Beast for each spell slot level above 1."
 					]
@@ -329,13 +329,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -348,7 +348,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -363,7 +363,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The spell's duration increases by 48 hours for each spell slot level above 2."
 					]
@@ -394,13 +394,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -412,7 +412,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -441,13 +441,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -469,7 +469,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You animate or reassert control over two additional Undead creatures for each spell slot level above 3. Each of the creatures must come from a different corpse or pile of bones."
 					]
@@ -496,13 +496,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -514,7 +514,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -528,7 +528,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The creature's Slam damage increases by {@damage 1d4} (Medium or smaller), {@damage 1d6} (Large), or {@damage 1d12} (Huge) for each spell slot level above 5."
 					]
@@ -561,13 +561,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -579,7 +579,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -619,13 +619,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -638,7 +638,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -669,13 +669,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -749,13 +749,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -768,7 +768,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -792,13 +792,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 500
 				}
 			},
@@ -810,7 +810,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -840,7 +840,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -907,7 +907,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The number of unexpended Hit Dice you can roll increases by one for each spell slot level above 2."
 					]
@@ -945,7 +945,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -956,7 +956,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The {@variantrule Temporary Hit Points|XPHB} and the Cold damage both increase by 5 for each spell slot level above 1."
 					]
@@ -980,13 +980,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -1005,7 +1005,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d6|1-9|1d6} for each spell slot level above 1."
 					]
@@ -1034,13 +1034,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -1091,7 +1091,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -1164,13 +1164,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -1181,7 +1181,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -1210,13 +1210,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -1227,7 +1227,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -1256,13 +1256,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -1273,7 +1273,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -1301,7 +1301,7 @@
 			"time": [
 				{
 					"number": 8,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
@@ -1354,13 +1354,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -1373,7 +1373,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -1385,7 +1385,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 1."
 					]
@@ -1429,7 +1429,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -1460,13 +1460,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -1479,7 +1479,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -1492,7 +1492,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 4."
 					]
@@ -1542,7 +1542,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -1569,13 +1569,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -1587,7 +1587,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -1614,7 +1614,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -1630,7 +1630,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -1658,13 +1658,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -1708,7 +1708,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -1725,7 +1725,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -1746,7 +1746,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"If you cast this spell using a level 4 spell slot, you can maintain {@status Concentration|XPHB} on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn't require {@status Concentration|XPHB}, and the duration becomes 8 hours (level 5-6 slot) or 24 hours (level 7-8 slot). If you use a level 9 spell slot, the spell lasts until dispelled."
 					]
@@ -1777,13 +1777,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -1796,7 +1796,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -1844,7 +1844,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage of the Clenched Fist increases by {@scaledamage 4d8|5-9|2d8} and the damage of the Grasping Hand increases by {@scaledamage 2d6|5-9|2d6} for each spell slot level above 5."
 					]
@@ -1885,13 +1885,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -1903,7 +1903,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -1927,22 +1927,22 @@
 			]
 		},
 		{
-			"name": "Blade Ward",
-			"originalname": "",
+			"name": "Guardia de cuchillas",
+			"originalname": "Blade/ Ward",
 			"source": "XPHB",
-			"page": 247,
+			"page": 288,
 			"level": 0,
 			"school": "A",
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -1953,14 +1953,14 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
 				}
 			],
 			"entries": [
-				"Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts {@dice 1d4} from the attack roll."
+				"Siempre que una criatura haga una tirada de ataque contra ti antes de que el conjuro termine, el atacante restará 1d4 a esa tirada."
 			]
 		},
 		{
@@ -1975,13 +1975,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -1997,7 +1997,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -2009,7 +2009,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 1."
 					]
@@ -2034,13 +2034,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -2060,7 +2060,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 8d8|4-9|1d8} for each spell slot level above 4."
 					]
@@ -2106,7 +2106,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -2117,7 +2117,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The extra damage increases by {@scaledamage 3d8|3-9|1d8} for each spell slot level above 3."
 					]
@@ -2148,13 +2148,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -2165,7 +2165,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -2176,7 +2176,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 2."
 					]
@@ -2209,7 +2209,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -2226,7 +2226,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -2251,7 +2251,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -2267,7 +2267,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -2289,13 +2289,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 15
 				}
 			},
@@ -2315,7 +2315,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d6|1-9|1d6} for each spell slot level above 1."
 					]
@@ -2346,13 +2346,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -2364,7 +2364,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -2379,7 +2379,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d10|3-9|1d10} for each spell slot level above 3."
 					]
@@ -2411,13 +2411,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -2429,7 +2429,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -2467,13 +2467,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -2494,7 +2494,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"One additional bolt leaps from the first target to another target for each spell slot level above 6."
 					]
@@ -2528,13 +2528,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -2546,7 +2546,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -2557,7 +2557,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 4."
 					]
@@ -2589,13 +2589,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -2607,7 +2607,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -2618,7 +2618,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 1."
 					]
@@ -2653,7 +2653,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -2706,8 +2706,8 @@
 			]
 		},
 		{
-			"name": "Chromatic Orb",
-			"originalname": "",
+			"name": "Orbe cromático",
+			"originalname": "Chromatic Orb",
 			"source": "XPHB",
 			"page": 249,
 			"srd52": true,
@@ -2717,13 +2717,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -2731,7 +2731,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "a diamond worth 50+ GP",
+					"text": "un diamante que valga al menos 50 po",
 					"cost": 5000
 				}
 			},
@@ -2741,13 +2741,13 @@
 				}
 			],
 			"entries": [
-				"You hurl an orb of energy at a target within range. Choose Acid, Cold, Fire, Lightning, Poison, or Thunder for the type of orb you create, and then make a ranged spell attack against the target. On a hit, the target takes {@damage 3d8} damage of the chosen type.",
-				"If you roll the same number on two or more of the d8s, the orb leaps to a different target of your choice within 30 feet of the target. Make an attack roll against the new target, and make a new damage roll. The orb can't leap again unless you cast the spell with a level 2+ spell slot."
+				"Lanzas un orbe de energía a un objetivo dentro del alcance. Elige entre ácido, frío, fuego, relámpago, trueno o veneno para el tipo de orbe creado y después haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibe {@damage 3d8} de daño del tipo elegido.",
+				"Si sacas el mismo número en dos o más de los d8, el orbe salta a otro objetivo distinto de tu elección que esté a 30 pies (9 m) o menos del objetivo. Haz una tirada de ataque contra el nuevo objetivo y otra tirada de daño. El orbe no puede volver a saltar, a menos que lances el conjuro con un espacio de nivel 2 o superior."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d8|1-9|1d8} for each spell slot level above 1. The orb can leap a maximum number of times equal to the level of the slot expended, and a creature can be targeted only once by each casting of this spell."
 					]
@@ -2784,13 +2784,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -2813,9 +2813,9 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 8d8|6-9|2d8} for each spell slot level above 6."
+						"El daño aumenta en {@scaledamage 8d8|6-9|2d8} por cada nivel por encima de 1 que tenga el espacio. El orbe puede saltar un máximo de veces igual al nivel del espacio gastado. Una criatura solo puede ser el objetivo una vez por cada lanzamiento del conjuro."
 					]
 				}
 			],
@@ -2839,13 +2839,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -2856,7 +2856,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -2884,7 +2884,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -2906,7 +2906,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -2933,7 +2933,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
@@ -2974,13 +2974,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -2993,7 +2993,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -3006,7 +3006,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 4d4|2-9|2d4} for each spell slot level above 2."
 					]
@@ -3031,13 +3031,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -3049,7 +3049,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -3063,7 +3063,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 5d8|5-9|1d8} for each spell slot level above 5."
 					]
@@ -3094,13 +3094,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 15
 				}
 			},
@@ -3139,13 +3139,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -3204,7 +3204,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can affect one additional creature for each spell slot level above 1."
 					]
@@ -3236,7 +3236,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -3254,7 +3254,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -3280,7 +3280,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -3297,7 +3297,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -3337,7 +3337,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -3348,7 +3348,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -3380,7 +3380,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -3398,7 +3398,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -3422,13 +3422,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -3440,7 +3440,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -3476,13 +3476,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -3502,7 +3502,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 8d8|5-9|1d8} for each spell slot level above 5."
 					]
@@ -3531,13 +3531,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -3550,7 +3550,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -3592,7 +3592,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The {@variantrule Sphere [Area of Effect]|XPHB|Sphere}'s radius increases by 5 feet for each spell slot level above 4."
 					]
@@ -3620,13 +3620,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -3638,7 +3638,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -3652,7 +3652,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d10|3-9|1d10} for each spell slot level above 3."
 					]
@@ -3682,13 +3682,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -3711,7 +3711,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 5d8|3-9|1d8} for each spell slot level above 3."
 					]
@@ -3742,13 +3742,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -3760,7 +3760,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -3794,7 +3794,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The healing and damage increase by {@scaledamage 6d12|7-9|1d12} for each spell slot level above 7."
 					]
@@ -3826,13 +3826,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -3844,7 +3844,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -3857,7 +3857,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 8d8;4d8|5-9|1d8} for each spell slot level above 5."
 					]
@@ -3891,13 +3891,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -3909,7 +3909,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -3922,7 +3922,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d12|6-9|1d12} for each spell slot level above 6."
 					]
@@ -3951,13 +3951,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 15
 				}
 			},
@@ -3969,7 +3969,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -3982,7 +3982,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d8|4-9|1d8} for each spell slot level above 4."
 					]
@@ -4012,13 +4012,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -4063,13 +4063,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -4081,7 +4081,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -4094,7 +4094,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 5d8|4-9|1d8} for each spell slot level above 4."
 					]
@@ -4123,7 +4123,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -4139,7 +4139,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -4170,7 +4170,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -4222,7 +4222,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -4266,7 +4266,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -4312,13 +4312,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 300
 				}
 			},
@@ -4331,7 +4331,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -4398,7 +4398,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -4417,7 +4417,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					},
 					"concentration": true
@@ -4546,7 +4546,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -4564,7 +4564,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -4576,7 +4576,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The amount of ammunition that can be affected increases by two for each spell slot level above 2."
 					]
@@ -4611,7 +4611,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -4645,13 +4645,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -4680,13 +4680,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -4726,7 +4726,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You create or destroy 10 additional gallons of water, or the size of the {@variantrule Cube [Area of Effect]|XPHB|Cube} increases by 5 feet, for each spell slot level above 1."
 					]
@@ -4751,13 +4751,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -4782,7 +4782,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"If you use a level 7 spell slot, you can animate or reassert control over four {@creature Ghoul|XMM|Ghouls}. If you use a level 8 spell slot, you can animate or reassert control over five {@creature Ghoul|XMM|Ghouls} or two {@creature Ghast|XMM|Ghasts} or {@creature Wight|XMM|Wights}. If you use a level 9 spell slot, you can animate or reassert control over six {@creature Ghoul|XMM|Ghouls}, three {@creature Ghast|XMM|Ghasts} or {@creature Wight|XMM|Wights}, or two {@creature Mummy|XMM|Mummies}. See the {@book Monster Manual|XMM} for these stat blocks."
 					]
@@ -4809,13 +4809,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -4870,7 +4870,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The {@variantrule Cube [Area of Effect]|XPHB|Cube} increases by 5 feet for each spell slot level above 5."
 					]
@@ -4887,13 +4887,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -4905,7 +4905,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -4942,13 +4942,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -4959,7 +4959,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -4990,7 +4990,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -5014,7 +5014,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The healing increases by {@scaledice 2d8|1-9|2d8} for each spell slot level above 1."
 					]
@@ -5039,13 +5039,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -5058,7 +5058,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -5085,13 +5085,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -5103,7 +5103,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -5133,7 +5133,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -5151,7 +5151,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -5175,13 +5175,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -5193,7 +5193,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -5225,7 +5225,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -5242,7 +5242,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -5267,13 +5267,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -5286,7 +5286,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -5301,7 +5301,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The base damage increases by {@scaledamage 12d6|7-9|1d6} for each spell slot level above 7."
 					]
@@ -5332,13 +5332,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -5349,7 +5349,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -5375,13 +5375,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "sphere",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -5424,13 +5424,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "sphere",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -5442,7 +5442,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -5473,13 +5473,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "sphere",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -5491,7 +5491,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -5517,13 +5517,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "sphere",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -5536,7 +5536,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -5562,7 +5562,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -5580,7 +5580,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -5692,13 +5692,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 500
 				}
 			},
@@ -5734,7 +5734,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -5751,7 +5751,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -5780,13 +5780,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -5808,7 +5808,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 10d6 + 40|6-9|3d6} for each spell slot level above 6."
 					]
@@ -5840,7 +5840,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -5858,7 +5858,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -5911,13 +5911,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -5936,7 +5936,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You automatically end a spell on the target if the spell's level is equal to or less than the level of the spell slot you use."
 					]
@@ -5961,13 +5961,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -5985,7 +5985,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d6|1-9|1d6} for each spell slot level above 1."
 					]
@@ -6016,7 +6016,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -6076,7 +6076,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -6127,7 +6127,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d8|1-9|1d8} for each spell slot level above 1."
 					]
@@ -6159,7 +6159,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -6228,13 +6228,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -6246,7 +6246,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -6260,7 +6260,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Your {@status Concentration|XPHB} can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours)."
 					]
@@ -6294,13 +6294,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -6312,7 +6312,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -6326,7 +6326,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Your {@status Concentration|XPHB} can last longer with a level 9 spell slot (up to 8 hours)."
 					]
@@ -6357,13 +6357,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -6375,7 +6375,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -6389,7 +6389,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Your {@status Concentration|XPHB} can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours)."
 					]
@@ -6441,7 +6441,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -6453,7 +6453,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d6|2-9|1d6} for each spell slot level above 2."
 					]
@@ -6486,7 +6486,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -6535,7 +6535,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -6553,7 +6553,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -6586,13 +6586,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -6650,13 +6650,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 500
 				}
 			},
@@ -6669,7 +6669,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -6728,13 +6728,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -6783,7 +6783,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -6800,7 +6800,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -6812,7 +6812,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"If you use a level 5-6 spell slot, the bonus to attack rolls increases to +2, and the extra damage increases to {@damage 2d4}. If you use a level 7+ spell slot, the bonus increases to +3, and the extra damage increases to {@damage 3d4}."
 					]
@@ -6841,13 +6841,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -6918,7 +6918,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -6936,7 +6936,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -6948,7 +6948,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target."
 					]
@@ -6974,13 +6974,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -6993,7 +6993,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -7058,7 +7058,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -7071,7 +7071,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 1d6|1-9|1d6} for each spell slot level above 1."
 					]
@@ -7102,13 +7102,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -7120,7 +7120,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -7159,13 +7159,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -7177,7 +7177,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -7207,7 +7207,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -7224,7 +7224,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -7238,7 +7238,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target up to three willing creatures (including yourself) for each spell slot level above 7. The creatures must be within 10 feet of you when you cast the spell."
 					]
@@ -7264,13 +7264,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -7283,7 +7283,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -7344,7 +7344,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -7369,7 +7369,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -7386,7 +7386,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -7443,13 +7443,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -7485,13 +7485,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -7502,7 +7502,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -7535,7 +7535,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -7560,7 +7560,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You gain 5 additional {@variantrule Temporary Hit Points|XPHB} for each spell slot level above 1."
 					]
@@ -7582,13 +7582,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -7601,7 +7601,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -7640,7 +7640,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -7652,7 +7652,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -7674,7 +7674,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -7692,7 +7692,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -7742,13 +7742,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -7819,13 +7819,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -7859,7 +7859,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Use the spell slot's level for the spell's level in the stat block."
 					]
@@ -7882,7 +7882,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -7926,13 +7926,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -7965,13 +7965,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -8018,13 +8018,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -8084,7 +8084,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -8102,7 +8102,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					}
 				}
@@ -8136,13 +8136,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -8184,13 +8184,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -8211,7 +8211,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 8d6|3-9|1d6} for each spell slot level above 3."
 					]
@@ -8261,7 +8261,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -8275,7 +8275,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d6|2-9|1d6} for each spell slot level above 2."
 					]
@@ -8307,13 +8307,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -8333,7 +8333,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The Fire damage and the Radiant damage increase by {@scaledamage 5d6|5-9|1d6} for each spell slot level above 5."
 					]
@@ -8362,13 +8362,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -8381,7 +8381,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -8395,7 +8395,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d6|2-9|1d6} for each spell slot level above 2."
 					]
@@ -8428,13 +8428,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -8447,7 +8447,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -8485,7 +8485,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -8503,7 +8503,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -8515,7 +8515,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 3."
 					]
@@ -8540,13 +8540,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -8558,7 +8558,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -8570,7 +8570,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The fog's radius increases by 20 feet for each spell slot level above 1."
 					]
@@ -8595,7 +8595,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -8659,13 +8659,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 100
 				}
 			},
@@ -8682,7 +8682,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -8714,7 +8714,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -8732,7 +8732,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -8757,7 +8757,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -8774,7 +8774,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -8815,7 +8815,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -8833,7 +8833,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -8845,7 +8845,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 4."
 					]
@@ -8872,13 +8872,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -8890,7 +8890,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -8925,7 +8925,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -8943,7 +8943,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -8957,7 +8957,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 3."
 					]
@@ -8986,13 +8986,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -9008,7 +9008,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -9039,13 +9039,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -9070,7 +9070,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above."
 					]
@@ -9105,7 +9105,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -9151,13 +9151,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -9169,7 +9169,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -9182,7 +9182,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Use the spell slot's level for the spell's level in the stat block."
 					]
@@ -9204,7 +9204,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -9220,7 +9220,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -9241,13 +9241,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -9260,7 +9260,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -9273,7 +9273,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The barrier blocks spells of 1 level higher for each spell slot level above 6."
 					]
@@ -9295,7 +9295,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
@@ -9353,7 +9353,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage of an explosive rune increases by {@scaledamage 5d8|3-9|1d8} for each spell slot level above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the Glyph of Warding."
 					]
@@ -9388,7 +9388,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -9406,7 +9406,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -9435,7 +9435,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -9447,7 +9447,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -9461,7 +9461,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The number of creatures the vine can grapple increases by one for each spell slot level above 4."
 					]
@@ -9497,13 +9497,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -9516,7 +9516,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -9550,7 +9550,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -9567,7 +9567,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -9595,7 +9595,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -9647,13 +9647,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -9664,7 +9664,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -9696,7 +9696,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
@@ -9717,7 +9717,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -9785,7 +9785,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -9802,7 +9802,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -9827,13 +9827,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -9856,7 +9856,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 4d6|1-9|1d6} for each spell slot level above 1."
 					]
@@ -9887,7 +9887,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -9905,7 +9905,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -9962,7 +9962,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 1d10|1-9|1d10} for each spell slot level above 1."
 					]
@@ -9990,7 +9990,7 @@
 			"time": [
 				{
 					"number": 24,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
@@ -10157,13 +10157,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 300
 				}
 			},
@@ -10176,7 +10176,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -10204,13 +10204,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -10251,13 +10251,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -10270,7 +10270,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -10304,13 +10304,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -10329,7 +10329,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The healing increases by {@scaledice 70|6-9|10} for each spell slot level above 6."
 					]
@@ -10361,7 +10361,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -10379,7 +10379,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The healing increases by {@scaledice 2d4|1-9|2d4} for each spell slot level above 1."
 					]
@@ -10405,13 +10405,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -10424,7 +10424,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -10437,7 +10437,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d8|2-9|1d8} for each spell slot level above 2."
 					]
@@ -10477,7 +10477,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -10496,7 +10496,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d10|1-9|1d10} for each spell slot level above 1."
 					]
@@ -10527,13 +10527,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "cube",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -10584,7 +10584,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -10601,7 +10601,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -10613,7 +10613,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 1."
 					]
@@ -10648,7 +10648,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -10661,7 +10661,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -10674,7 +10674,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Your {@status Concentration|XPHB} can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours)."
 					]
@@ -10704,13 +10704,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -10723,7 +10723,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -10735,7 +10735,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 5."
 					]
@@ -10767,13 +10767,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -10786,7 +10786,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -10798,7 +10798,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional Humanoid for each spell slot level above 2."
 					]
@@ -10833,13 +10833,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -10855,7 +10855,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -10887,13 +10887,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -10906,7 +10906,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -10919,7 +10919,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The Cold or Acid damage (your choice) increases by {@scaledamage 2d6|3-9|1d6} for each spell slot level above 3."
 					]
@@ -10961,7 +10961,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -10972,7 +10972,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -10985,7 +10985,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Your {@status Concentration|XPHB} can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours)."
 					]
@@ -11016,13 +11016,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -11034,7 +11034,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -11067,13 +11067,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -11092,7 +11092,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The Cold damage increases by {@scaledamage 2d6|1-9|1d6} for each spell slot level above 1."
 					]
@@ -11125,13 +11125,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 300
 				}
 			},
@@ -11152,7 +11152,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The Bludgeoning damage increases by {@scaledamage 2d8|4-9|1d10} for each spell slot level above 4."
 					]
@@ -11184,7 +11184,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -11232,7 +11232,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -11279,13 +11279,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -11384,13 +11384,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -11402,7 +11402,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -11438,7 +11438,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -11462,7 +11462,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d10|1-9|1d10} for each spell slot level above 1."
 					]
@@ -11490,13 +11490,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 300
 				}
 			},
@@ -11509,7 +11509,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -11522,7 +11522,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 4d10|5-9|1d10} for each spell slot level above 5."
 					]
@@ -11554,7 +11554,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -11572,7 +11572,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -11584,7 +11584,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 2."
 					]
@@ -11610,13 +11610,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -11629,7 +11629,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -11642,7 +11642,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The Radiant and Thunder damage increase by {@scaledamage 2d10|5-9|1d10} for each spell slot level above 5."
 					]
@@ -11697,7 +11697,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -11708,7 +11708,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 1."
 					]
@@ -11733,13 +11733,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -11774,7 +11774,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -11818,7 +11818,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -11865,13 +11865,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -11884,7 +11884,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -11955,13 +11955,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -11974,7 +11974,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -11997,10 +11997,10 @@
 			]
 		},
 		{
-			"name": "Light",
-			"originalname": "",
+			"name": "Luz",
+			"originalname": "Light",
 			"source": "XPHB",
-			"page": 292,
+			"page": 306,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -12008,31 +12008,31 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "toque"
 				}
 			},
 			"components": {
 				"v": true,
-				"m": "a firefly or phosphorescent moss"
+				"m": "una luciérnaga o musgo fosforescente"
 			},
 			"duration": [
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
 			],
 			"entries": [
-				"You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} for an additional 20 feet. The light can be colored as you like.",
-				"Covering the object with something opaque blocks the light. The spell ends if you cast it again."
+				"Tocas un objeto Grande o más pequeño que nadie lleve o vista. Hasta que el conjuro termine, el objeto emitirá luz brillante en un radio de 2 pies (6 m) y luz tenue otros 20 pies (6 m) más allá. La luz puede tener el color que desees.",
+				"Tapar completamente el objeto con un material opaco bloquea la luz. El conjuro termina si lo vuelves a lanzar."
 			],
 			"miscTags": [
 				"LGT",
@@ -12075,7 +12075,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage for both effects of the spell increases by {@scaledamage 4d8;2d8|3-9|1d8} for each spell slot level above 3."
 					]
@@ -12103,13 +12103,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "line",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 100
 				}
 			},
@@ -12129,7 +12129,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 8d6|3-9|1d6} for each spell slot level above 3."
 					]
@@ -12160,7 +12160,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -12202,7 +12202,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -12220,7 +12220,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -12244,7 +12244,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -12262,7 +12262,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -12289,7 +12289,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -12307,7 +12307,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -12318,7 +12318,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level above 1."
 					]
@@ -12343,7 +12343,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -12361,7 +12361,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -12434,13 +12434,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -12457,7 +12457,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -12478,7 +12478,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The duration increases by 1 hour for each spell slot level above 3."
 					]
@@ -12513,7 +12513,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -12569,13 +12569,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -12594,7 +12594,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The spell creates one more dart for each spell slot level above 1."
 					]
@@ -12624,13 +12624,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -12693,7 +12693,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -12704,7 +12704,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The bonus increases to +2 with a level 3-5 spell slot. The bonus increases to +3 with a level 6+ spell slot."
 					]
@@ -12723,13 +12723,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -12742,7 +12742,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -12756,7 +12756,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The spell lasts until dispelled, without requiring {@status Concentration|XPHB}, if cast with a level 4+ spell slot."
 					]
@@ -12782,13 +12782,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -12807,7 +12807,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The healing increases by {@scaledice 5d8|5-9|1d8} for each spell slot level above 5."
 					]
@@ -12833,13 +12833,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -12881,7 +12881,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -12899,7 +12899,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The healing increases by {@scaledice 2d4|3-9|1d4} for each spell slot level above 3."
 					]
@@ -12925,13 +12925,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -12943,7 +12943,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -12955,7 +12955,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days)."
 					]
@@ -12986,13 +12986,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -13004,7 +13004,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -13037,7 +13037,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -13054,7 +13054,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -13086,13 +13086,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -13112,7 +13112,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage (both initial and later) increases by {@scaledamage 4d4;2d4|2-9|1d4} for each spell slot level above 2."
 					]
@@ -13141,7 +13141,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -13180,13 +13180,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -13223,7 +13223,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -13273,7 +13273,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -13290,7 +13290,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -13309,8 +13309,8 @@
 			]
 		},
 		{
-			"name": "Mind Sliver",
-			"originalname": "",
+			"name": "Fragmento mental",
+			"originalname": "Mind Sliver",
 			"source": "XPHB",
 			"page": 298,
 			"level": 0,
@@ -13318,13 +13318,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -13383,13 +13383,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -13400,7 +13400,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -13412,7 +13412,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d8|2-9|1d8} for each spell slot level above 2."
 					]
@@ -13443,13 +13443,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -13461,7 +13461,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -13500,7 +13500,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -13544,7 +13544,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -13561,7 +13561,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -13584,7 +13584,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -13600,7 +13600,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -13667,13 +13667,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -13685,7 +13685,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -13701,7 +13701,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can alter the target's memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature's past (level 9 spell slot)."
 					]
@@ -13734,13 +13734,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -13753,7 +13753,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -13766,7 +13766,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d10|2-9|1d10} for each spell slot level above 2."
 					]
@@ -13797,13 +13797,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -13816,7 +13816,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -13849,13 +13849,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 300
 				}
 			},
@@ -13871,7 +13871,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -13900,13 +13900,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -13919,7 +13919,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -13943,7 +13943,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can increase the size of the {@variantrule Cube [Area of Effect]|XPHB|Cube} by 100 feet for each spell slot level above 4."
 					]
@@ -13969,13 +13969,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -13991,7 +13991,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -14028,13 +14028,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -14047,7 +14047,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 2
 					},
 					"concentration": true
@@ -14075,7 +14075,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -14097,7 +14097,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -14124,7 +14124,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -14142,7 +14142,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -14185,13 +14185,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 300
 				}
 			},
@@ -14213,7 +14213,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 10d6|6-9|1d6} for each spell slot level above 6."
 					]
@@ -14244,13 +14244,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -14263,7 +14263,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -14312,13 +14312,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -14329,7 +14329,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -14364,13 +14364,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -14383,7 +14383,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -14408,13 +14408,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -14427,7 +14427,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -14453,13 +14453,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -14472,7 +14472,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -14509,13 +14509,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -14527,7 +14527,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -14540,7 +14540,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 4d10|4-9|1d10} for each spell slot level above 4."
 					]
@@ -14571,13 +14571,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -14589,7 +14589,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -14618,13 +14618,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -14660,13 +14660,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -14683,7 +14683,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -14695,7 +14695,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The duration increases with a spell slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days)."
 					]
@@ -14729,7 +14729,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -14772,19 +14772,19 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action",
+					"unit": "acción",
 					"note": "Overgrowth"
 				},
 				{
 					"number": 8,
-					"unit": "hour",
+					"unit": "hora",
 					"note": "Enrichment"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -14830,13 +14830,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -14895,13 +14895,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -14914,7 +14914,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -14946,13 +14946,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -14987,13 +14987,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -15028,13 +15028,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -15071,13 +15071,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -15118,13 +15118,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -15142,7 +15142,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The healing increases by {@scaledice 2d8|2-9|1d8} for each spell slot level above 2."
 					]
@@ -15156,10 +15156,10 @@
 			]
 		},
 		{
-			"name": "Prestidigitation",
-			"originalname": "",
+			"name": "Prestidigitación",
+			"originalname": "Prestidigitation",
 			"source": "XPHB",
-			"page": 307,
+			"page": 321,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -15167,13 +15167,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -15185,53 +15185,53 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
 			],
 			"entries": [
-				"You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.",
+				"Creas un efecto mágico dentro del alcance, elegido de entre las opciones a continuación. Si lanzas este conjuro varias veces, puedes mantener activos a la vez hasta tres de sus efectos no instantáneos.",
 				{
 					"type": "entries",
-					"name": "Sensory Effect",
+					"name": "Efecto sensorial",
 					"entries": [
-						"You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor."
+						"sensorial. Creas un efecto sensorial instantáneo e inofensivo, como una lluvia de chispas, una ligera ráfaga de viento, tenues notas musicales o un olor extraño."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Fire Play",
+					"name": "Jugar con fuego",
 					"entries": [
-						"You instantaneously light or snuff out a candle, a torch, or a small campfire."
+						"Enciendes o apagas al instante una vela, una antorcha o una hoguera pequeña."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Clean or Soil",
+					"name": "Limpiar o ensuciar",
 					"entries": [
-						"You instantaneously clean or soil an object no larger than 1 cubic foot."
+						"Limpias o ensucias al instante un objeto de hasta 0,03 m'."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Minor Sensation",
+					"name": "Sensación menor",
 					"entries": [
-						"You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour."
+						"Enfrías, calientas o das sabor a un material inerte de hasta 0,03 mi durante 1 hora."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Magic Mark",
+					"name": "Marca mágica",
 					"entries": [
-						"You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour."
+						"Haces que aparezca una mancha de color, una pequeña marca o un símbolo en un objeto o superficie durante 1 hora."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Minor Creation",
+					"name": "Creación menor",
 					"entries": [
-						"You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth."
+						"Creas un abalorio no mágico o una imagen ilusoria que te cabe en la mano y dura hasta el final de tu siguiente turno. El abalorio no inflige daño y no tiene valor monetario."
 					]
 				}
 			],
@@ -15251,13 +15251,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -15355,13 +15355,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -15373,7 +15373,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					}
 				}
@@ -15481,7 +15481,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					}
 				}
@@ -15535,13 +15535,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -15584,7 +15584,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -15636,7 +15636,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -15653,7 +15653,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -15685,7 +15685,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -15707,7 +15707,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -15743,7 +15743,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -15760,7 +15760,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -15790,13 +15790,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -15831,7 +15831,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
@@ -15892,13 +15892,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -15911,7 +15911,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -15939,13 +15939,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -15957,7 +15957,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -15986,13 +15986,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -16051,13 +16051,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -16076,7 +16076,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d8|1-9|1d8} for each spell slot level above 1."
 					]
@@ -16107,7 +16107,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -16125,7 +16125,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -16152,7 +16152,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
@@ -16252,7 +16252,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -16292,7 +16292,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -16309,7 +16309,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -16334,7 +16334,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
@@ -16394,13 +16394,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 100
 				}
 			},
@@ -16413,7 +16413,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -16445,7 +16445,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -16490,7 +16490,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -16508,7 +16508,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -16530,13 +16530,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -16602,7 +16602,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -16615,7 +16615,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -16643,13 +16643,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -16668,7 +16668,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You create one additional ray for each spell slot level above 2."
 					]
@@ -16697,7 +16697,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -16718,7 +16718,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -16814,7 +16814,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -16825,7 +16825,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"All the damage increases by {@scaledamage 1d6|1-9|1d6} for each spell slot level above 1."
 					]
@@ -16853,7 +16853,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -16871,7 +16871,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -16892,13 +16892,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -16910,7 +16910,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -16946,7 +16946,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -16983,7 +16983,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -17037,7 +17037,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -17058,7 +17058,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -17087,13 +17087,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -17114,7 +17114,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d8|2-9|1d8} for each spell slot level above 2."
 					]
@@ -17193,7 +17193,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -17206,7 +17206,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -17252,7 +17252,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -17313,7 +17313,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -17325,7 +17325,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d6|2-9|1d6} for each spell slot level above 2."
 					]
@@ -17355,7 +17355,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -17419,13 +17419,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -17437,7 +17437,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -17474,13 +17474,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -17493,7 +17493,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -17521,7 +17521,7 @@
 			"time": [
 				{
 					"number": 12,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
@@ -17573,13 +17573,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -17592,7 +17592,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -17625,13 +17625,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -17644,7 +17644,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -17680,13 +17680,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -17699,7 +17699,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -17733,7 +17733,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -17806,13 +17806,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 15
 				}
 			},
@@ -17856,7 +17856,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -17873,7 +17873,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					}
 				}
@@ -17902,13 +17902,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -17921,7 +17921,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					}
 				}
@@ -17958,13 +17958,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -17976,7 +17976,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					}
 				}
@@ -18006,7 +18006,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -18024,7 +18024,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -18036,7 +18036,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level about 2."
 					]
@@ -18058,13 +18058,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -18077,7 +18077,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -18112,13 +18112,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 15
 				}
 			},
@@ -18131,7 +18131,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -18144,7 +18144,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d8|3-9|1d8} for each spell slot level above 3."
 					]
@@ -18179,7 +18179,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -18191,7 +18191,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -18204,7 +18204,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 1d8|2-9|1d8} for every slot level above 2."
 					]
@@ -18258,7 +18258,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The extra damage increases by {@scaledamage 4d6|4-9|1d6} for each spell slot level above 4."
 					]
@@ -18289,13 +18289,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -18354,13 +18354,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -18406,13 +18406,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -18425,7 +18425,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -18457,7 +18457,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -18495,7 +18495,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -18517,7 +18517,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -18547,7 +18547,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -18565,7 +18565,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -18638,13 +18638,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -18656,7 +18656,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					},
 					"concentration": true
@@ -18689,13 +18689,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -18711,7 +18711,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -18724,7 +18724,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Use the spell slot's level for the spell's level in the stat block."
 					]
@@ -18746,13 +18746,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -18768,7 +18768,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -18781,7 +18781,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Use the spell slot's level for the spell's level in the stat block."
 					]
@@ -18802,13 +18802,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -18824,7 +18824,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -18837,7 +18837,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Use the spell slot's level for the spell's level in the stat block."
 					]
@@ -18859,13 +18859,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -18881,7 +18881,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -18894,7 +18894,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Use the spell slot's level for the spell's level in the stat block."
 					]
@@ -18918,13 +18918,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -18940,7 +18940,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -18953,7 +18953,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Use the spell slot's level for the spell's level in the stat block."
 					]
@@ -18975,13 +18975,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -18997,7 +18997,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -19010,7 +19010,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Use the spell slot's level for the spell's level in the stat block."
 					]
@@ -19031,13 +19031,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -19053,7 +19053,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -19066,7 +19066,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Use the spell slot's level for the spell's level in the stat block."
 					]
@@ -19088,13 +19088,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -19110,7 +19110,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -19123,7 +19123,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Use the spell slot's level for the spell's level in the stat block."
 					]
@@ -19145,13 +19145,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 90
 				}
 			},
@@ -19167,7 +19167,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -19180,7 +19180,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Use the spell slot's level for the spell's level in the stat block."
 					]
@@ -19204,13 +19204,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "line",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -19223,7 +19223,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -19262,13 +19262,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -19335,7 +19335,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -19360,7 +19360,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -19478,13 +19478,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -19522,13 +19522,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 5
 				}
 			},
@@ -19541,7 +19541,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					}
 				}
@@ -19569,13 +19569,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -19588,7 +19588,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -19601,7 +19601,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"You can target one additional creature for each spell slot level about 1."
 					]
@@ -19634,13 +19634,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -19652,7 +19652,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -19702,7 +19702,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -19720,7 +19720,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -19745,13 +19745,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -19900,13 +19900,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -19951,13 +19951,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -19970,7 +19970,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -20000,13 +20000,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -20017,7 +20017,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -20081,13 +20081,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -20146,13 +20146,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 5
 				}
 			},
@@ -20232,7 +20232,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d6|1-9|1d6} for each spell slot level above 1."
 					]
@@ -20264,13 +20264,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "cube",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 15
 				}
 			},
@@ -20290,7 +20290,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 2d8|1-9|1d8} for each spell slot level above 1."
 					]
@@ -20322,7 +20322,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -20354,13 +20354,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -20431,7 +20431,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -20448,7 +20448,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -20472,13 +20472,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -20515,7 +20515,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -20532,7 +20532,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -20559,13 +20559,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -20578,7 +20578,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -20639,7 +20639,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "hour"
+					"unit": "hora"
 				}
 			],
 			"range": {
@@ -20686,7 +20686,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -20708,7 +20708,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -20729,7 +20729,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -20794,7 +20794,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
@@ -20849,13 +20849,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -20868,7 +20868,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -20898,7 +20898,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -20915,7 +20915,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -20928,7 +20928,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 3d6|3-9|1d6} for each spell slot level above 3."
 					]
@@ -20959,13 +20959,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -21025,13 +21025,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 150
 				}
 			},
@@ -21051,7 +21051,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The initial damage increases by {@scaledamage 10d4|4-9|2d4} for each spell slot level above 4."
 					]
@@ -21080,13 +21080,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -21099,7 +21099,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -21113,7 +21113,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 5d8|4-9|1d8} for each spell slot level above 4."
 					]
@@ -21141,13 +21141,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -21160,7 +21160,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -21186,13 +21186,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -21205,7 +21205,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -21220,7 +21220,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage the wall deals when it appears increases by {@scaledamage 10d6|6-9|2d6} and the damage from passing through the sheet of frigid air increases by {@scaledamage 5d6|6-9|1d6} for each spell slot level above 6."
 					]
@@ -21249,13 +21249,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -21268,7 +21268,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -21305,13 +21305,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -21324,7 +21324,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					},
 					"concentration": true
@@ -21338,7 +21338,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"Both types of damage increase by {@scaledamage 7d8|6-9|1d8} for each spell slot level above 6."
 					]
@@ -21367,7 +21367,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -21388,7 +21388,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -21416,13 +21416,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -21435,7 +21435,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 24
 					}
 				}
@@ -21463,13 +21463,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -21482,7 +21482,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					}
 				}
@@ -21511,13 +21511,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -21530,7 +21530,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 1
 					},
 					"concentration": true
@@ -21575,13 +21575,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -21593,7 +21593,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -21628,13 +21628,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "minute"
+					"unit": "minuto"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 30
 				}
 			},
@@ -21647,7 +21647,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "hour",
+						"type": "hora",
 						"amount": 8
 					}
 				}
@@ -21675,13 +21675,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 120
 				}
 			},
@@ -21694,7 +21694,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -21727,7 +21727,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
@@ -21839,13 +21839,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -21858,7 +21858,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -21872,7 +21872,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The initial damage increases by {@scaledamage 2d12|1-9|1d12} for each spell slot level above 1."
 					]
@@ -21902,13 +21902,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 5
 				}
 			},
@@ -21968,13 +21968,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 5
 				}
 			},
@@ -22022,7 +22022,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					}
 				}
@@ -22033,7 +22033,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Using a Higher-Level Spell Slot",
+					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
 						"The damage increases by {@scaledamage 1d6|1-9|1d6} for each spell slot level above 1."
 					]
@@ -22062,13 +22062,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "emanation",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 10
 				}
 			},
@@ -22081,7 +22081,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 1
 					},
 					"concentration": true
@@ -22120,13 +22120,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "action"
+					"unit": "acción"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": "feet",
+					"type": "pies",
 					"amount": 60
 				}
 			},
@@ -22138,7 +22138,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": "minute",
+						"type": "minuto",
 						"amount": 10
 					}
 				}

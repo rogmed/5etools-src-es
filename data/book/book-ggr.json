@@ -11268,7 +11268,7 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"Cantrips (at will): {@spell friends}, {@spell mage hand}, {@spell message}",
+												"Cantrips (at will): {@spell friends}, {@spell mano de mago}, {@spell message}",
 												"1st level (4 slots): {@spell command}, {@spell ensnaring strike}, {@spell shield}",
 												"2nd level (3 slots): {@spell calm emotions}, {@spell hold person}, {@spell suggestion}",
 												"3rd level (3 slots): {@spell clairvoyance}, {@spell counterspell}, {@spell dispel magic}",

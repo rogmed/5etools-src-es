@@ -1843,7 +1843,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Blade Ward",
+			"name": "Guardia de cuchillas",
 			"source": "PHB",
 			"effects": [
 				{
@@ -1875,7 +1875,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Blade Ward",
+			"name": "Guardia de cuchillas",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -2402,7 +2402,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Chromatic Orb",
+			"name": "Orbe cromático",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -10266,7 +10266,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Mind Sliver",
+			"name": "Fragmento mental",
 			"source": "XPHB",
 			"activities": [
 				{

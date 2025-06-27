@@ -6711,7 +6711,7 @@
 						"type": "entries",
 						"name": "Secret Message",
 						"entries": [
-							"As a {@action Magic|XPHB} action, you can use the weapon to cast {@spell Message|XPHB}. Once this property is used, it can't be used again until the next dawn."
+							"As a {@action Magic|XPHB} action, you can use the weapon to cast {@spell Mensaje|XPHB}. Once this property is used, it can't be used again until the next dawn."
 						]
 					}
 				],

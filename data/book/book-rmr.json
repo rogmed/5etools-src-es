@@ -5729,12 +5729,12 @@
 									"name": "Cantrips (0 Level)",
 									"style": "list-hang",
 									"items": [
-										"Dancing Lights {@comicNote JERRY SPELL}",
+										""Luces danzantes" {@comicNote JERRY SPELL}",
 										"Light {@comicNote OK}",
 										"Mano de mago {@comicNote YES}",
 										"Prestidigitación {@comicNote YES}",
-										"Ray of Frost {@comicNote YES, CHILL}",
-										"Shocking Grasp {@comicNote YES, ZAP}"
+										"Rayo de escarcha {@comicNote YES, CHILL}",
+										"Agarre electrizante {@comicNote YES, ZAP}"
 									]
 								},
 								{
@@ -5932,7 +5932,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Dancing Lights",
+							"name": "Luces danzantes",
 							"page": 52,
 							"collapsed": true
 						},
@@ -6298,7 +6298,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Ray of Frost",
+							"name": "Rayo de escarcha",
 							"page": 58,
 							"collapsed": true
 						},
@@ -6400,7 +6400,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Shocking Grasp",
+							"name": "Agarre electrizante",
 							"page": 59,
 							"collapsed": true
 						},

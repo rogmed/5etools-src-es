@@ -1946,7 +1946,7 @@ export class SpellcastingTraitConvert {
 	/**
 	 * Add other actions/reactions with names such as:
 	 * - "Fire Storm (7th-Level Spell; 1/Day)"
-	 * - "Shocking Grasp (Cantrip)"
+	 * - "Agarre electrizante (Cantrip)"
 	 * - "Shield (1st-Level Spell; 3/Day)"
 	 * as hidden spells (if they don't already exist). */
 	static _addSplitOutSpells ({spellcastingEntry, arrayOther, styleHint}) {

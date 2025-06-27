@@ -1056,7 +1056,7 @@
 								{
 									"type": "item",
 									"name": "Maeve:",
-									"entry": "I think Borogrove would be disappointed in us if we let it escape into the woods. I'll cast {@spell Fire Bolt|XPHB}, getting a 14 to hit."
+									"entry": "I think Borogrove would be disappointed in us if we let it escape into the woods. I'll cast {@spell Descarga de fuego|XPHB}, getting a 14 to hit."
 								},
 								{
 									"type": "item",
@@ -4061,7 +4061,7 @@
 									"page": 46,
 									"id": "0d0",
 									"entries": [
-										"Share information with the players about the characteristics of creatures they fight as those characteristics become apparent. For example, if a Wizard casts {@spell Fire Bolt|XPHB} against a {@creature Fire Elemental|XMM} (a creature that has Immunity to Fire damage), let the players know the spell doesn't seem to bother the creature at all. Players might correctly guess that a creature made of fire probably be wouldn't harmed by {@i Fire Bolt}; feel free to confirm their guesses."
+										"Share information with the players about the characteristics of creatures they fight as those characteristics become apparent. For example, if a Wizard casts {@spell Descarga de fuego|XPHB} against a {@creature Fire Elemental|XMM} (a creature that has Immunity to Fire damage), let the players know the spell doesn't seem to bother the creature at all. Players might correctly guess that a creature made of fire probably be wouldn't harmed by {@i Fire Bolt}; feel free to confirm their guesses."
 									]
 								},
 								{

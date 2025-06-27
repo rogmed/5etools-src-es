@@ -4235,7 +4235,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You know the {@spell Elementalism|XPHB} spell. Wisdom is your spellcasting ability for it."
+				"You know the {@spell Elementalismo|XPHB} spell. Wisdom is your spellcasting ability for it."
 			]
 		},
 		{
@@ -4665,7 +4665,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"You know the {@spell Minor Illusion|XPHB} spell. Wisdom is your spellcasting ability for it."
+				"You know the {@spell Ilusión menor|XPHB} spell. Wisdom is your spellcasting ability for it."
 			]
 		},
 		{

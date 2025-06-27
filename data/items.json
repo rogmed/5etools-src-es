@@ -3077,7 +3077,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Poison Spray",
+					"name": "Rociada venenosa",
 					"entries": [
 						"The cannon expels poison gas in a 60-foot cone. Each creature in that area must make a {@dc 15} Constitution saving throw. On a failed save, the creature takes 22 ({@damage 4d10}) poison damage and is {@condition poisoned} for 1 minute. On a successful save, the creature takes half as much damage and isn't {@condition poisoned}. A creature {@condition poisoned} in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 					]
@@ -51017,7 +51017,7 @@
 			"rechargeAmount": "{@dice 1d6}",
 			"charges": 6,
 			"entries": [
-				"You can cast {@spell Dancing Lights|XPHB} or {@spell Light|XPHB} from the ring.",
+				"You can cast {@spell Luces danzantes|XPHB} or {@spell Light|XPHB} from the ring.",
 				"The ring has 6 charges and regains {@dice 1d6} expended charges daily at dawn. You can expend its charges to use the properties below.",
 				{
 					"type": "entries",
@@ -61602,7 +61602,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Thunderclap",
+					"name": "Tronar",
 					"entries": [
 						"You point the staff skyward, producing a fearsome thunderclap. Each creature of your choice in a 30-foot-radius sphere centered on you must succeed on a {@dc 15} Constitution saving throw or have the {@condition ensordecido} and {@condition asustado} conditions until the end of your next turn."
 					]
@@ -62715,7 +62715,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Thunderclap",
+					"name": "Tronar",
 					"entries": [
 						"You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a {@dc 17} Constitution saving throw. On a failed save, a creature takes {@damage 2d6} thunder damage and becomes {@condition ensordecido} for 1 minute. On a successful save, a creature takes half damage and isn't {@condition ensordecido}."
 					]
@@ -62724,7 +62724,7 @@
 					"type": "entries",
 					"name": "Thunder and Lightning",
 					"entries": [
-						"You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one."
+						"You can use an action to use the Lightning Strike and Tronar properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one."
 					]
 				}
 			],
@@ -62787,7 +62787,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Thunderclap",
+					"name": "Tronar",
 					"entries": [
 						"You can take a {@action Magic|XPHB} action to cause the staff to produce a thunderclap audible out to 600 feet. Every creature within a 60-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from you makes a {@dc 17} Constitution saving throw. On a failed save, a creature takes {@damage 2d6} Thunder damage and has the {@condition Ensordecido|XPHB} condition for 1 minute. On a successful save, a creature takes half as much damage only."
 					]

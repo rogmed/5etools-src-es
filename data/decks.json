@@ -1479,7 +1479,7 @@
 				"Par-Salian's Tea|Deck of Many Morsels|HFDoMM",
 				"Potion of Restoration|Deck of Many Morsels|HFDoMM",
 				"Purple Grapemash No. 3|Deck of Many Morsels|HFDoMM",
-				"Ray of Frost|Deck of Many Morsels|HFDoMM",
+				"Rayo de escarcha|Deck of Many Morsels|HFDoMM",
 				"Rollrum|Deck of Many Morsels|HFDoMM",
 				"Ruby Cordial|Deck of Many Morsels|HFDoMM",
 				"Saerloonian Glowfire|Deck of Many Morsels|HFDoMM",
@@ -14558,7 +14558,7 @@
 			]
 		},
 		{
-			"name": "Ray of Frost",
+			"name": "Rayo de escarcha",
 			"source": "HFDoMM",
 			"set": "Deck of Many Morsels",
 			"suit": "Libations",
@@ -14566,7 +14566,7 @@
 				"type": "image",
 				"href": {
 					"type": "internal",
-					"path": "decks/HFDoMM/Deck of Many Morsels/Ray of Frost.webp"
+					"path": "decks/HFDoMM/Deck of Many Morsels/Rayo de escarcha.webp"
 				},
 				"credit": "Ray Kachatorian",
 				"width": 1500,
@@ -14576,7 +14576,7 @@
 				"type": "image",
 				"href": {
 					"type": "internal",
-					"path": "decks/HFDoMM/Deck of Many Morsels/Ray of Frost Back.webp"
+					"path": "decks/HFDoMM/Deck of Many Morsels/Rayo de escarcha Back.webp"
 				},
 				"width": 1500,
 				"height": 2102
@@ -14586,7 +14586,7 @@
 					"type": "statblock",
 					"tag": "recipe",
 					"source": "HFFotM",
-					"name": "Ray of Frost"
+					"name": "Rayo de escarcha"
 				}
 			]
 		},

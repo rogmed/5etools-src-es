@@ -2342,7 +2342,7 @@
 							"type": "entries",
 							"name": "Cantrips",
 							"entries": [
-								"You know three Wizard cantrips of your choice. {@spell Light|XPHB}, {@spell Mano de mago|XPHB}, and {@spell Ray of Frost|XPHB} are recommended. Whenever you finish a {@variantrule Long Rest|XPHB}, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.",
+								"You know three Wizard cantrips of your choice. {@spell Light|XPHB}, {@spell Mano de mago|XPHB}, and {@spell Rayo de escarcha|XPHB} are recommended. Whenever you finish a {@variantrule Long Rest|XPHB}, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.",
 								"When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table."
 							]
 						},
@@ -3304,7 +3304,7 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Improved Minor Illusion|Wizard||Illusion||2"
+					"subclassFeature": "Improved Ilusión menor|Wizard||Illusion||2"
 				}
 			]
 		},
@@ -3323,7 +3323,7 @@
 			]
 		},
 		{
-			"name": "Improved Minor Illusion",
+			"name": "Improved Ilusión menor",
 			"source": "PHB",
 			"page": 118,
 			"className": "Wizard",
@@ -4808,7 +4808,7 @@
 			"header": 1,
 			"entries": [
 				"You can cast Illusion spells without providing Verbal components, and if an Illusion spell you cast has a range of 10+ feet, the range increases by 60 feet.",
-				"You also know the {@spell Minor Illusion|XPHB} cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known. You can create both a sound and an image with a single casting of {@spell Minor Illusion|XPHB}, and you can cast it as a {@variantrule Bonus Action|XPHB}."
+				"You also know the {@spell Ilusión menor|XPHB} cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known. You can create both a sound and an image with a single casting of {@spell Ilusión menor|XPHB}, and you can cast it as a {@variantrule Bonus Action|XPHB}."
 			]
 		},
 		{

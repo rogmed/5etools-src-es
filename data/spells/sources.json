@@ -1,6 +1,6 @@
 {
 	"XPHB": {
-		"Acid Splash": {
+		"Salpicadura ácida": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -680,7 +680,7 @@
 				}
 			]
 		},
-		"Chill Touch": {
+		"Toque helado": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -1228,7 +1228,7 @@
 				}
 			]
 		},
-		"Dancing Lights": {
+		"Luces danzantes": {
 			"class": [
 				{
 					"name": "Bard",
@@ -1740,7 +1740,7 @@
 				}
 			]
 		},
-		"Elementalism": {
+		"Elementalismo": {
 			"class": [
 				{
 					"name": "Druid",
@@ -2084,7 +2084,7 @@
 				}
 			]
 		},
-		"Fire Bolt": {
+		"Descarga de fuego": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -2316,7 +2316,7 @@
 				}
 			]
 		},
-		"Friends": {
+		"Amistad": {
 			"class": [
 				{
 					"name": "Bard",
@@ -3488,7 +3488,7 @@
 				}
 			]
 		},
-		"Mending": {
+		"Reparar": {
 			"class": [
 				{
 					"name": "Bard",
@@ -3516,7 +3516,7 @@
 				}
 			]
 		},
-		"Message": {
+		"Mensaje": {
 			"class": [
 				{
 					"name": "Bard",
@@ -3596,7 +3596,7 @@
 				}
 			]
 		},
-		"Minor Illusion": {
+		"Ilusión menor": {
 			"class": [
 				{
 					"name": "Bard",
@@ -3956,7 +3956,7 @@
 				}
 			]
 		},
-		"Poison Spray": {
+		"Rociada venenosa": {
 			"class": [
 				{
 					"name": "Druid",
@@ -4296,7 +4296,7 @@
 				}
 			]
 		},
-		"Ray of Frost": {
+		"Rayo de escarcha": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -4640,7 +4640,7 @@
 				}
 			]
 		},
-		"Shocking Grasp": {
+		"Agarre electrizante": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -5304,7 +5304,7 @@
 				}
 			]
 		},
-		"Thunderclap": {
+		"Tronar": {
 			"class": [
 				{
 					"name": "Bard",
@@ -5484,7 +5484,7 @@
 				}
 			]
 		},
-		"True Strike": {
+		"Impacto certero": {
 			"class": [
 				{
 					"name": "Bard",

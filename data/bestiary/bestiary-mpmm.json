@@ -8697,7 +8697,7 @@
 			"cr": "1/4",
 			"spellcasting": [
 				{
-					"name": "Dancing Lights",
+					"name": "Luces danzantes",
 					"type": "spellcasting",
 					"headerEntries": [
 						"The rothé casts {@spell dancing lights}, requiring no spell components and using Wisdom as the spellcasting ability."

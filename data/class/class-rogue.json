@@ -3921,7 +3921,7 @@
 					"type": "entries",
 					"name": "Cantrips",
 					"entries": [
-						"You know three cantrips: {@spell Mano de mago|XPHB} and two other cantrips of your choice from the {@filter Wizard spell list|spells|class=Wizard} (see that class's section for its list). {@spell Fragmento mental|XPHB} and {@spell Minor Illusion|XPHB} are recommended.",
+						"You know three cantrips: {@spell Mano de mago|XPHB} and two other cantrips of your choice from the {@filter Wizard spell list|spells|class=Wizard} (see that class's section for its list). {@spell Fragmento mental|XPHB} and {@spell Ilusión menor|XPHB} are recommended.",
 						"Whenever you gain a Rogue level, you can replace one of your cantrips, except {@spell Mano de mago|XPHB}, with another Wizard cantrip of your choice.",
 						"When you reach Rogue level 10, you learn another Wizard cantrip of your choice."
 					]

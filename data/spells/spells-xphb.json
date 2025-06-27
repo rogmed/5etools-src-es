@@ -1,10 +1,10 @@
 {
 	"spell": [
 		{
-			"name": "Acid Splash",
-			"originalname": "",
+			"name": "Salpicadura ácida",
+			"originalname": "Acid Splash",
 			"source": "XPHB",
-			"page": 239,
+			"page": 331,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -32,14 +32,14 @@
 				}
 			],
 			"entries": [
-				"You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere}. Each creature in that {@variantrule Sphere [Area of Effect]|XPHB|Sphere} must succeed on a Dexterity saving throw or take {@damage 1d6} Acid damage."
+				"Creas una burbuja ácida en un punto dentro del alcance, donde explotará en una esfera de 5 pies (1,5 m) de radio. Todas las criaturas situadas en la esfera deberán superar una tirada de salvación de Destreza o sufrirán {@damage 1d6} de daño de ácido."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d6} when you reach levels 5 ({@damage 2d6}), 11 ({@damage 3d6}), and 17 ({@damage 4d6})."
+						"El daño aumenta en {@damage 1d6} cuando alcanzas los niveles 5 ({@damage 2d6}), 11 ({@damage 3d6}) y 17 ({@damage 4d6})."
 					]
 				}
 			],
@@ -2642,10 +2642,10 @@
 			]
 		},
 		{
-			"name": "Chill Touch",
-			"originalname": "",
+			"name": "Toque helado",
+			"originalname": "Chill Touch",
 			"source": "XPHB",
-			"page": 249,
+			"page": 338,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -2672,14 +2672,14 @@
 				}
 			],
 			"entries": [
-				"Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes {@damage 1d10} Necrotic damage, and it can't regain {@variantrule Hit Points|XPHB} until the end of your next turn."
+				"Canalizas un frío sepulcral y haces un ataque de conjuro cuerpo a cuerpo contra un objetivo dentro del alcance. Si acierta, el objetivo recibirá {@damage 1d10} de daño necrótico y no podrá recuperar puntos de golpe hasta el final de tu siguiente turno."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d10} when you reach levels 5 ({@damage 2d10}), 11 ({@damage 3d10}), and 17 ({@damage 4d10})."
+						"El daño aumenta en {@damage 1d10} cuando alcanzas los niveles 5 ({@damage 2d10}), 11 ({@damage 3d10}) y 17 ({@damage 4d10})."
 					]
 				}
 			],
@@ -5028,10 +5028,10 @@
 			]
 		},
 		{
-			"name": "Dancing Lights",
-			"originalname": "",
+			"name": "Luces danzantes",
+			"originalname": "Dancing Lights",
 			"source": "XPHB",
-			"page": 259,
+			"page": 306,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -5052,7 +5052,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a bit of phosphorus"
+				"m": "una pizca de fósforo"
 			},
 			"duration": [
 				{
@@ -5065,8 +5065,8 @@
 				}
 			],
 			"entries": [
-				"You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds {@variantrule Dim Light|XPHB} in a 10-foot radius.",
-				"As a {@variantrule Bonus Action|XPHB}, you can move the lights up to 60 feet to a space within range. A light must be within 20 feet of another light created by this spell, and a light vanishes if it exceeds the spell's range."
+				"Creas hasta cuatro luces del tamaño de antorchas dentro del alcance. Puedes darles la apariencia de antorchas, linternas u orbes luminosos, y levitarán hasta que el conjuro termine. Como alternativa, combinas las cuatro luces en una sola de tamaño Mediano y aspecto vagamente humanoide. En ambos casos, cada luz proyecta una luz tenue en un radio de 10 pies (3 m).",
+				"Como acción adicional, puedes mover las luces hasta 60 pies (18 m) a otro espacio dentro del alcance. Cada luz debe estar a 6 mo menos de otra luz creada por este conjuro y se desvanecerá si sale del alcance del mismo."
 			],
 			"miscTags": [
 				"LGT",
@@ -6753,7 +6753,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
 						"The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam."
 					]
@@ -6830,10 +6830,10 @@
 			]
 		},
 		{
-			"name": "Elementalism",
-			"originalname": "",
+			"name": "Elementalismo",
+			"originalname": "Elementalism",
 			"source": "XPHB",
-			"page": 267,
+			"page": 275,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -6861,40 +6861,40 @@
 				}
 			],
 			"entries": [
-				"You exert control over the elements, creating one of the following effects within range.",
+				"Controlas los elementos y creas uno de los siguientes efectos dentro del alcance:",
 				{
 					"type": "entries",
-					"name": "Beckon Air",
+					"name": "Esculpir los elementos",
 					"entries": [
-						"You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a 5-foot {@variantrule Cube [Area of Effect]|XPHB|Cube}. Doors and shutters being held open by someone or something aren't affected."
+						"Haces que la tierra, arena, fuego, humo, niebla o agua que quepan en un cubo de 30 cm de lado adopten una forma tosca (como la de una criatura) durante 1 hora."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Beckon Earth",
+					"name": "Invocar el agua",
 					"entries": [
-						"You create a thin shroud of dust or sand that covers surfaces in a 5-foot-square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand."
+						"Creas un rocío de fría niebla que humedece ligeramente a las criaturas y objetos en un cubo de 5 pies (1,5 m) de lado. Como alternativa, creas una taza de agua limpia, ya sea en un recipiente abierto o sobre una superficie, y el agua se evapora al cabo de 1 minuto."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Beckon Fire",
+					"name": "Invocar el aire",
 					"entries": [
-						"You create a thin cloud of harmless embers and colored, scented smoke in a 5-foot {@variantrule Cube [Area of Effect]|XPHB|Cube}. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke's scent lingers for 1 minute."
+						"Creas una brisa lo bastante fuerte como para ondear telas, remover polvo, agitar hojas y cerrar puertas y contraventanas abiertas en un cubo de 5 pies (1,5 m) de lado. Las puertas y contraventanas que algo o alguien mantenga abiertas no se ven afectadas."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Beckon Water",
+					"name": "Invocar el fuego",
 					"entries": [
-						"You create a spray of cool mist that lightly dampens creatures and objects in a 5-foot {@variantrule Cube [Area of Effect]|XPHB|Cube}. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute."
+						"Creas una fina nube de ascuas inofensivas y un humo de color perfumado en un cubo de 5 pies (1,5 m) de lado. Tú eliges el color y el olor, y las ascuas pueden encender velas, antorchas o lámparas dentro de la zona. El aroma del humo permanece durante 1 minuto."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Sculpt Element",
+					"name": "Invocar la tierra",
 					"entries": [
-						"You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} to assume a crude shape (such as that of a creature) for 1 hour."
+						"Creas una fina capa de polvo o arena que cubre superficies en una zona de 5 pies (1,5 m) de lado o haces que aparezca una sola palabra escrita con tu letra en una superficie de tierra o arena."
 					]
 				}
 			],
@@ -8004,13 +8004,13 @@
 			]
 		},
 		{
-			"name": "Fire Bolt",
+			"name": "Descarga de fuego",
 			"alias": [
 				"Firebolt"
 			],
-			"originalname": "",
+			"originalname": "Fire Bolt",
 			"source": "XPHB",
-			"page": 274,
+			"page": 268,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -8038,14 +8038,14 @@
 				}
 			],
 			"entries": [
-				"You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes {@damage 1d10} Fire damage. A flammable object hit by this spell starts {@hazard burning|XPHB} if it isn't being worn or carried."
+				"Arrojas una mota de fuego a una criatura u objeto dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibe {@damage 1d10} de daño de fuego. Los objetos inflamables a los que acierte el conjuro empezarán a arder si nadie los lleva o viste."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d10} when you reach levels 5 ({@damage 2d10}), 11 ({@damage 3d10}), and 17 ({@damage 4d10})."
+						"El daño aumenta en {@damage 1d10} cuando alcanzas los niveles 5 ({@damage 2d10}), 11 ({@damage 3d10}) y 17 ({@damage 4d10})."
 					]
 				}
 			],
@@ -8863,10 +8863,10 @@
 			]
 		},
 		{
-			"name": "Friends",
-			"originalname": "",
+			"name": "Amistad",
+			"originalname": "Friends",
 			"source": "XPHB",
-			"page": 277,
+			"page": 242,
 			"level": 0,
 			"school": "E",
 			"time": [
@@ -8884,7 +8884,7 @@
 			},
 			"components": {
 				"s": true,
-				"m": "some makeup"
+				"m": "un poco de maquillaje"
 			},
 			"duration": [
 				{
@@ -8897,8 +8897,8 @@
 				}
 			],
 			"entries": [
-				"You magically emanate a sense of friendship toward one creature you can see within range. The target must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.",
-				"The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was {@condition Hechizado|XPHB} by you."
+				"Emanas mágicamente un sentimiento de amistad hacia una criatura que puedas ver dentro del alcance. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition Hechizado|XPHB} hasta que termine el conjuro. El objetivo la superará automáticamente si no es un humanoide, si estás luchando contra él o si le has lanzado este conjuro en las últimas 24 horas.",
+				"El conjuro termina antes de tiempo si el objetivo recibe daño o si haces una tirada de ataque, causas daño u obligas a cualquier criatura a hacer una tirada de salvación. Cuando el conjuro termine, el objetivo sabrá que lo {@condition Hechizado|XPHB|hechizaste}."
 			],
 			"conditionInflict": [
 				"charmed"
@@ -9755,7 +9755,7 @@
 						{
 							"type": "list",
 							"items": [
-								"{@spell Dancing Lights|XPHB} in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts",
+								"{@spell Luces danzantes|XPHB} in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts",
 								"{@spell Magic Mouth|XPHB} in two locations",
 								"{@spell Stinking Cloud|XPHB} in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)",
 								"{@spell Gust of Wind|XPHB} in one corridor or room (the wind blows continuously while the spell lasts)",
@@ -13130,10 +13130,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Mending",
-			"originalname": "",
+			"name": "Reparar",
+			"originalname": "Mending",
 			"source": "XPHB",
-			"page": 297,
+			"page": 327,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -13153,7 +13153,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "two lodestones"
+				"m": "dos imanes naturales"
 			},
 			"duration": [
 				{
@@ -13161,18 +13161,18 @@
 				}
 			],
 			"entries": [
-				"This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.",
-				"This spell can physically repair a magic item, but it can't restore magic to such an object."
+				"Este conjuro repara una sola grieta o desgarrón en un objeto que toques, como un eslabón roto en una cadena, las dos mitades de una llave partida, una capa rasgada o una fuga en una bota de vino. Mientras la grieta o el desgarrón no tenga más de 30 cm de tamaño en ninguna de sus dimensiones, lo arreglarás sin dejar rastro del daño.",
+				"Este conjuro puede reparar el componente físico de un objeto mágico, pero no puede restaurar su magia."
 			],
 			"miscTags": [
 				"OBJ"
 			]
 		},
 		{
-			"name": "Message",
-			"originalname": "",
+			"name": "Mensaje",
+			"originalname": "Message",
 			"source": "XPHB",
-			"page": 298,
+			"page": 310,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -13192,20 +13192,20 @@
 			},
 			"components": {
 				"s": true,
-				"m": "a copper wire"
+				"m": "un alambre de cobre"
 			},
 			"duration": [
 				{
 					"type": "timed",
 					"duration": {
-						"type": "round",
+						"type": "asalto",
 						"amount": 1
 					}
 				}
 			],
 			"entries": [
-				"You point toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.",
-				"You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone, metal, or wood; or a thin sheet of lead blocks the spell."
+				"Señalas a una criatura dentro del alcance y susurras un mensaje. El objetivo (y únicamente el objetivo) escucha el mensaje y puede responder con un susurro que solamente tú puedes oír.",
+				"Puedes lanzar este conjuro a través de objetos físicos si conoces al objetivo.y sabes que está detrás de la barrera. El silencio mágico, 30 cm de piedra, metal o madera o una lámina fina de plomo bloquean el conjuro."
 			],
 			"areaTags": [
 				"ST"
@@ -13342,9 +13342,9 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d6} when you reach levels 5 ({@damage 2d6}), 11 ({@damage 3d6}), and 17 ({@damage 4d6})."
+						"El daño aumenta en {@damage 1d6} cuando alcanzas los niveles 5 ({@damage 2d6}), 11 ({@damage 3d6}) y 17 ({@damage 4d6})."
 					]
 				}
 			],
@@ -13432,10 +13432,10 @@
 			]
 		},
 		{
-			"name": "Minor Illusion",
-			"originalname": "",
+			"name": "Ilusión menor",
+			"originalname": "Minor Illusion",
 			"source": "XPHB",
-			"page": 298,
+			"page": 292,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -13455,7 +13455,7 @@
 			},
 			"components": {
 				"s": true,
-				"m": "a bit of fleece"
+				"m": "un poco de vellón"
 			},
 			"duration": [
 				{
@@ -13467,20 +13467,20 @@
 				}
 			],
 			"entries": [
-				"You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.",
-				"If a creature takes a {@action Study|XPHB} action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence ({@skill Investigation|XPHB}) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.",
+				"Creas un sonido o una imagen de un objeto situado dentro del alcance que permanecerá hasta que termine el conjuro. Consulta las descripciones a continuación para conocer sus efectos. La ilusión termina si lanzas el conjuro de nuevo.",
+				"Si una criatura emplea su acción de estudiar para examinar la imagen o el sonido, puede determinar que es una ilusión si supera una prueba de Inteligencia ({@skill Investigación|XPHB) contra tu CD de salvación de conjuros. Si la criatura descubre que se trata de una ilusión, esta se irá desvaneciendo para esa criatura.",
 				{
 					"type": "entries",
-					"name": "Sound",
+					"name": "Sonido",
 					"entries": [
-						"If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends."
+						"Si creas un sonido, su volumen se situará entre el de un susurro y el de un grito. Puede ser tu voz, la de otra criatura, el rugido de un león, un redoblar de tambores o cualquier otro sonido que elijas. El sonido continúa incesante mientras dure el conjuro o puedes originar sonidos distintos en diferentes momentos antesdel fin del conjuro."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Image",
+					"name": "Imagen",
 					"entries": [
-						"If you create an image of an object\u2014such as a chair, muddy footprints, or a small chest\u2014it must be no larger than a 5-foot {@variantrule Cube [Area of Effect]|XPHB|Cube}. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it."
+						"Si creas la imagen de un objeto (como una silla, pisadas embarradas o un pequeño cofre), no podrá ser mayor que un cubo de 5 pies (1,5 m) de lado. La imagen no puede generar sonido, luz, olor o cualquier otro efecto sensorial. La interacción física con la imagen revela que es una ilusión, ya que las cosas pueden atravesarla."
 					]
 				}
 			],
@@ -14819,10 +14819,10 @@
 			]
 		},
 		{
-			"name": "Poison Spray",
-			"originalname": "",
+			"name": "Rociada venenosa",
+			"originalname": "Poison Spray",
 			"source": "XPHB",
-			"page": 306,
+			"page": 330,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -14850,14 +14850,14 @@
 				}
 			],
 			"entries": [
-				"You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes {@damage 1d12} Poison damage."
+				"Rocías a una criatura dentro del alcance con una niebla tóxica. Haz un ataque de conjuro a distancia contra el bjetivo. Si acierta, el objeti ibe {@damage 1d12} de daño de veneno."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d12} when you reach levels 5 ({@damage 2d12}), 11 ({@damage 3d12}), and 17 ({@damage 4d12})."
+						"El daño aumenta en {@damage 1d12} cuando alcanzas los niveles 5 ({@damage 2d12}), 11 ({@damage 3d12}) y 17 ({@damage 4d12})."
 					]
 				}
 			],
@@ -15493,9 +15493,9 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d8} when you reach levels 5 ({@damage 2d8}), 11 ({@damage 3d8}), and 17 ({@damage 4d8})."
+						"El daño aumenta en {@damage 1d8} cuando alcanzas los niveles 5 ({@damage 2d8}), 11 ({@damage 3d8}) y 17 ({@damage 4d8})."
 					]
 				}
 			],
@@ -15975,10 +15975,10 @@
 			]
 		},
 		{
-			"name": "Ray of Frost",
-			"originalname": "",
+			"name": "Rayo de escarcha",
+			"originalname": "Ray of Frost",
 			"source": "XPHB",
-			"page": 311,
+			"page": 325,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -16006,19 +16006,19 @@
 				}
 			],
 			"entries": [
-				"A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes {@damage 1d8} Cold damage, and its {@variantrule Speed|XPHB} is reduced by 10 feet until the start of your next turn."
+				"Lanzas un rayo helado de luz blanquiazul hacia una criatura dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibe {@damage 1d8} de daño de frío y su velocidad se reduce en 3 m hasta el principio de tu siguiente turno."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d8} when you reach levels 5 ({@damage 2d8}), 11 ({@damage 3d8}), and 17 ({@damage 4d8})."
+						"El daño aumenta en {@damage 1d8} cuando alcanzas los niveles 5 ({@damage 2d8}), 11 ({@damage 3d8}) y 17 ({@damage 4d8})."
 					]
 				}
 			],
 			"scalingLevelDice": {
-				"label": "Cold damage",
+				"label": "daño de frío",
 				"scaling": {
 					"1": "1d8",
 					"5": "2d8",
@@ -16555,9 +16555,9 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d8} when you reach levels 5 ({@damage 2d8}), 11 ({@damage 3d8}), and 17 ({@damage 4d8})."
+						"El daño aumenta en {@damage 1d8} cuando alcanzas los niveles 5 ({@damage 2d8}), 11 ({@damage 3d8}) y 17 ({@damage 4d8})."
 					]
 				}
 			],
@@ -17264,7 +17264,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
 						"The damage die changes when you reach levels 5 ({@damage d10}), 11 ({@damage d12}), and 17 ({@damage 2d6})."
 					]
@@ -17344,10 +17344,10 @@
 			]
 		},
 		{
-			"name": "Shocking Grasp",
-			"originalname": "",
+			"name": "Agarre electrizante",
+			"originalname": "Shocking Grasp",
 			"source": "XPHB",
-			"page": 316,
+			"page": 239,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -17374,14 +17374,14 @@
 				}
 			],
 			"entries": [
-				"Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes {@damage 1d8} Lightning damage, and it can't make Opportunity Attacks until the start of its next turn."
+				"Una descarga eléctrica surge de tu mano hacia una criatura que intentas tocar. Haz un ataque de conjuro cuerpo a cuerpo contra el objetivo. Si acierta, el objetivo recibirá {@damage 1d8} de daño de relámpago y no podrá realizar ataques de oportunidad hasta el principio de su siguiente turno."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d8} when you reach levels 5 ({@damage 2d8}), 11 ({@damage 3d8}), and 17 ({@damage 4d8})."
+						"El daño aumenta en {@damage 1d8} cuando alcanzas los niveles 5 ({@damage 2d8}), 11 ({@damage 3d8}) y 17 ({@damage 4d8})."
 					]
 				}
 			],
@@ -17831,7 +17831,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
 						"The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet)."
 					]
@@ -18314,9 +18314,9 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d8} when you reach levels 5 ({@damage 2d8}), 11 ({@damage 3d8}), and 17 ({@damage 4d8})."
+						"El daño aumenta en {@damage 1d8} cuando alcanzas los niveles 5 ({@damage 2d8}), 11 ({@damage 3d8}) y 17 ({@damage 4d8})."
 					]
 				}
 			],
@@ -20107,9 +20107,9 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d6} when you reach levels 5 ({@damage 2d6}), 11 ({@damage 3d6}), and 17 ({@damage 4d6})."
+						"El daño aumenta en {@damage 1d6} cuando alcanzas los niveles 5 ({@damage 2d6}), 11 ({@damage 3d6}) y 17 ({@damage 4d6})."
 					]
 				}
 			],
@@ -20137,10 +20137,10 @@
 			]
 		},
 		{
-			"name": "Thunderclap",
-			"originalname": "",
+			"name": "Tronar",
+			"originalname": "Thunderclap",
 			"source": "XPHB",
-			"page": 333,
+			"page": 341,
 			"level": 0,
 			"school": "V",
 			"time": [
@@ -20165,14 +20165,14 @@
 				}
 			],
 			"entries": [
-				"Each creature in a 5-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from you must succeed on a Constitution saving throw or take {@damage 1d6} Thunder damage. The spell's thunderous sound can be heard up to 100 feet away."
+				"Todas las criaturas situadas en una emanación de 5 pies (1,5 m) que se origina en ti deberán superar una tirada de salvación de {@spell Constitución|XPHB} o sufrirán {@damage 1d6} de daño de trueno. El sonido atronador del conjuro se puede oír a una distancia de hasta 100 pies (30 m)."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d6} when you reach levels 5 ({@damage 2d6}), 11 ({@damage 3d6}), and 17 ({@damage 4d6})."
+						"El daño aumenta en {@damage 1d6} cuando alcanzas los niveles 5 ({@damage 2d6}), 11 ({@damage 3d6}) y 17 ({@damage 4d6})."
 					]
 				}
 			],
@@ -20379,7 +20379,7 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
 						"The damage increases by one die when you reach levels 5 ({@damage 2d8} or {@damage 2d12}), 11 ({@damage 3d8} or {@damage 3d12}), and 17 ({@damage 4d8} or {@damage 4d12})."
 					]
@@ -20718,10 +20718,10 @@
 			]
 		},
 		{
-			"name": "True Strike",
-			"originalname": "",
+			"name": "Impacto certero",
+			"originalname": "True Strike",
 			"source": "XPHB",
-			"page": 336,
+			"page": 294,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -20741,7 +20741,7 @@
 			"components": {
 				"s": true,
 				"m": {
-					"text": "a weapon with which you have proficiency and that is worth 1+ CP",
+					"text": "un arma con la que tengas competencia y que valga al menos 1 pc",
 					"cost": 1
 				}
 			},
@@ -20751,20 +20751,20 @@
 				}
 			],
 			"entries": [
-				"Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice)."
+				"Un destello de perspicacia mágica te guía y haces un ataque con el arma empleada para lanzar el conjuro. El ataque usa tu aptitud mágica para las tiradas de ataque y de daño en lugar de la Fuerza o la Destreza. Si el ataque inflige daño, puede ser radiante o del tipo de daño normal del arma (a tu elección)."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 ({@damage 1d6}), 11 ({@damage 2d6}), and 17 ({@damage 3d6})."
+						"Independientemente de si haces daño radiante o del tipo normal del arma, el ataque inflige daño radiante adicional cuando alcanzas los niveles 5 ({@damage 1d6}), 11 ({@damage 2d6}) y 17 (3{@damage 3d6})."
 					]
 				}
 			],
 			"scalingLevelDice": [
 				{
-					"label": "extra Radiant damage",
+					"label": "daño radiante extra",
 					"scaling": {
 						"5": "1d6",
 						"11": "2d6",
@@ -20983,9 +20983,9 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d6} when you reach levels 5 ({@damage 2d6}), 11 ({@damage 3d6}), and 17 ({@damage 4d6})."
+						"El daño aumenta en {@damage 1d6} cuando alcanzas los niveles 5 ({@damage 2d6}), 11 ({@damage 3d6}) y 17 ({@damage 4d6})."
 					]
 				}
 			],
@@ -21927,9 +21927,9 @@
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
-					"name": "Cantrip Upgrade",
+					"name": "Mejora de truco",
 					"entries": [
-						"The damage increases by {@damage 1d6} when you reach levels 5 ({@damage 2d6}), 11 ({@damage 3d6}), and 17 ({@damage 4d6})."
+						"El daño aumenta en {@damage 1d6} cuando alcanzas los niveles 5 ({@damage 2d6}), 11 ({@damage 3d6}) y 17 ({@damage 4d6})."
 					]
 				}
 			],

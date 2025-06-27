@@ -2353,7 +2353,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Chill Touch",
+			"name": "Toque helado",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -3739,7 +3739,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Dancing Lights",
+			"name": "Luces danzantes",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -5552,7 +5552,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Elementalism",
+			"name": "Elementalismo",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -7141,7 +7141,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Friends",
+			"name": "Amistad",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -12174,7 +12174,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Ray of Frost",
+			"name": "Rayo de escarcha",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -13584,7 +13584,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Shocking Grasp",
+			"name": "Agarre electrizante",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -16280,7 +16280,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "True Strike",
+			"name": "Impacto certero",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -16333,7 +16333,7 @@
 						{
 							"key": "name",
 							"mode": "OVERRIDE",
-							"value": "{} (True Strike)"
+							"value": "{} (Impacto certero)"
 						},
 						{
 							"key": "system.damage.parts",

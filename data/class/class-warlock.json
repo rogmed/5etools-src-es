@@ -1025,8 +1025,8 @@
 					},
 					"expanded": {
 						"s1": [
-							"false life",
-							"ray of sickness"
+							"Falsa vida",
+							"Rayo nauseabundo"
 						],
 						"s2": [
 							"blindness/deafness",
@@ -1180,7 +1180,7 @@
 				{
 					"expanded": {
 						"s1": [
-							"shield",
+							"escudo",
 							"wrathful smite"
 						],
 						"s2": [
@@ -1437,7 +1437,7 @@
 						],
 						"s1": [
 							"detect evil and good",
-							"fog cloud"
+							"Nube de oscurecimiento"
 						],
 						"s2": [
 							"phantasmal force",
@@ -1515,7 +1515,7 @@
 					"expanded": {
 						"s1": [
 							"bane",
-							"false life"
+							"Falsa vida"
 						],
 						"s2": [
 							"blindness/deafness",

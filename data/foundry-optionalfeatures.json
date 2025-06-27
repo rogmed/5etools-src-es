@@ -237,7 +237,7 @@
 			"source": "XPHB",
 			"activities": [
 				{
-					"name": "Mage Armor",
+					"name": "Armadura de mago",
 					"type": "utility",
 					"activation": {
 						"type": "action"
@@ -264,7 +264,7 @@
 			"effects": [
 				{
 					"foundryId": "armorOfShadows",
-					"name": "Mage Armor",
+					"name": "Armadura de mago",
 					"disabled": true,
 					"transfer": true,
 					"duration": {
@@ -1699,7 +1699,7 @@
 			"source": "XPHB",
 			"activities": [
 				{
-					"name": "False Life",
+					"name": "Falsa vida",
 					"type": "heal",
 					"activation": {
 						"type": "action"

@@ -1573,7 +1573,7 @@
 			],
 			"attachedSpells": [
 				"enlarge/reduce",
-				"feather fall",
+				"Caída de pluma",
 				"flesh to stone",
 				"gaseous form",
 				"magic weapon",
@@ -5165,7 +5165,7 @@
 			"attachedSpells": {
 				"limited": {
 					"1": [
-						"feather fall",
+						"Caída de pluma",
 						"levitate"
 					]
 				}
@@ -7103,7 +7103,7 @@
 				"charges": {
 					"1": [
 						"dispel magic",
-						"magic missile",
+						"Proyectil mágico",
 						"ray of enfeeblement"
 					],
 					"2": [
@@ -13505,7 +13505,7 @@
 			},
 			"bonusWeapon": "+2",
 			"attachedSpells": [
-				"fog cloud",
+				"Nube de oscurecimiento",
 				"hold person",
 				"silence"
 			],
@@ -13554,7 +13554,7 @@
 			],
 			"ammoType": "crossbow bolt|phb",
 			"attachedSpells": [
-				"fog cloud",
+				"Nube de oscurecimiento",
 				"silence"
 			],
 			"hasFluffImages": true
@@ -13607,7 +13607,7 @@
 			"bonusWeapon": "+3",
 			"attachedSpells": [
 				"blight",
-				"fog cloud",
+				"Nube de oscurecimiento",
 				"hold person",
 				"silence"
 			],
@@ -13671,7 +13671,7 @@
 				}
 			],
 			"attachedSpells": [
-				"magic missile"
+				"Proyectil mágico"
 			],
 			"hasFluffImages": true
 		},
@@ -16965,7 +16965,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Shield",
+					"name": "Escudo",
 					"entries": [
 						"A {@filter rare or rarer suit of magic armor|items|source=|type=light armor;heavy armor;medium armor|rarity=rare;very rare;legendary;artifact|category=} that you are proficient with appears in your hands. The DM chooses the armor. If you lack proficiency with any armor, your base AC instead now equals 12 + your Dexterity modifier while you aren't wearing armor."
 					]
@@ -19871,7 +19871,7 @@
 			"attachedSpells": {
 				"charges": {
 					"1": [
-						"disguise self"
+						"Disfrazarse"
 					]
 				}
 			},
@@ -20199,7 +20199,7 @@
 			"attachedSpells": {
 				"will": [
 					"detect evil and good",
-					"detect magic"
+					"Detectar magia"
 				]
 			}
 		},
@@ -20230,7 +20230,7 @@
 			"attachedSpells": {
 				"daily": {
 					"1e": [
-						"comprehend languages"
+						"Entender idiomas"
 					]
 				}
 			},
@@ -26035,7 +26035,7 @@
 				"fireball",
 				"gust of wind",
 				"leomund's tiny hut",
-				"magic missile",
+				"Proyectil mágico",
 				"thunderwave",
 				"wall of force"
 			],
@@ -26065,7 +26065,7 @@
 			"attachedSpells": {
 				"charges": {
 					"1": [
-						"fog cloud"
+						"Nube de oscurecimiento"
 					],
 					"2": [
 						"misty step"
@@ -28915,7 +28915,7 @@
 			],
 			"attachedSpells": {
 				"will": [
-					"disguise self"
+					"Disfrazarse"
 				]
 			},
 			"lootTables": [
@@ -29250,7 +29250,7 @@
 				"charges": {
 					"1": [
 						"detect evil and good",
-						"detect magic"
+						"Detectar magia"
 					],
 					"2": [
 						"detect thoughts"
@@ -29572,7 +29572,7 @@
 			],
 			"attachedSpells": {
 				"will": [
-					"comprehend languages"
+					"Entender idiomas"
 				]
 			},
 			"lootTables": [
@@ -32102,7 +32102,7 @@
 				"daily": {
 					"1": [
 						"arms of Hadar",
-						"fog cloud",
+						"Nube de oscurecimiento",
 						"gust of wind",
 						"web"
 					]
@@ -32536,7 +32536,7 @@
 							"items": [
 								{
 									"type": "item",
-									"name": "Shield",
+									"name": "Escudo",
 									"entry": "The shield is now a rare magic item that requires attunement. Its magic gives you a +1 bonus to AC, and the first time after each of your long rests that damage reduces you to 0 hit points, you are instead reduced to 1 hit point. You must be wielding the shield to gain these benefits."
 								},
 								{
@@ -32656,8 +32656,8 @@
 			],
 			"attachedSpells": {
 				"will": [
-					"detect magic",
-					"mage armor",
+					"Detectar magia",
+					"Armadura de mago",
 					"mending",
 					"message",
 					"misty step",
@@ -33219,7 +33219,7 @@
 						"barkskin",
 						"cure wounds",
 						"fly",
-						"fog cloud",
+						"Nube de oscurecimiento",
 						"invisibility",
 						"levitate",
 						"protection from evil and good"
@@ -36846,7 +36846,7 @@
 			"attachedSpells": [
 				"animate dead",
 				"circle of death",
-				"false life",
+				"Falsa vida",
 				"finger of death",
 				"speak with dead",
 				"summon undead|tce",
@@ -37687,9 +37687,9 @@
 			"attachedSpells": {
 				"daily": {
 					"1e": [
-						"comprehend languages",
+						"Entender idiomas",
 						"detect evil and good",
-						"detect magic",
+						"Detectar magia",
 						"detect poison and disease",
 						"locate object",
 						"scrying"
@@ -38944,7 +38944,7 @@
 			"attachedSpells": {
 				"daily": {
 					"1e": [
-						"disguise self"
+						"Disfrazarse"
 					]
 				}
 			}
@@ -38976,7 +38976,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Disguise Self",
+					"name": "Disfrazarse",
 					"entries": [
 						"As an action, you can use the tattoo to cast the {@spell disguise self} spell ({@dc 13} to discern the disguise). Once the spell is cast from the tattoo, it can't be cast from the tattoo again until the next dawn."
 					]
@@ -38985,7 +38985,7 @@
 			"attachedSpells": {
 				"daily": {
 					"1e": [
-						"disguise self"
+						"Disfrazarse"
 					]
 				}
 			}
@@ -42376,7 +42376,7 @@
 			],
 			"attachedSpells": {
 				"will": [
-					"detect magic"
+					"Detectar magia"
 				],
 				"charges": {
 					"1": [
@@ -42600,7 +42600,7 @@
 							"items": [
 								{
 									"type": "item",
-									"name": "Shield",
+									"name": "Escudo",
 									"entry": "The shield is now a rare magic item that requires attunement. While you wield it, you have resistance to all damage dealt by ranged weapon attacks."
 								},
 								{
@@ -43636,7 +43636,7 @@
 			"attachedSpells": {
 				"rest": {
 					"1e": [
-						"feather fall",
+						"Caída de pluma",
 						"levitate"
 					]
 				}
@@ -50665,7 +50665,7 @@
 			"attachedSpells": {
 				"charges": {
 					"1": [
-						"fog cloud"
+						"Nube de oscurecimiento"
 					]
 				}
 			},
@@ -52432,7 +52432,7 @@
 			"attachedSpells": {
 				"will": [
 					"detect evil and good",
-					"detect magic",
+					"Detectar magia",
 					"detect poison and disease",
 					"see invisibility"
 				]
@@ -57315,7 +57315,7 @@
 			"attachedSpells": {
 				"charges": {
 					"1": [
-						"expeditious retreat"
+						"Retirada expeditiva"
 					]
 				}
 			},
@@ -60212,7 +60212,7 @@
 			"attachedSpells": {
 				"daily": {
 					"1e": [
-						"disguise self"
+						"Disfrazarse"
 					]
 				}
 			}
@@ -60426,7 +60426,7 @@
 					"1": [
 						"charm person",
 						"command",
-						"comprehend languages"
+						"Entender idiomas"
 					]
 				}
 			},
@@ -60626,10 +60626,10 @@
 			"attachedSpells": {
 				"charges": {
 					"1": [
-						"mage armor"
+						"Armadura de mago"
 					],
 					"2": [
-						"shield"
+						"escudo"
 					]
 				}
 			}
@@ -60682,10 +60682,10 @@
 			"attachedSpells": {
 				"charges": {
 					"1": [
-						"mage armor"
+						"Armadura de mago"
 					],
 					"2": [
-						"shield"
+						"escudo"
 					]
 				}
 			}
@@ -61045,7 +61045,7 @@
 			"attachedSpells": {
 				"charges": {
 					"1": [
-						"fog cloud"
+						"Nube de oscurecimiento"
 					],
 					"4": [
 						"ice storm",
@@ -61405,7 +61405,7 @@
 			"attachedSpells": {
 				"charges": {
 					"1": [
-						"magic missile",
+						"Proyectil mágico",
 						"ray of enfeeblement"
 					],
 					"2": [
@@ -62119,7 +62119,7 @@
 			"attachedSpells": {
 				"will": [
 					"arcane lock",
-					"detect magic",
+					"Detectar magia",
 					"enlarge/reduce",
 					"light",
 					"mano de mago",
@@ -66719,7 +66719,7 @@
 					]
 				},
 				"other": [
-					"comprehend languages",
+					"Entender idiomas",
 					"conjure elemental",
 					"conjure fey",
 					"conjure minor elementals",
@@ -71522,7 +71522,7 @@
 			"attachedSpells": {
 				"charges": {
 					"1": [
-						"detect magic"
+						"Detectar magia"
 					]
 				}
 			},
@@ -71585,7 +71585,7 @@
 			"attachedSpells": {
 				"charges": {
 					"1": [
-						"magic missile"
+						"Proyectil mágico"
 					]
 				}
 			},
@@ -72980,7 +72980,7 @@
 			"attachedSpells": {
 				"daily": {
 					"1e": [
-						"expeditious retreat"
+						"Retirada expeditiva"
 					]
 				}
 			}
@@ -73654,7 +73654,7 @@
 				"daily": {
 					"1": [
 						"detect evil and good",
-						"detect magic",
+						"Detectar magia",
 						"detect poison and disease",
 						"find traps",
 						"identify",
@@ -76222,7 +76222,7 @@
 			"ammoType": "crossbow bolt|phb",
 			"attachedSpells": [
 				"blight",
-				"fog cloud",
+				"Nube de oscurecimiento",
 				"hold person",
 				"silence"
 			],

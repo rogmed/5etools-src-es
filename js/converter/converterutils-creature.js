@@ -163,7 +163,7 @@ export class AcConvert {
 								if (!numMatch) throw new Error("Spell AC but no leading number?");
 
 								let spell = null;
-								if (numMatch[2] === "mage armor") spell = `{@spell mage armor}`;
+								if (numMatch[2] === "Armadura de mago") spell = `{@spell mage armor}`;
 								else if (numMatch[2] === "barkskin") spell = `{@spell barkskin}`;
 								else throw new Error(`Unhandled spell! ${numMatch[2]}`);
 
@@ -304,7 +304,7 @@ export class AcConvert {
 			// region spells
 			case "foresight bonus": return `{@spell foresight} bonus`;
 			case "natural barkskin": return `natural {@spell barkskin}`;
-			case "mage armor": return "{@spell mage armor}";
+			case "Armadura de mago": return "{@spell mage armor}";
 			// endregion
 
 			// region armor (mostly handled by the item lookup; these are mis-named exceptions (usually for homebrew))

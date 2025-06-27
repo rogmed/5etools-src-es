@@ -197,7 +197,7 @@
 				{
 					"innate": {
 						"_": [
-							"mage armor"
+							"Armadura de mago"
 						]
 					}
 				}
@@ -1196,7 +1196,7 @@
 				{
 					"innate": {
 						"_": [
-							"detect magic"
+							"Detectar magia"
 						]
 					}
 				}
@@ -1675,7 +1675,7 @@
 				{
 					"innate": {
 						"_": [
-							"false life"
+							"Falsa vida"
 						]
 					}
 				}
@@ -2624,7 +2624,7 @@
 				{
 					"innate": {
 						"_": [
-							"disguise self"
+							"Disfrazarse"
 						]
 					}
 				}

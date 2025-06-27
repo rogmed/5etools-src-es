@@ -22119,7 +22119,7 @@
 										"A {@spell detect magic} spell reveals an aura of conjuration magic around each framed portrait of Maddgoth. When a creature casts a spell in this room or disturbs the figure in the bed, the six wands depicted in the framed portraits magically spring from their paintings, gaining the statistics of {@creature Flying Sword||flying swords}, and remain detached from the paintings thereafter. Replace the wands' Longsword action option with the following:",
 										{
 											"type": "entries",
-											"name": "Magic Missile",
+											"name": "Proyectil mágico",
 											"page": 105,
 											"id": "42a",
 											"entries": [
@@ -61141,7 +61141,7 @@
 										"Using the knocker triggers a {@spell glyph of warding} spell cast at 8th level. The glyph creates a 20-foot-radius sphere of magical flame. Each creature in the area must make a {@dc 22} Dexterity saving throw, taking 45 ({@dice 10d8}) fire damage on a failed save, or half as much damage on a successful one. The tiny glyph can be found on the backside of the knocker's handle with a successful {@dc 22} Intelligence ({@skill Investigation}) check.",
 										{
 											"type": "entries",
-											"name": "Shield",
+											"name": "Escudo",
 											"page": 292,
 											"id": "b28",
 											"entries": [

@@ -6580,7 +6580,7 @@
 							"mano de mago#c"
 						],
 						"s1": [
-							"disguise self",
+							"Disfrazarse",
 							"Dormir"
 						],
 						"s2": [
@@ -10950,7 +10950,7 @@
 						],
 						"s1": [
 							"entangle",
-							"ray of sickness"
+							"Rayo nauseabundo"
 						],
 						"s2": [
 							"protection from poison",
@@ -16431,7 +16431,7 @@
 				{
 					"expanded": {
 						"s1": [
-							"comprehend languages",
+							"Entender idiomas",
 							"identify"
 						],
 						"s2": [
@@ -24665,7 +24665,7 @@
 						],
 						"s1": [
 							"detect poison and disease",
-							"expeditious retreat",
+							"Retirada expeditiva",
 							"salto"
 						],
 						"s2": [

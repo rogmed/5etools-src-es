@@ -1514,7 +1514,7 @@
 					"*": {
 						"mode": "replaceTxt",
 						"replace": "sword",
-						"with": "shield",
+						"with": "escudo",
 						"flags": "i"
 					}
 				}

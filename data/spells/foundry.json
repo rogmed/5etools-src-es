@@ -2601,7 +2601,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Comprehend Languages",
+			"name": "Entender idiomas",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -4048,7 +4048,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Detect Magic",
+			"name": "Detectar magia",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -4170,7 +4170,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Disguise Self",
+			"name": "Disfrazarse",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -6144,7 +6144,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "False Life",
+			"name": "Falsa vida",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -7522,7 +7522,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Grease",
+			"name": "Grasa",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -9013,7 +9013,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Ice Knife",
+			"name": "Cuchillo de hielo",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -9579,7 +9579,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Mage Armor",
+			"name": "Armadura de mago",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -9752,7 +9752,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Magic Missile",
+			"name": "Proyectil mágico",
 			"source": "PHB",
 			"activities": [
 				{
@@ -9775,7 +9775,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Magic Missile",
+			"name": "Proyectil mágico",
 			"source": "XPHB",
 			"system": {
 				"target.affects.count": "2 + @item.level"
@@ -12250,7 +12250,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Ray of Sickness",
+			"name": "Rayo nauseabundo",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -13221,7 +13221,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Shield",
+			"name": "Escudo",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -13231,14 +13231,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "shield"
+							"foundryId": "escudo"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "shield",
+					"foundryId": "escudo",
 					"name": "Imperceptible Barrier",
 					"disabled": true,
 					"duration": {
@@ -17591,7 +17591,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Witch Bolt",
+			"name": "Rayo de hechicería",
 			"source": "PHB",
 			"activities": [
 				{
@@ -17614,7 +17614,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Witch Bolt",
+			"name": "Rayo de hechicería",
 			"source": "XPHB",
 			"activities": [
 				{

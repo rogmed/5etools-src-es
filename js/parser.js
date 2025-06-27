@@ -1315,8 +1315,8 @@ Parser.spLevelSchoolMetaToFull = function (level, school, meta, subschools, {sty
 };
 
 Parser.SP_TM_ACTION = "action";
-Parser.SP_TM_B_ACTION = "bonus";
-Parser.SP_TM_REACTION = "reaction";
+Parser.SP_TM_B_ACTION = "adicional";
+Parser.SP_TM_REACTION = "reacción";
 Parser.SP_TM_ROUND = "round";
 Parser.SP_TM_MINS = "minuto";
 Parser.SP_TM_HRS = "hour";
@@ -1325,7 +1325,7 @@ Parser.SP_TIME_SINGLETONS = [Parser.SP_TM_ACTION, Parser.SP_TM_B_ACTION, Parser.
 Parser.SP_TIME_TO_FULL = {
 	[Parser.SP_TM_ACTION]: "Action",
 	[Parser.SP_TM_B_ACTION]: "Acción adicional",
-	[Parser.SP_TM_REACTION]: "Reaction",
+	[Parser.SP_TM_REACTION]: "Reacción",
 	[Parser.SP_TM_ROUND]: "Rounds",
 	[Parser.SP_TM_MINS]: "Minutes",
 	[Parser.SP_TM_HRS]: "Hours",
@@ -1424,13 +1424,13 @@ Parser.getMinutesToFull = function (mins, {isShort = false} = {}) {
 };
 
 Parser.RNG_SPECIAL = "special";
-Parser.RNG_POINT = "point";
-Parser.RNG_LINE = "line";
-Parser.RNG_CUBE = "cube";
-Parser.RNG_CONE = "cone";
-Parser.RNG_EMANATION = "emanation";
-Parser.RNG_RADIUS = "radius";
-Parser.RNG_SPHERE = "sphere";
+Parser.RNG_POINT = "punto";
+Parser.RNG_LINE = "línea";
+Parser.RNG_CUBE = "cubo";
+Parser.RNG_CONE = "cono";
+Parser.RNG_EMANATION = "emanación";
+Parser.RNG_RADIUS = "radio";
+Parser.RNG_SPHERE = "esfera";
 Parser.RNG_HEMISPHERE = "hemisphere";
 Parser.RNG_CYLINDER = "cylinder"; // homebrew only
 Parser.RNG_SELF = "lanzador";
@@ -1441,10 +1441,10 @@ Parser.RNG_TOUCH = "toque";
 Parser.SP_RANGE_TYPE_TO_FULL = {
 	[Parser.RNG_SPECIAL]: "Special",
 	[Parser.RNG_POINT]: "Point",
-	[Parser.RNG_LINE]: "Line",
-	[Parser.RNG_CUBE]: "Cube",
-	[Parser.RNG_CONE]: "Cone",
-	[Parser.RNG_EMANATION]: "Emanation",
+	[Parser.RNG_LINE]: "Línea",
+	[Parser.RNG_CUBE]: "Cubo",
+	[Parser.RNG_CONE]: "Cono",
+	[Parser.RNG_EMANATION]: "Emanación",
 	[Parser.RNG_RADIUS]: "Radius",
 	[Parser.RNG_SPHERE]: "Sphere",
 	[Parser.RNG_HEMISPHERE]: "Hemisphere",
@@ -3019,7 +3019,7 @@ Parser.ARMOR_ABV_TO_FULL = {
 	"l.": "light",
 	"m.": "medium",
 	"h.": "heavy",
-	"s.": "shield",
+	"s.": "escudo",
 };
 
 Parser.WEAPON_ABV_TO_FULL = {

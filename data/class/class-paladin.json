@@ -42,7 +42,7 @@
 					"light",
 					"medium",
 					"heavy",
-					"shield"
+					"escudo"
 				],
 				"weapons": [
 					"simple",
@@ -128,7 +128,7 @@
 					"armor": [
 						"light",
 						"medium",
-						"shield"
+						"escudo"
 					],
 					"weapons": [
 						"simple",
@@ -415,7 +415,7 @@
 					"light",
 					"medium",
 					"heavy",
-					"shield"
+					"escudo"
 				],
 				"weapons": [
 					"simple",
@@ -481,7 +481,7 @@
 					"armor": [
 						"light",
 						"medium",
-						"shield"
+						"escudo"
 					],
 					"weapons": [
 						"martial"
@@ -1333,7 +1333,7 @@
 					"prepared": {
 						"3": [
 							"alarm",
-							"detect magic"
+							"Detectar magia"
 						],
 						"5": [
 							"moonbeam",
@@ -1405,7 +1405,7 @@
 					"prepared": {
 						"3": [
 							"create or destroy water",
-							"expeditious retreat"
+							"Retirada expeditiva"
 						],
 						"5": [
 							"augury",

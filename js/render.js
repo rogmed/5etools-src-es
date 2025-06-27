@@ -9971,17 +9971,17 @@ Renderer.monster = class {
 		// Community-created (legacy)
 		static _LVL_TO_COLOR_TO_SPELLS__UNOFFICIAL = {
 			2: {
-				black: ["darkness", "Melf's acid arrow", "fog cloud", "scorching ray"],
-				green: ["ray of sickness", "charm person", "detect thoughts", "invisibility", "suggestion"],
+				black: ["darkness", "Melf's acid arrow", "Nube de oscurecimiento", "scorching ray"],
+				green: ["Rayo nauseabundo", "charm person", "detect thoughts", "invisibility", "suggestion"],
 				white: ["ice knife|XGE", "Snilloc's snowball swarm|XGE"],
 				brass: ["see invisibility", "magic mouth", "blindness/deafness", "Dormir", "detect thoughts"],
-				bronze: ["gust of wind", "misty step", "locate object", "blur", "witch bolt", "thunderwave", "shield"],
+				bronze: ["gust of wind", "misty step", "locate object", "blur", "witch bolt", "thunderwave", "escudo"],
 				copper: ["knock", "Dormir", "detect thoughts", "blindness/deafness", "tasha's hideous laughter"],
 			},
 			3: {
-				blue: ["wall of sand|XGE", "thunder step|XGE", "lightning bolt", "blink", "magic missile", "slow"],
+				blue: ["wall of sand|XGE", "thunder step|XGE", "lightning bolt", "blink", "Proyectil mágico", "slow"],
 				red: ["fireball", "scorching ray", "haste", "erupting earth|XGE", "Aganazzar's scorcher|XGE"],
-				gold: ["slow", "fireball", "dispel magic", "counterspell", "Aganazzar's scorcher|XGE", "shield"],
+				gold: ["slow", "fireball", "dispel magic", "counterspell", "Aganazzar's scorcher|XGE", "escudo"],
 				silver: ["sleet storm", "protection from energy", "catnap|XGE", "locate object", "identify", "Leomund's tiny hut"],
 			},
 			4: {

@@ -3301,7 +3301,7 @@
 			]
 		},
 		{
-			"name": "Shield",
+			"name": "Escudo",
 			"source": "PHB",
 			"page": 144,
 			"srd": true,
@@ -3320,7 +3320,7 @@
 			]
 		},
 		{
-			"name": "Shield",
+			"name": "Escudo",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -5110,7 +5110,7 @@
 			"page": 139
 		},
 		{
-			"name": "Shield",
+			"name": "Escudo",
 			"abbreviation": "S",
 			"source": "PHB",
 			"page": 144,
@@ -5119,7 +5119,7 @@
 			]
 		},
 		{
-			"name": "Shield",
+			"name": "Escudo",
 			"abbreviation": "S",
 			"source": "XPHB",
 			"page": 219,

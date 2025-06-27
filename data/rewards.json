@@ -57,7 +57,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"false life"
+									"Falsa vida"
 								]
 							}
 						}
@@ -2346,7 +2346,7 @@
 						"_": {
 							"daily": {
 								"int": [
-									"comprehend languages"
+									"Entender idiomas"
 								]
 							}
 						}
@@ -3103,7 +3103,7 @@
 						"_": {
 							"daily": {
 								"int": [
-									"detect magic"
+									"Detectar magia"
 								]
 							}
 						}
@@ -3540,7 +3540,7 @@
 						"_": {
 							"daily": {
 								"wis": [
-									"ray of sickness"
+									"Rayo nauseabundo"
 								]
 							}
 						}
@@ -3937,7 +3937,7 @@
 						"_": {
 							"daily": {
 								"int": [
-									"fog cloud"
+									"Nube de oscurecimiento"
 								]
 							}
 						}

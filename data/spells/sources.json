@@ -588,7 +588,7 @@
 				}
 			]
 		},
-		"Burning Hands": {
+		"Manos ardientes": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -656,7 +656,7 @@
 				}
 			]
 		},
-		"Charm Person": {
+		"Hechizar persona": {
 			"class": [
 				{
 					"name": "Bard",
@@ -800,7 +800,7 @@
 				}
 			]
 		},
-		"Color Spray": {
+		"Rociada de color": {
 			"class": [
 				{
 					"name": "Bard",
@@ -860,7 +860,7 @@
 				}
 			]
 		},
-		"Comprehend Languages": {
+		"Entender idiomas": {
 			"class": [
 				{
 					"name": "Bard",
@@ -1372,7 +1372,7 @@
 				}
 			]
 		},
-		"Detect Magic": {
+		"Detectar magia": {
 			"class": [
 				{
 					"name": "Bard",
@@ -1468,7 +1468,7 @@
 				}
 			]
 		},
-		"Disguise Self": {
+		"Disfrazarse": {
 			"class": [
 				{
 					"name": "Bard",
@@ -1876,7 +1876,7 @@
 				}
 			]
 		},
-		"Expeditious Retreat": {
+		"Retirada expeditiva": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -1944,7 +1944,7 @@
 				}
 			]
 		},
-		"False Life": {
+		"Falsa vida": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -1980,7 +1980,7 @@
 				}
 			]
 		},
-		"Feather Fall": {
+		"Caída de pluma": {
 			"class": [
 				{
 					"name": "Bard",
@@ -2216,7 +2216,7 @@
 				}
 			]
 		},
-		"Fog Cloud": {
+		"Nube de oscurecimiento": {
 			"class": [
 				{
 					"name": "Druid",
@@ -2488,7 +2488,7 @@
 				}
 			]
 		},
-		"Grease": {
+		"Grasa": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -2852,7 +2852,7 @@
 				}
 			]
 		},
-		"Ice Knife": {
+		"Cuchillo de hielo": {
 			"class": [
 				{
 					"name": "Druid",
@@ -3268,7 +3268,7 @@
 				}
 			]
 		},
-		"Mage Armor": {
+		"Armadura de mago": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -3332,7 +3332,7 @@
 				}
 			]
 		},
-		"Magic Missile": {
+		"Proyectil mágico": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -4312,7 +4312,7 @@
 				}
 			]
 		},
-		"Ray of Sickness": {
+		"Rayo nauseabundo": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -4600,7 +4600,7 @@
 				}
 			]
 		},
-		"Shield": {
+		"Escudo": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -4672,7 +4672,7 @@
 				}
 			]
 		},
-		"Silent Image": {
+		"Imagen silenciosa": {
 			"class": [
 				{
 					"name": "Bard",
@@ -5340,7 +5340,7 @@
 				}
 			]
 		},
-		"Thunderwave": {
+		"Ola atronadora": {
 			"class": [
 				{
 					"name": "Bard",
@@ -5744,7 +5744,7 @@
 				}
 			]
 		},
-		"Witch Bolt": {
+		"Rayo de hechicería": {
 			"class": [
 				{
 					"name": "Hechicero",

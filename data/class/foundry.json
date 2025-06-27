@@ -7436,7 +7436,7 @@
 				"armorProficiencies": [
 					{
 						"medium": true,
-						"shield": true
+						"escudo": true
 					}
 				]
 			},
@@ -11273,7 +11273,7 @@
 				],
 				"armorProficiencies": [
 					{
-						"shield": true,
+						"escudo": true,
 						"medium": true
 					}
 				]
@@ -13562,7 +13562,7 @@
 				"armorProficiencies": [
 					{
 						"medium": true,
-						"shield": true
+						"escudo": true
 					}
 				]
 			},

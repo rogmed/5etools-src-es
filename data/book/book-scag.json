@@ -940,7 +940,7 @@
 										"Certain spells allow casters to perceive or manipulate the effects of the Weave in particular ways. The Weave itself also has irregularities that affect spells.",
 										{
 											"type": "entries",
-											"name": "Detect Magic",
+											"name": "Detectar magia",
 											"page": 19,
 											"entries": [
 												"Detect magic reveals threads of the Weave woven together through spellcasting, or the \"knots\" of the Weave in a magic item. A magic item appears enmeshed in the silvery-blue threads of the Weave, and the way the threads are arranged reveals what type of magic is used (necromancy, abjuration, and so on). Similarly, active spells and areas imbued with magic are limned in a silvery network of threads, which might twist and reknit themselves depending on the magic involved."

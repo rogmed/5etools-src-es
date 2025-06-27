@@ -54,7 +54,7 @@ ConverterUtilsItem.BASIC_ARMORS = [
 	"chain mail",
 	"splint armor",
 	"plate armor",
-	"shield",
+	"escudo",
 ];
 
 export class ChargeTag {

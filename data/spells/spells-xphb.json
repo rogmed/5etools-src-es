@@ -16,7 +16,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -82,7 +82,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -137,7 +137,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -203,9 +203,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -268,7 +268,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -333,7 +333,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -398,7 +398,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -445,7 +445,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -500,7 +500,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -565,7 +565,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -623,7 +623,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -673,7 +673,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -753,7 +753,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -796,7 +796,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 500
@@ -844,7 +844,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -883,13 +883,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -927,13 +927,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -984,7 +984,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -1038,7 +1038,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -1095,9 +1095,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -1168,7 +1168,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -1214,7 +1214,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -1260,7 +1260,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -1305,7 +1305,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -1358,7 +1358,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -1387,7 +1387,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You can target one additional creature for each spell slot level above 1."
+						"Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -1412,14 +1412,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus",
+					"unit": "adicional",
 					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -1464,7 +1464,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -1524,11 +1524,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -1573,7 +1573,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -1618,7 +1618,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -1662,7 +1662,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -1712,7 +1712,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -1781,7 +1781,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -1889,7 +1889,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -1928,7 +1928,7 @@
 		},
 		{
 			"name": "Guardia de cuchillas",
-			"originalname": "Blade/ Ward",
+			"originalname": "Blade Ward",
 			"source": "XPHB",
 			"page": 288,
 			"level": 0,
@@ -1940,7 +1940,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "lanzador"
 				}
@@ -1979,7 +1979,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -2011,7 +2011,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You can target one additional creature for each spell slot level above 1."
+						"Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -2038,7 +2038,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -2089,14 +2089,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus",
+					"unit": "adicional",
 					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -2152,7 +2152,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -2213,9 +2213,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -2255,9 +2255,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -2278,10 +2278,10 @@
 			]
 		},
 		{
-			"name": "Burning Hands",
-			"originalname": "",
+			"name": "Manos ardientes",
+			"originalname": "Burning Hands",
 			"source": "XPHB",
-			"page": 248,
+			"page": 308,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -2293,7 +2293,7 @@
 				}
 			],
 			"range": {
-				"type": "cone",
+				"type": "cono",
 				"distance": {
 					"type": "pies",
 					"amount": 15
@@ -2309,15 +2309,15 @@
 				}
 			],
 			"entries": [
-				"A thin sheet of flames shoots forth from you. Each creature in a 15-foot {@variantrule Cone [Area of Effect]|XPHB|Cone} makes a Dexterity saving throw, taking {@damage 3d6} Fire damage on a failed save or half as much damage on a successful one.",
-				"Flammable objects in the {@variantrule Cone [Area of Effect]|XPHB|Cone} that aren't being worn or carried start {@hazard burning|XPHB}."
+				"Una fina capa de llamas se proyecta desde ti. Todas las criaturas situadas en un cono de 15 pies (4,5 m) hacen una tirada de salvación de Destreza; sufrirán {@damage 3d6} de daño de fuego si la fallan o la mitad del daño si la superan.",
+				"Los objetos inflamables dentro del cono que no lleve o vista nadie empezarán a arder."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 3d6|1-9|1d6} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 3d6|1-9|1d6} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -2350,7 +2350,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -2415,7 +2415,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -2471,7 +2471,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -2532,7 +2532,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -2578,10 +2578,10 @@
 			]
 		},
 		{
-			"name": "Charm Person",
-			"originalname": "",
+			"name": "Hechizar persona",
+			"originalname": "Charm Person",
 			"source": "XPHB",
-			"page": 249,
+			"page": 291,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -2593,7 +2593,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -2613,14 +2613,14 @@
 				}
 			],
 			"entries": [
-				"One Humanoid you can see within range makes a Wisdom saving throw. It does so with {@variantrule Advantage|XPHB} if you or your allies are fighting it. On a failed save, the target has the {@condition Hechizado|XPHB} condition until the spell ends or until you or your allies damage it. The {@condition Hechizado|XPHB} creature is {@variantrule Friendly [Attitude]|XPHB|Friendly} to you. When the spell ends, the target knows it was {@condition Hechizado|XPHB} by you."
+				"Un humanoide que puedas ver dentro del alcance realiza una tirada de salvación de Sabiduría. La hace con ventaja si está luchando contra ti o tus aliados. Si la falla, tendrá el estado de {@condition Hechizado|XPHB} hasta que el conjuro termine o hasta que tus aliados o tú le hagáis daño. La criatura {@condition Hechizado|XPHB|hechizada} es amistosa contigo, pero cuando el conjuro termine, sabrá que la hechizaste."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You can target one additional creature for each spell slot level above 1."
+						"Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -2657,7 +2657,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -2721,7 +2721,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -2788,7 +2788,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -2843,7 +2843,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -2888,7 +2888,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "miles",
 					"amount": 1
@@ -2937,7 +2937,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -2978,7 +2978,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -3035,7 +3035,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -3083,10 +3083,10 @@
 			]
 		},
 		{
-			"name": "Color Spray",
-			"originalname": "",
+			"name": "Rociada de color",
+			"originalname": "Color Spray",
 			"source": "XPHB",
-			"page": 251,
+			"page": 330,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -3098,7 +3098,7 @@
 				}
 			],
 			"range": {
-				"type": "cone",
+				"type": "cono",
 				"distance": {
 					"type": "pies",
 					"amount": 15
@@ -3107,7 +3107,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a pinch of colorful sand"
+				"m": "una pizca de arena de colores"
 			},
 			"duration": [
 				{
@@ -3115,7 +3115,7 @@
 				}
 			],
 			"entries": [
-				"You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot {@variantrule Cone [Area of Effect]|XPHB|Cone} originating from you must succeed on a Constitution saving throw or have the {@condition Blinded|XPHB} condition until the end of your next turn."
+				"Emites una ráfaga de luces brillantes y parpadeantes de múltiples colores. Todas las criaturas situadas en un cono de 15 pies (4,5 m) que se origina en ti deberán superar una tirada de salvación de Constitución o tendrán el estado de {@condition Cegado|XPHB|cegadas} hasta el final de tu siguiente turno."
 			],
 			"conditionInflict": [
 				"blinded"
@@ -3143,7 +3143,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -3240,9 +3240,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -3284,9 +3284,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -3331,11 +3331,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -3369,10 +3369,10 @@
 			]
 		},
 		{
-			"name": "Comprehend Languages",
-			"originalname": "",
+			"name": "Entender idiomas",
+			"originalname": "Comprehend Languages",
 			"source": "XPHB",
-			"page": 252,
+			"page": 278,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -3384,15 +3384,15 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a pinch of soot and salt"
+				"m": "una pizca de hollín y sal"
 			},
 			"duration": [
 				{
@@ -3407,7 +3407,7 @@
 				"ritual": true
 			},
 			"entries": [
-				"For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode symbols or secret messages."
+				"Hasta que el conjuro termine, entiendes el significado literal de las palabras que escuches o veas signadas en cualquier idioma. También comprendes todas las palabras escritas que ves, independientemente del idioma en el que estén, pero debes tocar la superficie en la que estén inscritas. Tardas aproximadamente 1 minuto en leer una página. Este conjuro no descifra mensajes secretos ni símbolos."
 			]
 		},
 		{
@@ -3426,7 +3426,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -3480,7 +3480,7 @@
 				}
 			],
 			"range": {
-				"type": "cone",
+				"type": "cono",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -3535,7 +3535,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -3624,7 +3624,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -3686,7 +3686,7 @@
 				}
 			],
 			"range": {
-				"type": "cone",
+				"type": "cono",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -3746,7 +3746,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -3830,7 +3830,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -3895,7 +3895,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -3955,7 +3955,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 15
@@ -4016,7 +4016,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -4067,7 +4067,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -4127,9 +4127,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -4174,7 +4174,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -4226,9 +4226,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -4270,7 +4270,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -4316,7 +4316,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 300
@@ -4402,7 +4402,7 @@
 				}
 			],
 			"range": {
-				"type": "sphere",
+				"type": "esfera",
 				"distance": {
 					"type": "miles",
 					"amount": 5
@@ -4550,7 +4550,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -4604,12 +4604,12 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "reaction",
+					"unit": "reacción",
 					"condition": "which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -4649,7 +4649,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -4684,7 +4684,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -4755,7 +4755,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -4813,7 +4813,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -4891,7 +4891,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -4946,7 +4946,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -4994,7 +4994,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -5043,7 +5043,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -5089,7 +5089,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -5137,7 +5137,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -5179,7 +5179,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -5229,7 +5229,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -5271,7 +5271,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -5336,7 +5336,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -5379,7 +5379,7 @@
 				}
 			],
 			"range": {
-				"type": "sphere",
+				"type": "esfera",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -5428,7 +5428,7 @@
 				}
 			],
 			"range": {
-				"type": "sphere",
+				"type": "esfera",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -5462,10 +5462,10 @@
 			]
 		},
 		{
-			"name": "Detect Magic",
-			"originalname": "",
+			"name": "Detectar magia",
+			"originalname": "Detect Magic",
 			"source": "XPHB",
-			"page": 262,
+			"page": 270,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -5477,7 +5477,7 @@
 				}
 			],
 			"range": {
-				"type": "sphere",
+				"type": "esfera",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -5501,8 +5501,8 @@
 				"ritual": true
 			},
 			"entries": [
-				"For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such effects, you can take the {@action Magic|XPHB} action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's {@book school of magic|XPHB|7|Schools of Magic}.",
-				"The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead."
+				"Hasta que el conjuro termine, podrás percibir la presencia de efectos mágicos a 30 pies (9 m) o menos de ti. Si percibes alguno, puedes usar una acción de magia para ver una débil aura alrededor de cualquier objeto o criatura visible dentro de la zona que esté afectada por la magia y, si el efecto lo creó un conjuro, distingues a qué escuela mágica pertenece.",
+				"El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo."
 			]
 		},
 		{
@@ -5521,7 +5521,7 @@
 				}
 			],
 			"range": {
-				"type": "sphere",
+				"type": "esfera",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -5566,9 +5566,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -5631,7 +5631,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "lanzador"
 				}
@@ -5696,7 +5696,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 500
@@ -5723,10 +5723,10 @@
 			]
 		},
 		{
-			"name": "Disguise Self",
-			"originalname": "",
+			"name": "Disfrazarse",
+			"originalname": "Disguise Self",
 			"source": "XPHB",
-			"page": 262,
+			"page": 272,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -5738,9 +5738,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -5757,9 +5757,9 @@
 				}
 			],
 			"entries": [
-				"You make yourself\u2014including your clothing, armor, weapons, and other belongings on your person\u2014look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.",
-				"The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing.",
-				"To discern that you are disguised, a creature must take the {@action Study|XPHB} action to inspect your appearance and succeed on an Intelligence ({@skill Investigation|XPHB}) check against your spell save DC."
+				"Haces que tu aspecto (incluyendo tu vestimenta, armadura, armas y otras posesiones que lleves contigo) parezca diferente hasta que el conjuro termine. Puedes aparentar tener una altura 30 cm mayor o menor y una complexión más pesada o ligera. Debes adoptar una forma que tenga la misma configuración de miembros que tú. Por lo demás, la ilusión puede modificar todo lo que quieras de tu aspecto.",
+				"Los cambios realizados por este conjuro pueden descubrirse mediante una inspección física. Por ejemplo, si usas este conjuro para añadir un sombrero a tu vestimenta, los objetos atravesarán el sombrero y cualquiera que lo toque no sentirá nada.",
+				"Para darse cuenta de que te has disfrazado, una criatura debe emplear la acción de estudiar para inspeccionar tu apariencia y superar una prueba de Inteligencia ({@skill Investigación|XPHB}) contra tu CD de salvación de conjuros."
 			],
 			"abilityCheck": [
 				"intelligence"
@@ -5784,7 +5784,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -5844,9 +5844,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -5915,7 +5915,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -5965,7 +5965,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -6020,9 +6020,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -6059,13 +6059,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -6103,14 +6103,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus",
+					"unit": "adicional",
 					"condition": "Which you take immediately after hitting a target with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -6153,11 +6153,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -6232,7 +6232,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -6298,7 +6298,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -6361,7 +6361,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -6423,11 +6423,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -6490,7 +6490,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -6539,9 +6539,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -6590,7 +6590,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -6654,7 +6654,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 500
@@ -6732,7 +6732,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -6787,7 +6787,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -6845,7 +6845,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -6922,7 +6922,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -6978,7 +6978,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -7041,14 +7041,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus",
+					"unit": "adicional",
 					"condition": "which you take immediately after hitting a creature with a weapon"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -7106,7 +7106,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -7163,7 +7163,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -7211,9 +7211,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -7268,7 +7268,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -7316,10 +7316,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Expeditious Retreat",
-			"originalname": "",
+			"name": "Retirada expeditiva",
+			"originalname": "Expeditious Retreat",
 			"source": "XPHB",
-			"page": 270,
+			"page": 329,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -7327,13 +7327,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -7351,7 +7351,7 @@
 				}
 			],
 			"entries": [
-				"You take the {@action Dash|XPHB} action, and until the spell ends, you can take that action again as a {@variantrule Bonus Action|XPHB}."
+				"Realizas la acción de correr y, hasta que el conjuro termine, puedes volver a hacerla como acción adicional."
 			],
 			"miscTags": [
 				"UBA"
@@ -7373,9 +7373,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -7447,7 +7447,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -7489,7 +7489,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -7524,10 +7524,10 @@
 			]
 		},
 		{
-			"name": "False Life",
-			"originalname": "",
+			"name": "Falsa vida",
+			"originalname": "False Life",
 			"source": "XPHB",
-			"page": 271,
+			"page": 282,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -7539,15 +7539,15 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a drop of alcohol"
+				"m": "una gota de alcohol"
 			},
 			"duration": [
 				{
@@ -7555,14 +7555,14 @@
 				}
 			],
 			"entries": [
-				"You gain {@dice 2d4 + 4} {@variantrule Temporary Hit Points|XPHB}."
+				"Obtienes {@dice 2d4 + 4} puntos de golpe temporales."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You gain 5 additional {@variantrule Temporary Hit Points|XPHB} for each spell slot level above 1."
+						"Obtienes 5 puntos de golpe temporales adicionales por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -7586,7 +7586,7 @@
 				}
 			],
 			"range": {
-				"type": "cone",
+				"type": "cono",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -7622,10 +7622,10 @@
 			]
 		},
 		{
-			"name": "Feather Fall",
-			"originalname": "",
+			"name": "Caída de pluma",
+			"originalname": "Feather Fall",
 			"source": "XPHB",
-			"page": 271,
+			"page": 250,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -7633,12 +7633,12 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "reaction",
-					"condition": "which you take when you or a creature you can see within 60 feet of you falls"
+					"unit": "reacción",
+					"condition": "que llevas a cabo cuando tú una criatura que puedas ver a 60 pies (18 m) o menos de ti caigáis"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -7646,7 +7646,7 @@
 			},
 			"components": {
 				"v": true,
-				"m": "a small feather or piece of down"
+				"m": "una pluma pequeña o un poco de plumón"
 			},
 			"duration": [
 				{
@@ -7658,7 +7658,7 @@
 				}
 			],
 			"entries": [
-				"Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature."
+				"Elige hasta cinco criaturas dentro del alcance que estén cayendo. La velocidad de descenso de cada objetivo se reduce a 60 pies (18 m) por asalto hasta que el conjuro termine. Si una criatura aterriza antes de que el conjuro termine, no sufrirá daño de la caída y el conjuro terminará para esa criatura."
 			],
 			"areaTags": [
 				"MT"
@@ -7678,7 +7678,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -7746,7 +7746,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -7823,7 +7823,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -7886,9 +7886,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -7930,7 +7930,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -7969,7 +7969,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -8022,7 +8022,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -8088,9 +8088,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -8140,7 +8140,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -8188,7 +8188,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -8243,13 +8243,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -8311,7 +8311,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -8366,7 +8366,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -8432,7 +8432,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -8489,7 +8489,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -8529,10 +8529,10 @@
 			]
 		},
 		{
-			"name": "Fog Cloud",
-			"originalname": "",
+			"name": "Nube de oscurecimiento",
+			"originalname": "Fog Cloud",
 			"source": "XPHB",
-			"page": 276,
+			"page": 314,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -8544,7 +8544,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -8565,14 +8565,14 @@
 				}
 			],
 			"entries": [
-				"You create a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} of fog centered on a point within range. The {@variantrule Sphere [Area of Effect]|XPHB|Sphere} is {@variantrule Heavily Obscured|XPHB}. It lasts for the duration or until a strong wind (such as one created by {@spell Gust of Wind|XPHB}) disperses it."
+				"reas una esfera de niebla de 20 pies (6 m) de radio centrada en un punto dentro del alcance. La esfera está muy oscura y dura hasta que el conjuro termine o hasta que la disperse un viento fuerte (por ejemplo, el que crea {@spell ráfaga de viento|XPHB})."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The fog's radius increases by 20 feet for each spell slot level above 1."
+						"El radio de la niebla aumenta en 20 pies (6 m) por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -8599,7 +8599,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -8663,7 +8663,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 100
@@ -8718,7 +8718,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -8761,9 +8761,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -8819,7 +8819,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -8876,7 +8876,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -8929,7 +8929,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -8990,7 +8990,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -9043,7 +9043,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -9109,7 +9109,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -9155,7 +9155,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -9208,9 +9208,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -9245,7 +9245,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -9299,7 +9299,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -9392,7 +9392,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -9429,11 +9429,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -9486,10 +9486,10 @@
 			]
 		},
 		{
-			"name": "Grease",
-			"originalname": "",
+			"name": "Grasa",
+			"originalname": "Grease",
 			"source": "XPHB",
-			"page": 280,
+			"page": 287,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -9501,7 +9501,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -9510,7 +9510,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a bit of pork rind or butter"
+				"m": "un poco de piel de cerdo o de mantequilla"
 			},
 			"duration": [
 				{
@@ -9522,8 +9522,8 @@
 				}
 			],
 			"entries": [
-				"Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into {@variantrule Difficult Terrain|XPHB} for the duration.",
-				"When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the {@condition Prone|XPHB} condition. A creature that enters the area or ends its turn there must also succeed on that save or fall {@condition Prone|XPHB}."
+				"Una grasa no inflamable cubre una zona cuadrada del suelo de 10 pies (3 m) de lado centrada en un punto dentro del alcance y que la convierte en terreno difícil hasta que termina el conjuro.",
+				"Cuando aparezca la grasa, las criaturas que haya en esa zona deberán superar una tirada de salvación de Destreza o tendrán el estado de {@condition Derribado|XPHB|derribadas}. Una criatura que entre en la zona o termine su turno ahí deberá superar esa tirada de salvación o caerá {@condition Derribado|XPHB|derribada}."
 			],
 			"conditionInflict": [
 				"prone"
@@ -9554,7 +9554,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -9599,7 +9599,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -9651,7 +9651,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -9700,7 +9700,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -9789,7 +9789,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -9831,7 +9831,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -9891,9 +9891,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -9938,14 +9938,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus",
+					"unit": "adicional",
 					"condition": "which you take immediately after hitting a creature with a Ranged weapon"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -9994,7 +9994,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -10161,7 +10161,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 300
@@ -10208,7 +10208,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -10255,7 +10255,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -10308,7 +10308,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -10355,11 +10355,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -10409,7 +10409,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -10470,12 +10470,12 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "reaction",
+					"unit": "reacción",
 					"condition": "which you take in response to taking damage from a creature that you can see within 60 feet of yourself"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -10531,7 +10531,7 @@
 				}
 			],
 			"range": {
-				"type": "cube",
+				"type": "cubo",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -10588,7 +10588,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -10615,7 +10615,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You can target one additional creature for each spell slot level above 1."
+						"Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -10642,11 +10642,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -10708,7 +10708,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -10771,7 +10771,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -10837,7 +10837,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -10891,7 +10891,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -10955,11 +10955,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -11020,7 +11020,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -11056,10 +11056,10 @@
 			]
 		},
 		{
-			"name": "Ice Knife",
-			"originalname": "",
+			"name": "Cuchillo de hielo",
+			"originalname": "Ice Knife",
 			"source": "XPHB",
-			"page": 287,
+			"page": 267,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -11071,7 +11071,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -11079,7 +11079,7 @@
 			},
 			"components": {
 				"s": true,
-				"m": "a drop of water or a piece of ice"
+				"m": "una gota de agua o un trozo de hielo"
 			},
 			"duration": [
 				{
@@ -11087,14 +11087,14 @@
 				}
 			],
 			"entries": [
-				"You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes {@damage 1d10} Piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take {@damage 2d6} Cold damage."
+				"Creas una esquirla de hielo y se la lanzas a una criatura dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo recibe {@damage 1d10} de daño perforante. Acierte o falle, el fragmento explotará. El objetivo y todas las criaturas a 5 pies (1,5 m) menos de él deberán superar una tirada de salvación de Destreza o recibirán {@damage 2d6} de daño de frío."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The Cold damage increases by {@scaledamage 2d6|1-9|1d6} for each spell slot level above 1."
+						"El daño de frío aumenta en {@scaledamage 2d6|1-9|1d6} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -11129,7 +11129,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 300
@@ -11188,7 +11188,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -11236,7 +11236,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -11283,7 +11283,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -11388,7 +11388,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -11442,7 +11442,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -11494,7 +11494,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 300
@@ -11558,7 +11558,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -11614,7 +11614,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -11679,11 +11679,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -11737,7 +11737,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -11778,9 +11778,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -11822,7 +11822,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -11869,7 +11869,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -11917,11 +11917,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -11959,7 +11959,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -12012,7 +12012,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -12049,14 +12049,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus",
+					"unit": "adicional",
 					"condition": "which you take immediately after hitting or missing a target with a ranged attack using a weapon"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -12107,7 +12107,7 @@
 				}
 			],
 			"range": {
-				"type": "line",
+				"type": "línea",
 				"distance": {
 					"type": "pies",
 					"amount": 100
@@ -12164,9 +12164,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -12206,9 +12206,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -12248,9 +12248,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -12293,7 +12293,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -12320,7 +12320,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You can target one additional creature for each spell slot level above 1."
+						"Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -12332,10 +12332,10 @@
 			]
 		},
 		{
-			"name": "Mage Armor",
-			"originalname": "",
+			"name": "Armadura de mago",
+			"originalname": "Mage Armor",
 			"source": "XPHB",
-			"page": 293,
+			"page": 245,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -12347,7 +12347,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -12355,7 +12355,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a piece of cured leather"
+				"m": "un trozo de piel curtida"
 			},
 			"duration": [
 				{
@@ -12367,7 +12367,7 @@
 				}
 			],
 			"entries": [
-				"You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor."
+				"Tocas a una criatura voluntaria que no lleve armadura. Hasta que el conjuro termine, la CA base del objetivo pasa a ser de 13 más su modificador por Destreza. El conjuro termina antes si el objetivo se pone una armadura."
 			],
 			"miscTags": [
 				"MAC"
@@ -12393,7 +12393,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -12438,7 +12438,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -12517,9 +12517,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -12558,10 +12558,10 @@
 			]
 		},
 		{
-			"name": "Magic Missile",
-			"originalname": "",
+			"name": "Proyectil mágico",
+			"originalname": "Magic Missile",
 			"source": "XPHB",
-			"page": 295,
+			"page": 323,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -12573,7 +12573,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -12589,14 +12589,14 @@
 				}
 			],
 			"entries": [
-				"You create three glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals {@damage 1d4 + 1} Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several."
+				"Creas tres dardos brillantes de fuerza mágica y cada uno de ellos golpea a una criatura de tu elección a la que puedas ver dentro del alcance. Cada dardo inflige {@damage 1d4 + 1} de daño de fuerza al objetivo. Todos los dardos aciertan a la vez y puedes dirigirlos para que acierten a una sola criatura o a varias."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The spell creates one more dart for each spell slot level above 1."
+						"El conjuro crea un dardo adicional por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -12628,7 +12628,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -12676,11 +12676,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -12727,7 +12727,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -12786,7 +12786,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -12837,7 +12837,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -12875,11 +12875,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -12929,7 +12929,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -12990,7 +12990,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -13041,7 +13041,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -13090,7 +13090,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -13145,7 +13145,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -13184,7 +13184,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -13227,7 +13227,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "miles",
 					"amount": 1
@@ -13277,7 +13277,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -13322,7 +13322,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -13387,7 +13387,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -13447,7 +13447,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -13504,7 +13504,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "sight"
 				}
@@ -13548,9 +13548,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -13588,9 +13588,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -13630,13 +13630,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -13671,7 +13671,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -13738,7 +13738,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -13801,7 +13801,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -13853,7 +13853,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 300
@@ -13904,7 +13904,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -13973,7 +13973,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -14032,7 +14032,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -14079,7 +14079,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -14128,7 +14128,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -14189,7 +14189,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 300
@@ -14248,7 +14248,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -14316,7 +14316,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -14368,7 +14368,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -14412,7 +14412,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -14457,7 +14457,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -14513,7 +14513,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -14575,7 +14575,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -14622,7 +14622,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -14664,7 +14664,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -14733,7 +14733,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -14782,7 +14782,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -14834,7 +14834,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -14899,7 +14899,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -14950,7 +14950,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -14991,7 +14991,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -15032,7 +15032,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -15075,7 +15075,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -15122,7 +15122,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -15171,7 +15171,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -15255,7 +15255,7 @@
 				}
 			],
 			"range": {
-				"type": "cone",
+				"type": "cono",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -15359,7 +15359,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -15464,13 +15464,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -15539,7 +15539,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -15588,7 +15588,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "miles",
 					"amount": 500
@@ -15640,7 +15640,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -15689,7 +15689,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -15747,7 +15747,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -15794,7 +15794,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -15835,7 +15835,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -15896,7 +15896,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -15943,7 +15943,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -15990,7 +15990,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -16040,10 +16040,10 @@
 			]
 		},
 		{
-			"name": "Ray of Sickness",
-			"originalname": "",
+			"name": "Rayo nauseabundo",
+			"originalname": "Ray of Sickness",
 			"source": "XPHB",
-			"page": 311,
+			"page": 326,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -16055,7 +16055,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -16071,14 +16071,14 @@
 				}
 			],
 			"entries": [
-				"You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes {@damage 2d8} Poison damage and has the {@condition Envenenado|XPHB} condition until the end of your next turn."
+				"Disparas un rayo verduzco hacia una criatura dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si acierta, el objetivo sufrirá {@damage 2d8} de daño de veneno y tendrá el estado de {@condition Envenenado|XPHB} hasta el final de tu siguiente turno."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 2d8|1-9|1d8} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 2d8|1-9|1d8} por cada nivel por encima de 1 que tengael espacio."
 					]
 				}
 			],
@@ -16111,7 +16111,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -16156,7 +16156,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -16256,7 +16256,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -16296,7 +16296,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -16338,7 +16338,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -16398,7 +16398,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 100
@@ -16449,7 +16449,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -16494,7 +16494,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -16534,7 +16534,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -16596,11 +16596,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -16647,7 +16647,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -16701,9 +16701,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -16797,14 +16797,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus",
+					"unit": "adicional",
 					"condition": "which you take immediately after hitting a target with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -16857,9 +16857,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -16896,7 +16896,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -16950,7 +16950,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "unlimited"
 				}
@@ -16987,7 +16987,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -17041,9 +17041,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -17091,7 +17091,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -17134,8 +17134,8 @@
 			]
 		},
 		{
-			"name": "Shield",
-			"originalname": "",
+			"name": "Escudo",
+			"originalname": "Shield",
 			"source": "XPHB",
 			"page": 316,
 			"srd52": true,
@@ -17145,14 +17145,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "reaction",
-					"condition": "which you take when you are hit by an attack roll or targeted by the Magic Missile spell"
+					"unit": "reacción",
+					"condition": "que llevas a cabo cuando te acierta una tirada de ataque o eres el objetivo del conjuro {@spell proyectil mágico|XPHB}"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -17169,7 +17169,7 @@
 				}
 			],
 			"entries": [
-				"An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from {@spell Magic Missile|XPHB}."
+				"Una barrera imperceptible de fuerza mágica te protege. Hasta el principio de tu siguiente turno, tienes un bonificador de +5 a la CA, incluido contra el ataque al que reacciona, y no recibes ningún daño del conjuro {@spell proyectil mágico|XPHB}."
 			],
 			"miscTags": [
 				"MAC"
@@ -17187,11 +17187,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -17234,11 +17234,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -17296,14 +17296,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus",
+					"unit": "adicional",
 					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -17359,7 +17359,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -17423,7 +17423,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -17463,10 +17463,10 @@
 			]
 		},
 		{
-			"name": "Silent Image",
-			"originalname": "",
+			"name": "Imagen silenciosa",
+			"originalname": "Silent Image",
 			"source": "XPHB",
-			"page": 317,
+			"page": 293,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -17478,7 +17478,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -17487,7 +17487,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a bit of fleece"
+				"m": "un poco de vellón"
 			},
 			"duration": [
 				{
@@ -17500,9 +17500,9 @@
 				}
 			],
 			"entries": [
-				"You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot {@variantrule Cube [Area of Effect]|XPHB|Cube}. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.",
-				"As a {@action Magic|XPHB} action, you can cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.",
-				"Physical interaction with the image reveals it to be an illusion, since things can pass through it. A creature that takes a {@action Study|XPHB} action to examine the image can determine that it is an illusion with a successful Intelligence ({@skill Investigation|XPHB}) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image."
+				"Creas una imagen de un objeto, una criatura u otro tipo de fenómeno visible cuyas dimensiones no excedan las de un cubo de 15 pies (4,5 m) de lado. La imagen aparece en un sitio dentro del alcance y se mantiene hasta el final del conjuro. La imagen es solamente visual; no está acompañada de sonido, olor u otros efectos sensoriales.",
+				"Como acción de magia, puedes mover la imagen a cualquier sitio dentro del alcance. Al cambiarla de sitio, puedes alterar su apariencia de forma que sus movimientos parezcan naturales. Por ejemplo, si creas la imagen de una criatura y la mueves, puedes alterarla de forma que parezca estar andando.",
+				"La interacción física con la imagen revela que es una ilusión, ya que las cosas pueden atravesarla. Si una criatura emplea una acción de estudiar para examinar la imagen, puede determinar que es una ilusión si supera una prueba de Inteligencia ({@skill Investigación|XPHB}) contra tu CD de salvación de conjuros. Si la criatura descubre que la imagen es una ilusión, no se dejará engañar por ella."
 			],
 			"abilityCheck": [
 				"intelligence"
@@ -17525,7 +17525,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -17563,7 +17563,7 @@
 		},
 		{
 			"name": "Dormir",
-			"originalname": "Sl/eep",
+			"originalname": "Sleep",
 			"source": "XPHB",
 			"page": 274,
 			"srd52": true,
@@ -17577,7 +17577,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -17629,7 +17629,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -17684,7 +17684,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -17737,7 +17737,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -17810,7 +17810,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 15
@@ -17860,9 +17860,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -17906,7 +17906,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -17962,7 +17962,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -18010,7 +18010,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -18062,7 +18062,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -18116,7 +18116,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 15
@@ -18173,11 +18173,11 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -18234,14 +18234,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus",
+					"unit": "adicional",
 					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -18293,7 +18293,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -18358,7 +18358,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -18410,7 +18410,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -18461,7 +18461,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -18499,7 +18499,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -18551,7 +18551,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "miles",
 					"amount": 1
@@ -18642,7 +18642,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -18693,7 +18693,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -18750,7 +18750,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -18806,7 +18806,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -18863,7 +18863,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -18922,7 +18922,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -18979,7 +18979,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -19035,7 +19035,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -19092,7 +19092,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -19149,7 +19149,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 90
@@ -19208,7 +19208,7 @@
 				}
 			],
 			"range": {
-				"type": "line",
+				"type": "línea",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -19266,7 +19266,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -19314,13 +19314,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus"
+					"unit": "adicional"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -19364,7 +19364,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -19482,7 +19482,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -19526,7 +19526,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 5
@@ -19573,7 +19573,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -19638,7 +19638,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -19706,7 +19706,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "unlimited"
 				}
@@ -19749,7 +19749,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -19904,7 +19904,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -19955,7 +19955,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -20004,7 +20004,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -20085,7 +20085,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -20150,7 +20150,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 5
@@ -20208,14 +20208,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus",
+					"unit": "adicional",
 					"condition": "which you take immediately after hitting a target with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -20253,10 +20253,10 @@
 			]
 		},
 		{
-			"name": "Thunderwave",
-			"originalname": "",
+			"name": "Ola atronadora",
+			"originalname": "Thunderwave",
 			"source": "XPHB",
-			"page": 334,
+			"page": 315,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -20268,7 +20268,7 @@
 				}
 			],
 			"range": {
-				"type": "cube",
+				"type": "cubo",
 				"distance": {
 					"type": "pies",
 					"amount": 15
@@ -20284,15 +20284,15 @@
 				}
 			],
 			"entries": [
-				"You unleash a wave of thunderous energy. Each creature in a 15-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} originating from you makes a Constitution saving throw. On a failed save, a creature takes {@damage 2d8} Thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage only.",
-				"In addition, unsecured objects that are entirely within the {@variantrule Cube [Area of Effect]|XPHB|Cube} are pushed 10 feet away from you, and a thunderous boom is audible within 300 feet."
+				"Desatas una ola de energía atronadora. Todas las criaturas situadas en un cubo de 15 pies (4,5 m) de lado adyacente a ti harán una tirada de salvación de Constitución. Si la fallan, recibirán {@damage 2d8} de daño de trueno y serán empujadas 10 pies (3 m) respecto a ti. Si la superan, solo sufrirán la mitad de ese daño.",
+				"Además, a los objetos sueltos que estén completamente dentro del cubo se les empujará 10 pies (3 m) respecto a ti y la explosión atronadora podrá oírse a 300 pies (90 m) de distancia."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 2d8|1-9|1d8} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 2d8|1-9|1d8} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -20326,9 +20326,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -20358,7 +20358,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -20435,7 +20435,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -20476,7 +20476,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -20519,9 +20519,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -20563,7 +20563,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -20643,7 +20643,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -20690,7 +20690,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -20733,9 +20733,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -20798,7 +20798,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "miles",
 					"amount": 1
@@ -20853,7 +20853,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -20902,9 +20902,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -20963,7 +20963,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -21029,7 +21029,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 150
@@ -21084,7 +21084,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -21145,7 +21145,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -21190,7 +21190,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -21253,7 +21253,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -21309,7 +21309,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -21371,7 +21371,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "toque"
 				}
@@ -21420,7 +21420,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -21467,7 +21467,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -21515,7 +21515,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -21579,7 +21579,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -21632,7 +21632,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 30
@@ -21679,7 +21679,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 120
@@ -21731,9 +21731,9 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -21830,10 +21830,10 @@
 			]
 		},
 		{
-			"name": "Witch Bolt",
-			"originalname": "",
+			"name": "Rayo de hechicería",
+			"originalname": "Witch Bolt",
 			"source": "XPHB",
-			"page": 343,
+			"page": 325,
 			"level": 1,
 			"school": "V",
 			"time": [
@@ -21843,7 +21843,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60
@@ -21852,7 +21852,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a twig struck by lightning"
+				"m": "una ramita golpeada por un rayo"
 			},
 			"duration": [
 				{
@@ -21865,16 +21865,16 @@
 				}
 			],
 			"entries": [
-				"A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes {@damage 2d12} Lightning damage.",
-				"On each of your subsequent turns, you can take a {@variantrule Bonus Action|XPHB} to deal {@damage 1d12} Lightning damage to the target automatically, even if the first attack missed.",
-				"The spell ends if the target is ever outside the spell's range or if it has Total {@variantrule Cover|XPHB} from you."
+				"Un rayo de energía chisporroteante sale disparado hacia una criatura dentro del alcance, formando un arco constante similar a un relámpago entre el objetivo y tú. Haz un ataque de conjuro a distancia contra él. Si acierta, el objetivo sufre {@damage 2d12} de daño de relámpago.",
+				"En cada uno de tus siguientes turnos, puedes emplear una acción adicional para causar {@damage 1d12} de daño de relámpago al objetivo automáticamente, incluso si el primer ataque falla.",
+				"El conjuro termina si en algún momento el objetivo queda fuera del alcance del conjuro o si consigue tener cobertura completa respecto a ti."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The initial damage increases by {@scaledamage 2d12|1-9|1d12} for each spell slot level above 1."
+						"El daño inicial aumenta en {@scaledamage 2d12|1-9|1d12} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -21906,7 +21906,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 5
@@ -21972,7 +21972,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 5
@@ -22005,14 +22005,14 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": "bonus",
+					"unit": "adicional",
 					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
-					"type": "self"
+					"type": "lanzador"
 				}
 			},
 			"components": {
@@ -22066,7 +22066,7 @@
 				}
 			],
 			"range": {
-				"type": "emanation",
+				"type": "emanación",
 				"distance": {
 					"type": "pies",
 					"amount": 10
@@ -22124,7 +22124,7 @@
 				}
 			],
 			"range": {
-				"type": "point",
+				"type": "punto",
 				"distance": {
 					"type": "pies",
 					"amount": 60

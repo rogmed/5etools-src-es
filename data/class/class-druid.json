@@ -54,7 +54,7 @@
 					"light",
 					"medium",
 					{
-						"proficiency": "shield",
+						"proficiency": "escudo",
 						"full": "shields (druids will not wear armor or use shields made of metal)"
 					}
 				],
@@ -145,7 +145,7 @@
 						"light",
 						"medium",
 						{
-							"proficiency": "shield",
+							"proficiency": "escudo",
 							"full": "shields (druids will not wear armor or use shields made of metal)"
 						}
 					]
@@ -586,7 +586,7 @@
 			"startingProficiencies": {
 				"armor": [
 					"light",
-					"shield"
+					"escudo"
 				],
 				"weapons": [
 					"simple"
@@ -659,7 +659,7 @@
 				"proficienciesGained": {
 					"armor": [
 						"light",
-						"shield"
+						"escudo"
 					]
 				}
 			},

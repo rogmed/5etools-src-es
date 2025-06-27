@@ -26,7 +26,7 @@
 				"armor": [
 					"light",
 					"medium",
-					"shield"
+					"escudo"
 				],
 				"weapons": [
 					"simple",
@@ -97,7 +97,7 @@
 				},
 				"proficienciesGained": {
 					"armor": [
-						"shield"
+						"escudo"
 					],
 					"weapons": [
 						"simple",
@@ -333,7 +333,7 @@
 				"armor": [
 					"light",
 					"medium",
-					"shield"
+					"escudo"
 				],
 				"weapons": [
 					"simple",
@@ -388,7 +388,7 @@
 			"multiclassing": {
 				"proficienciesGained": {
 					"armor": [
-						"shield"
+						"escudo"
 					],
 					"weapons": [
 						"martial"

@@ -2086,7 +2086,7 @@
 						"3": {
 							"daily": {
 								"1": [
-									"disguise self"
+									"Disfrazarse"
 								]
 							}
 						},
@@ -4523,8 +4523,8 @@
 					},
 					"innate": {
 						"1": [
-							"detect magic",
-							"disguise self"
+							"Detectar magia",
+							"Disfrazarse"
 						]
 					}
 				}
@@ -4617,8 +4617,8 @@
 						"1": {
 							"rest": {
 								"1": [
-									"detect magic",
-									"disguise self"
+									"Detectar magia",
+									"Disfrazarse"
 								]
 							}
 						}
@@ -4995,7 +4995,7 @@
 						"3": {
 							"daily": {
 								"1": [
-									"shield"
+									"escudo"
 								]
 							}
 						},
@@ -5351,7 +5351,7 @@
 							"nondetection",
 							"blindness/deafness",
 							"blur",
-							"disguise self"
+							"Disfrazarse"
 						]
 					}
 				}
@@ -6956,7 +6956,7 @@
 					},
 					"known": {
 						"1": [
-							"disguise self",
+							"Disfrazarse",
 							"hex"
 						]
 					}
@@ -12170,7 +12170,7 @@
 						"1": {
 							"daily": {
 								"1": [
-									"fog cloud"
+									"Nube de oscurecimiento"
 								]
 							}
 						},
@@ -12300,7 +12300,7 @@
 						"1": {
 							"daily": {
 								"1": [
-									"fog cloud"
+									"Nube de oscurecimiento"
 								]
 							}
 						},
@@ -14168,7 +14168,7 @@
 					"known": {
 						"1": [
 							"alarm",
-							"mage armor"
+							"Armadura de mago"
 						]
 					}
 				}
@@ -14584,7 +14584,7 @@
 					},
 					"expanded": {
 						"s1": [
-							"disguise self",
+							"Disfrazarse",
 							"silent image"
 						],
 						"s2": [
@@ -15392,7 +15392,7 @@
 						"3": {
 							"daily": {
 								"1": [
-									"feather fall"
+									"Caída de pluma"
 								]
 							}
 						},
@@ -15772,7 +15772,7 @@
 						"3": {
 							"daily": {
 								"1": [
-									"shield"
+									"escudo"
 								]
 							}
 						},
@@ -16069,7 +16069,7 @@
 						"1": {
 							"rest": {
 								"1": [
-									"comprehend languages"
+									"Entender idiomas"
 								]
 							}
 						},
@@ -16083,7 +16083,7 @@
 					},
 					"expanded": {
 						"s1": [
-							"comprehend languages",
+							"Entender idiomas",
 							"illusory script"
 						],
 						"s2": [
@@ -16601,7 +16601,7 @@
 				{
 					"innate": {
 						"1": [
-							"detect magic",
+							"Detectar magia",
 							"detect poison and disease"
 						],
 						"3": {
@@ -16725,8 +16725,8 @@
 				{
 					"expanded": {
 						"s1": [
-							"feather fall",
-							"fog cloud"
+							"Caída de pluma",
+							"Nube de oscurecimiento"
 						],
 						"s2": [
 							"gust of wind",
@@ -18003,7 +18003,7 @@
 				{
 					"expanded": {
 						"s1": [
-							"expeditious retreat",
+							"Retirada expeditiva",
 							"salto"
 						],
 						"s2": [
@@ -18137,7 +18137,7 @@
 					"ability": "wis",
 					"known": {
 						"1": [
-							"shield"
+							"escudo"
 						]
 					}
 				}
@@ -19070,7 +19070,7 @@
 						"3": {
 							"daily": {
 								"1": [
-									"disguise self"
+									"Disfrazarse"
 								]
 							}
 						},
@@ -19182,7 +19182,7 @@
 						"3": {
 							"daily": {
 								"1": [
-									"disguise self"
+									"Disfrazarse"
 								]
 							}
 						},

@@ -1472,7 +1472,7 @@
 			"armorProficiencies": [
 				{
 					"light": true,
-					"shield": true
+					"escudo": true
 				}
 			],
 			"entries": [

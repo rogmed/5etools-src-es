@@ -3562,7 +3562,7 @@
 									],
 									"rows": [
 										[
-											"Shield",
+											"Escudo",
 											"10 gp",
 											"+2",
 											"6 lb."
@@ -5913,7 +5913,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Comprehend Languages",
+							"name": "Entender idiomas",
 							"page": 52,
 							"collapsed": true
 						},
@@ -5961,7 +5961,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Detect Magic",
+							"name": "Detectar magia",
 							"page": 52,
 							"collapsed": true
 						},
@@ -5999,7 +5999,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Feather Fall",
+							"name": "Caída de pluma",
 							"page": 53,
 							"collapsed": true
 						},
@@ -6184,7 +6184,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Mage Armor",
+							"name": "Armadura de mago",
 							"page": 56,
 							"collapsed": true
 						},
@@ -6224,7 +6224,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Magic Missile",
+							"name": "Proyectil mágico",
 							"page": 57,
 							"collapsed": true
 						},
@@ -6381,7 +6381,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Shield",
+							"name": "Escudo",
 							"page": 59,
 							"collapsed": true
 						},
@@ -6493,7 +6493,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Thunderwave",
+							"name": "Ola atronadora",
 							"page": 61,
 							"collapsed": true
 						},

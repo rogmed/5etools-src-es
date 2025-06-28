@@ -4101,7 +4101,7 @@
 									],
 									"rows": [
 										[
-											"{@class Barbarian|XPHB}",
+											"{@class Bárbaro|XPHB}",
 											"Battle",
 											"Strength",
 											"Average"
@@ -4193,7 +4193,7 @@
 												{
 													"type": "item",
 													"name": "Fighter:",
-													"entry": "Replace with {@class Barbarian|XPHB}, {@class Monk|XPHB}, {@class Paladin|XPHB}, or {@class Ranger|XPHB}"
+													"entry": "Replace with {@class Bárbaro|XPHB}, {@class Monk|XPHB}, {@class Paladin|XPHB}, or {@class Ranger|XPHB}"
 												},
 												{
 													"type": "item",
@@ -4694,7 +4694,7 @@
 											],
 											"rows": [
 												[
-													"{@class Barbarian|XPHB}",
+													"{@class Bárbaro|XPHB}",
 													"15",
 													"13",
 													"14",
@@ -5499,7 +5499,7 @@
 													],
 													"rows": [
 														[
-															"{@class Barbarian|XPHB}",
+															"{@class Bárbaro|XPHB}",
 															"12 + Con. modifier"
 														],
 														[
@@ -5809,7 +5809,7 @@
 													],
 													"rows": [
 														[
-															"{@class Barbarian|XPHB}",
+															"{@class Bárbaro|XPHB}",
 															"7 + Con. modifier"
 														],
 														[
@@ -6448,7 +6448,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "{@class Barbarian|XPHB}",
+									"name": "{@class Bárbaro|XPHB}",
 									"page": 50,
 									"entries": [
 										"Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the...",
@@ -6456,10 +6456,10 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Barbarian|XPHB|Path of the Berserker|Berserker|XPHB} to unleash raw violence.",
-												"{@class Barbarian|XPHB|Path of the Wild Heart|Wild Heart|XPHB} to manifest kinship with animals.",
-												"{@class Barbarian|XPHB|Path of the World Tree|World Tree|XPHB} to tap into cosmic vitality.",
-												"{@class Barbarian|XPHB|Path of the Zealot|Zealot|XPHB} to rage in union with a god."
+												"{@class Bárbaro|XPHB|Path of the Berserker|Berserker|XPHB} to unleash raw violence.",
+												"{@class Bárbaro|XPHB|Path of the Wild Heart|Wild Heart|XPHB} to manifest kinship with animals.",
+												"{@class Bárbaro|XPHB|Path of the World Tree|World Tree|XPHB} to tap into cosmic vitality.",
+												"{@class Bárbaro|XPHB|Path of the Zealot|Zealot|XPHB} to rage in union with a god."
 											]
 										}
 									],

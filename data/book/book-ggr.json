@@ -1009,14 +1009,14 @@
 						"Your character can have any class that appears in the {@book Player's Handbook|PHB} (or other sources, with your DM's permission). Certain classes and subclasses are especially appropriate for particular guilds, reflecting the traditions and training of those guilds. This section can help you choose a guild if you already know what class you want to play.",
 						{
 							"type": "entries",
-							"name": "Barbarian",
+							"name": "Bárbaro",
 							"page": 23,
 							"entries": [
 								"If you want to play a barbarian, your most likely guild home is the Gruul Clans, but you could also put your rage to work in the wild spectacles of the Cult of Rakdos.",
 								"Gruul barbarians of the Zhur-Taa clan often choose the path of the Totem Warrior and a boar totem spirit. The effects are the same as for a bear spirit.",
 								{
 									"type": "table",
-									"caption": "Barbarian",
+									"caption": "Bárbaro",
 									"colStyles": [
 										"col-6",
 										"col-6"
@@ -1027,23 +1027,23 @@
 									],
 									"rows": [
 										[
-											"{@class barbarian||Path of the Ancestral Guardian|Ancestral Guardian|XGE}*",
+											"{@class bárbaro||Path of the Ancestral Guardian|Ancestral Guardian|XGE}*",
 											"Gruul"
 										],
 										[
-											"{@class barbarian||Path of the Berserker|Berserker}",
+											"{@class bárbaro||Path of the Berserker|Berserker}",
 											"Gruul, {@creature Rakdos|GGR}"
 										],
 										[
-											"{@class barbarian||Path of the Storm Herald|Storm Herald|XGE}*",
+											"{@class bárbaro||Path of the Storm Herald|Storm Herald|XGE}*",
 											"Gruul"
 										],
 										[
-											"{@class barbarian||Path of the Totem Warrior|Totem Warrior}",
+											"{@class bárbaro||Path of the Totem Warrior|Totem Warrior}",
 											"Gruul"
 										],
 										[
-											"{@class barbarian||Path of the Zealot|Zealot|XGE}*",
+											"{@class bárbaro||Path of the Zealot|Zealot|XGE}*",
 											"Boros, {@creature Rakdos|GGR}"
 										]
 									],

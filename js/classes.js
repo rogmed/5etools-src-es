@@ -606,7 +606,7 @@ class ClassesPage extends MixinComponentGlobalState(MixinBaseComponent(MixinProx
 			if (target._ !== ixToLoad) {
 				Hist.lastLoadedId = ixToLoad;
 				const cls = this._dataList[ixToLoad];
-				document.title = `${cls ? cls.name : "Classes"} - 5etools`;
+				document.title = `${cls ? cls.name : "Clases"} - 5etools`;
 				this._updateSelected();
 				target._ = ixToLoad;
 			} else {
@@ -2082,7 +2082,7 @@ class ClassesPage extends MixinComponentGlobalState(MixinBaseComponent(MixinProx
 				if (this._state.isViewActiveScComp) await this._subclassComparisonView.pOpen();
 				else {
 					this._subclassComparisonView.teardown();
-					document.title = `${cls ? cls.name : "Classes"} - 5etools`;
+					document.title = `${cls ? cls.name : "Clases"} - 5etools`;
 				}
 			} finally {
 				this._unlock("sc-comparison");
@@ -2104,7 +2104,7 @@ class ClassesPage extends MixinComponentGlobalState(MixinBaseComponent(MixinProx
 				if (this._state.isViewActiveBook) await this._classBookView.pOpen();
 				else {
 					this._classBookView.teardown();
-					document.title = `${cls ? cls.name : "Classes"} - 5etools`;
+					document.title = `${cls ? cls.name : "Clases"} - 5etools`;
 				}
 			} finally {
 				this._unlock("view-book");

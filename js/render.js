@@ -2129,13 +2129,13 @@ globalThis.Renderer = function () {
 			// DCs /////////////////////////////////////////////////////////////////////////////////////////////
 			case "@dc": {
 				const [dcText, displayText] = Renderer.splitTagByPipe(text);
-				textStack[0] += `DC <span class="rd__dc">${displayText || dcText}</span>`;
+				textStack[0] += `CD <span class="rd__dc">${displayText || dcText}</span>`;
 				break;
 			}
 
 			case "@dcYourSpellSave": {
 				const [displayText] = Renderer.splitTagByPipe(text);
-				textStack[0] += displayText || "your spell save DC";
+				textStack[0] += displayText || "tu CD de salvación de conjuros";
 				break;
 			}
 

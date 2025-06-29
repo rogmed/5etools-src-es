@@ -320,7 +320,7 @@
 	],
 	"subclass": [
 		{
-			"name": "Path of the Berserker",
+			"name": "Senda del berserker",
 			"shortName": "Berserker",
 			"source": "XPHB",
 			"className": "Bárbaro",
@@ -329,16 +329,16 @@
 			"srd52": true,
 			"edition": "one",
 			"subclassFeatures": [
-				"Path of the Berserker|Bárbaro|XPHB|Berserker|XPHB|3",
-				"Mindless Rage|Bárbaro|XPHB|Berserker|XPHB|6",
+				"Senda del berserker|Bárbaro|XPHB|Berserker|XPHB|3",
+				"Furia irracional|Bárbaro|XPHB|Berserker|XPHB|6",
 				"Retaliation|Bárbaro|XPHB|Berserker|XPHB|10",
-				"Intimidating Presence|Bárbaro|XPHB|Berserker|XPHB|14"
+				"Presencia intimidante|Bárbaro|XPHB|Berserker|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
 		{
-			"name": "Path of the Wild Heart",
-			"shortName": "Wild Heart",
+			"name": "Senda del corazón salvaje",
+			"shortName": "Corazón salvaje",
 			"source": "XPHB",
 			"className": "Bárbaro",
 			"classSource": "XPHB",
@@ -362,42 +362,42 @@
 				}
 			],
 			"subclassFeatures": [
-				"Path of the Wild Heart|Bárbaro|XPHB|Wild Heart|XPHB|3",
-				"Aspect of the Wilds|Bárbaro|XPHB|Wild Heart|XPHB|6",
-				"Nature Speaker|Bárbaro|XPHB|Wild Heart|XPHB|10",
-				"Power of the Wilds|Bárbaro|XPHB|Wild Heart|XPHB|14"
+				"Senda del corazón salvaje|Bárbaro|XPHB|Corazón salvaje|XPHB|3",
+				"Aspecto de lo salvaje|Bárbaro|XPHB|Corazón salvaje|XPHB|6",
+				"Hablante de la naturaleza|Bárbaro|XPHB|Corazón salvaje|XPHB|10",
+				"Poder de lo salvaje|Bárbaro|XPHB|Corazón salvaje|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
 		{
-			"name": "Path of the World Tree",
-			"shortName": "World Tree",
+			"name": "Senda del Árbol del Mundo",
+			"shortName": "Árbol del Mundo",
 			"source": "XPHB",
 			"className": "Bárbaro",
 			"classSource": "XPHB",
 			"page": 56,
 			"edition": "one",
 			"subclassFeatures": [
-				"Path of the World Tree|Bárbaro|XPHB|World Tree|XPHB|3",
-				"Branches of the Tree|Bárbaro|XPHB|World Tree|XPHB|6",
-				"Battering Roots|Bárbaro|XPHB|World Tree|XPHB|10",
-				"Travel Along the Tree|Bárbaro|XPHB|World Tree|XPHB|14"
+				"Senda del Árbol del Mundo|Bárbaro|XPHB|Árbol del Mundo|XPHB|3",
+				"Ramas del árbol|Bárbaro|XPHB|Árbol del Mundo|XPHB|6",
+				"Raíces apaleadoras|Bárbaro|XPHB|Árbol del Mundo|XPHB|10",
+				"Travel Along the Tree|Bárbaro|XPHB|Árbol del Mundo|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
 		{
-			"name": "Path of the Zealot",
-			"shortName": "Zealot",
+			"name": "Senda del fanático",
+			"shortName": "Fanático",
 			"source": "XPHB",
 			"className": "Bárbaro",
 			"classSource": "XPHB",
 			"page": 57,
 			"edition": "one",
 			"subclassFeatures": [
-				"Path of the Zealot|Bárbaro|XPHB|Zealot|XPHB|3",
-				"Fanatical Focus|Bárbaro|XPHB|Zealot|XPHB|6",
-				"Zealous Presence|Bárbaro|XPHB|Zealot|XPHB|10",
-				"Rage of the Gods|Bárbaro|XPHB|Zealot|XPHB|14"
+				"Senda del fanático|Bárbaro|XPHB|Fanático|XPHB|3",
+				"Foco fanático|Bárbaro|XPHB|Fanático|XPHB|6",
+				"Presencia ferviente|Bárbaro|XPHB|Fanático|XPHB|10",
+				"Furia de los dioses|Bárbaro|XPHB|Fanático|XPHB|14"
 			],
 			"hasFluffImages": true
 		}
@@ -688,9 +688,8 @@
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"Tu furia te permite seguir luchando incluso tras sufrir heridas graves. Si tus puntos de golpe se reducen a O mientras estas enfurecido, pero no mueres inmediatamente, puedes hacer una tirada de salvación de Constitución con {@dc 10}. Si la superas, tus puntos de golpe pasarán a ser una cantidad igual al doble de tu nivel de bárbaro.",
-				"Your Rage can keep you fighting despite grievous wounds. If you drop to 0 {@variantrule Hit Points|XPHB} while your Rage is active and don't die outright, you can make a {@dc 10} Constitution saving throw. If you succeed, your {@variantrule Hit Points|XPHB} instead change to a number equal to twice your Barbarian level.",
-				"Each time you use this feature after the first, the DC increases by 5. When you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}, the DC resets to 10."
+				"Tu furia te permite seguir luchando incluso tras sufrir heridas graves. Si tus puntos de golpe se reducen a 0 mientras estas enfurecido, pero no mueres inmediatamente, puedes hacer una tirada de salvación de Constitución con {@dc 10}. Si la superas, tus puntos de golpe pasarán a ser una cantidad igual al doble de tu nivel de bárbaro.",
+				"Siempre que uses este rasgo después de la primera vez, la CD aumenta en 5. Tras finalizar un descanso corto o largo, la CD vuelve a ser 10."
 			]
 		},
 		{
@@ -716,22 +715,22 @@
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
-				"You have honed new ways to attack furiously. The following effects are now among your Golpe brutal options.",
+				"Has perfeccionado tus formas de atacar con fiereza. Entre las opciones de Golpe brutal se encuentran ahora los siguientes efectos:",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Staggering Blow",
+							"name": "Golpe abrumador",
 							"entries": [
-								"The target has {@variantrule Disadvantage|XPHB} on the next saving throw it makes, and it can't make {@action Opportunity Attack|XPHB|Opportunity Attacks} until the start of your next turn."
+								"El objetivo tiene desventaja en la siguiente tirada de salvación que haga y no puede llevar a cabo ataques de oportunidad hasta el principio de tu siguiente turno."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Sundering Blow",
+							"name": "Golpe desgarrador",
 							"entries": [
-								"Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus."
+								"Antes del principio de tu siguiente turno, la próxima tirada de ataque realizada por otra criatura contra el objetivo obtiene un bonificador de +5. Una tirada de ataque puede obtener solo un bonificador de un golpe desgarrador."
 							]
 						}
 					]
@@ -761,8 +760,8 @@
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"When you roll {@variantrule Initiative|XPHB}, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a {@variantrule Long Rest|XPHB}.",
-				"In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the {@condition Inconsciente|XPHB} condition (not just the {@condition Incapacitated|XPHB} condition) or don Heavy armor."
+				"Cuando tires iniciativa, puedes recuperar todos los usos gastados de la furia. Tras recuperar los usos de la furia de esta manera, no podrás volver a hacerlo hasta que finalices un descanso largo.",
+				"Además, tu furia es tan intensa que ahora dura 10 minutos sin necesidad de hacer nada para prolongarla de un asalto a otro. Tu furia termina antes si recibes el estado de {@condition inconsciente|XPHB} (no solo el de {@condition Incapacitado|XPHB}) o te pones una armadura pesada."
 			]
 		},
 		{
@@ -788,7 +787,7 @@
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"The extra damage of your Golpe brutal increases to {@damage 2d10}. In addition, you can use two different Golpe brutal effects whenever you use your Golpe brutal feature."
+				"El daño adicional de tu Golpe brutal aumenta a {@damage 2d10}. Además, puedes utilizar dos efectos diferentes de Golpe brutal siempre que uses tu rasgo Golpe brutal."
 			]
 		},
 		{
@@ -801,7 +800,7 @@
 			"classSource": "XPHB",
 			"level": 18,
 			"entries": [
-				"If your total for a Strength check or Strength saving throw is less than your Strength score, you can use that score in place of the total."
+				"Si tu resultado en una prueba de Fuerza o una tirada de salvación de Fuerza es inferior a tu puntuación de Fuerza, puedes usar esa puntuación en lugar del resultado."
 			]
 		},
 		{
@@ -814,7 +813,7 @@
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Boon of Irresistible Offense|XPHB} is recommended."
+				"Obtienes una {@filter Dote de Don épico|feats|category=DE} u otra dote de tu elección para la que cumplas las condiciones. Se recomienda {@feat Don del ataque imparable|XPHB}."
 			]
 		},
 		{
@@ -827,15 +826,15 @@
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25."
+				"Encarnas un poder primigenio. Tus puntuaciones de Fuerza y Constitución aumentan en 4, hasta un máximo de 25."
 			]
 		}
 	],
 	"subclassFeature": [
 		{
-			"name": "Path of the Berserker",
+			"name": "Senda del berserker",
 			"source": "XPHB",
-			"page": 54,
+			"page": 55,
 			"srd52": true,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
@@ -843,18 +842,18 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Channel Rage into Violent Fury}",
-				"Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them.",
+				"{@i Canaliza la furia en una violencia indómita}",
+				"Los bárbaros que recorren la senda del berserker ponen su furia principalmente al servicio de la violencia. Su senda se asienta en una rabia sin cortapisas y estos bárbaros se embriagan del caos del combate mientras dejan que su furia se apodere de ellos y los fortalezca.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Frenzy|Bárbaro|XPHB|Berserker|XPHB|3"
+					"subclassFeature": "Frenesí|Bárbaro|XPHB|Berserker|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Frenzy",
+			"name": "Frenesí",
 			"source": "XPHB",
-			"page": 54,
+			"page": 55,
 			"srd52": true,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
@@ -863,13 +862,13 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"If you use Ataque temerario while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage Damage bonus, and add them together. The damage has the same type as the weapon or {@variantrule Unarmed Strike|XPHB} used for the attack."
+				"Si utilizas Ataque temerario mientras estás enfurecido, causarás daño adicional al primer objetivo al que aciertes en tu turno con un ataque basado en la Fuerza. Para determinar el daño adicional, tira una cantidad de d6 igual a tu bonificación de daño por furia y suma los resultados. El daño será del mismo tipo que el del arma o ataque sin armas utilizado para el ataque."
 			]
 		},
 		{
-			"name": "Mindless Rage",
+			"name": "Furia irracional",
 			"source": "XPHB",
-			"page": 54,
+			"page": 55,
 			"srd52": true,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
@@ -878,13 +877,13 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You have {@variantrule Immunity|XPHB} to the {@condition Hechizado|XPHB} and {@condition Asustado|XPHB} conditions while your Rage is active. If you're {@condition Hechizado|XPHB} or {@condition Asustado|XPHB} when you enter your Rage, the condition ends on you."
+				"Tienes inmunidad a los estados de {@condition Asustado|XPHB} y {@condition Hechizado|XPHB} mientras estés enfurecido. Si estás asustado o hechizado cuando te dejes llevar por la furia, el estado terminará para ti."
 			]
 		},
 		{
 			"name": "Retaliation",
 			"source": "XPHB",
-			"page": 54,
+			"page": 55,
 			"srd52": true,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
@@ -893,13 +892,13 @@
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"When you take damage from a creature that is within 5 feet of you, you can take a {@variantrule Reaction|XPHB} to make one melee attack against that creature, using a weapon or an {@variantrule Unarmed Strike|XPHB}."
+				"Cuando recibas daño de una criatura que esté a 5 pies (1,5 m) o menos de ti, puedes llevar a cabo una reacción para hacer un ataque cuerpo a cuerpo contra esa criatura usando un arma o un ataque sin armas."
 			]
 		},
 		{
-			"name": "Intimidating Presence",
+			"name": "Presencia intimidante",
 			"source": "XPHB",
-			"page": 54,
+			"page": 55,
 			"srd52": true,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
@@ -908,210 +907,210 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from you must make a Wisdom saving throw ({@dc 8} plus your Strength modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}). On a failed save, a creature has the {@condition Asustado|XPHB} condition for 1 minute. At the end of each of the {@condition Asustado|XPHB} creature's turns, the creature repeats the save, ending the effect on itself on a success.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB} unless you expend a use of your Rage (no action required) to restore your use of it."
+				"Como acción adicional, puedes sembrar el terror en los demás con tu mera presencia amenazadora y tu poder primigenio. Cuando lo hagas, todas las criaturas de tu elección situadas en una emanación de 30 pies (9 m) originada en ti deberá hacer una tirada de salvación de Sabiduría (CD 8 más tu modificador por Fuerza y tu bonificador por competencia). Si la fallan, tendrán el estado de {@condition Asustado|XPHB} durante 1 minuto. Al final de cada uno de sus turnos, las criaturas {@condition Asustado|XPHB|asustadas} repiten la tirada de salvación y, si tienen éxito, se librarán del efecto.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un uso de tu furia (no requiere acción) para restablecer su uso."
 			]
 		},
 		{
-			"name": "Path of the Wild Heart",
+			"name": "Senda del corazón salvaje",
 			"source": "XPHB",
-			"page": 55,
+			"page": 56,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Heart",
+			"subclassShortName": "Corazón salvaje",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Walk in Community with the Animal World}",
-				"Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.",
+				"{@i Camina en comunión con el mundo animal}",
+				"Los bárbaros que siguen la senda del corazón salvaje sienten afinidad por los animales. Aprenden métodos mágicos de comunicarse con ellos y su furia aumenta su conexión, ya que los imbuye de una fuerza sobrenatural.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Animal Speaker|Bárbaro|XPHB|Wild Heart|XPHB|3"
+					"subclassFeature": "Portavoz de los animales|Bárbaro|XPHB|Corazón salvaje|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Rage of the Wilds|Bárbaro|XPHB|Wild Heart|XPHB|3"
+					"subclassFeature": "Furia de lo salvaje|Bárbaro|XPHB|Corazón salvaje|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Animal Speaker",
+			"name": "Portavoz de los animales",
 			"source": "XPHB",
 			"page": 55,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Heart",
+			"subclassShortName": "Corazón salvaje",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"You can cast the {@spell Beast Sense|XPHB} and {@spell Speak with Animals|XPHB} spells but only as Rituals. Wisdom is your spellcasting ability for them."
+				"Puedes lanzar los conjuros {@spell hablar con los animales|XPHB} y {@spell sentidos de la bestia|XPHB}, pero solo como rituales. La Sabiduría es tu aptitud mágica para lanzarlos."
 			]
 		},
 		{
-			"name": "Rage of the Wilds",
+			"name": "Furia de lo salvaje",
 			"source": "XPHB",
 			"page": 55,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Heart",
+			"subclassShortName": "Corazón salvaje",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Your Rage taps into the primal power of animals. Whenever you activate your Rage, you gain one of the following options of your choice.",
+				"Tu furia se sirve del poder primigenio de los animales. Cuando te enfurezcas, obtendrás una de las siguientes opciones, a tu elección.",
 				{
 					"type": "entries",
-					"name": "Bear",
+					"name": "Águila",
 					"entries": [
-						"While your Rage is active, you have {@variantrule Resistance|XPHB} to every damage type except Force, Necrotic, Psychic, and Radiant."
+						"Cuando te enfurezcas, podrás llevar a cabo las acciones de destrabarse y correr como parte de esa acción adicional. Mientras estés enfurecido, puedes usar una acción adicional para llevar a cabo ambas acciones."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Eagle",
+					"name": "Lobo.",
 					"entries": [
-						"When you activate your Rage, you can take the {@action Disengage|XPHB} and {@action Dash|XPHB} actions as part of that {@variantrule Bonus Action|XPHB}. While your Rage is active, you can take a {@variantrule Bonus Action|XPHB} to take both of those actions."
+						"Mientras estés enfurecido, tus aliados tendrán ventaja en las tiradas de ataque contra cualquiera de tus enemigos que se encuentre a 5 pies (1,5) m o menos de ti."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Wolf",
+					"name": "Oso.",
 					"entries": [
-						"While your Rage is active, your allies have {@variantrule Advantage|XPHB} on attack rolls against any enemy of yours within 5 feet of you."
+						"Mientras estés enfurecido, tendrás resistencia a todos los tipos de daño salvo de fuerza, necrótico, psíquico y radiante."
 					]
 				}
 			]
 		},
 		{
-			"name": "Aspect of the Wilds",
+			"name": "Aspecto de lo salvaje",
 			"source": "XPHB",
 			"page": 55,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Heart",
+			"subclassShortName": "Corazón salvaje",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You gain one of the following options of your choice. Whenever you finish a {@variantrule Long Rest|XPHB}, you can change your choice.",
+				"Obtienes una de las siguientes opciones, a tu elección. Tras finalizar un descanso largo, puedes cambiar de opción.",
 				{
 					"type": "entries",
-					"name": "Owl",
+					"name": "Búho",
 					"entries": [
-						"You have {@sense Darkvision|XPHB} with a range of 60 feet. If you already have {@sense Darkvision|XPHB}, its range increases by 60 feet."
+						"Tienes visión en la oscuridad hasta 60 pies (18 m). Si ya posees visión en la oscuridad, su alcance aumenta en 60 pies (18 m)."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Panther",
+					"name": "Pantera",
 					"entries": [
-						"You have a {@variantrule Climb Speed|XPHB} equal to your {@variantrule Speed|XPHB}."
+						"Tienes una velocidad trepando igual a tu velocidad."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Salmon",
 					"entries": [
-						"You have a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Speed|XPHB}."
+						"Tienes una velocidad nadando igual a tu velocidad."
 					]
 				}
 			]
 		},
 		{
-			"name": "Nature Speaker",
+			"name": "Hablante de la naturaleza",
 			"source": "XPHB",
 			"page": 55,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Heart",
+			"subclassShortName": "Corazón salvaje",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"You can cast the {@spell Commune with Nature|XPHB} spell but only as a {@variantrule Ritual|XPHB}. Wisdom is your spellcasting ability for it."
+				"Puedes lanzar el conjuro {@spell comunión con la naturaleza|XPHB}, pero solo como ritual. La Sabiduría es tu aptitud mágica para lanzarlo."
 			]
 		},
 		{
-			"name": "Power of the Wilds",
+			"name": "Poder de lo salvaje",
 			"source": "XPHB",
 			"page": 55,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Wild Heart",
+			"subclassShortName": "Corazón salvaje",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Whenever you activate your Rage, you gain one of the following options of your choice.",
+				"Cuando te enfurezcas, obtendrás una de las siguientes opciones, a tu elección.",
 				{
 					"type": "entries",
-					"name": "Falcon",
+					"name": "Carnero",
 					"entries": [
-						"While your Rage is active, you have a {@variantrule Fly Speed|XPHB} equal to your {@variantrule Speed|XPHB} if you aren't wearing any armor."
+						"Mientras estés enfurecido, podrás hacer que una criatura Grande o más pequeña sufra el estado de {@condition Derribado|XPHB|derribada} si la aciertas con un ataque cuerpo a cuerpo."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Lion",
+					"name": "Halcón",
 					"entries": [
-						"While your Rage is active, any of your enemies within 5 feet of you have {@variantrule Disadvantage|XPHB} on attack rolls against targets other than you or another Barbarian who has this option active."
+						"Mientras estés enfurecido, tendrás una velocidad volando igual a tu velocidad si no llevas ninguna armadura."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Ram",
+					"name": "León",
 					"entries": [
-						"While your Rage is active, you can cause a Large or smaller creature to have the {@condition Prone|XPHB} condition when you hit it with a melee attack."
+						"Mientras estés enfurecido, cualquier enemigo que esté a 5 pies (1,5 m) o menos de ti tendrá desventaja en las tiradas de ataque contra otros objetivos que no seáis tú u otro bárbaro que tenga esta opción activa."
 					]
 				}
 			]
 		},
 		{
-			"name": "Path of the World Tree",
+			"name": "Senda del Árbol del Mundo",
 			"source": "XPHB",
 			"page": 56,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "World Tree",
+			"subclassShortName": "Árbol del Mundo",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Trace the Roots and Branches of the Multiverse}",
-				"Barbarians who follow the Path of the World Tree connect with the cosmic tree Yggdrasil through their Rage. This tree grows among the Outer Planes, connecting them to each other and the Material Plane. These Barbarians draw on the tree's magic for vitality and as a means of dimensional travel.",
+				"{@i Localiza las raíces y las ramas del multiverso}",
+				"Los bárbaros que siguen la senda del Árbol del Mundo conectan con el árbol cósmico Yggdrasil a través de su furia. Este árbol crece entre los Planos Exteriores, a los que vincula entre sí además de con el Plano Material. Estos bárbaros recurren a la magia del árbol para obtener vitalidad y como medio de transporte dimensional.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Vitality of the Tree|Bárbaro|XPHB|World Tree|XPHB|3"
+					"subclassFeature": "Vitalidad del árbol|Bárbaro|XPHB|Árbol del Mundo|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Vitality of the Tree",
+			"name": "Vitalidad del árbol",
 			"source": "XPHB",
 			"page": 56,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "World Tree",
+			"subclassShortName": "Árbol del Mundo",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Your Rage taps into the life force of the World Tree. You gain the following benefits.",
+				"Tu furia se nutre de la fuerza vital del Árbol del Mundo. Obtienes los siguientes beneficios:",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Vitality Surge",
+							"name": "Oleada de vitalidad",
 							"entries": [
-								"When you activate your Rage, you gain a number of {@variantrule Temporary Hit Points|XPHB} equal to your Barbarian level."
+								"Cuando te enfurezcas, obtendrás una cantidad de puntos de golpe temporales igual a tu nivel de bárbaro."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Life-Giving Force",
+							"name": "Fuerza revitalizante",
 							"entries": [
-								"At the start of each of your turns while your Rage is active, you can choose another creature within 10 feet of yourself to gain {@variantrule Temporary Hit Points|XPHB}. To determine the number of {@variantrule Temporary Hit Points|XPHB}, roll a number of d6s equal to your Rage Damage bonus, and add them together. If any of these {@variantrule Temporary Hit Points|XPHB} remain when your Rage ends, they vanish."
+								"Al principio de cada uno de tus turnos mientras estés enfurecido, puedes elegir a otra criatura a 10 pies (3 m) o menos de ti para que obtenga puntos de golpe temporales. Para determinarlos, tira una cantidad de d6 igual a tu bonificación de daño por furia y suma los resultados. Si algunos de estos puntos de golpe temporales permanecen cuando dejes de estar enfurecido, se desvanecerán."
 							]
 						}
 					]
@@ -1119,31 +1118,32 @@
 			]
 		},
 		{
-			"name": "Branches of the Tree",
+			"name": "Ramas del árbol",
 			"source": "XPHB",
 			"page": 56,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "World Tree",
+			"subclassShortName": "Árbol del Mundo",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Whenever a creature you can see starts its turn within 30 feet of you while your Rage is active, you can take a {@variantrule Reaction|XPHB} to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw ({@dc 8} plus your Strength modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its {@variantrule Speed|XPHB} to 0 until the end of the current turn."
+				"Cuando una criatura que puedas ver comience su turno a 30 pies (9 m) o menos de ti mientras estás enfurecido, podrás llevar a cabo una reacción para invocar unas ramas espectrales del Árbol del Mundo a su alrededor. El objetivo deberá superar una tirada de salvación de Fuerza (CD 8 más tu modificador por Fuerza y tu bonificador por competencia) o se teletransportará a un espacio sin ocupar que puedas ver a 5 pies (1,5 m) de ti o al espacio sin ocupar más cercano que puedas ver. Después de que el objetivo se teletransporte, puedes reducir su velocidad a 0 hasta el final del turno actual."
 			]
 		},
 		{
-			"name": "Battering Roots",
+			"name": "Raíces apaleadoras",
 			"source": "XPHB",
 			"page": 56,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "World Tree",
+			"subclassShortName": "Árbol del Mundo",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"During your turn, your reach is 10 feet greater with any {@filter Melee weapon that has the Heavy or Versatile property|items|type=melee weapon|property=heavy;versatile}, as tendrils of the World Tree extend from you. When you hit with such a weapon on your turn, you can activate the {@itemMastery Push|XPHB} or {@itemMastery Topple|XPHB} mastery property in addition to a different mastery property you're using with that weapon."
+				"Durante tu turno, tu alcance es 10 pies (3 m) superior con cualquier arma cuerpo a cuerpo que tenga la propiedad de pesada o versátil, ya que los zarcillos del Árbol del Mundo se prolongan desde tu cuerpo. Cuando aciertes con un arma así en tu turno, podrás activar la propiedad de maestría de derribar o empujar, además de otra propiedad de maestría diferente que utilices con ese arma.",
+				"During your turn, your reach is 10 feet greater with any {@filter Melee weapon that has the Heavy or Versatile property|items|type=melee weapon|property=heavy;versatile}, as tendrils of the Árbol del Mundo extend from you. When you hit with such a weapon on your turn, you can activate the {@itemMastery Push|XPHB} or {@itemMastery Topple|XPHB} mastery property in addition to a different mastery property you're using with that weapon."
 			]
 		},
 		{
@@ -1152,128 +1152,128 @@
 			"page": 56,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "World Tree",
+			"subclassShortName": "Árbol del Mundo",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"When you activate your Rage and as a {@variantrule Bonus Action|XPHB} while your Rage is active, you can teleport up to 60 feet to an unoccupied space you can see.",
-				"In addition, once per Rage, you can increase the range of that teleport to 150 feet. When you do so, you can also bring up to six willing creatures who are within 10 feet of you. Each creature teleports to an unoccupied space of your choice within 10 feet of your destination space."
+				"Cuando te enfureces y como acción adicional mientras estés enfurecido, puedes teletransportarte hasta 60 pies (18 m) a un espacio sin ocupar que puedas ver.",
+				"Asimismo, una vez por furia, puedes aumentar el alcance del teletransporte a 150 pies (45 m). Si lo haces, también puedes transportar hasta seis criaturas voluntarias que estén a 10 pies (3 m) o menos de ti. Cada criatura se teletransportará a un espacio sin ocupar de tu elección a 10 pies (3 m) o menos de tu espacio de destino."
 			]
 		},
 		{
-			"name": "Path of the Zealot",
+			"name": "Senda del fanático",
 			"source": "XPHB",
 			"page": 57,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Zealot",
+			"subclassShortName": "Fanático",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Rage in Ecstatic Union with a God}",
-				"Barbarians who walk the Path of the Zealot receive boons from a god or pantheon. These Barbarians experience their Rage as an ecstatic episode of divine union that infuses them with power. They are often allies to the priests and other followers of their god or pantheon.",
+				"{@i Expresa tu furia en una eufórica unión con una divinidad}",
+				"Los bárbaros que siguen la senda del fanático reciben beneficios de un dios o panteón. Estos bárbaros experimentan su furia como un episodio eufórico de unión divina que les imbuye de poder. Habitualmente, se alían con sacerdotes y otros seguidores de su dios",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Divine Fury|Bárbaro|XPHB|Zealot|XPHB|3"
+					"subclassFeature": "Furia divina|Bárbaro|XPHB|Fanático|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Warrior of the Gods|Bárbaro|XPHB|Zealot|XPHB|3"
+					"subclassFeature": "Guerrero de los dioses|Bárbaro|XPHB|Fanático|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Divine Fury",
+			"name": "Furia divina",
 			"source": "XPHB",
 			"page": 57,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Zealot",
+			"subclassShortName": "Fanático",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can channel divine power into your strikes. On each of your turns while your Rage is active, the first creature you hit with a weapon or an {@variantrule Unarmed Strike|XPHB} takes extra damage equal to {@dice 1d6} plus half your Barbarian level (round down). The extra damage is Necrotic or Radiant; you choose the type each time you deal the damage."
+				"Puedes canalizar el poder divino hacia tus ataques. En cada uno de tus turnos mientras estés enfurecido, la primera criatura a la que aciertes con un arma o un ataque sin armas sufrirá una cantidad de daño adicional igual a {@dice 1d6} más la mitad de tu nivel de bárbaro (redondeando hacia abajo). El daño adicional es necrótico o radiante, que eliges cada vez que lo causas."
 			]
 		},
 		{
-			"name": "Warrior of the Gods",
+			"name": "Guerrero de los dioses",
 			"source": "XPHB",
 			"page": 57,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Zealot",
+			"subclassShortName": "Fanático",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"A divine entity helps ensure you can continue the fight. You have a pool of four d12s that you can spend to heal yourself. As a {@variantrule Bonus Action|XPHB}, you can expend dice from the pool, roll them, and regain a number of {@variantrule Hit Points|XPHB} equal to the roll's total.",
-				"Your pool regains all expended dice when you finish a {@variantrule Long Rest|XPHB}.",
-				"The pool's maximum number of dice increases by one when you reach Barbarian levels 6 (5 dice), 12 (6 dice), and 17 (7 dice)."
+				"Una entidad divina ayuda a garantizar que continúes la batalla. Cuentas con una reserva de cuatro d12 que puedes gastar para curarte. Como acción adicional, puedes gastar dados de la reserva, tirarlos y recuperar una cantidad de puntos de golpe igual al resultado total de la tirada.",
+				"Tu reserva recupera todos los dados gastados tras finalizar un descanso largo.",
+				"El número máximo de dados de la reserva aumenta en uno cuando alcanzas los niveles 6 (5 dados), 12 (6 dados) y 17 (7 dados) de bárbaro."
 			]
 		},
 		{
-			"name": "Fanatical Focus",
+			"name": "Foco fanático",
 			"source": "XPHB",
 			"page": 57,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Zealot",
+			"subclassShortName": "Fanático",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Once per active Rage, if you fail a saving throw, you can reroll it with a bonus equal to your Rage Damage bonus, and you must use the new roll."
+				"Una vez por furia, si fallas una tirada de salvación, podrás repetirla con un bonificador igual a tu bonificación de daño por furia y deberás utilizar el nuevo resultado."
 			]
 		},
 		{
-			"name": "Zealous Presence",
+			"name": "Presencia ferviente",
 			"source": "XPHB",
 			"page": 57,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Zealot",
+			"subclassShortName": "Fanático",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you gain {@variantrule Advantage|XPHB} on attack rolls and saving throws until the start of your next turn.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB} unless you expend a use of your Rage (no action required) to restore your use of it."
+				"Como acción adicional, profieres un grito de guerra imbuido de energía divina. Hasta diez criaturas de tu elección que estén a 60 pies (18 m) o menos de ti obtendrán ventaja en las tiradas de ataque y tiradas de salvación hasta el principio de tu siguiente turno.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un uso de tu furia (no requiere acción) para restablecersu uso."
 			]
 		},
 		{
-			"name": "Rage of the Gods",
+			"name": "Furia de los dioses",
 			"source": "XPHB",
 			"page": 57,
 			"className": "Bárbaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Zealot",
+			"subclassShortName": "Fanático",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"When you activate your Rage, you can assume the form of a divine warrior. This form lasts for 1 minute or until you drop to 0 {@variantrule Hit Points|XPHB}. Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}.",
-				"While in this form, you gain the benefits below.",
+				"Cuando te enfureces, puedes adoptar la forma de un guerrero divino. Esta forma dura 1 minuto o hasta que tus puntos de golpe se reduzcan a 0. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo.",
+				"Mientras tengas esta forma, obtendrás los siguientes beneficios:",
 				{
 					"type": "entries",
-					"name": "Flight",
+					"name": "Resistencia",
 					"entries": [
-						"You have a {@variantrule Fly Speed|XPHB} equal to your {@variantrule Speed|XPHB} and can hover."
+						"Tienes resistencia al daño necrótico, psíquico y radiante."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Resistance",
+					"name": "Revitalización",
 					"entries": [
-						"You have {@variantrule Resistance|XPHB} to Necrotic, Psychic, and Radiant damage."
+						"Cuando los puntos de golpe de una criatura que esté a 30 pies (9 m) o menos de ti fueran a reducirse a 0, puedes llevar a cabo una reacción para gastar un uso de tu furia y hacer que los puntos de golpe del objetivo cambien a una cantidad igual a tu nivel de bárbaro."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Revivification",
+					"name": "Vuelo",
 					"entries": [
-						"When a creature within 30 feet of you would drop to 0 {@variantrule Hit Points|XPHB}, you can take a {@variantrule Reaction|XPHB} to expend a use of your Rage to instead change the target's {@variantrule Hit Points|XPHB} to a number equal to your Barbarian level."
+						"Tienes una velocidad volando igual a tu velocidad y puedes levitar."
 					]
 				}
 			]

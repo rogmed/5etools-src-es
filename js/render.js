@@ -6892,7 +6892,7 @@ Renderer.class = class {
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
 
 		if (styleHint === "classic" || !ent.level || !ent.name) return ent;
-		return {_displayName: `Level ${ent.level}: ${ent._displayName || ent.name}`, ...ent};
+		return {_displayName: `Nivel ${ent.level}: ${ent._displayName || ent.name}`, ...ent};
 	}
 
 	static getDisplayNamedSubclassFeatureEntry (ent, {styleHint = null, isEditionMismatch = false} = {}) {
@@ -6909,7 +6909,7 @@ Renderer.class = class {
 			.map(ent => {
 				if (ent.type !== "entries" || !ent.name) return ent;
 				if (!ent.level) return ent;
-				return {_displayName: `Level ${ent.level}: ${ent._displayName || ent.name}`, ...ent};
+				return {_displayName: `Nivel ${ent.level}: ${ent._displayName || ent.name}`, ...ent};
 			});
 		return cpy;
 	}

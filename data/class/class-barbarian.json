@@ -525,7 +525,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Barbarian subclass of your choice. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass's features that are of your Barbarian level or lower."
+				"Consigues una subclase de bárbaro de tu elección. Una subclase es una especialización que te proporciona rasgos cuando alcanzas ciertos niveles de bárbaro. De aquí en adelante, obtienes todos los rasgos de tu subclase que sean de tu nivel de bárbaro e inferiores."
 			]
 		},
 		{
@@ -538,8 +538,8 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.",
-				"In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: {@skill Acrobatics|XPHB}, {@skill Intimidation|XPHB}, {@skill Perception|XPHB}, {@skill Stealth|XPHB}, or {@skill Survival|XPHB}. When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses."
+				"Ganas competencia en otra habilidad de tu elección de la lista de habilidades disponibles para los bárbaros en el nivel 1.",
+				"Además, mientras estés enfurecido, puedes canalizar el poder primigenio cuando intentes determinadas tareas. Siempre que hagas una prueba de característica con una de las siguientes habilidades, podrás hacerla como una prueba de Fuerza incluso si normalmente utiliza otra característica: {@skill Acrobacias|XPHB}, {@skill Intimidación|XPHB}, {@skill Percepción|XPHB}, {@skill Sigilo|XPHB} o {@skill Supervivencia|XPHB}. Cuando utilizas esta capacidad, tu Fuerza representa el poder primigenio que fluye por ti y agudiza tu agilidad, porte y sentidos."
 			]
 		},
 		{
@@ -552,7 +552,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Mejora de característica|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. Vuelves a obtener este rasgo en los niveles de bárbaro 8, 12 y 16."
 			]
 		},
 		{
@@ -565,7 +565,7 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"You can attack twice instead of once whenever you take the {@action Attack|XPHB} action on your turn."
+				"Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer dos ataques en lugar de uno."
 			]
 		},
 		{
@@ -578,7 +578,7 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"Your speed increases by 10 feet while you aren't wearing Heavy armor."
+				"Tu velocidad aumenta en 10 pies (3 m) si no llevas armadura pesada."
 			]
 		},
 		{
@@ -591,7 +591,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain a feature from your Barbarian subclass."
+				"Ganas un rasgo de tu subclase de bárbaro."
 			]
 		},
 		{
@@ -604,7 +604,7 @@
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"Your instincts are so honed that you have {@variantrule Advantage|XPHB} on {@variantrule Initiative|XPHB} rolls."
+				"Tus instintos están tan afinados que tienes ventaja en las tiradas de iniciativa."
 			]
 		},
 		{
@@ -617,7 +617,7 @@
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"As part of the {@variantrule Bonus Action|XPHB} you take to enter your Rage, you can move up to half your {@variantrule Speed|XPHB}."
+				"Como parte de la acción adicional para dejarte llevar por la furia, puedes moverte hasta la mitad de tu velocidad."
 			]
 		},
 		{
@@ -630,7 +630,7 @@
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
-				"You gain the {@feat Mejora de característica|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
@@ -643,22 +643,22 @@
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"If you use Ataque temerario, you can forgo any {@variantrule Advantage|XPHB} on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have {@variantrule Disadvantage|XPHB}. If the chosen attack roll hits, the target takes an extra {@damage 1d10} damage of the same type dealt by the weapon or {@variantrule Unarmed Strike|XPHB}, and you can cause one Golpe brutal effect of your choice. You have the following effect options.",
+				"Si utilizas Ataque temerario, puedes renunciar a cualquier ventaja en una tirada de ataque de tu elección basada en la Fuerza en tu turno. La tirada de ataque elegida no debe tener desventaja. Si la tirada de ataque elegida acierta, el objetivo sufre {@damage 1d10} de daño adicional del mismo tipo que inflija el arma o el ataque sin armas y puedes causar un efecto de Golpe brutal de tu elección. Tienes las siguientes opciones de efectos.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Forceful Blow",
+							"name": "Golpe enérgico",
 							"entries": [
-								"The target is pushed 15 feet straight away from you. You can then move up to half your {@variantrule Speed|XPHB} straight toward the target without provoking {@action Opportunity Attack|XPHB|Opportunity Attacks}."
+								"El objetivo es empujado 15 pies (4,5 m) respecto a ti en línea recta. Luego puedes moverte hasta la mitad de tu velocidad directamente hacia el objetivo sin provocar ataques de oportunidad."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Hamstring Blow",
+							"name": "Golpe ralentizador",
 							"entries": [
-								"The target's {@variantrule Speed|XPHB} is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time\u2014the most recent one."
+								"La velocidad del objetivo se reduce en 15 pies (4,5 m) hasta el principio de tu siguiente turno. Un objetivo solo puede sufrir un golpe ralentizador cada vez: el más reciente."
 							]
 						}
 					]
@@ -675,7 +675,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You gain a feature from your Barbarian subclass."
+				"Ganas un rasgo de tu subclase de bárbaro."
 			]
 		},
 		{
@@ -688,6 +688,7 @@
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
+				"Tu furia te permite seguir luchando incluso tras sufrir heridas graves. Si tus puntos de golpe se reducen a O mientras estas enfurecido, pero no mueres inmediatamente, puedes hacer una tirada de salvación de Constitución con {@dc 10}. Si la superas, tus puntos de golpe pasarán a ser una cantidad igual al doble de tu nivel de bárbaro.",
 				"Your Rage can keep you fighting despite grievous wounds. If you drop to 0 {@variantrule Hit Points|XPHB} while your Rage is active and don't die outright, you can make a {@dc 10} Constitution saving throw. If you succeed, your {@variantrule Hit Points|XPHB} instead change to a number equal to twice your Barbarian level.",
 				"Each time you use this feature after the first, the DC increases by 5. When you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}, the DC resets to 10."
 			]
@@ -702,7 +703,7 @@
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
-				"You gain the {@feat Mejora de característica|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
@@ -747,7 +748,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You gain a feature from your Barbarian subclass."
+				"Ganas un rasgo de tu subclase de bárbaro."
 			]
 		},
 		{
@@ -774,7 +775,7 @@
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
-				"You gain the {@feat Mejora de característica|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{

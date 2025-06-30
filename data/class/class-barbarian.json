@@ -381,7 +381,7 @@
 				"Senda del Árbol del Mundo|Bárbaro|XPHB|Árbol del Mundo|XPHB|3",
 				"Ramas del árbol|Bárbaro|XPHB|Árbol del Mundo|XPHB|6",
 				"Raíces apaleadoras|Bárbaro|XPHB|Árbol del Mundo|XPHB|10",
-				"Travel Along the Tree|Bárbaro|XPHB|Árbol del Mundo|XPHB|14"
+				"Viajar por el árbol|Bárbaro|XPHB|Árbol del Mundo|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
@@ -1142,12 +1142,11 @@
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"Durante tu turno, tu alcance es 10 pies (3 m) superior con cualquier arma cuerpo a cuerpo que tenga la propiedad de pesada o versátil, ya que los zarcillos del Árbol del Mundo se prolongan desde tu cuerpo. Cuando aciertes con un arma así en tu turno, podrás activar la propiedad de maestría de derribar o empujar, además de otra propiedad de maestría diferente que utilices con ese arma.",
-				"During your turn, your reach is 10 feet greater with any {@filter Melee weapon that has the Heavy or Versatile property|items|type=melee weapon|property=heavy;versatile}, as tendrils of the Árbol del Mundo extend from you. When you hit with such a weapon on your turn, you can activate the {@itemMastery Push|XPHB} or {@itemMastery Topple|XPHB} mastery property in addition to a different mastery property you're using with that weapon."
+				"Durante tu turno, tu alcance es 10 pies (3 m) superior con cualquier arma cuerpo a cuerpo que tenga la propiedad de pesada o versátil, ya que los zarcillos del Árbol del Mundo se prolongan desde tu cuerpo. Cuando aciertes con un arma así en tu turno, podrás activar la propiedad de maestría de {@itemMastery Derribar|XPHB} o {@itemMastery Empujar|XPHB}, además de otra propiedad de maestría diferente que utilices con ese arma."
 			]
 		},
 		{
-			"name": "Travel Along the Tree",
+			"name": "Viajar por el árbol",
 			"source": "XPHB",
 			"page": 56,
 			"className": "Bárbaro",

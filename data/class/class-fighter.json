@@ -2344,7 +2344,7 @@
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"When you attack with a weapon whose mastery property you can use, you can replace that property with the {@itemMastery Push|XPHB}, {@itemMastery Sap|XPHB}, or {@itemMastery Slow|XPHB} property for that attack."
+				"When you attack with a weapon whose mastery property you can use, you can replace that property with the {@itemMastery Empujar|XPHB}, {@itemMastery Debilitar|XPHB}, or {@itemMastery Ralentizar|XPHB} property for that attack."
 			]
 		},
 		{

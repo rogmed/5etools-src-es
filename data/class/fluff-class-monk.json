@@ -10,10 +10,10 @@
 					"source": "XPHB",
 					"page": 149,
 					"entries": [
-						"Monks use rigorous combat training and mental discipline to align themselves with the multiverse and focus their internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler manifestation of defense and speed, this power infuses all that a Monk does.",
-						"Monks focus their internal power to create extraordinary, even supernatural, effects. They channel uncanny speed and strength into their attacks, with or without the use of weapons. In a Monk's hands, even the most basic weapons can become sophisticated implements of combat mastery.",
-						"Many Monks find that a structured life of ascetic withdrawal helps them cultivate the physical and mental focus they need to harness their power. Other Monks believe that immersing themselves in the vibrant confusion of life helps to fuel their determination and discipline.",
-						"Monks generally view adventures as tests of their physical and mental development. They are driven by a desire to accomplish a greater mission than merely slaying monsters and plundering treasure; they strive to turn themselves into living weapons."
+						"Los monjes siguen un entrenamiento marcial riguroso y una férrea disciplina mental para alinearse con el multiverso y concentrar sus reservas internas de poder. Cada monje conceptualiza este poder de diversas formas: como un aliento, como energía, como fuerza vital, como una esencia o como su propio ser, por ejemplo. Este poder impregna todo lo que hace un monje, ya sea canalizándolo como una impresionante muestra de habilidad marcial o como una manifestación más sutil de su velocidad y capacidades defensivas.",
+						"Los monjes utilizan su poder interno para crear efectos extraordinarios, incluso sobrenaturales. Pueden dotar sus ataques de una velocidad y fuerza asombrosas, independientemente de si usan armas o no. En manos de un monje, incluso las armas más básicas pueden convertirse en sofisticados instrumentos de combate.",
+						"Muchos monjes consideran que una vida estructurada de retiro ascético les ayuda a cultivar la concentración física y mental que necesitan para controlar su poder. Otros creen que enfrascarse en el enérgico ajetreo de la vida puede favorecer su determinación y disciplina.",
+						"Por lo general, los monjes ven las aventuras como pruebas para su crecimiento físico y mental. Les mueve un deseo de cumplir una misión importante que va más allá de simplemente matar monstruos y hallar tesoros: aspiran a convertirse en auténticas armas vivientes."
 					]
 				}
 			],
@@ -33,8 +33,8 @@
 	],
 	"subclassFluff": [
 		{
-			"name": "Warrior of Mercy",
-			"shortName": "Mercy",
+			"name": "Guerrero de la misericordia",
+			"shortName": "Misericordia",
 			"source": "XPHB",
 			"className": "Monje",
 			"classSource": "XPHB",
@@ -52,8 +52,8 @@
 			]
 		},
 		{
-			"name": "Warrior of Shadow",
-			"shortName": "Shadow",
+			"name": "Guerrero de la sombra",
+			"shortName": "Sombra",
 			"source": "XPHB",
 			"className": "Monje",
 			"classSource": "XPHB",
@@ -71,8 +71,8 @@
 			]
 		},
 		{
-			"name": "Warrior of the Elements",
-			"shortName": "Elements",
+			"name": "Guerrero de los elementos",
+			"shortName": "Elementos",
 			"source": "XPHB",
 			"className": "Monje",
 			"classSource": "XPHB",
@@ -90,8 +90,8 @@
 			]
 		},
 		{
-			"name": "Warrior of the Open Hand",
-			"shortName": "Open Hand",
+			"name": "Guerrero de la mano abierta",
+			"shortName": "Mano abierta",
 			"source": "XPHB",
 			"className": "Monje",
 			"classSource": "XPHB",

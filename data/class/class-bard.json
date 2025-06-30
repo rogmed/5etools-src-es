@@ -3786,7 +3786,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"When you roll {@variantrule Initiative|XPHB}, you can expend one use of your Bardic Inspiration if you don't have the {@condition Incapacitated|XPHB} condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to {@variantrule Initiative|XPHB} equal to the number rolled."
+				"When you roll {@variantrule Initiative|XPHB}, you can expend one use of your Bardic Inspiration if you don't have the {@condition Incapacitado|XPHB} condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to {@variantrule Initiative|XPHB} equal to the number rolled."
 			]
 		},
 		{
@@ -3801,7 +3801,7 @@
 			"header": 2,
 			"entries": [
 				"When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. If any creatures within 5 feet of you are making the same Dexterity saving throw, you can share this benefit with them for that save.",
-				"You can't use this feature if you have the {@condition Incapacitated|XPHB} condition."
+				"You can't use this feature if you have the {@condition Incapacitado|XPHB} condition."
 			]
 		},
 		{
@@ -3884,7 +3884,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you can assume a magically majestic presence for 1 minute or until you have the {@condition Incapacitated|XPHB} condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.",
+				"As a {@variantrule Bonus Action|XPHB}, you can assume a magically majestic presence for 1 minute or until you have the {@condition Incapacitado|XPHB} condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.",
 				"Once you assume this majestic presence, you can't do so again until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}."
 			]
 		},

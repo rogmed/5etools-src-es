@@ -119,7 +119,7 @@
 					"colLabels": [
 						"Artes marciales",
 						"Puntos de concentración",
-						"Movimiento sin armadura"
+						"Mov. sin armadura"
 					],
 					"rows": [
 						[
@@ -514,28 +514,28 @@
 	],
 	"subclass": [
 		{
-			"name": "Warrior of Mercy",
-			"shortName": "Mercy",
+			"name": "Guerrero de la misericordia",
+			"shortName": "Misericordia",
 			"source": "XPHB",
 			"className": "Monje",
 			"classSource": "XPHB",
-			"page": 104,
+			"page": 153,
 			"edition": "one",
 			"subclassFeatures": [
-				"Warrior of Mercy|Monje|XPHB|Mercy|XPHB|3",
-				"Physician's Touch|Monje|XPHB|Mercy|XPHB|6",
-				"Flurry of Healing and Harm|Monje|XPHB|Mercy|XPHB|11",
-				"Hand of Ultimate Mercy|Monje|XPHB|Mercy|XPHB|17"
+				"Guerrero de la misericordia|Monje|XPHB|Misericordia|XPHB|3",
+				"Toque galeno|Monje|XPHB|Misericordia|XPHB|6",
+				"Flurry of Healing and Harm|Monje|XPHB|Misericordia|XPHB|11",
+				"Mano de misericordia suprema|Monje|XPHB|Misericordia|XPHB|17"
 			],
 			"hasFluffImages": true
 		},
 		{
-			"name": "Warrior of Shadow",
-			"shortName": "Shadow",
+			"name": "Guerrero de la sombra",
+			"shortName": "Sombra",
 			"source": "XPHB",
 			"className": "Monje",
 			"classSource": "XPHB",
-			"page": 105,
+			"page": 154,
 			"edition": "one",
 			"additionalSpells": [
 				{
@@ -548,7 +548,7 @@
 						"3": {
 							"resource": {
 								"1": [
-									"darkness|xphb"
+									"Oscuridad|xphb"
 								]
 							}
 						}
@@ -558,20 +558,20 @@
 				}
 			],
 			"subclassFeatures": [
-				"Warrior of Shadow|Monje|XPHB|Shadow|XPHB|3",
-				"Shadow Step|Monje|XPHB|Shadow|XPHB|6",
-				"Improved Shadow Step|Monje|XPHB|Shadow|XPHB|11",
-				"Cloak of Shadows|Monje|XPHB|Shadow|XPHB|17"
+				"Guerrero de la sombra|Monje|XPHB|Sombra|XPHB|3",
+				"Paso entre las sombras|Monje|XPHB|Sombra|XPHB|6",
+				"Paso entre las sombras mejorado|Monje|XPHB|Sombra|XPHB|11",
+				"Capa de sombras|Monje|XPHB|Sombra|XPHB|17"
 			],
 			"hasFluffImages": true
 		},
 		{
-			"name": "Warrior of the Elements",
-			"shortName": "Elements",
+			"name": "Guerrero de los elementos",
+			"shortName": "Elementos",
 			"source": "XPHB",
 			"className": "Monje",
 			"classSource": "XPHB",
-			"page": 106,
+			"page": 155,
 			"edition": "one",
 			"additionalSpells": [
 				{
@@ -584,28 +584,28 @@
 				}
 			],
 			"subclassFeatures": [
-				"Warrior of the Elements|Monje|XPHB|Elements|XPHB|3",
-				"Elemental Burst|Monje|XPHB|Elements|XPHB|6",
-				"Stride of the Elements|Monje|XPHB|Elements|XPHB|11",
-				"Elemental Epitome|Monje|XPHB|Elements|XPHB|17"
+				"Guerrero de los elementos|Monje|XPHB|Elementos|XPHB|3",
+				"Explosión elemental|Monje|XPHB|Elementos|XPHB|6",
+				"Paso de los elementos|Monje|XPHB|Elementos|XPHB|11",
+				"Paradigma elemental|Monje|XPHB|Elementos|XPHB|17"
 			],
 			"hasFluffImages": true
 		},
 		{
-			"name": "Warrior of the Open Hand",
-			"shortName": "Open Hand",
+			"name": "Guerrero de la mano abierta",
+			"shortName": "Mano abierta",
 			"source": "XPHB",
 			"className": "Monje",
 			"classSource": "XPHB",
-			"page": 107,
+			"page": 152,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
 			"subclassFeatures": [
-				"Warrior of the Open Hand|Monje|XPHB|Open Hand|XPHB|3",
-				"Wholeness of Body|Monje|XPHB|Open Hand|XPHB|6",
-				"Fleet Step|Monje|XPHB|Open Hand|XPHB|11",
-				"Quivering Palm|Monje|XPHB|Open Hand|XPHB|17"
+				"Guerrero de la mano abierta|Monje|XPHB|Mano abierta|XPHB|3",
+				"Plenitud de cuerpo|Monje|XPHB|Mano abierta|XPHB|6",
+				"Paso veloz|Monje|XPHB|Mano abierta|XPHB|11",
+				"Palma estremecedora|Monje|XPHB|Mano abierta|XPHB|17"
 			],
 			"hasFluffImages": true
 		}
@@ -636,7 +636,7 @@
 			"level": 1,
 			"header": 2,
 			"entries": [
-				"You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your {@variantrule Unarmed Strike|XPHB}, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC."
+				"Puedes usar tu modificador por Destreza en lugar de tu modificador por Fuerza para las tiradas de ataque y de daño de tus ataques sin armas y tus armas de monje. Además, cuando uses las opciones de agarre o empujón de tu ataque sin armas, puedes usar tu modificador por Destreza en lugar de tu modificador por Fuerza para determinar la CD de salvación."
 			]
 		},
 		{
@@ -1161,34 +1161,34 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Elemental Attunement",
+			"name": "Armonía con los elementos",
 			"source": "XPHB",
-			"page": 106,
+			"page": 155,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Elements",
+			"subclassShortName": "Elementos",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"consumes": {
 				"name": "Punto de concentración"
 			},
 			"entries": [
-				"At the start of your turn, you can expend 1 Punto de concentración to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the {@condition Incapacitated|XPHB} condition. You gain the following benefits while this feature is active.",
+				"Al principio de tu turno, puedes gastar 1 punto de concentración para imbuirte de energía elemental. La energía dura 10 minutos o hasta que tengas el estado de {@condition Incapacitado|XPHB}. Mientras este rasgo esté activo, obtienes los siguientes beneficios:",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Reach",
+							"name": "Alcance",
 							"entries": [
-								"When you make an {@variantrule Unarmed Strike|XPHB}, your reach is 10 feet greater than normal, as elemental energy extends from you."
+								"Cuando realizas un ataque sin armas, tu alcance es 10 pies (3 m) superior al normal, ya que la energía elemental surge de ti."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Elemental Strikes",
 							"entries": [
-								"Whenever you hit with your {@variantrule Unarmed Strike|XPHB}, you can cause it to deal your choice of Acid, Cold, Fire, Lightning, or Thunder damage rather than its normal damage type. When you deal one of these types with it, you can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it."
+								"Siempre que aciertes con tu ataque sin armas, puedes hacer que cause el tipo de daño que quieras entre ácido, frío, fuego, relámpago o trueno en vez de su tipo de daño normal. Cuando inflijas uno de estos tipos con él, también puedes obligar al objetivo a hacer una tirada de salvación de Fuerza. Si la falla, puedes mover al objetivo hasta 10 pies (3 m) hacia ti o en dirección contraria, ya que la energía elemental se arremolina a su alrededor."
 							]
 						}
 					]
@@ -1196,47 +1196,47 @@
 			]
 		},
 		{
-			"name": "Manipulate Elements",
+			"name": "Manipular los elementos",
 			"source": "XPHB",
-			"page": 106,
+			"page": 155,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Elements",
+			"subclassShortName": "Elementos",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You know the {@spell Elementalismo|XPHB} spell. Wisdom is your spellcasting ability for it."
+				"Conoces el conjuro {@spell Elementalismo|XPHB}. La Sabiduría es tu aptitud mágica para lanzarlo."
 			]
 		},
 		{
-			"name": "Warrior of the Elements",
+			"name": "Guerrero de los elementos",
 			"source": "XPHB",
-			"page": 106,
+			"page": 155,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Elements",
+			"subclassShortName": "Elementos",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Wield Strikes and Bursts of Elemental Power}",
-				"Warriors of the Elements tap into the power of the Elemental Planes. Harnessing their supernatural focus, these Monks momentarily tame the energy of the Elemental Chaos to empower themselves in and out of battle.",
+				"{@i Emplea ataques y explosiones de poder elemental}",
+				"Los guerreros de los elementos recurren al poder de los Planos Elementales. Gracias a su concentración sobrenatural, estos monjes controlan momentáneamente la energía del Caos Elemental para fortalecerse tanto dentro como fuera de la batalla.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Elemental Attunement|Monje|XPHB|Elements|XPHB|3"
+					"subclassFeature": "Armonía con los elementos|Monje|XPHB|Elementos|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Manipulate Elements|Monje|XPHB|Elements|XPHB|3"
+					"subclassFeature": "Manipular los elementos|Monje|XPHB|Elementos|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Elemental Burst",
+			"name": "Explosión elemental",
 			"source": "XPHB",
-			"page": 106,
+			"page": 155,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Elements",
+			"subclassShortName": "Elementos",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
@@ -1245,92 +1245,92 @@
 				"amount": 2
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend 2 Punto de concentracións to cause elemental energy to burst in a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder.",
-				"Each creature in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} must make a Dexterity saving throw. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Dado de Artes marciales. On a successful save, a creature takes half as much damage."
+				"Como acción de magia, puedes gastar 2 puntos de concentración para que la energía elemental explote en una esfera de 20 pies (6 m) de radio centrada en un punto a 120 pies (36 m) o menos de ti. Elige un tipo de daño: ácido, frío, fuego, relámpago o trueno.",
+				"Todas las criaturas situadas en esa esfera deberán hacer una tirada de salvación de Destreza. Si la fallan, sufrirán una cantidad de daño del tipo elegido igual al resultado de tres tiradas de tu dado de Artes marciales. Si la superan, recibirán la mitad de ese daño."
 			]
 		},
 		{
-			"name": "Stride of the Elements",
+			"name": "Paso de los elementos",
 			"source": "XPHB",
-			"page": 106,
+			"page": 155,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Elements",
+			"subclassShortName": "Elementos",
 			"subclassSource": "XPHB",
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"While your Elemental Attunement is active, you also have a {@variantrule Fly Speed|XPHB} and a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Speed|XPHB}."
+				"Mientras tu \"Armonía con los elementos\" esté activa, tendrás también una velocidad nadando y una velocidad volando iguales a tu velocidad."
 			]
 		},
 		{
-			"name": "Elemental Epitome",
+			"name": "Paradigma elemental",
 			"source": "XPHB",
-			"page": 106,
+			"page": 155,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Elements",
+			"subclassShortName": "Elementos",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"While your Elemental Attunement is active, you also gain the following benefits.",
-				{
-					"type": "entries",
-					"name": "Damage Resistance",
-					"entries": [
-						"You gain {@variantrule Resistance|XPHB} to one of the following damage types of your choice: Acid, Cold, Fire, Lightning, or Thunder. At the start of each of your turns, you can change this choice."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Destructive Stride",
-					"entries": [
-						"When you use your Paso del viento, your {@variantrule Speed|XPHB} increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Dado de Artes marciales when you enter a space within 5 feet of it. The damage type is your choice of Acid, Cold, Fire, Lightning, or Thunder. A creature can take this damage only once per turn."
-					]
-				},
+				"Mientras tu Armonía con los elementos esté activa, obtienes también los siguientes beneficios:",
 				{
 					"type": "entries",
 					"name": "Golpes potenciados",
 					"entries": [
-						"Once on each of your turns, you can deal extra damage to a target equal to one roll of your Dado de Artes marciales when you hit it with an {@variantrule Unarmed Strike|XPHB}. The extra damage is the same type dealt by that strike."
+						"Una vez en cada uno de tus turnos, puedes causar a un objetivo una cantidad adicional de daño igual al resultado de una tirada de tu dado de Artes marciales cuando le aciertes con un ataque sin armas. El daño adicional será del mismo tipo que inflija el ataque."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Paso destructivo",
+					"entries": [
+						"Cuando utilices tu Paso del viento, tu velocidad aumenta en 20 pies (6 m) hasta el final del turno. Durante ese tiempo, cualquier criatura de tu elección sufre una cantidad de daño igual al resultado de una tirada de tu dado de Artes marciales cuando entres en un espacio a 5 pies (1,5 m) o menos de ella. Elige el tipo de daño: ácido, frío, fuego, relámpago o trueno. Una criatura solo puede sufrir este daño una vez por turno."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resistencia al daño",
+					"entries": [
+						"Ganas resistencia a uno de los siguientes tipos de daño, a tu elección: ácido, frío, fuego, relámpago o trueno. Al principio de cada uno de tus turnos, puedes cambiar esta elección."
 					]
 				}
 			]
 		},
 		{
-			"name": "Warrior of Mercy",
+			"name": "Guerrero de la misericordia",
 			"source": "XPHB",
-			"page": 104,
+			"page": 153,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Mercy",
+			"subclassShortName": "Misericordia",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Manipulate Forces of Life and Death}",
-				"Warriors of Mercy manipulate the life force of others. These Monks are wandering physicians, but they bring a swift end to their enemies. They often wear masks, presenting themselves as faceless bringers of life and death.",
+				"{@i Manipula las fuerzas de la vida y la muerte}",
+				"Los guerreros de la misericordia manipulan la fuerza vital de los demás. Estos monjes son médicos ambulantes, pero capaces de brindar un rápido final a sus enemigos. Suelen llevar máscaras para presentarse como portadores sin rostro de la vida y de la muerte.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hand of Harm|Monje|XPHB|Mercy|XPHB|3"
+					"subclassFeature": "Mano de aflicción|Monje|XPHB|Misericordia|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hand of Healing|Monje|XPHB|Mercy|XPHB|3"
+					"subclassFeature": "Mano de curación|Monje|XPHB|Misericordia|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Implements of Mercy|Monje|XPHB|Mercy|XPHB|3"
+					"subclassFeature": "Instrumentos de misericordia|Monje|XPHB|Misericordia|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Hand of Harm",
+			"name": "Mano de aflicción",
 			"source": "XPHB",
-			"page": 104,
+			"page": 153,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Mercy",
+			"subclassShortName": "Misericordia",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
@@ -1338,16 +1338,16 @@
 				"name": "Punto de concentración"
 			},
 			"entries": [
-				"Once per turn when you hit a creature with an {@variantrule Unarmed Strike|XPHB} and deal damage, you can expend 1 Punto de concentración to deal extra Necrotic damage equal to one roll of your Dado de Artes marciales plus your Wisdom modifier."
+				"Una vez por turno, cuando aciertes a una criatura con un ataque sin armas y le causes daño, puedes gastar 1 punto de concentración para infligir una cantidad adicional de daño necrótico igual al resultado de una tirada de tu dado de Artes marciales más tu modificador por Sabiduría."
 			]
 		},
 		{
-			"name": "Hand of Healing",
+			"name": "Mano de curación",
 			"source": "XPHB",
-			"page": 104,
+			"page": 153,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Mercy",
+			"subclassShortName": "Misericordia",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
@@ -1355,50 +1355,51 @@
 				"name": "Punto de concentración"
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend 1 Punto de concentración to touch a creature and restore a number of {@variantrule Hit Points|XPHB} equal to a roll of your Dado de Artes marciales plus your Wisdom modifier. When you use your Ráfaga de golpes, you can replace one of the Unarmed Strikes with a use of this feature without expending a Punto de concentración for the healing."
+				"Como acción de magia, puedes gastar 1 punto de concentración para tocar a una criatura y hacer que recupere una cantidad de puntos de golpe igual al resultado de una tirada de tu dado de Artes marciales más tu modificador por Sabiduría.",
+				"Cuando uses Ráfaga de golpes, puedes sustituir uno de los ataques sin armas por un uso de este rasgo sin gastar un punto de concentración para curar."
 			]
 		},
 		{
-			"name": "Implements of Mercy",
+			"name": "Instrumentos de misericordia",
 			"source": "XPHB",
-			"page": 104,
+			"page": 153,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Mercy",
+			"subclassShortName": "Misericordia",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain proficiency in the {@skill Insight|XPHB} and {@skill Medicine|XPHB} skills and proficiency with the {@item Herbalism Kit|XPHB}."
+				"Ganas competencia en las habilidades {@skill Medicina|XPHB} y {@skill Perspicacia|XPHB} y con los {@item útiles de herborista|XPHB}."
 			]
 		},
 		{
-			"name": "Physician's Touch",
+			"name": "Toque galeno",
 			"source": "XPHB",
-			"page": 104,
+			"page": 153,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Mercy",
+			"subclassShortName": "Misericordia",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Your Hand of Harm and Hand of Healing improve, as detailed below.",
+				"Tu Mano de aflicción y Mano de curación mejoran, como se detalla a continuación:",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Hand of Harm",
+							"name": "Mano de aflicción",
 							"entries": [
-								"When you use Hand of Harm on a creature, you can also give that creature the {@condition Envenenado|XPHB} condition until the end of your next turn."
+								"Cuando uses Mano de aflicción en una criatura, también podrás infligirle el estado de {@condition Envenenado|XPHB} hasta el final de tu siguiente turno."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Hand of Healing",
+							"name": "Mano de curación",
 							"entries": [
-								"When you use Hand of Healing, you can also end one of the following conditions on the creature you heal: {@condition Blinded|XPHB}, {@condition Ensordecido|XPHB}, {@condition Paralizado|XPHB}, {@condition Envenenado|XPHB}, or {@condition Aturdido|XPHB}."
+								"Cuando uses Mano de curación, también podrás poner fin a uno de los siguientes estados en la criatura a la que cures: {@condition Aturdido|XPHB}, {@condition Cegado|XPHB}, {@condition Ensordecido|XPHB}, {@condition Envenenado|XPHB} o {@condition Paralizado|XPHB}."
 							]
 						}
 					]
@@ -1408,26 +1409,26 @@
 		{
 			"name": "Flurry of Healing and Harm",
 			"source": "XPHB",
-			"page": 104,
+			"page": 153,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Mercy",
+			"subclassShortName": "Misericordia",
 			"subclassSource": "XPHB",
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"When you use Ráfaga de golpes, you can replace each of the Unarmed Strikes with a use of Hand of Healing without expending Punto de concentracións for the healing.",
-				"In addition, when you make an {@variantrule Unarmed Strike|XPHB} with Ráfaga de golpes and deal damage, you can use Hand of Harm with that strike without expending a Punto de concentración for Hand of Harm. You can still use Hand of Harm only once per turn.",
-				"You can use these benefits a total number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"Cuando uses Ráfaga de golpes, puedes sustituir cada uno de los ataques sin armas por un uso de Mano de curación sin gastar puntos de concentración para curar.",
+				"Además, cuando hagas un ataque sin armas con Ráfaga de golpes y causes daño, podrás usar Mano de aflicción en ese ataque sin gastar un punto de concentración. Solo puedes usar Mano de aflicción una vez por turno.",
+				"Puedes utilizar estos beneficios una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez). Recuperas todos los usos tras finalizar un descanso largo."
 			]
 		},
 		{
-			"name": "Hand of Ultimate Mercy",
+			"name": "Mano de misericordia suprema",
 			"source": "XPHB",
-			"page": 105,
+			"page": 154,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Mercy",
+			"subclassShortName": "Misericordia",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"header": 2,
@@ -1436,108 +1437,108 @@
 				"amount": 5
 			},
 			"entries": [
-				"Your mastery of life energy opens the door to the ultimate mercy. As a {@action Magic|XPHB} action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Punto de concentracións. The creature then returns to life with a number of {@variantrule Hit Points|XPHB} equal to {@dice 4d10} plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: {@condition Blinded|XPHB}, {@condition Ensordecido|XPHB}, {@condition Paralizado|XPHB}, {@condition Envenenado|XPHB}, and {@condition Aturdido|XPHB}.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB}."
+				"Tu dominio de la energía vital te abre las puertas de la misericordia suprema. Como acción de magia, puedes tocar el cadáver de una criatura que haya muerto en las últimas 24 horas y gastar 5 puntos de concentración. La criatura volverá a la vida con una cantidad de puntos de golpe igual a 4d10 más tu modificador por Sabiduría. Si la criatura murió mientras tenía alguno de los siguientes estados, revivirá sin ellos: {@condition Aturdido|XPHB}, {@condition Cegado|XPHB}, {@condition Ensordecido|XPHB}, {@condition Envenenado|XPHB} y {@condition Paralizado|XPHB}.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo."
 			]
 		},
 		{
-			"name": "Open Hand Technique",
+			"name": "Técnica de la mano abierta",
 			"source": "XPHB",
-			"page": 107,
+			"page": 152,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Open Hand",
+			"subclassShortName": "Mano abierta",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"Whenever you hit a creature with an attack granted by your Ráfaga de golpes, you can impose one of the following effects on that target.",
+				"Siempre que aciertes a una criatura con un ataque proporcionado por Ráfaga de golpes, puedes imponerle uno de los siguientes efectos:",
 				{
 					"type": "entries",
-					"name": "Addle",
+					"name": "Derribar",
 					"entries": [
-						"The target can't make {@action Opportunity Attack|XPHB|Opportunity Attacks} until the start of its next turn."
+						"El objetivo deberá superar una tirada de salvación de Destreza o tendrá el estado de {@condition Derribado|XPHB}."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Push",
+					"name": "Desconcertar",
 					"entries": [
-						"The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you."
+						"El objetivo no podrá realizar ataques de oportunidad hasta el principio de su siguiente turno."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Topple",
+					"name": "Empujar",
 					"entries": [
-						"The target must succeed on a Dexterity saving throw or have the {@condition Prone|XPHB} condition."
+						"El objetivo deberá superar una tirada de salvación de Fuerza o será empujado hasta 15 pies (4,5 m) respecto a ti."
 					]
 				}
 			]
 		},
 		{
-			"name": "Warrior of the Open Hand",
+			"name": "Guerrero de la mano abierta",
 			"source": "XPHB",
-			"page": 107,
+			"page": 152,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Open Hand",
+			"subclassShortName": "Mano abierta",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Master Unarmed Combat Techniques}",
-				"Warriors of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.",
+				"{@i Domina las técnicas de combate sin armas}",
+				"Los guerreros de la mano abierta son maestros del combate sin armas. Aprenden técnicas para empujar y derribar a sus adversarios y manipulan su propia energía para protegerse del peligro.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Open Hand Technique|Monje|XPHB|Open Hand|XPHB|3"
+					"subclassFeature": "Técnica de la mano abierta|Monje|XPHB|Mano abierta|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Wholeness of Body",
+			"name": "Plenitud de cuerpo",
 			"source": "XPHB",
-			"page": 107,
+			"page": 152,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Open Hand",
+			"subclassShortName": "Mano abierta",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You gain the ability to heal yourself. As a {@variantrule Bonus Action|XPHB}, you can roll your Dado de Artes marciales. You regain a number of {@variantrule Hit Points|XPHB} equal to the number rolled plus your Wisdom modifier (minimum of 1 {@variantrule Hit Points|XPHB|Hit Point} regained).",
-				"You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"Obtienes la capacidad de sanar tu propio cuerpo. Como acción adicional, puedes tirar tu dado de Artes marciales. Recuperas una cantidad de puntos de golpe igual al resultado más tu modificador por Sabiduría (recuperas 1 punto de golpe como mínimo).",
+				"Puedes usar este rasgo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo."
 			]
 		},
 		{
-			"name": "Fleet Step",
+			"name": "Paso veloz",
 			"source": "XPHB",
-			"page": 107,
+			"page": 152,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Open Hand",
+			"subclassShortName": "Mano abierta",
 			"subclassSource": "XPHB",
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"When you take a {@variantrule Bonus Action|XPHB} other than Paso del viento, you can also use Paso del viento immediately after that {@variantrule Bonus Action|XPHB}."
+				"Cuando utilices una acción adicional que no sea Paso del viento, podrás usar también Paso del viento inmediatamente después de esa acción adicional."
 			]
 		},
 		{
-			"name": "Quivering Palm",
+			"name": "Palma estremecedora",
 			"source": "XPHB",
-			"page": 107,
+			"page": 152,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Open Hand",
+			"subclassShortName": "Mano abierta",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"header": 2,
@@ -1546,60 +1547,60 @@
 				"amount": 4
 			},
 			"entries": [
-				"You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an {@variantrule Unarmed Strike|XPHB}, you can expend 4 Punto de concentracións to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the {@action Attack|XPHB} action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking {@damage 10d12} Force damage on a failed save or half as much damage on a successful one.",
-				"You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required)."
+				"Consigues la capacidad de transmitir vibraciones letales al cuerpo de un oponente. Cuando aciertes a una criatura con un ataque sin armas, puedes gastar 4 puntos de concentración para iniciar estas vibraciones imperceptibles, que durarán tantos días como tu nivel de monje. Las vibraciones son inofensivas, salvo si usas tu acción para hacer que terminen. Como alternativa, cuando lleves a cabo la acción de atacar en tu turno, puedes renunciar a uno de los ataques para poner fin a las vibraciones. Para ello, el objetivo y tú debéis estar en el mismo plano de existencia. Cuando les pongas fin, el objetivo deberá realizar una tirada de salvación de Constitución; sufrirá {@damage 10d12} de daño de fuerza si la falla o la mitad del daño si la supera.",
+				"Solo puedes tener a una criatura bajo el efecto de este rasgo al mismo tiempo. Puedes poner fin a las vibraciones de forma inocua (no requiere acción)."
 			]
 		},
 		{
-			"name": "Shadow Arts",
+			"name": "Artes sombrías",
 			"source": "XPHB",
-			"page": 105,
+			"page": 154,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Shadow",
+			"subclassShortName": "Sombra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You have learned to draw on the power of the Shadowfell, gaining the following benefits.",
+				"Has aprendido a manejar el poder del Páramo Sombrío, lo que te proporciona los siguientes beneficios:",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Darkness|Monje|XPHB|Shadow|XPHB|3"
+					"subclassFeature": "Oscuridad|Monje|XPHB|Sombra|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Darkvision|Monje|XPHB|Shadow|XPHB|3"
+					"subclassFeature": "Visión en la oscuridad|Monje|XPHB|Sombra|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Shadowy Figments|Monje|XPHB|Shadow|XPHB|3"
+					"subclassFeature": "Ilusiones sombrías|Monje|XPHB|Sombra|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Warrior of Shadow",
+			"name": "Guerrero de la sombra",
 			"source": "XPHB",
-			"page": 105,
+			"page": 154,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Shadow",
+			"subclassShortName": "Sombra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Harness Shadow Power for Stealth and Subterfuge}",
-				"Warriors of Shadow practice stealth and subterfuge, harnessing the power of the Shadowfell. They are at home in darkness, able to draw gloom around themselves to hide, leap from shadow to shadow, and take on a wraithlike form.",
+				"{@i Utiliza el poder de la sombra para el sigilo yel subterfugio}",
+				"Los guerreros de la sombra recurren al poder del Páramo Sombrío para practicar el sigilo y el subterfugio. Se sienten cómodos en la oscuridad, ya que pueden rodearse de penumbra para esconderse, saltar entre las sombras y adoptar una forma fantasmal.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Shadow Arts|Monje|XPHB|Shadow|XPHB|3"
+					"subclassFeature": "Artes sombrías|Monje|XPHB|Sombra|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Darkness",
+			"name": "Oscuridad",
 			"source": "XPHB",
-			"page": 105,
+			"page": 154,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Shadow",
+			"subclassShortName": "Sombra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
@@ -1607,58 +1608,58 @@
 				"name": "Punto de concentración"
 			},
 			"entries": [
-				"You can expend 1 Punto de concentración to cast the {@spell Darkness|XPHB} spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of {@variantrule Darkness|XPHB} to a space within 60 feet of yourself at the start of each of your turns."
+				"Puedes gastar 1 punto de concentración para lanzar el conjuro {@spell Oscuridad|XPHB} sin necesidad de componentes. Puedes ver dentro de la zona del conjuro cuando lo lanzas con este rasgo. Mientras se mantenga el conjuro, podrás mover la zona de {@variantrule Oscuridad|XPHB} a un espacio a 60 pies (18 m) o menos de ti al principio de cada uno de tus turnos."
 			]
 		},
 		{
-			"name": "Darkvision",
+			"name": "Visión en la oscuridad",
 			"source": "XPHB",
-			"page": 105,
+			"page": 154,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Shadow",
+			"subclassShortName": "Sombra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"You gain {@sense Darkvision|XPHB} with a range of 60 feet. If you already have {@sense Darkvision|XPHB}, its range increases by 60 feet."
+				"Obtienes {@sense Visión en la oscuridad|XPHB} hasta 60 pies (18 m). Si ya posees {@sense Visión en la oscuridad|XPHB}, su alcance aumenta en 60 pies (18 m)."
 			]
 		},
 		{
-			"name": "Shadowy Figments",
+			"name": "Ilusiones sombrías",
 			"source": "XPHB",
-			"page": 105,
+			"page": 154,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Shadow",
+			"subclassShortName": "Sombra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"You know the {@spell Ilusión menor|XPHB} spell. Wisdom is your spellcasting ability for it."
+				"Conoces el truco {@spell Ilusión menor|XPHB}. La Sabiduría es tu aptitud mágica para lanzarlo."
 			]
 		},
 		{
-			"name": "Shadow Step",
+			"name": "Paso entre las sombras",
 			"source": "XPHB",
-			"page": 105,
+			"page": 154,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Shadow",
+			"subclassShortName": "Sombra",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"While entirely within {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, you can use a {@variantrule Bonus Action|XPHB} to teleport up to 60 feet to an unoccupied space you can see that is also in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}. You then have {@variantrule Advantage|XPHB} on the next melee attack you make before the end of the current turn."
+				"Cuando estés por completo en una zona de luz tenue u oscuridad, puedes utilizar una acción adicional para teletransportarte hasta 60 pies (18 m) a un espacio sin ocupar que puedas ver y que también esté en condiciones de luz tenue u oscuridad. Luego tendrás ventaja en el siguiente ataque cuerpo a cuerpo que hagas antes del final de ese turno."
 			]
 		},
 		{
-			"name": "Improved Shadow Step",
+			"name": "Paso entre las sombras mejorado",
 			"source": "XPHB",
-			"page": 105,
+			"page": 154,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Shadow",
+			"subclassShortName": "Sombra",
 			"subclassSource": "XPHB",
 			"level": 11,
 			"header": 2,
@@ -1666,16 +1667,16 @@
 				"name": "Punto de concentración"
 			},
 			"entries": [
-				"You can draw on your Shadowfell connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Punto de concentración to remove the requirement that you must start and end in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB} for that use of the feature. As part of this {@variantrule Bonus Action|XPHB}, you can make an {@variantrule Unarmed Strike|XPHB} immediately after you teleport."
+				"Puedes recurrir a tu conexión con el Páramo Sombrío para potenciar tu teletransportación. Cuando uses Paso entre sombras, puedes gastar 1 punto de concentración para eliminar el requisito de comenzar y terminar en una zona de luz tenue u oscuridad para ese uso del rasgo. Como parte de esta acción adicional, puedes hacer un ataque sin armas inmediatamente después de teletransportarte."
 			]
 		},
 		{
-			"name": "Cloak of Shadows",
+			"name": "Capa de sombras",
 			"source": "XPHB",
-			"page": 105,
+			"page": 154,
 			"className": "Monje",
 			"classSource": "XPHB",
-			"subclassShortName": "Shadow",
+			"subclassShortName": "Sombra",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"header": 2,
@@ -1684,26 +1685,26 @@
 				"amount": 3
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action while entirely within {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, you can expend 3 Punto de concentracións to shroud yourself with shadows for 1 minute, until you have the {@condition Incapacitated|XPHB} condition, or until you end your turn in {@variantrule Bright Light|XPHB}. While shrouded by these shadows, you gain the following benefits.",
+				"Como acción de magia cuando estés por completo en una zona de luz tenue u oscuridad, puedes gastar 3 puntos de concentración para envolverte en sombras durante 1 minuto, hasta que tengas el estado de {@condition Incapacitado|XPHB} o hasta que termines tu turno en una zona de luz brillante. Mientras estés envuelto en estas sombras, obtienes los siguientes beneficios:",
 				{
 					"type": "entries",
-					"name": "Invisibility",
+					"name": "Incorporeidad parcial",
 					"entries": [
-						"You have the {@condition Invisible|XPHB} condition."
+						"Puedes atravesar espacios ocupados como si fueran terreno difícil. Si terminas tu turno en un espacio así, irás a parar al último espacio sin ocupar en el que hayas estado."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Partially Incorporeal",
+					"name": "Invisibilidad",
 					"entries": [
-						"You can move through occupied spaces as if they were {@variantrule Difficult Terrain|XPHB}. If you end your turn in such a space, you are shunted to the last unoccupied space you were in."
+						"Tienes el estado de {@condition Invisible|XPHB}."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Shadow Flurry",
+					"name": "Ráfaga de sombras",
 					"entries": [
-						"You can use your Ráfaga de golpes without expending any Punto de concentracións."
+						"Puedes utilizar tu Ráfaga de golpes sin gastar puntos de concentración."
 					]
 				}
 			]

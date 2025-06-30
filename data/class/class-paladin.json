@@ -2198,7 +2198,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the {@condition Incapacitated|XPHB} condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the {@spell Hallow|XPHB} spell."
+				"As a {@variantrule Bonus Action|XPHB}, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the {@condition Incapacitado|XPHB} condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the {@spell Hallow|XPHB} spell."
 			]
 		},
 		{
@@ -2273,7 +2273,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You radiate a protective, unseeable aura in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} that originates from you. The aura is inactive while you have the {@condition Incapacitated|XPHB} condition.",
+				"You radiate a protective, unseeable aura in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} that originates from you. The aura is inactive while you have the {@condition Incapacitado|XPHB} condition.",
 				"You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1).",
 				"If another Paladin is present, a creature can benefit from only one Aura of Protection at a time; the creature chooses which aura while in them."
 			]
@@ -2369,7 +2369,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: {@condition Blinded|XPHB}, {@condition Hechizado|XPHB}, {@condition Ensordecido|XPHB}, {@condition Asustado|XPHB}, {@condition Paralizado|XPHB}, or {@condition Aturdido|XPHB}. You must expend 5 {@variantrule Hit Points|XPHB} from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore {@variantrule Hit Points|XPHB} to the creature."
+				"When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: {@condition Cegado|XPHB}, {@condition Hechizado|XPHB}, {@condition Ensordecido|XPHB}, {@condition Asustado|XPHB}, {@condition Paralizado|XPHB}, or {@condition Aturdido|XPHB}. You must expend 5 {@variantrule Hit Points|XPHB} from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore {@variantrule Hit Points|XPHB} to the creature."
 			]
 		},
 		{

@@ -3913,7 +3913,7 @@
 							"type": "entries",
 							"name": "The Beast in Combat",
 							"entries": [
-								"In combat, the beast acts during your turn. It can move and use its {@variantrule Reaction|XPHB} on its own, but the only action it takes is the {@action Dodge|XPHB} action unless you take a {@variantrule Bonus Action|XPHB} to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the {@action Attack|XPHB} action to command the beast to take the Beast's Strike action. If you have the {@condition Incapacitated|XPHB} condition, the beast acts on its own and isn't limited to the {@action Dodge|XPHB} action."
+								"In combat, the beast acts during your turn. It can move and use its {@variantrule Reaction|XPHB} on its own, but the only action it takes is the {@action Dodge|XPHB} action unless you take a {@variantrule Bonus Action|XPHB} to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the {@action Attack|XPHB} action to command the beast to take the Beast's Strike action. If you have the {@condition Incapacitado|XPHB} condition, the beast acts on its own and isn't limited to the {@action Dodge|XPHB} action."
 							]
 						},
 						{

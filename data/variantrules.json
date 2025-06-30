@@ -7363,7 +7363,7 @@
 									"Strength 13 or Dexterity 13"
 								],
 								[
-									"{@class Monk}",
+									"{@class Monje}",
 									"Dexterity 13 and Wisdom 13"
 								],
 								[
@@ -7454,7 +7454,7 @@
 									"Light armor, medium armor, shields, simple weapons, martial weapons"
 								],
 								[
-									"{@class Monk}",
+									"{@class Monje}",
 									"Simple weapons, shortswords"
 								],
 								[
@@ -12564,7 +12564,7 @@
 									"Strength, Dexterity, or Wisdom"
 								],
 								[
-									"{@class Monk}",
+									"{@class Monje}",
 									"Strength, Dexterity, or Intelligence"
 								],
 								[

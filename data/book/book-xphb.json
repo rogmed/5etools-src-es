@@ -4131,7 +4131,7 @@
 											"Low"
 										],
 										[
-											"{@class Monk|XPHB}",
+											"{@class Monje|XPHB}",
 											"Unarmed combat",
 											"Dexterity and Wisdom",
 											"High"
@@ -4193,7 +4193,7 @@
 												{
 													"type": "item",
 													"name": "Fighter:",
-													"entry": "Replace with {@class Bárbaro|XPHB}, {@class Monk|XPHB}, {@class Paladin|XPHB}, or {@class Ranger|XPHB}"
+													"entry": "Replace with {@class Bárbaro|XPHB}, {@class Monje|XPHB}, {@class Paladin|XPHB}, or {@class Ranger|XPHB}"
 												},
 												{
 													"type": "item",
@@ -4739,7 +4739,7 @@
 													"12"
 												],
 												[
-													"{@class Monk|XPHB}",
+													"{@class Monje|XPHB}",
 													"12",
 													"15",
 													"13",
@@ -5507,7 +5507,7 @@
 															"10 + Con. modifier"
 														],
 														[
-															"{@class Bard|XPHB}, {@class Cleric|XPHB}, {@class Druid|XPHB}, {@class Monk|XPHB}, {@class Rogue|XPHB}, or {@class Warlock|XPHB}",
+															"{@class Bard|XPHB}, {@class Cleric|XPHB}, {@class Druid|XPHB}, {@class Monje|XPHB}, {@class Rogue|XPHB}, or {@class Warlock|XPHB}",
 															"8 + Con. modifier"
 														],
 														[
@@ -5817,7 +5817,7 @@
 															"6 + Con. modifier"
 														],
 														[
-															"{@class Bard|XPHB}, {@class Cleric|XPHB}, {@class Druid|XPHB}, {@class Monk|XPHB}, {@class Rogue|XPHB}, or {@class Warlock|XPHB}",
+															"{@class Bard|XPHB}, {@class Cleric|XPHB}, {@class Druid|XPHB}, {@class Monje|XPHB}, {@class Rogue|XPHB}, or {@class Warlock|XPHB}",
 															"5 + Con. modifier"
 														],
 														[
@@ -6593,7 +6593,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "{@class Monk|XPHB}",
+									"name": "{@class Monje|XPHB}",
 									"page": 100,
 									"entries": [
 										"Dart in and out of melee while striking fast and hard. Then become a Warrior of...",
@@ -6601,10 +6601,10 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Monk|XPHB|Warrior of Mercy|Mercy|XPHB} to heal or harm with a touch.",
-												"{@class Monk|XPHB|Warrior of Shadow|Shadow|XPHB} to employ shadows for subterfuge.",
-												"{@class Monk|XPHB|Warrior of the Elements|Elements|XPHB} to wield elemental power.",
-												"{@class Monk|XPHB|Warrior of the Open Hand|Open Hand|XPHB} to master unarmed combat."
+												"{@class Monje|XPHB|Warrior of Mercy|Mercy|XPHB} to heal or harm with a touch.",
+												"{@class Monje|XPHB|Warrior of Shadow|Shadow|XPHB} to employ shadows for subterfuge.",
+												"{@class Monje|XPHB|Warrior of the Elements|Elements|XPHB} to wield elemental power.",
+												"{@class Monje|XPHB|Warrior of the Open Hand|Open Hand|XPHB} to master unarmed combat."
 											]
 										}
 									],

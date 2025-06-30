@@ -766,20 +766,20 @@
 				},
 				"Ability Score Improvement|Warlock|XPHB|4",
 				{
-					"classFeature": "Subclass Feature|Warlock|XPHB|6",
+					"classFeature": "Rasgo de subclase|Warlock|XPHB|6",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Warlock|XPHB|8",
 				"Contact Patron|Warlock|XPHB|9",
 				{
-					"classFeature": "Subclass Feature|Warlock|XPHB|10",
+					"classFeature": "Rasgo de subclase|Warlock|XPHB|10",
 					"gainSubclassFeature": true
 				},
 				"Mystic Arcanum|Warlock|XPHB|11",
 				"Ability Score Improvement|Warlock|XPHB|12",
 				"Mystic Arcanum|Warlock|XPHB|13",
 				{
-					"classFeature": "Subclass Feature|Warlock|XPHB|14",
+					"classFeature": "Rasgo de subclase|Warlock|XPHB|14",
 					"gainSubclassFeature": true
 				},
 				"Mystic Arcanum|Warlock|XPHB|15",
@@ -2437,7 +2437,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 155,
 			"srd52": true,
@@ -2477,7 +2477,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 155,
 			"srd52": true,
@@ -2532,7 +2532,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 155,
 			"srd52": true,

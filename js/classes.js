@@ -2050,7 +2050,7 @@ class ClassesPage extends MixinComponentGlobalState(MixinBaseComponent(MixinProx
 
 	static _getFauxGainSubclassFeatureFeature (cls, level) {
 		return {
-			name: "Subclass Feature",
+			name: "Rasgo de subclase",
 			source: cls.source,
 			className: cls.name,
 			classSource: cls.source,

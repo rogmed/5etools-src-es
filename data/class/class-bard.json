@@ -1337,7 +1337,7 @@
 				"Ability Score Improvement|Bard|XPHB|4",
 				"Font of Inspiration|Bard|XPHB|5",
 				{
-					"classFeature": "Subclass Feature|Bard|XPHB|6",
+					"classFeature": "Rasgo de subclase|Bard|XPHB|6",
 					"gainSubclassFeature": true
 				},
 				"Countercharm|Bard|XPHB|7",
@@ -1346,7 +1346,7 @@
 				"Magical Secrets|Bard|XPHB|10",
 				"Ability Score Improvement|Bard|XPHB|12",
 				{
-					"classFeature": "Subclass Feature|Bard|XPHB|14",
+					"classFeature": "Rasgo de subclase|Bard|XPHB|14",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Bard|XPHB|16",
@@ -2496,7 +2496,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 61,
 			"srd52": true,
@@ -2574,7 +2574,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 61,
 			"srd52": true,
@@ -4053,7 +4053,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You can attack twice instead of once whenever you take the {@action Attack|XPHB} action on your turn.",
+				"Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer dos ataques en lugar de uno.",
 				"In addition, you can cast one of your cantrips that has a casting time of an action in place of one of those attacks."
 			]
 		},

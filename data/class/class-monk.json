@@ -476,36 +476,36 @@
 					"classFeature": "Subclase de monje|Monje|XPHB|3",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Monje|XPHB|4",
-				"Slow Fall|Monje|XPHB|4",
-				"Extra Attack|Monje|XPHB|5",
-				"Stunning Strike|Monje|XPHB|5",
-				"Empowered Strikes|Monje|XPHB|6",
+				"Mejora de característica|Monje|XPHB|4",
+				"Caída lenta|Monje|XPHB|4",
+				"Ataque adicional|Monje|XPHB|5",
+				"Golpe aturdidor|Monje|XPHB|5",
+				"Golpes potenciados|Monje|XPHB|6",
 				{
-					"classFeature": "Subclass Feature|Monje|XPHB|6",
+					"classFeature": "Rasgo de subclase|Monje|XPHB|6",
 					"gainSubclassFeature": true
 				},
-				"Evasion|Monje|XPHB|7",
-				"Ability Score Improvement|Monje|XPHB|8",
-				"Acrobatic Movement|Monje|XPHB|9",
-				"Heightened Focus|Monje|XPHB|10",
-				"Self-Restoration|Monje|XPHB|10",
+				"Evasión|Monje|XPHB|7",
+				"Mejora de característica|Monje|XPHB|8",
+				"Movimiento acrobático|Monje|XPHB|9",
+				"Concentración agudizada|Monje|XPHB|10",
+				"Autorrestablecimiento|Monje|XPHB|10",
 				{
-					"classFeature": "Subclass Feature|Monje|XPHB|11",
+					"classFeature": "Rasgo de subclase|Monje|XPHB|11",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Monje|XPHB|12",
-				"Deflect Energy|Monje|XPHB|13",
+				"Mejora de característica|Monje|XPHB|12",
+				"Desviar energía|Monje|XPHB|13",
 				"Disciplined Survivor|Monje|XPHB|14",
-				"Perfect Focus|Monje|XPHB|15",
-				"Ability Score Improvement|Monje|XPHB|16",
+				"Concentración perfecta|Monje|XPHB|15",
+				"Mejora de característica|Monje|XPHB|16",
 				{
-					"classFeature": "Subclass Feature|Monje|XPHB|17",
+					"classFeature": "Rasgo de subclase|Monje|XPHB|17",
 					"gainSubclassFeature": true
 				},
-				"Superior Defense|Monje|XPHB|18",
+				"Defensa superior|Monje|XPHB|18",
 				"Don épico|Monje|XPHB|19",
-				"Body and Mind|Monje|XPHB|20"
+				"Cuerpo y mente|Monje|XPHB|20"
 			],
 			"subclassTitle": "Subclase de monje",
 			"hasFluff": true,
@@ -553,7 +553,7 @@
 							}
 						}
 					},
-					"resourceName": "Focus Point",
+					"resourceName": "Punto de concentración",
 					"ability": "sab"
 				}
 			],
@@ -612,9 +612,9 @@
 	],
 	"classFeature": [
 		{
-			"name": "Bonus Unarmed Strike",
+			"name": "Ataque sin armas adicional",
 			"source": "XPHB",
-			"page": 101,
+			"page": 149,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
@@ -622,13 +622,13 @@
 			"level": 1,
 			"header": 2,
 			"entries": [
-				"You can make an {@variantrule Unarmed Strike|XPHB} as a {@variantrule Bonus Action|XPHB}."
+				"Puedes hacer un ataque sin armas como acción adicional."
 			]
 		},
 		{
-			"name": "Dexterous Attacks",
+			"name": "Ataques diestros",
 			"source": "XPHB",
-			"page": 101,
+			"page": 149,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
@@ -642,45 +642,45 @@
 		{
 			"name": "Artes marciales",
 			"source": "XPHB",
-			"page": 101,
+			"page": 149,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Your practice of Artes marciales gives you mastery of combat styles that use your {@variantrule Unarmed Strike|XPHB} and Monk weapons, which are the following:",
+				"La práctica de las artes marciales te ha otorgado un dominio de los estilos de combate que emplean ataques sin armas y armas de monje, que son las siguientes:",
 				{
 					"type": "list",
 					"items": [
-						"{@filter Simple Melee Weapons|items|type=simple weapon;melee weapon=sand}",
-						"{@filter Martial Melee Weapons that have the Light property|items|type=martial weapon;melee weapon=sand|property=light}"
+						"{@filter armas cuerpo a cuerpo sencillas;|items|type=simple weapon;melee weapon=sand}",
+						"{@filter armas cuerpo a cuerpo marciales que tengan la propiedad “ligera”.|items|type=martial weapon;melee weapon=sand|property=light}"
 					]
 				},
-				"You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a {@item Shield|XPHB}.",
+				"Obtienes los siguientes beneficios mientras no lleves armadura ni portes un escudo y estés desarmado o empuñes únicamente armas de monje:",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "refClassFeature",
-							"classFeature": "Bonus Unarmed Strike|Monje|XPHB|1"
+							"classFeature": "Ataque sin armas adicional|Monje|XPHB|1"
 						},
 						{
 							"type": "refClassFeature",
-							"classFeature": "Artes marciales Die|Monje|XPHB|1"
+							"classFeature": "Dado de Artes marciales|Monje|XPHB|1"
 						},
 						{
 							"type": "refClassFeature",
-							"classFeature": "Dexterous Attacks|Monje|XPHB|1"
+							"classFeature": "Ataques diestros|Monje|XPHB|1"
 						}
 					]
 				}
 			]
 		},
 		{
-			"name": "Artes marciales Die",
+			"name": "Dado de Artes marciales",
 			"source": "XPHB",
-			"page": 101,
+			"page": 149,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
@@ -688,26 +688,26 @@
 			"level": 1,
 			"header": 2,
 			"entries": [
-				"You can roll {@damage 1d6} in place of the normal damage of your {@variantrule Unarmed Strike|XPHB} or Monk weapons. This die changes as you gain Monk levels, as shown in the Artes marciales column of the Monk Features table."
+				"Puedes tirar {@damage 1d6} en lugar del daño normal de tus ataques sin armas o tus armas de monje. Este dado cambia según subes niveles como monje, como se muestra en la columna “Artes marciales” de la tabla “Rasgos de monje”."
 			]
 		},
 		{
 			"name": "Defensa sin armadura",
 			"source": "XPHB",
-			"page": 101,
+			"page": 149,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"While you aren't wearing armor or wielding a {@item Shield|XPHB}, your base {@variantrule Armor Class|XPHB} equals 10 plus your Dexterity and Wisdom modifiers."
+				"Mientras no lleves armadura ni portes un escudo, tu clase de armadura base será igual a 10 más tus modificadores por Destreza y Sabiduría."
 			]
 		},
 		{
-			"name": "Flurry of Blows",
+			"name": "Ráfaga de golpes",
 			"source": "XPHB",
-			"page": 101,
+			"page": 150,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
@@ -715,49 +715,49 @@
 			"level": 2,
 			"header": 2,
 			"consumes": {
-				"name": "Focus Point"
+				"name": "Punto de concentración"
 			},
 			"entries": [
-				"You can expend 1 Focus Point to make two Unarmed Strikes as a {@variantrule Bonus Action|XPHB}."
+				"Puedes gastar 1 punto de concentración para hacer dos ataques sin armas como acción adicional."
 			]
 		},
 		{
 			"name": "Concenctración de monje",
 			"source": "XPHB",
-			"page": 101,
+			"page": 149,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table.",
-				"You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.",
-				"When you expend a Focus Point, it is unavailable until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}, at the end of which you regain all your expended points.",
-				"Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}.",
+				"Tu concentración y tu entrenamiento marcial te permiten utilizar una reserva interna de energía extraordinaria. Esta energía se representa mediante los puntos de concentración. Tu nivel de monje determina cuántos de estos puntos posees, como se muestra en la columna “Puntos de concentración” de la tabla “Rasgos de monje”.",
+				"Puedes gastar estos puntos para mejorar o alimentar determinados rasgos de monje. Empiezas con tres de estos rasgos: Defensa paciente, Paso del viento y Ráfaga de golpes, que se detallan a continuación.",
+				"Cuando gastes un punto de concentración, no estará disponible hasta que finalices un descanso corto o largo, tras el cual recuperarás todos los puntos gastados.",
+				"Algunos rasgos que usan puntos de concentración requieren que tu objetivo haga una tirada de salvación. La CD de salvación es igual a 8 más tu modificador por Sabiduría y tu bonificador por competencia.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "refClassFeature",
-							"classFeature": "Flurry of Blows|Monje|XPHB|2"
+							"classFeature": "Defensa paciente|Monje|XPHB|2"
 						},
 						{
 							"type": "refClassFeature",
-							"classFeature": "Patient Defense|Monje|XPHB|2"
+							"classFeature": "Paso del viento|Monje|XPHB|2"
 						},
 						{
 							"type": "refClassFeature",
-							"classFeature": "Step of the Wind|Monje|XPHB|2"
+							"classFeature": "Ráfaga de golpes|Monje|XPHB|2"
 						}
 					]
 				}
 			]
 		},
 		{
-			"name": "Patient Defense",
+			"name": "Defensa paciente",
 			"source": "XPHB",
-			"page": 101,
+			"page": 149,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
@@ -765,16 +765,16 @@
 			"level": 2,
 			"header": 2,
 			"consumes": {
-				"name": "Focus Point"
+				"name": "Punto de concentración"
 			},
 			"entries": [
-				"You can take the {@action Disengage|XPHB} action as a {@variantrule Bonus Action|XPHB}. Alternatively, you can expend 1 Focus Point to take both the {@action Disengage|XPHB} and the {@action Dodge|XPHB} actions as a {@variantrule Bonus Action|XPHB}."
+				"Puedes llevar a cabo la acción de destrabarse como acción adicional. De manera alternativa, puedes gastar 1 punto de concentración para llevar a cabo tanto la acción de destrabarse como la de esquivar como acción adicional."
 			]
 		},
 		{
-			"name": "Step of the Wind",
+			"name": "Paso del viento",
 			"source": "XPHB",
-			"page": 101,
+			"page": 150,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
@@ -782,224 +782,224 @@
 			"level": 2,
 			"header": 2,
 			"consumes": {
-				"name": "Focus Point"
+				"name": "Punto de concentración"
 			},
 			"entries": [
-				"You can take the {@action Dash|XPHB} action as a {@variantrule Bonus Action|XPHB}. Alternatively, you can expend 1 Focus Point to take both the {@action Disengage|XPHB} and {@action Dash|XPHB} actions as a {@variantrule Bonus Action|XPHB}, and your jump distance is doubled for the turn."
+				"Puedes llevar a cabo la acción de correr como acción adicional. De manera alternativa, puedes gastar 1 punto de concentración para llevar a cabo tanto la acción de destrabarse como la de correr como acción adicional, y tu distancia de salto se duplicará durante el turno."
 			]
 		},
 		{
 			"name": "Movimiento sin armadura",
 			"source": "XPHB",
-			"page": 102,
+			"page": 150,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"Your speed increases by 10 feet while you aren't wearing armor or wielding a {@item Shield|XPHB}. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table."
+				"Tu velocidad aumenta en 10 pies (3 m) si no llevas armadura ni portas un escudo. Esta bonificación aumenta cuando alcanzas ciertos niveles de monje, como se muestra en la tabla “Rasgos de monje”."
 			]
 		},
 		{
 			"name": "Metabolismo asombroso",
 			"source": "XPHB",
-			"page": 102,
+			"page": 150,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"When you roll {@variantrule Initiative|XPHB}, you can regain all expended Focus Points. When you do so, roll your Artes marciales die, and regain a number of {@variantrule Hit Points|XPHB} equal to your Monk level plus the number rolled.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB}."
+				"Cuando tires iniciativa, puedes recuperar todos los puntos de concentración gastados. Cuando lo hagas, tira tu dado de Artes marciales y recupera una cantidad de puntos de golpe igual a tu nivel de monje más el resultado obtenido.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo."
 			]
 		},
 		{
 			"name": "Desviar ataques",
 			"source": "XPHB",
-			"page": 102,
+			"page": 150,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 3,
 			"consumes": {
-				"name": "Focus Point"
+				"name": "Punto de concentración"
 			},
 			"entries": [
-				"When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a {@variantrule Reaction|XPHB} to reduce the attack's total damage against you. The reduction equals {@dice 1d10} plus your Dexterity modifier and Monk level.",
-				"If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind {@variantrule Cover|XPHB|Total Cover} if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Artes marciales die plus your Dexterity modifier. The damage is the same type dealt by the attack."
+				"Cuando una tirada de ataque te acierte y su daño incluya los tipos contundente, cortante o perforante, puedes llevar a cabo una reacción para reducir el daño total que sufras del ataque. Se reducirá en @dice 1d10} más tu modificador por Destreza y nivel de monje.",
+				"Si reduces el daño a 0, puedes gastar 1 punto de concentración para redirigir una parte de la fuerza del ataque. Si lo haces, elige una criatura que puedas ver a 5 pies (1,5 m) o menos de ti si el ataque fue cuerpo a cuerpo o una criatura que puedas ver a 60 pies (18 m) o menos de ti que no esté tras cobertura completa si el ataque fue a distancia. La criatura deberá superar una tirada de salvación de Destreza o sufrirá una cantidad de daño igual al resultado de dos tiradas de tu dado de Artes marciales más tu modificador por Destreza. El daño será del mismo tipo que inflija el ataque."
 			]
 		},
 		{
 			"name": "Subclase de monje",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Subclase de monje of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower."
+				"Consigues una subclase de monje de tu elección. Una subclase es una especialización que te proporciona rasgos cuando alcanzas ciertos niveles de monje. De aquí en adelante, obtienes todos los rasgos de tu subclase que sean de tu nivel de monje e inferiores."
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. Vuelves a obtener este rasgo en los niveles 8, 12 y 16 de monje."
 			]
 		},
 		{
-			"name": "Slow Fall",
+			"name": "Caída lenta",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You can take a {@variantrule Reaction|XPHB} when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level."
+				"Puedes llevar a cabo una reacción cuando caigas para reducir cualquier daño que sufras de la caída en una cantidad igual a cinco veces tu nivel de monje."
 			]
 		},
 		{
-			"name": "Extra Attack",
+			"name": "Ataque adicional",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"You can attack twice instead of once whenever you take the {@action Attack|XPHB} action on your turn."
+				"Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer dos ataques en lugar de uno."
 			]
 		},
 		{
-			"name": "Stunning Strike",
+			"name": "Golpe aturdidor",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 5,
 			"consumes": {
-				"name": "Focus Point"
+				"name": "Punto de concentración"
 			},
 			"entries": [
-				"Once per turn when you hit a creature with a Monk weapon or an {@variantrule Unarmed Strike|XPHB}, you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the {@condition Aturdido|XPHB} condition until the start of your next turn. On a successful save, the target's {@variantrule Speed|XPHB} is halved until the start of your next turn, and the next attack roll made against the target before then has {@variantrule Advantage|XPHB}."
+				"Una vez por turno cuando aciertes a una criatura con un arma de monje o un ataque sin armas, puedes gastar 1 punto de concentración para intentar propinar un golpe aturdidor. El objetivo deberá hacer una tirada de salvación de Constitución. Si la falla, tendrá el estado de {@condition Aturdido|XPHB} hasta el principio de tu siguiente turno. Si la supera, su velocidad se reducirá a la mitad hasta el principio de tu siguiente turno y la siguiente tirada de ataque realizada contra él antes de ese momento tendrá ventaja."
 			]
 		},
 		{
-			"name": "Empowered Strikes",
+			"name": "Golpes potenciados",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"Whenever you deal damage with your {@variantrule Unarmed Strike|XPHB}, it can deal your choice of Force damage or its normal damage type."
+				"Siempre que inflijas daño con tu ataque sin armas, puedes elegir entre causar daño de fuerza o su tipo de daño normal."
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain a feature from your Subclase de monje."
+				"Ganas un rasgo de tu subclase de monje."
 			]
 		},
 		{
-			"name": "Evasion",
+			"name": "Evasión",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.",
-				"You don't benefit from this feature if you have the {@condition Incapacitated|XPHB} condition."
+				"Cuando sufras un efecto que te permita hacer una tirada de salvación de Destreza para sufrir solo la mitad de daño, no recibes daño alguno si la superas y'solo sufres la mitad si la fallas.",
+				"No te beneficias de este rasgo si tienes el estado de {@condition incapacitado|XPHB}."
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra dote de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
-			"name": "Acrobatic Movement",
+			"name": "Movimiento acrobático",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"While you aren't wearing armor or wielding a {@item Shield|XPHB}, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement."
+				"Mientras no lleves armadura ni portes un escudo, obtienes la capacidad de moverte por superficies verticales y sobre líquidos sin caerte."
 			]
 		},
 		{
-			"name": "Heightened Focus",
+			"name": "Concentración agudizada",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.",
+				"Tus rasgos Defensa paciente, Paso del viento y Ráfaga de golpes obtienen los siguientes beneficios:",
 				{
 					"type": "entries",
 					"name": "",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Flurry of Blows",
+							"name": "Defensa paciente",
 							"entries": [
-								"You can expend 1 Focus Point to use Flurry of Blows and make three Unarmed Strikes with it instead of two."
+								"Cuando gastes un punto de concentración para usar Defensa paciente, obtienes una cantidad de puntos de golpe temporales igual al resultado de dos tiradas de tu dado de Artes marciales."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Patient Defense",
+							"name": "Paso del viento",
 							"entries": [
-								"When you expend a Focus Point to use Patient Defense, you gain a number of {@variantrule Temporary Hit Points|XPHB} equal to two rolls of your Artes marciales die."
+								"Cuando gastes un punto de concentración para usar Paso del viento, puedes elegir una criatura voluntaria Grande o más pequeña que esté a 5 pies (1,5 m) o menos de ti. Moverás a la criatura contigo hasta el final de tu turno. El movimiento de la criatura no provoca ataques de oportunidad."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Step of the Wind",
+							"name": "Ráfaga de golpes",
 							"entries": [
-								"When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke {@action Opportunity Attack|XPHB|Opportunity Attacks}."
+								"Puedes gastar 1 punto de concentración para usar Ráfaga de golpes y hacer tres ataques sin armas en lugar de dos."
 							]
 						}
 					]
@@ -1007,155 +1007,155 @@
 			]
 		},
 		{
-			"name": "Self-Restoration",
+			"name": "Autorrestablecimiento",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: {@condition Hechizado|XPHB}, {@condition Asustado|XPHB}, or {@condition Envenenado|XPHB}.",
-				"In addition, forgoing food and drink doesn't give you levels of {@condition Cansancio|XPHB}."
+				"Por pura fuerza de voluntad, puedes eliminar uno de los siguientes estados que te afecten al final de cada uno de tus turnos: {@condition Asustado|XPHB}, {@condition Envenenado|XPHB} o {@condition Hechizado|XPHB}.",
+				"Además, privarte de comida y bebida no te aplica niveles de {@condition Cansancio|XPHB}."
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"You gain a feature from your Subclase de monje."
+				"Ganas un rasgo de tu subclase de monje."
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra dote de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
-			"name": "Deflect Energy",
+			"name": "Desviar energía",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
-				"You can now use your Desviar ataques feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing."
+				"Ahora puedes usar tu rasgo Desviar ataques contra ataques que causen cualquier tipo de daño, no solo contundente, cortante o perforante."
 			]
 		},
 		{
 			"name": "Disciplined Survivor",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 14,
 			"consumes": {
-				"name": "Focus Point"
+				"name": "Punto de concentración"
 			},
 			"entries": [
-				"Your physical and mental discipline grant you proficiency in all saving throws.",
-				"Additionally, whenever you make a saving throw and fail, you can expend 1 Focus Point to reroll it, and you must use the new roll."
+				"Tu disciplina física y mental te otorga competencia en todas las tiradas de salvación.",
+				"Además, cuando hagas una tirada de salvación y falles, puedes gastar 1 punto de concentración para repetirla, pero deberás utilizar el nuevo resultado."
 			]
 		},
 		{
-			"name": "Perfect Focus",
+			"name": "Concentración perfecta",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"When you roll {@variantrule Initiative|XPHB} and don't use Metabolismo asombroso, you regain expended Focus Points until you have 4 if you have 3 or fewer."
+				"Cuando tires iniciativa y no utilices Metabolismo asombroso, recuperas los puntos de concentración gastados hasta que tengas 4 si te quedan 3 o menos."
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra dote de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"You gain a feature from your Subclase de monje."
+				"Ganas un rasgo de tu subclase de monje."
 			]
 		},
 		{
-			"name": "Superior Defense",
+			"name": "Defensa superior",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 18,
 			"consumes": {
-				"name": "Focus Point",
+				"name": "Punto de concentración",
 				"amount": 3
 			},
 			"entries": [
-				"At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the {@condition Incapacitated|XPHB} condition. During that time, you have {@variantrule Resistance|XPHB} to all damage except Force damage."
+				"Al principio de tu turno, puedes gastar 3 puntos de concentración para protegerte del daño durante 1 minuto o hasta que tengas el estado de {@condition Incapacitado|XPHB}. Durante ese tiempo, tendrás resistencia a todo el daño excepto al de fuerza."
 			]
 		},
 		{
 			"name": "Don épico",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Boon of Irresistible Offense|XPHB} is recommended."
+				"Obtienes una {@filter Dote de Don épico|feats|category=DE} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. Se recomienda {@feat Don del ataque imparable|XPHB}."
 			]
 		},
 		{
-			"name": "Body and Mind",
+			"name": "Cuerpo y mente",
 			"source": "XPHB",
-			"page": 103,
+			"page": 151,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Monje",
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25."
+				"Has llevado tu cuerpo y mente a otro nivel. Tus puntuaciones de Destreza y Sabiduría aumentan en 4, hasta un máximo de 25."
 			]
 		}
 	],
@@ -1170,10 +1170,10 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"consumes": {
-				"name": "Focus Point"
+				"name": "Punto de concentración"
 			},
 			"entries": [
-				"At the start of your turn, you can expend 1 Focus Point to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the {@condition Incapacitated|XPHB} condition. You gain the following benefits while this feature is active.",
+				"At the start of your turn, you can expend 1 Punto de concentración to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the {@condition Incapacitated|XPHB} condition. You gain the following benefits while this feature is active.",
 				{
 					"type": "entries",
 					"entries": [
@@ -1241,12 +1241,12 @@
 			"level": 6,
 			"header": 2,
 			"consumes": {
-				"name": "Focus Point",
+				"name": "Punto de concentración",
 				"amount": 2
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend 2 Focus Points to cause elemental energy to burst in a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder.",
-				"Each creature in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} must make a Dexterity saving throw. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Artes marciales die. On a successful save, a creature takes half as much damage."
+				"As a {@action Magic|XPHB} action, you can expend 2 Punto de concentracións to cause elemental energy to burst in a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder.",
+				"Each creature in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} must make a Dexterity saving throw. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Dado de Artes marciales. On a successful save, a creature takes half as much damage."
 			]
 		},
 		{
@@ -1286,14 +1286,14 @@
 					"type": "entries",
 					"name": "Destructive Stride",
 					"entries": [
-						"When you use your Step of the Wind, your {@variantrule Speed|XPHB} increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Artes marciales die when you enter a space within 5 feet of it. The damage type is your choice of Acid, Cold, Fire, Lightning, or Thunder. A creature can take this damage only once per turn."
+						"When you use your Paso del viento, your {@variantrule Speed|XPHB} increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Dado de Artes marciales when you enter a space within 5 feet of it. The damage type is your choice of Acid, Cold, Fire, Lightning, or Thunder. A creature can take this damage only once per turn."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Empowered Strikes",
+					"name": "Golpes potenciados",
 					"entries": [
-						"Once on each of your turns, you can deal extra damage to a target equal to one roll of your Artes marciales die when you hit it with an {@variantrule Unarmed Strike|XPHB}. The extra damage is the same type dealt by that strike."
+						"Once on each of your turns, you can deal extra damage to a target equal to one roll of your Dado de Artes marciales when you hit it with an {@variantrule Unarmed Strike|XPHB}. The extra damage is the same type dealt by that strike."
 					]
 				}
 			]
@@ -1335,10 +1335,10 @@
 			"level": 3,
 			"header": 1,
 			"consumes": {
-				"name": "Focus Point"
+				"name": "Punto de concentración"
 			},
 			"entries": [
-				"Once per turn when you hit a creature with an {@variantrule Unarmed Strike|XPHB} and deal damage, you can expend 1 Focus Point to deal extra Necrotic damage equal to one roll of your Artes marciales die plus your Wisdom modifier."
+				"Once per turn when you hit a creature with an {@variantrule Unarmed Strike|XPHB} and deal damage, you can expend 1 Punto de concentración to deal extra Necrotic damage equal to one roll of your Dado de Artes marciales plus your Wisdom modifier."
 			]
 		},
 		{
@@ -1352,10 +1352,10 @@
 			"level": 3,
 			"header": 1,
 			"consumes": {
-				"name": "Focus Point"
+				"name": "Punto de concentración"
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend 1 Focus Point to touch a creature and restore a number of {@variantrule Hit Points|XPHB} equal to a roll of your Artes marciales die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing."
+				"As a {@action Magic|XPHB} action, you can expend 1 Punto de concentración to touch a creature and restore a number of {@variantrule Hit Points|XPHB} equal to a roll of your Dado de Artes marciales plus your Wisdom modifier. When you use your Ráfaga de golpes, you can replace one of the Unarmed Strikes with a use of this feature without expending a Punto de concentración for the healing."
 			]
 		},
 		{
@@ -1416,8 +1416,8 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"When you use Flurry of Blows, you can replace each of the Unarmed Strikes with a use of Hand of Healing without expending Focus Points for the healing.",
-				"In addition, when you make an {@variantrule Unarmed Strike|XPHB} with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without expending a Focus Point for Hand of Harm. You can still use Hand of Harm only once per turn.",
+				"When you use Ráfaga de golpes, you can replace each of the Unarmed Strikes with a use of Hand of Healing without expending Punto de concentracións for the healing.",
+				"In addition, when you make an {@variantrule Unarmed Strike|XPHB} with Ráfaga de golpes and deal damage, you can use Hand of Harm with that strike without expending a Punto de concentración for Hand of Harm. You can still use Hand of Harm only once per turn.",
 				"You can use these benefits a total number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
 			]
 		},
@@ -1432,11 +1432,11 @@
 			"level": 17,
 			"header": 2,
 			"consumes": {
-				"name": "Focus Point",
+				"name": "Punto de concentración",
 				"amount": 5
 			},
 			"entries": [
-				"Your mastery of life energy opens the door to the ultimate mercy. As a {@action Magic|XPHB} action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of {@variantrule Hit Points|XPHB} equal to {@dice 4d10} plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: {@condition Blinded|XPHB}, {@condition Ensordecido|XPHB}, {@condition Paralizado|XPHB}, {@condition Envenenado|XPHB}, and {@condition Aturdido|XPHB}.",
+				"Your mastery of life energy opens the door to the ultimate mercy. As a {@action Magic|XPHB} action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Punto de concentracións. The creature then returns to life with a number of {@variantrule Hit Points|XPHB} equal to {@dice 4d10} plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: {@condition Blinded|XPHB}, {@condition Ensordecido|XPHB}, {@condition Paralizado|XPHB}, {@condition Envenenado|XPHB}, and {@condition Aturdido|XPHB}.",
 				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB}."
 			]
 		},
@@ -1452,7 +1452,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target.",
+				"Whenever you hit a creature with an attack granted by your Ráfaga de golpes, you can impose one of the following effects on that target.",
 				{
 					"type": "entries",
 					"name": "Addle",
@@ -1509,7 +1509,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You gain the ability to heal yourself. As a {@variantrule Bonus Action|XPHB}, you can roll your Artes marciales die. You regain a number of {@variantrule Hit Points|XPHB} equal to the number rolled plus your Wisdom modifier (minimum of 1 {@variantrule Hit Points|XPHB|Hit Point} regained).",
+				"You gain the ability to heal yourself. As a {@variantrule Bonus Action|XPHB}, you can roll your Dado de Artes marciales. You regain a number of {@variantrule Hit Points|XPHB} equal to the number rolled plus your Wisdom modifier (minimum of 1 {@variantrule Hit Points|XPHB|Hit Point} regained).",
 				"You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
 			]
 		},
@@ -1526,7 +1526,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"When you take a {@variantrule Bonus Action|XPHB} other than Step of the Wind, you can also use Step of the Wind immediately after that {@variantrule Bonus Action|XPHB}."
+				"When you take a {@variantrule Bonus Action|XPHB} other than Paso del viento, you can also use Paso del viento immediately after that {@variantrule Bonus Action|XPHB}."
 			]
 		},
 		{
@@ -1542,11 +1542,11 @@
 			"level": 17,
 			"header": 2,
 			"consumes": {
-				"name": "Focus Point",
+				"name": "Punto de concentración",
 				"amount": 4
 			},
 			"entries": [
-				"You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an {@variantrule Unarmed Strike|XPHB}, you can expend 4 Focus Points to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the {@action Attack|XPHB} action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking {@damage 10d12} Force damage on a failed save or half as much damage on a successful one.",
+				"You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an {@variantrule Unarmed Strike|XPHB}, you can expend 4 Punto de concentracións to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the {@action Attack|XPHB} action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking {@damage 10d12} Force damage on a failed save or half as much damage on a successful one.",
 				"You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required)."
 			]
 		},
@@ -1604,10 +1604,10 @@
 			"level": 3,
 			"header": 2,
 			"consumes": {
-				"name": "Focus Point"
+				"name": "Punto de concentración"
 			},
 			"entries": [
-				"You can expend 1 Focus Point to cast the {@spell Darkness|XPHB} spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of {@variantrule Darkness|XPHB} to a space within 60 feet of yourself at the start of each of your turns."
+				"You can expend 1 Punto de concentración to cast the {@spell Darkness|XPHB} spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of {@variantrule Darkness|XPHB} to a space within 60 feet of yourself at the start of each of your turns."
 			]
 		},
 		{
@@ -1663,10 +1663,10 @@
 			"level": 11,
 			"header": 2,
 			"consumes": {
-				"name": "Focus Point"
+				"name": "Punto de concentración"
 			},
 			"entries": [
-				"You can draw on your Shadowfell connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Focus Point to remove the requirement that you must start and end in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB} for that use of the feature. As part of this {@variantrule Bonus Action|XPHB}, you can make an {@variantrule Unarmed Strike|XPHB} immediately after you teleport."
+				"You can draw on your Shadowfell connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Punto de concentración to remove the requirement that you must start and end in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB} for that use of the feature. As part of this {@variantrule Bonus Action|XPHB}, you can make an {@variantrule Unarmed Strike|XPHB} immediately after you teleport."
 			]
 		},
 		{
@@ -1680,11 +1680,11 @@
 			"level": 17,
 			"header": 2,
 			"consumes": {
-				"name": "Focus Point",
+				"name": "Punto de concentración",
 				"amount": 3
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action while entirely within {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the {@condition Incapacitated|XPHB} condition, or until you end your turn in {@variantrule Bright Light|XPHB}. While shrouded by these shadows, you gain the following benefits.",
+				"As a {@action Magic|XPHB} action while entirely within {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, you can expend 3 Punto de concentracións to shroud yourself with shadows for 1 minute, until you have the {@condition Incapacitated|XPHB} condition, or until you end your turn in {@variantrule Bright Light|XPHB}. While shrouded by these shadows, you gain the following benefits.",
 				{
 					"type": "entries",
 					"name": "Invisibility",
@@ -1703,7 +1703,7 @@
 					"type": "entries",
 					"name": "Shadow Flurry",
 					"entries": [
-						"You can use your Flurry of Blows without expending any Focus Points."
+						"You can use your Ráfaga de golpes without expending any Punto de concentracións."
 					]
 				}
 			]

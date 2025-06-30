@@ -863,21 +863,21 @@
 				"Reliable Talent|Rogue|XPHB|7",
 				"Ability Score Improvement|Rogue|XPHB|8",
 				{
-					"classFeature": "Subclass Feature|Rogue|XPHB|9",
+					"classFeature": "Rasgo de subclase|Rogue|XPHB|9",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Rogue|XPHB|10",
 				"Improved Cunning Strike|Rogue|XPHB|11",
 				"Ability Score Improvement|Rogue|XPHB|12",
 				{
-					"classFeature": "Subclass Feature|Rogue|XPHB|13",
+					"classFeature": "Rasgo de subclase|Rogue|XPHB|13",
 					"gainSubclassFeature": true
 				},
 				"Devious Strikes|Rogue|XPHB|14",
 				"Slippery Mind|Rogue|XPHB|15",
 				"Ability Score Improvement|Rogue|XPHB|16",
 				{
-					"classFeature": "Subclass Feature|Rogue|XPHB|17",
+					"classFeature": "Rasgo de subclase|Rogue|XPHB|17",
 					"gainSubclassFeature": true
 				},
 				"Elusive|Rogue|XPHB|18",
@@ -2587,7 +2587,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 130,
 			"srd52": true,
@@ -2639,7 +2639,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 131,
 			"srd52": true,
@@ -2747,7 +2747,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 131,
 			"srd52": true,

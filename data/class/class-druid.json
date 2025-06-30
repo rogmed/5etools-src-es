@@ -1023,18 +1023,18 @@
 				"Ability Score Improvement|Druid|XPHB|4",
 				"Wild Resurgence|Druid|XPHB|5",
 				{
-					"classFeature": "Subclass Feature|Druid|XPHB|6",
+					"classFeature": "Rasgo de subclase|Druid|XPHB|6",
 					"gainSubclassFeature": true
 				},
 				"Elemental Fury|Druid|XPHB|7",
 				"Ability Score Improvement|Druid|XPHB|8",
 				{
-					"classFeature": "Subclass Feature|Druid|XPHB|10",
+					"classFeature": "Rasgo de subclase|Druid|XPHB|10",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Druid|XPHB|12",
 				{
-					"classFeature": "Subclass Feature|Druid|XPHB|14",
+					"classFeature": "Rasgo de subclase|Druid|XPHB|14",
 					"gainSubclassFeature": true
 				},
 				"Improved Elemental Fury|Druid|XPHB|15",
@@ -2627,7 +2627,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 81,
 			"srd52": true,
@@ -2707,7 +2707,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 81,
 			"srd52": true,
@@ -2733,7 +2733,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 81,
 			"srd52": true,

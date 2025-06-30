@@ -1007,7 +1007,7 @@
 				"Ability Score Improvement|Cleric|XPHB|4",
 				"Sear Undead|Cleric|XPHB|5",
 				{
-					"classFeature": "Subclass Feature|Cleric|XPHB|6",
+					"classFeature": "Rasgo de subclase|Cleric|XPHB|6",
 					"gainSubclassFeature": true
 				},
 				"Blessed Strikes|Cleric|XPHB|7",
@@ -1017,7 +1017,7 @@
 				"Improved Blessed Strikes|Cleric|XPHB|14",
 				"Ability Score Improvement|Cleric|XPHB|16",
 				{
-					"classFeature": "Subclass Feature|Cleric|XPHB|17",
+					"classFeature": "Rasgo de subclase|Cleric|XPHB|17",
 					"gainSubclassFeature": true
 				},
 				"Don épico|Cleric|XPHB|19",
@@ -3542,7 +3542,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 71,
 			"srd52": true,
@@ -3693,7 +3693,7 @@
 			]
 		},
 		{
-			"name": "Subclass Feature",
+			"name": "Rasgo de subclase",
 			"source": "XPHB",
 			"page": 71,
 			"srd52": true,

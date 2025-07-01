@@ -3243,7 +3243,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Spellcasting Focus",
+							"name": "Canalizador mágico",
 							"entries": [
 								"You can use the book as a {@variantrule Spellcasting Focus|XPHB}."
 							]

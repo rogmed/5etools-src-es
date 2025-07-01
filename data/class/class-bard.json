@@ -753,7 +753,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Armadura de cuero|XPHB}, 2 {@item Dagger|XPHB}, {@item Musical Instrument|XPHB} of your choice, {@item Entertainer's Pack|XPHB}, 19 GP; or (B) 90 GP"
+					"{@i Choose A or B:} (A) {@item Armadura de cuero|XPHB}, 2 {@item Daga|XPHB}, {@item Musical Instrument|XPHB} of your choice, {@item Entertainer's Pack|XPHB}, 19 GP; or (B) 90 GP"
 				]
 			},
 			"multiclassing": {
@@ -1976,7 +1976,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Spellcasting Focus",
+					"name": "Canalizador mágico",
 					"entries": [
 						"You can use a {@item musical instrument|PHB} as a spellcasting focus for your bard spells."
 					]
@@ -2410,7 +2410,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Spellcasting Focus",
+							"name": "Canalizador mágico",
 							"entries": [
 								"You can use a {@item Musical Instrument|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Bard spells."
 							]

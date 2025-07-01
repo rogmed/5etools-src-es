@@ -81,8 +81,8 @@
 			]
 		},
 		{
-			"name": "Battleaxe",
-			"originalname": "",
+			"name": "Hacha de guerra",
+			"originalname": "Battleaxe",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -107,8 +107,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Blowgun",
-			"originalname": "",
+			"name": "Cerbatana",
+			"originalname": "Blowgun",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -224,8 +224,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Club",
-			"originalname": "",
+			"name": "Garrote",
+			"originalname": "Club",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -265,7 +265,7 @@
 			"value": 1000
 		},
 		{
-			"name": "Dagger",
+			"name": "Daga",
 			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
@@ -293,8 +293,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Dart",
-			"originalname": "",
+			"name": "Dardo",
+			"originalname": "Dart",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -433,8 +433,8 @@
 			]
 		},
 		{
-			"name": "Flail",
-			"originalname": "",
+			"name": "Mangual",
+			"originalname": "Flail",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -489,8 +489,8 @@
 			]
 		},
 		{
-			"name": "Glaive",
-			"originalname": "",
+			"name": "Guja",
+			"originalname": "Glaive",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -516,8 +516,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Greataxe",
-			"originalname": "",
+			"name": "Hacha a dos manos",
+			"originalname": "Greataxe",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -542,8 +542,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Greatclub",
-			"originalname": "",
+			"name": "Garrote grande",
+			"originalname": "Greatclub",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -567,8 +567,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Greatsword",
-			"originalname": "",
+			"name": "Espadón",
+			"originalname": "Greatsword",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -593,8 +593,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Halberd",
-			"originalname": "",
+			"name": "Alabarda",
+			"originalname": "Halberd",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -637,8 +637,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Hand Crossbow",
-			"originalname": "",
+			"name": "Ballesta de mano",
+			"originalname": "Hand Crossbow",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -666,8 +666,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Handaxe",
-			"originalname": "",
+			"name": "Hacha de mano",
+			"originalname": "Handaxe",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -693,8 +693,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Heavy Crossbow",
-			"originalname": "",
+			"name": "Ballesta pesada",
+			"originalname": "Heavy Crossbow",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -774,8 +774,8 @@
 			]
 		},
 		{
-			"name": "Javelin",
-			"originalname": "",
+			"name": "Jabalina",
+			"originalname": "Javelin",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -800,8 +800,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Lance",
-			"originalname": "",
+			"name": "Lanza de caballería",
+			"originalname": "Lance",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -849,8 +849,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Light Crossbow",
-			"originalname": "",
+			"name": "Ballesta ligera",
+			"originalname": "Light Crossbow",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -878,8 +878,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Light Hammer",
-			"originalname": "",
+			"name": "Martillo ligero",
+			"originalname": "Light Hammer",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -905,8 +905,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Longbow",
-			"originalname": "",
+			"name": "Arco largo",
+			"originalname": "Longbow",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -934,8 +934,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Longsword",
-			"originalname": "",
+			"name": "Espada larga",
+			"originalname": "Longsword",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1030,8 +1030,8 @@
 			]
 		},
 		{
-			"name": "Mace",
-			"originalname": "",
+			"name": "Maza",
+			"originalname": "Maze",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1052,8 +1052,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Maul",
-			"originalname": "",
+			"name": "Maza a dos manos",
+			"originalname": "Maul",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1078,8 +1078,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Morningstar",
-			"originalname": "",
+			"name": "Lucero del alba",
+			"originalname": "Morningstar",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1100,8 +1100,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Musket",
-			"originalname": "",
+			"name": "Mosquete",
+			"originalname": "Musket",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1237,8 +1237,8 @@
 			]
 		},
 		{
-			"name": "Pike",
-			"originalname": "",
+			"name": "Pica",
+			"originalname": "Pike",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1263,8 +1263,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Pistol",
-			"originalname": "",
+			"name": "Pistola",
+			"originalname": "Pistol",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1309,8 +1309,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Quarterstaff",
-			"originalname": "",
+			"name": "Bastón",
+			"originalname": "Quarterstaff",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1334,8 +1334,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Rapier",
-			"originalname": "",
+			"name": "Estoque",
+			"originalname": "Rapier",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1410,8 +1410,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Scimitar",
-			"originalname": "",
+			"name": "Cimitarra",
+			"originalname": "Scimitar",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1472,7 +1472,7 @@
 		},
 		{
 			"name": "Escudo",
-			"originalname": "",
+			"originalname": "Shield",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -1486,8 +1486,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Shortbow",
-			"originalname": "",
+			"name": "Arco corto",
+			"originalname": "Shortbow",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1514,8 +1514,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Shortsword",
-			"originalname": "",
+			"name": "Espada corta",
+			"originalname": "Shortsword",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1540,8 +1540,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Sickle",
-			"originalname": "",
+			"name": "Hoz",
+			"originalname": "Sickle",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1564,8 +1564,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Sling",
-			"originalname": "",
+			"name": "Honda",
+			"originalname": "Sling",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1629,8 +1629,8 @@
 			]
 		},
 		{
-			"name": "Spear",
-			"originalname": "",
+			"name": "Lanza",
+			"originalname": "Spear",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1658,7 +1658,7 @@
 		},
 		{
 			"name": "Armadura de bandas",
-			"originalname": "",
+			"originalname": "Splint Armor",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -1675,11 +1675,11 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Staff",
+			"name": "Bastón (canalizador)",
 			"group": [
 				"Arcane Focus"
 			],
-			"originalname": "",
+			"originalname": "Staff",
 			"source": "XPHB",
 			"page": 224,
 			"srd52": true,
@@ -1718,8 +1718,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Trident",
-			"originalname": "",
+			"name": "Tridente",
+			"originalname": "Trident",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1796,8 +1796,8 @@
 			"value": 1000
 		},
 		{
-			"name": "War Pick",
-			"originalname": "",
+			"name": "Pico de guerra",
+			"originalname": "War Pick",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1821,8 +1821,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Warhammer",
-			"originalname": "",
+			"name": "Martillo de guerra",
+			"originalname": "Warhammer",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1847,8 +1847,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Whip",
-			"originalname": "",
+			"name": "Látigo",
+			"originalname": "Whip",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1872,13 +1872,13 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Wooden Staff",
+			"name": "Bastón de madera",
 			"group": [
 				"Druidic Focus"
 			],
-			"originalname": "",
+			"originalname": "Wooden Staff",
 			"source": "XPHB",
-			"page": 225,
+			"page": 224,
 			"srd52": true,
 			"edition": "one",
 			"type": "SCF|XPHB",
@@ -1909,9 +1909,9 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Two-Handed",
+					"name": "A dos manos",
 					"entries": [
-						"A Two-Handed weapon requires two hands when you attack with it."
+						"Estas armas requieren el uso de las dos manos."
 					]
 				}
 			]
@@ -1926,9 +1926,9 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Ammunition",
+					"name": "Munición",
 					"entries": [
-						"You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon\u0027s range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost."
+						"Solo puedes realizar un ataque a distancia usando un arma con esta propiedad si tienes munición para ella. El tipo de munición necesaria se especifica junto con el alcance del arma. Cada ataque gasta una unidad de munición. Extraer la munición forma parte del ataque (necesitas una mano libre para cargar un arma de una mano). Tras un combate, puedes dedicar 1 minuto a recuperar la mitad de la munición (redondeada hacia abajo) que hayas usado en él."
 					]
 				}
 			]
@@ -1943,9 +1943,9 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Finesse",
+					"name": "Sutil",
 					"entries": [
-						"When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
+						"Cuando ataques con un arma sutil, podrás elegir realizar las tiradas de ataque y de daño con el modificador por Fuerza o con el modificador por Destreza. Eso sí, deberás usar el mismo modificador para ambas tiradas."
 					]
 				}
 			]
@@ -1960,9 +1960,9 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Heavy",
+					"name": "Pesada",
 					"entries": [
-						"You have {@variantrule Disadvantage|XPHB} on attack rolls with a Heavy weapon if it\u0027s a Melee weapon and your Strength score isn\u0027t at least 13 or if it\u0027s a Ranged weapon and your Dexterity score isn\u0027t at least 13."
+						"Tendrás desventaja en las tiradas de ataque con un arma pesada si es un arma cuerpo a cuerpo y tu puntuación de Fuerza no llega a 13 o si es un arma a distancia y tu puntuación de Destreza no llega a 13."
 					]
 				}
 			]
@@ -1977,9 +1977,9 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Light",
+					"name": "Ligera",
 					"entries": [
-						"When you take the {@action Attack|XPHB} action on your turn and attack with a Light weapon, you can make one extra attack as a {@variantrule Bonus Action|XPHB} later on the same turn. That extra attack must be made with a different Light weapon, and you don\u0027t add your ability modifier to the extra attack\u0027s damage unless that modifier is negative. For example, you can attack with a {@item Shortsword|XPHB} in one hand and a {@item Dagger|XPHB} in the other using the {@action Attack|XPHB} action and a {@variantrule Bonus Action|XPHB}, but you don\u0027t add your Strength or Dexterity modifier to the damage roll of the {@variantrule Bonus Action|XPHB} unless that modifier is negative."
+						"Cuando lleves a cabo la acción de atacar en tu turno y ataques con un arma ligera, podrás hacer un ataque extra como acción adicional más adelante en el mismo turno. Ese ataque extra debe hacerse con otra arma ligera y no sumarás tu modificador por característica al daño del ataque extra salvo que el modificador sea negativo. Por ejemplo, puedes atacar con una espada corta en una mano y una daga en la otra usando la acción de atacar y una acción adicional, pero no sumarás tu modificador por Fuerza o Destreza a la tirada de daño de la acción adicional salvo que el modificador sea negativo."
 					]
 				}
 			]
@@ -1994,9 +1994,9 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Loading",
+					"name": "Recarga",
 					"entries": [
-						"You can fire only one piece of ammunition from a Loading weapon when you use an action, a {@variantrule Bonus Action|XPHB}, or a {@variantrule Reaction|XPHB} to fire it, regardless of the number of attacks you can normally make."
+						"Cuando utilices una acción, una acción adicional o una reacción para atacar con un arma con recarga, solo podrás disparar una unidad de munición, incluso aunque normalmente pudieras hacer más de un ataque."
 					]
 				}
 			]
@@ -2011,9 +2011,9 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Reach",
+					"name": "Gran alcance",
 					"entries": [
-						"A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it."
+						"Cuando empleas un arma con esta propiedad, tu alcance aumenta en 5 pies (1,5 m) tanto al atacar como a efectos de determinar tu alcance en los ataques de oportunidad que hagas con ella."
 					]
 				}
 			]
@@ -2028,9 +2028,9 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Thrown",
+					"name": "Arrojadiza",
 					"entries": [
-						"If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon."
+						"Si un arma tiene esta propiedad, puedes lanzarla para realizar un ataque a distancia y puedes desenvainar esa arma como parte del ataque. Si se trata de un arma cuerpo a cuerpo, las tiradas de ataque y de daño usan el mismo modificador por característica que usas para hacer ataques cuerpo a cuerpo con esa arma."
 					]
 				}
 			]
@@ -2045,9 +2045,9 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Versatile",
+					"name": "Versátil",
 					"entries": [
-						"A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack."
+						"Estas armas pueden utilizarse con una o dos manos. Tras esta propiedad aparece entre paréntesis un valor de daño. El arma causa ese daño cuando se usa a dos manos para hacer un ataque cuerpo a cuerpo."
 					]
 				}
 			]
@@ -2153,7 +2153,7 @@
 			"basicRules2024": true
 		},
 		{
-			"name": "Melee Weapon",
+			"name": "Arma cuerpo a cuerpo",
 			"abbreviation": "M",
 			"originalname": "",
 			"source": "XPHB",
@@ -2185,7 +2185,7 @@
 			"basicRules2024": true
 		},
 		{
-			"name": "Ranged Weapon",
+			"name": "Arma a distancia",
 			"abbreviation": "R",
 			"originalname": "",
 			"source": "XPHB",
@@ -2194,9 +2194,9 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Range",
+					"name": "Alcance",
 					"entries": [
-						"A Range weapon has a range in parentheses after the Ammunition or Thrown property. The range lists two numbers. The first is the weapon\u0027s normal range in feet, and the second is the weapon\u0027s long range. When attacking a target beyond normal range, you have {@variantrule Disadvantage|XPHB} on the attack roll. You can\u0027t attack a target beyond the long range."
+						"El alcance de un arma a distancia aparece entre paréntesis después de las propiedades “arrojadiza” o “munición”. El alcance muestra dos números: el primero es el alcance normal y el segundo es el alcance largo, ambos indicados en metros. Cuando ataques a un objetivo que esté más allá del alcance normal, tendrás desventaja en la tirada de ataque, y no podrás atacar a un objetivo que esté más allá del alcance largo."
 					]
 				}
 			]
@@ -2218,7 +2218,7 @@
 			"basicRules2024": true
 		},
 		{
-			"name": "Spellcasting Focus",
+			"name": "Canalizador mágico",
 			"abbreviation": "SCF",
 			"originalname": "",
 			"source": "XPHB",
@@ -2536,7 +2536,6 @@
 		{
 			"name": "Hender",
 			"originalname": "Cleave",
-			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2548,7 +2547,6 @@
 		{
 			"name": "Rozar",
 			"originalname": "Graze",
-			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2560,7 +2558,6 @@
 		{
 			"name": "Mellar",
 			"originalname": "Nick",
-			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2572,7 +2569,6 @@
 		{
 			"name": "Empujar",
 			"originalname": "Push",
-			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2584,7 +2580,6 @@
 		{
 			"name": "Debilitar",
 			"originalname": "Sap",
-			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2596,7 +2591,6 @@
 		{
 			"name": "Ralentizar",
 			"originalname": "Slow",
-			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2608,7 +2602,6 @@
 		{
 			"name": "Derribar",
 			"originalname": "Topple",
-			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2620,7 +2613,6 @@
 		{
 			"name": "Molestar",
 			"originalname": "Vex",
-			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,

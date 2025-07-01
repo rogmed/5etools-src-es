@@ -316,7 +316,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A, B, or C:} (A) {@item Cota de malla|XPHB}, {@item Greatsword|XPHB}, {@item Flail|XPHB}, 8 {@item Javelin|XPHB|Javelins}, {@item Dungeoneer's Pack|XPHB}, and 4 GP; (B) {@item Armadura de cuero tachonado|XPHB}, {@item Scimitar|XPHB}, {@item Shortsword|XPHB}, {@item Longbow|XPHB}, {@item Arrows (20)|XPHB|20 Arrows}, {@item Quiver|XPHB}, {@item Dungeoneer's Pack|XPHB}, and 11 GP; or (C) 155 GP"
+					"{@i Choose A, B, or C:} (A) {@item Cota de malla|XPHB}, {@item Espadón|XPHB}, {@item Mangual|XPHB}, 8 {@item Jabalina|XPHB|Javelins}, {@item Dungeoneer's Pack|XPHB}, and 4 GP; (B) {@item Armadura de cuero tachonado|XPHB}, {@item Cimitarra|XPHB}, {@item Espada corta|XPHB}, {@item Arco largo|XPHB}, {@item Arrows (20)|XPHB|20 Arrows}, {@item Quiver|XPHB}, {@item Dungeoneer's Pack|XPHB}, and 11 GP; or (C) 155 GP"
 				]
 			},
 			"multiclassing": {
@@ -4770,7 +4770,7 @@
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Spellcasting Focus",
+							"name": "Canalizador mágico",
 							"entries": [
 								"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Wizard spells."
 							]

@@ -24375,7 +24375,7 @@
 									"id": "420",
 									"entries": [
 										"Items in the Staff category vary widely in appearance: some are of nearly equal diameter throughout and smooth, others are gnarled and twisted, some are made of wood, and others are composed of polished metal or crystal. A staff weighs between 2 and 7 pounds and serves well as a walking stick or cane.",
-										"Unless its description notes otherwise, a staff can be used as a nonmagical {@item Quarterstaff|XPHB} and an {@item Arcane Focus|XPHB}."
+										"Unless its description notes otherwise, a staff can be used as a nonmagical {@item Bastón|XPHB} and an {@item Arcane Focus|XPHB}."
 									]
 								},
 								{
@@ -24394,7 +24394,7 @@
 									"page": 217,
 									"id": "422",
 									"entries": [
-										"A magic weapon is typically a magical version of a weapon from the {@book Player's Handbook|XPHB}. Some magic weapons specify the type of weapon they are in their descriptions, such as a {@item Longsword|XPHB} or {@item Longbow|XPHB}. If no weapon type is specified, you may choose the type or determine it randomly.",
+										"A magic weapon is typically a magical version of a weapon from the {@book Player's Handbook|XPHB}. Some magic weapons specify the type of weapon they are in their descriptions, such as a {@item Espada larga|XPHB} or {@item Arco largo|XPHB}. If no weapon type is specified, you may choose the type or determine it randomly.",
 										{
 											"type": "entries",
 											"name": "Ammunition",
@@ -24849,7 +24849,7 @@
 													"{@item Calligrapher's Supplies|XPHB}"
 												],
 												[
-													"Staff",
+													"Bastón",
 													"{@item Woodcarver's Tools|XPHB}"
 												],
 												[

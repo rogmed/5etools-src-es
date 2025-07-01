@@ -1505,7 +1505,7 @@
 						],
 						[
 							"Weapon Expert",
-							"Choose a kind of Simple or Martial weapon, such as {@item Spear|XPHB} or {@item Longbow|XPHB}. If you aren't proficient with the weapon, you gain proficiency with it. If you already have proficiency with the weapon, you can use its mastery property."
+							"Choose a kind of Simple or Martial weapon, such as {@item Lanza|XPHB} or {@item Arco largo|XPHB}. If you aren't proficient with the weapon, you gain proficiency with it. If you already have proficiency with the weapon, you can use its mastery property."
 						]
 					]
 				},

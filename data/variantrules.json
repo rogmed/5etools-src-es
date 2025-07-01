@@ -6367,7 +6367,7 @@
 							"type": "entries",
 							"name": "Weapon Equivalents",
 							"entries": [
-								"If an improvised weapon resembles a Simple or Martial weapon, the DM may say it functions as that weapon and uses that weapon's rules. For example, the DM could treat a table leg as a {@item Club|XPHB}."
+								"If an improvised weapon resembles a Simple or Martial weapon, the DM may say it functions as that weapon and uses that weapon's rules. For example, the DM could treat a table leg as a {@item Garrote|XPHB}."
 							]
 						}
 					]
@@ -13047,7 +13047,7 @@
 			]
 		},
 		{
-			"name": "Spellcasting Focus",
+			"name": "Canalizador mágico",
 			"source": "XPHB",
 			"page": 374,
 			"srd52": true,

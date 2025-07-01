@@ -652,7 +652,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Armadura de cuero|XPHB}, {@item Shield|XPHB}, {@item Sickle|XPHB}, {@item Druidic Focus|XPHB|Druidic Focus (Quarterstaff)}, {@item Explorer's Pack|XPHB}, {@item Herbalism kit|XPHB}, 9 GP; or (B) 50 GP"
+					"{@i Choose A or B:} (A) {@item Armadura de cuero|XPHB}, {@item Shield|XPHB}, {@item Hoz|XPHB}, {@item Druidic Focus|XPHB|Druidic Focus (Quarterstaff)}, {@item Explorer's Pack|XPHB}, {@item Herbalism kit|XPHB}, 9 GP; or (B) 50 GP"
 				]
 			},
 			"multiclassing": {
@@ -2058,7 +2058,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Spellcasting Focus",
+					"name": "Canalizador mágico",
 					"entries": [
 						"You can use a {@item druidic focus|phb} as a spellcasting focus for your druid spells."
 					]
@@ -2439,7 +2439,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Spellcasting Focus",
+							"name": "Canalizador mágico",
 							"entries": [
 								"You can use a {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Druid spells."
 							]

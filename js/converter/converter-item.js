@@ -556,7 +556,7 @@ export class ConverterItem extends ConverterBase {
 		"greatsword, longsword, rapier, scimitar, or shortsword": [{"sword": true}],
 		"glaive, greatsword, longsword, or scimitar": [{"sword": true, "dmgType": "S"}, {"sword": true, "dmgType": "S"}],
 		"glaive, greatsword, longsword, rapier, scimitar, or shortsword": [{"sword": true}, {"glaive": true}],
-		"glaive, greatsword, longsword, rapier, scimitar, sickle, or shortsword": [{"sword": true}, {"glaive": true}, {"name": "Sickle"}],
+		"glaive, greatsword, longsword, rapier, scimitar, sickle, or shortsword": [{"sword": true}, {"glaive": true}, {"name": "Hoz"}],
 
 		"maul or warhammer": ({styleHint}) => [{"hammer": true, "property": styleHint === SITE_STYLE__ONE ? Parser.ITM_PROP__ODND_TWO_HANDED : Parser.ITM_PROP__TWO_HANDED}, {"hammer": true, "property": styleHint === SITE_STYLE__ONE ? Parser.ITM_PROP__ODND_VERSATILE : Parser.ITM_PROP__VERSATILE}],
 		// endregion
@@ -635,7 +635,7 @@ export class ConverterItem extends ConverterBase {
 	}
 
 	static _setQuarterstaffStats (stats, options) {
-		const cpyStatsQuarterstaff = MiscUtil.copy(ConverterItem._ALL_ITEMS.find(it => it.name === "Quarterstaff" && it.source === (options.styleHint === SITE_STYLE__CLASSIC ? Parser.SRC_PHB : Parser.SRC_XPHB)));
+		const cpyStatsQuarterstaff = MiscUtil.copy(ConverterItem._ALL_ITEMS.find(it => it.name === "Bastón" && it.source === (options.styleHint === SITE_STYLE__CLASSIC ? Parser.SRC_PHB : Parser.SRC_XPHB)));
 
 		// remove unwanted properties
 		delete cpyStatsQuarterstaff.name;

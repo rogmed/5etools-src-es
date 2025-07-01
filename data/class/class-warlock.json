@@ -592,7 +592,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Armadura de cuero|XPHB}, {@item Sickle|XPHB}, 2 {@item Dagger|XPHB|Daggers}, {@item Arcane Focus|XPHB} ({@item orb|XPHB}), {@item Book|XPHB} (occult lore), {@item Scholar's Pack|XPHB}, and 15 GP; or (B) 100 GP"
+					"{@i Choose A or B:} (A) {@item Armadura de cuero|XPHB}, {@item Hoz|XPHB}, 2 {@item Daga|XPHB|Daggers}, {@item Arcane Focus|XPHB} ({@item orb|XPHB}), {@item Book|XPHB} (occult lore), {@item Scholar's Pack|XPHB}, and 15 GP; or (B) 100 GP"
 				]
 			},
 			"multiclassing": {
@@ -1835,7 +1835,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Spellcasting Focus",
+					"name": "Canalizador mágico",
 					"entries": [
 						"You can use an {@item arcane focus|phb} as a spellcasting focus for your warlock spells."
 					]
@@ -2388,7 +2388,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Spellcasting Focus",
+							"name": "Canalizador mágico",
 							"entries": [
 								"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Warlock spells."
 							]

@@ -2905,95 +2905,95 @@
 									],
 									"rows": [
 										[
-											"Battleaxe",
+											"Hacha de guerra",
 											"fu (China), masakari (Japan)"
 										],
 										[
-											"Club",
+											"Garrote",
 											"bian (China), tonfa (Japan)"
 										],
 										[
-											"Dagger",
+											"Daga",
 											"bishou, tamo (China), kozuka, tanto (Japan)"
 										],
 										[
-											"Dart",
+											"Dardo",
 											"shuriken (Japan)"
 										],
 										[
-											"Flail",
+											"Mangual",
 											"nunchaku (Japan)"
 										],
 										[
-											"Glaive",
+											"Guja",
 											"guandao (China), bisento, naginata (Japan)"
 										],
 										[
-											"Greatclub",
+											"Garrote grande",
 											"tetsubo (Japan)"
 										],
 										[
-											"Greatsword",
+											"Espadón",
 											"changdao (China), nodachi (Japan)"
 										],
 										[
-											"Halberd",
+											"Alabarda",
 											"ji (China), kamayari (Japan)"
 										],
 										[
-											"Handaxe",
+											"Hacha de mano",
 											"ono (Japan)"
 										],
 										[
-											"Javelin",
+											"Jabalina",
 											"mau (China), uchi-ne (Japan)"
 										],
 										[
-											"Lance",
+											"Lanza de caballería",
 											"umayari (Japan)"
 										],
 										[
-											"Longbow",
+											"Arco largo",
 											"daikyu (Japan)"
 										],
 										[
-											"Longsword",
+											"Espada larga",
 											"jian (China), katana (Japan)"
 										],
 										[
-											"Mace",
+											"Maza",
 											"chui (China), kanabo (Japan)"
 										],
 										[
-											"Pike",
+											"Pica",
 											"mao (China), nagaeyari (Japan)"
 										],
 										[
-											"Quarterstaff",
+											"Bastón",
 											"gun (China), bo (Japan)"
 										],
 										[
-											"Scimitar",
+											"Cimitarra",
 											"liuyedao (China), wakizashi (Japan)"
 										],
 										[
-											"Shortbow",
+											"Arco corto",
 											"hankyu (Japan)"
 										],
 										[
-											"Shortsword",
+											"Espada corta",
 											"shuangdao (China)"
 										],
 										[
-											"Sickle",
+											"Hoz",
 											"kama (Japan)"
 										],
 										[
-											"Spear",
+											"Lanza",
 											"qiang (China), yari (Japan)"
 										],
 										[
-											"Trident",
+											"Tridente",
 											"cha (China), magariyari (Japan)"
 										],
 										[
@@ -21322,7 +21322,7 @@
 											"type": "row",
 											"style": "row-indent-first",
 											"row": [
-												"Pistol",
+												"Pistola",
 												"250 gp",
 												"{@dice 1d10} piercing",
 												"3 lb.",
@@ -21333,7 +21333,7 @@
 											"type": "row",
 											"style": "row-indent-first",
 											"row": [
-												"Musket",
+												"Mosquete",
 												"500 gp",
 												"{@dice 1d12} piercing",
 												"10 lb.",

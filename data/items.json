@@ -548,7 +548,7 @@
 							"name": "Craft:",
 							"type": "item",
 							"entries": [
-								"{@item Club|XPHB}, {@item Greatclub|XPHB}, {@item Quarterstaff|XPHB}, {@item Barrel|XPHB}, {@item Chest|XPHB}, {@item Ladder|XPHB}, {@item Pole|XPHB}, {@item Portable Ram|XPHB}, {@item Torch|XPHB}"
+								"{@item Garrote|XPHB}, {@item Garrote grande|XPHB}, {@item Bastón|XPHB}, {@item Barrel|XPHB}, {@item Chest|XPHB}, {@item Ladder|XPHB}, {@item Pole|XPHB}, {@item Portable Ram|XPHB}, {@item Torch|XPHB}"
 							]
 						}
 					]
@@ -1495,7 +1495,7 @@
 			"weight": 0.5,
 			"value": 10,
 			"entries": [
-				"Iron Spikes come in bundles of ten. As a {@action Utilize|XPHB} action, you can use a blunt object, such as a {@item Light Hammer|XPHB}, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a {@item Rope|XPHB} or {@item Chain|XPHB} to the Spike."
+				"Iron Spikes come in bundles of ten. As a {@action Utilize|XPHB} action, you can use a blunt object, such as a {@item Martillo ligero|XPHB}, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a {@item Rope|XPHB} or {@item Chain|XPHB} to the Spike."
 			]
 		},
 		{
@@ -1509,7 +1509,7 @@
 			"weight": 5,
 			"value": 100,
 			"entries": [
-				"Iron Spikes come in bundles of ten. As a {@action Utilize|XPHB} action, you can use a blunt object, such as a {@item Light Hammer|XPHB}, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a {@item Rope|XPHB} or {@item Chain|XPHB} to the Spike."
+				"Iron Spikes come in bundles of ten. As a {@action Utilize|XPHB} action, you can use a blunt object, such as a {@item Martillo ligero|XPHB}, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a {@item Rope|XPHB} or {@item Chain|XPHB} to the Spike."
 			],
 			"packContents": [
 				{
@@ -1665,7 +1665,7 @@
 							"name": "Craft:",
 							"type": "item",
 							"entries": [
-								"{@item Sling|XPHB}, {@item Whip|XPHB}, {@item Armadura de pieles|XPHB}, {@item Armadura de cuero|XPHB}, {@item Armadura de cuero tachonado|XPHB}, {@item Backpack|XPHB}, {@item Crossbow Bolt Case|XPHB}, {@item Map or Scroll Case|XPHB}, {@item Parchment|XPHB}, {@item Pouch|XPHB}, {@item Quiver|XPHB}, {@item Waterskin|XPHB}"
+								"{@item Honda|XPHB}, {@item Látigo|XPHB}, {@item Armadura de pieles|XPHB}, {@item Armadura de cuero|XPHB}, {@item Armadura de cuero tachonado|XPHB}, {@item Backpack|XPHB}, {@item Crossbow Bolt Case|XPHB}, {@item Map or Scroll Case|XPHB}, {@item Parchment|XPHB}, {@item Pouch|XPHB}, {@item Quiver|XPHB}, {@item Waterskin|XPHB}"
 							]
 						}
 					]
@@ -2231,7 +2231,7 @@
 			]
 		},
 		{
-			"name": "Psychic Blade",
+			"name": "Cuchilla psíquica",
 			"source": "XPHB",
 			"page": 136,
 			"type": "M",
@@ -2520,7 +2520,7 @@
 							"name": "Craft:",
 							"type": "item",
 							"entries": [
-								"Any Melee weapon (except {@item Club|XPHB}, {@item Greatclub|XPHB}, {@item Quarterstaff|XPHB}, and {@item Whip|XPHB}), Medium armor (except {@item Armadura de pieles|XPHB|Hide}), Heavy armor, {@item Ball Bearings|XPHB}, {@item Bucket|XPHB}, {@item Caltrops|XPHB}, {@item Chain|XPHB}, {@item Crowbar|XPHB}, {@item Firearm Bullets (10)|XPHB|Firearm Bullets}, {@item Grappling Hook|XPHB}, {@item Iron Pot|XPHB}, {@item Iron Spikes|XPHB}, {@item Sling Bullets (20)|XPHB|Sling Bullets}"
+								"Any Melee weapon (except {@item Garrote|XPHB}, {@item Garrote grande|XPHB}, {@item Bastón|XPHB}, and {@item Látigo|XPHB}), Medium armor (except {@item Armadura de pieles|XPHB|Hide}), Heavy armor, {@item Ball Bearings|XPHB}, {@item Bucket|XPHB}, {@item Caltrops|XPHB}, {@item Chain|XPHB}, {@item Crowbar|XPHB}, {@item Firearm Bullets (10)|XPHB|Firearm Bullets}, {@item Grappling Hook|XPHB}, {@item Iron Pot|XPHB}, {@item Iron Spikes|XPHB}, {@item Sling Bullets (20)|XPHB|Sling Bullets}"
 							]
 						}
 					]
@@ -2702,7 +2702,7 @@
 							"name": "Craft:",
 							"type": "item",
 							"entries": [
-								"{@item Musket|XPHB}, {@item Pistol|XPHB}, {@item Bell|XPHB}, {@item Bullseye Lantern|XPHB}, {@item Flask|XPHB}, {@item Hooded Lantern|XPHB}, {@item Hunting Trap|XPHB}, {@item Lock|XPHB}, {@item Manacles|XPHB}, {@item Mirror|XPHB}, {@item Shovel|XPHB}, {@item Signal Whistle|XPHB}, {@item Tinderbox|XPHB}"
+								"{@item Mosquete|XPHB}, {@item Pistola|XPHB}, {@item Bell|XPHB}, {@item Bullseye Lantern|XPHB}, {@item Flask|XPHB}, {@item Hooded Lantern|XPHB}, {@item Hunting Trap|XPHB}, {@item Lock|XPHB}, {@item Manacles|XPHB}, {@item Mirror|XPHB}, {@item Shovel|XPHB}, {@item Signal Whistle|XPHB}, {@item Tinderbox|XPHB}"
 							]
 						}
 					]
@@ -3329,7 +3329,7 @@
 							"name": "Craft:",
 							"type": "item",
 							"entries": [
-								"{@item Club|XPHB}, {@item Greatclub|XPHB}, {@item Quarterstaff|XPHB}, Ranged weapons (except {@item Pistol|XPHB}, {@item Musket|XPHB}, and  {@item Sling|XPHB}), {@item Arcane Focus|XPHB}, {@item Arrows (20)|XPHB|Arrows}, {@item Bolts (20)|XPHB|Bolts}, {@item Druidic Focus|XPHB}, {@item Ink Pen|XPHB}, {@item Needles (50)|XPHB|Needles}"
+								"{@item Garrote|XPHB}, {@item Garrote grande|XPHB}, {@item Bastón|XPHB}, Ranged weapons (except {@item Pistola|XPHB}, {@item Mosquete|XPHB}, and  {@item Honda|XPHB}), {@item Arcane Focus|XPHB}, {@item Arrows (20)|XPHB|Arrows}, {@item Bolts (20)|XPHB|Bolts}, {@item Druidic Focus|XPHB}, {@item Ink Pen|XPHB}, {@item Needles (50)|XPHB|Needles}"
 							]
 						}
 					]

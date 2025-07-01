@@ -539,7 +539,7 @@
 									"page": 9,
 									"id": "018",
 									"entries": [
-										"The most common use for dice other than the {@dice d20} is to determine damage. When you make a successful attack roll (one kind of {@variantrule Prueba con d20|XPHB}), you roll damage to see how effective the attack is. When you cast a spell, you might also roll damage. Different weapons and spells use different dice for damage. For example, a {@item Dagger|XPHB} uses {@dice 1d4}, a {@item Greataxe|XPHB} uses {@dice 1d12}, and a {@spell Bola de fuego|XPHB} spell uses {@dice 8d6}."
+										"The most common use for dice other than the {@dice d20} is to determine damage. When you make a successful attack roll (one kind of {@variantrule Prueba con d20|XPHB}), you roll damage to see how effective the attack is. When you cast a spell, you might also roll damage. Different weapons and spells use different dice for damage. For example, a {@item Daga|XPHB} uses {@dice 1d4}, a {@item Hacha a dos manos|XPHB} uses {@dice 1d12}, and a {@spell Bola de fuego|XPHB} spell uses {@dice 8d6}."
 									]
 								},
 								{
@@ -1920,7 +1920,7 @@
 							"id": "04c",
 							"entries": [
 								"As adventurers explore, their equipment can help them in many ways. For example, they can reach out-of-the-way places with a Ladder, perceive things they wouldn't otherwise notice with a Torch or another light source, bypass locked doors and containers with {@item Thieves' Tools|XPHB}, and create obstacles for pursuers with {@item Caltrops|XPHB}.",
-								"See {@book chapter 6|XPHB|6} for rules on many items that are useful on adventures. The items in that chapter's \"{@book Tools|XPHB|6|Tools}\" and \"{@book Adventuring Gear|XPHB|6|Adventuring Gear}\" sections are especially useful. The weapons in that chapter can also be used for more than battle; you could use a {@item Quarterstaff|XPHB}, for example, to push a sinister-looking button that you're reluctant to touch."
+								"See {@book chapter 6|XPHB|6} for rules on many items that are useful on adventures. The items in that chapter's \"{@book Tools|XPHB|6|Tools}\" and \"{@book Adventuring Gear|XPHB|6|Adventuring Gear}\" sections are especially useful. The weapons in that chapter can also be used for more than battle; you could use a {@item Bastón|XPHB}, for example, to push a sinister-looking button that you're reluctant to touch."
 							]
 						},
 						{
@@ -2974,7 +2974,7 @@
 									"id": "087",
 									"entries": [
 										"You can make ranged attacks only against targets within a specified range. If a ranged attack, such as one made with a spell, has a single range, you can't attack a target beyond this range.",
-										"Some ranged attacks, such as those made with a {@item Longbow|XPHB}, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has {@variantrule Disadvantage|XPHB} when your target is beyond normal range, and you can't attack a target beyond long range."
+										"Some ranged attacks, such as those made with a {@item Arco largo|XPHB}, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has {@variantrule Disadvantage|XPHB} when your target is beyond normal range, and you can't attack a target beyond long range."
 									]
 								},
 								{
@@ -3147,7 +3147,7 @@
 							"id": "098",
 							"entries": [
 								"Each weapon, spell, and damaging monster ability specifies the damage it deals. You roll the damage dice, add any modifiers, and deal the damage to your target. If there's a penalty to the damage, it's possible to deal 0 damage but not negative damage.",
-								"When attacking with a weapon, you add your ability modifier\u2014the same modifier used for the attack roll\u2014to the damage roll. A spell tells you which dice to roll for damage and whether to add any modifiers. Unless a rule says otherwise, you don't add your ability modifier to a fixed damage amount that doesn't use a roll, such as the damage of a {@item Blowgun|XPHB}. See {@book chapter 6|XPHB|6|Weapons} for weapons' damage dice and {@book chapter 7|XPHB|7} for spells' damage dice."
+								"When attacking with a weapon, you add your ability modifier\u2014the same modifier used for the attack roll\u2014to the damage roll. A spell tells you which dice to roll for damage and whether to add any modifiers. Unless a rule says otherwise, you don't add your ability modifier to a fixed damage amount that doesn't use a roll, such as the damage of a {@item Cerbatana|XPHB}. See {@book chapter 6|XPHB|6|Weapons} for weapons' damage dice and {@book chapter 7|XPHB|7} for spells' damage dice."
 							]
 						},
 						{
@@ -3156,7 +3156,7 @@
 							"page": 27,
 							"id": "099",
 							"entries": [
-								"When you score a Critical Hit, you deal extra damage. Roll the attack's damage dice twice, add them together, and add any relevant modifiers as normal. For example, if you score a Critical Hit with a {@item Dagger|XPHB}, roll {@dice 2d4} for the damage rather than {@dice 1d4}, and add your relevant ability modifier. If the attack involves other damage dice, such as from the Rogue's Sneak Attack feature, you also roll those dice twice."
+								"When you score a Critical Hit, you deal extra damage. Roll the attack's damage dice twice, add them together, and add any relevant modifiers as normal. For example, if you score a Critical Hit with a {@item Daga|XPHB}, roll {@dice 2d4} for the damage rather than {@dice 1d4}, and add your relevant ability modifier. If the attack involves other damage dice, such as from the Rogue's Sneak Attack feature, you also roll those dice twice."
 							]
 						},
 						{
@@ -7677,7 +7677,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Club|XPHB}",
+										"{@item Garrote|XPHB}",
 										"{@dice 1d4} Bludgeoning",
 										"{@itemProperty L|XPHB|Light}",
 										"{@itemMastery Ralentizar}",
@@ -7689,7 +7689,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Dagger|XPHB}",
+										"{@item Daga|XPHB}",
 										"{@dice 1d4} Piercing",
 										"{@itemProperty F|XPHB|Finesse}, {@itemProperty L|XPHB|Light}, {@itemProperty T|XPHB|Thrown} (Range 20/60)",
 										"{@itemMastery Mellar}",
@@ -7701,7 +7701,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Greatclub|XPHB}",
+										"{@item Garrote grande|XPHB}",
 										"{@dice 1d8} Bludgeoning",
 										"{@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Empujar}",
@@ -7713,7 +7713,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Handaxe|XPHB}",
+										"{@item Hacha de mano|XPHB}",
 										"{@dice 1d6} Slashing",
 										"{@itemProperty L|XPHB|Light}, {@itemProperty T|XPHB|Thrown} (Range 20/60)",
 										"{@itemMastery Molestar}",
@@ -7725,7 +7725,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Javelin|XPHB}",
+										"{@item Jabalina|XPHB}",
 										"{@dice 1d6} Piercing",
 										"{@itemProperty T|XPHB|Thrown} (Range 30/120)",
 										"{@itemMastery Ralentizar}",
@@ -7737,7 +7737,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Light Hammer|XPHB}",
+										"{@item Martillo ligero|XPHB}",
 										"{@dice 1d4} Bludgeoning",
 										"{@itemProperty L|XPHB|Light}, {@itemProperty T|XPHB|Thrown} (Range 20/60)",
 										"{@itemMastery Mellar}",
@@ -7749,7 +7749,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Mace|XPHB}",
+										"{@item Maza|XPHB}",
 										"{@dice 1d6} Bludgeoning",
 										"\u2014",
 										"{@itemMastery Debilitar}",
@@ -7761,7 +7761,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Quarterstaff|XPHB}",
+										"{@item Bastón|XPHB}",
 										"{@dice 1d6} Bludgeoning",
 										"{@itemProperty V|XPHB|Versatile} ({@dice 1d8})",
 										"{@itemMastery Derribar}",
@@ -7773,7 +7773,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Sickle|XPHB}",
+										"{@item Hoz|XPHB}",
 										"{@dice 1d4} Slashing",
 										"{@itemProperty L|XPHB|Light}",
 										"{@itemMastery Mellar}",
@@ -7785,7 +7785,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Spear|XPHB}",
+										"{@item Lanza|XPHB}",
 										"{@dice 1d6} Piercing",
 										"{@itemProperty T|XPHB|Thrown} (Range 20/60), {@itemProperty V|XPHB|Versatile} ({@dice 1d8})",
 										"{@itemMastery Debilitar}",
@@ -7804,7 +7804,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Dart|XPHB}",
+										"{@item Dardo|XPHB}",
 										"{@dice 1d4} Piercing",
 										"{@itemProperty F|XPHB|Finesse}, {@itemProperty T|XPHB|Thrown} (Range 20/60)",
 										"{@itemMastery Molestar}",
@@ -7816,7 +7816,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Light Crossbow|XPHB}",
+										"{@item Ballesta ligera|XPHB}",
 										"{@dice 1d8} Piercing",
 										"{@itemProperty A|XPHB|Ammunition} (Range 80/320; Bolt), {@itemProperty LD|XPHB|Loading}, {@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Ralentizar}",
@@ -7828,7 +7828,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Shortbow|XPHB}",
+										"{@item Arco corto|XPHB}",
 										"{@dice 1d6} Piercing",
 										"{@itemProperty A|XPHB|Ammunition} (Range 80/320; Arrow), {@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Molestar}",
@@ -7840,7 +7840,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Sling|XPHB}",
+										"{@item Honda|XPHB}",
 										"{@dice 1d4} Bludgeoning",
 										"{@itemProperty A|XPHB|Ammunition} (Range 30/120; Bullet)",
 										"{@itemMastery Ralentizar}",
@@ -7859,7 +7859,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Battleaxe|XPHB}",
+										"{@item Hacha de guerra|XPHB}",
 										"{@dice 1d8} Slashing",
 										"{@itemProperty V|XPHB|Versatile} ({@dice 1d10})",
 										"{@itemMastery Derribar}",
@@ -7871,7 +7871,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Flail|XPHB}",
+										"{@item Mangual|XPHB}",
 										"{@dice 1d8} Bludgeoning",
 										"\u2014",
 										"{@itemMastery Debilitar}",
@@ -7883,7 +7883,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Glaive|XPHB}",
+										"{@item Guja|XPHB}",
 										"{@dice 1d10} Slashing",
 										"{@itemProperty H|XPHB|Heavy}, {@itemProperty R|XPHB|Reach}, {@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Rozar}",
@@ -7895,7 +7895,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Greataxe|XPHB}",
+										"{@item Hacha a dos manos|XPHB}",
 										"{@dice 1d12} Slashing",
 										"{@itemProperty H|XPHB|Heavy}, {@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Hender}",
@@ -7907,7 +7907,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Greatsword|XPHB}",
+										"{@item Espadón|XPHB}",
 										"{@dice 2d6} Slashing",
 										"{@itemProperty H|XPHB|Heavy}, {@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Rozar}",
@@ -7919,7 +7919,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Halberd|XPHB}",
+										"{@item Alabarda|XPHB}",
 										"{@dice 1d10} Slashing",
 										"{@itemProperty H|XPHB|Heavy}, {@itemProperty R|XPHB|Reach}, {@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Hender}",
@@ -7931,7 +7931,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Lance|XPHB}",
+										"{@item Lanza de caballería|XPHB}",
 										"{@dice 1d10} Piercing",
 										"{@itemProperty H|XPHB|Heavy}, {@itemProperty R|XPHB|Reach}, {@itemProperty 2H|XPHB|Two-Handed} (unless mounted)",
 										"{@itemMastery Derribar}",
@@ -7943,7 +7943,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Longsword|XPHB}",
+										"{@item Espada larga|XPHB}",
 										"{@dice 1d8} Slashing",
 										"{@itemProperty V|XPHB|Versatile} ({@dice 1d10})",
 										"{@itemMastery Debilitar}",
@@ -7955,7 +7955,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Maul|XPHB}",
+										"{@item Maza a dos manos|XPHB}",
 										"{@dice 2d6} Bludgeoning",
 										"{@itemProperty H|XPHB|Heavy}, {@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Derribar}",
@@ -7967,7 +7967,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Morningstar|XPHB}",
+										"{@item Lucero del alba|XPHB}",
 										"{@dice 1d8} Piercing",
 										"\u2014",
 										"{@itemMastery Debilitar}",
@@ -7979,7 +7979,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Pike|XPHB}",
+										"{@item Pica|XPHB}",
 										"{@dice 1d10} Piercing",
 										"{@itemProperty H|XPHB|Heavy}, {@itemProperty R|XPHB|Reach}, {@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Empujar}",
@@ -7991,7 +7991,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Rapier|XPHB}",
+										"{@item Estoque|XPHB}",
 										"{@dice 1d8} Piercing",
 										"{@itemProperty F|XPHB|Finesse}",
 										"{@itemMastery Molestar}",
@@ -8003,7 +8003,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Scimitar|XPHB}",
+										"{@item Cimitarra|XPHB}",
 										"{@dice 1d6} Slashing",
 										"{@itemProperty F|XPHB|Finesse}, {@itemProperty L|XPHB|Light}",
 										"{@itemMastery Mellar}",
@@ -8015,7 +8015,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Shortsword|XPHB}",
+										"{@item Espada corta|XPHB}",
 										"{@dice 1d6} Piercing",
 										"{@itemProperty F|XPHB|Finesse}, {@itemProperty L|XPHB|Light}",
 										"{@itemMastery Molestar}",
@@ -8027,7 +8027,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Trident|XPHB}",
+										"{@item Tridente|XPHB}",
 										"{@dice 1d8} Piercing",
 										"{@itemProperty T|XPHB|Thrown} (Range 20/60), {@itemProperty V|XPHB|Versatile} ({@dice 1d10})",
 										"{@itemMastery Derribar}",
@@ -8039,7 +8039,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Warhammer|XPHB}",
+										"{@item Martillo de guerra|XPHB}",
 										"{@dice 1d8} Bludgeoning",
 										"{@itemProperty V|XPHB|Versatile} ({@dice 1d10})",
 										"{@itemMastery Empujar}",
@@ -8051,7 +8051,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item War Pick|XPHB}",
+										"{@item Pico de guerra|XPHB}",
 										"{@dice 1d8} Piercing",
 										"{@itemProperty V|XPHB|Versatile} ({@dice 1d10})",
 										"{@itemMastery Debilitar}",
@@ -8063,7 +8063,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Whip|XPHB}",
+										"{@item Látigo|XPHB}",
 										"{@dice 1d4} Slashing",
 										"{@itemProperty F|XPHB|Finesse}, {@itemProperty R|XPHB|Reach}",
 										"{@itemMastery Ralentizar}",
@@ -8082,7 +8082,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Blowgun|XPHB}",
+										"{@item Cerbatana|XPHB}",
 										"1 Piercing",
 										"{@itemProperty A|XPHB|Ammunition} (Range 25/100; Needle), {@itemProperty LD|XPHB|Loading}",
 										"{@itemMastery Molestar}",
@@ -8094,7 +8094,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Hand Crossbow|XPHB}",
+										"{@item Ballesta de mano|XPHB}",
 										"{@dice 1d6} Piercing",
 										"{@itemProperty A|XPHB|Ammunition} (Range 30/120; Bolt), {@itemProperty L|XPHB|Light}, {@itemProperty LD|XPHB|Loading}",
 										"{@itemMastery Molestar}",
@@ -8106,7 +8106,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Heavy Crossbow|XPHB}",
+										"{@item Ballesta pesada|XPHB}",
 										"{@dice 1d10} Piercing",
 										"{@itemProperty A|XPHB|Ammunition} (Range 100/400; Bolt), {@itemProperty H|XPHB|Heavy}, {@itemProperty LD|XPHB|Loading}, {@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Empujar}",
@@ -8118,7 +8118,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Longbow|XPHB}",
+										"{@item Arco largo|XPHB}",
 										"{@dice 1d8} Piercing",
 										"{@itemProperty A|XPHB|Ammunition} (Range 150/600; Arrow), {@itemProperty H|XPHB|Heavy}, {@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Ralentizar}",
@@ -8130,7 +8130,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Musket|XPHB}",
+										"{@item Mosquete|XPHB}",
 										"{@dice 1d12} Piercing",
 										"{@itemProperty A|XPHB|Ammunition} (Range 40/120; Bullet), {@itemProperty LD|XPHB|Loading}, {@itemProperty 2H|XPHB|Two-Handed}",
 										"{@itemMastery Ralentizar}",
@@ -8142,7 +8142,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Pistol|XPHB}",
+										"{@item Pistola|XPHB}",
 										"{@dice 1d10} Piercing",
 										"{@itemProperty A|XPHB|Ammunition} (Range 30/90; Bullet), {@itemProperty LD|XPHB|Loading}",
 										"{@itemMastery Molestar}",
@@ -8251,7 +8251,7 @@
 									"page": 213,
 									"id": "646",
 									"entries": [
-										"When you take the {@action Attack|XPHB} action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a {@item Shortsword|XPHB} in one hand and a {@item Dagger|XPHB} in the other using the {@action Attack|XPHB} action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative."
+										"When you take the {@action Attack|XPHB} action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a {@item Espada corta|XPHB} in one hand and a {@item Daga|XPHB} in the other using the {@action Attack|XPHB} action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative."
 									]
 								},
 								{
@@ -8914,7 +8914,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "{@item Club|XPHB}, {@item Greatclub|XPHB}, {@item Quarterstaff|XPHB}, {@item Barrel|XPHB}, {@item Chest|XPHB}, {@item Ladder|XPHB}, {@item Pole|XPHB}, {@item Portable Ram|XPHB}, {@item Torch|XPHB}"
+													"entry": "{@item Garrote|XPHB}, {@item Garrote grande|XPHB}, {@item Bastón|XPHB}, {@item Barrel|XPHB}, {@item Chest|XPHB}, {@item Ladder|XPHB}, {@item Pole|XPHB}, {@item Portable Ram|XPHB}, {@item Torch|XPHB}"
 												}
 											]
 										}
@@ -9118,7 +9118,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "{@item Sling|XPHB}, {@item Whip|XPHB}, {@item Armadura de pieles|XPHB}, {@item Armadura de cuero|XPHB}, {@item Armadura de cuero tachonado|XPHB}, {@item Backpack|XPHB}, {@item Crossbow Bolt Case|XPHB}, {@item Map or Scroll Case|XPHB}, {@item Parchment|XPHB}, {@item Pouch|XPHB}, {@item Quiver|XPHB}, {@item Waterskin|XPHB}"
+													"entry": "{@item Honda|XPHB}, {@item Látigo|XPHB}, {@item Armadura de pieles|XPHB}, {@item Armadura de cuero|XPHB}, {@item Armadura de cuero tachonado|XPHB}, {@item Backpack|XPHB}, {@item Crossbow Bolt Case|XPHB}, {@item Map or Scroll Case|XPHB}, {@item Parchment|XPHB}, {@item Pouch|XPHB}, {@item Quiver|XPHB}, {@item Waterskin|XPHB}"
 												}
 											]
 										}
@@ -9288,7 +9288,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "{@item Musket|XPHB}, {@item Pistol|XPHB}, {@item Bell|XPHB}, {@item Bullseye Lantern|XPHB}, {@item Flask|XPHB}, {@item Hooded Lantern|XPHB}, {@item Hunting Trap|XPHB|Hunter's Trap}, {@item Lock|XPHB}, {@item Manacles|XPHB}, {@item Mirror|XPHB}, {@item Shovel|XPHB}, {@item Signal Whistle|XPHB}, {@item Tinderbox|XPHB}"
+													"entry": "{@item Mosquete|XPHB}, {@item Pistola|XPHB}, {@item Bell|XPHB}, {@item Bullseye Lantern|XPHB}, {@item Flask|XPHB}, {@item Hooded Lantern|XPHB}, {@item Hunting Trap|XPHB|Hunter's Trap}, {@item Lock|XPHB}, {@item Manacles|XPHB}, {@item Mirror|XPHB}, {@item Shovel|XPHB}, {@item Signal Whistle|XPHB}, {@item Tinderbox|XPHB}"
 												}
 											]
 										}
@@ -9356,7 +9356,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "{@item Club|XPHB}, {@item Greatclub|XPHB}, {@item Quarterstaff|XPHB}, Ranged weapons (except Pistol, Musket, and Sling), {@item Arcane Focus|XPHB}, {@item Arrows (20)|XPHB|Arrows}, {@item Bolts (20)|XPHB|Bolts}, {@item Druidic Focus|XPHB}, {@item Ink Pen|XPHB}, {@item Needles (50)|XPHB|Needles}"
+													"entry": "{@item Garrote|XPHB}, {@item Garrote grande|XPHB}, {@item Bastón|XPHB}, Ranged weapons (except Pistol, Musket, and Sling), {@item Arcane Focus|XPHB}, {@item Arrows (20)|XPHB|Arrows}, {@item Bolts (20)|XPHB|Bolts}, {@item Druidic Focus|XPHB}, {@item Ink Pen|XPHB}, {@item Needles (50)|XPHB|Needles}"
 												}
 											]
 										}
@@ -10222,7 +10222,7 @@
 													"10 GP"
 												],
 												[
-													"{@item Staff|XPHB} (also a {@item Quarterstaff|XPHB})",
+													"{@item Bastón|XPHB} (also a {@item Bastón|XPHB})",
 													"4 lb.",
 													"5 GP"
 												],
@@ -10489,7 +10489,7 @@
 													"1 GP"
 												],
 												[
-													"{@item Wooden staff|XPHB} (also a {@item Quarterstaff|XPHB})",
+													"{@item Wooden staff|XPHB} (also a {@item Bastón|XPHB})",
 													"4 lb.",
 													"5 GP"
 												],
@@ -10962,7 +10962,7 @@
 									"page": 228,
 									"id": "6f6",
 									"entries": [
-										"Iron Spikes come in bundles of ten. As a {@action Utilize|XPHB} action, you can use a blunt object, such as a {@item Light Hammer|XPHB}, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a {@item Rope|XPHB} or {@item Chain|XPHB} to the Spike."
+										"Iron Spikes come in bundles of ten. As a {@action Utilize|XPHB} action, you can use a blunt object, such as a {@item Martillo ligero|XPHB}, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a {@item Rope|XPHB} or {@item Chain|XPHB} to the Spike."
 									]
 								},
 								{
@@ -14469,7 +14469,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Spellcasting Focus"
+							"name": "Canalizador mágico"
 						},
 						{
 							"type": "statblock",

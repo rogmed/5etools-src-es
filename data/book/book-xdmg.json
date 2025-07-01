@@ -3571,7 +3571,7 @@
 									"page": 40,
 									"id": "0b4",
 									"entries": [
-										"Characters without water and {@item Rations|XPHB} can stave off {@hazard dehydration|XPHB} and {@hazard malnutrition|XPHB} by gathering food and water as they travel. A foraging character makes a Wisdom ({@skill Survival|XPHB}) check once per journey stage (or once per day if a stage is shorter than a day). The DC is determined by the abundance of food and water in the region, as shown in the Foraging DC column of the {@book Travel Terrain|XDMG|1|Travel Terrain} table. If multiple characters forage, each character makes a separate check.",
+										"Characters without water and {@item Raciones|XPHB} can stave off {@hazard dehydration|XPHB} and {@hazard malnutrition|XPHB} by gathering food and water as they travel. A foraging character makes a Wisdom ({@skill Survival|XPHB}) check once per journey stage (or once per day if a stage is shorter than a day). The DC is determined by the abundance of food and water in the region, as shown in the Foraging DC column of the {@book Travel Terrain|XDMG|1|Travel Terrain} table. If multiple characters forage, each character makes a separate check.",
 										"A foraging character finds nothing on a failed check. On a successful check, roll {@dice 1d6} and add the character's Wisdom modifier to determine how much food (in pounds) the character finds per day of the journey stage, then repeat the roll for water (in gallons).",
 										{
 											"type": "inset",
@@ -3579,7 +3579,7 @@
 											"page": 40,
 											"id": "0b5",
 											"entries": [
-												"You might decide that tracking {@item Rations|XPHB} is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the {@skill Survival|XPHB} skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the {@spell Create Food and Water|XPHB} spell) to sustain them.",
+												"You might decide that tracking {@item Raciones|XPHB} is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the {@skill Survival|XPHB} skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the {@spell Create Food and Water|XPHB} spell) to sustain them.",
 												"On the other hand, having players track Rations seems appropriate for a more realistic campaign. Characters in such a campaign should approach a long wilderness journey as a challenge in logistics: how many pack animals do they need to carry the food for the journey, and how do they feed the animals?",
 												"As always, communicate your expectations about these rules to the players ahead of time. If you don't plan on tracking Rations, tell your players that before they spend an hour purchasing supplies for their journey."
 											]
@@ -22982,7 +22982,7 @@
 											"Arborea"
 										],
 										[
-											"Torch",
+											"Antorcha",
 											"Gehenna"
 										],
 										[

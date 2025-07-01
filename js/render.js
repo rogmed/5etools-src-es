@@ -11983,7 +11983,7 @@ Renderer.item = class {
 			curBaseItem._category = "Basic";
 			if (curBaseItem.entries == null) curBaseItem.entries = [];
 
-			if (curBaseItem.packContents) return; // e.g. "Arrows (20)"
+			if (curBaseItem.packContents) return; // e.g. "Flechas (20)"
 
 			genericVariants.forEach((curGenericVariant) => {
 				if (!Renderer.item._createSpecificVariants_isEditionMatch({curBaseItem, curGenericVariant, styleHint})) return;

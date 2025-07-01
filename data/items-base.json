@@ -6,10 +6,10 @@
 	},
 	"baseitem": [
 		{
-			"name": "Arrow",
+			"name": "Flecha",
 			"originalname": "",
 			"source": "XPHB",
-			"page": 222,
+			"page": 226,
 			"srd52": true,
 			"edition": "one",
 			"type": "A|XPHB",
@@ -18,15 +18,15 @@
 			"value": 5,
 			"arrow": true,
 			"entries": [
-				"Arrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
-				"Arrows are typically stored in a {@item Quiver|XPHB} (bought separately)."
+				"Las flechas se usan con un arma con la propiedad \"munición\" para hacer un ataque a distancia. Cada ataque gasta una unidad de munición. Extraer la munición forma parte del ataque (necesitas una mano libre para cargar un arma de una mano). Tras un combate, puedes dedicar 1 minuto a recuperar la mitad de la munición (redondeada hacia abajo) que hayas usado en él.",
+				"Las flechas normalmente se guardan en una {@item Aljaba|XPHB} (se compra por separado)."
 			]
 		},
 		{
-			"name": "Arrows (20)",
+			"name": "Flechas (20)",
 			"originalname": "",
 			"source": "XPHB",
-			"page": 222,
+			"page": 226,
 			"srd52": true,
 			"edition": "one",
 			"type": "A|XPHB",
@@ -35,8 +35,8 @@
 			"value": 100,
 			"arrow": true,
 			"entries": [
-				"Arrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
-				"Arrows are typically stored in a {@item Quiver|XPHB} (bought separately)."
+				"Las flechas se usan con un arma con la propiedad \"munición\" para hacer un ataque a distancia. Cada ataque gasta una unidad de munición. Extraer la munición forma parte del ataque (necesitas una mano libre para cargar un arma de una mano). Tras un combate, puedes dedicar 1 minuto a recuperar la mitad de la munición (redondeada hacia abajo) que hayas usado en él.",
+				"Las flechas normalmente se guardan en una {@item Aljaba|XPHB} (se compra por separado)."
 			],
 			"packContents": [
 				{
@@ -92,7 +92,7 @@
 			"rarity": "none",
 			"weight": 4,
 			"value": 1000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"V|XPHB"
 			],
@@ -118,7 +118,7 @@
 			"rarity": "none",
 			"weight": 1,
 			"value": 1000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"A|XPHB",
 				"LD|XPHB"
@@ -235,7 +235,7 @@
 			"rarity": "none",
 			"weight": 2,
 			"value": 10,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"L|XPHB"
 			],
@@ -276,7 +276,7 @@
 			"rarity": "none",
 			"weight": 1,
 			"value": 200,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"F|XPHB",
 				"L|XPHB",
@@ -304,7 +304,7 @@
 			"rarity": "none",
 			"weight": 0.25,
 			"value": 5,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"F|XPHB",
 				"T|XPHB"
@@ -444,7 +444,7 @@
 			"rarity": "none",
 			"weight": 2,
 			"value": 1000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"mastery": [
 				"Debilitar|XPHB"
 			],
@@ -500,7 +500,7 @@
 			"rarity": "none",
 			"weight": 6,
 			"value": 2000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"H|XPHB",
 				"R|XPHB",
@@ -527,7 +527,7 @@
 			"rarity": "none",
 			"weight": 7,
 			"value": 3000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"H|XPHB",
 				"2H|XPHB"
@@ -553,7 +553,7 @@
 			"rarity": "none",
 			"weight": 10,
 			"value": 20,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"2H|XPHB"
 			],
@@ -578,7 +578,7 @@
 			"rarity": "none",
 			"weight": 6,
 			"value": 5000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"H|XPHB",
 				"2H|XPHB"
@@ -604,7 +604,7 @@
 			"rarity": "none",
 			"weight": 6,
 			"value": 2000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"H|XPHB",
 				"R|XPHB",
@@ -648,7 +648,7 @@
 			"rarity": "none",
 			"weight": 3,
 			"value": 7500,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"A|XPHB",
 				"L|XPHB",
@@ -677,7 +677,7 @@
 			"rarity": "none",
 			"weight": 2,
 			"value": 500,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"L|XPHB",
 				"T|XPHB"
@@ -704,7 +704,7 @@
 			"rarity": "none",
 			"weight": 18,
 			"value": 5000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"A|XPHB",
 				"H|XPHB",
@@ -785,7 +785,7 @@
 			"rarity": "none",
 			"weight": 2,
 			"value": 50,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"T|XPHB"
 			],
@@ -811,7 +811,7 @@
 			"rarity": "none",
 			"weight": 6,
 			"value": 1000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"H|XPHB",
 				"R|XPHB",
@@ -860,7 +860,7 @@
 			"rarity": "none",
 			"weight": 5,
 			"value": 2500,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"A|XPHB",
 				"LD|XPHB",
@@ -889,7 +889,7 @@
 			"rarity": "none",
 			"weight": 2,
 			"value": 200,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"L|XPHB",
 				"T|XPHB"
@@ -916,7 +916,7 @@
 			"rarity": "none",
 			"weight": 2,
 			"value": 5000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"A|XPHB",
 				"H|XPHB",
@@ -945,7 +945,7 @@
 			"rarity": "none",
 			"weight": 3,
 			"value": 1500,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"V|XPHB"
 			],
@@ -1041,7 +1041,7 @@
 			"rarity": "none",
 			"weight": 4,
 			"value": 500,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"mastery": [
 				"Debilitar|XPHB"
 			],
@@ -1063,7 +1063,7 @@
 			"rarity": "none",
 			"weight": 10,
 			"value": 1000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"H|XPHB",
 				"2H|XPHB"
@@ -1089,7 +1089,7 @@
 			"rarity": "none",
 			"weight": 4,
 			"value": 1500,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"mastery": [
 				"Debilitar|XPHB"
 			],
@@ -1111,7 +1111,7 @@
 			"rarity": "none",
 			"weight": 10,
 			"value": 50000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"A|XPHB",
 				"LD|XPHB",
@@ -1248,7 +1248,7 @@
 			"rarity": "none",
 			"weight": 18,
 			"value": 500,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"H|XPHB",
 				"R|XPHB",
@@ -1274,7 +1274,7 @@
 			"rarity": "none",
 			"weight": 3,
 			"value": 25000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"A|XPHB",
 				"LD|XPHB"
@@ -1320,7 +1320,7 @@
 			"rarity": "none",
 			"weight": 4,
 			"value": 20,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"V|XPHB"
 			],
@@ -1345,7 +1345,7 @@
 			"rarity": "none",
 			"weight": 2,
 			"value": 2500,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"F|XPHB"
 			],
@@ -1421,7 +1421,7 @@
 			"rarity": "none",
 			"weight": 3,
 			"value": 2500,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"F|XPHB",
 				"L|XPHB"
@@ -1497,7 +1497,7 @@
 			"rarity": "none",
 			"weight": 2,
 			"value": 2500,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"A|XPHB",
 				"2H|XPHB"
@@ -1525,7 +1525,7 @@
 			"rarity": "none",
 			"weight": 2,
 			"value": 1000,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"F|XPHB",
 				"L|XPHB"
@@ -1551,7 +1551,7 @@
 			"rarity": "none",
 			"weight": 2,
 			"value": 100,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"L|XPHB"
 			],
@@ -1574,7 +1574,7 @@
 			"type": "R|XPHB",
 			"rarity": "none",
 			"value": 10,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"A|XPHB"
 			],
@@ -1640,7 +1640,7 @@
 			"rarity": "none",
 			"weight": 3,
 			"value": 100,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"T|XPHB",
 				"V|XPHB"
@@ -1689,7 +1689,7 @@
 			"rarity": "none",
 			"weight": 4,
 			"value": 500,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"V"
 			],
@@ -1729,7 +1729,7 @@
 			"rarity": "none",
 			"weight": 4,
 			"value": 500,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"T|XPHB",
 				"V|XPHB"
@@ -1807,7 +1807,7 @@
 			"rarity": "none",
 			"weight": 2,
 			"value": 500,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"V|XPHB"
 			],
@@ -1832,7 +1832,7 @@
 			"rarity": "none",
 			"weight": 5,
 			"value": 1500,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"V|XPHB"
 			],
@@ -1858,7 +1858,7 @@
 			"rarity": "none",
 			"weight": 3,
 			"value": 200,
-			"weaponCategory": "martial",
+			"weaponCategory": "marcial",
 			"property": [
 				"F|XPHB",
 				"R|XPHB"
@@ -1886,7 +1886,7 @@
 			"rarity": "none",
 			"weight": 4,
 			"value": 500,
-			"weaponCategory": "simple",
+			"weaponCategory": "sencilla",
 			"property": [
 				"V"
 			],
@@ -2067,11 +2067,11 @@
 			]
 		},
 		{
-			"name": "Ammunition",
+			"name": "Munición",
 			"abbreviation": "A",
 			"originalname": "",
 			"source": "XPHB",
-			"page": 222,
+			"page": 226,
 			"basicRules2024": true
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"basicRules2024": true
 		},
 		{
-			"name": "Adventuring Gear",
+			"name": "Equipo de aventureros",
 			"abbreviation": "G",
 			"originalname": "",
 			"source": "XPHB",

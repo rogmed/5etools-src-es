@@ -44,9 +44,9 @@
 				],
 				"weaponProficiencies": [
 					{
-						"simple": true,
+						"sencilla": true,
 						"all": {
-							"fromFilter": "type=martial weapon|property=light"
+							"fromFilter": "type=arma marcial|property=light"
 						}
 					}
 				],
@@ -653,8 +653,8 @@
 				{
 					"type": "list",
 					"items": [
-						"{@filter armas cuerpo a cuerpo sencillas;|items|type=simple weapon;melee weapon=sand}",
-						"{@filter armas cuerpo a cuerpo marciales que tengan la propiedad “ligera”.|items|type=martial weapon;melee weapon=sand|property=light}"
+						"{@filter armas cuerpo a cuerpo sencillas;|items|type=arma sencilla;melee weapon=sand}",
+						"{@filter armas cuerpo a cuerpo marciales que tengan la propiedad “ligera”.|items|type=arma marcial;melee weapon=sand|property=light}"
 					]
 				},
 				"Obtienes los siguientes beneficios mientras no lleves armadura ni portes un escudo y estés desarmado o empuñes únicamente armas de monje:",

@@ -399,7 +399,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Caltrops",
+			"name": "Abrojos",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -1031,7 +1031,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Oil",
+			"name": "Aceite",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -1178,7 +1178,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Rope",
+			"name": "Cuerda",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -1306,7 +1306,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Tinderbox",
+			"name": "Yesquero",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -1320,7 +1320,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Torch",
+			"name": "Antorcha",
 			"source": "XPHB",
 			"activities": [
 				{

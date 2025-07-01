@@ -104,7 +104,7 @@
 					"light"
 				],
 				"weapons": [
-					"simple",
+					"sencilla",
 					"{@item hand crossbow|phb|hand crossbows}",
 					"{@item longsword|phb|longswords}",
 					"{@item rapier|phb|rapiers}",
@@ -127,7 +127,7 @@
 			"startingEquipment": {
 				"additionalFromBackground": true,
 				"default": [
-					"(a) a {@item rapier|phb}, (b) a {@item longsword|phb}, or (c) any {@filter simple weapon|items|source=phb|category=basic|type=simple weapon}",
+					"(a) a {@item rapier|phb}, (b) a {@item longsword|phb}, or (c) any {@filter arma sencilla|items|source=phb|category=basic|type=arma sencilla}",
 					"(a) a {@item diplomat's pack|phb} or (b) an {@item entertainer's pack|phb}",
 					"(a) a {@item lute|phb} or (b) any other {@filter musical instrument|items|miscellaneous=mundane|type=instrument}",
 					"{@item Leather armor|phb}, and a {@item dagger|phb}"
@@ -707,7 +707,7 @@
 					"light"
 				],
 				"weapons": [
-					"simple"
+					"sencilla"
 				],
 				"tools": [
 					"Choose three {@item Musical Instrument|XPHB|Musical Instruments}"
@@ -2756,7 +2756,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons."
+				"When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and arma marcials."
 			]
 		},
 		{
@@ -4038,7 +4038,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"You gain proficiency with {@filter Martial weapons|items|type=martial weapon} and training with {@filter Medium armor|items|type=Medium Armor} and {@item Shield|XPHB|Shields}.",
+				"You gain proficiency with {@filter Martial weapons|items|type=arma marcial} and training with {@filter Medium armor|items|type=Medium Armor} and {@item Shield|XPHB|Shields}.",
 				"In addition, you can use a Simple or Martial weapon as a {@variantrule Spellcasting Focus|XPHB} to cast spells from your {@filter Bard spell list|spells|class=Bard}."
 			]
 		},

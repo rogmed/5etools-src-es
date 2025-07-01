@@ -529,15 +529,15 @@ export class ConverterItem extends ConverterBase {
 		"melee": ({styleHint}) => [{"type": styleHint === SITE_STYLE__ONE ? Parser.ITM_TYP__ODND_MELEE_WEAPON : Parser.ITM_TYP__MELEE_WEAPON}],
 		"melee weapon": ({styleHint}) => [{"type": styleHint === SITE_STYLE__ONE ? Parser.ITM_TYP__ODND_MELEE_WEAPON : Parser.ITM_TYP__MELEE_WEAPON}],
 
-		"simple": [{"weaponCategory": "simple"}],
-		"simple weapon": [{"weaponCategory": "simple"}],
-		"martial": [{"weaponCategory": "martial"}],
-		"martial weapon": [{"weaponCategory": "martial"}],
+		"sencilla": [{"weaponCategory": "sencilla"}],
+		"arma sencilla": [{"weaponCategory": "sencilla"}],
+		"marcial": [{"weaponCategory": "marcial"}],
+		"arma marcial": [{"weaponCategory": "marcial"}],
 
-		"bludgeoning": [{"dmgType": "B"}],
+		"contundente": [{"dmgType": "B"}],
 		"weapon that deals bludgeoning damage": [{"dmgType": "B"}],
-		"piercing": [{"dmgType": "P"}],
-		"slashing": [{"dmgType": "S"}],
+		"perforante": [{"dmgType": "P"}],
+		"cortante": [{"dmgType": "S"}],
 
 		"melee bludgeoning weapon": ({styleHint}) => [{"type": styleHint === SITE_STYLE__ONE ? Parser.ITM_TYP__ODND_MELEE_WEAPON : Parser.ITM_TYP__MELEE_WEAPON, "dmgType": "B"}],
 	};

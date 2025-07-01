@@ -3019,8 +3019,8 @@ Parser.ARMOR_ABV_TO_FULL = {
 };
 
 Parser.WEAPON_ABV_TO_FULL = {
-	"s.": "simple",
-	"m.": "martial",
+	"s.": "sencilla",
+	"m.": "marcial",
 };
 
 Parser.CONDITION_TO_COLOR = {
@@ -4254,23 +4254,23 @@ Parser.getPropDisplayName = function (prop, {suffix = ""} = {}) {
 };
 
 Parser.DMGTYPE_JSON_TO_FULL = {
-	"A": "acid",
-	"B": "bludgeoning",
-	"C": "cold",
-	"F": "fire",
-	"O": "force",
-	"L": "lightning",
-	"N": "necrotic",
-	"P": "piercing",
-	"I": "poison",
-	"Y": "psychic",
-	"R": "radiant",
-	"S": "slashing",
-	"T": "thunder",
+	"A": "ácido",
+	"B": "contundente",
+	"C": "frío",
+	"F": "fuego",
+	"O": "fuerza",
+	"L": "relámpago",
+	"N": "necrótico",
+	"P": "perforante",
+	"I": "veneno",
+	"Y": "psíquico",
+	"R": "radiante",
+	"S": "cortante",
+	"T": "trueno",
 };
 
-Parser.DMG_TYPES = ["acid", "bludgeoning", "cold", "fire", "force", "lightning", "necrotic", "piercing", "poison", "psychic", "radiant", "slashing", "thunder"];
-Parser.CONDITIONS = ["blinded", "charmed", "ensordecido", "cansancio", "asustado", "agarrado", "incapacitated", "invisible", "paralizado", "petrificado", "poisoned", "derribado", "apresado", "aturdido", "inconsciente"];
+Parser.DMG_TYPES = ["ácido", "contundente", "frío", "fuego", "fuerza", "relámpago", "necrótico", "perforante", "veneno", "psíquico", "radiante", "cortante", "trueno"];
+Parser.CONDITIONS = ["cegado", "hechizado", "ensordecido", "cansancio", "asustado", "agarrado", "incapacitado", "invisible", "paralizado", "petrificado", "envenenado", "derribado", "apresado", "aturdido", "inconsciente"];
 
 Parser._SENSES_LEGACY = [
 	{"name": "blindsight", "source": Parser.SRC_PHB},

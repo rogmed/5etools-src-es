@@ -99,8 +99,8 @@
 			"startingEquipment": {
 				"additionalFromBackground": true,
 				"default": [
-					"(a) a wooden {@item shield|phb} or (b) any {@filter simple weapon|items|source=phb|category=basic|type=simple weapon}",
-					"(a) a {@item scimitar|phb} or (b) any {@filter simple melee weapon|items|source=phb|category=basic|type=simple weapon;melee weapon=sand}",
+					"(a) a wooden {@item shield|phb} or (b) any {@filter arma sencilla|items|source=phb|category=basic|type=arma sencilla}",
+					"(a) a {@item scimitar|phb} or (b) any {@filter simple melee weapon|items|source=phb|category=basic|type=arma sencilla;melee weapon=sand}",
 					"{@item Leather armor|phb}, an {@item explorer's pack|phb}, and a {@item druidic focus|phb}"
 				],
 				"goldAlternative": "{@dice 2d4 × 10|2d4 × 10|Starting Gold}",
@@ -589,7 +589,7 @@
 					"escudo"
 				],
 				"weapons": [
-					"simple"
+					"sencilla"
 				],
 				"tools": [
 					"{@item Herbalism Kit|XPHB}"
@@ -2458,7 +2458,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Trained for battle, you gain proficiency with {@filter Martial weapons|items|type=martial weapon} and training with {@filter Medium armor|items|type=Medium Armor}."
+				"Trained for battle, you gain proficiency with {@filter Martial weapons|items|type=arma marcial} and training with {@filter Medium armor|items|type=Medium Armor}."
 			]
 		},
 		{

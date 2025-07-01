@@ -2178,7 +2178,7 @@
 						"srd": true,
 						"type": "M",
 						"rarity": "none",
-						"weaponCategory": "simple",
+						"weaponCategory": "sencilla",
 						"entries": [
 							{
 								"type": "quote",
@@ -3436,7 +3436,7 @@
 			"entryData": {
 				"weaponProficiencies": [
 					{
-						"martial": true
+						"marcial": true
 					}
 				],
 				"armorProficiencies": [
@@ -3982,7 +3982,7 @@
 			"entryData": {
 				"weaponProficiencies": [
 					{
-						"martial": true
+						"marcial": true
 					}
 				],
 				"armorProficiencies": [
@@ -4653,7 +4653,7 @@
 						"srd52": true,
 						"type": "M",
 						"rarity": "none",
-						"weaponCategory": "simple",
+						"weaponCategory": "sencilla",
 						"entries": [
 							{
 								"type": "quote",
@@ -7430,7 +7430,7 @@
 			"entryData": {
 				"weaponProficiencies": [
 					{
-						"martial": true
+						"marcial": true
 					}
 				],
 				"armorProficiencies": [
@@ -8132,7 +8132,7 @@
 			"entryData": {
 				"weaponProficiencies": [
 					{
-						"martial": true
+						"marcial": true
 					}
 				],
 				"armorProficiencies": [
@@ -8207,7 +8207,7 @@
 			"entryData": {
 				"weaponProficiencies": [
 					{
-						"martial": true
+						"marcial": true
 					}
 				],
 				"armorProficiencies": [
@@ -8419,7 +8419,7 @@
 			"entryData": {
 				"weaponProficiencies": [
 					{
-						"martial": true
+						"marcial": true
 					}
 				],
 				"armorProficiencies": [
@@ -8473,7 +8473,7 @@
 			"entryData": {
 				"weaponProficiencies": [
 					{
-						"martial": true
+						"marcial": true
 					}
 				]
 			},
@@ -9832,7 +9832,7 @@
 						"page": 35,
 						"type": "R",
 						"rarity": "none",
-						"weaponCategory": "simple",
+						"weaponCategory": "sencilla",
 						"range": "30",
 						"entries": [
 							"This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls.",
@@ -11268,7 +11268,7 @@
 			"entryData": {
 				"weaponProficiencies": [
 					{
-						"martial": true
+						"marcial": true
 					}
 				],
 				"armorProficiencies": [
@@ -11737,7 +11737,7 @@
 						"srd": true,
 						"type": "R",
 						"rarity": "none",
-						"weaponCategory": "simple",
+						"weaponCategory": "sencilla",
 						"range": "90/300",
 						"dmg1": "1d6",
 						"dmgType": "L",
@@ -11791,7 +11791,7 @@
 						"srd": true,
 						"type": "M",
 						"rarity": "none",
-						"weaponCategory": "simple",
+						"weaponCategory": "sencilla",
 						"dmg1": "1d8",
 						"dmgType": "T",
 						"entries": [
@@ -11926,7 +11926,7 @@
 			"entryData": {
 				"weaponProficiencies": [
 					{
-						"martial": true
+						"marcial": true
 					}
 				]
 			},
@@ -13556,7 +13556,7 @@
 			"entryData": {
 				"weaponProficiencies": [
 					{
-						"martial": true
+						"marcial": true
 					}
 				],
 				"armorProficiencies": [

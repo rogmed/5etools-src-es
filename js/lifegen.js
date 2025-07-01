@@ -386,7 +386,7 @@ const LIFE_EVENTS_BOONS = [
 	{min: 2, result: "You saved the life of a commoner, who now owes you a life debt. This individual accompanies you on your travels and performs mundane tasks for you, but will leave if neglected, abused, or imperiled. Determine details about this character by using the supplemental tables and working with your DM."},
 	{min: 3, result: "You found a {@item riding horse}."},
 	{min: 4, result: () => `You found some money. You have {@dice 1d20} ${fmtChoice(RNG(20))} gp in addition to your regular starting funds.`, display: "You found some money. You have {@dice 1d20} gp in addition to your regular starting funds."},
-	{min: 5, result: "A relative bequeathed you a simple weapon of your choice."},
+	{min: 5, result: "A relative bequeathed you a arma sencilla of your choice."},
 	{min: 6, result: () => `You found something interesting. You gain one additional trinket ${fmtChoice(rollTrinket())}.`, display: "You found something interesting. You gain one additional trinket."},
 	{min: 7, result: "You once performed a service for a local temple. The next time you visit the temple, you can receive healing up to your hit point maximum."},
 	{min: 8, result: "A friendly alchemist gifted you with a potion of healing or a flask of acid, as you choose."},

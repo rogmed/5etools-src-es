@@ -1107,7 +1107,7 @@
 								],
 								[
 									"Armor",
-									"Simple/martial weapon or tool"
+									"Simple/arma marcial or tool"
 								],
 								[
 									"Simple weapon",
@@ -1115,15 +1115,15 @@
 								],
 								[
 									"Martial weapon",
-									"Simple/martial weapon or tool"
+									"Simple/arma marcial or tool"
 								],
 								[
 									"Tool",
-									"Tool or simple weapon"
+									"Tool or arma sencilla"
 								]
 							]
 						},
-						"For example, high elf adventurers have proficiency with longswords, which are martial weapons. Consulting the Proficiency Swaps table, we see that your high elf can swap that proficiency for proficiency with another weapon or a tool. Your elf might be a musician, who chooses proficiency with a {@item musical instrument|PHB}\u2014a type of tool\u2014instead of with longswords. Similarly, elves start with proficiency in the {@skill Perception} skill. Your elf might not have the keen senses associated with your kin and could take proficiency in a different skill, such as {@skill Performance}.",
+						"For example, high elf adventurers have proficiency with longswords, which are arma marcials. Consulting the Proficiency Swaps table, we see that your high elf can swap that proficiency for proficiency with another weapon or a tool. Your elf might be a musician, who chooses proficiency with a {@item musical instrument|PHB}\u2014a type of tool\u2014instead of with longswords. Similarly, elves start with proficiency in the {@skill Perception} skill. Your elf might not have the keen senses associated with your kin and could take proficiency in a different skill, such as {@skill Performance}.",
 						"The \"{@book Equipment|PHB|5}\" chapter of the {@book Player's Handbook|PHB} includes weapons and tools suitable for these swaps, and your DM might allow additional options."
 					]
 				},
@@ -7436,7 +7436,7 @@
 							"rows": [
 								[
 									"{@class Barbarian}",
-									"Shields, simple weapons, martial weapons"
+									"Shields, arma sencillas, arma marcials"
 								],
 								[
 									"{@class Bard}",
@@ -7452,7 +7452,7 @@
 								],
 								[
 									"{@class Fighter}",
-									"Light armor, medium armor, shields, simple weapons, martial weapons"
+									"Light armor, medium armor, shields, arma sencillas, arma marcials"
 								],
 								[
 									"{@class Monje}",
@@ -7460,11 +7460,11 @@
 								],
 								[
 									"{@class Paladin}",
-									"Light armor, medium armor, shields, simple weapons, martial weapons"
+									"Light armor, medium armor, shields, arma sencillas, arma marcials"
 								],
 								[
 									"{@class Ranger}",
-									"Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list"
+									"Light armor, medium armor, shields, arma sencillas, arma marcials, one skill from the class's skill list"
 								],
 								[
 									"{@class Rogue}",
@@ -7476,7 +7476,7 @@
 								],
 								[
 									"{@class Warlock}",
-									"Light armor, simple weapons"
+									"Light armor, arma sencillas"
 								],
 								[
 									"{@class Wizard}",
@@ -12159,7 +12159,7 @@
 					"type": "section",
 					"name": "Proficiencies",
 					"entries": [
-						"A sidekick is proficient with any armor, weapons, and tools included in its stat block. In addition, {@b experts} are proficient with simple weapons, rapiers, shortswords, and light armor; {@b spellcasters} are proficient with simple weapons and light armor; and {@b warriors} are proficient with simple and martial weapons, shields, and all armor."
+						"A sidekick is proficient with any armor, weapons, and tools included in its stat block. In addition, {@b experts} are proficient with arma sencillas, rapiers, shortswords, and light armor; {@b spellcasters} are proficient with arma sencillas and light armor; and {@b warriors} are proficient with simple and arma marcials, shields, and all armor."
 					]
 				},
 				{
@@ -16113,7 +16113,7 @@
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"A weapon is an object that is in the {@filter Simple|items|category=basic|type=simple weapon} or {@filter Martial|items|category=basic|type=martial weapon} weapon category."
+				"A weapon is an object that is in the {@filter Simple|items|category=basic|type=arma sencilla} or {@filter Martial|items|category=basic|type=arma marcial} weapon category."
 			]
 		},
 		{

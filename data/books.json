@@ -2102,7 +2102,7 @@
 						},
 						{
 							"depth": 1,
-							"header": "Fighter"
+							"header": "Guerrero"
 						},
 						{
 							"depth": 1,
@@ -2540,7 +2540,7 @@
 						"Bard",
 						"Clérigo",
 						"Druid",
-						"Fighter",
+						"Guerrero",
 						{
 							"depth": 1,
 							"header": "Battle Master Builds"

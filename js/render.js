@@ -6743,10 +6743,10 @@ Renderer.class = class {
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
 
 		const [profsSimpleMartial, profsOther] = weaponProfs
-			.segregate(it => ["sencillas", "marciales"].includes(it));
+			.segregate(it => ["sencilla", "marcial"].includes(it));
 
 		const ptsSimpleMartial = profsSimpleMartial
-			.map((w, i, arr) => Renderer.get().render(`{@filter ${styleHint === "classic" ? w : w.toTitleCase()}|items|type=${w} weapon}`));
+			.map((w, i, arr) => Renderer.get().render(`{@filter ${styleHint === "classic" ? w : w.toTitleCase()}|items|type=${w}}`));
 
 		const ptsOther = profsOther
 			.map(w => {

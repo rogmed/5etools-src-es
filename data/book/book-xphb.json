@@ -4126,7 +4126,7 @@
 											"High"
 										],
 										[
-											"{@class Fighter|XPHB}",
+											"{@class Guerrero|XPHB}",
 											"Weapons",
 											"Strength or Dexterity",
 											"Low"
@@ -4181,7 +4181,7 @@
 									"page": 36,
 									"id": "0cb",
 									"entries": [
-										"The classic D&D party comprises a {@class Cleric|XPHB}, {@class Fighter|XPHB}, {@class Rogue|XPHB}, and {@class Wizard|XPHB}. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:",
+										"The classic D&D party comprises a {@class Cleric|XPHB}, {@class Guerrero|XPHB}, {@class Rogue|XPHB}, and {@class Wizard|XPHB}. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -4731,7 +4731,7 @@
 													"10"
 												],
 												[
-													"{@class Fighter|XPHB}",
+													"{@class Guerrero|XPHB}",
 													"15",
 													"14",
 													"13",
@@ -5504,7 +5504,7 @@
 															"12 + Con. modifier"
 														],
 														[
-															"{@class Fighter|XPHB}, {@class Paladin|XPHB}, or {@class Ranger|XPHB}",
+															"{@class Guerrero|XPHB}, {@class Paladin|XPHB}, or {@class Ranger|XPHB}",
 															"10 + Con. modifier"
 														],
 														[
@@ -5814,7 +5814,7 @@
 															"7 + Con. modifier"
 														],
 														[
-															"{@class Fighter|XPHB}, {@class Paladin|XPHB}, or {@class Ranger|XPHB}",
+															"{@class Guerrero|XPHB}, {@class Paladin|XPHB}, or {@class Ranger|XPHB}",
 															"6 + Con. modifier"
 														],
 														[
@@ -6565,7 +6565,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "{@class Fighter|XPHB}",
+									"name": "{@class Guerrero|XPHB}",
 									"page": 90,
 									"entries": [
 										"Master all weapons and armor. Then embody the...",
@@ -6573,10 +6573,10 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Fighter|XPHB|Battle Master|Battle Master|XPHB} to use special combat maneuvers.",
-												"{@class Fighter|XPHB|Champion|Champion|XPHB} to strive for peak combat prowess.",
-												"{@class Fighter|XPHB|Eldritch Knight|Eldritch Knight|XPHB} to learn spells to aid in combat.",
-												"{@class Fighter|XPHB|Psi Warrior|Psi Warrior|XPHB} to augment attacks with psionic power."
+												"{@class Guerrero|XPHB|Battle Master|Battle Master|XPHB} to use special combat maneuvers.",
+												"{@class Guerrero|XPHB|Champion|Champion|XPHB} to strive for peak combat prowess.",
+												"{@class Guerrero|XPHB|Eldritch Knight|Eldritch Knight|XPHB} to learn spells to aid in combat.",
+												"{@class Guerrero|XPHB|Psi Warrior|Psi Warrior|XPHB} to augment attacks with psionic power."
 											]
 										}
 									],

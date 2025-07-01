@@ -2230,7 +2230,7 @@
 					"level": {
 						"level": 7,
 						"class": {
-							"name": "Fighter"
+							"name": "Guerrero"
 						},
 						"subclass": {
 							"name": "Rune Knight",
@@ -4383,7 +4383,7 @@
 					"level": {
 						"level": 7,
 						"class": {
-							"name": "Fighter"
+							"name": "Guerrero"
 						},
 						"subclass": {
 							"name": "Rune Knight",

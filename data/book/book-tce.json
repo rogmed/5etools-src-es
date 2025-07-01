@@ -740,7 +740,7 @@
 				},
 				{
 					"type": "section",
-					"name": "Fighter",
+					"name": "Guerrero",
 					"page": 41,
 					"id": "0da",
 					"entries": [
@@ -773,7 +773,7 @@
 										}
 									]
 								},
-								"{@classFeature Martial Versatility|Fighter|PHB|4|TCE} ({@i 4th-level fighter feature})"
+								"{@classFeature Martial Versatility|Guerrero|PHB|4|TCE} ({@i 4th-level fighter feature})"
 							]
 						},
 						{
@@ -809,8 +809,8 @@
 									"type": "list",
 									"columns": 2,
 									"items": [
-										"{@class Fighter|phb|Psi Warrior|Psi Warrior|TCE}",
-										"{@class Fighter|phb|Rune Knight|Rune Knight|TCE}"
+										"{@class Guerrero|phb|Psi Warrior|Psi Warrior|TCE}",
+										"{@class Guerrero|phb|Rune Knight|Rune Knight|TCE}"
 									]
 								}
 							]

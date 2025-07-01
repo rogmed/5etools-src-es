@@ -2109,7 +2109,7 @@
 													"Made from natural, organic, locally sourced woven fibers"
 												],
 												[
-													"Fighter",
+													"Guerrero",
 													"A thick, battle-scarred iron lockbox"
 												],
 												[
@@ -4580,7 +4580,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Fighter",
+							"name": "Guerrero",
 							"page": 59,
 							"entries": [
 								"{@i The best thing about blood money is that it spends just as readily as any other kind of money}.",

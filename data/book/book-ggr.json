@@ -1222,13 +1222,13 @@
 						},
 						{
 							"type": "entries",
-							"name": "Fighter",
+							"name": "Guerrero",
 							"page": 24,
 							"entries": [
 								"Fighters are common in almost every guild, with Dimir as the notable exception. In a world where constant tension among the guilds often blooms into physical violence, fighters are the core of most guilds' defenses.",
 								{
 									"type": "table",
-									"caption": "Fighter",
+									"caption": "Guerrero",
 									"colStyles": [
 										"col-6",
 										"col-6"

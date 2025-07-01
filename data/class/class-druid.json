@@ -652,7 +652,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Leather Armor|XPHB}, {@item Shield|XPHB}, {@item Sickle|XPHB}, {@item Druidic Focus|XPHB|Druidic Focus (Quarterstaff)}, {@item Explorer's Pack|XPHB}, {@item Herbalism kit|XPHB}, 9 GP; or (B) 50 GP"
+					"{@i Choose A or B:} (A) {@item Armadura de cuero|XPHB}, {@item Shield|XPHB}, {@item Sickle|XPHB}, {@item Druidic Focus|XPHB|Druidic Focus (Quarterstaff)}, {@item Explorer's Pack|XPHB}, {@item Herbalism kit|XPHB}, 9 GP; or (B) 50 GP"
 				]
 			},
 			"multiclassing": {

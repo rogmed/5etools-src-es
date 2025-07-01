@@ -1316,7 +1316,7 @@
 			]
 		},
 		{
-			"name": "Breastplate",
+			"name": "Coraza",
 			"source": "XPHB",
 			"images": [
 				{
@@ -1575,7 +1575,7 @@
 			]
 		},
 		{
-			"name": "Chain Mail",
+			"name": "Cota de malla",
 			"source": "XPHB",
 			"images": [
 				{
@@ -1589,7 +1589,7 @@
 			]
 		},
 		{
-			"name": "Chain Shirt",
+			"name": "Camisa de malla",
 			"source": "XPHB",
 			"images": [
 				{
@@ -4189,7 +4189,7 @@
 			]
 		},
 		{
-			"name": "Half Plate Armor",
+			"name": "Media armadura",
 			"source": "XPHB",
 			"images": [
 				{
@@ -4588,7 +4588,7 @@
 			]
 		},
 		{
-			"name": "Hide Armor",
+			"name": "Armadura de pieles",
 			"source": "XPHB",
 			"images": [
 				{
@@ -5725,7 +5725,7 @@
 			}
 		},
 		{
-			"name": "Leather Armor",
+			"name": "Armadura de cuero",
 			"source": "XPHB",
 			"images": [
 				{
@@ -7052,14 +7052,14 @@
 			]
 		},
 		{
-			"name": "Padded Armor",
+			"name": "Armadura acolchada",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "items/XPHB/Padded Armor.webp"
+						"path": "items/XPHB/Armadura acolchada.webp"
 					},
 					"credit": "Polar Engine"
 				}
@@ -7287,7 +7287,7 @@
 			]
 		},
 		{
-			"name": "Plate Armor",
+			"name": "Armadura de placas",
 			"source": "XPHB",
 			"images": [
 				{
@@ -7889,7 +7889,7 @@
 			]
 		},
 		{
-			"name": "Ring Mail",
+			"name": "Cota guarnecida",
 			"source": "XPHB",
 			"images": [
 				{
@@ -8892,7 +8892,7 @@
 			]
 		},
 		{
-			"name": "Scale Mail",
+			"name": "Cota de escamas",
 			"source": "XPHB",
 			"images": [
 				{
@@ -9890,7 +9890,7 @@
 			]
 		},
 		{
-			"name": "Splint Armor",
+			"name": "Armadura de bandas",
 			"source": "XPHB",
 			"images": [
 				{
@@ -10390,7 +10390,7 @@
 			]
 		},
 		{
-			"name": "Studded Leather Armor",
+			"name": "Armadura de cuero tachonado",
 			"source": "XPHB",
 			"images": [
 				{

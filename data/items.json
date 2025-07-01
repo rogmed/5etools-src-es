@@ -1665,7 +1665,7 @@
 							"name": "Craft:",
 							"type": "item",
 							"entries": [
-								"{@item Sling|XPHB}, {@item Whip|XPHB}, {@item Hide Armor|XPHB}, {@item Leather Armor|XPHB}, {@item Studded Leather Armor|XPHB}, {@item Backpack|XPHB}, {@item Crossbow Bolt Case|XPHB}, {@item Map or Scroll Case|XPHB}, {@item Parchment|XPHB}, {@item Pouch|XPHB}, {@item Quiver|XPHB}, {@item Waterskin|XPHB}"
+								"{@item Sling|XPHB}, {@item Whip|XPHB}, {@item Armadura de pieles|XPHB}, {@item Armadura de cuero|XPHB}, {@item Armadura de cuero tachonado|XPHB}, {@item Backpack|XPHB}, {@item Crossbow Bolt Case|XPHB}, {@item Map or Scroll Case|XPHB}, {@item Parchment|XPHB}, {@item Pouch|XPHB}, {@item Quiver|XPHB}, {@item Waterskin|XPHB}"
 							]
 						}
 					]
@@ -2520,7 +2520,7 @@
 							"name": "Craft:",
 							"type": "item",
 							"entries": [
-								"Any Melee weapon (except {@item Club|XPHB}, {@item Greatclub|XPHB}, {@item Quarterstaff|XPHB}, and {@item Whip|XPHB}), Medium armor (except {@item Hide Armor|XPHB|Hide}), Heavy armor, {@item Ball Bearings|XPHB}, {@item Bucket|XPHB}, {@item Caltrops|XPHB}, {@item Chain|XPHB}, {@item Crowbar|XPHB}, {@item Firearm Bullets (10)|XPHB|Firearm Bullets}, {@item Grappling Hook|XPHB}, {@item Iron Pot|XPHB}, {@item Iron Spikes|XPHB}, {@item Sling Bullets (20)|XPHB|Sling Bullets}"
+								"Any Melee weapon (except {@item Club|XPHB}, {@item Greatclub|XPHB}, {@item Quarterstaff|XPHB}, and {@item Whip|XPHB}), Medium armor (except {@item Armadura de pieles|XPHB|Hide}), Heavy armor, {@item Ball Bearings|XPHB}, {@item Bucket|XPHB}, {@item Caltrops|XPHB}, {@item Chain|XPHB}, {@item Crowbar|XPHB}, {@item Firearm Bullets (10)|XPHB|Firearm Bullets}, {@item Grappling Hook|XPHB}, {@item Iron Pot|XPHB}, {@item Iron Spikes|XPHB}, {@item Sling Bullets (20)|XPHB|Sling Bullets}"
 							]
 						}
 					]
@@ -3289,7 +3289,7 @@
 							"name": "Craft:",
 							"type": "item",
 							"entries": [
-								"{@item Padded Armor|XPHB}, {@item Basket|XPHB}, {@item Bedroll|XPHB}, {@item Blanket|XPHB}, {@item Fine Clothes|XPHB}, {@item Net|XPHB}, {@item Robe|XPHB}, {@item Rope|XPHB}, {@item Sack|XPHB}, {@item String|XPHB}, {@item Tent|XPHB}, {@item Traveler\u0027s Clothes|XPHB}"
+								"{@item Armadura acolchada|XPHB}, {@item Basket|XPHB}, {@item Bedroll|XPHB}, {@item Blanket|XPHB}, {@item Fine Clothes|XPHB}, {@item Net|XPHB}, {@item Robe|XPHB}, {@item Rope|XPHB}, {@item Sack|XPHB}, {@item String|XPHB}, {@item Tent|XPHB}, {@item Traveler\u0027s Clothes|XPHB}"
 							]
 						}
 					]

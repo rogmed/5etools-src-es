@@ -753,7 +753,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Leather Armor|XPHB}, 2 {@item Dagger|XPHB}, {@item Musical Instrument|XPHB} of your choice, {@item Entertainer's Pack|XPHB}, 19 GP; or (B) 90 GP"
+					"{@i Choose A or B:} (A) {@item Armadura de cuero|XPHB}, 2 {@item Dagger|XPHB}, {@item Musical Instrument|XPHB} of your choice, {@item Entertainer's Pack|XPHB}, 19 GP; or (B) 90 GP"
 				]
 			},
 			"multiclassing": {

@@ -473,7 +473,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Chain Mail|XPHB}, {@item Shield|XPHB}, {@item Longsword|XPHB}, 6 {@item Javelin|XPHB|Javelins}, {@item Holy Symbol|XPHB}, {@item Priest's Pack|XPHB}, and 9 GP; or (B) 150 GP"
+					"{@i Choose A or B:} (A) {@item Cota de malla|XPHB}, {@item Shield|XPHB}, {@item Longsword|XPHB}, 6 {@item Javelin|XPHB|Javelins}, {@item Holy Symbol|XPHB}, {@item Priest's Pack|XPHB}, and 9 GP; or (B) 150 GP"
 				]
 			},
 			"multiclassing": {

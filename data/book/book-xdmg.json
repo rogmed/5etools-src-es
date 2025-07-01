@@ -24253,7 +24253,7 @@
 									"id": "418",
 									"entries": [
 										"An item in the Armor category is typically a magical version of armor from the {@book Player's Handbook|XPHB}. Unless an armor's description notes otherwise, the armor must be worn for its magic to function.",
-										"Some suits of magic armor specify the type of armor they are, such as {@item Chain Mail|XPHB} or {@item Plate Armor|XPHB}. If no type is specified, choose the type or determine it randomly."
+										"Some suits of magic armor specify the type of armor they are, such as {@item Cota de malla|XPHB} or {@item Armadura de placas|XPHB}. If no type is specified, choose the type or determine it randomly."
 									]
 								},
 								{
@@ -24432,7 +24432,7 @@
 									"id": "426",
 									"entries": [
 										"Common magic items can often be bought in a town or city. Uncommon and Rare magic items are usually found only in cities, and rarer magic items might be sold only in wondrous locations, such as the {@book City of Brass|XDMG|5|City of Brass} or {@book Sigil|XDMG|5|Sigil, City of Doors}. If you allow characters to buy and sell magic items in your campaign, rarity can help you set prices for those items. Gold Piece values are provided in the Magic Item Rarities and Values table, though a seller might ask for a service rather than coin as payment.",
-										"If a magic item incorporates an item that has a purchase cost in the {@book Player's Handbook|XPHB} (such as a weapon or a suit of armor), add that item's cost to the magic item's value. For example, {@item +1 Plate Armor|XDMG|+1 Armor (Plate Armor)} has a value of 5,500 GP, which is the sum of a Rare magic item's value (4,000 GP) and the cost of {@item Plate Armor|XPHB} (1,500 GP).",
+										"If a magic item incorporates an item that has a purchase cost in the {@book Player's Handbook|XPHB} (such as a weapon or a suit of armor), add that item's cost to the magic item's value. For example, {@item +1 Plate Armor|XDMG|+1 Armor (Plate Armor)} has a value of 5,500 GP, which is the sum of a Rare magic item's value (4,000 GP) and the cost of {@item Armadura de placas|XPHB} (1,500 GP).",
 										{
 											"type": "table",
 											"caption": "Magic Item Rarities and Values",

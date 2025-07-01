@@ -2187,7 +2187,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Breastplate|phb}",
+										"{@item Coraza|phb}",
 										"400 gp",
 										"14 + Dex modifier (max 2)",
 										"\u2014",
@@ -2425,7 +2425,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Chain Shirt",
+											"name": "Camisa de malla",
 											"page": 144,
 											"entries": [
 												"Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers."
@@ -2434,7 +2434,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Scale Mail",
+											"name": "Cota de escamas",
 											"page": 144,
 											"entries": [
 												"This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets."
@@ -2443,7 +2443,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Breastplate",
+											"name": "Coraza",
 											"page": 145,
 											"entries": [
 												"This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered."
@@ -2476,7 +2476,7 @@
 									"entries": [
 										{
 											"type": "entries",
-											"name": "Ring Mail",
+											"name": "Cota guarnecida",
 											"page": 145,
 											"entries": [
 												"This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor."
@@ -2485,7 +2485,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Chain Mail",
+											"name": "Cota de malla",
 											"page": 145,
 											"entries": [
 												"Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets."

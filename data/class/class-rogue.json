@@ -558,7 +558,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Leather Armor|XPHB}, 2 {@item Dagger|XPHB|Daggers}, {@item Shortsword|XPHB}, {@item Shortbow|XPHB}, {@item Arrows (20)|XPHB|20 Arrows}, {@item Quiver|XPHB}, {@item Thieves' Tools|XPHB}, {@item Burglar's Pack|XPHB}, and 8 GP; or (B) 100 GP"
+					"{@i Choose A or B:} (A) {@item Armadura de cuero|XPHB}, 2 {@item Dagger|XPHB|Daggers}, {@item Shortsword|XPHB}, {@item Shortbow|XPHB}, {@item Arrows (20)|XPHB|20 Arrows}, {@item Quiver|XPHB}, {@item Thieves' Tools|XPHB}, {@item Burglar's Pack|XPHB}, and 8 GP; or (B) 100 GP"
 				]
 			},
 			"multiclassing": {

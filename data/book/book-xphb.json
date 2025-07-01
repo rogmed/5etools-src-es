@@ -8469,7 +8469,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Padded Armor|XPHB}",
+										"{@item Armadura acolchada|XPHB}",
 										"11 + Dex modifier",
 										"\u2014",
 										"{@variantrule Disadvantage|XPHB}",
@@ -8481,7 +8481,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Leather Armor|XPHB}",
+										"{@item Armadura de cuero|XPHB}",
 										"11 + Dex modifier",
 										"\u2014",
 										"\u2014",
@@ -8493,7 +8493,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Studded Leather Armor|XPHB}",
+										"{@item Armadura de cuero tachonado|XPHB}",
 										"12 + Dex modifier",
 										"\u2014",
 										"\u2014",
@@ -8512,7 +8512,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Hide Armor|XPHB}",
+										"{@item Armadura de pieles|XPHB}",
 										"12 + Dex modifier (max 2)",
 										"\u2014",
 										"\u2014",
@@ -8524,7 +8524,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Chain Shirt|XPHB}",
+										"{@item Camisa de malla|XPHB}",
 										"13 + Dex modifier (max 2)",
 										"\u2014",
 										"\u2014",
@@ -8536,7 +8536,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Scale Mail|XPHB}",
+										"{@item Cota de escamas|XPHB}",
 										"14 + Dex modifier (max 2)",
 										"\u2014",
 										"{@variantrule Disadvantage|XPHB}",
@@ -8548,7 +8548,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Breastplate|XPHB}",
+										"{@item Coraza|XPHB}",
 										"14 + Dex modifier (max 2)",
 										"\u2014",
 										"\u2014",
@@ -8560,7 +8560,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Half Plate Armor|XPHB}",
+										"{@item Media armadura|XPHB}",
 										"15 + Dex modifier (max 2)",
 										"\u2014",
 										"{@variantrule Disadvantage|XPHB}",
@@ -8579,7 +8579,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Ring Mail|XPHB}",
+										"{@item Cota guarnecida|XPHB}",
 										"14",
 										"\u2014",
 										"{@variantrule Disadvantage|XPHB}",
@@ -8591,7 +8591,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Chain Mail|XPHB}",
+										"{@item Cota de malla|XPHB}",
 										"16",
 										"Str 13",
 										"{@variantrule Disadvantage|XPHB}",
@@ -8603,7 +8603,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Splint Armor|XPHB}",
+										"{@item Armadura de bandas|XPHB}",
 										"17",
 										"Str 15",
 										"{@variantrule Disadvantage|XPHB}",
@@ -8615,7 +8615,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Plate Armor|XPHB}",
+										"{@item Armadura de placas|XPHB}",
 										"18",
 										"Str 15",
 										"{@variantrule Disadvantage|XPHB}",
@@ -9118,7 +9118,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "{@item Sling|XPHB}, {@item Whip|XPHB}, {@item Hide Armor|XPHB}, {@item Leather Armor|XPHB}, {@item Studded Leather Armor|XPHB}, {@item Backpack|XPHB}, {@item Crossbow Bolt Case|XPHB}, {@item Map or Scroll Case|XPHB}, {@item Parchment|XPHB}, {@item Pouch|XPHB}, {@item Quiver|XPHB}, {@item Waterskin|XPHB}"
+													"entry": "{@item Sling|XPHB}, {@item Whip|XPHB}, {@item Armadura de pieles|XPHB}, {@item Armadura de cuero|XPHB}, {@item Armadura de cuero tachonado|XPHB}, {@item Backpack|XPHB}, {@item Crossbow Bolt Case|XPHB}, {@item Map or Scroll Case|XPHB}, {@item Parchment|XPHB}, {@item Pouch|XPHB}, {@item Quiver|XPHB}, {@item Waterskin|XPHB}"
 												}
 											]
 										}
@@ -9322,7 +9322,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "{@item Padded Armor|XPHB}, {@item Basket|XPHB}, {@item Bedroll|XPHB}, {@item Blanket|XPHB}, {@item Fine Clothes|XPHB}, {@item Net|XPHB}, {@item Robe|XPHB}, {@item Rope|XPHB}, {@item Sack|XPHB}, {@item String|XPHB}, {@item Tent|XPHB}, {@item Traveler's Clothes|XPHB}"
+													"entry": "{@item Armadura acolchada|XPHB}, {@item Basket|XPHB}, {@item Bedroll|XPHB}, {@item Blanket|XPHB}, {@item Fine Clothes|XPHB}, {@item Net|XPHB}, {@item Robe|XPHB}, {@item Rope|XPHB}, {@item Sack|XPHB}, {@item String|XPHB}, {@item Tent|XPHB}, {@item Traveler's Clothes|XPHB}"
 												}
 											]
 										}

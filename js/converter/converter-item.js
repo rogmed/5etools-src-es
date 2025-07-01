@@ -567,15 +567,15 @@ export class ConverterItem extends ConverterBase {
 		"medium": ({styleHint}) => [{"type": styleHint === SITE_STYLE__ONE ? Parser.ITM_TYP__ODND_MEDIUM_ARMOR : Parser.ITM_TYP__MEDIUM_ARMOR}],
 		"heavy": ({styleHint}) => [{"type": styleHint === SITE_STYLE__ONE ? Parser.ITM_TYP__ODND_HEAVY_ARMOR : Parser.ITM_TYP__HEAVY_ARMOR}],
 
-		"hide": ({styleHint}) => [{"name": "Hide Armor", "source": styleHint === SITE_STYLE__ONE ? Parser.SRC_XPHB : Parser.SRC_PHB}],
-		"half plate": ({styleHint}) => [{"name": "Half Plate Armor", "source": styleHint === SITE_STYLE__ONE ? Parser.SRC_XPHB : Parser.SRC_PHB}],
-		"plate": ({styleHint}) => [{"name": "Plate Armor", "source": styleHint === SITE_STYLE__ONE ? Parser.SRC_XPHB : Parser.SRC_PHB}],
-		"chain mail": ({styleHint}) => [{"name": "Chain Mail", "source": styleHint === SITE_STYLE__ONE ? Parser.SRC_XPHB : Parser.SRC_PHB}],
-		"chain shirt": ({styleHint}) => [{"name": "Chain Shirt", "source": styleHint === SITE_STYLE__ONE ? Parser.SRC_XPHB : Parser.SRC_PHB}],
+		"hide": ({styleHint}) => [{"name": "Armadura de pieles", "source": styleHint === SITE_STYLE__ONE ? Parser.SRC_XPHB : Parser.SRC_PHB}],
+		"half plate": ({styleHint}) => [{"name": "Media armadura", "source": styleHint === SITE_STYLE__ONE ? Parser.SRC_XPHB : Parser.SRC_PHB}],
+		"plate": ({styleHint}) => [{"name": "Armadura de placas", "source": styleHint === SITE_STYLE__ONE ? Parser.SRC_XPHB : Parser.SRC_PHB}],
+		"chain mail": ({styleHint}) => [{"name": "Cota de malla", "source": styleHint === SITE_STYLE__ONE ? Parser.SRC_XPHB : Parser.SRC_PHB}],
+		"chain shirt": ({styleHint}) => [{"name": "Camisa de malla", "source": styleHint === SITE_STYLE__ONE ? Parser.SRC_XPHB : Parser.SRC_PHB}],
 	};
 
 	static _GENERIC_EXCLUDES_LOOKUP_ARMOR = {
-		"hide": {"name": "Hide Armor"},
+		"hide": {"name": "Armadura de pieles"},
 	};
 
 	static _setCleanTaglineInfo_getGenericRequires ({stats, str, options}) {

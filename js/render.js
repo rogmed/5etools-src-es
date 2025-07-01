@@ -11396,11 +11396,11 @@ Renderer.item = class {
 			const isAddDex = item.dexterityMax !== undefined || ![Parser.ITM_TYP_ABV__HEAVY_ARMOR, Parser.ITM_TYP_ABV__SHIELD].includes(itemTypeAbv);
 
 			const prefix = itemTypeAbv === Parser.ITM_TYP_ABV__SHIELD ? "+" : "";
-			const suffix = isAddDex ? ` + Dex${dexterityMax ? ` (max ${dexterityMax})` : ""}` : "";
+			const suffix = isAddDex ? ` + Des${dexterityMax ? ` (max ${dexterityMax})` : ""}` : "";
 
-			damageParts.push(`AC ${prefix}${item.ac}${suffix}`);
+			damageParts.push(`CA ${prefix}${item.ac}${suffix}`);
 		}
-		if (item.acSpecial != null) damageParts.push(item.ac != null ? item.acSpecial : `AC ${item.acSpecial}`);
+		if (item.acSpecial != null) damageParts.push(item.ac != null ? item.acSpecial : `CA ${item.acSpecial}`);
 
 		// damage
 		if (item.dmg1) {
@@ -12410,13 +12410,13 @@ Renderer.item = class {
 			if (item.stealth) {
 				Renderer.item._initFullEntries(item);
 				const wrapped = styleHint === "classic"
-					? "The wearer has disadvantage on Dexterity ({@skill Stealth}) checks."
-					: "The wearer has {@variantrule Disadvantage|XPHB} on Dexterity ({@skill Stealth|XPHB}) checks.";
+					? "Quien la lleve tendrá desventaja en las pruebas de Destreza (Sigilo)"
+					: "Quien la lleve tendrá desventaja en las pruebas de Destreza ({@skill Sigilo|XPHB}).";
 				item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type"}});
 			}
 			if (itemTypeAbv === Parser.ITM_TYP_ABV__HEAVY_ARMOR && item.strength) {
 				Renderer.item._initFullEntries(item);
-				item._fullEntries.push({type: "wrapper", wrapped: `If the wearer has a Strength score lower than ${item.strength}, their speed is reduced by 10 feet.`, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type"}});
+				item._fullEntries.push({type: "wrapper", wrapped: `Reducirá 10 pies (3 m) la velocidad de quien la lleve, salvo que tenga una puntuación de Fuerza igual o superior a ${item.strength}.`, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type"}});
 			}
 		}
 		if (itemTypeAbv === Parser.ITM_TYP_ABV__SPELLCASTING_FOCUS) {

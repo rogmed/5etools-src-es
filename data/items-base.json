@@ -7,6 +7,7 @@
 	"baseitem": [
 		{
 			"name": "Arrow",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"srd52": true,
@@ -23,6 +24,7 @@
 		},
 		{
 			"name": "Arrows (20)",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"srd52": true,
@@ -45,6 +47,7 @@
 		},
 		{
 			"name": "Bagpipes",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"srd52": true,
@@ -79,6 +82,7 @@
 		},
 		{
 			"name": "Battleaxe",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -104,6 +108,7 @@
 		},
 		{
 			"name": "Blowgun",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -130,6 +135,7 @@
 		},
 		{
 			"name": "Bolt",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"srd52": true,
@@ -146,6 +152,7 @@
 		},
 		{
 			"name": "Bolts (20)",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"srd52": true,
@@ -168,6 +175,7 @@
 		},
 		{
 			"name": "Breastplate",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -183,6 +191,7 @@
 		},
 		{
 			"name": "Chain Mail",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -200,6 +209,7 @@
 		},
 		{
 			"name": "Chain Shirt",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -215,6 +225,7 @@
 		},
 		{
 			"name": "Club",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -242,6 +253,7 @@
 			"group": [
 				"Arcane Focus"
 			],
+			"originalname": "",
 			"source": "XPHB",
 			"page": 224,
 			"srd52": true,
@@ -254,6 +266,7 @@
 		},
 		{
 			"name": "Dagger",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -281,6 +294,7 @@
 		},
 		{
 			"name": "Dart",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -306,6 +320,7 @@
 		},
 		{
 			"name": "Drum",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"srd52": true,
@@ -340,6 +355,7 @@
 		},
 		{
 			"name": "Dulcimer",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"srd52": true,
@@ -374,6 +390,7 @@
 		},
 		{
 			"name": "Firearm Bullet",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"edition": "one",
@@ -392,6 +409,7 @@
 		},
 		{
 			"name": "Firearm Bullets (10)",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"edition": "one",
@@ -416,6 +434,7 @@
 		},
 		{
 			"name": "Flail",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -436,6 +455,7 @@
 		},
 		{
 			"name": "Flute",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"srd52": true,
@@ -470,6 +490,7 @@
 		},
 		{
 			"name": "Glaive",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -496,6 +517,7 @@
 		},
 		{
 			"name": "Greataxe",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -521,6 +543,7 @@
 		},
 		{
 			"name": "Greatclub",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -545,6 +568,7 @@
 		},
 		{
 			"name": "Greatsword",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -570,6 +594,7 @@
 		},
 		{
 			"name": "Halberd",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -596,6 +621,7 @@
 		},
 		{
 			"name": "Half Plate Armor",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -612,6 +638,7 @@
 		},
 		{
 			"name": "Hand Crossbow",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -640,6 +667,7 @@
 		},
 		{
 			"name": "Handaxe",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -666,6 +694,7 @@
 		},
 		{
 			"name": "Heavy Crossbow",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -695,6 +724,7 @@
 		},
 		{
 			"name": "Hide Armor",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -710,6 +740,7 @@
 		},
 		{
 			"name": "Horn",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"srd52": true,
@@ -744,6 +775,7 @@
 		},
 		{
 			"name": "Javelin",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -769,6 +801,7 @@
 		},
 		{
 			"name": "Lance",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -801,6 +834,7 @@
 		},
 		{
 			"name": "Leather Armor",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -816,6 +850,7 @@
 		},
 		{
 			"name": "Light Crossbow",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -844,6 +879,7 @@
 		},
 		{
 			"name": "Light Hammer",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -870,6 +906,7 @@
 		},
 		{
 			"name": "Longbow",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -898,6 +935,7 @@
 		},
 		{
 			"name": "Longsword",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -923,6 +961,7 @@
 		},
 		{
 			"name": "Lute",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"srd52": true,
@@ -957,6 +996,7 @@
 		},
 		{
 			"name": "Lyre",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"srd52": true,
@@ -991,6 +1031,7 @@
 		},
 		{
 			"name": "Mace",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1012,6 +1053,7 @@
 		},
 		{
 			"name": "Maul",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1037,6 +1079,7 @@
 		},
 		{
 			"name": "Morningstar",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1058,6 +1101,7 @@
 		},
 		{
 			"name": "Musket",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1086,6 +1130,7 @@
 		},
 		{
 			"name": "Needle",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"srd52": true,
@@ -1102,6 +1147,7 @@
 		},
 		{
 			"name": "Needles (50)",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"srd52": true,
@@ -1127,6 +1173,7 @@
 			"group": [
 				"Arcane Focus"
 			],
+			"originalname": "",
 			"source": "XPHB",
 			"page": 224,
 			"srd52": true,
@@ -1139,6 +1186,7 @@
 		},
 		{
 			"name": "Padded Armor",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -1155,6 +1203,7 @@
 		},
 		{
 			"name": "Pan Flute",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"srd52": true,
@@ -1189,6 +1238,7 @@
 		},
 		{
 			"name": "Pike",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1214,6 +1264,7 @@
 		},
 		{
 			"name": "Pistol",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1241,6 +1292,7 @@
 		},
 		{
 			"name": "Plate Armor",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -1258,6 +1310,7 @@
 		},
 		{
 			"name": "Quarterstaff",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1282,6 +1335,7 @@
 		},
 		{
 			"name": "Rapier",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1307,6 +1361,7 @@
 		},
 		{
 			"name": "Ring Mail",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -1326,6 +1381,7 @@
 			"group": [
 				"Arcane Focus"
 			],
+			"originalname": "",
 			"source": "XPHB",
 			"page": 224,
 			"srd52": true,
@@ -1338,6 +1394,7 @@
 		},
 		{
 			"name": "Scale Mail",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -1354,6 +1411,7 @@
 		},
 		{
 			"name": "Scimitar",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1379,6 +1437,7 @@
 		},
 		{
 			"name": "Shawm",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"srd52": true,
@@ -1413,6 +1472,7 @@
 		},
 		{
 			"name": "Escudo",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -1427,6 +1487,7 @@
 		},
 		{
 			"name": "Shortbow",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1454,6 +1515,7 @@
 		},
 		{
 			"name": "Shortsword",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1479,6 +1541,7 @@
 		},
 		{
 			"name": "Sickle",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1502,6 +1565,7 @@
 		},
 		{
 			"name": "Sling",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1526,6 +1590,7 @@
 		},
 		{
 			"name": "Sling Bullet",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"srd52": true,
@@ -1542,6 +1607,7 @@
 		},
 		{
 			"name": "Sling Bullets (20)",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"srd52": true,
@@ -1564,6 +1630,7 @@
 		},
 		{
 			"name": "Spear",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1591,6 +1658,7 @@
 		},
 		{
 			"name": "Splint Armor",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -1611,6 +1679,7 @@
 			"group": [
 				"Arcane Focus"
 			],
+			"originalname": "",
 			"source": "XPHB",
 			"page": 224,
 			"srd52": true,
@@ -1634,6 +1703,7 @@
 		},
 		{
 			"name": "Studded Leather Armor",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"srd52": true,
@@ -1649,6 +1719,7 @@
 		},
 		{
 			"name": "Trident",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1675,6 +1746,7 @@
 		},
 		{
 			"name": "Viol",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"srd52": true,
@@ -1712,6 +1784,7 @@
 			"group": [
 				"Arcane Focus"
 			],
+			"originalname": "",
 			"source": "XPHB",
 			"page": 224,
 			"srd52": true,
@@ -1724,6 +1797,7 @@
 		},
 		{
 			"name": "War Pick",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1748,6 +1822,7 @@
 		},
 		{
 			"name": "Warhammer",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1773,6 +1848,7 @@
 		},
 		{
 			"name": "Whip",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 215,
 			"srd52": true,
@@ -1800,6 +1876,7 @@
 			"group": [
 				"Druidic Focus"
 			],
+			"originalname": "",
 			"source": "XPHB",
 			"page": 225,
 			"srd52": true,
@@ -1824,6 +1901,7 @@
 	"itemProperty": [
 		{
 			"abbreviation": "2H",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"basicRules2024": true,
@@ -1840,6 +1918,7 @@
 		},
 		{
 			"abbreviation": "A",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 213,
 			"basicRules2024": true,
@@ -1856,6 +1935,7 @@
 		},
 		{
 			"abbreviation": "F",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 213,
 			"basicRules2024": true,
@@ -1872,6 +1952,7 @@
 		},
 		{
 			"abbreviation": "H",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 213,
 			"basicRules2024": true,
@@ -1888,6 +1969,7 @@
 		},
 		{
 			"abbreviation": "L",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 213,
 			"basicRules2024": true,
@@ -1904,6 +1986,7 @@
 		},
 		{
 			"abbreviation": "LD",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"basicRules2024": true,
@@ -1920,6 +2003,7 @@
 		},
 		{
 			"abbreviation": "R",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"basicRules2024": true,
@@ -1936,6 +2020,7 @@
 		},
 		{
 			"abbreviation": "T",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"basicRules2024": true,
@@ -1952,6 +2037,7 @@
 		},
 		{
 			"abbreviation": "V",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"basicRules2024": true,
@@ -1971,6 +2057,7 @@
 		{
 			"name": "Treasure (Coinage)",
 			"abbreviation": "$C",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 213,
 			"basicRules2024": true,
@@ -1982,6 +2069,7 @@
 		{
 			"name": "Ammunition",
 			"abbreviation": "A",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"basicRules2024": true
@@ -1989,6 +2077,7 @@
 		{
 			"name": "Vehicle (Air)",
 			"abbreviation": "AIR",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 230,
 			"basicRules2024": true,
@@ -2000,6 +2089,7 @@
 		{
 			"name": "Artisan\u0027s Tools",
 			"abbreviation": "AT",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 220,
 			"basicRules2024": true,
@@ -2011,6 +2101,7 @@
 		{
 			"name": "Food and Drink",
 			"abbreviation": "FD",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 231,
 			"basicRules2024": true
@@ -2018,6 +2109,7 @@
 		{
 			"name": "Adventuring Gear",
 			"abbreviation": "G",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"basicRules2024": true
@@ -2025,6 +2117,7 @@
 		{
 			"name": "Gaming Set",
 			"abbreviation": "GS",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"basicRules2024": true,
@@ -2035,6 +2128,7 @@
 		{
 			"name": "Heavy Armor",
 			"abbreviation": "HA",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"basicRules2024": true
@@ -2042,6 +2136,7 @@
 		{
 			"name": "Instrument",
 			"abbreviation": "INS",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
 			"basicRules2024": true,
@@ -2052,6 +2147,7 @@
 		{
 			"name": "Light Armor",
 			"abbreviation": "LA",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"basicRules2024": true
@@ -2059,6 +2155,7 @@
 		{
 			"name": "Melee Weapon",
 			"abbreviation": "M",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 213,
 			"basicRules2024": true
@@ -2066,6 +2163,7 @@
 		{
 			"name": "Medium Armor",
 			"abbreviation": "MA",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"basicRules2024": true
@@ -2073,6 +2171,7 @@
 		{
 			"name": "Mount",
 			"abbreviation": "MNT",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 230,
 			"basicRules2024": true
@@ -2080,6 +2179,7 @@
 		{
 			"name": "Potion",
 			"abbreviation": "P",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"basicRules2024": true
@@ -2087,6 +2187,7 @@
 		{
 			"name": "Ranged Weapon",
 			"abbreviation": "R",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"basicRules2024": true,
@@ -2103,6 +2204,7 @@
 		{
 			"name": "Escudo",
 			"abbreviation": "S",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 219,
 			"basicRules2024": true
@@ -2110,6 +2212,7 @@
 		{
 			"name": "Scroll",
 			"abbreviation": "SC",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"basicRules2024": true
@@ -2117,6 +2220,7 @@
 		{
 			"name": "Spellcasting Focus",
 			"abbreviation": "SCF",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 222,
 			"basicRules2024": true
@@ -2124,6 +2228,7 @@
 		{
 			"name": "Vehicle (Water)",
 			"abbreviation": "SHP",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 230,
 			"basicRules2024": true,
@@ -2168,6 +2273,7 @@
 		{
 			"name": "Tool",
 			"abbreviation": "T",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 220,
 			"basicRules2024": true,
@@ -2178,6 +2284,7 @@
 		{
 			"name": "Tack and Harness",
 			"abbreviation": "TAH",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 230,
 			"basicRules2024": true
@@ -2185,6 +2292,7 @@
 		{
 			"name": "Vehicle (Land)",
 			"abbreviation": "VEH",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 230,
 			"basicRules2024": true
@@ -2428,6 +2536,7 @@
 		{
 			"name": "Hender",
 			"originalname": "Cleave",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2439,6 +2548,7 @@
 		{
 			"name": "Rozar",
 			"originalname": "Graze",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2450,6 +2560,7 @@
 		{
 			"name": "Mellar",
 			"originalname": "Nick",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2461,6 +2572,7 @@
 		{
 			"name": "Empujar",
 			"originalname": "Push",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2472,6 +2584,7 @@
 		{
 			"name": "Debilitar",
 			"originalname": "Sap",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2483,6 +2596,7 @@
 		{
 			"name": "Ralentizar",
 			"originalname": "Slow",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2494,6 +2608,7 @@
 		{
 			"name": "Derribar",
 			"originalname": "Topple",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,
@@ -2505,6 +2620,7 @@
 		{
 			"name": "Molestar",
 			"originalname": "Vex",
+			"originalname": "",
 			"source": "XPHB",
 			"page": 214,
 			"srd52": true,

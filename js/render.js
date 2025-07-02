@@ -6707,14 +6707,14 @@ Renderer.class = class {
 			.segregate(it => ["ligera", "media", "pesada"].includes(it));
 
 		const ptsArmor = profsArmor
-			.map((a, i, arr) => Renderer.get().render(`{@filter ${i === 0 ? "Armaduras" : ""} ${a}s|items|type=${a} armor}`));
+			.map((a, i, arr) => Renderer.get().render(`{@filter ${i === 0 ? "Armaduras" : ""} ${a}s|items|type=armadura ${a}}`));
 
 		const ptsOther = profsOther
 			.map(a => {
 				if (a.full) return Renderer.get().render(a.full);
 				if (a === "escudo") {
 					if (styleHint === "classic") Renderer.get().render(`{@item shield|PHB|escudos}`);
-					return Renderer.get().render(`{@item shield|XPHB|escudos}`);
+					return Renderer.get().render(`{@item escudo|XPHB|escudos}`);
 				}
 				return Renderer.get().render(a);
 			});

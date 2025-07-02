@@ -47,7 +47,7 @@ class PageFilterEquipment extends PageFilterBase {
 		super();
 
 		this._typeFilter = new Filter({
-			header: "Tipo",
+			header: "Type",
 			deselFn: (it) => PageFilterItems._DEFAULT_HIDDEN_TYPES.has(it),
 			displayFn: StrUtil.toTitleCase.bind(StrUtil),
 		});
@@ -72,14 +72,14 @@ class PageFilterEquipment extends PageFilterBase {
 			],
 			labelDisplayFn: it => !it ? "None" : Parser.getDisplayCurrency(CurrencyUtil.doSimplifyCoins({cp: it})),
 		});
-		this._weightFilter = new RangeFilter({header: "Peso", min: 0, max: 100, isAllowGreater: true, suffix: " lb."});
-		this._focusFilter = new Filter({header: "Canalizador mágico", items: [...Parser.ITEM_SPELLCASTING_FOCUS_CLASSES]});
-		this._damageTypeFilter = new Filter({header: "Tipo de daño", displayFn: it => Parser.dmgTypeToFull(it).uppercaseFirst(), itemSortFn: (a, b) => SortUtil.ascSortLower(Parser.dmgTypeToFull(a.item), Parser.dmgTypeToFull(b.item))});
-		this._damageDiceFilter = new Filter({header: "Dado de daño", items: ["1", "1d4", "1d6", "1d8", "1d10", "1d12", "2d6"], itemSortFn: (a, b) => PageFilterEquipment._sortDamageDice(a, b)});
-		this._acFilter = new RangeFilter({header: "Clase de Armadura", displayFn: it => it === 0 ? "None" : it});
+		this._weightFilter = new RangeFilter({header: "Weight", min: 0, max: 100, isAllowGreater: true, suffix: " lb."});
+		this._focusFilter = new Filter({header: "Spellcasting Focus", items: [...Parser.ITEM_SPELLCASTING_FOCUS_CLASSES]});
+		this._damageTypeFilter = new Filter({header: "Weapon Damage Type", displayFn: it => Parser.dmgTypeToFull(it).uppercaseFirst(), itemSortFn: (a, b) => SortUtil.ascSortLower(Parser.dmgTypeToFull(a.item), Parser.dmgTypeToFull(b.item))});
+		this._damageDiceFilter = new Filter({header: "Weapon Damage Dice", items: ["1", "1d4", "1d6", "1d8", "1d10", "1d12", "2d6"], itemSortFn: (a, b) => PageFilterEquipment._sortDamageDice(a, b)});
+		this._acFilter = new RangeFilter({header: "Armor Class", displayFn: it => it === 0 ? "None" : it});
 		this._rangeFilterNormal = new RangeFilter({header: "Normal", displayFn: it => it === 0 ? "None" : `${it} ft.`});
-		this._rangeFilterLong = new RangeFilter({header: "Largo", displayFn: it => it === 0 ? "None" : `${it} ft.`});
-		this._rangeFilter = new MultiFilter({header: "Alcance", filters: [this._rangeFilterNormal, this._rangeFilterLong]});
+		this._rangeFilterLong = new RangeFilter({header: "Long", displayFn: it => it === 0 ? "None" : `${it} ft.`});
+		this._rangeFilter = new MultiFilter({header: "Range", filters: [this._rangeFilterNormal, this._rangeFilterLong]});
 		this._miscFilter = new Filter({
 			header: "Miscellaneous",
 			items: [...PageFilterEquipment._MISC_FILTER_ITEMS, ...Object.values(Parser.ITEM_MISC_TAG_TO_FULL)],
@@ -87,7 +87,7 @@ class PageFilterEquipment extends PageFilterBase {
 			deselFn: PageFilterBase.defaultMiscellaneousDeselFn.bind(PageFilterBase),
 		});
 		this._poisonTypeFilter = new Filter({header: "Poison Type", items: ["ingested", "injury", "inhaled", "contact"], displayFn: StrUtil.toTitleCase.bind(StrUtil)});
-		this._masteryFilter = new Filter({header: "Maestría", displayFn: this.constructor._getMasteryDisplay.bind(this)});
+		this._masteryFilter = new Filter({header: "Mastery", displayFn: this.constructor._getMasteryDisplay.bind(this)});
 	}
 
 	static _mutateForFilters_getFilterAc (item) {

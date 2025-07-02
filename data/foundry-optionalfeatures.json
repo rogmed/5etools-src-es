@@ -243,7 +243,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "hour",
+						"units": "hora",
 						"value": "8"
 					},
 					"target": {
@@ -305,7 +305,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"concentration": true,
 						"value": "10"
 					},
@@ -1838,7 +1838,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "hour",
+						"units": "hora",
 						"value": "24"
 					},
 					"consumption": {
@@ -2204,7 +2204,7 @@
 					"name": "Find Familiar with Flight",
 					"type": "summon",
 					"activation": {
-						"type": "hour",
+						"type": "hora",
 						"value": 1
 					},
 					"consumption": {
@@ -2256,7 +2256,7 @@
 					"name": "Find Familiar with Swimming",
 					"type": "summon",
 					"activation": {
-						"type": "hour",
+						"type": "hora",
 						"value": 1
 					},
 					"consumption": {
@@ -2782,7 +2782,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "hour",
+						"units": "hora",
 						"value": "1"
 					},
 					"target": {
@@ -2834,7 +2834,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "hour",
+						"units": "hora",
 						"concentration": true,
 						"value": "1"
 					},
@@ -2857,7 +2857,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "hour",
+						"units": "hora",
 						"concentration": true,
 						"value": "1"
 					},
@@ -2880,7 +2880,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "hour",
+						"units": "hora",
 						"concentration": true,
 						"value": "1"
 					},
@@ -3235,7 +3235,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "hour",
+						"units": "hora",
 						"concentration": true,
 						"value": "1"
 					},
@@ -3292,7 +3292,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "1"
 					},
 					"target": {
@@ -5183,7 +5183,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"target": {

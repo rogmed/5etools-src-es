@@ -819,9 +819,9 @@
 								],
 								[
 									"Pace",
-									"Minute",
-									"Hour",
-									"Day",
+									"minuto",
+									"hora",
+									"día",
 									"Effect"
 								]
 							],

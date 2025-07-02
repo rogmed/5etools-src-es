@@ -1313,19 +1313,19 @@ Parser.spLevelSchoolMetaToFull = function (level, school, meta, subschools, {sty
 Parser.SP_TM_ACTION = "acción";
 Parser.SP_TM_B_ACTION = "adicional";
 Parser.SP_TM_REACTION = "reacción";
-Parser.SP_TM_ROUND = "round";
+Parser.SP_TM_ROUND = "ronda";
 Parser.SP_TM_MINS = "minuto";
-Parser.SP_TM_HRS = "hour";
-Parser.SP_TM_SPECIAL = "special";
+Parser.SP_TM_HRS = "hora";
+Parser.SP_TM_SPECIAL = "especial";
 Parser.SP_TIME_SINGLETONS = [Parser.SP_TM_ACTION, Parser.SP_TM_B_ACTION, Parser.SP_TM_REACTION, Parser.SP_TM_ROUND];
 Parser.SP_TIME_TO_FULL = {
 	[Parser.SP_TM_ACTION]: "Acción",
 	[Parser.SP_TM_B_ACTION]: "Acción adicional",
 	[Parser.SP_TM_REACTION]: "Reacción",
-	[Parser.SP_TM_ROUND]: "Rounds",
-	[Parser.SP_TM_MINS]: "Minutes",
-	[Parser.SP_TM_HRS]: "Hours",
-	[Parser.SP_TM_SPECIAL]: "Special",
+	[Parser.SP_TM_ROUND]: "Rondas",
+	[Parser.SP_TM_MINS]: "Minutos",
+	[Parser.SP_TM_HRS]: "Horas",
+	[Parser.SP_TM_SPECIAL]: "Especial",
 };
 Parser.spTimeUnitToFull = function (timeUnit) {
 	return Parser._parse_aToB(Parser.SP_TIME_TO_FULL, timeUnit);
@@ -1687,11 +1687,11 @@ Parser.DURATION_TYPES = [
 ];
 
 Parser.DURATION_AMOUNT_TYPES = [
-	"turn",
-	"round",
+	"turno",
+	"ronda",
 	"minuto",
-	"hour",
-	"day",
+	"hora",
+	"día",
 	"week",
 	"month",
 	"year",

@@ -2114,7 +2114,7 @@
 				"uses.max": "1 + min(floor(@classes.cleric.levels / 6), 1) + min(floor(@classes.cleric.levels / 18), 1)",
 				"uses.recovery": [
 					{
-						"period": "day",
+						"period": "día",
 						"type": "recoverAll"
 					}
 				]
@@ -2814,7 +2814,7 @@
 					},
 					"duration": {
 						"value": "10",
-						"units": "minute"
+						"units": "minuto"
 					},
 					"consumption": {
 						"targets": [
@@ -3253,7 +3253,7 @@
 					},
 					"duration": {
 						"value": "1",
-						"units": "hour"
+						"units": "hora"
 					},
 					"consumption": {
 						"targets": [
@@ -4093,7 +4093,7 @@
 					},
 					"duration": {
 						"value": "(floor(@classes.druid.levels / 2))",
-						"units": "hour"
+						"units": "hora"
 					},
 					"consumption": {
 						"targets": [
@@ -7014,7 +7014,7 @@
 					"name": "Regain Pact Spell Slots",
 					"type": "utility",
 					"activation": {
-						"type": "minute",
+						"type": "minuto",
 						"value": 1
 					},
 					"consumption": {
@@ -7603,7 +7603,7 @@
 				{
 					"type": "utility",
 					"activation": {
-						"type": "minute",
+						"type": "minuto",
 						"value": 1
 					},
 					"target": {
@@ -7694,7 +7694,7 @@
 				{
 					"type": "utility",
 					"activation": {
-						"type": "minute",
+						"type": "minuto",
 						"value": 1
 					},
 					"target": {
@@ -7855,7 +7855,7 @@
 			"level": 2,
 			"system": {
 				"duration.value": 10,
-				"duration.units": "minute"
+				"duration.units": "minuto"
 			},
 			"migrationVersion": 3
 		},
@@ -7896,7 +7896,7 @@
 				{
 					"type": "utility",
 					"activation": {
-						"type": "minute",
+						"type": "minuto",
 						"value": 1
 					}
 				}
@@ -8686,7 +8686,7 @@
 				"range.value": 30,
 				"range.units": "ft",
 				"duration.value": 1,
-				"duration.units": "minute"
+				"duration.units": "minuto"
 			},
 			"activities": [
 				{
@@ -12879,7 +12879,7 @@
 						"condition": "When you activate your Rage"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "1"
 					},
 					"target": {
@@ -13296,7 +13296,7 @@
 					},
 					"duration": {
 						"value": "1",
-						"units": "minute"
+						"units": "minuto"
 					},
 					"consumption": {
 						"targets": [
@@ -13884,7 +13884,7 @@
 					},
 					"duration": {
 						"value": "1",
-						"units": "minute"
+						"units": "minuto"
 					},
 					"consumption": {
 						"targets": [
@@ -13984,7 +13984,7 @@
 					},
 					"duration": {
 						"value": "1",
-						"units": "minute"
+						"units": "minuto"
 					},
 					"consumption": {
 						"targets": [
@@ -14556,7 +14556,7 @@
 					},
 					"duration": {
 						"value": "1",
-						"units": "minute"
+						"units": "minuto"
 					},
 					"consumption": {
 						"targets": [
@@ -14859,7 +14859,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"consumption": {
@@ -14916,7 +14916,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"target": {
@@ -14972,7 +14972,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"consumption": {
@@ -15073,7 +15073,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"consumption": {
@@ -15140,7 +15140,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"consumption": {
@@ -15373,7 +15373,7 @@
 					"name": "Create Star Chart",
 					"type": "utility",
 					"activation": {
-						"type": "hour",
+						"type": "hora",
 						"value": 1
 					}
 				}
@@ -15800,7 +15800,7 @@
 					"name": "Bond with Weapon",
 					"type": "enchant",
 					"activation": {
-						"type": "hour",
+						"type": "hora",
 						"value": 1
 					},
 					"consumption": {
@@ -16295,7 +16295,7 @@
 						"condition": "At the start of your turn"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"consumption": {
@@ -16564,7 +16564,7 @@
 						"condition": "While your Elemental Attunement is active"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"target": {
@@ -17105,7 +17105,7 @@
 						"condition": "When you take the Attack action on your turn"
 					},
 					"duration": {
-						"units": "day",
+						"units": "día",
 						"value": "@classes.monk.levels"
 					},
 					"target": {
@@ -17143,7 +17143,7 @@
 						"condition": "When you hit a creature with an Unarmed Strike"
 					},
 					"duration": {
-						"units": "day",
+						"units": "día",
 						"value": "@classes.monk.levels"
 					},
 					"consumption": {
@@ -17295,7 +17295,7 @@
 						"condition": "While entirely within Dim Light or Darkness"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "1"
 					},
 					"consumption": {
@@ -17518,7 +17518,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "1"
 					},
 					"consumption": {
@@ -17609,7 +17609,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"consumption": {
@@ -17686,7 +17686,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"consumption": {
@@ -17908,7 +17908,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"consumption": {
@@ -17953,7 +17953,7 @@
 						"condition": "When you take the Attack action"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "1"
 					},
 					"consumption": {
@@ -18072,7 +18072,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"consumption": {
@@ -18688,7 +18688,7 @@
 						"condition": "When you use the Dreadful Strike effect"
 					},
 					"duration": {
-						"units": "turn",
+						"units": "turno",
 						"value": "1"
 					},
 					"target": {
@@ -19496,7 +19496,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "hour"
+						"units": "hora"
 					},
 					"consumption": {
 						"targets": [
@@ -19539,7 +19539,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "hour"
+						"units": "hora"
 					},
 					"consumption": {
 						"targets": [
@@ -19954,7 +19954,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "@classes.hechicero.levels"
 					},
 					"target": {
@@ -20039,7 +20039,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "10"
 					},
 					"consumption": {
@@ -20301,7 +20301,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "1"
 					},
 					"consumption": {
@@ -20331,7 +20331,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "1"
 					},
 					"consumption": {
@@ -20642,7 +20642,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "hour",
+						"units": "hora",
 						"value": "1"
 					},
 					"consumption": {
@@ -21582,7 +21582,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "@classes.warlock.levels"
 					},
 					"target": {
@@ -21615,7 +21615,7 @@
 						"condition": "When you form a telepathic bond using Awakened Mind"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "@classes.warlock.levels"
 					},
 					"consumption": {
@@ -22247,7 +22247,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "hour",
+						"units": "hora",
 						"concentration": true,
 						"value": "1"
 					},
@@ -22300,7 +22300,7 @@
 						"type": "action"
 					},
 					"duration": {
-						"units": "hour",
+						"units": "hora",
 						"concentration": true,
 						"value": "1"
 					},
@@ -22421,7 +22421,7 @@
 						"type": "bonus"
 					},
 					"duration": {
-						"units": "minute",
+						"units": "minuto",
 						"value": "1"
 					}
 				}

@@ -8928,7 +8928,7 @@
 			"entryData": {
 				"resources": [
 					{
-						"name": "Superiority Die",
+						"name": "Dado de supremacía",
 						"type": "dicePool",
 						"recharge": "restShort",
 						"count": "floor((<$level$> + 1) / 8) + 4",
@@ -8990,7 +8990,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Additional Superiority Die",
+			"name": "Additional Dado de supremacía",
 			"source": "PHB",
 			"className": "Guerrero",
 			"classSource": "PHB",
@@ -9034,7 +9034,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Additional Superiority Die",
+			"name": "Additional Dado de supremacía",
 			"source": "PHB",
 			"className": "Guerrero",
 			"classSource": "PHB",
@@ -15561,7 +15561,7 @@
 			"entryData": {
 				"resources": [
 					{
-						"name": "Superiority Die",
+						"name": "Dado de supremacía",
 						"type": "dicePool",
 						"recharge": "restShort",
 						"count": "floor((<$level$> + 1) / 8) + 4",
@@ -15653,7 +15653,7 @@
 					}
 				},
 				{
-					"name": "Recharge with Superiority Die",
+					"name": "Recharge with Dado de supremacía",
 					"type": "utility",
 					"activation": {
 						"type": ""

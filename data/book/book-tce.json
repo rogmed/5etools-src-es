@@ -787,13 +787,13 @@
 									"type": "list",
 									"columns": 2,
 									"items": [
-										"{@optfeature Ambush|TCE}",
-										"{@optfeature Bait and Switch|TCE}",
+										"{@optfeature Emboscada|TCE}",
+										"{@optfeature Cambio de posición ventajoso|TCE}",
 										"{@optfeature Brace|TCE}",
-										"{@optfeature Commanding Presence|TCE}",
+										"{@optfeature Presencia imponente|TCE}",
 										"{@optfeature Grappling Strike|TCE}",
 										"{@optfeature Quick Toss|TCE}",
-										"{@optfeature Tactical Assessment|TCE}"
+										"{@optfeature Evaluación táctica|TCE}"
 									]
 								}
 							]
@@ -882,7 +882,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Disarming Attack}, {@optfeature Distracting Strike}, {@optfeature Precision Attack}"
+											"entry": "{@optfeature Ataque y desarme}, {@optfeature Ataque y distracción}, {@optfeature Ataque preciso}"
 										},
 										{
 											"type": "item",
@@ -912,7 +912,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Bait and Switch|TCE},* {@optfeature Disarming Attack}, {@optfeature Goading Attack}, {@optfeature Grappling Strike|TCE}*"
+											"entry": "{@optfeature Cambio de posición ventajoso|TCE},* {@optfeature Ataque y desarme}, {@optfeature Ataque provocador}, {@optfeature Grappling Strike|TCE}*"
 										},
 										{
 											"type": "item",
@@ -942,7 +942,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Ambush|TCE},* {@optfeature Disarming Attack}, {@optfeature Feinting Attack}, {@optfeature Pushing Attack}, {@optfeature Trip Attack}"
+											"entry": "{@optfeature Emboscada|TCE},* {@optfeature Ataque y desarme}, {@optfeature Finta}, {@optfeature Ataque y empujón}, {@optfeature Ataque y derribo}"
 										},
 										{
 											"type": "item",
@@ -972,7 +972,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Evasive Footwork}, {@optfeature Feinting Attack}, {@optfeature Lunging Attack}, {@optfeature Parry}, {@optfeature Precision Attack}, {@optfeature Riposte}"
+											"entry": "{@optfeature Juego de pies evasivo}, {@optfeature Finta}, {@optfeature Arremetida}, {@optfeature Parry}, {@optfeature Ataque preciso}, {@optfeature Contraataque}"
 										},
 										{
 											"type": "item",
@@ -1002,7 +1002,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Goading Attack}, {@optfeature Menacing Attack}, {@optfeature Sweeping Attack}, {@optfeature Trip Attack}"
+											"entry": "{@optfeature Ataque provocador}, {@optfeature Ataque amenazador}, {@optfeature Ataque de barrido}, {@optfeature Ataque y derribo}"
 										},
 										{
 											"type": "item",
@@ -1032,7 +1032,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Brace|TCE},* {@optfeature Lunging Attack}, {@optfeature Parry}, {@optfeature Precision Attack}"
+											"entry": "{@optfeature Brace|TCE},* {@optfeature Arremetida}, {@optfeature Parry}, {@optfeature Ataque preciso}"
 										},
 										{
 											"type": "item",
@@ -1062,7 +1062,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Lunging Attack}, {@optfeature Menacing Attack}, {@optfeature Precision Attack}, {@optfeature Pushing Attack}"
+											"entry": "{@optfeature Arremetida}, {@optfeature Ataque amenazador}, {@optfeature Ataque preciso}, {@optfeature Ataque y empujón}"
 										},
 										{
 											"type": "item",
@@ -1092,7 +1092,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Ambush|TCE},* {@optfeature Distracting Strike}, {@optfeature Goading Attack}, {@optfeature Precision Attack}, {@optfeature Quick Toss|TCE}*"
+											"entry": "{@optfeature Emboscada|TCE},* {@optfeature Ataque y distracción}, {@optfeature Ataque provocador}, {@optfeature Ataque preciso}, {@optfeature Quick Toss|TCE}*"
 										},
 										{
 											"type": "item",
@@ -1122,7 +1122,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Disarming Attack}, {@optfeature Evasive Footwork}, {@optfeature Grappling Strike|TCE},* {@optfeature Menacing Attack}, {@optfeature Pushing Attack}, {@optfeature Riposte}, {@optfeature Trip Attack}"
+											"entry": "{@optfeature Ataque y desarme}, {@optfeature Juego de pies evasivo}, {@optfeature Grappling Strike|TCE},* {@optfeature Ataque amenazador}, {@optfeature Ataque y empujón}, {@optfeature Contraataque}, {@optfeature Ataque y derribo}"
 										},
 										{
 											"type": "item",
@@ -1152,7 +1152,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Menacing Attack}, {@optfeature Pushing Attack}, {@optfeature Sweeping Attack}"
+											"entry": "{@optfeature Ataque amenazador}, {@optfeature Ataque y empujón}, {@optfeature Ataque de barrido}"
 										},
 										{
 											"type": "item",
@@ -1193,7 +1193,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Ambush|TCE},* {@optfeature Bait and Switch|TCE},* {@optfeature Distracting Strike}, {@optfeature Quick Toss|TCE}*"
+											"entry": "{@optfeature Emboscada|TCE},* {@optfeature Cambio de posición ventajoso|TCE},* {@optfeature Ataque y distracción}, {@optfeature Quick Toss|TCE}*"
 										},
 										{
 											"type": "item",
@@ -1223,7 +1223,7 @@
 										{
 											"type": "item",
 											"name": "Maneuvers:",
-											"entry": "{@optfeature Commander's Strike}, {@optfeature Commanding Presence|TCE},* {@optfeature Maneuvering Attack}, {@optfeature Rally}, {@optfeature Tactical Assessment|TCE}*"
+											"entry": "{@optfeature Orden de ataque}, {@optfeature Presencia imponente|TCE},* {@optfeature Ataque y maniobra}, {@optfeature Reagrupar}, {@optfeature Evaluación táctica|TCE}*"
 										},
 										{
 											"type": "item",

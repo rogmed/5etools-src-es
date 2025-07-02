@@ -293,12 +293,12 @@
 	],
 	"subclass": [
 		{
-			"name": "Battle Master",
-			"shortName": "Battle Master",
+			"name": "Maestro del combate",
+			"shortName": "Maestro del combate",
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"page": 93,
+			"page": 119,
 			"edition": "one",
 			"optionalfeatureProgression": [
 				{
@@ -315,11 +315,11 @@
 				}
 			],
 			"subclassFeatures": [
-				"Battle Master|Guerrero|XPHB|Battle Master|XPHB|3",
-				"Know Your Enemy|Guerrero|XPHB|Battle Master|XPHB|7",
-				"Improved Combat Superiority|Guerrero|XPHB|Battle Master|XPHB|10",
-				"Relentless|Guerrero|XPHB|Battle Master|XPHB|15",
-				"Ultimate Combat Superiority|Guerrero|XPHB|Battle Master|XPHB|18"
+				"Maestro del combate|Guerrero|XPHB|Maestro del combate|XPHB|3",
+				"Know Your Enemy|Guerrero|XPHB|Maestro del combate|XPHB|7",
+				"Improved Supremacía en combate|Guerrero|XPHB|Maestro del combate|XPHB|10",
+				"Relentless|Guerrero|XPHB|Maestro del combate|XPHB|15",
+				"Ultimate Supremacía en combate|Guerrero|XPHB|Maestro del combate|XPHB|18"
 			],
 			"hasFluffImages": true
 		},
@@ -1149,180 +1149,180 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Battle Master",
+			"name": "Maestro del combate",
 			"source": "XPHB",
-			"page": 93,
+			"page": 119,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Battle Master",
+			"subclassShortName": "Maestro del combate",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Master Sophisticated Battle Maneuvers}",
-				"Battle Masters are students of the art of battle, learning martial techniques passed down through generations. The most accomplished Battle Masters are well-rounded figures who combine their carefully honed combat skills with academic study in the fields of history, theory, and the arts.",
+				"{@i Domina maniobras de combate avanzadas}",
+				"Los maestros del combate estudian el arte de la batalla y aprenden técnicas marciales que transmiten generación tras generación. Los maestros más consumados son figuras equilibradas que combinan las habilidades de combate que han ido perfeccionando cuidadosamente con el estudio académico de la historia, la teoría y las artes.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Combat Superiority|Guerrero|XPHB|Battle Master|XPHB|3"
+					"subclassFeature": "Estudioso de la guerra|Guerrero|XPHB|Maestro del combate|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Student of War|Guerrero|XPHB|Battle Master|XPHB|3"
+					"subclassFeature": "Supremacía en combate|Guerrero|XPHB|Maestro del combate|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Maneuver Options|Guerrero|XPHB|Battle Master|XPHB|3"
+					"subclassFeature": "Opciones de maniobras|Guerrero|XPHB|Maestro del combate|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Combat Superiority",
+			"name": "Supremacía en combate",
 			"source": "XPHB",
-			"page": 93,
+			"page": 119,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Battle Master",
+			"subclassShortName": "Maestro del combate",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Your experience on the battlefield has refined your fighting techniques. You learn maneuvers that are fueled by special dice called Superiority Dice.",
+				"Tu experiencia en el campo de batalla ha pulido tus técnicas de combate. Aprendes maniobras que emplean unos dados especiales llamados dados de supremacía.",
 				{
 					"type": "entries",
-					"name": "Maneuvers",
+					"name": "Maniobras",
 					"entries": [
-						"You learn three maneuvers of your choice from the \"{@filter Maneuvers Options|optionalfeatures|feature type=MV:B|source=XPHB}\" section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.",
-						"You learn two additional maneuvers of your choice when you reach Fighter levels 7, 10, and 15. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one."
+						"Aprendes tres maniobras de tu elección del apartado \"{@filter Opciones de maniobras|optionalfeatures|feature type=MV:B|source=XPHB}\", que aparece más adelante en la descripción de esta subclase. Muchas maniobras mejoran los ataques de alguna forma. Solo puedes emplear una maniobra por ataque.",
+						"Aprendes dos maniobras adicionales de tu elección cuando alcanzas los niveles 7, 10 y 15 de guerrero. Cada vez que aprendes nuevas maniobras, puedes sustituir una maniobra que conozcas por otra."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Superiority Dice",
+					"name": "Dados de supremacía",
 					"entries": [
-						"You have four Superiority Dice, which are {@dice d8|d8s}. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}.",
-						"You gain an additional Superiority Die when you reach Fighter levels 7 (five dice total) and 15 (six dice total)."
+						"Posees cuatro dados de supremacía, todos ellos d8. Cada vez que empleas uno de ellos, se gasta. Recuperas todos los dados de supremacía gastados tras finalizar un descanso corto o largo.",
+						"Obtienes un dado de supremacía más cuando alcanzas los niveles 7 (cinco dados en total) y 15 (seis dados en total) de guerrero."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Saving Throws",
+					"name": "Tiradas de salvación",
 					"entries": [
-						"If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and {@variantrule Proficiency|XPHB|Proficiency Bonus}."
+						"Si una maniobra requiere una tirada de salvación, la CD será igual a 8 más tu modificador por Fuerza o Destreza (a tu elección) y tu bonificador por competencia."
 					]
 				}
 			]
 		},
 		{
-			"name": "Maneuver Options",
+			"name": "Opciones de maniobras",
 			"source": "XPHB",
-			"page": 94,
+			"page": 120,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Battle Master",
+			"subclassShortName": "Maestro del combate",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The maneuvers are presented here in alphabetical order.",
+				"Las maniobras se presentan en orden alfabético",
 				{
 					"type": "options",
 					"count": 3,
 					"entries": [
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Ambush|XPHB"
+							"optionalfeature": "Emboscada|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Bait and Switch|XPHB"
+							"optionalfeature": "Cambio de posición ventajoso|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Commander's Strike|XPHB"
+							"optionalfeature": "Orden de ataque|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Commanding Presence|XPHB"
+							"optionalfeature": "Presencia imponente|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Disarming Attack|XPHB"
+							"optionalfeature": "Ataque y desarme|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Distracting Strike|XPHB"
+							"optionalfeature": "Ataque y distracción|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Evasive Footwork|XPHB"
+							"optionalfeature": "Juego de pies evasivo|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Feinting Attack|XPHB"
+							"optionalfeature": "Finta|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Goading Attack|XPHB"
+							"optionalfeature": "Ataque provocador|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Lunging Attack|XPHB"
+							"optionalfeature": "Arremetida|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Maneuvering Attack|XPHB"
+							"optionalfeature": "Ataque y maniobra|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Menacing Attack|XPHB"
+							"optionalfeature": "Ataque amenazador|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Parry|XPHB"
+							"optionalfeature": "Parada|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Precision Attack|XPHB"
+							"optionalfeature": "Ataque preciso|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Pushing Attack|XPHB"
+							"optionalfeature": "Ataque y empujón|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Rally|XPHB"
+							"optionalfeature": "Reagrupar|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Riposte|XPHB"
+							"optionalfeature": "Contraataque|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Sweeping Attack|XPHB"
+							"optionalfeature": "Ataque de barrido|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Tactical Assessment|XPHB"
+							"optionalfeature": "Evaluación táctica|XPHB"
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Trip Attack|XPHB"
+							"optionalfeature": "Ataque y derribo|XPHB"
 						}
 					]
 				}
 			]
 		},
 		{
-			"name": "Student of War",
+			"name": "Estudioso de la guerra",
 			"source": "XPHB",
 			"page": 94,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Battle Master",
+			"subclassShortName": "Maestro del combate",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain proficiency with one type of {@item Artisan's Tools|XPHB} of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at level 1."
+				"Ganas competencia con un tipo de {@item Artisan's Tools|XPHB|herramientas de artesano} de tu elección y en una habilidad de tu elección de las habilidades disponibles para los guerreros de nivel 1."
 			]
 		},
 		{
@@ -1331,27 +1331,27 @@
 			"page": 94,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Battle Master",
+			"subclassShortName": "Maestro del combate",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
 				"As a {@variantrule Bonus Action|XPHB}, you can discern certain strengths and weaknesses of a creature you can see within 30 feet of yourself; you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}. You can also restore a use of the feature by expending one Superiority Die (no action required)."
+				"Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}. You can also restore a use of the feature by expending one Dado de supremacía (no action required)."
 			]
 		},
 		{
-			"name": "Improved Combat Superiority",
+			"name": "Improved Supremacía en combate",
 			"source": "XPHB",
 			"page": 94,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Battle Master",
+			"subclassShortName": "Maestro del combate",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"Your Superiority Die becomes a {@dice d10}."
+				"Your Dado de supremacía becomes a {@dice d10}."
 			]
 		},
 		{
@@ -1360,26 +1360,26 @@
 			"page": 94,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Battle Master",
+			"subclassShortName": "Maestro del combate",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Once per turn, when you use a maneuver, you can roll {@dice 1d8} and use the number rolled instead of expending a Superiority Die."
+				"Once per turn, when you use a maneuver, you can roll {@dice 1d8} and use the number rolled instead of expending a Dado de supremacía."
 			]
 		},
 		{
-			"name": "Ultimate Combat Superiority",
+			"name": "Ultimate Supremacía en combate",
 			"source": "XPHB",
 			"page": 94,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Battle Master",
+			"subclassShortName": "Maestro del combate",
 			"subclassSource": "XPHB",
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"Your Superiority Die becomes a {@dice d12}."
+				"Your Dado de supremacía becomes a {@dice d12}."
 			]
 		},
 		{
@@ -1510,7 +1510,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Heroic Rally",
+					"name": "Heroic Reagrupar",
 					"entries": [
 						"At the start of each of your turns, you regain {@variantrule Hit Points|XPHB} equal to 5 plus your Constitution modifier if you are {@variantrule Maltrecho|XPHB} and have at least 1 {@variantrule Hit Points|XPHB|Hit Point}."
 					]
@@ -1887,7 +1887,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw ({@dc 8} plus your Intelligence modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}). On a failed save, you can give the target the {@condition Prone|XPHB} condition or transport it up to 10 feet horizontally."
+				"When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw ({@dc 8} plus your Intelligence modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}). On a failed save, you can give the target the {@condition Derribado|XPHB} condition or transport it up to 10 feet horizontally."
 			]
 		},
 		{

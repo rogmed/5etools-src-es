@@ -3538,7 +3538,7 @@
 											"items": [
 												{
 													"type": "item",
-													"name": "Ambush",
+													"name": "Emboscada",
 													"entry": "Monsters set up an ambush along a route they expect travelers to follow."
 												},
 												{
@@ -11002,7 +11002,7 @@
 											"items": [
 												{
 													"type": "item",
-													"name": "Ambush",
+													"name": "Emboscada",
 													"entry": "The creature leaves its current location and takes up a position near the adventurers' location, hoping to catch the adventurers unaware. Ambushers try to hide and, once hidden, take advantage of any opportune moment to attack."
 												},
 												{

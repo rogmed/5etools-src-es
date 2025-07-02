@@ -143,8 +143,8 @@
 			"multiclassing": {
 				"proficienciesGained": {
 					"armor": [
-						"light",
-						"medium",
+						"ligera",
+						"media",
 						"escudo"
 					],
 					"weapons": [
@@ -155,8 +155,8 @@
 			"classTableGroups": [
 				{
 					"colLabels": [
-						"Second Wind",
-						"Weapon Mastery"
+						"Tomar aliento",
+						"Maestría armas"
 					],
 					"rows": [
 						[
@@ -244,49 +244,49 @@
 			],
 			"classFeatures": [
 				"Estilo de combate|Guerrero|XPHB|1",
-				"Second Wind|Guerrero|XPHB|1",
-				"Weapon Mastery|Guerrero|XPHB|1",
-				"Action Surge|Guerrero|XPHB|2",
-				"Tactical Mind|Guerrero|XPHB|2",
+				"Tomar aliento|Guerrero|XPHB|1",
+				"Maestría con armas|Guerrero|XPHB|1",
+				"Acción súbita|Guerrero|XPHB|2",
+				"Mente táctica|Guerrero|XPHB|2",
 				{
-					"classFeature": "Fighter Subclass|Guerrero|XPHB|3",
+					"classFeature": "Subclase de guerrero|Guerrero|XPHB|3",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Guerrero|XPHB|4",
-				"Extra Attack|Guerrero|XPHB|5",
-				"Tactical Shift|Guerrero|XPHB|5",
-				"Ability Score Improvement|Guerrero|XPHB|6",
+				"Mejora de característica|Guerrero|XPHB|4",
+				"Ataque adicional|Guerrero|XPHB|5",
+				"Desplazamiento táctico|Guerrero|XPHB|5",
+				"Mejora de característica|Guerrero|XPHB|6",
 				{
 					"classFeature": "Rasgo de subclase|Guerrero|XPHB|7",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Guerrero|XPHB|8",
-				"Indomitable|Guerrero|XPHB|9",
-				"Tactical Master|Guerrero|XPHB|9",
+				"Mejora de característica|Guerrero|XPHB|8",
+				"Indómito|Guerrero|XPHB|9",
+				"Maestro táctico|Guerrero|XPHB|9",
 				{
 					"classFeature": "Rasgo de subclase|Guerrero|XPHB|10",
 					"gainSubclassFeature": true
 				},
-				"Two Extra Attacks|Guerrero|XPHB|11",
-				"Ability Score Improvement|Guerrero|XPHB|12",
-				"Indomitable|Guerrero|XPHB|13",
-				"Studied Attacks|Guerrero|XPHB|13",
-				"Ability Score Improvement|Guerrero|XPHB|14",
+				"Dos ataque adicionales|Guerrero|XPHB|11",
+				"Mejora de característica|Guerrero|XPHB|12",
+				"Indómito|Guerrero|XPHB|13",
+				"Ataques estudiados|Guerrero|XPHB|13",
+				"Mejora de característica|Guerrero|XPHB|14",
 				{
 					"classFeature": "Rasgo de subclase|Guerrero|XPHB|15",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Guerrero|XPHB|16",
-				"Action Surge|Guerrero|XPHB|17",
-				"Indomitable|Guerrero|XPHB|17",
+				"Mejora de característica|Guerrero|XPHB|16",
+				"Acción súbita|Guerrero|XPHB|17",
+				"Indómito|Guerrero|XPHB|17",
 				{
 					"classFeature": "Rasgo de subclase|Guerrero|XPHB|18",
 					"gainSubclassFeature": true
 				},
 				"Don épico|Guerrero|XPHB|19",
-				"Three Extra Attacks|Guerrero|XPHB|20"
+				"Tres ataques adicionales|Guerrero|XPHB|20"
 			],
-			"subclassTitle": "Fighter Subclass",
+			"subclassTitle": "Subclase de guerrero",
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
@@ -789,103 +789,103 @@
 		{
 			"name": "Estilo de combate",
 			"source": "XPHB",
-			"page": 91,
+			"page": 113,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have honed your martial prowess and gain a {@filter Estilo de combate feat|feats|category=FS} of your choice. {@feat Defense|XPHB} is recommended.",
-				"Whenever you gain a Fighter level, you can replace the feat you chose with a different {@filter Estilo de combate feat|feats|category=FS}."
+				"Has pulido tu destreza marcial y obtienes una {@filter dote de estilo de combate|feats|category=EC} dote de estilo de combate de tu elección. Se recomienda {@feat Defensa|XPHB}.",
+				"Cada vez que subas un nivel de guerrero, puedes sustituir la dote que hayas elegido por otra {@filter dote de estilo de combate|feats|category=EC}."
 			]
 		},
 		{
-			"name": "Second Wind",
+			"name": "Tomar aliento",
 			"source": "XPHB",
-			"page": 91,
+			"page": 113,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have a limited well of physical and mental stamina that you can draw on. As a {@variantrule Bonus Action|XPHB}, you can use it to regain {@variantrule Hit Points|XPHB} equal to {@dice 1d10} plus your Fighter level.",
-				"You can use this feature twice. You regain one expended use when you finish a {@variantrule Short Rest|XPHB}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}.",
-				"When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table."
+				"Posees una pequeña reserva de resistencia física y mental a la que puedes recurrir. Como acción adicional, puedes usarla para recuperar una cantidad de puntos de golpe igual a 1d10 más tu nivel de guerrero.",
+				"Puedes usar este rasgo dos veces. Recuperas uno de los usos gastados tras finalizar un descanso corto y todos tras finalizar un descanso largo.",
+				"Obtienes usos adicionales cuando alcanzas ciertos niveles de guerrero, como se muestra en la columna “Tomar aliento” de la tabla “Rasgos de guerrero”."
 			]
 		},
 		{
-			"name": "Weapon Mastery",
+			"name": "Maestría con armas",
 			"source": "XPHB",
-			"page": 91,
+			"page": 113,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Your training with weapons allows you to use the {@variantrule weapon mastery properties|XPHB|mastery properties} of three kinds of {@filter Simple|items|type=arma sencilla} or {@filter Martial|items|type=arma marcial} weapons of your choice. Whenever you finish a {@variantrule Long Rest|XPHB}, you can practice weapon drills and change one of those weapon choices.",
-				"When you reach certain Fighter levels, you gain the ability to use the {@variantrule weapon mastery properties|XPHB|mastery properties} of more kinds of weapons, as shown in the {@variantrule Weapon|XPHB} Mastery column of the Fighter Features table."
+				"Tu entrenamiento con armas te permite utilizar las propiedades de {@variantrule propiedades de maestría con armas|XPHB|Maestría} con tres tipos de {@filter armas sencillas|items|type=sencilla} o {@filter armas marciales|items|type=marcial} de tu elección. Tras finalizar un descanso largo, puedes llevar a cabo ejercicios con armas y cambiar una de dichas elecciones.",
+				"Cuando alcances ciertos niveles de guerrero, adquirirás la capacidad de usar las propiedades de maestría con más tipos de armas, como se muestra en la columna “Maestría con armas” de la tabla “Rasgos de guerrero”."
 			]
 		},
 		{
-			"name": "Action Surge",
+			"name": "Acción súbita",
 			"source": "XPHB",
-			"page": 91,
+			"page": 113,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the {@action Magic|XPHB} action.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}. Starting at level 17, you can use it twice before a rest but only once on a turn."
+				"Puedes superar tus límites normales durante un instante. En tu turno, puedes llevar a cabo una acción más, salvo la acción de magia.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso corto o largo. A partir del nivel 17, podrás usarlo dos veces antes de descansar, pero solo una vez por turno."
 			]
 		},
 		{
-			"name": "Tactical Mind",
+			"name": "Mente táctica",
 			"source": "XPHB",
-			"page": 91,
+			"page": 113,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining {@variantrule Hit Points|XPHB}, you roll {@dice 1d10} and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended."
+				"Tienes facilidad para la estrategia dentro y fuera del campo de batalla. Cuando falles una prueba de característica, podrás gastar un uso de tu rasgo Tomar aliento para esforzarte por superarla. En vez de recuperar puntos de golpe, tiras 1d10 y sumas el resultado a la prueba de característica, lo que podría convertir el fallo en un éxito. Si sigues sin superar la prueba, este uso de Tomar aliento no se gasta."
 			]
 		},
 		{
-			"name": "Fighter Subclass",
+			"name": "Subclase de guerrero",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Fighter subclass of your choice. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower."
+				"Consigues una subclase de guerrero de tu elección. Una subclase es una especialización que te proporciona rasgos cuando alcanzas ciertos niveles de guerrero. De aquí en adelante, obtienes todos los rasgos de tu subclase que sean de tu nivel de guerrero e inferiores."
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. Vuelves a obtener este rasgo en los niveles 6, 8,12, 14 y 16 de guerrero."
 			]
 		},
 		{
-			"name": "Extra Attack",
+			"name": "Ataque adicional",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
@@ -896,254 +896,254 @@
 			]
 		},
 		{
-			"name": "Tactical Shift",
+			"name": "Desplazamiento táctico",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"Whenever you activate your Second Wind with a {@variantrule Bonus Action|XPHB}, you can move up to half your {@variantrule Speed|XPHB} without provoking {@action Opportunity Attack|XPHB|Opportunity Attacks}."
+				"Cuando uses tu rasgo Tomar aliento con una acción adicional, podrás moverte hasta la mitad de tu velocidad sin provocar {@action Opportunity Attack|XPHB|ataques de oportunidad}."
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"You gain a feature from your Fighter Subclass."
+				"Obtienes un rasgo de tu subclase de guerrero"
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
-			"name": "Indomitable",
+			"name": "Indómito",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a {@variantrule Long Rest|XPHB}.",
-				"You can use this feature twice before a {@variantrule Long Rest|XPHB} starting at level 13 and three times before a {@variantrule Long Rest|XPHB} starting at level 17."
+				"Si fallas una tirada de salvación, puedes repetirla con un bonificador igual a tu nivel de guerrero. Deberás quedarte con el nuevo resultado y no podrás volver a utilizar este rasgo hasta que finalices un descanso largo.",
+				"Puedes usar este rasgo dos veces entre descansos largos a partir del nivel 13 y tres veces entre descansos largos a partir del nivel 17."
 			]
 		},
 		{
-			"name": "Tactical Master",
+			"name": "Maestro táctico",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"When you attack with a weapon whose mastery property you can use, you can replace that property with the {@itemMastery Empujar|XPHB}, {@itemMastery Debilitar|XPHB}, or {@itemMastery Ralentizar|XPHB} property for that attack."
+				"Cuando ataques usando un arma con la que puedas utilizar su propiedad de maestría, puedes sustituir la propiedad para ese ataque por la de {@itemMastery Debilitar|XPHB}, {@itemMastery Empujar|XPHB} o {@itemMastery Ralentizar|XPHB}."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You gain a feature from your Fighter Subclass."
+				"Obtienes un rasgo de tu subclase de guerrero"
 			]
 		},
 		{
-			"name": "Two Extra Attacks",
+			"name": "Dos ataque adicionales",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"You can attack three times instead of once whenever you take the {@action Attack|XPHB} action on your turn."
+				"Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer tres ataques en lugar de uno."
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
-			"name": "Indomitable",
+			"name": "Indómito",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
-				"If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a {@variantrule Long Rest|XPHB}.",
-				"You can use this feature twice before a {@variantrule Long Rest|XPHB} starting at level 13 and three times before a {@variantrule Long Rest|XPHB} starting at level 17."
+				"Si fallas una tirada de salvación, puedes repetirla con un bonificador igual a tu nivel de guerrero. Deberás quedarte con el nuevo resultado y no podrás volver a utilizar este rasgo hasta que finalices un descanso largo.",
+				"Puedes usar este rasgo dos veces entre descansos largos a partir del nivel 13 y tres veces entre descansos largos a partir del nivel 17."
 			]
 		},
 		{
-			"name": "Studied Attacks",
+			"name": "Ataques estudiados",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
-				"You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have {@variantrule Advantage|XPHB} on your next attack roll against that creature before the end of your next turn."
+				"Estudias a tus adversarios y aprendes con cada ataque que realizas. Si haces una tirada de ataque contra una criatura y fallas, tendrás ventaja en tu siguiente tirada de ataque contra esa criatura antes del final de tu siguiente turno."
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"You gain a feature from your Fighter Subclass."
+				"Obtienes un rasgo de tu subclase de guerrero"
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
-			"name": "Action Surge",
+			"name": "Acción súbita",
 			"source": "XPHB",
-			"page": 91,
+			"page": 113,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the {@action Magic|XPHB} action.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}. Starting at level 17, you can use it twice before a rest but only once on a turn."
+				"Puedes superar tus límites normales durante un instante. En tu turno, puedes llevar a cabo una acción más, salvo la acción de magia.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso corto o largo. A partir del nivel 17, podrás usarlo dos veces antes de descansar, pero solo una vez por turno."
 			]
 		},
 		{
-			"name": "Indomitable",
+			"name": "Indómito",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a {@variantrule Long Rest|XPHB}.",
-				"You can use this feature twice before a {@variantrule Long Rest|XPHB} starting at level 13 and three times before a {@variantrule Long Rest|XPHB} starting at level 17."
+				"Si fallas una tirada de salvación, puedes repetirla con un bonificador igual a tu nivel de guerrero. Deberás quedarte con el nuevo resultado y no podrás volver a utilizar este rasgo hasta que finalices un descanso largo.",
+				"Puedes usar este rasgo dos veces entre descansos largos a partir del nivel 13 y tres veces entre descansos largos a partir del nivel 17."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 18,
 			"entries": [
-				"You gain a feature from your Fighter Subclass."
+				"Obtienes un rasgo de tu subclase de guerrero"
 			]
 		},
 		{
 			"name": "Don épico",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Boon of Combat Prowess|XPHB} is recommended."
+				"Obtienes una {@filter dote de don épico|feats|category=DE} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. Se recomienda {@feat Don de la pericia en combate|XPHB|Don de la pericia en combate}."
 			]
 		},
 		{
-			"name": "Three Extra Attacks",
+			"name": "Tres ataques adicionales",
 			"source": "XPHB",
-			"page": 92,
+			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"You can attack four times instead of once whenever you take the {@action Attack|XPHB} action on your turn."
+				"Cuando lleves a cabo la acción de atacar en tu turno, podrás hacer cuatro ataques en lugar de uno."
 			]
 		}
 	],
@@ -1677,7 +1677,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When you use your Action Surge, you can teleport up to 30 feet to an unoccupied space you can see. You can teleport before or after the additional action."
+				"When you use your Acción súbita, you can teleport up to 30 feet to an unoccupied space you can see. You can teleport before or after the additional action."
 			]
 		},
 		{

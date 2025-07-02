@@ -2122,8 +2122,8 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Your training with weapons allows you to use the {@variantrule weapon mastery properties|XPHB|mastery properties} of two kinds of {@filter weapons|items|type=arma sencilla;arma marcial} of your choice with which you have proficiency, such as {@item Espada larga|XPHB|Longswords} and {@item Jabalina|XPHB|Javelins}.",
-				"Whenever you finish a {@variantrule Long Rest|XPHB}, you can change the kinds of weapons you chose. For example, you could switch to using the {@variantrule weapon mastery properties|XPHB|mastery properties} of {@item Alabarda|XPHB|Halberds} and {@item Mangual|XPHB|Flails}."
+				"Your training with weapons allows you to use the {@variantrule propiedades de maestría con armas|XPHB|mastery properties} of two kinds of {@filter weapons|items|type=arma sencilla;arma marcial} of your choice with which you have proficiency, such as {@item Espada larga|XPHB|Longswords} and {@item Jabalina|XPHB|Javelins}.",
+				"Whenever you finish a {@variantrule Long Rest|XPHB}, you can change the kinds of weapons you chose. For example, you could switch to using the {@variantrule propiedades de maestría con armas|XPHB|mastery properties} of {@item Alabarda|XPHB|Halberds} and {@item Mangual|XPHB|Flails}."
 			]
 		},
 		{

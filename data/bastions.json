@@ -1691,7 +1691,7 @@
 					"type": "entries",
 					"name": "Source of Inspiration",
 					"entries": [
-						"After spending an entire Short Rest in your Workshop, you gain {@variantrule Heroic Inspiration|XPHB}. You can't gain this benefit again until you finish a Long Rest."
+						"After spending an entire Short Rest in your Workshop, you gain {@variantrule Inspiración Heroica|XPHB}. You can't gain this benefit again until you finish a Long Rest."
 					]
 				},
 				{

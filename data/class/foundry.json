@@ -15723,7 +15723,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Superior Critical",
+			"name": "Crítico superior",
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",

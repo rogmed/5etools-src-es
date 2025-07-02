@@ -2165,7 +2165,7 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You gain a {@filter Fighting Style feat|feats|category=FS} of your choice. Instead of choosing one of those feats, you can choose the option below.",
+				"You gain a {@filter Dote de Estilo de Combate|feats|category=EC} of your choice. Instead of choosing one of those feats, you can choose the option below.",
 				{
 					"type": "entries",
 					"entries": [

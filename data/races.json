@@ -7397,7 +7397,7 @@
 					"type": "entries",
 					"name": "Resourceful",
 					"entries": [
-						"You gain {@variantrule Heroic Inspiration|XPHB} whenever you finish a {@variantrule Long Rest|XPHB}."
+						"You gain {@variantrule Inspiración Heroica|XPHB} whenever you finish a {@variantrule Long Rest|XPHB}."
 					]
 				},
 				{

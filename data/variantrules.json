@@ -6080,15 +6080,15 @@
 			]
 		},
 		{
-			"name": "Heroic Inspiration",
+			"name": "Inspiración Heroica",
 			"source": "XPHB",
-			"page": 368,
+			"page": 369,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"If you ({@variantrule Player Character|XPHB|a player character}) have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.",
-				"If you gain Heroic Inspiration but already have it, it's lost unless you give it to a {@variantrule Player Character|XPHB|player character} who lacks it."
+				"Si tienes inspiración heroica (como personaje jugador), puedes gastarla para volver a tirar cualquier dado inmediatamente después de lanzarlo; si lo haces, deberás utilizar el nuevo resultado.",
+				"Si obtienes inspiración heroica y ya tenías, se desperdiciará salvo que se la concedas a un personaje jugador que carezca de ella."
 			]
 		},
 		{

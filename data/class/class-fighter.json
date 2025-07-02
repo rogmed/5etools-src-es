@@ -324,12 +324,12 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Champion",
-			"shortName": "Champion",
+			"name": "Campeón",
+			"shortName": "Campeón",
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"page": 96,
+			"page": 118,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
@@ -345,11 +345,11 @@
 				}
 			],
 			"subclassFeatures": [
-				"Champion|Guerrero|XPHB|Champion|XPHB|3",
-				"Additional Estilo de combate|Guerrero|XPHB|Champion|XPHB|7",
-				"Heroic Warrior|Guerrero|XPHB|Champion|XPHB|10",
-				"Superior Critical|Guerrero|XPHB|Champion|XPHB|15",
-				"Survivor|Guerrero|XPHB|Champion|XPHB|18"
+				"Campeón|Guerrero|XPHB|Campeón|XPHB|3",
+				"Estilo de combate adicional|Guerrero|XPHB|Campeón|XPHB|7",
+				"Guerrero heroico|Guerrero|XPHB|Campeón|XPHB|10",
+				"Crítico superior|Guerrero|XPHB|Campeón|XPHB|15",
+				"Superviviente|Guerrero|XPHB|Campeón|XPHB|18"
 			],
 			"hasFluffImages": true
 		},
@@ -359,7 +359,7 @@
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"page": 96,
+			"page": 118,
 			"edition": "one",
 			"spellcastingAbility": "int",
 			"casterProgression": "1/3",
@@ -1383,136 +1383,137 @@
 			]
 		},
 		{
-			"name": "Champion",
+			"name": "Campeón",
 			"source": "XPHB",
-			"page": 96,
+			"page": 117,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Champion",
+			"subclassShortName": "Campeón",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Pursue Physical Excellence in Combat}",
-				"A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.",
+				"{@i Aspira a la excelencia física en combate}",
+				"Un campeón se centra en desarrollar su destreza marcial en su incansable afán de victoria. Los campeones combinan un entrenamiento riguroso con un estado físico excelente para asestar golpes devastadores, resistir ante el peligro y alcanzar la gloria. Ya sea en una competición atlética o en una sangrienta batalla, los campeones luchan por coronarse como vencedores.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Improved Critical|Guerrero|XPHB|Champion|XPHB|3"
+					"subclassFeature": "Crítico mejorado|Guerrero|XPHB|Campeón|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Remarkable Athlete|Guerrero|XPHB|Champion|XPHB|3"
+					"subclassFeature": "Atleta sobresaliente|Guerrero|XPHB|Campeón|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Improved Critical",
+			"name": "Crítico mejorado",
 			"source": "XPHB",
-			"page": 96,
+			"page": 118,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Champion",
+			"subclassShortName": "Campeón",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Your attack rolls with weapons and Unarmed Strikes can score a {@variantrule Critical Hit|XPHB} on a roll of 19 or 20 on the {@dice d20}."
+				"Tus tiradas de ataque con armas y tus ataques sin armas pueden causar {@variantrule Critical Hit|XPHB|críticos} con un resultado de 19 o 20 en el {@dice d20}."
 			]
 		},
 		{
-			"name": "Remarkable Athlete",
+			"name": "Atleta sobresaliente",
 			"source": "XPHB",
-			"page": 96,
+			"page": 117,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Champion",
+			"subclassShortName": "Campeón",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Thanks to your athleticism, you have {@variantrule Advantage|XPHB} on {@variantrule Initiative|XPHB} rolls and Strength ({@skill Athletics|XPHB}) checks.",
-				"In addition, immediately after you score a {@variantrule Critical Hit|XPHB}, you can move up to half your {@variantrule Speed|XPHB} without provoking {@action Opportunity Attack|XPHB|Opportunity Attacks}."
+
+				"Gracias a tus capacidades atléticas, tienes ventaja en las tiradas de iniciativa y las pruebas de Fuerza ({@skill Atletismo|XPHB}).",
+				"Además, justo después de causar un crítico {@variantrule Critical Hit|XPHB|crítico}, puedes moverte hasta la mitad de tu velocidad sin provocar  {@action Opportunity Attack|XPHB|ataques de oportunidad.}."
 			]
 		},
 		{
-			"name": "Additional Estilo de combate",
+			"name": "Estilo de combate adicional",
 			"source": "XPHB",
-			"page": 96,
+			"page": 118,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Champion",
+			"subclassShortName": "Campeón",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"You gain another {@filter Estilo de combate feat|feats|category=FS} of your choice."
+				"Obtienes otra dote de {@filter Estilo de combate|feats|category=EC} de tu elección."
 			]
 		},
 		{
-			"name": "Heroic Warrior",
+			"name": "Guerrero heroico",
 			"source": "XPHB",
-			"page": 96,
+			"page": 118,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Champion",
+			"subclassShortName": "Campeón",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"The thrill of battle drives you toward victory. During combat, you can give yourself {@variantrule Heroic Inspiration|XPHB} whenever you start your turn without it."
+				"La emoción de la batalla te empuja hacia la victoria. Durante un combate, puedes otorgarte {@variantrule Inspiración Heroica|XPHB} siempre que empieces tu turno sin ella."
 			]
 		},
 		{
-			"name": "Superior Critical",
+			"name": "Crítico superior",
 			"source": "XPHB",
-			"page": 96,
+			"page": 118,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Champion",
+			"subclassShortName": "Campeón",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Your attack rolls with weapons and Unarmed Strikes can now score a {@variantrule Critical Hit|XPHB} on a roll of 18\u201320 on the {@dice d20}."
+				"Tus tiradas de ataque con armas y tus ataques sin armas ahora pueden causar {@variantrule Critical Hit|XPHB|críticos} con un resultado de 18 a 20 en el {@dice d20}."
 			]
 		},
 		{
-			"name": "Survivor",
+			"name": "Superviviente",
 			"source": "XPHB",
-			"page": 96,
+			"page": 118,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Champion",
+			"subclassShortName": "Campeón",
 			"subclassSource": "XPHB",
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"You attain the pinnacle of resilience in battle, giving you these benefits.",
+				"Alcanzas la cumbre de la resistencia en batalla, lo que te otorga estos beneficios:",
 				{
 					"type": "entries",
-					"name": "Defy Death",
+					"name": "Desafiar a la muerte",
 					"entries": [
-						"You have {@variantrule Advantage|XPHB} on Death Saving Throws. Moreover, when you roll 18\u201320 on a {@variantrule Death Saving Throw|XPHB}, you gain the benefit of rolling a 20 on it."
+						"Tienes ventaja en las tiradas de salvación contra muerte. Asimismo, cuando saques de 18 a 20 en una tirada de salvación contra muerte, obtendrás el beneficio de sacar un 20 en ella."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Heroic Reagrupar",
+					"name": "Mejoría heroica",
 					"entries": [
-						"At the start of each of your turns, you regain {@variantrule Hit Points|XPHB} equal to 5 plus your Constitution modifier if you are {@variantrule Maltrecho|XPHB} and have at least 1 {@variantrule Hit Points|XPHB|Hit Point}."
+						"Al principio de cada uno de tus turnos, recuperas una cantidad de puntos de golpe igual a 5 más tu modificador por Constitución si estás {@variantrule Maltrecho|XPHB} y tienes al menos 1 punto de golpe."
 					]
 				}
 			]
@@ -1520,7 +1521,7 @@
 		{
 			"name": "Eldritch Knight",
 			"source": "XPHB",
-			"page": 96,
+			"page": 118,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"subclassShortName": "Eldritch Knight",
@@ -1542,7 +1543,7 @@
 		{
 			"name": "Spellcasting",
 			"source": "XPHB",
-			"page": 96,
+			"page": 118,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"subclassShortName": "Eldritch Knight",

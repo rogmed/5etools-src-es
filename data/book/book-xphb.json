@@ -227,7 +227,7 @@
 										}
 									]
 								},
-								"If you can't find a rule, check the index. If a rule's name has changed from what was printed in the 2014 {@i Player's Handbook}, the index points you to the new name. For example, if you look up Inspiration in the index, it points you to the rules for {@variantrule Heroic Inspiration|XPHB} in the rules glossary."
+								"If you can't find a rule, check the index. If a rule's name has changed from what was printed in the 2014 {@i Player's Handbook}, the index points you to the new name. For example, if you look up Inspiration in the index, it points you to the rules for {@variantrule Inspiración Heroica|XPHB} in the rules glossary."
 							]
 						}
 					]
@@ -1158,31 +1158,31 @@
 									"id": "032",
 									"entries": [
 										"When you have Advantage or Disadvantage and something in the game lets you reroll or replace the {@dice d20}, you can reroll or replace only one die, not both. You choose which one.",
-										"For example, if you have {@variantrule Heroic Inspiration|XPHB} (see the sidebar) and roll a 3 and an 18 on an ability check that has Advantage or Disadvantage, you could expend your Heroic Inspiration to reroll one of those dice, not both of them.",
+										"For example, if you have {@variantrule Inspiración Heroica|XPHB} (see the sidebar) and roll a 3 and an 18 on an ability check that has Advantage or Disadvantage, you could expend your Inspiración Heroica to reroll one of those dice, not both of them.",
 										{
 											"type": "inset",
-											"name": "Heroic Inspiration",
+											"name": "Inspiración Heroica",
 											"page": 13,
 											"id": "033",
 											"entries": [
-												"Sometimes the DM or a rule gives you Heroic Inspiration. If you have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.",
+												"Sometimes the DM or a rule gives you Inspiración Heroica. If you have Inspiración Heroica, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.",
 												{
 													"type": "entries",
 													"name": "Only One at a Time",
 													"page": 13,
 													"id": "034",
 													"entries": [
-														"You can never have more than one instance of Heroic Inspiration. If something gives you Heroic Inspiration and you already have it, you can give it to a player character in your group who lacks it."
+														"You can never have more than one instance of Inspiración Heroica. If something gives you Inspiración Heroica and you already have it, you can give it to a player character in your group who lacks it."
 													]
 												},
 												{
 													"type": "entries",
-													"name": "Gaining Heroic Inspiration",
+													"name": "Gaining Inspiración Heroica",
 													"page": 13,
 													"id": "035",
 													"entries": [
-														"Your DM can give you Heroic Inspiration for a variety of reasons. Typically, DMs award it when you do something particularly heroic, in character, or entertaining. It's a reward for making the game more fun for everyone playing.",
-														"Other rules might allow your character to gain Heroic Inspiration independent of the DM's decision. For example, Human characters start each day with Heroic Inspiration."
+														"Your DM can give you Inspiración Heroica for a variety of reasons. Typically, DMs award it when you do something particularly heroic, in character, or entertaining. It's a reward for making the game more fun for everyone playing.",
+														"Other rules might allow your character to gain Inspiración Heroica independent of the DM's decision. For example, Human characters start each day with Inspiración Heroica."
 													]
 												}
 											]
@@ -14139,7 +14139,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Heroic Inspiration"
+							"name": "Inspiración Heroica"
 						},
 						{
 							"type": "statblock",

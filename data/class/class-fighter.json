@@ -316,10 +316,10 @@
 			],
 			"subclassFeatures": [
 				"Maestro del combate|Guerrero|XPHB|Maestro del combate|XPHB|3",
-				"Know Your Enemy|Guerrero|XPHB|Maestro del combate|XPHB|7",
-				"Improved Supremacía en combate|Guerrero|XPHB|Maestro del combate|XPHB|10",
-				"Relentless|Guerrero|XPHB|Maestro del combate|XPHB|15",
-				"Ultimate Supremacía en combate|Guerrero|XPHB|Maestro del combate|XPHB|18"
+				"Conoce a tu enemigo|Guerrero|XPHB|Maestro del combate|XPHB|7",
+				"Supremacía en combate mejorada|Guerrero|XPHB|Maestro del combate|XPHB|10",
+				"Incansable|Guerrero|XPHB|Maestro del combate|XPHB|15",
+				"Supremacía en combate definitiva|Guerrero|XPHB|Maestro del combate|XPHB|18"
 			],
 			"hasFluffImages": true
 		},
@@ -1314,7 +1314,7 @@
 		{
 			"name": "Estudioso de la guerra",
 			"source": "XPHB",
-			"page": 94,
+			"page": 120,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"subclassShortName": "Maestro del combate",
@@ -1326,9 +1326,9 @@
 			]
 		},
 		{
-			"name": "Know Your Enemy",
+			"name": "Conoce a tu enemigo",
 			"source": "XPHB",
-			"page": 94,
+			"page": 120,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"subclassShortName": "Maestro del combate",
@@ -1336,14 +1336,14 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you can discern certain strengths and weaknesses of a creature you can see within 30 feet of yourself; you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}. You can also restore a use of the feature by expending one Dado de supremacía (no action required)."
+				"Como acción adicional, puedes distinguir determinadas fortalezas y debilidades de una criatura que puedas ver a 30 pies (9 mo) menos de ti. Sabrás si la criatura tiene alguna inmunidad, resistencia o vulnerabilidad y, de ser así, sabrás cuáles son.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo. También puedes recuperar un uso del rasgo gastando un dado de supremacía (no requiere acción)."
 			]
 		},
 		{
-			"name": "Improved Supremacía en combate",
+			"name": "Supremacía en combate mejorada",
 			"source": "XPHB",
-			"page": 94,
+			"page": 120,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"subclassShortName": "Maestro del combate",
@@ -1351,13 +1351,13 @@
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"Your Dado de supremacía becomes a {@dice d10}."
+				"Tu dado de supremacía se convierte en un {@dice d10}."
 			]
 		},
 		{
-			"name": "Relentless",
+			"name": "Incansable",
 			"source": "XPHB",
-			"page": 94,
+			"page": 120,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"subclassShortName": "Maestro del combate",
@@ -1365,13 +1365,13 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Once per turn, when you use a maneuver, you can roll {@dice 1d8} and use the number rolled instead of expending a Dado de supremacía."
+				"Una vez por turno, cuando utilices una maniobra, puedes tirar {@dice 1d8} y utilizar el resultado en vez de gastar un dadode supremacía."
 			]
 		},
 		{
-			"name": "Ultimate Supremacía en combate",
+			"name": "Supremacía en combate definitiva",
 			"source": "XPHB",
-			"page": 94,
+			"page": 120,
 			"className": "Guerrero",
 			"classSource": "XPHB",
 			"subclassShortName": "Maestro del combate",
@@ -1379,7 +1379,7 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"Your Dado de supremacía becomes a {@dice d12}."
+				"Tu dado de supremacía se convierte en un {@dice d12}."
 			]
 		},
 		{

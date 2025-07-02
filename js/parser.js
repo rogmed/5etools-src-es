@@ -1310,7 +1310,7 @@ Parser.spLevelSchoolMetaToFull = function (level, school, meta, subschools, {sty
 	return ptLevelSchool;
 };
 
-Parser.SP_TM_ACTION = "action";
+Parser.SP_TM_ACTION = "acción";
 Parser.SP_TM_B_ACTION = "adicional";
 Parser.SP_TM_REACTION = "reacción";
 Parser.SP_TM_ROUND = "round";
@@ -1319,7 +1319,7 @@ Parser.SP_TM_HRS = "hour";
 Parser.SP_TM_SPECIAL = "special";
 Parser.SP_TIME_SINGLETONS = [Parser.SP_TM_ACTION, Parser.SP_TM_B_ACTION, Parser.SP_TM_REACTION, Parser.SP_TM_ROUND];
 Parser.SP_TIME_TO_FULL = {
-	[Parser.SP_TM_ACTION]: "Action",
+	[Parser.SP_TM_ACTION]: "Acción",
 	[Parser.SP_TM_B_ACTION]: "Acción adicional",
 	[Parser.SP_TM_REACTION]: "Reacción",
 	[Parser.SP_TM_ROUND]: "Rounds",

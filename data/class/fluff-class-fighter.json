@@ -42,8 +42,8 @@
 	],
 	"subclassFluff": [
 		{
-			"name": "Battle Master",
-			"shortName": "Battle Master",
+			"name": "Maestro del combate",
+			"shortName": "Maestro del combate",
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
@@ -61,8 +61,8 @@
 			]
 		},
 		{
-			"name": "Champion",
-			"shortName": "Champion",
+			"name": "Campeón",
+			"shortName": "Campeón",
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
@@ -80,8 +80,8 @@
 			]
 		},
 		{
-			"name": "Eldritch Knight",
-			"shortName": "Eldritch Knight",
+			"name": "Caballero arcano",
+			"shortName": "Caballero arcano",
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
@@ -90,7 +90,7 @@
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "classes/XPHB/Eldritch Knight Fighter.webp"
+						"path": "classes/XPHB/Caballero arcano Fighter.webp"
 					},
 					"credit": "Hocheol Ryu",
 					"width": 850,

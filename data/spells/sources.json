@@ -1432,7 +1432,7 @@
 				}
 			]
 		},
-		"Detect Thoughts": {
+		"Detectar pensamientos": {
 			"class": [
 				{
 					"name": "Bard",
@@ -5220,7 +5220,7 @@
 				}
 			]
 		},
-		"Telekinesis": {
+		"Telequinesis": {
 			"class": [
 				{
 					"name": "Hechicero",

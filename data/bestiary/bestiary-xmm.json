@@ -13701,7 +13701,7 @@
 						"1e": [
 							"{@spell Control Weather|XPHB}",
 							"{@spell Gaseous Form|XPHB}",
-							"{@spell Telekinesis|XPHB}"
+							"{@spell Telequinesis|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -25912,7 +25912,7 @@
 						],
 						"1e": [
 							"{@spell Plane Shift|XPHB}",
-							"{@spell Telekinesis|XPHB}"
+							"{@spell Telequinesis|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -25940,7 +25940,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The githyanki makes three Silver Sword attacks. It can replace one attack with a use of Spellcasting to cast {@spell Telekinesis|XPHB} if available."
+						"The githyanki makes three Silver Sword attacks. It can replace one attack with a use of Spellcasting to cast {@spell Telequinesis|XPHB} if available."
 					]
 				},
 				{

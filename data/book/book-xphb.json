@@ -6576,7 +6576,7 @@
 												"{@class Guerrero|XPHB|Battle Master|Battle Master|XPHB} to use special combat maneuvers.",
 												"{@class Guerrero|XPHB|Champion|Champion|XPHB} to strive for peak combat prowess.",
 												"{@class Guerrero|XPHB|Caballero arcano|Caballero arcano|XPHB} to learn spells to aid in combat.",
-												"{@class Guerrero|XPHB|Psi Warrior|Psi Warrior|XPHB} to augment attacks with psionic power."
+												"{@class Guerrero|XPHB|Guerrero psiónico|Guerrero psiónico|XPHB} to augment attacks with psionic power."
 											]
 										}
 									],
@@ -13093,7 +13093,7 @@
 							"items": [
 								"{@spell Tasha's Bubbling Cauldron|XPHB}",
 								"{@spell Tasha's Hideous Laughter|XPHB}",
-								"{@spell Telekinesis|XPHB}",
+								"{@spell Telequinesis|XPHB}",
 								"{@spell Telepathy|XPHB}",
 								"{@spell Teleport|XPHB}",
 								"{@spell Teleportation Circle|XPHB}",

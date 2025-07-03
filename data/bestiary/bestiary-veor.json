@@ -3432,7 +3432,7 @@
 							"{@spell Dominate Monster}",
 							"{@spell Mass Suggestion}",
 							"{@spell Mirror Image}",
-							"{@spell Telekinesis}",
+							"{@spell Telequinesis}",
 							"{@spell Teleport}"
 						]
 					},
@@ -4206,7 +4206,7 @@
 							"{@spell Darkness}",
 							"{@spell Dominate Monster}",
 							"{@spell Mass Suggestion}",
-							"{@spell Telekinesis}",
+							"{@spell Telequinesis}",
 							"{@spell Teleport}"
 						]
 					},
@@ -5272,7 +5272,7 @@
 						],
 						"1e": [
 							"{@spell Maze}",
-							"{@spell Telekinesis}"
+							"{@spell Telequinesis}"
 						]
 					},
 					"ability": "int",

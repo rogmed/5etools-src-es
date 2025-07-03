@@ -99,8 +99,8 @@
 			]
 		},
 		{
-			"name": "Psi Warrior",
-			"shortName": "Psi Warrior",
+			"name": "Guerrero psiónico",
+			"shortName": "Guerrero psiónico",
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
@@ -109,7 +109,7 @@
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "classes/XPHB/Psi Warrior Fighter.webp"
+						"path": "classes/XPHB/Guerrero psiónico Fighter.webp"
 					},
 					"credit": "Javier Charro",
 					"width": 850,

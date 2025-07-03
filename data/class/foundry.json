@@ -1826,8 +1826,8 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Psi Warrior",
-			"shortName": "Psi Warrior",
+			"name": "Guerrero psiónico",
+			"shortName": "Guerrero psiónico",
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
@@ -9220,7 +9220,7 @@
 			"source": "TCE",
 			"className": "Guerrero",
 			"classSource": "PHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "TCE",
 			"level": 3,
 			"entryData": {
@@ -9242,7 +9242,7 @@
 			"source": "TCE",
 			"className": "Guerrero",
 			"classSource": "PHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "TCE",
 			"level": 10,
 			"entryData": {
@@ -9257,7 +9257,7 @@
 			"source": "TCE",
 			"className": "Guerrero",
 			"classSource": "PHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "TCE",
 			"level": 15,
 			"system": {
@@ -15843,7 +15843,7 @@
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"system": {
@@ -15864,7 +15864,7 @@
 								"value": "1",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Guerrero|XPHB|Psi Warrior|XPHB|3"
+									"uid": "Psionic Power|Guerrero|XPHB|Guerrero psiónico|XPHB|3"
 								}
 							}
 						]
@@ -15896,7 +15896,7 @@
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entryData": {
@@ -15918,7 +15918,7 @@
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"system": {
@@ -15939,7 +15939,7 @@
 								"value": "1",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Guerrero|XPHB|Psi Warrior|XPHB|3"
+									"uid": "Psionic Power|Guerrero|XPHB|Guerrero psiónico|XPHB|3"
 								}
 							}
 						]
@@ -15976,7 +15976,7 @@
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"system": {
@@ -16032,7 +16032,7 @@
 								"value": "1",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Guerrero|XPHB|Psi Warrior|XPHB|3"
+									"uid": "Psionic Power|Guerrero|XPHB|Guerrero psiónico|XPHB|3"
 								}
 							}
 						]
@@ -16056,7 +16056,7 @@
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"activities": [
@@ -16102,7 +16102,7 @@
 								"value": "1",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Guerrero|XPHB|Psi Warrior|XPHB|3"
+									"uid": "Psionic Power|Guerrero|XPHB|Guerrero psiónico|XPHB|3"
 								}
 							}
 						]
@@ -16121,7 +16121,7 @@
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"activities": [
@@ -16171,7 +16171,7 @@
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"activities": [
@@ -16188,7 +16188,7 @@
 								"value": "1",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Guerrero|XPHB|Psi Warrior|XPHB|3"
+									"uid": "Psionic Power|Guerrero|XPHB|Guerrero psiónico|XPHB|3"
 								}
 							}
 						]
@@ -16207,7 +16207,7 @@
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"activities": [
@@ -16254,7 +16254,7 @@
 								"value": "1",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Guerrero|XPHB|Psi Warrior|XPHB|3"
+									"uid": "Psionic Power|Guerrero|XPHB|Guerrero psiónico|XPHB|3"
 								}
 							},
 							{

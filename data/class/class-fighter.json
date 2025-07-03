@@ -446,7 +446,7 @@
 						}
 					],
 					"colLabels": [
-						"{@filter Spells Prepared|spells|subclass=Fighter: Caballero arcano}"
+						"{@filter Conjuros preparados|spells|subclass=Guerrero: Caballero arcano}"
 					],
 					"rows": [
 						[
@@ -512,7 +512,7 @@
 					]
 				},
 				{
-					"title": "Spell Slots per Spell Level",
+					"title": "Espacios de conjuro por cada nivel de conjuro",
 					"subclasses": [
 						{
 							"name": "Caballero arcano",
@@ -520,10 +520,10 @@
 						}
 					],
 					"colLabels": [
-						"{@filter 1st|spells|level=1|subclass=Fighter: Caballero arcano}",
-						"{@filter 2nd|spells|level=2|subclass=Fighter: Caballero arcano}",
-						"{@filter 3rd|spells|level=3|subclass=Fighter: Caballero arcano}",
-						"{@filter 4th|spells|level=4|subclass=Fighter: Caballero arcano}"
+						"{@filter 1|spells|level=1|subclass=Guerrero: Caballero arcano}",
+						"{@filter 2|spells|level=2|subclass=Guerrero: Caballero arcano}",
+						"{@filter 3|spells|level=3|subclass=Guerrero: Caballero arcano}",
+						"{@filter 4|spells|level=4|subclass=Guerrero: Caballero arcano}"
 					],
 					"rowsSpellProgression": [
 						[
@@ -659,8 +659,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Psi Warrior",
-			"shortName": "Psi Warrior",
+			"name": "Guerrero psiónico",
+			"shortName": "Guerrero psiónico",
 			"source": "XPHB",
 			"className": "Guerrero",
 			"classSource": "XPHB",
@@ -683,7 +683,7 @@
 				{
 					"subclasses": [
 						{
-							"name": "Psi Warrior",
+							"name": "Guerrero psiónico",
 							"source": "XPHB"
 						}
 					],
@@ -776,11 +776,11 @@
 				}
 			],
 			"subclassFeatures": [
-				"Psi Warrior|Guerrero|XPHB|Psi Warrior|XPHB|3",
-				"Telekinetic Adept|Guerrero|XPHB|Psi Warrior|XPHB|7",
-				"Guarded Mind|Guerrero|XPHB|Psi Warrior|XPHB|10",
-				"Bulwark of Force|Guerrero|XPHB|Psi Warrior|XPHB|15",
-				"Telekinetic Master|Guerrero|XPHB|Psi Warrior|XPHB|18"
+				"Guerrero psiónico|Guerrero|XPHB|Guerrero psiónico|XPHB|3",
+				"Adepto telequinético|Guerrero|XPHB|Guerrero psiónico|XPHB|7",
+				"Mente robusta|Guerrero|XPHB|Guerrero psiónico|XPHB|10",
+				"Bastión de fuerza|Guerrero|XPHB|Guerrero psiónico|XPHB|15",
+				"Maestro telequinético|Guerrero|XPHB|Guerrero psiónico|XPHB|18"
 			],
 			"hasFluffImages": true
 		}
@@ -1696,41 +1696,41 @@
 			]
 		},
 		{
-			"name": "Psi Warrior",
+			"name": "Guerrero psiónico",
 			"source": "XPHB",
-			"page": 117,
+			"page": 118,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Augment Physical Might with Psionic Power}",
-				"Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.",
+				"{@i Aumenta tu poderío físico con el poder psiónico}",
+				"Los guerreros psiónicos despiertan el poder de sus mentes para mejorar sus capacidades físicas. Estos guerreros emplean el poder psiónico para imbuir sus ataques con armas, arremeter con energía telequinética y crear barreras de fuerza mental.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Power|Guerrero|XPHB|Psi Warrior|XPHB|3"
+					"subclassFeature": "Poder psiónico|Guerrero|XPHB|Guerrero psiónico|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Psionic Power",
+			"name": "Poder psiónico",
 			"source": "XPHB",
 			"page": 117,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You harbor a wellspring of psionic energy within yourself. It is represented by your Psionic Energy Dice, which fuel powers you have from this subclass. The Psi Warrior Energy Dice table shows the die size and number of these dice you have when you reach certain Fighter levels.",
+				"Albergas una fuente de energía psiónica en tu interior. Esta se representa mediante dados de energía psiónica, que alimentan los poderes que tienes por esta subclase. La tabla “Dados de energía del guerrero psiónico” muestra el tamaño del dado y la cantidad de dados que tienes cuando alcanzas determinados niveles de guerrero.",
 				{
 					"type": "table",
-					"caption": "Psi Warrior Energy Dice",
+					"caption": "DADOS DE ENERGÍA DEL GUERRERO PSIÓNICO",
 					"colLabels": [
-						"Fighter Level",
-						"Die Size",
-						"Number"
+						"Nivel de guerrero",
+						"Tamaño del dado",
+						"Cantidad"
 					],
 					"colStyles": [
 						"col-4 text-center",
@@ -1770,29 +1770,29 @@
 						]
 					]
 				},
-				"Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend the Psionic Energy Die, as specified in a power's description, and you can't use a power if it requires you to use a die when all your Psionic Energy Dice are expended.",
-				"You regain one of your expended Psionic Energy Dice when you finish a {@variantrule Short Rest|XPHB}, and you regain all of them when you finish a {@variantrule Long Rest|XPHB}.",
+				"Cualquier rasgo de esta subclase que emplee dados de energía psiónica utiliza solamente los dados de esta subclase. Algunos de tus poderes gastan un dado de energía psiónica, tal y como se especifica en la correspondiente descripción, por lo que no podrás usar un poder que requiera emplear un dado de energía psiónica si ya los has gastado todos.",
+				"Recuperas uno de tus dados de energía psiónica tras finalizar un descanso corto y todos tras finalizar un descanso largo.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Protective Field|Guerrero|XPHB|Psi Warrior|XPHB|3"
+					"subclassFeature": "Campo protector|Guerrero|XPHB|Guerrero psiónico|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Strike|Guerrero|XPHB|Psi Warrior|XPHB|3"
+					"subclassFeature": "Golpe psiónico|Guerrero|XPHB|Guerrero psiónico|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Telekinetic Movement|Guerrero|XPHB|Psi Warrior|XPHB|3"
+					"subclassFeature": "Movimiento telequinético|Guerrero|XPHB|Guerrero psiónico|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Protective Field",
+			"name": "Campo protector",
 			"source": "XPHB",
-			"page": 117,
+			"page": 119,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
@@ -1800,16 +1800,16 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"When you or another creature you can see within 30 feet of you takes damage, you can take a {@variantrule Reaction|XPHB} to expend one Psionic Energy Die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force."
+				"Cuando tú u otra criatura que puedas ver a 30 pies (9 m) o menos de ti recibáis daño, puedes usar una reacción para gastar un dado de energía psiónica; tira el dado y reduce el daño sufrido en una cantidad igual al resultado más tu modificador por Inteligencia (el daño se reduce en 1 como mínimo), ya que creas un escudo temporal de fuerza telequinética."
 			]
 		},
 		{
-			"name": "Psionic Strike",
+			"name": "Golpe psiónico",
 			"source": "XPHB",
-			"page": 117,
+			"page": 119,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
@@ -1817,16 +1817,16 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of yourself with an attack and deal damage to it with a weapon, you can expend one Psionic Energy Die, rolling it and dealing Force damage to the target equal to the number rolled plus your Intelligence modifier."
+				"Puedes impulsar tus armas con fuerza psiónica. Una vez en cada uno de tus turnos, inmediatamente después de acertar a un objetivo que esté a 30 pies (9 m) o menos de ti con un ataque e infligirle daño con un arma, puedes gastar un dado de energía psiónica, tirarlo e infligir una cantidad de daño de fuerza al objetivo igual al resultado más tu modificador por Inteligencia."
 			]
 		},
 		{
-			"name": "Telekinetic Movement",
+			"name": "Movimiento telequinético",
 			"source": "XPHB",
-			"page": 117,
+			"page": 119,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
@@ -1834,17 +1834,17 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"You can move an object or a creature with your mind. As a {@action Magic|XPHB} action, choose one target you can see within 30 feet of yourself; the target must be a loose object that is Large or smaller or one willing creature other than you. You transport the target up to 30 feet to an unoccupied space you can see. Alternatively, if the target is a Tiny object, you can transport it to or from your hand.",
-				"Once you take this action, you can't do so again until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB} unless you expend a Psionic Energy Die (no action required) to restore your use of it."
+				"Puedes mover objetos o criaturas con la mente. Como acción de magia, elige un objetivo que puedas ver a 30 pies (9 m) o menos de ti; deberá ser un objeto suelto Grande o más pequeño o una criatura voluntaria que no seas tú. Transportas al objetivo hasta 30 pies (9 m) a un espacio sin ocupar que puedas ver. Como alternativa, si se trata de un objeto Diminuto, puedes moverlo hacia tu mano o desde ella.",
+				"Cuando lleves a cabo esta acción, no podrás volver a hacerla hasta que finalices un descanso corto o largo, a menos que gastes un dado de energía psiónica (no requiere acción) para restablecer su uso."
 			]
 		},
 		{
-			"name": "Psi-Powered Leap",
+			"name": "Salto psiónico",
 			"source": "XPHB",
-			"page": 99,
+			"page": 119,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
@@ -1852,52 +1852,52 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you gain a {@variantrule Fly Speed|XPHB} equal to twice your {@variantrule Speed|XPHB} until the end of the current turn. Once you take this {@variantrule Bonus Action|XPHB}, you can't do so again until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB} unless you expend a Psionic Energy Die (no action required) to restore your use of it."
+				"Como acción adicional, obtienes una velocidad volando igual al doble de tu velocidad hasta el final del turno actual. Cuando lleves a cabo esta acción adicional, no podrás volver a hacerla hasta que finalices un descanso corto o largo, a menos que gastes un dado de energía psiónica (no requiere acción) para restablecer su uso."
 			]
 		},
 		{
-			"name": "Telekinetic Adept",
+			"name": "Adepto telequinético",
 			"source": "XPHB",
-			"page": 99,
+			"page": 119,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"You have mastered new ways to use your telekinetic abilities, detailed below.",
+				"Has dominado nuevas formas de usar tus habilidades telequinéticas, que se detallan a continuación.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psi-Powered Leap|Guerrero|XPHB|Psi Warrior|XPHB|7"
+					"subclassFeature": "Empujón telequinético|Guerrero|XPHB|Guerrero psiónico|XPHB|7"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Telekinetic Thrust|Guerrero|XPHB|Psi Warrior|XPHB|7"
+					"subclassFeature": "Salto psiónico|Guerrero|XPHB|Guerrero psiónico|XPHB|7"
 				}
 			]
 		},
 		{
-			"name": "Telekinetic Thrust",
+			"name": "Empujón telequinético",
 			"source": "XPHB",
-			"page": 99,
+			"page": 119,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw ({@dc 8} plus your Intelligence modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}). On a failed save, you can give the target the {@condition Derribado|XPHB} condition or transport it up to 10 feet horizontally."
+				"Cuando inflijas daño a un objetivo con tu Golpe psiónico, puedes obligarlo a hacer una tirada de salvación de Fuerza (CD 8 más tu modificador por Inteligencia y tu bonificador por competencia). Si la falla, el objetivo tendrá el estado de {@condition Derribado|XPHB} o lo transportarás hasta 15 pies (3 m) en horizontal."
 			]
 		},
 		{
-			"name": "Guarded Mind",
+			"name": "Mente robusta",
 			"source": "XPHB",
-			"page": 99,
+			"page": 119,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
@@ -1905,16 +1905,16 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"You have {@variantrule Resistance|XPHB} to Psychic damage. Moreover, if you start your turn with the {@condition Hechizado|XPHB} or {@condition Asustado|XPHB} condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself giving you those conditions."
+				"Tienes resistencia al daño psíquico. Además, si comienzas tu turno con el estado de {@condition Asustado|XPHB} o {@condition Hechizado|XPHB}, puedes gastar un dado de energía psiónica (no requiere acción) y poner fin a todos los efectos que te causen dichos estados."
 			]
 		},
 		{
-			"name": "Bulwark of Force",
+			"name": "Bastión de fuerza",
 			"source": "XPHB",
-			"page": 99,
+			"page": 119,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
@@ -1922,17 +1922,17 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"You can shield yourself and others with telekinetic force. As a {@variantrule Bonus Action|XPHB}, you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has {@variantrule Cover|XPHB|Half Cover} for 1 minute or until you have the {@condition Incapacitado|XPHB} condition.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB} unless you expend a Psionic Energy Die (no action required) to restore your use of it."
+				"Puedes proteger a los demás o a ti con fuerza telequinética. Como acción adicional, puedes elegir hasta una cantidad de criaturas (entre las que puedes estar tú) a 30 pies (9 m) o menos de ti igual a tu modificador por Inteligencia (mínimo una criatura). Cada una de las criaturas elegidas tendrá {@variantrule Cover|XPHB|cobertura} media durante 1 minuto o hasta que tengas el estado de {@condition Incapacitado|XPHB}.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un dado de energía psiónica (no requiere acción) para restablecer su uso."
 			]
 		},
 		{
-			"name": "Telekinetic Master",
+			"name": "Maestro telequinético",
 			"source": "XPHB",
-			"page": 99,
+			"page": 119,
 			"className": "Guerrero",
 			"classSource": "XPHB",
-			"subclassShortName": "Psi Warrior",
+			"subclassShortName": "Guerrero psiónico",
 			"subclassSource": "XPHB",
 			"level": 18,
 			"header": 2,
@@ -1940,8 +1940,8 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"You always have the {@spell Telekinesis|XPHB} spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain {@status Concentration|XPHB} on it, including the turn when you cast it, you can make one attack with a weapon as a {@variantrule Bonus Action|XPHB}.",
-				"Once you cast the spell with this feature, you can't do so in this way again until you finish a {@variantrule Long Rest|XPHB} unless you expend a Psionic Energy Die (no action required) to restore your use of it."
+				"Siempre tienes el conjuro {@spell Telequinesis|XPHB} preparado. Con este rasgo, puedes lanzarlo sin un espacio de conjuro ni componentes, y tu aptitud mágica para hacerlo es la Inteligencia. En cada uno de tus turnos en los que mantengas la {@status Concentración|XPHB} en el conjuro, incluido el turno en el que lo lances, podrás realizar un ataque con un arma como acción adicional.",
+				"Cuando lances el conjuro con este rasgo, no podrás volver a hacerlo de esta forma hasta que finalices un descanso largo, a menos que gastes un dado de energía psiónica (no requiere acción) para restablecer su uso."
 			]
 		}
 	]

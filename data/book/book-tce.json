@@ -804,12 +804,12 @@
 							"page": 42,
 							"id": "0eb",
 							"entries": [
-								"At 3rd level, a fighter gains the Martial Archetype feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Psi Warrior and Rune Knight.",
+								"At 3rd level, a fighter gains the Martial Archetype feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Guerrero psiónico and Rune Knight.",
 								{
 									"type": "list",
 									"columns": 2,
 									"items": [
-										"{@class Guerrero|phb|Psi Warrior|Psi Warrior|TCE}",
+										"{@class Guerrero|phb|Guerrero psiónico|Guerrero psiónico|TCE}",
 										"{@class Guerrero|phb|Rune Knight|Rune Knight|TCE}"
 									]
 								}
@@ -835,7 +835,7 @@
 										"type": "internal",
 										"path": "book/TCE/027-01-033.webp"
 									},
-									"title": "High Elf Psi Warrior",
+									"title": "High Elf Guerrero psiónico",
 									"width": 823,
 									"height": 1000,
 									"credit": "Marcela Medeiros"

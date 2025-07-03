@@ -2816,7 +2816,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Gnome Ceremorph",
+			"name": "Gnomo Ceremorph",
 			"source": "IDRotF",
 			"page": 303,
 			"size": [
@@ -2977,7 +2977,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Gnome Squidling",
+			"name": "Gnomo Squidling",
 			"source": "IDRotF",
 			"page": 303,
 			"size": [
@@ -6160,7 +6160,7 @@
 			],
 			"trait": [
 				{
-					"name": "Gnome Cunning",
+					"name": "Gnomo Cunning",
 					"entries": [
 						"Spellix has advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
 					]

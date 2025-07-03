@@ -1082,7 +1082,7 @@
 			]
 		},
 		{
-			"name": "Deep Gnome",
+			"name": "Deep Gnomo",
 			"source": "MPMM",
 			"entries": [
 				"Deep gnomes, or svirfneblin, are natives of the Underdark and are suffused with that subterranean realm's magic. They can supernaturally camouflage themselves, and their svirfneblin magic renders them difficult to locate. These abilities have enabled them to survive for generations among the perils of the Underdark.",
@@ -1093,7 +1093,7 @@
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "races/MPMM/Deep Gnome.webp"
+						"path": "races/MPMM/Deep Gnomo.webp"
 					},
 					"credit": "Tom Babbey, Olly Lawson",
 					"width": 1700,
@@ -3322,7 +3322,7 @@
 			]
 		},
 		{
-			"name": "Gnome",
+			"name": "Gnomo",
 			"source": "PHB",
 			"uncommon": true,
 			"entries": [
@@ -3332,12 +3332,12 @@
 						{
 							"type": "entries",
 							"entries": [
-								"A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.",
+								"A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomos take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.",
 								{
 									"type": "entries",
 									"name": "Vibrant Expression",
 									"entries": [
-										"A gnome's energy and enthusiasm for living shines through every inch his or her tiny body. Gnomes average slightly over 3 feet tall and weigh 40 to 45 pounds. Their tan or brown faces are usually adorned with broad smiles (beneath their prodigious noses), and their bright eyes shine with excitement. Their fair hair has a tendency to stick out in every direction, as if expressing the gnome's insatiable interest in everything around.",
+										"A gnome's energy and enthusiasm for living shines through every inch his or her tiny body. Gnomos average slightly over 3 feet tall and weigh 40 to 45 pounds. Their tan or brown faces are usually adorned with broad smiles (beneath their prodigious noses), and their bright eyes shine with excitement. Their fair hair has a tendency to stick out in every direction, as if expressing the gnome's insatiable interest in everything around.",
 										"A gnome's personality is writ large in his or her appearance. A male gnome's beard, in contrast to his wild hair, is kept carefully trimmed but often styled into curious forks or neat points. A gnome's clothing, though usually made in modest earth tones, is elaborately decorated with embroidery, embossing, or gleaming jewels."
 									]
 								},
@@ -3346,7 +3346,7 @@
 									"name": "Delighted Dedication",
 									"entries": [
 										"As far as gnomes are concerned, being alive is a wonderful thing, and they squeeze every ounce of enjoyment out of their three to five centuries of life. Humans might wonder about getting bored over the course of such a long life, and elves take plenty of time to savor the beauties of the world in their long years, but gnomes seem to worry that even with all that time, they can't get in enough of the things they want to do and see.",
-										"Gnomes speak as if they can't get the thoughts out of their heads fast enough. Even as they offer ideas and opinions on a range of subjects, they manage to listen carefully to others, adding the appropriate exclamations of surprise and appreciation along the way.",
+										"Gnomos speak as if they can't get the thoughts out of their heads fast enough. Even as they offer ideas and opinions on a range of subjects, they manage to listen carefully to others, adding the appropriate exclamations of surprise and appreciation along the way.",
 										"Though gnomes love jokes of all kinds, particularly puns and pranks, they're just as dedicated to the more serious tasks they undertake. Many gnomes are skilled engineers, alchemists, tinkerers, and inventors. They're willing to make mistakes and laugh at themselves in the process of perfecting what they do, taking bold (sometimes foolhardy) risks and dreaming large."
 									]
 								},
@@ -3354,15 +3354,15 @@
 									"type": "entries",
 									"name": "Bright Burrows",
 									"entries": [
-										"Gnomes makes their homes in hilly, wooded lands. They live underground but get more fresh air than dwarves do, enjoying the natural, living world on the surface where ever they can. Their homes are well hidden by both clever construction and simple illusions. Welcome visitors are quickly ushered into the bright, warm burrows. Those who are not welcome are unlikely to find the burrows in the first place.",
-										"Gnomes who settle in human lands are commonly gemcutters, engineers, sages, or tinkerers. Some human families retained gnome tutors, ensuring that their pupils enjoy a mix of serious learning and delighted enjoyment. A gnome might tutor several generations of a single human family over the course of his or her long life."
+										"Gnomos makes their homes in hilly, wooded lands. They live underground but get more fresh air than dwarves do, enjoying the natural, living world on the surface where ever they can. Their homes are well hidden by both clever construction and simple illusions. Welcome visitors are quickly ushered into the bright, warm burrows. Those who are not welcome are unlikely to find the burrows in the first place.",
+										"Gnomos who settle in human lands are commonly gemcutters, engineers, sages, or tinkerers. Some human families retained gnome tutors, ensuring that their pupils enjoy a mix of serious learning and delighted enjoyment. A gnome might tutor several generations of a single human family over the course of his or her long life."
 									]
 								},
 								{
 									"type": "entries",
-									"name": "Gnome Names",
+									"name": "Gnomo Names",
 									"entries": [
-										"Gnomes love names, and most have half a dozen or so. A gnome's mother, father, clan elder, aunts, and uncles each give the gnome a name, and various nicknames from just about everyone else might or might not stick over time. Gnome names are typically variants on the names of ancestors or distant relatives, though some are truly new inventions. When dealing with humans and others who are \"Stuffy\" about names, a gnome learns to use no more than three names; A personal name, a clan name, and a nickname, choosing the one in each category that's the most fun to say.",
+										"Gnomos love names, and most have half a dozen or so. A gnome's mother, father, clan elder, aunts, and uncles each give the gnome a name, and various nicknames from just about everyone else might or might not stick over time. Gnomo names are typically variants on the names of ancestors or distant relatives, though some are truly new inventions. When dealing with humans and others who are \"Stuffy\" about names, a gnome learns to use no more than three names; A personal name, a clan name, and a nickname, choosing the one in each category that's the most fun to say.",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -3400,7 +3400,7 @@
 								},
 								{
 									"type": "inset",
-									"name": "Deep Gnomes",
+									"name": "Deep Gnomos",
 									"entries": [
 										"A third sub race of gnomes, the deep gnomes (or svirfneblin) live in small communities scattered in the Underdark. Unlike the duergar and the drow, svirfneblin are as good as their surface cousins. However, their humor and enthusiasm are dampened by their oppressive environment, and their inventive expertise is directed mostly toward stonework."
 									]
@@ -3415,7 +3415,7 @@
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "races/PHB/Gnome.webp"
+						"path": "races/PHB/Gnomo.webp"
 					},
 					"width": 420,
 					"height": 480
@@ -3423,7 +3423,7 @@
 			]
 		},
 		{
-			"name": "Gnome",
+			"name": "Gnomo",
 			"source": "XPHB",
 			"entries": [
 				{
@@ -3432,8 +3432,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes' secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.",
-								"Gnomes are petite folk with big eyes and pointed ears, who live around 425 years. Many gnomes like the feeling of a roof over their head, even if that \"roof\" is nothing more than a hat."
+								"Los gnomos son un pueblo mágico creado por los dioses de la inventiva, las ilusiones y la vida en el subsuelo. Los otros pueblos rara vez veían a los primeros gnomos debido a su naturaleza reservada y su propensión a vivir en bosques y madrigueras. Lo que les faltaba en tamaño, lo compensaban con su astucia, ya que confundían a los depredadores con trampas y túneles laberínticos. También aprendieron magia de dioses como Garl Oro Reluciente, Baervan Viajero Indómito y Baravar Capa de Sombras, que los visitaban disfrazados. Esa magia acabó originando los linajes de los gnomos de las rocas y los gnomos de los bosques.",
+								"Los gnomos son seres pequeños de grandes ojos y orejas puntiagudas que viven unos 425 años. A muchos gnomos les gusta la sensación de tener un techo sobre la cabeza, incluso aunque ese supuesto techo no sea más que un simple gorro."
 							]
 						}
 					]
@@ -3444,7 +3444,7 @@
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "races/XPHB/Gnome.webp"
+						"path": "races/XPHB/Gnomo.webp"
 					},
 					"credit": "Eric Belisle",
 					"width": 1700,
@@ -3453,10 +3453,10 @@
 			]
 		},
 		{
-			"name": "Gnome (Deep/Svirfneblin)",
+			"name": "Gnomo (Deep/Svirfneblin)",
 			"source": "SCAG",
 			"_copy": {
-				"name": "Gnome",
+				"name": "Gnomo",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -3505,7 +3505,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Deep Gnome Names",
+											"name": "Deep Gnomo Names",
 											"entries": [
 												"Svirfneblin prefer less flamboyant names than their rock gnome or forest gnome cousins. Clan names reflect skills or occupations that a particular family is associated with, and sometimes change if a noteworthy individual strikes out in a new direction.",
 												{
@@ -3533,14 +3533,14 @@
 										},
 										{
 											"type": "inset",
-											"name": "Deep Gnomes in the Forgotten Realms",
+											"name": "Deep Gnomos in the Forgotten Realms",
 											"entries": [
 												"In the Forgotten Realms, deep gnomes live within a perilous, subterranean world known as the Underdark. This maze of caverns and tunnels is home to some of the most feared creatures in Faerûn. Because of this, the svirfneblin that dwell here are much more distrusting and wary than their kin on other worlds. Rarely do they allow strangers within their midst, and those that they must deal with are kept at arms length. If one is lucky enough to be trusted by the deep gnomes, they are a friend for life. For the svirfneblin of the Underdark, genuine trust is a commodity far more valuable than gold."
 											]
 										},
 										{
 											"type": "inset",
-											"name": "Deep Gnome Feat",
+											"name": "Deep Gnomo Feat",
 											"entries": [
 												"If your DM allows the use of feats, your deep gnome character has the option of taking the following feat: {@feat Svirfneblin Magic|MTF}."
 											]
@@ -3555,10 +3555,10 @@
 			"images": null
 		},
 		{
-			"name": "Gnome (Forest)",
+			"name": "Gnomo (Forest)",
 			"source": "PHB",
 			"_copy": {
-				"name": "Gnome",
+				"name": "Gnomo",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -3579,10 +3579,10 @@
 			}
 		},
 		{
-			"name": "Gnome (Rock)",
+			"name": "Gnomo (Rock)",
 			"source": "PHB",
 			"_copy": {
-				"name": "Gnome",
+				"name": "Gnomo",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -8922,9 +8922,9 @@
 				},
 				{
 					"type": "entries",
-					"name": "Gnome",
+					"name": "Gnomo",
 					"entries": [
-						"Gnomes don't look like a threat and can quickly disarm suspicion with good humor. The common folk are often curious about gnomes, likely never having seen one before, but they are rarely hostile or fearful."
+						"Gnomos don't look like a threat and can quickly disarm suspicion with good humor. The common folk are often curious about gnomes, likely never having seen one before, but they are rarely hostile or fearful."
 					]
 				},
 				{

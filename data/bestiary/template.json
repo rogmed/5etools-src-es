@@ -111,10 +111,10 @@
 			}
 		},
 		{
-			"name": "Deep Gnome",
+			"name": "Deep Gnomo",
 			"source": "DMG",
 			"page": 282,
-			"ref": "{@race Gnome (Deep)|DMG|Deep Gnome}",
+			"ref": "{@race Gnomo (Deep)|DMG|Deep Gnomo}",
 			"apply": {
 				"_root": {
 					"size": [
@@ -175,7 +175,7 @@
 						"mode": "appendArr",
 						"items": [
 							{
-								"name": "Gnome Cunning",
+								"name": "Gnomo Cunning",
 								"entries": [
 									"<$title_short_name$> has advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
 								]
@@ -2629,10 +2629,10 @@
 			}
 		},
 		{
-			"name": "Rock Gnome",
+			"name": "Rock Gnomo",
 			"source": "PHB",
 			"page": 35,
-			"ref": "{@race Gnome (Rock)||Rock Gnome}",
+			"ref": "{@race Gnomo (Rock)||Rock Gnomo}",
 			"apply": {
 				"_root": {
 					"size": [
@@ -2667,7 +2667,7 @@
 						"mode": "appendArr",
 						"items": [
 							{
-								"name": "Gnome Cunning",
+								"name": "Gnomo Cunning",
 								"entries": [
 									"<$title_short_name$> has advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
 								]

@@ -788,7 +788,7 @@
 			]
 		},
 		{
-			"name": "Gnome",
+			"name": "Gnomo",
 			"source": "XPHB",
 			"page": 191,
 			"srd52": true,
@@ -806,49 +806,49 @@
 				"type": "item",
 				"name": "Size:",
 				"entries": [
-					"Small (about 3-4 feet tall)"
+					"Pequeño (entre 90 cm y 1,2 m de altura)"
 				]
 			},
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Visión en la oscuridad",
+					"name": "Astucia gnoma",
 					"entries": [
-						"Tienes visión en la oscuridad hasta 60 pies (18 m)."
+						"Tienes ventaja en las tiradas de salvación de Inteligencia, Sabiduría y Carisma."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Gnomish Cunning",
+					"name": "Linaje gnomo",
 					"entries": [
-						"You have {@variantrule Advantage|XPHB} on Intelligence, Wisdom, and Charisma saving throws."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Gnomish Lineage",
-					"entries": [
-						"You are part of a lineage that grants you supernatural abilities. Choose one of the following options; whichever one you choose, Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage):",
+						"Formas parte de un linaje que te otorga capacidades sobrenaturales. Escoge una de las siguientes opciones; elijas la que elijas, la Inteligencia, la Sabiduría o el Carisma es tu aptitud mágica para los conjuros que lances con este atributo (elige la característica al seleccionar el linaje):",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
 							"items": [
 								{
 									"type": "item",
-									"name": "Forest Gnome",
+									"name": "Gnomo de las rocas",
 									"entries": [
-										"You know the {@spell Ilusión menor|XPHB} cantrip. You also always have the {@spell Speak with Animals|XPHB} spell prepared. You can cast it without a spell slot a number of times equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}. You can also use any spell slots you have to cast the spell."
+										"Conoces los trucos {@spell Prestidigitación|XPHB} y {@spell Reparar|XPHB}. Además, puedes pasar 10 minutos lanzando prestidigitación para crear un dispositivo mecánico Diminuto (CA 5, 1 pg), como un juguete, un encendedor o una caja de música. Cuando crees el dispositivo, determinarás su función eligiendo un efecto de prestidigitación. El dispositivo producirá ese efecto cada vez que otra criatura o tú empleéis una acción adicional para activarlo con un toque. Si el efecto elegido tiene varias opciones, escoges una de ellas para el dispositivo cuando lo crees. Por ejemplo, si eliges el efecto de encender o apagar del conjuro, determinas si el dispositivo enciende o apaga los fuegos: el dispositivo no hace ambas cosas. Puedes tener tres de estos dispositivos activos al mismo tiempo y se desarman 8 horas después de crearlos o cuando los desmontes con un toque como acción de utilizar."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Rock Gnome",
+									"name": "Gnomo de los bosques",
 									"entries": [
-										"You know the {@spell Reparar|XPHB} and {@spell Prestidigitación|XPHB} cantrips. In addition, you can spend 10 minutes casting {@spell Prestidigitación|XPHB} to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from {@spell Prestidigitación|XPHB}; the device produces that effect whenever you or another creature takes a {@variantrule Bonus Action|XPHB} to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a {@action Utilize|XPHB} action."
+										"Conoces el truco {@spell Ilusión menor|XPHB} cantrip. Además, siempre tienes el conjuro {@spell Hablar con los animales|XPHB} preparado. Puedes lanzarlo sin gastar un espacio de conjuro una cantidad de veces igual a tu bonificador por competencia y recuperas todos los usos tras finalizar un descanso largo. También puedes usar cualquier espacio de conjuro que tengas para lanzarlo."
 									]
 								}
 							]
 						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Visión en la oscuridad",
+					"entries": [
+						"Tienes visión en la oscuridad hasta 60 pies (18 m)."
 					]
 				}
 			],
@@ -856,17 +856,17 @@
 			"hasFluffImages": true,
 			"_versions": [
 				{
-					"name": "Gnome; Forest Gnome Lineage",
+					"name": "Gnomo; lineaje gnomo de los bosques",
 					"source": "XPHB",
 					"_mod": {
 						"entries": {
 							"mode": "replaceArr",
-							"replace": "Gnomish Lineage",
+							"replace": "Lineaje gnomo",
 							"items": {
-								"name": "Gnomish Lineage (Forest Gnome)",
+								"name": "Linaje gnomo (Gnomo de los bosques)",
 								"type": "entries",
 								"entries": [
-									"You know the {@spell Ilusión menor|XPHB} cantrip. You also always have the {@spell Speak with Animals|XPHB} spell prepared. You can cast it without a spell slot a number of times equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}. You can also use any spell slots you have to cast the spell."
+									"Conoces el truco {@spell Ilusión menor|XPHB} cantrip. Además, siempre tienes el conjuro {@spell Hablar con los animales|XPHB} preparado. Puedes lanzarlo sin gastar un espacio de conjuro una cantidad de veces igual a tu bonificador por competencia y recuperas todos los usos tras finalizar un descanso largo. También puedes usar cualquier espacio de conjuro que tengas para lanzarlo."
 								]
 							}
 						}
@@ -898,17 +898,17 @@
 					]
 				},
 				{
-					"name": "Gnome; Rock Gnome Lineage",
+					"name": "Gnomo; lineaje gnomo de las rocas",
 					"source": "XPHB",
 					"_mod": {
 						"entries": {
 							"mode": "replaceArr",
-							"replace": "Gnomish Lineage",
+							"replace": "Lineaje gnomo",
 							"items": {
-								"name": "Gnomish Lineage (Rock Gnome)",
+								"name": "Lineaje gnomo (Gnomo de las rocas)",
 								"type": "entries",
 								"entries": [
-									"You know the {@spell Reparar|XPHB} and {@spell Prestidigitación|XPHB} cantrips. In addition, you can spend 10 minutes casting {@spell Prestidigitación|XPHB} to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from {@spell Prestidigitación|XPHB}; the device produces that effect whenever you or another creature takes a {@variantrule Bonus Action|XPHB} to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a {@action Utilize|XPHB} action."
+									"Conoces los trucos {@spell Prestidigitación|XPHB} y {@spell Reparar|XPHB}. Además, puedes pasar 10 minutos lanzando prestidigitación para crear un dispositivo mecánico Diminuto (CA 5, 1 pg), como un juguete, un encendedor o una caja de música. Cuando crees el dispositivo, determinarás su función eligiendo un efecto de prestidigitación. El dispositivo producirá ese efecto cada vez que otra criatura o tú empleéis una acción adicional para activarlo con un toque. Si el efecto elegido tiene varias opciones, escoges una de ellas para el dispositivo cuando lo crees. Por ejemplo, si eliges el efecto de encender o apagar del conjuro, determinas si el dispositivo enciende o apaga los fuegos: el dispositivo no hace ambas cosas. Puedes tener tres de estos dispositivos activos al mismo tiempo y se desarman 8 horas después de crearlos o cuando los desmontes con un toque como acción de utilizar."
 								]
 							}
 						}

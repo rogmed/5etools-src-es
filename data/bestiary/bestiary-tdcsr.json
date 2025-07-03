@@ -4731,7 +4731,7 @@
 			],
 			"trait": [
 				{
-					"name": "Gnome Cunning",
+					"name": "Gnomo Cunning",
 					"entries": [
 						"Pike has {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on Intelligence, Wisdom, and Charisma {@quickref saving throws|PHB|2|1} against magic."
 					]
@@ -6250,7 +6250,7 @@
 			],
 			"trait": [
 				{
-					"name": "Gnome Cunning",
+					"name": "Gnomo Cunning",
 					"entries": [
 						"Scanlan has {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on Intelligence, Wisdom, and Charisma {@quickref saving throws|PHB|2|1} against magic."
 					]

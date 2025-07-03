@@ -2939,7 +2939,7 @@
 				"source": "MM",
 				"_templates": [
 					{
-						"name": "Deep Gnome",
+						"name": "Deep Gnomo",
 						"source": "DMG"
 					}
 				],
@@ -3407,7 +3407,7 @@
 				"source": "MM",
 				"_templates": [
 					{
-						"name": "Deep Gnome",
+						"name": "Deep Gnomo",
 						"source": "DMG"
 					}
 				],
@@ -3622,7 +3622,7 @@
 				"source": "MM",
 				"_templates": [
 					{
-						"name": "Deep Gnome",
+						"name": "Deep Gnomo",
 						"source": "DMG"
 					}
 				],
@@ -4306,7 +4306,7 @@
 				"source": "MM",
 				"_templates": [
 					{
-						"name": "Deep Gnome",
+						"name": "Deep Gnomo",
 						"source": "DMG"
 					}
 				]
@@ -4468,7 +4468,7 @@
 					]
 				},
 				{
-					"name": "Gnome Cunning",
+					"name": "Gnomo Cunning",
 					"entries": [
 						"The Pudding King has advantage on Intelligence, Wisdom, and Charisma saving throws against magic."
 					]
@@ -4581,7 +4581,7 @@
 				"source": "MM",
 				"_templates": [
 					{
-						"name": "Deep Gnome",
+						"name": "Deep Gnomo",
 						"source": "DMG"
 					}
 				],
@@ -4751,7 +4751,7 @@
 				"source": "MM",
 				"_templates": [
 					{
-						"name": "Deep Gnome",
+						"name": "Deep Gnomo",
 						"source": "DMG"
 					}
 				],

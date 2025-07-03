@@ -1652,7 +1652,7 @@
 			],
 			"trait": [
 				{
-					"name": "Gnome Cunning",
+					"name": "Gnomo Cunning",
 					"entries": [
 						"The gnome has advantage on all Intelligence, Wisdom and Charisma saving throws against magic."
 					]
@@ -7319,7 +7319,7 @@
 			],
 			"trait": [
 				{
-					"name": "Gnome Cunning",
+					"name": "Gnomo Cunning",
 					"entries": [
 						"Skeemo has advantage on Intelligence, Wisdom, and Charisma saving throws against magic."
 					]

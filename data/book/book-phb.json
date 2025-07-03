@@ -958,9 +958,9 @@
 							"entries": [
 								{
 									"type": "entries",
-									"name": "Gnome",
+									"name": "Gnomo",
 									"entries": [
-										"Gnomes don't look like a threat and can quickly disarm suspicion with good humor. The common folk are often curious about gnomes, likely never having seen one before, but they are rarely hostile or fearful."
+										"Gnomos don't look like a threat and can quickly disarm suspicion with good humor. The common folk are often curious about gnomes, likely never having seen one before, but they are rarely hostile or fearful."
 									],
 									"id": "030"
 								}
@@ -1100,7 +1100,7 @@
 								"{@race Dracónido}",
 								"{@race Dwarf}",
 								"{@race Elf}",
-								"{@race Gnome}",
+								"{@race Gnomo}",
 								"{@race Half-Elf}",
 								"{@race Half-Orc}",
 								"{@race Halfling}",
@@ -1390,7 +1390,7 @@
 											"× ({@dice 2d6}) lb."
 										],
 										[
-											"{@race Gnome}",
+											"{@race Gnomo}",
 											"2' 11\"",
 											"+{@dice 2d4}",
 											"35 lb.",
@@ -1542,7 +1542,7 @@
 										],
 										[
 											"Gnomish",
-											"Gnomes",
+											"Gnomos",
 											"Dwarvish"
 										],
 										[
@@ -12325,7 +12325,7 @@
 											"{@deity Kurtulmak|nonhuman}, kobold god of war and mining",
 											"LE",
 											"War",
-											"Gnome skull"
+											"Gnomo skull"
 										],
 										[
 											"{@deity Laogzed|nonhuman}, troglodyte god of hunger",

@@ -1132,7 +1132,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Arms of Hadar",
+			"name": "Brazos de Hadar",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -2200,7 +2200,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Calm Emotions",
+			"name": "Calmar emociones",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -4100,7 +4100,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Detect Thoughts",
+			"name": "Detectar pensamientos",
 			"source": "XPHB",
 			"activities": [
 				{

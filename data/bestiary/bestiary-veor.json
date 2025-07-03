@@ -108,7 +108,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell Detect Thoughts}",
+							"{@spell Detectar pensamientos}",
 							"{@spell Dispel Magic}",
 							"{@spell Tongues}"
 						],
@@ -4992,7 +4992,7 @@
 						"Strahd casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 18}):"
 					],
 					"will": [
-						"{@spell Detect Thoughts}",
+						"{@spell Detectar pensamientos}",
 						"{@spell Fog Cloud}",
 						"{@spell Mage Hand}"
 					],

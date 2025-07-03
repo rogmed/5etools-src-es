@@ -971,10 +971,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Arms of Hadar",
-			"originalname": "",
+			"name": "Brazos de Hadar",
+			"originalname": "Arms of Hadar",
 			"source": "XPHB",
-			"page": 243,
+			"page": 249,
 			"level": 1,
 			"school": "C",
 			"time": [
@@ -1000,14 +1000,14 @@
 				}
 			],
 			"entries": [
-				"Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from you makes a Strength saving throw. On a failed save, a target takes {@damage 2d6} Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only."
+				"Invocas a Hadar y unas extremidades surgen de ti. Todas las criaturas en una emanación de 10 pies (3 m) que se origina en ti deben hacer una tirada de salvación de Fuerza. Si la fallan, sufrirán {@damage 2d6} de daño necrótico y no podrán llevar a cabo reacciones hasta el principio de su siguiente turno. Si la superan, solamente recibirán la mitad de ese daño."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 2d6|1-9|1d6} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 2d6|1-9|1d6} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -2400,10 +2400,10 @@
 			]
 		},
 		{
-			"name": "Calm Emotions",
-			"originalname": "",
+			"name": "Calmar emociones",
+			"originalname": "Calm Emotions",
 			"source": "XPHB",
-			"page": 249,
+			"page": 251,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -2436,12 +2436,13 @@
 				}
 			],
 			"entries": [
+				"Cada humanoide en una esfera de 20 pies (6 m) de radio centrada en un punto que elijas dentro del alcance deberá superar una tirada de salvación de Carisma o se verá afectado por uno de los siguientes efectos (elige uno por cada criatura):",
 				"Each Humanoid in a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):",
 				{
 					"type": "list",
 					"items": [
-						"The creature has {@variantrule Immunity|XPHB} to the {@condition Hechizado|XPHB} and {@condition Asustado|XPHB} conditions until the spell ends. If the creature was already {@condition Hechizado|XPHB} or {@condition Asustado|XPHB}, those conditions are suppressed for the duration.",
-						"The creature becomes {@variantrule Indifferent [Attitude]|XPHB|Indifferent} about creatures of your choice that it's {@variantrule Hostile [Attitude]|XPHB|Hostile} toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal."
+						"La criatura tiene inmunidad a los estados de {@condition Asustado|XPHB} y {@condition Hechizado|XPHB} hasta que el conjuro termine. Si la criatura ya estaba asustada o hechizada, se suprimen esos estados hasta que el conjuro termine.",
+						"La criatura se vuelve {@variantrule Indifferent [Attitude]|XPHB|Indiferente} hacia las criaturas de tu elección hacia las que sea {@variantrule Hostile [Attitude]|XPHB|Hostil}. Esta indiferencia termina si el objetivo recibe daño o si observa cómo alguno de sus aliados resulta dañado. Cuando el conjuro termine, la actitud de la criatura volverá a la normalidad."
 					]
 				}
 			],
@@ -5885,10 +5886,10 @@
 			]
 		},
 		{
-			"name": "Dissonant Whispers",
-			"originalname": "",
+			"name": "Susurros discordantes",
+			"originalname": "Dissonant Whispers",
 			"source": "XPHB",
-			"page": 264,
+			"page": 334,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -5915,14 +5916,14 @@
 				}
 			],
 			"entries": [
-				"One creature of your choice that you can see within range hears a discordant melody in its mind. The target makes a Wisdom saving throw. On a failed save, it takes {@damage 3d6} Psychic damage and must immediately use its {@variantrule Reaction|XPHB}, if available, to move as far away from you as it can, using the safest route. On a successful save, the target takes half as much damage only."
+				"Una criatura de tu elección que puedas ver dentro del alcance oye una melodía discordante en su mente. El objetivo hace una tirada de salvación de Sabiduría. Si la falla, recibirá {@damage 3d6} de daño psíquico y deberá utilizar su reacción inmediatamente, si es posible, para alejarse de ti tanto como pueda por la ruta más segura. Si supera la tirada, solo sufrirá la mitad de ese daño."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 3d6|1-9|1d6} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 3d6|1-9|1d6} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],

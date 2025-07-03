@@ -4186,7 +4186,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Calm Emotions|XPHB}, {@spell Fuego feérico|XPHB}, {@spell Misty Step|XPHB}, {@spell Phantasmal Force|XPHB}, {@spell Sleep|XPHB}"
+							"{@spell Calmar emociones|XPHB}, {@spell Fuego feérico|XPHB}, {@spell Misty Step|XPHB}, {@spell Phantasmal Force|XPHB}, {@spell Sleep|XPHB}"
 						],
 						[
 							"5",
@@ -4628,7 +4628,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Detect Thoughts|XPHB}, {@spell Dissonant Whispers|XPHB}, {@spell Phantasmal Force|XPHB}, {@spell Tasha's Hideous Laughter|XPHB}"
+							"{@spell Detectar pensamientos|XPHB}, {@spell Susurros discordantes|XPHB}, {@spell Phantasmal Force|XPHB}, {@spell Tasha's Hideous Laughter|XPHB}"
 						],
 						[
 							"5",

@@ -27,7 +27,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -164,7 +164,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -363,7 +363,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "genasi",
@@ -479,7 +479,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -633,7 +633,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "halfling",
@@ -698,7 +698,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -882,7 +882,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -1210,7 +1210,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -1365,7 +1365,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -1477,7 +1477,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -1504,7 +1504,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "genasi",
@@ -1563,7 +1563,7 @@
 				"source": "MM"
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -1582,7 +1582,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "gnome",
@@ -1705,7 +1705,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "elfo",
@@ -1895,7 +1895,7 @@
 				"source": "MM"
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -2014,7 +2014,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"any race"
 				]
@@ -2112,7 +2112,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -2146,7 +2146,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-orc"
 				]
@@ -2275,7 +2275,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -2301,7 +2301,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -2542,7 +2542,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-orc"
 				]
@@ -2653,7 +2653,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -2851,7 +2851,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -2971,7 +2971,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"tiefling"
 				]
@@ -3135,7 +3135,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -3348,7 +3348,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -3366,7 +3366,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "human",
@@ -3531,7 +3531,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-elf"
 				]
@@ -3841,7 +3841,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -4125,7 +4125,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"tiefling"
 				]
@@ -4289,7 +4289,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "halfling",
@@ -4457,7 +4457,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-elf"
 				]
@@ -4556,7 +4556,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "halfling",
@@ -4726,7 +4726,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -4952,7 +4952,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -5122,7 +5122,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -5249,7 +5249,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-elf"
 				]
@@ -5391,7 +5391,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -5504,7 +5504,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -5674,7 +5674,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -5860,7 +5860,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -5995,7 +5995,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -6105,7 +6105,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "human",
@@ -6215,7 +6215,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -6312,7 +6312,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -6428,7 +6428,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -6642,7 +6642,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "human",
@@ -6750,7 +6750,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dragonborn"
 				]
@@ -6919,7 +6919,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "human",
@@ -7061,7 +7061,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"halfling",
 					"shapechanger"
@@ -7209,7 +7209,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"gnome"
 				]
@@ -7380,7 +7380,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -7548,7 +7548,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"tiefling"
 				]
@@ -7832,7 +7832,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-elf"
 				]
@@ -7915,7 +7915,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -8032,7 +8032,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -8049,7 +8049,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -8133,7 +8133,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dragonborn"
 				]
@@ -8232,7 +8232,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"tiefling"
 				]
@@ -8396,7 +8396,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "human",
@@ -8531,7 +8531,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -8751,7 +8751,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dragonborn"
 				]
@@ -8901,7 +8901,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-elf"
 				]
@@ -9372,7 +9372,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-orc"
 				]
@@ -9494,7 +9494,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "human",
@@ -9585,7 +9585,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-orc"
 				]
@@ -9699,7 +9699,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "halfling",
@@ -9835,7 +9835,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-orc"
 				]

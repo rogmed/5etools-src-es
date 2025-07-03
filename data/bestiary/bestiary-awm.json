@@ -206,7 +206,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"merfolk"
 				]
@@ -380,7 +380,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"goblinoid"
 				]
@@ -460,7 +460,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"Enano"
 				]

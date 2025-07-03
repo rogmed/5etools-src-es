@@ -200,7 +200,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo",
 					"hechicero"
@@ -372,7 +372,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -750,7 +750,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -1369,7 +1369,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"goliath",
 					"hechicero"
@@ -1404,7 +1404,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"gnome",
 					"hechicero"
@@ -1427,7 +1427,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"ranger",
 					{
@@ -1571,7 +1571,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"ranger",
 					{
@@ -1723,7 +1723,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"ranger",
 					{
@@ -2260,7 +2260,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"cleric",
 					"goblin",
@@ -2399,7 +2399,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"cleric",
 					"goblin",
@@ -2540,7 +2540,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"cleric",
 					"goblin",
@@ -2760,7 +2760,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo",
 					"hechicero"
@@ -2904,7 +2904,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"drow",
 					"elfo",
@@ -3037,7 +3037,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"drow",
 					"elfo",
@@ -3182,7 +3182,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"drow",
 					"elfo",
@@ -3394,7 +3394,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"goblin",
 					"wizard"
@@ -3417,7 +3417,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"wizard"
 				]
@@ -3564,7 +3564,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -3666,7 +3666,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -3767,7 +3767,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -3908,7 +3908,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo",
 					"wizard"
@@ -3943,7 +3943,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human",
 					"monk",
@@ -4007,7 +4007,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-elf"
 				]
@@ -4708,7 +4708,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"monk",
 					"wizard"
@@ -4846,7 +4846,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"monk"
 				]
@@ -5001,7 +5001,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"monk"
 				]
@@ -5141,7 +5141,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"hechicero"
 				]
@@ -5268,7 +5268,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"hechicero"
 				]
@@ -5378,7 +5378,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"hechicero"
 				]
@@ -5520,7 +5520,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"N",
 				"G"
@@ -5683,7 +5683,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"tiefling",
 					"wizard"
@@ -5791,7 +5791,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"wizard"
 				]
@@ -5888,7 +5888,7 @@
 				"S",
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"A"
 			],
@@ -5987,7 +5987,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"wizard"
 				]
@@ -6136,7 +6136,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"kenku",
 					"wizard"
@@ -6251,7 +6251,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -6698,7 +6698,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"drow",
 					"elfo"

@@ -4909,7 +4909,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"derro"
 				]
@@ -5028,7 +5028,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"derro"
 				]
@@ -5515,7 +5515,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -5773,7 +5773,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -6025,7 +6025,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -6214,7 +6214,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -6487,7 +6487,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -6807,7 +6807,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -6999,7 +6999,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -7307,7 +7307,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -7453,7 +7453,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -7727,7 +7727,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -7880,7 +7880,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -8017,7 +8017,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -8178,7 +8178,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -10072,7 +10072,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"L",
 				"N"
@@ -10204,7 +10204,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"gith"
 				]
@@ -10400,7 +10400,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"gith"
 				]
@@ -10551,7 +10551,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"gith"
 				]
@@ -10718,7 +10718,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"gith"
 				]
@@ -10883,7 +10883,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"gith"
 				]
@@ -11027,7 +11027,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -13739,7 +13739,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"meazel"
 				]
@@ -14891,7 +14891,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"nagpa"
 				]
@@ -17777,7 +17777,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -18265,7 +18265,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"C",
 				"N"
@@ -18635,7 +18635,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -21585,7 +21585,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"tortle"
 				]
@@ -21709,7 +21709,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"tortle"
 				]

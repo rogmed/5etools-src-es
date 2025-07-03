@@ -9326,7 +9326,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"A"
 			],
@@ -9453,7 +9453,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"A"
 			],
@@ -9556,7 +9556,7 @@
 			"size": [
 				"S"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"A"
 			],
@@ -10121,7 +10121,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"L",
 				"G"
@@ -10245,7 +10245,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"N"
 			],
@@ -10401,7 +10401,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"C",
 				"E"

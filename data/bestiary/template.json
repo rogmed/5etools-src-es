@@ -16,7 +16,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"aarakocra"
 						]
@@ -70,7 +70,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"bullywug"
 						]
@@ -121,7 +121,7 @@
 						"S"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							{
 								"tag": "gnome",
@@ -257,7 +257,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"dragonborn"
 						]
@@ -286,7 +286,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"dragonborn"
 						]
@@ -315,7 +315,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"drow",
 							"elfo"
@@ -394,7 +394,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							{
 								"tag": "dwarf",
@@ -481,7 +481,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"firbolg"
 						]
@@ -986,7 +986,7 @@
 						"S"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"goblinoid"
 						]
@@ -1031,7 +1031,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"goliath"
 						]
@@ -1081,7 +1081,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"half-elf"
 						]
@@ -1126,7 +1126,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"half-orc"
 						]
@@ -1177,7 +1177,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							{
 								"tag": "elfo",
@@ -1231,7 +1231,7 @@
 						"mode": "setProp",
 						"prop": "apply._root.type",
 						"value": {
-							"type": "humanoid",
+							"type": "humanoide",
 							"tags": [
 								{
 									"tag": "dwarf",
@@ -1717,7 +1717,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"human"
 						]
@@ -1736,7 +1736,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"kenku"
 						]
@@ -1774,7 +1774,7 @@
 						"S"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"kobold"
 						]
@@ -2347,7 +2347,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"lizardfolk"
 						]
@@ -2388,7 +2388,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"merfolk"
 						]
@@ -2428,7 +2428,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							{
 								"tag": "dwarf",
@@ -2481,7 +2481,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"orc"
 						]
@@ -2639,7 +2639,7 @@
 						"S"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							{
 								"tag": "gnome",
@@ -2688,7 +2688,7 @@
 						"mode": "setProp",
 						"prop": "apply._root.type",
 						"value": {
-							"type": "humanoid",
+							"type": "humanoide",
 							"tags": [
 								{
 									"tag": "dwarf",
@@ -2759,7 +2759,7 @@
 						"S"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							{
 								"tag": "halfling",
@@ -2807,7 +2807,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"tabaxi"
 						]
@@ -2859,7 +2859,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"tiefling"
 						]
@@ -2962,7 +2962,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							{
 								"tag": "genasi",
@@ -3005,7 +3005,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							{
 								"tag": "elfo",
@@ -3068,7 +3068,7 @@
 						"M"
 					],
 					"type": {
-						"type": "humanoid",
+						"type": "humanoide",
 						"tags": [
 							"yuan-ti"
 						]

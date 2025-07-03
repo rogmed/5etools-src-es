@@ -30,7 +30,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"half-orc",
 					"shapechanger"
@@ -159,7 +159,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -267,7 +267,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -489,7 +489,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"gnome"
 				]

@@ -35,7 +35,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -634,7 +634,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -792,7 +792,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"derro"
 				]
@@ -980,7 +980,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"derro"
 				]
@@ -1442,7 +1442,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -1589,7 +1589,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -1883,7 +1883,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -2113,7 +2113,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -2315,7 +2315,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					{
 						"tag": "human",
@@ -3134,7 +3134,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -3213,7 +3213,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -3436,7 +3436,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"derro"
 				]
@@ -3933,7 +3933,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -3985,7 +3985,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -4326,7 +4326,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"gnome",
 					"shapechanger"
@@ -4610,7 +4610,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"troglodyte"
 				]
@@ -5029,7 +5029,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -5545,7 +5545,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]

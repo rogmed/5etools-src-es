@@ -1811,7 +1811,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human",
 					"wizard"
@@ -2890,7 +2890,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo",
 					"wizard"
@@ -3927,7 +3927,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"N",
 				"E"
@@ -4411,7 +4411,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]

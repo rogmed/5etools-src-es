@@ -470,7 +470,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"L",
 				"G"
@@ -579,7 +579,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"C",
 				"G"
@@ -677,7 +677,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"C",
 				"N"
@@ -1212,7 +1212,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -1783,7 +1783,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"L",
 				"G"
@@ -2315,7 +2315,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"C",
 				"N"
@@ -3407,7 +3407,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human",
 					"hechicero"
@@ -3921,7 +3921,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"A"
 			],
@@ -4018,7 +4018,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"A"
 			],
@@ -4513,7 +4513,7 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": "humanoide",
 			"alignment": [
 				"C",
 				"G"

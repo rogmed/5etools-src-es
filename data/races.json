@@ -11,7 +11,7 @@
 			"page": 186,
 			"edition": "one",
 			"creatureTypes": [
-				"humanoid"
+				"humanoide"
 			],
 			"size": [
 				"S",
@@ -35,7 +35,7 @@
 			],
 			"sizeEntry": {
 				"type": "item",
-				"name": "Size:",
+				"name": "Tamaño:",
 				"entries": [
 					"Mediano (entre 1,2 y 2,1 m de altura) o Pequeño (entre 60 cm y 1,2 m de altura), elegido al seleccionar la especie"
 				]
@@ -117,7 +117,7 @@
 			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
-				"humanoid"
+				"humanoide"
 			],
 			"size": [
 				"M"
@@ -126,7 +126,7 @@
 			"darkvision": 60,
 			"sizeEntry": {
 				"type": "item",
-				"name": "Size:",
+				"name": "Tamaño:",
 				"entries": [
 					"Mediano (entre 1,5 y 2,1 m de altura)"
 				]
@@ -365,7 +365,7 @@
 			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
-				"humanoid"
+				"humanoide"
 			],
 			"size": [
 				"M"
@@ -377,7 +377,7 @@
 			],
 			"sizeEntry": {
 				"type": "item",
-				"name": "Size:",
+				"name": "Tamaño:",
 				"entries": [
 					"Mediano (entre 1,2 y 1,5 m de altura)"
 				]
@@ -424,7 +424,7 @@
 			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
-				"humanoid"
+				"humanoide"
 			],
 			"size": [
 				"M"
@@ -543,7 +543,7 @@
 			],
 			"sizeEntry": {
 				"type": "item",
-				"name": "Size:",
+				"name": "Tamaño:",
 				"entries": [
 					"Mediano (entre 1,5 y 1,8 m de altura)"
 				]
@@ -795,7 +795,7 @@
 			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
-				"humanoid"
+				"humanoide"
 			],
 			"size": [
 				"S"
@@ -804,7 +804,7 @@
 			"darkvision": 60,
 			"sizeEntry": {
 				"type": "item",
-				"name": "Size:",
+				"name": "Tamaño:",
 				"entries": [
 					"Pequeño (entre 90 cm y 1,2 m de altura)"
 				]
@@ -940,7 +940,7 @@
 			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
-				"humanoid"
+				"humanoide"
 			],
 			"size": [
 				"M"
@@ -951,9 +951,9 @@
 			],
 			"sizeEntry": {
 				"type": "item",
-				"name": "Size:",
+				"name": "Tamaño:",
 				"entries": [
-					"Medium (about 7-8 feet tall)"
+					"Mediano (entre 2,1 y 2,4 m de altura)"
 				]
 			},
 			"entries": [
@@ -1219,7 +1219,7 @@
 			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
-				"humanoid"
+				"humanoide"
 			],
 			"size": [
 				"S"
@@ -1227,7 +1227,7 @@
 			"speed": 30,
 			"sizeEntry": {
 				"type": "item",
-				"name": "Size:",
+				"name": "Tamaño:",
 				"entries": [
 					"Small (about 2-3 feet tall)"
 				]
@@ -1273,7 +1273,7 @@
 			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
-				"humanoid"
+				"humanoide"
 			],
 			"size": [
 				"S",
@@ -1297,7 +1297,7 @@
 			],
 			"sizeEntry": {
 				"type": "item",
-				"name": "Size:",
+				"name": "Tamaño:",
 				"entries": [
 					"Medium (about 4-7 feet tall) or Small (about 2-4 feet tall), chosen when you select this species"
 				]
@@ -1335,7 +1335,7 @@
 			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
-				"humanoid"
+				"humanoide"
 			],
 			"size": [
 				"M"
@@ -1344,7 +1344,7 @@
 			"darkvision": 120,
 			"sizeEntry": {
 				"type": "item",
-				"name": "Size:",
+				"name": "Tamaño:",
 				"entries": [
 					"Medium (about 6-7 feet tall)"
 				]
@@ -1384,7 +1384,7 @@
 			"basicRules2024": true,
 			"edition": "one",
 			"creatureTypes": [
-				"humanoid"
+				"humanoide"
 			],
 			"size": [
 				"S",
@@ -1410,7 +1410,7 @@
 			],
 			"sizeEntry": {
 				"type": "item",
-				"name": "Size:",
+				"name": "Tamaño:",
 				"entries": [
 					"Medium (about 4-7 feet tall) or Small (about 3-4 feet tall), chosen when you select this species"
 				]

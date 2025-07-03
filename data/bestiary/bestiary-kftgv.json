@@ -60,7 +60,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"halfling"
 				]
@@ -89,7 +89,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"halfling"
 				]
@@ -118,7 +118,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"halfling"
 				]
@@ -879,7 +879,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -908,7 +908,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -937,7 +937,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -1072,7 +1072,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -1102,7 +1102,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -1132,7 +1132,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -1420,7 +1420,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human",
 					"warlock"
@@ -1567,7 +1567,7 @@
 				"source": "MM"
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -1608,7 +1608,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -1638,7 +1638,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"elfo"
 				]
@@ -1660,7 +1660,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf",
 					"monk"
@@ -1859,7 +1859,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -1889,7 +1889,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -1919,7 +1919,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"human"
 				]
@@ -1940,7 +1940,7 @@
 				"M"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"bard",
 					"tiefling"
@@ -2165,7 +2165,7 @@
 				"S"
 			],
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"gnome"
 				]
@@ -2357,7 +2357,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -2387,7 +2387,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -2417,7 +2417,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"dwarf"
 				]
@@ -2447,7 +2447,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"orc"
 				]
@@ -2476,7 +2476,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"orc"
 				]
@@ -2505,7 +2505,7 @@
 				}
 			},
 			"type": {
-				"type": "humanoid",
+				"type": "humanoide",
 				"tags": [
 					"orc"
 				]

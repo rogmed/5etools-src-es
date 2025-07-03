@@ -2655,7 +2655,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [
@@ -2716,7 +2716,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [
@@ -4289,7 +4289,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				],
 				"sidekickType": "expert"
 			},
@@ -5782,7 +5782,7 @@
 			"type": {
 				"type": "undead",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [
@@ -7396,7 +7396,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [

@@ -2033,13 +2033,13 @@
 										[
 											"Shadow",
 											"Phiarlan",
-											"Elf",
+											"Elfo",
 											"Entertainment, espionage"
 										],
 										[
 											"",
 											"Thuranni",
-											"Elf",
+											"Elfo",
 											"Entertainment, assassination"
 										],
 										[
@@ -2051,7 +2051,7 @@
 										[
 											"Warding",
 											"Kundarak",
-											"Dwarf",
+											"Enano",
 											"Banking, storage, prisons"
 										]
 									]
@@ -19326,11 +19326,11 @@
 										],
 										[
 											"2-4",
-											"Dwarf"
+											"Enano"
 										],
 										[
 											"5-6",
-											"Elf"
+											"Elfo"
 										],
 										[
 											"7",

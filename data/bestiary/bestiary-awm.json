@@ -453,7 +453,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Dwarf",
+			"name": "Enano",
 			"source": "AWM",
 			"page": 32,
 			"size": [
@@ -462,7 +462,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"Dwarf"
+					"Enano"
 				]
 			},
 			"alignment": [

@@ -1829,7 +1829,7 @@
 				"type": "humanoid",
 				"tags": [
 					{
-						"tag": "elf",
+						"tag": "elfo",
 						"prefix": "Dusk"
 					}
 				]
@@ -2775,7 +2775,7 @@
 				"type": "humanoid",
 				"tags": [
 					{
-						"tag": "elf",
+						"tag": "elfo",
 						"prefix": "Dusk"
 					}
 				]
@@ -3081,7 +3081,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [
@@ -3509,7 +3509,7 @@
 				"type": "humanoid",
 				"tags": [
 					{
-						"tag": "elf",
+						"tag": "elfo",
 						"prefix": "Dusk"
 					}
 				]

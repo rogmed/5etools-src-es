@@ -202,7 +202,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf",
+					"elfo",
 					"hechicero"
 				]
 			},
@@ -2762,7 +2762,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf",
+					"elfo",
 					"hechicero"
 				]
 			},
@@ -2907,7 +2907,7 @@
 				"type": "humanoid",
 				"tags": [
 					"drow",
-					"elf",
+					"elfo",
 					"wizard"
 				]
 			},
@@ -3040,7 +3040,7 @@
 				"type": "humanoid",
 				"tags": [
 					"drow",
-					"elf",
+					"elfo",
 					"wizard"
 				]
 			},
@@ -3185,7 +3185,7 @@
 				"type": "humanoid",
 				"tags": [
 					"drow",
-					"elf",
+					"elfo",
 					"wizard"
 				]
 			},
@@ -3910,7 +3910,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf",
+					"elfo",
 					"wizard"
 				]
 			},
@@ -6701,7 +6701,7 @@
 				"type": "humanoid",
 				"tags": [
 					"drow",
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [

@@ -355,7 +355,7 @@ globalThis.StrUtil = class {
 		"efreeti": "efreet",
 		"el'tael": "el'tael",
 		"eladrin": "eladrin",
-		"elf": "elves",
+		"elfo": "elves",
 		"erinyes": "erinyes",
 		"fey": "fey",
 		"foot": "feet",
@@ -3738,7 +3738,7 @@ UrlUtil.PG_TO_NAME[UrlUtil.PG_CONDITIONS_DISEASES] = "Conditions & Diseases";
 UrlUtil.PG_TO_NAME[UrlUtil.PG_FEATS] = "Feats";
 UrlUtil.PG_TO_NAME[UrlUtil.PG_OPT_FEATURES] = "Other Options and Features";
 UrlUtil.PG_TO_NAME[UrlUtil.PG_PSIONICS] = "Psionics";
-UrlUtil.PG_TO_NAME[UrlUtil.PG_RACES] = "Especies";
+UrlUtil.PG_TO_NAME[UrlUtil.PG_RACES] = "Species";
 UrlUtil.PG_TO_NAME[UrlUtil.PG_REWARDS] = "Supernatural Gifts & Rewards";
 UrlUtil.PG_TO_NAME[UrlUtil.PG_VARIANTRULES] = "Rules Glossary";
 UrlUtil.PG_TO_NAME[UrlUtil.PG_ADVENTURES] = "Adventures";

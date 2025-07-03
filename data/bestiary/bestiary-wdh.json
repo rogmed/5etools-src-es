@@ -884,7 +884,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [
@@ -1212,7 +1212,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [
@@ -1708,7 +1708,7 @@
 				"type": "humanoid",
 				"tags": [
 					{
-						"tag": "elf",
+						"tag": "elfo",
 						"prefix": "Wood"
 					}
 				]
@@ -3137,7 +3137,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [
@@ -6430,7 +6430,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [
@@ -7382,7 +7382,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [

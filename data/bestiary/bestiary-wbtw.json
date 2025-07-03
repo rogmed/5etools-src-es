@@ -170,7 +170,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [
@@ -3398,7 +3398,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf",
+					"elfo",
 					"shadar-kai"
 				]
 			},
@@ -3551,7 +3551,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf",
+					"elfo",
 					"shadar-kai"
 				]
 			},
@@ -3943,7 +3943,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [
@@ -4234,7 +4234,7 @@
 			"type": {
 				"type": "humanoid",
 				"tags": [
-					"elf"
+					"elfo"
 				]
 			},
 			"alignment": [

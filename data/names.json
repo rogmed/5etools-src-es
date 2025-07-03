@@ -776,7 +776,7 @@
 			]
 		},
 		{
-			"name": "Dwarf",
+			"name": "Enano",
 			"source": "XGE",
 			"page": 176,
 			"tables": [
@@ -1617,7 +1617,7 @@
 			]
 		},
 		{
-			"name": "Elf",
+			"name": "Elfo",
 			"source": "XGE",
 			"page": 176,
 			"tables": [

@@ -185,12 +185,12 @@ function rollOnArray (lst) {
 	return lst[RNG(lst.length) - 1];
 }
 
-const RACES_SELECTABLE = ["Dwarf", "Elf", "Half-Elf", "Half-Orc", "Tiefling"];
+const RACES_SELECTABLE = ["Enano", "Elfo", "Half-Elf", "Half-Orc", "Tiefling"];
 const RACES_UNSELECTABLE = ["Human", "Halfling", "Dracónido", "Gnome"];
 
 const PARENTS_HALF_ELF = [
-	{min: 1, max: 5, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was an elf and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a human.`; }, display: "One parent was an elf and the other was a human.", _races: ["Elf", "Human"]},
-	{min: 6, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was an elf and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a half-elf.`; }, display: "One parent was an elf and the other was a half-elf.", _races: ["Elf", "Half-Elf"]},
+	{min: 1, max: 5, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was an elf and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a human.`; }, display: "One parent was an elf and the other was a human.", _races: ["Elfo", "Human"]},
+	{min: 6, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was an elf and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a half-elf.`; }, display: "One parent was an elf and the other was a half-elf.", _races: ["Elfo", "Half-Elf"]},
 	{min: 7, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was a human and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a half-elf.`; }, display: "One parent was a human and the other was a half-elf.", _races: ["Half-Elf", "Human"]},
 	{min: 8, result: "Both parents were half-elves.", _races: ["Half-Elf", "Half-Elf"]},
 ];
@@ -529,8 +529,8 @@ const SUPP_OCCUPATION = [
 
 const SUPP_RACE = [
 	{min: 1, max: 40, result: "Human"},
-	{min: 41, max: 50, result: "Dwarf"},
-	{min: 51, max: 60, result: "Elf"},
+	{min: 41, max: 50, result: "Enano"},
+	{min: 51, max: 60, result: "Elfo"},
 	{min: 61, max: 70, result: "Halfling"},
 	{min: 71, max: 75, result: "Dracónido"},
 	{min: 76, max: 80, result: "Gnome"},
@@ -609,7 +609,7 @@ function onJsonLoad (lifeData, nameData) {
 		.forEach(nameMeta => {
 			nameTables[Parser.stringToSlug(nameMeta.name)] = nameMeta;
 
-			if (nameMeta.name === "Elf" || nameMeta.name === "Human") {
+			if (nameMeta.name === "Elfo" || nameMeta.name === "Human") {
 				const cpy = MiscUtil.copy(nameMeta);
 				if (nameTables["halfelf"]) nameTables["halfelf"].tables.push(...cpy.tables);
 				else nameTables["halfelf"] = cpy;
@@ -765,7 +765,7 @@ async function pSectSiblings () {
 			sibCount = RNG(8) + 3;
 			break;
 	}
-	if (race === "Elf" || race === "Dwarf") {
+	if (race === "Elfo" || race === "Enano") {
 		sibCount = Math.max(sibCount - 2, 0);
 	}
 

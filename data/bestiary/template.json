@@ -318,7 +318,7 @@
 						"type": "humanoid",
 						"tags": [
 							"drow",
-							"elf"
+							"elfo"
 						]
 					}
 				},
@@ -1180,7 +1180,7 @@
 						"type": "humanoid",
 						"tags": [
 							{
-								"tag": "elf",
+								"tag": "elfo",
 								"prefix": "High"
 							}
 						]
@@ -3008,7 +3008,7 @@
 						"type": "humanoid",
 						"tags": [
 							{
-								"tag": "elf",
+								"tag": "elfo",
 								"prefix": "Wood"
 							}
 						]

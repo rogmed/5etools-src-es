@@ -358,7 +358,7 @@
 			]
 		},
 		{
-			"name": "Dwarf",
+			"name": "Enano",
 			"source": "XPHB",
 			"page": 190,
 			"srd52": true,
@@ -385,31 +385,31 @@
 			"entries": [
 				{
 					"type": "entries",
+					"name": "Afinidad con la piedra",
+					"entries": [
+						"Como acción adicional, ganas la capacidad de sentir vibraciones con un alcance de 60 pies (18 m) durante 10 minutos. Debes encontrarte sobre una superficie de piedra o en contacto con una superficie de piedra para usar esta capacidad. La piedra puede ser natural o labrada.",
+						"Puedes usar esta acción adicional una cantidad de veces igual a tu bonificador por competencia y recuperas todos los usos tras finalizar un descanso largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Aguante enano",
+					"entries": [
+						"Tus puntos de golpe máximos se incrementan en 1 y aumentarán en 1 más cada vez que subas un nivel."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resistencia enana",
+					"entries": [
+						"Tienes resistencia al daño de veneno. También tienes ventaja en las tiradas de salvación para evitar o poner fin al estado de {@condition Envenenado|XPHB}."
+					]
+				},
+				{
+					"type": "entries",
 					"name": "Visión en la oscuridad",
 					"entries": [
 						"Tienes visión en la oscuridad hasta 120 pies (36 m)."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Dwarven Resilience",
-					"entries": [
-						"You have {@variantrule Resistance|XPHB} to Poison damage. You also have {@variantrule Advantage|XPHB} on saving throws you make to avoid or end the {@condition Envenenado|XPHB} condition."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Dwarven Toughness",
-					"entries": [
-						"Your {@variantrule Hit Points|XPHB|Hit Point} maximum increases by 1, and it increases by 1 again whenever you gain a level."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Stonecunning",
-					"entries": [
-						"As a {@variantrule Bonus Action|XPHB}, you gain {@sense Tremorsense|XPHB} with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this {@sense Tremorsense|XPHB}. The stone can be natural or worked.",
-						"You can use this {@variantrule Bonus Action|XPHB} a number of times equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
 					]
 				}
 			],
@@ -417,9 +417,9 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Elf",
+			"name": "Elfo",
 			"source": "XPHB",
-			"page": 189,
+			"page": 188,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
@@ -545,32 +545,25 @@
 				"type": "item",
 				"name": "Size:",
 				"entries": [
-					"Medium (about 5-6 feet tall)"
+					"Mediano (entre 1,5 y 1,8 m de altura)"
 				]
 			},
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Visión en la oscuridad",
+					"name": "Linaje élfico",
 					"entries": [
-						"Tienes visión en la oscuridad hasta 60 pies (18 m)."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Elven Lineage",
-					"entries": [
-						"You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.",
-						"When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a {@variantrule Long Rest|XPHB}. You can also cast the spell using any spell slots you have of the appropriate level.",
-						"Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).",
+						"Formas parte de un linaje que te otorga capacidades sobrenaturales. Elige un linaje de la tabla “Linajes élficos”. Obtienes el beneficio de nivel 1 de ese linaje.",
+						"Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo de esta forma tras finalizar un descanso largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro que tengas del nivel apropiado.",
+						"La Inteligencia, la Sabiduría o el Carisma es tu aptitud mágica para los conjuros que lances con este atributo (elige la característica al seleccionar el linaje).",
 						{
 							"type": "table",
-							"caption": "Elven Lineages",
+							"caption": "LINAJES ÉLFICOS",
 							"colLabels": [
-								"Lineage",
-								"Level 1",
-								"Level 3",
-								"Level 5"
+								"Lineaje",
+								"Nivel 1",
+								"Nivel 3",
+								"Nivel 5"
 							],
 							"colStyles": [
 								"col-2",
@@ -580,22 +573,22 @@
 							],
 							"rows": [
 								[
+									"Alto elfo",
+									"Conoces el truco {@spell Prestidigitación|XPHB}. Tras finalizar un descanso largo, puedes sustituir ese truco por {@filter otro truco|spells|level=0|class=Wizard} diferente de la lista de conjuros de mago.",
+									"{@spell Detectar magia|XPHB}",
+									"{@spell Paso brumoso|XPHB}"
+								],
+								[
 									"Drow",
-									"The range of your Visión en la oscuridad increases to 120 feet. You also know the {@spell Luces danzantes|XPHB} cantrip.",
+									"El alcance de tu visión en la oscuridad aumenta a 120 pies (36 m). También conoces el truco {@spell Luces danzantes|XPHB}.",
 									"{@spell Fuego feérico|XPHB}",
-									"{@spell Darkness|XPHB}"
+									"{@spell Oscuridad|XPHB}"
 								],
 								[
-									"High Elf",
-									"You know the {@spell Prestidigitación|XPHB} cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different {@filter cantrip from the Wizard spell list|spells|level=0|class=Wizard}.",
-									"{@spell Detect Magic|XPHB}",
-									"{@spell Misty Step|XPHB}"
-								],
-								[
-									"Wood Elf",
-									"Your Speed increases to 35 feet. You also know the {@spell Druidcraft|XPHB} cantrip.",
-									"{@spell Longstrider|XPHB}",
-									"{@spell Pass without Trace|XPHB}"
+									"Elfo de los bosques",
+									"Tu velocidad aumenta a 35 pies (10,5 m). También conoces el truco {@spell Saber druídico.|XPHB}.",
+									"{@spell Zancada prodigiosa|XPHB}",
+									"{@spell Pasar sin rastro|XPHB}"
 								]
 							]
 						}
@@ -603,23 +596,30 @@
 				},
 				{
 					"type": "entries",
-					"name": "Fey Ancestry",
+					"name": "Linaje feérico",
 					"entries": [
-						"You have {@variantrule Advantage|XPHB} on saving throws you make to avoid or end the {@condition Hechizado|XPHB} condition."
+						"Tienes ventaja en las tiradas de salvación para evitar o poner fin al estado de {@condition Hechizado|XPHB}."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Keen Senses",
+					"name": "Sentidos agudos",
 					"entries": [
-						"You have proficiency in the {@skill Insight|XPHB}, {@skill Perception|XPHB}, or {@skill Survival|XPHB} skill."
+						"Tienes competencia en la habilidad de {@skill Percepción|XPHB}, {@skill Perspicacia|XPHB} o {@skill Supervivencia|XPHB}."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Trance",
 					"entries": [
-						"You don't need to sleep, and magic can't put you to sleep. You can finish a {@variantrule Long Rest|XPHB} in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness."
+						"No necesitas dormir y la magia no puede dormirte. Puedes finalizar un descanso largo en 4 horas si las pasas en una meditación similar a un trance, tiempo durante el cual conservas la consciencia."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Visión en la oscuridad",
+					"entries": [
+						"Tienes visión en la oscuridad hasta 60 pies (18 m)."
 					]
 				}
 			],

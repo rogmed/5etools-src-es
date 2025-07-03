@@ -1477,7 +1477,7 @@
 			]
 		},
 		{
-			"name": "Dwarf",
+			"name": "Enano",
 			"source": "PHB",
 			"entries": [
 				{
@@ -1603,7 +1603,7 @@
 			]
 		},
 		{
-			"name": "Dwarf",
+			"name": "Enano",
 			"source": "XPHB",
 			"entries": [
 				{
@@ -1637,7 +1637,7 @@
 			"name": "Dwarf (Duergar)",
 			"source": "MTF",
 			"_copy": {
-				"name": "Dwarf",
+				"name": "Enano",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -1665,7 +1665,7 @@
 			"name": "Dwarf (Hill)",
 			"source": "PHB",
 			"_copy": {
-				"name": "Dwarf",
+				"name": "Enano",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -1741,7 +1741,7 @@
 			"name": "Dwarf (Mountain)",
 			"source": "PHB",
 			"_copy": {
-				"name": "Dwarf",
+				"name": "Enano",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -1812,7 +1812,7 @@
 			]
 		},
 		{
-			"name": "Elf",
+			"name": "Elfo",
 			"source": "PHB",
 			"entries": [
 				{
@@ -1933,35 +1933,35 @@
 			]
 		},
 		{
-			"name": "Elf",
+			"name": "Elfo",
 			"source": "XPHB",
 			"entries": [
 				{
 					"type": "entries",
 					"entries": [
-						"Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon's dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon's forgiveness, but that which Corellon had taken from them was lost forever.",
-						"No longer able to shape-shift at will, the elves retreated to the Feywild, where their sorrow was deepened by that plane's influence. Over time, curiosity led many of them to explore other planes of existence, including worlds in the Material Plane.",
-						"Elves have pointed ears and lack facial and body hair. They live for around 750 years, and they don't sleep but instead enter a trance when they need to rest. In that state, they remain aware of their surroundings while immersing themselves in memories and meditations.",
-						"An environment subtly transforms elves after they inhabit it for a millennium or more, and it grants them certain kinds of magic. Drow, high elves, and wood elves are examples of elves who have been transformed thus.",
+						"Los primeros elfos, creados por el dios Corellon, podían cambiar de forma a su antojo. Perdieron esta capacidad cuando la deidad los maldijo por conspirar con la diosa Lolth, que trató de usurpar el poder de Corellon, pero fracasó. Cuando Lolth fue desterrada al Abismo, la mayoría de elfos le dieron la espalda y obtuvieron el perdón de Corellon, pero aquello que el dios les había arrebatado se perdió para siempre.",
+						"Al no poder cambiar ya de forma a voluntad, los elfos se retiraron a los Parajes Feéricos, donde su pesar se agravó por la influencia del plano. Con el tiempo, la curiosidad condujo a muchos a explorar otros planos de existencia, incluidos los mundos del Plano Material.",
+						"Los elfos tienen orejas puntiagudas y carecen de vello facial y corporal. Viven unos 750 años y no duermen, sino que entran en trance cuando necesitan descansar. En ese estado, siguen siendo conscientes de lo que les rodea mientras se sumergen en recuerdos y meditaciones.",
+						"El entorno transforma sutilmente a los elfos si lo habitan durante un milenio o más y les otorga determinados tipos de magia. Los altos elfos, los drows y los elfos de los bosques son ejemplos de elfos que se han transformado por este motivo.",
 						{
 							"type": "entries",
-							"name": "Drow",
+							"name": "Altos elfos",
 							"entries": [
-								"Drow typically dwell in the Underdark and have been shaped by it. Some drow individuals and societies avoid the Underdark altogether yet carry its magic. In the Eberron setting, for example, drow dwell in rainforests and cyclopean ruins on the continent of Xen'drik."
+								"Los altos elfos se han imbuido de la magia de los cruces entre los Parajes Feéricos y el Plano Material. En algunos mundos, los altos elfos se hacen llamar de otra forma. Por ejemplo, en los Reinos Olvidados se llaman elfos solares o lunares; en el escenario de Dragonlance, silvanesti y qualinesti, y en Eberron, aereni."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "High Elves",
+							"name": "Drows",
 							"entries": [
-								"High elves have been infused with the magic of crossings between the Feywild and the Material Plane. On some worlds, high elves refer to themselves by other names. For example, they call themselves sun or moon elves in the Forgotten Realms setting, Silvanesti and Qualinesti in the Dragonlance setting, and Aereni in the Eberron setting."
+								"Los drows suelen vivir en la Infraoscuridad, que ha influido en ellos. Hay drows o incluso sociedades de ellos que evitan la Infraoscuridad por completo, pero están impregnados de su magia. En el escenario de Eberron, por ejemplo, los drows habitan en las junglas y las ruinas ciclópeas del continente de Xen'drik."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Wood Elves",
+							"name": "Elfos de los bosques",
 							"entries": [
-								"Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively."
+								"Los elfos de los bosques llevan la magia de los bosques primigenios en su interior. Se les conoce por otros muchos nombres, como elfos salvajes, elfos verdes y elfos silvanos. Los grugach son elfos de los bosques solitarios del escenario de Greyhawk, mientras que los kalanesti y tairnadal son los elfos de los bosques de Dragonlance y Eberron, respectivamente."
 							]
 						}
 					]
@@ -1995,7 +1995,7 @@
 			"name": "Elf (Drow)",
 			"source": "PHB",
 			"_copy": {
-				"name": "Elf",
+				"name": "Elfo",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -2021,7 +2021,7 @@
 			"name": "Elf (Eladrin)",
 			"source": "MTF",
 			"_copy": {
-				"name": "Elf",
+				"name": "Elfo",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -2313,7 +2313,7 @@
 			"name": "Elf (High)",
 			"source": "PHB",
 			"_copy": {
-				"name": "Elf",
+				"name": "Elfo",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -2429,7 +2429,7 @@
 			"name": "Elf (Pallid)",
 			"source": "EGW",
 			"_copy": {
-				"name": "Elf",
+				"name": "Elfo",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -2455,7 +2455,7 @@
 			"name": "Elf (Sea)",
 			"source": "MTF",
 			"_copy": {
-				"name": "Elf",
+				"name": "Elfo",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -2488,7 +2488,7 @@
 			"name": "Elf (Shadar-kai)",
 			"source": "MTF",
 			"_copy": {
-				"name": "Elf",
+				"name": "Elfo",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -2513,7 +2513,7 @@
 			"name": "Elf (Wood)",
 			"source": "PHB",
 			"_copy": {
-				"name": "Elf",
+				"name": "Elfo",
 				"source": "PHB",
 				"_mod": {
 					"entries": {

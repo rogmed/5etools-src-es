@@ -2155,7 +2155,7 @@
 		{
 			"name": "Dwarven Toughness",
 			"source": "XPHB",
-			"raceName": "Dwarf",
+			"raceName": "Enano",
 			"raceSource": "XPHB",
 			"effects": [
 				{
@@ -2703,7 +2703,7 @@
 		{
 			"name": "Stonecunning",
 			"source": "XPHB",
-			"raceName": "Dwarf",
+			"raceName": "Enano",
 			"raceSource": "XPHB",
 			"system": {
 				"uses.max": "@prof",

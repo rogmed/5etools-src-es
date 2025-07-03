@@ -944,7 +944,7 @@
 							"entries": [
 								{
 									"type": "entries",
-									"name": "Dragonborn",
+									"name": "Dracónido",
 									"entries": [
 										"It's easy to assume that a dragonborn is a monster, especially if his or her scales betray a chromatic heritage. Unless the dragonborn starts breathing fire and causing destruction, though, people are likely to respond with caution rather than outright fear."
 									],
@@ -1097,7 +1097,7 @@
 							"type": "list",
 							"columns": 3,
 							"items": [
-								"{@race Dragonborn}",
+								"{@race Dracónido}",
 								"{@race Dwarf}",
 								"{@race Elf}",
 								"{@race Gnome}",
@@ -1383,7 +1383,7 @@
 											"× 1 lb"
 										],
 										[
-											"{@race Dragonborn}",
+											"{@race Dracónido}",
 											"5'6\"",
 											"+{@dice 2d8}",
 											"175 lb.",

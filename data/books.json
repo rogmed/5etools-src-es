@@ -536,7 +536,7 @@
 						"Elves",
 						"Halflings",
 						"Humans",
-						"Dragonborn",
+						"Dracónido",
 						"Gnomes",
 						"Half-Elves",
 						"Half-Orcs",
@@ -1619,7 +1619,7 @@
 					"headers": [
 						"Races",
 						"Changelings",
-						"Dragonborn",
+						"Dracónido",
 						"Dwarves",
 						"Elves",
 						"Gnomes",
@@ -2045,7 +2045,7 @@
 						},
 						{
 							"depth": 1,
-							"header": "Dragonborn"
+							"header": "Dracónido"
 						},
 						{
 							"depth": 1,

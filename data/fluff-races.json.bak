@@ -354,8 +354,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Aasimar (pronounced AH-sih-mar) are mortals who carry a spark of the Upper Planes within their souls. Whether descended from an angelic being or infused with celestial power, they can fan that spark to bring light, healing, and heavenly fury.",
-								"Aasimar can arise among any population of mortals. They resemble their parents, but they live for up to 160 years and have features that hint at their celestial heritage, such as metallic freckles, luminous eyes, a halo, or the skin color of an angel (silver, opalescent green, or coppery red). These features start subtle and become obvious when the aasimar learns to reveal their full celestial nature."
+								"Los aasimars son mortales cuyas almas albergan una chispa de los Planos Superiores. Tanto si descienden de un ser angelical como si están imbuidos de poder celestial, pueden encender esa chispa para traer la luz, la curación y la furia divina.",
+								"Los aasimars pueden surgir entre cualquier población de mortales. Se parecen a sus padres, pero viven hasta 160 años y tienen rasgos que insinúan su herencia celestial, como pecas metálicas, ojos brillantes, un halo o el color de piel de un ángel (plateada, verde opalescente o roja cobriza). Al principio, estos rasgos son sutiles, pero se van haciendo evidentes cuando los aasimars aprenden a revelar toda su naturaleza celestial."
 							]
 						}
 					]
@@ -1316,8 +1316,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Los antepasados de los dracónidos eclosionaron de los huevos de los dragones cromáticos y metálicos. Una historia cuenta que los dioses dragones Bahamut y Tiamat habían bendecido estos huevos, ya que querían poblar el multiverso con criaturas hechas a su imagen y semejanza. Otro relato afirma que los dragones crearon a los primeros dracónidos sin las bendiciones de los dioses. Sea cual sea su origen, esta especie se ha asentado en el Plano Material.",
-								"Los dracónidos tienen el aspecto de dragones bípedos sin alas: tienen la piel cubierta de escamas, unos ojos brillantes, una densa osamenta y cuernos en la cabeza. Además, sus diversos colores y otros rasgos recuerdan alos de sus antepasados dracónicos."
+								"The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods' blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.",
+								"Dracónido look like wingless, bipedal dragons\u2014scaly, bright-eyed, and thick-boned with horns on their heads\u2014and their coloration and other features are reminiscent of their draconic ancestors."
 							]
 						}
 					]
@@ -1612,9 +1612,9 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Los enanos emergieron de la tierra en los primeros tiempos de la mano de una deidad de la forja que recibía diversos nombres en los distintos mundos, como Moradin o Reorx, entre otros, y que otorgó a los enanos una afinidad por la piedra, el metal y la vida en el subsuelo. La deidad también los hizo firmes como las montañas, con una esperanza de vida de unos 350 años.",
-								"Los enanos originales, achaparrados y normalmente barbudos, labraban sus ciudades y bastiones en las laderas de las montañasy bajo tierra. Sus leyendas más antiguas hablan de conflictos con los monstruos de las cumbres y la Infraoscuridad, que podían ser desde gigantes descomunales hasta horrores subterráneos. Inspirados en estas historias, los enanos de cualquier cultura suelen cantar sus valerosas hazañas, en especial las que tratan de cómo los más pequeños derrotaban a los poderosos.",
-								"En algunos mundos del multiverso, los primeros asentamientos de enanos se construyeron en colinas o montañas, y las familias cuyos antepasados vivían en estos lugares se hacen llamar enanos de las colinas o enanos de las montañas, respectivamente. Los escenarios de Greyhawk y Dragonlance cuentan con este tipo de comunidades."
+								"Dwarves were raised from the earth in the elder days by a deity of the forge. Called by various names on different worlds\u2014Moradin, Reorx, and others\u2014that god gave dwarves an affinity for stone and metal and for living underground. The god also made them resilient like the mountains, with a life span of about 350 years.",
+								"Squat and often bearded, the original dwarves carved cities and strongholds into mountainsides and under the earth. Their oldest legends tell of conflicts with the monsters of mountaintops and the Underdark, whether those monsters were towering giants or subterranean horrors. Inspired by those tales, dwarves of any culture often sing of valorous deeds\u2014especially of the little overcoming the mighty.",
+								"On some worlds in the multiverse, the first settlements of dwarves were built in hills or mountains, and the families who trace their ancestry to those settlements call themselves hill dwarves or mountain dwarves, respectively. The Greyhawk and Dragonlance settings have such communities."
 							]
 						}
 					]

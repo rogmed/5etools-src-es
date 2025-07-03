@@ -247,10 +247,10 @@
 			}
 		},
 		{
-			"name": "Dragonborn (Red)",
+			"name": "Dracónido (Red)",
 			"source": "PHB",
 			"page": 32,
-			"ref": "{@race Dragonborn||Dragonborn (Red)}",
+			"ref": "{@race Dracónido||Dracónido (Red)}",
 			"apply": {
 				"_root": {
 					"size": [
@@ -276,10 +276,10 @@
 			}
 		},
 		{
-			"name": "Dragonborn (Silver)",
+			"name": "Dracónido (Silver)",
 			"source": "PHB",
 			"page": 32,
-			"ref": "{@race Dragonborn||Dragonborn (Silver)}",
+			"ref": "{@race Dracónido||Dracónido (Silver)}",
 			"apply": {
 				"_root": {
 					"size": [

@@ -2936,7 +2936,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Expertise",
+					"name": "Pericia",
 					"entries": [
 						"Choose one skill in which you lack Expertise. You gain Expertise in that skill."
 					]

@@ -1076,7 +1076,7 @@ export class CoreRuleTag extends ConverterTaggerInitializable {
 				return `{@variantrule ${rule.name}|${Parser.SRC_XPHB}|${ruleName}}`;
 			})
 			.replace(/{@variantrule Proficiency\|XPHB} Bonus/g, (...m) => {
-				return `{@variantrule Proficiency|XPHB|Proficiency Bonus}`;
+				return `{@variantrule Competencia|XPHB|Proficiency Bonus}`;
 			})
 			.replace(/Short or {@variantrule Long Rest\|XPHB}/g, (...m) => {
 				return `{@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}`;

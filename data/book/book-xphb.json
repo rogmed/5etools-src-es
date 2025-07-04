@@ -1195,7 +1195,7 @@
 				},
 				{
 					"type": "section",
-					"name": "Proficiency",
+					"name": "Competencia",
 					"page": 13,
 					"id": "036",
 					"entries": [
@@ -1256,7 +1256,7 @@
 							"id": "037",
 							"entries": [
 								"Your Proficiency Bonus can't be added to a die roll or another number more than once. For example, if a rule allows you to make a Charisma ({@skill Deception|XPHB} or {@skill Persuasion|XPHB}) check, you add your Proficiency Bonus if you're proficient in either skill, but you don't add it twice if you're proficient in both skills.",
-								"Occasionally, a Proficiency Bonus might be multiplied or divided (doubled or halved, for example) before being added. For example, the {@variantrule Expertise|XPHB} feature doubles the Proficiency Bonus for certain ability checks. Whenever the bonus is used, it can be multiplied only once and divided only once."
+								"Occasionally, a Proficiency Bonus might be multiplied or divided (doubled or halved, for example) before being added. For example, the {@variantrule Pericia|XPHB} feature doubles the Proficiency Bonus for certain ability checks. Whenever the bonus is used, it can be multiplied only once and divided only once."
 							]
 						},
 						{
@@ -6660,7 +6660,7 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Explorador|XPHB|Beast Master|Beast Master|XPHB} to bond with a primal beast.",
+												"{@class Explorador|XPHB|Señor de las bestias|Señor de las bestias|XPHB} to bond with a primal beast.",
 												"{@class Explorador|XPHB|Fey Wanderer|Fey Wanderer|XPHB} to manifest fey mirth and fury.",
 												"{@class Explorador|XPHB|Gloom Stalker|Gloom Stalker|XPHB} to hunt foes that lurk in darkness.",
 												"{@class Explorador|XPHB|Hunter|Hunter|XPHB} to protect nature with martial versatility."
@@ -13624,7 +13624,7 @@
 								],
 								[
 									"PB",
-									"{@variantrule Proficiency|XPHB|Proficiency Bonus}"
+									"{@variantrule Competencia|XPHB|Proficiency Bonus}"
 								],
 								[
 									"PP",
@@ -14067,7 +14067,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Expertise"
+							"name": "Pericia"
 						},
 						{
 							"type": "statblock",
@@ -14355,7 +14355,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Proficiency"
+							"name": "Competencia"
 						},
 						{
 							"type": "statblock",

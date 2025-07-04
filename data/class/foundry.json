@@ -2075,7 +2075,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "PHB",
 			"className": "Bard",
 			"classSource": "PHB",
@@ -2090,7 +2090,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "PHB",
 			"className": "Bard",
 			"classSource": "PHB",
@@ -2413,7 +2413,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "PHB",
 			"className": "Rogue",
 			"classSource": "PHB",
@@ -2447,7 +2447,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "PHB",
 			"className": "Rogue",
 			"classSource": "PHB",
@@ -2677,7 +2677,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "TCE",
 			"className": "Expert Sidekick",
 			"classSource": "TCE",
@@ -2692,7 +2692,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "TCE",
 			"className": "Expert Sidekick",
 			"classSource": "TCE",
@@ -3298,7 +3298,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "XPHB",
 			"className": "Bard",
 			"classSource": "XPHB",
@@ -3404,7 +3404,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "XPHB",
 			"className": "Bard",
 			"classSource": "XPHB",
@@ -5943,7 +5943,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
@@ -6139,7 +6139,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "XPHB",
 			"className": "Rogue",
 			"classSource": "XPHB",
@@ -6488,7 +6488,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "XPHB",
 			"className": "Rogue",
 			"classSource": "XPHB",
@@ -10310,7 +10310,7 @@
 			"source": "TCE",
 			"className": "Explorador",
 			"classSource": "PHB",
-			"subclassShortName": "Beast Master",
+			"subclassShortName": "Señor de las bestias",
 			"subclassSource": "PHB",
 			"level": 3,
 			"system": {},
@@ -10321,7 +10321,7 @@
 			"source": "PHB",
 			"className": "Explorador",
 			"classSource": "PHB",
-			"subclassShortName": "Beast Master",
+			"subclassShortName": "Señor de las bestias",
 			"subclassSource": "PHB",
 			"level": 3,
 			"system": {},
@@ -18182,7 +18182,7 @@
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Beast Master",
+			"subclassShortName": "Señor de las bestias",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -18212,8 +18212,8 @@
 							"uuid": "@creature[beast of the sea|xphb]"
 						},
 						{
-							"name": "Beast of the Sky",
-							"uuid": "@creature[beast of the sky|xphb]"
+							"name": "Bestia del cielo",
+							"uuid": "@creature[Bestia del cielo|xphb]"
 						}
 					],
 					"bonuses": {
@@ -18269,8 +18269,8 @@
 							"uuid": "@creature[beast of the sea|xphb]"
 						},
 						{
-							"name": "Beast of the Sky",
-							"uuid": "@creature[beast of the sky|xphb]"
+							"name": "Bestia del cielo",
+							"uuid": "@creature[Bestia del cielo|xphb]"
 						}
 					],
 					"bonuses": {
@@ -18292,7 +18292,7 @@
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Beast Master",
+			"subclassShortName": "Señor de las bestias",
 			"subclassSource": "XPHB",
 			"level": 11,
 			"activities": [

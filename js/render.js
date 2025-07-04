@@ -10350,7 +10350,7 @@ Renderer.monster = class {
 	static getTypeAlignmentPart (mon) {
 		const typeObj = Parser.monTypeToFullObj(mon.type);
 
-		return `${mon.level ? `${Parser.getOrdinalForm(mon.level)}-level ` : ""}${typeObj.asTextSidekick ? `${typeObj.asTextSidekick}; ` : ""}${Renderer.utils.getRenderedSize(mon.size)}${mon.sizeNote ? ` ${mon.sizeNote}` : ""} ${typeObj.asText}${mon.alignment ? `, ${mon.alignmentPrefix ? Renderer.get().render(mon.alignmentPrefix) : ""}${Parser.alignmentListToFull(mon.alignment).toTitleCase()}` : ""}`;
+		return `${mon.level ? `${Parser.getOrdinalForm(mon.level)}-level ` : ""}${typeObj.asTextSidekick ? `${typeObj.asTextSidekick}; ` : ""}${typeObj.asText} ${Renderer.utils.getRenderedSize(mon.size)}${mon.sizeNote ? ` ${mon.sizeNote}` : ""}${mon.alignment ? `, ${mon.alignmentPrefix ? Renderer.get().render(mon.alignmentPrefix) : ""}${Parser.alignmentListToFull(mon.alignment).toTitleCase()}` : ""}`;
 	}
 
 	static _getInitiativePart_passive ({mon, initPassive}) {
@@ -10395,7 +10395,7 @@ Renderer.monster = class {
 		const pts = [
 			mon.senses ? Renderer.utils.getRenderedSenses(mon.senses, {isTitleCase}) : "",
 			passive != null
-				? `${isTitleCase ? "Passive" : "passive"} Perception ${passive}`
+				? `Percepción pasiva ${passive}`
 				: (isForcePassive || mon.senses) ? "\u2014" : "",
 		]
 			.filter(Boolean);

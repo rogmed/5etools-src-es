@@ -16593,7 +16593,7 @@
 				"credit": "Andrea Sipl"
 			},
 			"entries": [
-				"You gain proficiency and {@variantrule Expertise|XPHB} in your choice of {@skill History|XPHB}, {@skill Insight|XPHB}, {@skill Intimidation|XPHB}, or {@skill Persuasion|XPHB}. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours."
+				"You gain proficiency and {@variantrule Pericia|XPHB} in your choice of {@skill History|XPHB}, {@skill Insight|XPHB}, {@skill Intimidation|XPHB}, or {@skill Persuasion|XPHB}. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours."
 			]
 		},
 		{

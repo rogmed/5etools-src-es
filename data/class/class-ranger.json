@@ -514,18 +514,18 @@
 	],
 	"subclass": [
 		{
-			"name": "Beast Master",
-			"shortName": "Beast Master",
+			"name": "Señor de las bestias",
+			"shortName": "Señor de las bestias",
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"page": 123,
+			"page": 110,
 			"edition": "one",
 			"subclassFeatures": [
-				"Beast Master|Explorador|XPHB|Beast Master|XPHB|3",
-				"Exceptional Training|Explorador|XPHB|Beast Master|XPHB|7",
-				"Bestial Fury|Explorador|XPHB|Beast Master|XPHB|11",
-				"Share Spells|Explorador|XPHB|Beast Master|XPHB|15"
+				"Señor de las bestias|Explorador|XPHB|Señor de las bestias|XPHB|3",
+				"Entrenamiento excepcional|Explorador|XPHB|Señor de las bestias|XPHB|7",
+				"Furia bestial|Explorador|XPHB|Señor de las bestias|XPHB|11",
+				"Compartir conjuros|Explorador|XPHB|Señor de las bestias|XPHB|15"
 			],
 			"hasFluffImages": true
 		},
@@ -848,7 +848,7 @@
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"Escoge dos de tus competencias en habilidades con las que no tengas {@variantrule Expertise|XPHB|Pericia}. Ganas {@variantrule Expertise|XPHB|Pericia} en esas habilidades."
+				"Escoge dos de tus competencias en habilidades con las que no tengas {@variantrule Pericia|XPHB|Pericia}. Ganas {@variantrule Pericia|XPHB|Pericia} en esas habilidades."
 			]
 		},
 		{
@@ -1017,51 +1017,51 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Beast Master",
+			"name": "Señor de las bestias",
 			"source": "XPHB",
-			"page": 123,
+			"page": 110,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Beast Master",
+			"subclassShortName": "Señor de las bestias",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Bond with a Primal Beast}",
-				"A Beast Master forms a mystical bond with a special animal, drawing on primal magic and a deep connection to the natural world.",
+				"{@i Estrecha lazos con una bestia primigenia}",
+				"Un señor de las bestias forma un vínculo místico con un animal especial y recurre a la magia primigenia y a una profunda conexión con el mundo natural.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Primal Companion|Explorador|XPHB|Beast Master|XPHB|3"
+					"subclassFeature": "Compañero primigenio|Explorador|XPHB|Señor de las bestias|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Primal Companion",
+			"name": "Compañero primigenio",
 			"source": "XPHB",
-			"page": 123,
+			"page": 110,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Beast Master",
+			"subclassShortName": "Señor de las bestias",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: {@creature Beast of the Land|XPHB}, {@creature Beast of the Sea|XPHB}, or {@creature Beast of the Sky|XPHB}. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.",
-				"The beast is Friendly to you and your allies and obeys your commands. It vanishes if you die.",
+				"Invocas mágicamente a una bestia primigenia que extrae fuerza de tu vínculo con la naturaleza. Elige un perfil para ella: {@creature bestia de los mares|XPHB}, {@creature bestia de tierra firme|XPHB} o {@creature Bestia del cielo|XPHB|bestia del cielo}. También eliges el tipo de animal que es, siempre y cuando sea coherente con su perfil. Sea cual sea el tipo que elijas, la bestia tiene marcas primigenias que indican su origen místico.",
+				"La bestia es amistosa contigo y tus aliados, obedece tus órdenes y desaparecerá si mueres.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "The Beast in Combat",
+							"name": "La bestia en combate",
 							"entries": [
-								"In combat, the beast acts during your turn. It can move and use its {@variantrule Reaction|XPHB} on its own, but the only action it takes is the {@action Dodge|XPHB} action unless you take a {@variantrule Bonus Action|XPHB} to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the {@action Attack|XPHB} action to command the beast to take the Beast's Strike action. If you have the {@condition Incapacitado|XPHB} condition, the beast acts on its own and isn't limited to the {@action Dodge|XPHB} action."
+								"En combate, la bestia actúa durante tu turno. Se puede mover y usar su reacción por cuenta propia, pero la única acción que hace es la de {@action Dodge|XPHB|esquivar}, a menos que utilices una acción adicional para ordenarle que realice una acción que aparezca en su perfil u otra distinta. También puedes sacrificar uno de tus ataques cuando realices la acción de atacar para ordenar a la bestia que use la acción de golpe de bestia. Si tienes el estado de {@condition Incapacitado|XPHB}, la bestia actúa por su cuenta y no está limitada a hacer la acción de {@action Dodge|XPHB|esquivar}."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Restoring or Replacing the Beast",
+							"name": "Devolver la bestia a la vida o sustituirla",
 							"entries": [
-								"If the beast has died within the last hour, you can take a {@action Magic|XPHB} action to touch it and expend a spell slot. The beast returns to life after 1 minute with all its {@variantrule Hit Points|XPHB} restored.",
-								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can summon a different primal beast, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears."
+								"Si la bestia ha muerto en la última hora, puedes usar una acción de magia para tocarla y gastar un espacio de conjuro. La bestia volverá a la vida después de 1 minuto con todos sus puntos de golpe recuperados.",
+								"Tras finalizar un descanso largo, puedes invocar a una bestia primigenia diferente, que aparece en un espacio sin ocupar a 5 pies (1,5 m) de ti y eliges su perfil y aspecto. Si ya tienes una bestia por este rasgo, se desvanecerá cuando aparezca la nueva."
 							]
 						}
 					]
@@ -1069,47 +1069,47 @@
 			]
 		},
 		{
-			"name": "Exceptional Training",
+			"name": "Entrenamiento excepcional",
 			"source": "XPHB",
-			"page": 124,
+			"page": 110,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Beast Master",
+			"subclassShortName": "Señor de las bestias",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"When you take a {@variantrule Bonus Action|XPHB} to command your Primal Companion beast to take an action, you can also command it to take the {@action Dash|XPHB}, {@action Disengage|XPHB}, {@action Dodge|XPHB}, or {@action Help|XPHB} action using its {@variantrule Bonus Action|XPHB}.",
-				"In addition, whenever it hits with an attack roll and deals damage, it can deal your choice of Force damage or its normal damage type."
+				"Cuando utilices una acción adicional para ordenarle a la bestia primigenia que lleve acabo una acción, también puedes decirle que realice las acciones de ayudar, correr, destrabarse o esquivar empleando su acción adicional.",
+				"Además, siempre que acierte con una tirada de ataque y cause daño, eliges si hace daño de fuerza o su tipo de daño normal."
 			]
 		},
 		{
-			"name": "Bestial Fury",
+			"name": "Furia bestial",
 			"source": "XPHB",
-			"page": 124,
+			"page": 110,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Beast Master",
+			"subclassShortName": "Señor de las bestias",
 			"subclassSource": "XPHB",
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"When you command your Primal Companion beast to take the Beast's Strike action, the beast can use it twice.",
-				"In addition, the first time each turn it hits a creature under the effect of your {@spell Marca del cazador|XPHB} spell, the beast deals extra Force damage equal to the bonus damage of that spell."
+				"Cuando le ordenas a la bestia primigenia que realice la acción de golpe de bestia, podrá usarla dos veces.",
+				"Además, la primera vez cada turno que acierte a una criatura bajo el efecto de tu conjuro {@spell Marca del cazador|XPHB}, la bestia inflige un daño de fuerza adicional igual al daño adicional de ese conjuro."
 			]
 		},
 		{
-			"name": "Share Spells",
+			"name": "Compartir conjuros",
 			"source": "XPHB",
-			"page": 124,
+			"page": 110,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Beast Master",
+			"subclassShortName": "Señor de las bestias",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When you cast a spell targeting yourself, you can also affect your Primal Companion beast with the spell if the beast is within 30 feet of you."
+				"Cuando lances un conjuro que te haga objetivo, puedes hacer que también afecte a tu bestia primigenia si se encuentra a 30 pies (9 m) o menos de ti."
 			]
 		},
 		{

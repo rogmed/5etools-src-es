@@ -5138,7 +5138,7 @@
 					"type": "entries",
 					"name": "Radiant Damage",
 					"entries": [
-						"Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your {@variantrule Proficiency|XPHB|Proficiency Bonus}."
+						"Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your {@variantrule Competencia|XPHB|Proficiency Bonus}."
 					]
 				},
 				{

@@ -1041,7 +1041,7 @@
 								"name": "Giant Ancestry (Cloud)",
 								"type": "entries",
 								"entries": [
-									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
+									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Competencia|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
 									{
 										"type": "list",
 										"style": "list-hang-notitle",
@@ -1071,7 +1071,7 @@
 								"name": "Giant Ancestry (Fire)",
 								"type": "entries",
 								"entries": [
-									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
+									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Competencia|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
 									{
 										"type": "list",
 										"style": "list-hang-notitle",
@@ -1101,7 +1101,7 @@
 								"name": "Giant Ancestry (Frost)",
 								"type": "entries",
 								"entries": [
-									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
+									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Competencia|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
 									{
 										"type": "list",
 										"style": "list-hang-notitle",
@@ -1131,7 +1131,7 @@
 								"name": "Giant Ancestry (Hill)",
 								"type": "entries",
 								"entries": [
-									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
+									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Competencia|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
 									{
 										"type": "list",
 										"style": "list-hang-notitle",
@@ -1161,7 +1161,7 @@
 								"name": "Giant Ancestry (Stone)",
 								"type": "entries",
 								"entries": [
-									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
+									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Competencia|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
 									{
 										"type": "list",
 										"style": "list-hang-notitle",
@@ -1191,7 +1191,7 @@
 								"name": "Giant Ancestry (Storm)",
 								"type": "entries",
 								"entries": [
-									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
+									"You are descended from Giants, granting you a supernatural boon; you can use this boon a number of times equal to your {@variantrule Competencia|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
 									{
 										"type": "list",
 										"style": "list-hang-notitle",

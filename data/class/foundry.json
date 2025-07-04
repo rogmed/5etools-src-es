@@ -830,7 +830,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Ranger",
+			"name": "Explorador",
 			"source": "XPHB",
 			"system": {
 				"spellcasting": {
@@ -1737,7 +1737,7 @@
 			"name": "Fey Wanderer",
 			"shortName": "Fey Wanderer",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"advancement": [
 				{
@@ -1765,7 +1765,7 @@
 			"name": "Gloom Stalker",
 			"shortName": "Gloom Stalker",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"advancement": [
 				{
@@ -2341,7 +2341,7 @@
 		{
 			"name": "Deft Explorer",
 			"source": "TCE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"level": 1,
 			"entryData": {
@@ -2361,7 +2361,7 @@
 		{
 			"name": "Favored Enemy",
 			"source": "PHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"level": 1,
 			"entryData": {
@@ -2376,7 +2376,7 @@
 		{
 			"name": "Fighting Style",
 			"source": "PHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"level": 2,
 			"isIgnored": true,
@@ -2385,7 +2385,7 @@
 		{
 			"name": "Favored Enemy and Natural Explorer improvements",
 			"source": "PHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"level": 6,
 			"entryData": {
@@ -2400,7 +2400,7 @@
 		{
 			"name": "Favored Enemy improvement",
 			"source": "PHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"level": 14,
 			"entryData": {
@@ -5879,7 +5879,7 @@
 		{
 			"name": "Favored Enemy",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 1,
 			"system": {
@@ -5896,7 +5896,7 @@
 		{
 			"name": "Deft Explorer",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 2,
 			"entryData": {
@@ -5916,7 +5916,7 @@
 		{
 			"name": "Fighting Style",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 2,
 			"isIgnored": true,
@@ -5925,7 +5925,7 @@
 		{
 			"name": "Roving",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 6,
 			"effects": [
@@ -5945,7 +5945,7 @@
 		{
 			"name": "Expertise",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 9,
 			"entryData": {
@@ -5960,7 +5960,7 @@
 		{
 			"name": "Tireless",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 10,
 			"activities": [
@@ -6032,7 +6032,7 @@
 		{
 			"name": "Nature's Veil",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 14,
 			"activities": [
@@ -6081,7 +6081,7 @@
 		{
 			"name": "Feral Senses",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 18,
 			"effects": [
@@ -6101,7 +6101,7 @@
 		{
 			"name": "Don épico",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 19,
 			"isIgnored": true,
@@ -6110,7 +6110,7 @@
 		{
 			"name": "Foe Slayer",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 20,
 			"activities": [
@@ -10280,7 +10280,7 @@
 		{
 			"name": "Draconic Gift",
 			"source": "FTD",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"subclassShortName": "Drakewarden",
 			"subclassSource": "FTD",
@@ -10297,7 +10297,7 @@
 		{
 			"name": "Drake Companion",
 			"source": "FTD",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"subclassShortName": "Drakewarden",
 			"subclassSource": "FTD",
@@ -10308,7 +10308,7 @@
 		{
 			"name": "Primal Companion",
 			"source": "TCE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"subclassShortName": "Beast Master",
 			"subclassSource": "PHB",
@@ -10319,7 +10319,7 @@
 		{
 			"name": "Ranger's Companion",
 			"source": "PHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"subclassShortName": "Beast Master",
 			"subclassSource": "PHB",
@@ -10330,7 +10330,7 @@
 		{
 			"name": "Otherworldly Glamour",
 			"source": "TCE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "TCE",
@@ -10353,7 +10353,7 @@
 		{
 			"name": "Beguiling Twist",
 			"source": "TCE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "TCE",
@@ -10378,7 +10378,7 @@
 		{
 			"name": "Umbral Sight",
 			"source": "XGE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XGE",
@@ -10418,7 +10418,7 @@
 		{
 			"name": "Iron Mind",
 			"source": "XGE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XGE",
@@ -10443,7 +10443,7 @@
 		{
 			"name": "Hunter's Sense",
 			"source": "XGE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"subclassShortName": "Monster Slayer",
 			"subclassSource": "XGE",
@@ -10457,7 +10457,7 @@
 		{
 			"name": "Slayer's Prey",
 			"source": "XGE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"subclassShortName": "Monster Slayer",
 			"subclassSource": "XGE",
@@ -10471,7 +10471,7 @@
 		{
 			"name": "Magic-User's Nemesis",
 			"source": "XGE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"subclassShortName": "Monster Slayer",
 			"subclassSource": "XGE",
@@ -18180,7 +18180,7 @@
 		{
 			"name": "Primal Companion",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Beast Master",
 			"subclassSource": "XPHB",
@@ -18290,7 +18290,7 @@
 		{
 			"name": "Bestial Fury",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Beast Master",
 			"subclassSource": "XPHB",
@@ -18321,7 +18321,7 @@
 		{
 			"name": "Dreadful Strikes",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -18359,7 +18359,7 @@
 		{
 			"name": "Otherworldly Glamour",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -18395,7 +18395,7 @@
 		{
 			"name": "Beguiling Twist",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -18434,7 +18434,7 @@
 		{
 			"name": "Fey Reinforcements",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -18461,7 +18461,7 @@
 		{
 			"name": "Misty Wanderer",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -18497,7 +18497,7 @@
 		{
 			"name": "Dread Ambusher",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -18597,7 +18597,7 @@
 		{
 			"name": "Umbral Sight",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -18649,7 +18649,7 @@
 		{
 			"name": "Iron Mind",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -18674,7 +18674,7 @@
 		{
 			"name": "Stalker's Flurry",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -18719,7 +18719,7 @@
 		{
 			"name": "Shadowy Dodge",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -18750,7 +18750,7 @@
 		{
 			"name": "Hunter's Prey",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Hunter",
 			"subclassSource": "XPHB",
@@ -18798,7 +18798,7 @@
 		{
 			"name": "Defensive Tactics",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Hunter",
 			"subclassSource": "XPHB",
@@ -18839,7 +18839,7 @@
 		{
 			"name": "Superior Hunter's Prey",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Hunter",
 			"subclassSource": "XPHB",
@@ -18881,7 +18881,7 @@
 		{
 			"name": "Superior Hunter's Defense",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Hunter",
 			"subclassSource": "XPHB",

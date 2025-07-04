@@ -1,11 +1,11 @@
 {
 	"classFluff": [
 		{
-			"name": "Ranger",
+			"name": "Explorador",
 			"source": "PHB",
 			"entries": [
 				{
-					"name": "Ranger",
+					"name": "Explorador",
 					"type": "section",
 					"entries": [
 						"Rough and wild looking, a human stalks alone through the shadows of trees, hunting the orcs he knows are planning a raid on a nearby farm. Clutching a shortsword in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.",
@@ -313,12 +313,12 @@
 			]
 		},
 		{
-			"name": "Ranger",
+			"name": "Explorador",
 			"source": "XPHB",
 			"entries": [
 				{
 					"type": "section",
-					"name": "Ranger",
+					"name": "Explorador",
 					"source": "XPHB",
 					"page": 118,
 					"entries": [
@@ -356,7 +356,7 @@
 			"name": "Gloom Stalker",
 			"shortName": "Gloom Stalker",
 			"source": "XGE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"entries": [
 				{
@@ -372,7 +372,7 @@
 			"name": "Horizon Walker",
 			"shortName": "Horizon Walker",
 			"source": "XGE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"entries": [
 				{
@@ -388,7 +388,7 @@
 			"name": "Fey Wanderer",
 			"shortName": "Fey Wanderer",
 			"source": "TCE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"images": [
 				{
@@ -406,7 +406,7 @@
 			"name": "Swarmkeeper",
 			"shortName": "Swarmkeeper",
 			"source": "TCE",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"images": [
 				{
@@ -424,7 +424,7 @@
 			"name": "Drakewarden",
 			"shortName": "Drakewarden",
 			"source": "FTD",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "PHB",
 			"images": [
 				{
@@ -442,7 +442,7 @@
 			"name": "Beast Master",
 			"shortName": "Beast Master",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"images": [
 				{
@@ -461,7 +461,7 @@
 			"name": "Fey Wanderer",
 			"shortName": "Fey Wanderer",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"images": [
 				{
@@ -480,7 +480,7 @@
 			"name": "Gloom Stalker",
 			"shortName": "Gloom Stalker",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"images": [
 				{
@@ -499,7 +499,7 @@
 			"name": "Hunter",
 			"shortName": "Hunter",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"images": [
 				{

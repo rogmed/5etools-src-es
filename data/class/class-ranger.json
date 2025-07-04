@@ -6,9 +6,9 @@
 	},
 	"class": [
 		{
-			"name": "Ranger",
+			"name": "Explorador",
 			"source": "XPHB",
-			"page": 118,
+			"page": 102,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
@@ -62,10 +62,10 @@
 			],
 			"featProgression": [
 				{
-					"name": "Fighting Style",
+					"name": "Estilo de combate",
 					"category": [
-						"FS",
-						"FS:R"
+						"EC",
+						"EC:E"
 					],
 					"progression": {
 						"2": 1
@@ -83,8 +83,8 @@
 			],
 			"startingProficiencies": {
 				"armor": [
-					"light",
-					"medium",
+					"ligera",
+					"media",
 					"escudo"
 				],
 				"weapons": [
@@ -97,11 +97,11 @@
 							"from": [
 								"trato con animales",
 								"atletismo",
-								"insight",
-								"investigation",
+								"perspicacia",
+								"investigación",
 								"naturaleza",
 								"percepción",
-								"stealth",
+								"sigilo",
 								"supervivencia"
 							],
 							"count": 3
@@ -159,8 +159,8 @@
 						"marcial"
 					],
 					"armor": [
-						"light",
-						"medium",
+						"ligera",
+						"media",
 						"escudo"
 					],
 					"skills": [
@@ -169,11 +169,11 @@
 								"from": [
 									"trato con animales",
 									"atletismo",
-									"insight",
-									"investigation",
+									"perspicacia",
+									"investigación",
 									"naturaleza",
 									"percepción",
-									"stealth",
+									"sigilo",
 									"supervivencia"
 								],
 								"count": 1
@@ -185,7 +185,7 @@
 			"classTableGroups": [
 				{
 					"colLabels": [
-						"Favored Enemy"
+						"Enemigo predilecto"
 					],
 					"rows": [
 						[
@@ -252,7 +252,7 @@
 				},
 				{
 					"colLabels": [
-						"{@filter Prepared Spells|spells|level=!0|class=Ranger}"
+						"{@filter Conjuros preparados|spells|level=!0|class=Explorador}"
 					],
 					"rows": [
 						[
@@ -318,13 +318,13 @@
 					]
 				},
 				{
-					"title": "Spell Slots per Spell Level",
+					"title": "Espacios de conjuro por cada nivel de conjuro",
 					"colLabels": [
-						"{@filter 1st|spells|level=1|class=ranger}",
-						"{@filter 2nd|spells|level=2|class=ranger}",
-						"{@filter 3rd|spells|level=3|class=ranger}",
-						"{@filter 4th|spells|level=4|class=ranger}",
-						"{@filter 5th|spells|level=5|class=ranger}"
+						"{@filter 1|spells|level=1|class=explorador}",
+						"{@filter 2|spells|level=2|class=explorador}",
+						"{@filter 3|spells|level=3|class=explorador}",
+						"{@filter 4|spells|level=4|class=explorador}",
+						"{@filter 5|spells|level=5|class=explorador}"
 					],
 					"rowsSpellProgression": [
 						[
@@ -471,41 +471,41 @@
 				}
 			],
 			"classFeatures": [
-				"Spellcasting|Ranger|XPHB|1",
-				"Favored Enemy|Ranger|XPHB|1",
-				"Weapon Mastery|Ranger|XPHB|1",
-				"Deft Explorer|Ranger|XPHB|2",
-				"Fighting Style|Ranger|XPHB|2",
+				"Spellcasting|Explorador|XPHB|1",
+				"Enemigo predilecto|Explorador|XPHB|1",
+				"Weapon Mastery|Explorador|XPHB|1",
+				"Deft Explorer|Explorador|XPHB|2",
+				"Estilo de combate|Explorador|XPHB|2",
 				{
-					"classFeature": "Ranger Subclass|Ranger|XPHB|3",
+					"classFeature": "Ranger Subclass|Explorador|XPHB|3",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Ranger|XPHB|4",
-				"Extra Attack|Ranger|XPHB|5",
-				"Roving|Ranger|XPHB|6",
+				"Ability Score Improvement|Explorador|XPHB|4",
+				"Extra Attack|Explorador|XPHB|5",
+				"Roving|Explorador|XPHB|6",
 				{
-					"classFeature": "Rasgo de subclase|Ranger|XPHB|7",
+					"classFeature": "Rasgo de subclase|Explorador|XPHB|7",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Ranger|XPHB|8",
-				"Expertise|Ranger|XPHB|9",
-				"Tireless|Ranger|XPHB|10",
+				"Ability Score Improvement|Explorador|XPHB|8",
+				"Expertise|Explorador|XPHB|9",
+				"Tireless|Explorador|XPHB|10",
 				{
-					"classFeature": "Rasgo de subclase|Ranger|XPHB|11",
+					"classFeature": "Rasgo de subclase|Explorador|XPHB|11",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Ranger|XPHB|12",
-				"Relentless Hunter|Ranger|XPHB|13",
-				"Nature's Veil|Ranger|XPHB|14",
+				"Ability Score Improvement|Explorador|XPHB|12",
+				"Relentless Hunter|Explorador|XPHB|13",
+				"Nature's Veil|Explorador|XPHB|14",
 				{
-					"classFeature": "Rasgo de subclase|Ranger|XPHB|15",
+					"classFeature": "Rasgo de subclase|Explorador|XPHB|15",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Ranger|XPHB|16",
-				"Precise Hunter|Ranger|XPHB|17",
-				"Feral Senses|Ranger|XPHB|18",
-				"Don épico|Ranger|XPHB|19",
-				"Foe Slayer|Ranger|XPHB|20"
+				"Ability Score Improvement|Explorador|XPHB|16",
+				"Precise Hunter|Explorador|XPHB|17",
+				"Feral Senses|Explorador|XPHB|18",
+				"Don épico|Explorador|XPHB|19",
+				"Foe Slayer|Explorador|XPHB|20"
 			],
 			"subclassTitle": "Ranger Subclass",
 			"hasFluff": true,
@@ -517,15 +517,15 @@
 			"name": "Beast Master",
 			"shortName": "Beast Master",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"page": 123,
 			"edition": "one",
 			"subclassFeatures": [
-				"Beast Master|Ranger|XPHB|Beast Master|XPHB|3",
-				"Exceptional Training|Ranger|XPHB|Beast Master|XPHB|7",
-				"Bestial Fury|Ranger|XPHB|Beast Master|XPHB|11",
-				"Share Spells|Ranger|XPHB|Beast Master|XPHB|15"
+				"Beast Master|Explorador|XPHB|Beast Master|XPHB|3",
+				"Exceptional Training|Explorador|XPHB|Beast Master|XPHB|7",
+				"Bestial Fury|Explorador|XPHB|Beast Master|XPHB|11",
+				"Share Spells|Explorador|XPHB|Beast Master|XPHB|15"
 			],
 			"hasFluffImages": true
 		},
@@ -533,7 +533,7 @@
 			"name": "Fey Wanderer",
 			"shortName": "Fey Wanderer",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"page": 124,
 			"edition": "one",
@@ -559,10 +559,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Fey Wanderer|Ranger|XPHB|Fey Wanderer|XPHB|3",
-				"Beguiling Twist|Ranger|XPHB|Fey Wanderer|XPHB|7",
-				"Fey Reinforcements|Ranger|XPHB|Fey Wanderer|XPHB|11",
-				"Misty Wanderer|Ranger|XPHB|Fey Wanderer|XPHB|15"
+				"Fey Wanderer|Explorador|XPHB|Fey Wanderer|XPHB|3",
+				"Beguiling Twist|Explorador|XPHB|Fey Wanderer|XPHB|7",
+				"Fey Reinforcements|Explorador|XPHB|Fey Wanderer|XPHB|11",
+				"Misty Wanderer|Explorador|XPHB|Fey Wanderer|XPHB|15"
 			],
 			"hasFluffImages": true
 		},
@@ -570,7 +570,7 @@
 			"name": "Gloom Stalker",
 			"shortName": "Gloom Stalker",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"page": 125,
 			"edition": "one",
@@ -596,10 +596,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Gloom Stalker|Ranger|XPHB|Gloom Stalker|XPHB|3",
-				"Iron Mind|Ranger|XPHB|Gloom Stalker|XPHB|7",
-				"Stalker's Flurry|Ranger|XPHB|Gloom Stalker|XPHB|11",
-				"Shadowy Dodge|Ranger|XPHB|Gloom Stalker|XPHB|15"
+				"Gloom Stalker|Explorador|XPHB|Gloom Stalker|XPHB|3",
+				"Iron Mind|Explorador|XPHB|Gloom Stalker|XPHB|7",
+				"Stalker's Flurry|Explorador|XPHB|Gloom Stalker|XPHB|11",
+				"Shadowy Dodge|Explorador|XPHB|Gloom Stalker|XPHB|15"
 			],
 			"hasFluffImages": true
 		},
@@ -607,34 +607,34 @@
 			"name": "Hunter",
 			"shortName": "Hunter",
 			"source": "XPHB",
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"page": 127,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
 			"subclassFeatures": [
-				"Hunter|Ranger|XPHB|Hunter|XPHB|3",
-				"Defensive Tactics|Ranger|XPHB|Hunter|XPHB|7",
-				"Superior Hunter's Prey|Ranger|XPHB|Hunter|XPHB|11",
-				"Superior Hunter's Defense|Ranger|XPHB|Hunter|XPHB|15"
+				"Hunter|Explorador|XPHB|Hunter|XPHB|3",
+				"Defensive Tactics|Explorador|XPHB|Hunter|XPHB|7",
+				"Superior Hunter's Prey|Explorador|XPHB|Hunter|XPHB|11",
+				"Superior Hunter's Defense|Explorador|XPHB|Hunter|XPHB|15"
 			],
 			"hasFluffImages": true
 		}
 	],
 	"classFeature": [
 		{
-			"name": "Favored Enemy",
+			"name": "Enemigo predilecto",
 			"source": "XPHB",
 			"page": 120,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
 				"You always have the {@spell Hunter's Mark|XPHB} spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a {@variantrule Long Rest|XPHB}.",
-				"The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table."
+				"The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Enemigo predilecto column of the Ranger Features table."
 			]
 		},
 		{
@@ -643,11 +643,11 @@
 			"page": 119,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have learned to channel the magical essence of nature to cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the {@filter Ranger spell list|spells|class=Ranger} later in the class's description.",
+				"You have learned to channel the magical essence of nature to cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the {@filter Ranger spell list|spells|class=Explorador} later in the class's description.",
 				{
 					"type": "entries",
 					"entries": [
@@ -660,16 +660,16 @@
 						},
 						{
 							"type": "entries",
-							"name": "Prepared Spells of Level 1+",
+							"name": "Conjuros preparados of Level 1+",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two {@filter level 1 Ranger spells|spells|class=Ranger|level=1}. {@spell Curar heridas|XPHB} and {@spell Ensnaring Strike|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.",
+								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two {@filter level 1 Ranger spells|spells|class=Explorador|level=1}. {@spell Curar heridas|XPHB} and {@spell Ensnaring Strike|XPHB} are recommended.",
+								"The number of spells on your list increases as you gain Ranger levels, as shown in the Conjuros preparados column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of Conjuros preparados can include six Ranger spells of level 1 or 2 in any combination.",
 								"If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Changing Your Prepared Spells",
+							"name": "Changing Your Conjuros preparados",
 							"entries": [
 								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can replace one spell on your list with another Ranger spell for which you have spell slots."
 							]
@@ -698,7 +698,7 @@
 			"page": 120,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
@@ -712,7 +712,7 @@
 			"page": 120,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
@@ -739,12 +739,12 @@
 			]
 		},
 		{
-			"name": "Fighting Style",
+			"name": "Estilo de combate",
 			"source": "XPHB",
 			"page": 120,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
@@ -766,7 +766,7 @@
 			"page": 120,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
@@ -779,7 +779,7 @@
 			"page": 120,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
@@ -792,7 +792,7 @@
 			"page": 120,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
@@ -805,7 +805,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
@@ -818,7 +818,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
@@ -831,7 +831,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
@@ -844,7 +844,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
@@ -857,7 +857,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
@@ -889,7 +889,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
@@ -902,7 +902,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
@@ -915,7 +915,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
@@ -928,7 +928,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
@@ -942,7 +942,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
@@ -955,7 +955,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
@@ -968,7 +968,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
@@ -981,7 +981,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 18,
 			"entries": [
@@ -994,7 +994,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
@@ -1007,7 +1007,7 @@
 			"page": 121,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
@@ -1020,7 +1020,7 @@
 			"name": "Beast Master",
 			"source": "XPHB",
 			"page": 123,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Beast Master",
 			"subclassSource": "XPHB",
@@ -1030,7 +1030,7 @@
 				"A Beast Master forms a mystical bond with a special animal, drawing on primal magic and a deep connection to the natural world.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Primal Companion|Ranger|XPHB|Beast Master|XPHB|3"
+					"subclassFeature": "Primal Companion|Explorador|XPHB|Beast Master|XPHB|3"
 				}
 			]
 		},
@@ -1038,7 +1038,7 @@
 			"name": "Primal Companion",
 			"source": "XPHB",
 			"page": 123,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Beast Master",
 			"subclassSource": "XPHB",
@@ -1072,7 +1072,7 @@
 			"name": "Exceptional Training",
 			"source": "XPHB",
 			"page": 124,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Beast Master",
 			"subclassSource": "XPHB",
@@ -1087,7 +1087,7 @@
 			"name": "Bestial Fury",
 			"source": "XPHB",
 			"page": 124,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Beast Master",
 			"subclassSource": "XPHB",
@@ -1102,7 +1102,7 @@
 			"name": "Share Spells",
 			"source": "XPHB",
 			"page": 124,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Beast Master",
 			"subclassSource": "XPHB",
@@ -1116,7 +1116,7 @@
 			"name": "Fey Wanderer",
 			"source": "XPHB",
 			"page": 124,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -1126,15 +1126,15 @@
 				"A fey mystique surrounds you, thanks to the boon of an archfey or a location in the Feywild that transformed you. However you gained fey magic, you are now a Fey Wanderer. Your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Dreadful Strikes|Ranger|XPHB|Fey Wanderer|XPHB|3"
+					"subclassFeature": "Dreadful Strikes|Explorador|XPHB|Fey Wanderer|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Fey Wanderer Spells|Ranger|XPHB|Fey Wanderer|XPHB|3"
+					"subclassFeature": "Fey Wanderer Spells|Explorador|XPHB|Fey Wanderer|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Otherworldly Glamour|Ranger|XPHB|Fey Wanderer|XPHB|3"
+					"subclassFeature": "Otherworldly Glamour|Explorador|XPHB|Fey Wanderer|XPHB|3"
 				}
 			]
 		},
@@ -1142,7 +1142,7 @@
 			"name": "Dreadful Strikes",
 			"source": "XPHB",
 			"page": 124,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -1156,7 +1156,7 @@
 			"name": "Fey Wanderer Spells",
 			"source": "XPHB",
 			"page": 124,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -1243,7 +1243,7 @@
 			"name": "Otherworldly Glamour",
 			"source": "XPHB",
 			"page": 124,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -1258,7 +1258,7 @@
 			"name": "Beguiling Twist",
 			"source": "XPHB",
 			"page": 125,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -1273,7 +1273,7 @@
 			"name": "Fey Reinforcements",
 			"source": "XPHB",
 			"page": 125,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -1288,7 +1288,7 @@
 			"name": "Misty Wanderer",
 			"source": "XPHB",
 			"page": 125,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
 			"subclassSource": "XPHB",
@@ -1303,7 +1303,7 @@
 			"name": "Dread Ambusher",
 			"source": "XPHB",
 			"page": 125,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -1337,7 +1337,7 @@
 			"name": "Gloom Stalker",
 			"source": "XPHB",
 			"page": 125,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -1347,15 +1347,15 @@
 				"Gloom Stalkers are at home in the darkest places, wielding magic drawn from the Shadowfell to combat enemies that lurk in darkness.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Dread Ambusher|Ranger|XPHB|Gloom Stalker|XPHB|3"
+					"subclassFeature": "Dread Ambusher|Explorador|XPHB|Gloom Stalker|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Gloom Stalker Spells|Ranger|XPHB|Gloom Stalker|XPHB|3"
+					"subclassFeature": "Gloom Stalker Spells|Explorador|XPHB|Gloom Stalker|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Umbral Sight|Ranger|XPHB|Gloom Stalker|XPHB|3"
+					"subclassFeature": "Umbral Sight|Explorador|XPHB|Gloom Stalker|XPHB|3"
 				}
 			]
 		},
@@ -1363,7 +1363,7 @@
 			"name": "Gloom Stalker Spells",
 			"source": "XPHB",
 			"page": 126,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -1410,7 +1410,7 @@
 			"name": "Umbral Sight",
 			"source": "XPHB",
 			"page": 126,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -1424,7 +1424,7 @@
 			"name": "Iron Mind",
 			"source": "XPHB",
 			"page": 126,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -1438,7 +1438,7 @@
 			"name": "Stalker's Flurry",
 			"source": "XPHB",
 			"page": 126,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -1466,7 +1466,7 @@
 			"name": "Shadowy Dodge",
 			"source": "XPHB",
 			"page": 126,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloom Stalker",
 			"subclassSource": "XPHB",
@@ -1482,7 +1482,7 @@
 			"page": 127,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Hunter",
 			"subclassSource": "XPHB",
@@ -1492,11 +1492,11 @@
 				"You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hunter's Prey|Ranger|XPHB|Hunter|XPHB|3"
+					"subclassFeature": "Hunter's Prey|Explorador|XPHB|Hunter|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hunter's Lore|Ranger|XPHB|Hunter|XPHB|3"
+					"subclassFeature": "Hunter's Lore|Explorador|XPHB|Hunter|XPHB|3"
 				}
 			]
 		},
@@ -1506,7 +1506,7 @@
 			"page": 127,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Hunter",
 			"subclassSource": "XPHB",
@@ -1521,7 +1521,7 @@
 			"page": 127,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Hunter",
 			"subclassSource": "XPHB",
@@ -1555,7 +1555,7 @@
 			"page": 127,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Hunter",
 			"subclassSource": "XPHB",
@@ -1590,7 +1590,7 @@
 			"page": 127,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Hunter",
 			"subclassSource": "XPHB",
@@ -1606,7 +1606,7 @@
 			"page": 127,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Ranger",
+			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Hunter",
 			"subclassSource": "XPHB",

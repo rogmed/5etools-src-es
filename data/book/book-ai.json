@@ -2117,7 +2117,7 @@
 													"A metal case with fine engraving and scrollwork"
 												],
 												[
-													"Ranger",
+													"Explorador",
 													"A fur-lined bindle"
 												],
 												[
@@ -5295,7 +5295,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Ranger",
+							"name": "Explorador",
 							"page": 64,
 							"entries": [
 								"{@i All that is gold does not glitter. But frankly, if you've got the choice, take the glittering gold every time. That non-shiny stuff loses a ton of resale value}.",

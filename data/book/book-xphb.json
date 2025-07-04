@@ -4144,7 +4144,7 @@
 											"Average"
 										],
 										[
-											"{@class Ranger|XPHB}",
+											"{@class Explorador|XPHB}",
 											"Survival",
 											"Dexterity and Wisdom",
 											"Average"
@@ -4194,12 +4194,12 @@
 												{
 													"type": "item",
 													"name": "Fighter:",
-													"entry": "Replace with {@class Bárbaro|XPHB}, {@class Monje|XPHB}, {@class Paladin|XPHB}, or {@class Ranger|XPHB}"
+													"entry": "Replace with {@class Bárbaro|XPHB}, {@class Monje|XPHB}, {@class Paladin|XPHB}, or {@class Explorador|XPHB}"
 												},
 												{
 													"type": "item",
 													"name": "Rogue:",
-													"entry": "Replace with {@class Bard|XPHB} or {@class Ranger|XPHB}"
+													"entry": "Replace with {@class Bard|XPHB} or {@class Explorador|XPHB}"
 												},
 												{
 													"type": "item",
@@ -4758,7 +4758,7 @@
 													"14"
 												],
 												[
-													"{@class Ranger|XPHB}",
+													"{@class Explorador|XPHB}",
 													"12",
 													"15",
 													"13",
@@ -5504,7 +5504,7 @@
 															"12 + Con. modifier"
 														],
 														[
-															"{@class Guerrero|XPHB}, {@class Paladin|XPHB}, or {@class Ranger|XPHB}",
+															"{@class Guerrero|XPHB}, {@class Paladin|XPHB}, or {@class Explorador|XPHB}",
 															"10 + Con. modifier"
 														],
 														[
@@ -5814,7 +5814,7 @@
 															"7 + Con. modifier"
 														],
 														[
-															"{@class Guerrero|XPHB}, {@class Paladin|XPHB}, or {@class Ranger|XPHB}",
+															"{@class Guerrero|XPHB}, {@class Paladin|XPHB}, or {@class Explorador|XPHB}",
 															"6 + Con. modifier"
 														],
 														[
@@ -6652,7 +6652,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "{@class Ranger|XPHB}",
+									"name": "{@class Explorador|XPHB}",
 									"page": 119,
 									"entries": [
 										"Weave together martial prowess, nature magic, and survival skills. Then embody the...",
@@ -6660,10 +6660,10 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Ranger|XPHB|Beast Master|Beast Master|XPHB} to bond with a primal beast.",
-												"{@class Ranger|XPHB|Fey Wanderer|Fey Wanderer|XPHB} to manifest fey mirth and fury.",
-												"{@class Ranger|XPHB|Gloom Stalker|Gloom Stalker|XPHB} to hunt foes that lurk in darkness.",
-												"{@class Ranger|XPHB|Hunter|Hunter|XPHB} to protect nature with martial versatility."
+												"{@class Explorador|XPHB|Beast Master|Beast Master|XPHB} to bond with a primal beast.",
+												"{@class Explorador|XPHB|Fey Wanderer|Fey Wanderer|XPHB} to manifest fey mirth and fury.",
+												"{@class Explorador|XPHB|Gloom Stalker|Gloom Stalker|XPHB} to hunt foes that lurk in darkness.",
+												"{@class Explorador|XPHB|Hunter|Hunter|XPHB} to protect nature with martial versatility."
 											]
 										}
 									],
@@ -12143,7 +12143,7 @@
 											"One"
 										],
 										[
-											"{@class Ranger|XPHB}",
+											"{@class Explorador|XPHB}",
 											"Finish a Long Rest",
 											"One"
 										],

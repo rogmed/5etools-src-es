@@ -1364,13 +1364,13 @@
 						},
 						{
 							"type": "entries",
-							"name": "Ranger",
+							"name": "Explorador",
 							"page": 24,
 							"entries": [
 								"Standing as a bastion between civilization and the wilderness, Boros rangers scout the rubblebelts and other wild areas of Ravnica. Gruul rangers serve a similar role, though they are focused on protecting their clans from the encroachment of civilized forces such as the Boros. Selesnya and Golgari rangers are focused on protecting their communities.",
 								{
 									"type": "table",
-									"caption": "Ranger",
+									"caption": "Explorador",
 									"colStyles": [
 										"col-6",
 										"col-6"

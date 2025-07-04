@@ -5742,7 +5742,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Ensnaring Strike",
+			"name": "Golpe apresador",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -8900,7 +8900,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Hunter's Mark",
+			"name": "Marca del cazador",
 			"source": "XPHB",
 			"activities": [
 				{

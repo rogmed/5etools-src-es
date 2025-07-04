@@ -1045,7 +1045,7 @@
 				}
 			],
 			"entries": [
-				"Aprendes dos trucos de druida de tu elección (consulta la sección de la clase druida para ver la lista de conjuros de druida). Se recomiendan @{spell Guía|XPHB} y @{spell voluta estelar|XPHB}, Los trucos elegidos cuentan como conjuros de explorador para ti y la Sabiduría es tu aptitud mágica para lanzarlos. Cada vez que subas un nivel de explorador, puedes sustituir uno de estos trucos por otro truco de druida."
+				"Aprendes dos {@filter trucos de druida|spells|class=druid|level=0} de tu elección (consulta la sección de la clase druida para ver la lista de conjuros de druida). Se recomiendan {@spell Guía|XPHB} y {@spell Voluta estelar|XPHB}, Los trucos elegidos cuentan como conjuros de explorador para ti y la Sabiduría es tu aptitud mágica para lanzarlos. Cada vez que subas un nivel de explorador, puedes sustituir uno de estos trucos por otro {@filter trucos de druida|spells|class=druid|level=0}."
 			]
 		},
 		{
@@ -2609,10 +2609,10 @@
 			]
 		},
 		{
-			"name": "Boon of Dimensional Travel",
-			"originalname": "",
+			"name": "Don del viaje dimensional",
+			"originalname": "Boon of Dimensional Travel",
 			"source": "XPHB",
-			"page": 210,
+			"page": 211,
 			"srd52": true,
 			"basicRules2024": true,
 			"category": "DE",
@@ -2637,12 +2637,12 @@
 				}
 			],
 			"entries": [
-				"You gain the following benefits.",
+				"Obtienes los siguientes beneficios:",
 				{
 					"type": "entries",
-					"name": "Blink Steps",
+					"name": "Pasos desplazadores",
 					"entries": [
-						"Immediately after you take the {@action Attack|XPHB} action or the {@action Magic|XPHB} action, you can teleport up to 30 feet to an unoccupied space you can see."
+						"Inmediatamente después de que realices la acción de atacar o la de magia, puedes teletransportarte hasta 30 pies (9 m) a un espacio sin ocupar que puedas ver."
 					]
 				}
 			]

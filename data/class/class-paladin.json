@@ -854,7 +854,7 @@
 				{
 					"prepared": {
 						"3": [
-							"ensnaring strike",
+							"golpe apresador",
 							"speak with animals"
 						],
 						"5": [
@@ -920,7 +920,7 @@
 					"prepared": {
 						"3": [
 							"bane",
-							"hunter's mark"
+							"marca del cazador"
 						],
 						"5": [
 							"hold person",
@@ -1563,7 +1563,7 @@
 				{
 					"prepared": {
 						"3": [
-							"ensnaring strike|xphb",
+							"golpe apresador|xphb",
 							"speak with animals|xphb"
 						],
 						"5": [
@@ -1606,7 +1606,7 @@
 					"prepared": {
 						"3": [
 							"bane|xphb",
-							"hunter's mark|xphb"
+							"marca del cazador|xphb"
 						],
 						"5": [
 							"hold person|xphb",
@@ -2694,7 +2694,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell ensnaring strike}, {@spell speak with animals}"
+							"{@spell golpe apresador}, {@spell speak with animals}"
 						],
 						[
 							"5th",
@@ -3203,7 +3203,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell bane}, {@spell hunter's mark}"
+							"{@spell bane}, {@spell marca del cazador}"
 						],
 						[
 							"5th",
@@ -4892,7 +4892,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell Ensnaring Strike|XPHB}, {@spell Speak with Animals|XPHB}"
+							"{@spell Golpe apresador|XPHB}, {@spell Speak with Animals|XPHB}"
 						],
 						[
 							"5th",
@@ -5385,7 +5385,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell Perdición|XPHB}, {@spell Hunter's Mark|XPHB}"
+							"{@spell Perdición|XPHB}, {@spell Marca del cazador|XPHB}"
 						],
 						[
 							"5th",

@@ -6966,10 +6966,10 @@
 			]
 		},
 		{
-			"name": "Ensnaring Strike",
-			"originalname": "",
+			"name": "Golpe apresador",
+			"originalname": "Ensnaring Strike",
 			"source": "XPHB",
-			"page": 268,
+			"page": 287,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -6978,7 +6978,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a weapon"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma"
 				}
 			],
 			"range": {
@@ -7001,15 +7001,15 @@
 				}
 			],
 			"entries": [
-				"As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has {@variantrule Advantage|XPHB} on this save. On a failed save, the target has the {@condition Apresado|XPHB} condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.",
-				"While {@condition Apresado|XPHB}, the target takes {@damage 1d6} Piercing damage at the start of each of its turns. The target or a creature within reach of it can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC. On a success, the spell ends."
+				"Al acertar al objetivo, unas enredaderas aparecerán sobre él y deberá hacer una tirada de salvación de Fuerza. Las criaturas Grandes o de mayor tamaño tienen ventaja en esta tirada. Si la falla, tendrá el estado de {@condition Apresado|XPHB} hasta que el conjuro termine. Si la supera, las enredaderas se marchitan y el conjuro termina.",
+				"Mientras esté {@condition Apresado|XPHB}, el objetivo sufrirá {@damage 1d6} de daño perforante al principio de cada uno de sus turnos. El objetivo o una criatura a su alcance puede emplear una acción para hacer una prueba de Fuerza ({@skill Atletismo|XPHB}) contra tu CD de salvación de conjuros. Si la supera, el conjuro termina."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 1d6|1-9|1d6} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 1d6|1-9|1d6} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -10881,10 +10881,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Hunter's Mark",
-			"originalname": "",
+			"name": "Marca del cazador",
+			"originalname": "Hunter's mark",
 			"source": "XPHB",
-			"page": 287,
+			"page": 310,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -10916,15 +10916,15 @@
 				}
 			],
 			"entries": [
-				"You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra {@damage 1d6} Force damage to the target whenever you hit it with an attack roll. You also have {@variantrule Advantage|XPHB} on any Wisdom ({@skill Perception|XPHB} or {@skill Survival|XPHB}) check you make to find it.",
-				"If the target drops to 0 {@variantrule Hit Points|XPHB} before this spell ends, you can take a {@variantrule Bonus Action|XPHB} to move the mark to a new creature you can see within range."
+				"Marcas mágicamente a una criatura que puedas ver dentro del alcance como tu presa. Hasta que el conjuro termine, infliges 1d6 de daño de fuerza adicional al objetivo siempre que le aciertes con una tirada de ataque. También tendrás ventaja en cualquier prueba de Sabiduría ({@skill Percepción|XPHB} o {@skill Supervivencia|XPHB}) que realices para buscarlo.",
+				"Si los puntos de golpe del objetivo se reducen a O antes de que el conjuro termine, puedes emplear una acción adicional para transferir la marca a una nueva criatura que puedas ver dentro del alcance."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Your {@status Concentration|XPHB} can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours)."
+						"Tu {@status Concentración|XPHB} puede durar más si usas un espacio de conjuro de nivel 3 o 4 (hasta 8 horas) o 5 o más (hasta 24 horas)."
 					]
 				}
 			],

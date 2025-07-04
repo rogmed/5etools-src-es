@@ -880,7 +880,7 @@
 							}
 						}
 					},
-					"title": "Hunter's Mark Damage"
+					"title": "Marca del cazador Damage"
 				},
 				{
 					"type": "ScaleValue",
@@ -6115,7 +6115,7 @@
 			"level": 20,
 			"activities": [
 				{
-					"name": "Improved Hunter's Mark Damage",
+					"name": "Improved Marca del cazador Damage",
 					"type": "damage",
 					"activation": {
 						"type": ""

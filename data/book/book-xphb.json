@@ -7108,7 +7108,7 @@
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
-															"{@feat Boon of Dimensional Travel|XPHB}",
+															"{@feat Don del viaje dimensional|XPHB}",
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
@@ -7516,7 +7516,7 @@
 							"columns": 3,
 							"items": [
 								"{@feat Don de la pericia en combate|XPHB}",
-								"{@feat Boon of Dimensional Travel|XPHB}",
+								"{@feat Don del viaje dimensional|XPHB}",
 								"{@feat Boon of Energy Resistance|XPHB}",
 								"{@feat Don del destino|XPHB}",
 								"{@feat Boon of Fortitude|XPHB}",
@@ -12769,7 +12769,7 @@
 								"{@spell Elementalismo|XPHB}",
 								"{@spell Enhance Ability|XPHB}",
 								"{@spell Enlarge/Reduce|XPHB}",
-								"{@spell Ensnaring Strike|XPHB}",
+								"{@spell Golpe apresador|XPHB}",
 								"{@spell Entangle|XPHB}",
 								"{@spell Enthrall|XPHB}",
 								"{@spell Etherealness|XPHB}",
@@ -12858,7 +12858,7 @@
 								"{@spell Hold Person|XPHB}",
 								"{@spell Holy Aura|XPHB}",
 								"{@spell Hunger of Hadar|XPHB}",
-								"{@spell Hunter's Mark|XPHB}",
+								"{@spell Marca del cazador|XPHB}",
 								"{@spell Hypnotic Pattern|XPHB}"
 							]
 						},

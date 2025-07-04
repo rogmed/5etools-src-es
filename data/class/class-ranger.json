@@ -26,7 +26,7 @@
 				"fue",
 				"des"
 			],
-			"spellcastingAbility": "sab",
+			"Lanzamiento de conjurosAbility": "sab",
 			"casterProgression": "artificer",
 			"preparedSpellsProgression": [
 				2,
@@ -55,7 +55,7 @@
 				{
 					"prepared": {
 						"1": [
-							"hunter's mark|xphb"
+							"marca del cazador|xphb"
 						]
 					}
 				}
@@ -471,43 +471,43 @@
 				}
 			],
 			"classFeatures": [
-				"Spellcasting|Explorador|XPHB|1",
+				"Lanzamiento de conjuros|Explorador|XPHB|1",
 				"Enemigo predilecto|Explorador|XPHB|1",
-				"Weapon Mastery|Explorador|XPHB|1",
-				"Deft Explorer|Explorador|XPHB|2",
+				"Maestría con armas|Explorador|XPHB|1",
+				"Explorador hábil|Explorador|XPHB|2",
 				"Estilo de combate|Explorador|XPHB|2",
 				{
-					"classFeature": "Ranger Subclass|Explorador|XPHB|3",
+					"classFeature": "Subclase de explorador|Explorador|XPHB|3",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Explorador|XPHB|4",
-				"Extra Attack|Explorador|XPHB|5",
-				"Roving|Explorador|XPHB|6",
+				"Mejora de característica|Explorador|XPHB|4",
+				"Ataque adicional|Explorador|XPHB|5",
+				"Errante|Explorador|XPHB|6",
 				{
 					"classFeature": "Rasgo de subclase|Explorador|XPHB|7",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Explorador|XPHB|8",
-				"Expertise|Explorador|XPHB|9",
-				"Tireless|Explorador|XPHB|10",
+				"Mejora de característica|Explorador|XPHB|8",
+				"Pericia|Explorador|XPHB|9",
+				"Infatigable|Explorador|XPHB|10",
 				{
 					"classFeature": "Rasgo de subclase|Explorador|XPHB|11",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Explorador|XPHB|12",
-				"Relentless Hunter|Explorador|XPHB|13",
-				"Nature's Veil|Explorador|XPHB|14",
+				"Mejora de característica|Explorador|XPHB|12",
+				"Cazador persistente|Explorador|XPHB|13",
+				"Velo de la naturaleza|Explorador|XPHB|14",
 				{
 					"classFeature": "Rasgo de subclase|Explorador|XPHB|15",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Explorador|XPHB|16",
-				"Precise Hunter|Explorador|XPHB|17",
-				"Feral Senses|Explorador|XPHB|18",
+				"Mejora de característica|Explorador|XPHB|16",
+				"Cazador preciso|Explorador|XPHB|17",
+				"Sentidos salvajes|Explorador|XPHB|18",
 				"Don épico|Explorador|XPHB|19",
-				"Foe Slayer|Explorador|XPHB|20"
+				"Azote de enemigos|Explorador|XPHB|20"
 			],
-			"subclassTitle": "Ranger Subclass",
+			"subclassTitle": "Subclase de explorador",
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
@@ -626,66 +626,66 @@
 		{
 			"name": "Enemigo predilecto",
 			"source": "XPHB",
-			"page": 120,
+			"page": 103,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You always have the {@spell Hunter's Mark|XPHB} spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a {@variantrule Long Rest|XPHB}.",
-				"The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Enemigo predilecto column of the Ranger Features table."
+				"Siempre tienes el conjuro {@spell Marca del cazador|XPHB} preparado. Puedes lanzarlo dos veces sin gastar un espacio de conjuro y recuperas todos los usos de esta capacidad tras finalizar un descanso largo.",
+				"La cantidad de veces que puedes lanzar el conjuro sin gastar un espacio aumenta según alcanzas ciertos niveles de explorador, como se muestra en la columna “Enemigo predilecto” de la tabla “Rasgos de explorador”."
 			]
 		},
 		{
-			"name": "Spellcasting",
+			"name": "Lanzamiento de conjuros",
 			"source": "XPHB",
-			"page": 119,
+			"page": 103,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have learned to channel the magical essence of nature to cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the {@filter Ranger spell list|spells|class=Explorador} later in the class's description.",
+				"Has aprendido a canalizar la esencia mágica de la naturaleza para lanzar conjuros. Consulta el capítulo 7 para ver las reglas sobre el lanzamiento de conjuros. La información presentada a continuación detalla cómo usar esas reglas con los conjuros de explorador, que encontrarás más adelante en la {@filter lista de conjuros de explorador|spells|class=Explorador} de la descripción de la clase.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Spell Slots",
+							"name": "Espacios de conjuro",
 							"entries": [
-								"The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
+								"La tabla “Rasgos de explorador” muestra cuántos espacios de conjuro tienes para lanzar tus conjuros de nivel 1 y superiores. Recuperas todos los espacios utilizados tras finalizar un descanso largo."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Conjuros preparados of Level 1+",
+							"name": "Conjuros preparados de nivel 1 y superiores.",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two {@filter level 1 Ranger spells|spells|class=Explorador|level=1}. {@spell Curar heridas|XPHB} and {@spell Ensnaring Strike|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Ranger levels, as shown in the Conjuros preparados column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of Conjuros preparados can include six Ranger spells of level 1 or 2 in any combination.",
-								"If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you."
+								"Preparas una serie de conjuros de nivel 1 y superiores, que son los que podrás lanzar con este rasgo. Para empezar, elige dos {@filter conjuros de explorador de nivel 1|spells|class=Explorador|level=1}. Se recomiendan {@spell Curar heridas|XPHB} y {@spell Golpe apresador|XPHB}.",
+								"El número de conjuros de tu lista aumenta conforme subes de nivel de explorador, como se muestra en la columna “Conjuros preparados” de la tabla “Rasgos de explorador”. Cuando ese número aumente, elige conjuros de explorador adicionales hasta que el número de conjuros de tu lista coincida con el número de la tabla “Rasgos de explorador”. Estos conjuros deben ser de un nivel para el que tengas espacios de conjuro. Por ejemplo, si eres une exploradore de nivel 5, podrías preparar cualquier combinación de seis conjuros de explorador de nivel 1 o 2.",
+								"Si otro rasgo de explorador te proporciona conjuros que siempre tienes preparados, esos conjuros no cuentan para el total que puedes preparar con este rasgo, pero sí que cuentan como conjuros de explorador para ti."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Changing Your Conjuros preparados",
+							"name": "Cambiar los conjuros preparados",
 							"entries": [
-								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can replace one spell on your list with another Ranger spell for which you have spell slots."
+								"Tras finalizar un descanso largo, puedes sustituir un conjuro de tu lista por otro {@filter conjuro de explorador|spells|class=Explorador} para el que tengas espacios de conjuro."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Spellcasting Ability",
+							"name": "Aptitud mágica",
 							"entries": [
-								"Wisdom is your spellcasting ability for your Ranger spells."
+								"La Sabiduría es tu aptitud mágica en lo que respecta a tus conjuros de explorador."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Spellcasting Focus",
+							"name": "Canalizador mágico",
 							"entries": [
-								"You can use a {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Ranger spells."
+								"Puedes utilizar un {@item Druidic Focus|XPHB|canalizador druídico} como canalizador mágico para tus conjuros de explorador."
 							]
 						}
 					]
@@ -693,45 +693,45 @@
 			]
 		},
 		{
-			"name": "Weapon Mastery",
+			"name": "Maestría con armas",
 			"source": "XPHB",
-			"page": 120,
+			"page": 104,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Your training with weapons allows you to use the {@variantrule propiedades de maestría con armas|XPHB|mastery properties} of two kinds of {@filter weapons|items|type=arma sencilla;arma marcial} of your choice with which you have proficiency, such as {@item Arco largo|XPHB|Longbows} and {@item Espada corta|XPHB|Shortswords}.",
-				"Whenever you finish a {@variantrule Long Rest|XPHB}, you can change the kinds of weapons you chose. For example, you could switch to using the {@variantrule propiedades de maestría con armas|XPHB|mastery properties} of {@item Cimitarra|XPHB|Scimitars} and {@item Espada larga|XPHB|Longswords}."
+				"Tu entrenamiento con armas te permite utilizar las {@variantrule propiedades de maestría con armas|XPHB|propiedades de maestría} con dos tipos de {@filter armas|items|type=sencilla;marcial} de tu elección con las que tengas competencia, como {@item Arco largo|XPHB|arcos largos} y {@item Espada corta|XPHB|espadas cortas}.",
+				"ras finalizar un descanso largo, puedes cambiar los tipos de armas elegidas. Por ejemplo, podrías pasar a utilizar las {@variantrule propiedades de maestría con armas|XPHB|propiedades de maestría} con {@item Cimitarra|XPHB|cimitarras} y {@item Espada larga|XPHB|espadas largas}."
 			]
 		},
 		{
-			"name": "Deft Explorer",
+			"name": "Explorador hábil",
 			"source": "XPHB",
-			"page": 120,
+			"page": 104,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"Thanks to your travels, you gain the following benefits.",
+				"Tus viajes te proporcionan los siguientes beneficios.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Expertise",
+							"name": "Idiomas",
 							"entries": [
-								"Choose one of your skill proficiencies with which you lack {@variantrule Expertise|XPHB}. You gain {@variantrule Expertise|XPHB} in that skill."
+								"Conoces dos idiomas de tu elección de las tablas de idiomas del {@book capítulo 2|XPHB|2|Choose Languages}."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Languages",
+							"name": "Pericia",
 							"entries": [
-								"You know two languages of your choice from the language tables in {@book chapter 2|XPHB|2|Choose Languages}."
+								"Escoge una de tus competencias en habilidades con las que no tengas {@variantrule Pericia|XPHB|pericia}. Ganas pericia en esa habilidad."
 							]
 						}
 					]
@@ -741,14 +741,14 @@
 		{
 			"name": "Estilo de combate",
 			"source": "XPHB",
-			"page": 120,
+			"page": 104,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You gain a {@filter Dote de Estilo de Combate|feats|category=EC} of your choice. Instead of choosing one of those feats, you can choose the option below.",
+				"Obtienes una {@filter Dote de Estilo de Combate|feats|category=EC} de tu elección. En lugar de elegir una de esas dotes, puedes elegir la opción presentada a continuación.",
 				{
 					"type": "entries",
 					"entries": [
@@ -761,35 +761,35 @@
 			]
 		},
 		{
-			"name": "Ranger Subclass",
+			"name": "Subclase de explorador",
 			"source": "XPHB",
-			"page": 120,
+			"page": 104,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower."
+				"Consigues una subclase de explorador de tu elección. Una subclase es una especialización que te proporciona rasgos cuando alcanzas ciertos niveles de explorador. De aquí en adelante, obtienes todos los rasgos de tu subclase que sean de tu nivel de explorador e inferiores."
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 120,
+			"page": 104,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. Vuelves a obtener este rasgo en los niveles 8, 12 y 16 de explorador."
 			]
 		},
 		{
-			"name": "Extra Attack",
+			"name": "Ataque adicional",
 			"source": "XPHB",
-			"page": 120,
+			"page": 104,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
@@ -800,83 +800,83 @@
 			]
 		},
 		{
-			"name": "Roving",
+			"name": "Errante",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"Your {@variantrule Speed|XPHB} increases by 10 feet while you aren't wearing Heavy armor. You also have a {@variantrule Climb Speed|XPHB} and a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Speed|XPHB}."
+				"Tu velocidad aumenta en 10 pies (3 m) si no llevas armadura pesada. También tienes una velocidad nadando y una velocidad trepando iguales a tu velocidad."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"You gain a feature from your Ranger Subclass."
+				"Obtienes un rasgo de tu subclase de explorador"
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
-			"name": "Expertise",
+			"name": "Pericia",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"Choose two of your skill proficiencies with which you lack {@variantrule Expertise|XPHB}. You gain {@variantrule Expertise|XPHB} in those skills."
+				"Escoge dos de tus competencias en habilidades con las que no tengas {@variantrule Expertise|XPHB|Pericia}. Ganas {@variantrule Expertise|XPHB|Pericia} en esas habilidades."
 			]
 		},
 		{
-			"name": "Tireless",
+			"name": "Infatigable",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"Primal forces now help fuel you on your journeys, granting you the following benefits.",
+				"Las fuerzas primigenias te ayudan ahora en tus viajes, lo que te otorga los siguientes beneficios.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Temporary Hit Points",
+							"name": "Puntos de golpe temporales",
 							"entries": [
-								"As a {@action Magic|XPHB} action, you can give yourself a number of {@variantrule Temporary Hit Points|XPHB} equal to {@dice 1d8} plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+								"Como acción de magia, puedes concederte una cantidad de puntos de golpe temporales igual a {@dice 1d8} más tu modificador por Sabiduría (mínimo de 1). Puedes usar esta acción una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Decrease Exhaustion",
+							"name": "Disminuir cansancio",
 							"entries": [
-								"Whenever you finish a {@variantrule Short Rest|XPHB}, your {@condition Cansancio|XPHB} level, if any, decreases by 1."
+								"Tras finalizar un descanso corto, tu nivel de {@condition Cansancio|XPHB}, si lo tienes, se reduce en 1."
 							]
 						}
 					]
@@ -886,132 +886,132 @@
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"You gain a feature from your Ranger Subclass."
+				"Obtienes un rasgo de tu subclase de explorador"
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
-			"name": "Relentless Hunter",
+			"name": "Cazador persistente",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
-				"Taking damage can't break your {@status Concentration|XPHB} on Hunter's Mark."
+				"Sufrir daño no rompe tu {@status concentración|XPHB} de {@spell marca del cazador|XPHB}."
 			]
 		},
 		{
-			"name": "Nature's Veil",
+			"name": "Velo de la naturaleza",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You invoke spirits of nature to magically hide yourself. As a {@variantrule Bonus Action|XPHB}, you can give yourself the {@condition Invisible|XPHB} condition until the end of your next turn.",
-				"You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"Invocas espíritus de la naturaleza para esconderte mágicamente. Como acción adicional, puedes otorgarte el estado de {@condition Invisible|XPHB} hasta el final de tu siguiente turno.",
+				"Puedes usar este rasgo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"You gain a feature from your Ranger Subclass."
+				"Obtienes un rasgo de tu subclase de explorador"
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
-			"name": "Precise Hunter",
+			"name": "Cazador preciso",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"You have {@variantrule Advantage|XPHB} on attack rolls against the creature currently marked by your Hunter's Mark."
+				"Tienes ventaja en las tiradas de ataque contra la criatura que tenga tu {@spell marca del cazador|XPHB} sobre ella."
 			]
 		},
 		{
-			"name": "Feral Senses",
+			"name": "Sentidos salvajes",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 18,
 			"entries": [
-				"Your connection to the forces of nature grants you {@sense Blindsight|XPHB} with a range of 30 feet."
+				"Tu conexión con las fuerzas de la naturaleza te otorga visión ciega hasta 30 pies (9 m)."
 			]
 		},
 		{
 			"name": "Don épico",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Boon of Dimensional Travel|XPHB} is recommended."
+				"Obtienes una {@filter dote de don épico|feats|category=DE} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. Se recomienda {@feat Don del viaje dimensional|XPHB}."
 			]
 		},
 		{
-			"name": "Foe Slayer",
+			"name": "Azote de enemigos",
 			"source": "XPHB",
-			"page": 121,
+			"page": 105,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"The damage die of your Hunter's Mark is a {@damage d10} rather than a {@damage d6}."
+				"El dado de daño de tu {@spell marca del cazador|XPHB} es un {@damage d10} en lugar de un d6."
 			]
 		}
 	],
@@ -1095,7 +1095,7 @@
 			"header": 2,
 			"entries": [
 				"When you command your Primal Companion beast to take the Beast's Strike action, the beast can use it twice.",
-				"In addition, the first time each turn it hits a creature under the effect of your {@spell Hunter's Mark|XPHB} spell, the beast deals extra Force damage equal to the bonus damage of that spell."
+				"In addition, the first time each turn it hits a creature under the effect of your {@spell Marca del cazador|XPHB} spell, the beast deals extra Force damage equal to the bonus damage of that spell."
 			]
 		},
 		{
@@ -1512,7 +1512,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter's Mark, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are."
+				"You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Marca del cazador, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are."
 			]
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"Once per turn when you deal damage to a creature marked by your Hunter's Mark, you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature."
+				"Once per turn when you deal damage to a creature marked by your Marca del cazador, you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature."
 			]
 		},
 		{

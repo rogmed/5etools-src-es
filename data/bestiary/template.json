@@ -1021,7 +1021,7 @@
 			}
 		},
 		{
-			"name": "Goliath",
+			"name": "Goliat",
 			"source": "VGM",
 			"page": 108,
 			"ref": "{@race Goliath|VGM}",
@@ -1150,7 +1150,7 @@
 					],
 					"languages": {
 						"mode": "appendIfNotExistsArr",
-						"items": "Orc"
+						"items": "Orco"
 					},
 					"trait": {
 						"mode": "appendArr",
@@ -1707,7 +1707,7 @@
 			}
 		},
 		{
-			"name": "Human",
+			"name": "Humano",
 			"source": "PHB",
 			"page": 29,
 			"ref": "{@race Human}",
@@ -2471,7 +2471,7 @@
 			}
 		},
 		{
-			"name": "Orc",
+			"name": "Orco",
 			"source": "DMG",
 			"page": 120,
 			"ref": "{@race Orc|DMG}",
@@ -2499,7 +2499,7 @@
 					],
 					"languages": {
 						"mode": "appendIfNotExistsArr",
-						"items": "Orc"
+						"items": "Orco"
 					},
 					"trait": {
 						"mode": "appendArr",
@@ -2774,7 +2774,7 @@
 				"_mod": {
 					"languages": {
 						"mode": "appendIfNotExistsArr",
-						"items": "Halfling"
+						"items": "Mediano"
 					},
 					"trait": {
 						"mode": "appendArr",

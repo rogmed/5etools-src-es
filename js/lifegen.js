@@ -186,27 +186,27 @@ function rollOnArray (lst) {
 }
 
 const RACES_SELECTABLE = ["Enano", "Elfo", "Half-Elf", "Half-Orc", "Tiefling"];
-const RACES_UNSELECTABLE = ["Human", "Halfling", "Dracónido", "Gnomo"];
+const RACES_UNSELECTABLE = ["Humano", "Mediano", "Dracónido", "Gnomo"];
 
 const PARENTS_HALF_ELF = [
-	{min: 1, max: 5, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was an elf and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a human.`; }, display: "One parent was an elf and the other was a human.", _races: ["Elfo", "Human"]},
+	{min: 1, max: 5, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was an elf and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a human.`; }, display: "One parent was an elf and the other was a human.", _races: ["Elfo", "Humano"]},
 	{min: 6, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was an elf and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a half-elf.`; }, display: "One parent was an elf and the other was a half-elf.", _races: ["Elfo", "Half-Elf"]},
-	{min: 7, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was a human and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a half-elf.`; }, display: "One parent was a human and the other was a half-elf.", _races: ["Half-Elf", "Human"]},
+	{min: 7, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was a human and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a half-elf.`; }, display: "One parent was a human and the other was a half-elf.", _races: ["Half-Elf", "Humano"]},
 	{min: 8, result: "Both parents were half-elves.", _races: ["Half-Elf", "Half-Elf"]},
 ];
 
 const PARENTS_HALF_ORC = [
-	{min: 1, max: 3, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was an orc and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a human.`; }, display: "One parent was an orc and the other was a human.", _races: ["Orc", "Human"]},
-	{min: 4, max: 5, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was an orc and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a half-orc.`; }, display: "One parent was an orc and the other was a half-orc.", _races: ["Orc", "Half-Orc"]},
-	{min: 6, max: 7, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was a human and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a half-orc.`; }, display: "One parent was a human and the other was a half-orc.", _races: ["Human", "Half-Orc"]},
+	{min: 1, max: 3, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was an orc and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a human.`; }, display: "One parent was an orc and the other was a human.", _races: ["Orco", "Humano"]},
+	{min: 4, max: 5, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was an orc and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a half-orc.`; }, display: "One parent was an orc and the other was a half-orc.", _races: ["Orco", "Half-Orc"]},
+	{min: 6, max: 7, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was a human and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a half-orc.`; }, display: "One parent was a human and the other was a half-orc.", _races: ["Humano", "Half-Orc"]},
 	{min: 8, display: "Both parents were half-orcs.", _races: ["Half-Orc", "Half-Orc"]},
 ];
 
 const PARENTS_TIEFLING = [
-	{min: 1, max: 4, display: "Both parents were humans, their infernal heritage dormant until you came along.", _races: ["Human", "Human"]},
-	{min: 5, max: 6, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was a tiefling and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a human.`; }, display: "One parent was a tiefling and the other was a human.", _races: ["Human", "Tiefling"]},
+	{min: 1, max: 4, display: "Both parents were humans, their infernal heritage dormant until you came along.", _races: ["Humano", "Humano"]},
+	{min: 5, max: 6, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was a tiefling and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a human.`; }, display: "One parent was a tiefling and the other was a human.", _races: ["Humano", "Tiefling"]},
 	{min: 7, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was a tiefling and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a devil.`; }, display: "One parent was a tiefling and the other was a devil.", _races: ["Devil", "Tiefling"]},
-	{min: 8, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was a human and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a devil.`; }, display: "One parent was a human and the other was a devil.", _races: ["Human", "Devil"]},
+	{min: 8, result: () => { const p = RNG(2); return `One parent ${fmtChoice(p === 1 ? "mother" : "father")} was a human and the other ${fmtChoice(p === 1 ? "father" : "mother")} was a devil.`; }, display: "One parent was a human and the other was a devil.", _races: ["Humano", "Devil"]},
 ];
 
 const BIRTHPLACES = [
@@ -528,10 +528,10 @@ const SUPP_OCCUPATION = [
 ];
 
 const SUPP_RACE = [
-	{min: 1, max: 40, result: "Human"},
+	{min: 1, max: 40, result: "Humano"},
 	{min: 41, max: 50, result: "Enano"},
 	{min: 51, max: 60, result: "Elfo"},
-	{min: 61, max: 70, result: "Halfling"},
+	{min: 61, max: 70, result: "Mediano"},
 	{min: 71, max: 75, result: "Dracónido"},
 	{min: 76, max: 80, result: "Gnomo"},
 	{min: 81, max: 85, result: "Half-elf"},
@@ -609,7 +609,7 @@ function onJsonLoad (lifeData, nameData) {
 		.forEach(nameMeta => {
 			nameTables[Parser.stringToSlug(nameMeta.name)] = nameMeta;
 
-			if (nameMeta.name === "Elfo" || nameMeta.name === "Human") {
+			if (nameMeta.name === "Elfo" || nameMeta.name === "Humano") {
 				const cpy = MiscUtil.copy(nameMeta);
 				if (nameTables["halfelf"]) nameTables["halfelf"].tables.push(...cpy.tables);
 				else nameTables["halfelf"] = cpy;

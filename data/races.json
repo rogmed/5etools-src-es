@@ -934,7 +934,7 @@
 			]
 		},
 		{
-			"name": "Goliath",
+			"name": "Goliat",
 			"source": "XPHB",
 			"page": 192,
 			"basicRules2024": true,
@@ -959,71 +959,71 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Giant Ancestry",
+					"name": "Constitución poderosa",
 					"entries": [
-						"You are descended from Giants. Choose one of the following benefits—a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}:",
+						"Tienes ventaja en cualquier prueba de característica que hagas para poner fin al estado de {@condition Agarrado|XPHB}. Además, al determinar tu capacidad de carga, cuentas como si tuvieras un tamaño una categoría superior."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Forma grande",
+					"entries": [
+						"A partir del nivel 5 de personaje, puedes cambiar de tamaño a Grande como acción adicional si estás en un lugar lo bastante espacioso. Esta transformación dura 10 minutos o hasta que le pongas fin (no requiere acción). Durante ese tiempo, tendrás ventaja en las pruebas de Fuerza y tu velocidad aumentará en 3 m. Cuando uses este atributo, no podrás volver a hacerlo hasta que finalices un descanso largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Linaje gigante",
+					"entries": [
+						"Desciendes de los gigantes. Elige uno de los siguientes beneficios sobrenaturales que te concede tu linaje; podrás usar el beneficio elegido una cantidad de veces igual a tu bonificador por competencia y recuperas todos los usos tras finalizar un descanso largo:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
 							"items": [
 								{
 									"type": "item",
-									"name": "Cloud's Jaunt (Cloud Giant)",
+									"name": "Abrasión del fuego (gigante de fuego)",
 									"entries": [
-										"As a {@variantrule Bonus Action|XPHB}, you magically teleport up to 30 feet to an unoccupied space you can see."
+										"Cuando aciertes a un objetivo con una tirada de ataque y le causes daño, también puedes causarle {@damage 1d10} de daño de fuego."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Fire's Burn (Fire Giant)",
+									"name": "Caída de las colinas (gigante de las colinas)",
 									"entries": [
-										"When you hit a target with an attack roll and deal damage to it, you can also deal {@damage 1d10} Fire damage to that target."
+										"Cuando aciertes a una criatura Grande o más pequeña con una tirada de ataque y le causes daño, también puedes infligirle el estado de {@condition Derribado|XPHB}."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Frost's Chill (Frost Giant)",
+									"name": "Excursión de las nubes (gigante de las nubes).",
 									"entries": [
-										"When you hit a target with an attack roll and deal damage to it, you can also deal {@damage 1d6} Cold damage to that target and reduce its {@variantrule Speed|XPHB} by 10 feet until the start of your next turn."
+										"Como acción adicional, te teletransportas mágicamente hasta 30 pies (9 m) a un espacio sin ocupar que puedas ver."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Hill's Tumble (Hill Giant)",
+									"name": "Frío de la escarcha (gigante de escarcha)",
 									"entries": [
-										"When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the {@condition Prone|XPHB} condition."
+										"Cuando aciertes a un objetivo con una tirada de ataque y le causes daño, también puedes causarle 1d6 de daño de frío y reducir su velocidad en 10 pies (3 m) hasta el principio de tu siguiente turno."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Stone's Endurance (Stone Giant)",
+									"name": "Resistencia de la piedra (gigante de piedra)",
 									"entries": [
-										"When you take damage, you can take a {@variantrule Reaction|XPHB} to roll {@dice 1d12}. Add your Constitution modifier to the number rolled and reduce the damage by that total."
+										"Cuando recibas daño, puedes usar una reacción para tirar {@dice 1d12}. Suma tu modificador por Constitución al resultado y reduce el daño en ese total."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Storm's Thunder (Storm Giant)",
+									"name": "Trueno de la tormenta (gigante de las tormentas)",
 									"entries": [
-										"When you take damage from a creature within 60 feet of you, you can take a {@variantrule Reaction|XPHB} to deal {@damage 1d8} Thunder damage to that creature."
+										"Cuando una criatura que esté a 18 m o menos de ti te cause daño, puedes usar una reacción para infligirle {@damage 1d8} de daño de trueno."
 									]
 								}
 							]
 						}
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Large Form",
-					"entries": [
-						"Starting at character level 5, you can change your size to Large as a {@variantrule Bonus Action|XPHB} if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have {@variantrule Advantage|XPHB} on Strength checks, and your {@variantrule Speed|XPHB} increases by 10 feet. Once you use this trait, you can't use it again until you finish a {@variantrule Long Rest|XPHB}."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Powerful Build",
-					"entries": [
-						"You have {@variantrule Advantage|XPHB} on any ability check you make to end the {@condition Agarrado|XPHB} condition. You also count as one size larger when determining your carrying capacity."
 					]
 				}
 			],
@@ -1213,7 +1213,7 @@
 			]
 		},
 		{
-			"name": "Halfling",
+			"name": "Mediano",
 			"source": "XPHB",
 			"page": 193,
 			"basicRules2024": true,
@@ -1229,36 +1229,36 @@
 				"type": "item",
 				"name": "Tamaño:",
 				"entries": [
-					"Small (about 2-3 feet tall)"
+					"Pequeño (entre 60 y 90 cm de altura)"
 				]
 			},
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Brave",
+					"name": "Agilidad de mediano",
 					"entries": [
-						"You have {@variantrule Advantage|XPHB} on saving throws you make to avoid or end the {@condition Asustado|XPHB} condition."
+						"Puedes moverte a través del espacio ocupado por cualquier criatura de tamaño superior al tuyo, pero no puedes detenerte en el mismo espacio."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Halfling Nimbleness",
+					"name": "Fortuna",
 					"entries": [
-						"You can move through the space of any creature that is a size larger than you, but you can't stop in the same space."
+						"Cuando saques un 1 en una {@variantrule Prueba con d20|XPHB}, podrás repetir la tirada y deberás utilizar el nuevo resultado."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Luck",
+					"name": "Sigiloso por naturaleza.",
 					"entries": [
-						"When you roll a 1 on the {@dice d20} of a {@variantrule Prueba con d20|XPHB}, you can reroll the die, and you must use the new roll."
+						"Puedes llevar a cabo la acción de {@action Hide|XPHB|esconderte} incluso tras una criatura cuyo tamaño sea, al menos, una categoría superior al tuyo."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Naturally Stealthy",
+					"name": "Valiente.",
 					"entries": [
-						"You can take the {@action Hide|XPHB} action even when you are obscured only by a creature that is at least one size larger than you."
+						"Tienes ventaja en las tiradas de salvación que hagas para evitar o poner fin al estado de {@condition Asustado|XPHB}."
 					]
 				}
 			],
@@ -1266,9 +1266,9 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Human",
+			"name": "Humano",
 			"source": "XPHB",
-			"page": 194,
+			"page": 193,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
@@ -1299,29 +1299,29 @@
 				"type": "item",
 				"name": "Tamaño:",
 				"entries": [
-					"Medium (about 4-7 feet tall) or Small (about 2-4 feet tall), chosen when you select this species"
+					"Mediano (entre 1,2 y 2,1 m de altura) o Pequeño (entre 60 cm y 1,2 m de altura), elegido al seleccionar la especie"
 				]
 			},
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Resourceful",
+					"name": "Diestro",
 					"entries": [
-						"You gain {@variantrule Inspiración Heroica|XPHB} whenever you finish a {@variantrule Long Rest|XPHB}."
+						"Ganas competencia en una habilidad de tu elección."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Skillful",
+					"name": "Ingenioso.",
 					"entries": [
-						"You gain proficiency in one skill of your choice."
+						"Obtienes {@variantrule Inspiración Heroica|XPHB} tras finalizar un descanso largo."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Versatile",
+					"name": "Versátil",
 					"entries": [
-						"You gain an {@filter Origin feat|feats|category=o} of your choice."
+						"Obtienes una {@filter dote de origen|feats|category=o} de tu elección. Se recomienda {@feat Habilidoso|XPHB}"
 					]
 				}
 			],
@@ -1329,7 +1329,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Orc",
+			"name": "Orco",
 			"source": "XPHB",
 			"page": 195,
 			"basicRules2024": true,
@@ -1346,16 +1346,23 @@
 				"type": "item",
 				"name": "Tamaño:",
 				"entries": [
-					"Medium (about 6-7 feet tall)"
+					"Mediano (entre 1,8 y 2,1 m de altura)"
 				]
 			},
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Adrenaline Rush",
+					"name": "Aguante incansable",
 					"entries": [
-						"You can take the {@action Dash|XPHB} action as a {@variantrule Bonus Action|XPHB}. When you do so, you gain a number of {@variantrule Temporary Hit Points|XPHB} equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}.",
-						"You can use this trait a number of times equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and you regain all expended uses when you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}."
+						"Cuando tus puntos de golpe se reducen a O pero no mueres inmediatamente, puedes recuperar 1 punto de golpe. Cuando uses este atributo, no podrás volver a hacerlo hasta que finalices un descanso largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Descarga de adrenalina",
+					"entries": [
+						"Puedes llevar a cabo la acción de correr como acción adicional. Cuando lo hagas, obtendrás una cantidad de puntos de golpe temporales igual a tu bonificador por competencia.",
+						"Puedes usar este atributo una cantidad de veces igual a tu bonificador por competencia y recuperas todos los usos tras finalizar un descanso corto o largo."
 					]
 				},
 				{
@@ -1363,13 +1370,6 @@
 					"name": "Visión en la oscuridad",
 					"entries": [
 						"Tienes visión en la oscuridad hasta 120 pies (36 m)."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Relentless Endurance",
-					"entries": [
-						"When you are reduced to 0 {@variantrule Hit Points|XPHB} but not killed outright, you can drop to 1 {@variantrule Hit Points|XPHB|Hit Point} instead. Once you use this trait, you can't do so again until you finish a {@variantrule Long Rest|XPHB}."
 					]
 				}
 			],
@@ -1412,31 +1412,25 @@
 				"type": "item",
 				"name": "Tamaño:",
 				"entries": [
-					"Medium (about 4-7 feet tall) or Small (about 3-4 feet tall), chosen when you select this species"
+					"Mediano (entre 1,2 y 2,1 m de altura) o Pequeño (entre 90 cm y 1,2 m de altura), elegido al seleccionar la especie"
 				]
 			},
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Visión en la oscuridad",
+					"name": "Legado infernal",
 					"entries": [
-						"Tienes visión en la oscuridad hasta 60 pies (18 m)."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Fiendish Legacy",
-					"entries": [
-						"You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table. You gain the level 1 benefit of the chosen legacy.",
-						"When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a {@variantrule Long Rest|XPHB}. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).",
+						"Eres el destinatario de un legado que te otorga capacidades sobrenaturales. Elige un legado de la tabla “Legados infernales”. Obtienes el beneficio de nivel 1 del legado elegido.",
+						"Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo de esta forma tras finalizar un descanso largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro que tengas del nivel apropiado.",
+						"La Inteligencia, la Sabiduría o el Carisma es tu aptitud mágica para los conjuros que lances con este atributo (elige la característica al seleccionar el legado).",
 						{
 							"type": "table",
-							"caption": "Fiendish Legacies",
+							"caption": "LEGADOS INFERNALES",
 							"colLabels": [
-								"Legacy",
-								"Level 1",
-								"Level 3",
-								"Level 5"
+								"Legado",
+								"Nivel 1",
+								"Nivel 3",
+								"Nivel 5"
 							],
 							"colStyles": [
 								"col-2",
@@ -1446,22 +1440,22 @@
 							],
 							"rows": [
 								[
-									"Abyssal",
-									"You have Resistance to Poison damage. You also know the {@spell Rociada venenosa|XPHB} cantrip.",
-									"{@spell Ray of Sickness|XPHB}",
-									"{@spell Hold Person|XPHB}"
+									"Abisal",
+									"Tienes resistencia al daño de veneno. También conoces el truco {@spell Rociada venenosa|XPHB}.",
+									"{@spell Rayo nauseabundo|XPHB}",
+									"{@spell Inmovilizar persona|XPHB}"
 								],
 								[
 									"Chthonic",
-									"You have Resistance to Necrotic damage. You also know the {@spell Chill Touch|XPHB} cantrip.",
-									"{@spell False Life|XPHB}",
-									"{@spell Ray of Enfeeblement|XPHB}"
+									"Yienes resistencia al daño necrótico. También conoces el truco {@spell Toque helado|XPHB}.",
+									"{@spell Falsa vida|XPHB}",
+									"{@spell Rayo debilitador|XPHB}"
 								],
 								[
 									"Infernal",
-									"You have Resistance to Fire damage. You also know the {@spell Descarga de fuego|XPHB} cantrip.",
-									"{@spell Hellish Rebuke|XPHB}",
-									"{@spell Darkness|XPHB}"
+									"Tienes resistencia al daño de fuego. También conoces el truco {@spell Descarga de fuego|XPHB}.",
+									"{@spell Reprensión infernal|XPHB}",
+									"{@spell Oscuridad|XPHB}"
 								]
 							]
 						}
@@ -1472,6 +1466,13 @@
 					"name": "Otherworldly Presence",
 					"entries": [
 						"You know the {@spell Taumaturgia|XPHB} cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Visión en la oscuridad",
+					"entries": [
+						"Tienes visión en la oscuridad hasta 60 pies (18 m)."
 					]
 				}
 			],

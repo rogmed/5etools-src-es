@@ -22,7 +22,7 @@
 		{
 			"name": "Adrenaline Rush",
 			"source": "XPHB",
-			"raceName": "Orc",
+			"raceName": "Orco",
 			"raceSource": "XPHB",
 			"system": {
 				"uses.max": "@prof",
@@ -2375,7 +2375,7 @@
 		{
 			"name": "Large Form",
 			"source": "XPHB",
-			"raceName": "Goliath",
+			"raceName": "Goliat",
 			"raceSource": "XPHB",
 			"activities": [
 				{
@@ -2428,7 +2428,7 @@
 		{
 			"name": "Luck",
 			"source": "XPHB",
-			"raceName": "Halfling",
+			"raceName": "Mediano",
 			"raceSource": "XPHB",
 			"effects": [
 				{
@@ -2587,7 +2587,7 @@
 		{
 			"name": "Powerful Build",
 			"source": "XPHB",
-			"raceName": "Goliath",
+			"raceName": "Goliat",
 			"raceSource": "XPHB",
 			"effects": [
 				{
@@ -2622,7 +2622,7 @@
 		{
 			"name": "Relentless Endurance",
 			"source": "XPHB",
-			"raceName": "Orc",
+			"raceName": "Orco",
 			"raceSource": "XPHB",
 			"activities": [
 				{

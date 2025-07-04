@@ -3872,7 +3872,7 @@
 			}
 		},
 		{
-			"name": "Goliath",
+			"name": "Goliat",
 			"source": "MPMM",
 			"entries": [
 				"The first goliaths lived on the highest mountain peaks\u2014far above the tree line, where the air is thin and frigid winds howl. Distantly related to giants and infused with the supernatural essence of their ancestors' mountainous home, goliaths stand between 7 and 8 feet tall and have a wide array of skin tones resembling different types of stone."
@@ -3891,7 +3891,7 @@
 			]
 		},
 		{
-			"name": "Goliath",
+			"name": "Goliat",
 			"source": "VGM",
 			"entries": [
 				{
@@ -3977,7 +3977,7 @@
 			]
 		},
 		{
-			"name": "Goliath",
+			"name": "Goliat",
 			"source": "XPHB",
 			"entries": [
 				{
@@ -3986,8 +3986,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants\u2014favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths' gigantic kin.",
-								"Goliaths have physical characteristics that are reminiscent of the giants in their family lines. For example, some goliaths look like stone giants, while others resemble fire giants. Whatever giants they count as kin, goliaths have forged their own path in the multiverse\u2014unencumbered by the internecine conflicts that have ravaged giantkind for ages\u2014and seek heights above those reached by their ancestors."
+								"Los goliats son descendientes lejanos de los gigantes y sobrepasan en altura a la mayoría de especies. Todos los goliats disfrutan de los favores de los primeros gigantes, lo que se manifiesta a modo de diversos beneficios sobrenaturales, como la capacidad de crecer de forma súbita y alcanzar temporalmente la altura de sus parientes gigantescos.",
+								"Los goliats tienen características físicas que evocan a sus antepasados. Por ejemplo, algunos goliats se parecen a los gigantes de piedra, mientras que otros tienen semejanza con los gigantes de fuego. Independientemente de sus parentescos, los goliats se han forjado su propio camino en el multiverso, sin la carga de los conflictos internos que han asolado a los gigantes durante siglos, y aspiran a encumbrarse por encima de sus antepasados."
 							]
 						}
 					]
@@ -4177,7 +4177,7 @@
 			}
 		},
 		{
-			"name": "Halfling",
+			"name": "Mediano",
 			"source": "PHB",
 			"entries": [
 				{
@@ -4301,7 +4301,7 @@
 			]
 		},
 		{
-			"name": "Halfling",
+			"name": "Mediano",
 			"source": "XPHB",
 			"entries": [
 				{
@@ -4310,10 +4310,10 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Cherished and guided by gods who value life, home, and hearth, halflings gravitate toward bucolic havens where family and community help shape their lives. That said, many halflings possess a brave and adventurous spirit that leads them on journeys of discovery, affording them the chance to explore a bigger world and make new friends along the way. Their size\u2014similar to that of a human child\u2014helps them pass through crowds unnoticed and slip through tight spaces.",
-								"Anyone who has spent time around halflings, particularly halfling adventurers, has likely witnessed the storied \"luck of the halflings\" in action. When a halfling is in mortal danger, an unseen force seems to intervene on the halfling's behalf. Many halflings believe in the power of luck, and they attribute their unusual gift to one or more of their benevolent gods, including Yondalla, Brandobaris, and Charmalaine. The same gift might contribute to their robust life spans (about 150 years).",
-								"Halfling communities come in all varieties. For every sequestered shire tucked away in an unspoiled part of the world, there's a crime syndicate like the Boromar Clan in the Eberron setting or a territorial mob of halflings like those in the Dark Sun setting.",
-								"Halflings who prefer to live underground are sometimes called strongheart halflings or stouts. Nomadic halflings, as well as those who live among humans and other tall folk, are sometimes called lightfoot halflings or tallfellows."
+								"Los medianos, valorados y guiados por los dioses que aprecian la vida, el hogar y la tranquilidad, se sienten atraídos por lugares bucólicos en los que la familia y la comunidad ayuden a hilvanar sus vidas. No obstante, muchos medianos tienen un espíritu valiente y aventurero que les lleva a emprender viajes de descubrimiento para explorar el mundo que los rodea y entablar nuevas amistades por el camino. Su tamaño, que es similar al de un niño humano, les ayuda a pasar desapercibidos entre la gente y colarse por espacios estrechos.",
+								"Todo aquel que ha pasado algún tiempo con los medianos, en especial con aventureros medianos, probablemente haya presenciado la famosa “suerte de los medianos” en acción. Cuando un mediano se encuentra en peligro mortal, una fuerza invisible parece intervenir a su favor. Muchos medianos creen en la buena fortuna y atribuyen este don inusual a uno o varios de sus benévolos dioses, como Yondalla, Brandobaris y Charmalaine. Este mismo don puede ser la causa de su prolongada esperanza de vida (unos 150 años).",
+								"Hay muchos tipos de comunidades de medianos. Por cada comarca aislada en alguna parte inmaculada del mundo, existe una organización criminal como el clan Boromar del escenario de Eberron o una banda territorial de medianos como las del escenario de Dark Sun.",
+								"Los medianos que prefieren vivir en el subsuelo se hacen llamar medianos fortecor o fornidos. Los medianos nómadas, así como aquellos que viven entre humanos y otros pueblos altos, a veces se denominan medianos piesligeros o grandullones."
 							]
 						}
 					]
@@ -4336,7 +4336,7 @@
 			"name": "Halfling (Ghostwise)",
 			"source": "SCAG",
 			"_copy": {
-				"name": "Halfling",
+				"name": "Mediano",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -4367,7 +4367,7 @@
 			"name": "Halfling (Lightfoot)",
 			"source": "PHB",
 			"_copy": {
-				"name": "Halfling",
+				"name": "Mediano",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -4392,7 +4392,7 @@
 			"name": "Halfling (Lotusden)",
 			"source": "EGW",
 			"_copy": {
-				"name": "Halfling",
+				"name": "Mediano",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -4419,7 +4419,7 @@
 			"name": "Halfling (Stout)",
 			"source": "PHB",
 			"_copy": {
-				"name": "Halfling",
+				"name": "Mediano",
 				"source": "PHB",
 				"_mod": {
 					"entries": {
@@ -4597,7 +4597,7 @@
 			]
 		},
 		{
-			"name": "Human",
+			"name": "Humano",
 			"source": "PHB",
 			"entries": [
 				{
@@ -4843,7 +4843,7 @@
 			]
 		},
 		{
-			"name": "Human",
+			"name": "Humano",
 			"source": "XPHB",
 			"entries": [
 				{
@@ -4852,8 +4852,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Found throughout the multiverse, humans are as varied as they are numerous, and they endeavor to achieve as much as they can in the years they are given. Their ambition and resourcefulness are commended, respected, and feared on many worlds.",
-								"Humans are as diverse in appearance as the people of Earth, and they have many gods. Scholars dispute the origin of humanity, but one of the earliest known human gatherings is said to have occurred in Sigil, the torus-shaped city at the center of the multiverse and the place where the Common language was born. From there, humans could have spread to every part of the multiverse, bringing the City of Doors' cosmopolitanism with them."
+								"Los humanos, que están repartidos por todo el multiverso, son tan variados como numerosos y tratan de lograr todo lo posible en el tiempo que viven. Su ambición e ingenio son encomiables, respetados y temidos en muchos mundos.",
+								"Los humanos presentan aspectos tan diversos como entre la población de la Tierra y tienen muchos dioses. Los eruditos debaten el origen de la humanidad, pero se dice que una de las primeras concentraciones humanas conocidas tuvo lugar en Sigil, la ciudad toroidal situada en el centro del multiverso y el lugar en el que nació la lengua común. Desde ahí, los humanos podrían haberse dispersado por todos los rincones del multiverso y llevado consigo el cosmopolitismo de la Ciudad de las Puertas."
 							]
 						}
 					]
@@ -4944,7 +4944,7 @@
 			"name": "Human (Base)",
 			"source": "PHB",
 			"_copy": {
-				"name": "Human",
+				"name": "Humano",
 				"source": "PHB"
 			}
 		},
@@ -6601,7 +6601,7 @@
 			]
 		},
 		{
-			"name": "Orc",
+			"name": "Orco",
 			"source": "MPMM",
 			"entries": [
 				"Orcs trace their creation to the one-eyed god Gruumsh, an unstoppable warrior and powerful leader. The divine qualities of Gruumsh resonate within orcs, granting them a reflection of his toughness and tenacity that can't be matched, and the god equipped his children to be able to live above or below ground.",
@@ -6621,7 +6621,7 @@
 			]
 		},
 		{
-			"name": "Orc",
+			"name": "Orco",
 			"source": "VGM",
 			"monstrous": true,
 			"images": [
@@ -6637,7 +6637,7 @@
 			]
 		},
 		{
-			"name": "Orc",
+			"name": "Orco",
 			"source": "XPHB",
 			"entries": [
 				{
@@ -6646,8 +6646,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Orcs trace their creation to Gruumsh, a powerful god who roamed the wide open spaces of the Material Plane. Gruumsh equipped his children with gifts to help them wander great plains, vast caverns, and churning seas and to face the monsters that lurk there. Even when they turn their devotion to other gods, orcs retain Gruumsh's gifts: endurance, determination, and the ability to see in darkness.",
-								"Orcs are, on average, tall and broad. They have gray skin, ears that are sharply pointed, and prominent lower canines that resemble small tusks. Orc youths on some worlds are told about their ancestors' great travels and travails. Inspired by those tales, many of those orcs wonder when Gruumsh will call on them to match the heroic deeds of old and if they will prove worthy of his favor. Other orcs are happy to leave old tales in the past and find their own way."
+								"Los orcos deben su creación a Gruumsh, un dios poderoso que vagaba por los amplios espacios abiertos del Plano Material. Gruumsh concedió dones a sus hijos para ayudarles a recorrer grandes llanuras, extensas cavernas y mares turbulentos para enfrentarse a los monstruos que en ellos acechaban. Incluso aunque se consagren a otros dioses, los orcos conservan los dones de Gruumsh: la resistencia, la determinación y la capacidad de ver en la oscuridad.",
+								"Por lo general, los orcos son altos y fornidos. Su piel es de color gris y tienen orejas muy puntiagudas y unos colmillos inferiores prominentes. A los orcos jóvenes de algunos mundos se les habla de los grandes viajes y penurias de sus antepasados. Muchos de estos orcos, inspirados por esos relatos, se preguntan cuándo los convocará Gruumsh para igualar las hazañas heroicas de antaño y demostrar que son merecedores de su favor. Otros orcos, sin embargo, prefieren dejar atrás esas historias y labrar su propio camino."
 							]
 						}
 					]
@@ -7720,27 +7720,27 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling's fiendish legacy, which comes with the promise of power yet has no effect on the tiefling's moral outlook.",
-						"A tiefling chooses whether to embrace or lament their fiendish legacy. The three legacies are described below.",
+						"Los tieflings pueden nacer en los Planos Inferiores o tener antepasados infernales procedentes de allí. Un tiefling (pronunciado TII-flin) guarda un vínculo de sangre con un diablo, demonio u algún otro infernal. Esta conexión con los Planos Inferiores es el legado infernal del tiefling y conlleva una promesa de poder aunque no influya en la moralidad del tiefling.",
+						"Los tieflings escogen si aceptar o lamentar su legado infernal. Los tres legados se describen a continuación.",
 						{
 							"type": "entries",
-							"name": "Abyssal",
+							"name": "Abisal",
 							"entries": [
-								"The entropy of the Abyss, the chaos of Pandemonium, and the despair of Carceri call to tieflings who have the abyssal legacy. Horns, fur, tusks, and peculiar scents are common physical features of such tieflings, most of whom have the blood of demons coursing through their veins."
+								"La entropía del Abismo, el caos de Pandemónium y la desesperación de Carceri atraen a los tieflings del legado abisal. Los cuernos, el pelaje, los colmillos y un aroma peculiar son los rasgos físicos habituales de estos tieflings, por cuyas venas corre la sangre de demonios."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Chthonic",
+							"name": "Ctónico",
 							"entries": [
-								"Tieflings who have the chthonic legacy feel not only the tug of Carceri but also the greed of Gehenna and the gloom of Hades. Some of these tieflings look cadaverous. Others possess the unearthly beauty of a succubus, or they have physical features in common with a night hag, a yugoloth, or some other Neutral Evil fiendish ancestor."
+								"Los tieflings del legado ctónico no solo sienten la llamada de Carceri, sino también la codicia de Gehenna y la melancolía de Hades. Algunos de estos tieflings tienen aspecto cadavérico. Otros poseen la belleza sobrenatural de una súcubo o comparten rasgos físicos con una saga de la noche, un yugoloth o algún otro antepasado infernal neutral malvado."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Infernal",
 							"entries": [
-								"The infernal legacy connects tieflings not only to Gehenna but also the Nine Hells and the raging battlefields of Acheron. Horns, spines, tails, golden eyes, and a faint odor of sulfur or smoke are common physical features of such tieflings, most of whom trace their ancestry to devils."
+								"El legado infernal no solo vincula a los tieflings con Gehenna, sino también con los Nueve Infiernos y los violentos campos de batalla de Aqueronte. Los cuernos, las púas, las colas, los ojos dorados y un ligero olor a azufre o humo son los rasgos físicos habituales de estos tieflings, la mayoría de los cuales tenían diablos como antepasados."
 							]
 						}
 					]

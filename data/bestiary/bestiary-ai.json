@@ -818,7 +818,7 @@
 			"languages": [
 				"Common",
 				"Draconic",
-				"Orc"
+				"Orco"
 			],
 			"cr": "3",
 			"spellcasting": [
@@ -2168,7 +2168,7 @@
 				"Common",
 				"Draconic",
 				"Elvish",
-				"Halfling"
+				"Mediano"
 			],
 			"cr": "2",
 			"spellcasting": [
@@ -2731,7 +2731,7 @@
 				"Common",
 				"Draconic",
 				"Elvish",
-				"Halfling"
+				"Mediano"
 			],
 			"cr": "3",
 			"spellcasting": [

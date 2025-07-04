@@ -25582,7 +25582,7 @@
 			"passive": 14,
 			"languages": [
 				"Giant",
-				"Orc"
+				"Orco"
 			],
 			"cr": "4",
 			"trait": [
@@ -52067,7 +52067,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Orc",
+			"name": "Orco",
 			"source": "MM",
 			"page": 246,
 			"srd": true,
@@ -52165,7 +52165,7 @@
 			"passive": 10,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "1/2",
 			"trait": [
@@ -52306,7 +52306,7 @@
 			"passive": 11,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "2",
 			"spellcasting": [
@@ -52490,7 +52490,7 @@
 			"passive": 10,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "4",
 			"trait": [
@@ -52650,7 +52650,7 @@
 			"passive": 10,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "2",
 			"trait": [

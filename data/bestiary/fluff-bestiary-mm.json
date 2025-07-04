@@ -11396,7 +11396,7 @@
 			]
 		},
 		{
-			"name": "Orc",
+			"name": "Orco",
 			"source": "MM",
 			"entries": [
 				{
@@ -11465,7 +11465,7 @@
 			"name": "Orc Eye of Gruumsh",
 			"source": "MM",
 			"_copy": {
-				"name": "Orc",
+				"name": "Orco",
 				"source": "MM",
 				"_mod": {
 					"entries": {
@@ -11486,7 +11486,7 @@
 			"name": "Orc War Chief",
 			"source": "MM",
 			"_copy": {
-				"name": "Orc",
+				"name": "Orco",
 				"source": "MM",
 				"_mod": {
 					"entries": {
@@ -11540,7 +11540,7 @@
 			"name": "Orog",
 			"source": "MM",
 			"_copy": {
-				"name": "Orc",
+				"name": "Orco",
 				"source": "MM",
 				"_mod": {
 					"entries": {

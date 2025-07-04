@@ -14536,7 +14536,7 @@
 			"passive": 13,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "4",
 			"trait": [
@@ -14669,7 +14669,7 @@
 			"passive": 12,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "2",
 			"spellcasting": [
@@ -14962,7 +14962,7 @@
 			"passive": 10,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "1/2",
 			"trait": [
@@ -15087,7 +15087,7 @@
 			"passive": 12,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "3",
 			"trait": [
@@ -17450,7 +17450,7 @@
 			"languages": [
 				"Abyssal",
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "5",
 			"trait": [

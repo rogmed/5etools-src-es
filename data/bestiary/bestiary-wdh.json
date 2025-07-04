@@ -524,7 +524,7 @@
 				"Common",
 				"Draconic",
 				"Dwarvish",
-				"Halfling"
+				"Mediano"
 			],
 			"cr": "2",
 			"spellcasting": [
@@ -664,7 +664,7 @@
 			"passive": 10,
 			"languages": [
 				"Common",
-				"Halfling"
+				"Mediano"
 			],
 			"cr": "0",
 			"trait": [
@@ -2124,7 +2124,7 @@
 			"languages": [
 				"Common",
 				"Dwarvish",
-				"Halfling",
+				"Mediano",
 				"Undercommon"
 			],
 			"languageTags": [
@@ -2181,7 +2181,7 @@
 			"passive": 10,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "1/4",
 			"spellcasting": [
@@ -2582,7 +2582,7 @@
 			"passive": 15,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "5",
 			"trait": [
@@ -4333,7 +4333,7 @@
 			"passive": 11,
 			"languages": [
 				"Common",
-				"Halfling"
+				"Mediano"
 			],
 			"cr": "6",
 			"spellcasting": [
@@ -4600,7 +4600,7 @@
 			"passive": 11,
 			"languages": [
 				"Common",
-				"Halfling"
+				"Mediano"
 			],
 			"cr": "6",
 			"spellcasting": [
@@ -4778,7 +4778,7 @@
 				"Draconic",
 				"Goblin",
 				"Infernal",
-				"Orc",
+				"Orco",
 				"Undercommon"
 			],
 			"cr": "13",
@@ -4994,7 +4994,7 @@
 				"Draconic",
 				"Goblin",
 				"Infernal",
-				"Orc",
+				"Orco",
 				"Undercommon"
 			],
 			"cr": "8",
@@ -6477,7 +6477,7 @@
 				"Draconic",
 				"Dwarvish",
 				"Elvish",
-				"Halfling"
+				"Mediano"
 			],
 			"cr": "9",
 			"spellcasting": [
@@ -7108,7 +7108,7 @@
 			],
 			"languages": [
 				"Common",
-				"Halfling",
+				"Mediano",
 				"Thieves' cant"
 			],
 			"cr": "2",
@@ -8445,7 +8445,7 @@
 			],
 			"languages": [
 				"Common",
-				"Orc",
+				"Orco",
 				"Thieves' cant"
 			],
 			"cr": "8",
@@ -8579,7 +8579,7 @@
 				"Dwarvish",
 				"Elvish",
 				"Giant",
-				"Halfling",
+				"Mediano",
 				"Undercommon"
 			],
 			"cr": "13",
@@ -9410,7 +9410,7 @@
 			"passive": 10,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "1/2",
 			"trait": [
@@ -9624,7 +9624,7 @@
 			"passive": 10,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "1/2",
 			"trait": [
@@ -9735,7 +9735,7 @@
 			"passive": 13,
 			"languages": [
 				"Common",
-				"Halfling"
+				"Mediano"
 			],
 			"cr": "3",
 			"trait": [
@@ -9881,7 +9881,7 @@
 			"passive": 12,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "8",
 			"spellcasting": [

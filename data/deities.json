@@ -434,7 +434,7 @@
 			"name": "Arvoreen",
 			"source": "MTF",
 			"page": 103,
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"L",
 				"G"
@@ -484,7 +484,7 @@
 			"name": "Arvoreen",
 			"source": "SCAG",
 			"page": 23,
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"L",
 				"G"
@@ -1289,7 +1289,7 @@
 			"name": "Bahgtru",
 			"source": "SCAG",
 			"page": 24,
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"alignment": [
 				"L",
 				"E"
@@ -1307,9 +1307,9 @@
 			"_copy": {
 				"name": "Bahgtru",
 				"source": "SCAG",
-				"pantheon": "Orc"
+				"pantheon": "Orco"
 			},
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"customExtensionOf": "Bahgtru|Orc|SCAG",
 			"title": "the Leg Breaker",
 			"entries": [
@@ -1961,7 +1961,7 @@
 			"name": "Brandobaris",
 			"source": "MTF",
 			"page": 104,
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"N"
 			],
@@ -1980,7 +1980,7 @@
 			"name": "Brandobaris",
 			"source": "SCAG",
 			"page": 23,
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"N"
 			],
@@ -2108,7 +2108,7 @@
 			"name": "Charmalaine",
 			"source": "MTF",
 			"page": 103,
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"N"
 			],
@@ -2570,7 +2570,7 @@
 					"page": 33
 				}
 			],
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"L",
 				"G"
@@ -2598,7 +2598,7 @@
 					"page": 33
 				}
 			],
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"L",
 				"G"
@@ -4556,7 +4556,7 @@
 			"name": "Gruumsh",
 			"source": "SCAG",
 			"page": 24,
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"alignment": [
 				"C",
 				"E"
@@ -4575,9 +4575,9 @@
 			"_copy": {
 				"name": "Gruumsh",
 				"source": "SCAG",
-				"pantheon": "Orc"
+				"pantheon": "Orco"
 			},
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"customExtensionOf": "Gruumsh|Orc|SCAG",
 			"title": "He Who Watches",
 			"entries": [
@@ -5529,7 +5529,7 @@
 			"name": "Ilneval",
 			"source": "SCAG",
 			"page": 24,
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"alignment": [
 				"L",
 				"E"
@@ -5547,9 +5547,9 @@
 			"_copy": {
 				"name": "Ilneval",
 				"source": "SCAG",
-				"pantheon": "Orc"
+				"pantheon": "Orco"
 			},
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"customExtensionOf": "Ilneval|Orc|SCAG",
 			"title": "the War Maker",
 			"entries": [
@@ -8130,7 +8130,7 @@
 			"name": "Luthic",
 			"source": "SCAG",
 			"page": 24,
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"alignment": [
 				"L",
 				"E"
@@ -8149,9 +8149,9 @@
 			"_copy": {
 				"name": "Luthic",
 				"source": "SCAG",
-				"pantheon": "Orc"
+				"pantheon": "Orco"
 			},
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"customExtensionOf": "Luthic|Orc|SCAG",
 			"title": "the Cave Mother",
 			"entries": [
@@ -12006,7 +12006,7 @@
 			"name": "Shargaas",
 			"source": "SCAG",
 			"page": 24,
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"alignment": [
 				"N",
 				"E"
@@ -12024,9 +12024,9 @@
 			"_copy": {
 				"name": "Shargaas",
 				"source": "SCAG",
-				"pantheon": "Orc"
+				"pantheon": "Orco"
 			},
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"customExtensionOf": "Shargaas|Orc|SCAG",
 			"title": "the Night Lord",
 			"entries": [
@@ -12085,7 +12085,7 @@
 			"name": "Sheela Peryroyl",
 			"source": "MTF",
 			"page": 103,
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"N",
 				"G"
@@ -12105,7 +12105,7 @@
 			"name": "Sheela Peryroyl",
 			"source": "SCAG",
 			"page": 23,
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"N"
 			],
@@ -16106,7 +16106,7 @@
 			"name": "Urogalan",
 			"source": "MTF",
 			"page": 104,
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"L",
 				"N"
@@ -16129,7 +16129,7 @@
 			"name": "Urogalan",
 			"source": "SCAG",
 			"page": 23,
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"L",
 				"N"
@@ -16586,7 +16586,7 @@
 					"page": 34
 				}
 			],
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"L",
 				"G"
@@ -16635,7 +16635,7 @@
 					"page": 34
 				}
 			],
-			"pantheon": "Halfling",
+			"pantheon": "Mediano",
 			"alignment": [
 				"L",
 				"G"
@@ -16651,7 +16651,7 @@
 			"name": "Yurtrus",
 			"source": "SCAG",
 			"page": 24,
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"alignment": [
 				"N",
 				"E"
@@ -16669,9 +16669,9 @@
 			"_copy": {
 				"name": "Yurtrus",
 				"source": "SCAG",
-				"pantheon": "Orc"
+				"pantheon": "Orco"
 			},
-			"pantheon": "Orc",
+			"pantheon": "Orco",
 			"customExtensionOf": "Yurtrus|Orc|SCAG",
 			"title": "the White Hand",
 			"entries": [

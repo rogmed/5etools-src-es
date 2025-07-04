@@ -1592,7 +1592,7 @@
 				"Common",
 				"Dwarvish",
 				"Gnomish",
-				"Halfling",
+				"Mediano",
 				"Infernal"
 			],
 			"cr": "12",
@@ -4843,7 +4843,7 @@
 			],
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"cr": "9",
 			"spellcasting": [
@@ -5427,7 +5427,7 @@
 			],
 			"languages": [
 				"Common",
-				"Halfling",
+				"Mediano",
 				"Thieves' cant"
 			],
 			"cr": "11",
@@ -5732,7 +5732,7 @@
 			"languages": [
 				"Common",
 				"Goblin",
-				"Orc",
+				"Orco",
 				"Undercommon"
 			],
 			"cr": "9",
@@ -8571,7 +8571,7 @@
 			"languages": [
 				"Abyssal",
 				"Common",
-				"Halfling",
+				"Mediano",
 				"Infernal",
 				"telepathy 30 ft."
 			],

@@ -160,7 +160,7 @@
 			"source": "CRCotN",
 			"page": 21,
 			"_copy": {
-				"name": "Orc",
+				"name": "Orco",
 				"source": "MM",
 				"_mod": {
 					"*": {
@@ -1355,7 +1355,7 @@
 				"source": "CRCotN",
 				"_templates": [
 					{
-						"name": "Goliath",
+						"name": "Goliat",
 						"source": "VGM"
 					}
 				],
@@ -1478,7 +1478,7 @@
 			"languages": [
 				"Common",
 				"Goblin",
-				"Orc"
+				"Orco"
 			],
 			"cr": "3",
 			"spellcasting": [
@@ -1622,7 +1622,7 @@
 			"languages": [
 				"Common",
 				"Goblin",
-				"Orc"
+				"Orco"
 			],
 			"cr": "5",
 			"spellcasting": [
@@ -1777,7 +1777,7 @@
 			"languages": [
 				"Common",
 				"Goblin",
-				"Orc"
+				"Orco"
 			],
 			"cr": "8",
 			"spellcasting": [
@@ -2309,7 +2309,7 @@
 			"languages": [
 				"Common",
 				"Goblin",
-				"Orc"
+				"Orco"
 			],
 			"cr": "3",
 			"spellcasting": [
@@ -2448,7 +2448,7 @@
 			"languages": [
 				"Common",
 				"Goblin",
-				"Orc"
+				"Orco"
 			],
 			"cr": "5",
 			"spellcasting": [
@@ -2593,7 +2593,7 @@
 			"languages": [
 				"Common",
 				"Goblin",
-				"Orc"
+				"Orco"
 			],
 			"cr": "8",
 			"spellcasting": [
@@ -2710,7 +2710,7 @@
 			"languages": [
 				"Abyssal",
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"hasToken": true
 		},
@@ -3463,7 +3463,7 @@
 				"Aquan",
 				"Common",
 				"Infernal",
-				"Orc"
+				"Orco"
 			],
 			"cr": "5",
 			"spellcasting": [
@@ -3815,7 +3815,7 @@
 			"languages": [
 				"Common",
 				"Goblin",
-				"Orc"
+				"Orco"
 			],
 			"cr": "8",
 			"trait": [
@@ -6880,7 +6880,7 @@
 				"source": "CRCotN",
 				"_templates": [
 					{
-						"name": "Goliath",
+						"name": "Goliat",
 						"source": "VGM"
 					}
 				],

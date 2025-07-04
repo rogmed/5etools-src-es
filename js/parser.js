@@ -491,8 +491,8 @@ Parser.LANGUAGES_STANDARD = [
 	"Giant",
 	"Gnomish",
 	"Goblin",
-	"Halfling",
-	"Orc",
+	"Mediano",
+	"Orco",
 ];
 
 Parser.LANGUAGES_EXOTIC = [
@@ -2061,11 +2061,11 @@ Parser.MON_LANGUAGE_TAG_TO_FULL = {
 	"GI": "Giant",
 	"GO": "Goblin",
 	"GTH": "Gith",
-	"H": "Halfling",
+	"H": "Mediano",
 	"I": "Infernal",
 	"IG": "Ignan",
 	"LF": "Languages Known in Life",
-	"O": "Orc",
+	"O": "Orco",
 	"OTH": "Other",
 	"P": "Primordial",
 	"S": "Sylvan",

@@ -191,7 +191,7 @@
 			"source": "TftYP",
 			"page": 159,
 			"_copy": {
-				"name": "Orc",
+				"name": "Orco",
 				"source": "MM"
 			},
 			"hasToken": true
@@ -4381,7 +4381,7 @@
 				"source": "MM",
 				"_templates": [
 					{
-						"name": "Orc",
+						"name": "Orco",
 						"source": "DMG"
 					}
 				]
@@ -7209,7 +7209,7 @@
 			"source": "TftYP",
 			"page": 167,
 			"_copy": {
-				"name": "Orc",
+				"name": "Orco",
 				"source": "MM",
 				"_mod": {
 					"*": {
@@ -7228,7 +7228,7 @@
 			"source": "TftYP",
 			"page": 171,
 			"_copy": {
-				"name": "Orc",
+				"name": "Orco",
 				"source": "MM",
 				"_mod": {
 					"*": {

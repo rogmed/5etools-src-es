@@ -137,7 +137,7 @@
 											"Goblin"
 										],
 										[
-											"Halfling",
+											"Mediano",
 											"Talenta Plains",
 											"Common"
 										],
@@ -183,7 +183,7 @@
 											"Infernal"
 										],
 										[
-											"Orc",
+											"Orco",
 											"Isolated orc tribes",
 											"Goblin"
 										],
@@ -1991,31 +1991,31 @@
 										[
 											"Handling",
 											"Vadalis",
-											"Human",
+											"Humano",
 											"Animal training and breeding"
 										],
 										[
 											"Healing",
 											"Jorasco",
-											"Halfling",
+											"Mediano",
 											"Healing"
 										],
 										[
 											"Hospitality",
 											"Ghallanda",
-											"Halfling",
+											"Mediano",
 											"Food, lodging, urban information"
 										],
 										[
 											"Making",
 											"Cannith",
-											"Human",
+											"Humano",
 											"Manufacturing"
 										],
 										[
 											"Passage",
 											"Orien",
-											"Human",
+											"Humano",
 											"Land transportation"
 										],
 										[
@@ -2027,7 +2027,7 @@
 										[
 											"Sentinel",
 											"Deneith",
-											"Human",
+											"Humano",
 											"Bodyguards, mercenaries"
 										],
 										[
@@ -19346,11 +19346,11 @@
 										],
 										[
 											"12-13",
-											"Halfling"
+											"Mediano"
 										],
 										[
 											"14-16",
-											"Human"
+											"Humano"
 										],
 										[
 											"17",

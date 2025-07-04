@@ -398,7 +398,7 @@
 				"Common",
 				"Draconic",
 				"Dwarvish",
-				"Halfling"
+				"Mediano"
 			],
 			"trait": [
 				{
@@ -1733,7 +1733,7 @@
 				"Common",
 				"Dwarvish",
 				"Giant",
-				"Orc"
+				"Orco"
 			],
 			"trait": [
 				{
@@ -4666,7 +4666,7 @@
 			],
 			"languages": [
 				"Common",
-				"Halfling"
+				"Mediano"
 			],
 			"trait": [
 				{
@@ -5889,7 +5889,7 @@
 			"passive": 11,
 			"languages": [
 				"Common",
-				"Orc"
+				"Orco"
 			],
 			"trait": [
 				{

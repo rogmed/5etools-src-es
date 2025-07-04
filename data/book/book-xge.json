@@ -3000,7 +3000,7 @@
 									"rows": [
 										[
 											"1-40",
-											"Human"
+											"Humano"
 										],
 										[
 											"41-50",
@@ -3012,7 +3012,7 @@
 										],
 										[
 											"61-70",
-											"Halfling"
+											"Mediano"
 										],
 										[
 											"71-75",
@@ -3203,19 +3203,19 @@
 									"{@feat Prodigy|xge}"
 								],
 								[
-									"Halfling",
+									"Mediano",
 									"{@feat Bountiful Luck|xge}"
 								],
 								[
-									"Halfling",
+									"Mediano",
 									"{@feat Second Chance|xge}"
 								],
 								[
-									"Halfling",
+									"Mediano",
 									"{@feat Squat Nimbleness|xge}"
 								],
 								[
-									"Human",
+									"Humano",
 									"{@feat Prodigy|xge}"
 								],
 								[

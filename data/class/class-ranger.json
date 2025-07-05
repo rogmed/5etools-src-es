@@ -604,8 +604,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Hunter",
-			"shortName": "Hunter",
+			"name": "Cazador",
+			"shortName": "Cazador",
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
@@ -614,10 +614,10 @@
 			"basicRules2024": true,
 			"edition": "one",
 			"subclassFeatures": [
-				"Hunter|Explorador|XPHB|Hunter|XPHB|3",
-				"Defensive Tactics|Explorador|XPHB|Hunter|XPHB|7",
-				"Superior Hunter's Prey|Explorador|XPHB|Hunter|XPHB|11",
-				"Superior Hunter's Defense|Explorador|XPHB|Hunter|XPHB|15"
+				"Cazador|Explorador|XPHB|Cazador|XPHB|3",
+				"Tácticas defensivas|Explorador|XPHB|Cazador|XPHB|7",
+				"El cazador experto y la presa|Explorador|XPHB|Cazador|XPHB|11",
+				"Defensa del cazador experto|Explorador|XPHB|Cazador|XPHB|15"
 			],
 			"hasFluffImages": true
 		}
@@ -1477,72 +1477,72 @@
 			]
 		},
 		{
-			"name": "Hunter",
+			"name": "Cazador",
 			"source": "XPHB",
-			"page": 127,
+			"page": 107,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Hunter",
+			"subclassShortName": "Cazador",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Protect Nature and People from Destruction}",
-				"You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.",
+				"{@i Protege la naturaleza y a la gente contra la destrucción}",
+				"Acechas a tus presas en las tierras salvajes y en otros lugares y empleas tus habilidades de cazador para proteger la naturaleza y a la gente contra las fuerzas que buscan destruirlas.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hunter's Prey|Explorador|XPHB|Hunter|XPHB|3"
+					"subclassFeature": "El cazador y la presa|Explorador|XPHB|Cazador|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hunter's Lore|Explorador|XPHB|Hunter|XPHB|3"
+					"subclassFeature": "Sabiduría del cazador|Explorador|XPHB|Cazador|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Hunter's Lore",
+			"name": "Sabiduría del cazador",
 			"source": "XPHB",
-			"page": 127,
+			"page": 107,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Hunter",
+			"subclassShortName": "Cazador",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Marca del cazador, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are."
+				"Puedes invocar a las fuerzas de la naturaleza para mostrar ciertos puntos fuertes y débiles de tu presa. Mientras una criatura tenga tu {@spell marca del cazador|XPHB} sobre ella, sabrás si tiene alguna inmunidad, resistencia o vulnerabilidad y cuáles son, de ser así."
 			]
 		},
 		{
-			"name": "Hunter's Prey",
+			"name": "El cazador y la presa",
 			"source": "XPHB",
-			"page": 127,
+			"page": 107,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Hunter",
+			"subclassShortName": "Cazador",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain one of the following feature options of your choice. Whenever you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}, you can replace the chosen option with the other one.",
+				"Obtienes una de las siguientes opciones de este rasgo, a tu elección. Tras finalizar un descanso corto o largo, puedes cambiar la opción elegida por la otra.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Colossus Slayer",
+							"name": "Azote de colosos",
 							"entries": [
-								"Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra {@damage 1d8} damage to the target if it's missing any of its {@variantrule Hit Points|XPHB}. You can deal this extra damage only once per turn."
+								"Tu tenacidad puede agotar incluso a los enemigos más resistentes. Cuando aciertes a una criatura con un arma, esta inflige {@damage 1d8} de daño adicional si el objetivo no tiene todos sus puntos de golpe. Solo puedes infligir este daño adicional una vez por turno."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Horde Breaker",
+							"name": "Destructor de hordas",
 							"entries": [
-								"Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon's range, and that you haven't attacked this turn."
+								"Una vez en cada uno de tus turnos, cuando hagas un ataque con un arma, puedes realizar otro con la misma arma contra una criatura distinta que se encuentre a 5 pies (1,5 m) o menos del objetivo original si no la has atacado este turno y está dentro del alcance del arma."
 							]
 						}
 					]
@@ -1550,34 +1550,35 @@
 			]
 		},
 		{
-			"name": "Defensive Tactics",
+			"name": "Tácticas defensivas",
 			"source": "XPHB",
-			"page": 127,
+			"page": 108,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Hunter",
+			"subclassShortName": "Cazador",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"You gain one of the following feature options of your choice. Whenever you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}, you can replace the chosen option with the other one.",
+				"Obtienes una de las siguientes opciones de este rasgo, a tu elección. Tras finalizar un descanso corto o largo, puedes cambiar la opción elegida por la otra.",
 				{
 					"type": "entries",
 					"entries": [
+
 						{
 							"type": "entries",
-							"name": "Escape the Horde",
+							"name": "Defensa contra ataques múltiples",
 							"entries": [
-								"{@action Opportunity Attack|XPHB|Opportunity Attacks} have {@variantrule Disadvantage|XPHB} against you."
+								"Cuando una criatura te acierte con una tirada de ataque, esa criatura tendrá desventaja en todas las demás tiradas de ataque contra ti este turno."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Multiattack Defense",
+							"name": "Escapar de la horda",
 							"entries": [
-								"When a creature hits you with an attack roll, that creature has {@variantrule Disadvantage|XPHB} on all other attack rolls against you this turn."
+								"Los ataques de oportunidad tienen desventaja contra ti."
 							]
 						}
 					]
@@ -1585,35 +1586,35 @@
 			]
 		},
 		{
-			"name": "Superior Hunter's Prey",
+			"name": "El cazador experto y la presa",
 			"source": "XPHB",
-			"page": 127,
+			"page": 108,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Hunter",
+			"subclassShortName": "Cazador",
 			"subclassSource": "XPHB",
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"Once per turn when you deal damage to a creature marked by your Marca del cazador, you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature."
+				"Una vez por turno, cuando inflijas daño a una criatura que tenga tu {@spell marca del cazador|XPHB}, también puedes hacer el daño adicional del conjuro a una criatura distinta que puedas ver a 30 pies (9 m) o menos de la primera criatura."
 			]
 		},
 		{
-			"name": "Superior Hunter's Defense",
+			"name": "Defensa del cazador experto",
 			"source": "XPHB",
-			"page": 127,
+			"page": 108,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Hunter",
+			"subclassShortName": "Cazador",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When you take damage, you can take a {@variantrule Reaction|XPHB} to give yourself {@variantrule Resistance|XPHB} to that damage and any other damage of the same type until the end of the current turn."
+				"Cuando recibes daño, puedes usar una reacción para concederte resistencia a ese daño y a cualquier otro daño del mismo tipo hasta el final de ese turno."
 			]
 		}
 	]

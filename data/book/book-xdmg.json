@@ -2972,7 +2972,7 @@
 									]
 								},
 								"If the characters spend time working out a puzzle or talking to an NPC, you can estimate the time spent by keeping track of how much real time passes. Most combat encounters take less than 1 minute (10 rounds), but it's fair to round up to a whole minute in most cases, assuming characters take a few seconds to pull themselves together after a fight.",
-								"Use similar principles to track the passage of hours, such as when characters disguise themselves with a {@spell Seeming|XPHB} spell for 8 hours to infiltrate a stronghold. In this case, it takes a lot of small tasks\u2014or something like a {@variantrule Short Rest|XPHB}\u2014to occupy a full hour."
+								"Use similar principles to track the passage of hours, such as when characters disguise themselves with a {@spell Apariencia|XPHB} spell for 8 hours to infiltrate a stronghold. In this case, it takes a lot of small tasks\u2014or something like a {@variantrule Short Rest|XPHB}\u2014to occupy a full hour."
 							]
 						},
 						{
@@ -25977,7 +25977,7 @@
 								"{@item Potion of Flying|XDMG}",
 								"{@item Potion of Gaseous Form|XDMG}",
 								"{@item Potion of Giant Strength|XDMG}",
-								"{@item Potion of Greater Invisibility|XDMG}",
+								"{@item Potion of Invisibilidad mejorada|XDMG}",
 								"{@item Potion of Growth|XDMG}",
 								"{@item Potion of Healing|XDMG}",
 								"{@item Potion of Heroism|XDMG}",
@@ -26918,7 +26918,7 @@
 										],
 										[
 											"43\u201346",
-											"{@item Potion of Greater Invisibility|XDMG}"
+											"{@item Potion of Invisibilidad mejorada|XDMG}"
 										],
 										[
 											"47\u201349",

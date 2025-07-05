@@ -1960,7 +1960,7 @@
 				}
 			]
 		},
-		"Fear": {
+		"Terror": {
 			"class": [
 				{
 					"name": "Bard",
@@ -2504,7 +2504,7 @@
 				}
 			]
 		},
-		"Greater Invisibility": {
+		"Invisibilidad mejorada": {
 			"class": [
 				{
 					"name": "Bard",
@@ -4436,7 +4436,7 @@
 				}
 			]
 		},
-		"Rope Trick": {
+		"Truco de la cuerda": {
 			"class": [
 				{
 					"name": "Wizard",
@@ -4532,7 +4532,7 @@
 				}
 			]
 		},
-		"Seeming": {
+		"Apariencia": {
 			"class": [
 				{
 					"name": "Bard",

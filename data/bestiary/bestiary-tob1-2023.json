@@ -5041,7 +5041,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Fear",
+									"name": "Terror",
 									"entries": [
 										"The target is {@condition frightened} until the end of its next turn and must spend its next turn moving away from the aridni by the safest available route."
 									]

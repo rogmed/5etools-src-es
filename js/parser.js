@@ -2745,7 +2745,7 @@ Parser._spSubclassesToCurrentAndLegacyFull.mapClassShortNameToMostRecent = (shor
 	switch (shortName) {
 		case "Favored Soul": return "Divine Soul";
 		case "Undying Light": return "Celestial";
-		case "Deep Stalker": return "Gloom Stalker";
+		case "Deep Stalker": return "Acechador en la penumbra";
 	}
 	return shortName;
 };

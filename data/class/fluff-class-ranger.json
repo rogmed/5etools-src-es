@@ -79,8 +79,8 @@
 			]
 		},
 		{
-			"name": "Gloom Stalker",
-			"shortName": "Gloom Stalker",
+			"name": "Acechador en la penumbra",
+			"shortName": "Acechador en la penumbra",
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
@@ -89,7 +89,7 @@
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "classes/XPHB/Gloom Stalker Ranger.webp"
+						"path": "classes/XPHB/Acechador en la penumbra Ranger.webp"
 					},
 					"credit": "Polar Engine",
 					"width": 850,

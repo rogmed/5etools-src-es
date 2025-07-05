@@ -1762,8 +1762,8 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Gloom Stalker",
-			"shortName": "Gloom Stalker",
+			"name": "Acechador en la penumbra",
+			"shortName": "Acechador en la penumbra",
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
@@ -10380,7 +10380,7 @@
 			"source": "XGE",
 			"className": "Explorador",
 			"classSource": "PHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XGE",
 			"level": 3,
 			"actorTokenMod": {
@@ -10420,7 +10420,7 @@
 			"source": "XGE",
 			"className": "Explorador",
 			"classSource": "PHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XGE",
 			"level": 7,
 			"entryData": {
@@ -18495,11 +18495,11 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Dread Ambusher",
+			"name": "Emboscador pavoroso",
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -18599,7 +18599,7 @@
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"effects": [
@@ -18651,7 +18651,7 @@
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"entryData": {
@@ -18676,7 +18676,7 @@
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 11,
 			"activities": [
@@ -18721,7 +18721,7 @@
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"activities": [

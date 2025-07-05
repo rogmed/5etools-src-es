@@ -304,7 +304,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"affectsCreatureType": [
 				"beast"
@@ -728,7 +728,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"OBJ"
@@ -1756,7 +1756,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"PRM"
@@ -2568,7 +2568,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SCT",
@@ -2629,7 +2629,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"affectsCreatureType": [
 				"humanoide"
@@ -3215,7 +3215,7 @@
 				"prone"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SCT",
@@ -3360,7 +3360,7 @@
 				"The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target."
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -3455,7 +3455,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT",
@@ -3600,7 +3600,7 @@
 				}
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"RO"
@@ -4105,7 +4105,7 @@
 				"force"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT",
@@ -4921,7 +4921,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"affectsCreatureType": [
 				"humanoide"
@@ -5607,7 +5607,7 @@
 				}
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"abilityCheck": [
 				"intelligence"
@@ -5931,7 +5931,7 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -6206,7 +6206,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"affectsCreatureType": [
 				"beast"
@@ -6272,7 +6272,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -6335,7 +6335,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"affectsCreatureType": [
 				"humanoide"
@@ -6504,7 +6504,7 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"areaTags": [
 				"ST"
@@ -7122,7 +7122,7 @@
 				"You weave a distracting string of words, causing creatures of your choice that you can see within range to make a Wisdom saving throw. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a -10 penalty to Wisdom ({@skill Perception|XPHB}) checks and Passive {@skill Perception|XPHB} until the spell ends."
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -7358,7 +7358,7 @@
 				"inconsciente"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -7507,10 +7507,10 @@
 			]
 		},
 		{
-			"name": "Fear",
-			"originalname": "",
+			"name": "Terror",
+			"originalname": "Fear",
 			"source": "XPHB",
-			"page": 271,
+			"page": 338,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -7531,7 +7531,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a white feather"
+				"m": "una pluma blanca"
 			},
 			"duration": [
 				{
@@ -7544,14 +7544,14 @@
 				}
 			],
 			"entries": [
-				"Each creature in a 30-foot {@variantrule Cone [Area of Effect]|XPHB|Cone} must succeed on a Wisdom saving throw or drop whatever it is holding and have the {@condition Asustado|XPHB} condition for the duration.",
-				"A {@condition Asustado|XPHB} creature takes the {@action Dash|XPHB} action and moves away from you by the safest route on each of its turns unless there is nowhere to move. If the creature ends its turn in a space where it doesn't have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature."
+				"Todas las criaturas situadas en un {@variantrule Cone [Area of Effect]|XPHB|cono} de 30 pies (9 m) deberán superar una tirada de salvación de Sabiduría o soltarán cualquier cosa que tengan agarrada y tendrán el estado de {@condition Asustado|XPHB|asustadas} hasta que termine el conjuro.",
+				"Una criatura {@condition Asustado|XPHB|asustada} realizará la acción de correr en todos sus turnos para alejarse de ti por la ruta más segura, a menos que no haya por dónde huir. Si la criatura acaba su turno en un espacio desde el que no tenga línea de visión directa de ti, hará una tirada de salvación de Sabiduría. Si la supera, el conjuro terminará para ella."
 			],
 			"conditionInflict": [
 				"asustado"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"areaTags": [
 				"N"
@@ -8841,7 +8841,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"affectsCreatureType": [
 				"humanoide"
@@ -9020,7 +9020,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"PRM",
@@ -9307,7 +9307,7 @@
 				"dexterity"
 			],
 			"abilityCheck": [
-				"wisdom"
+				"sabiduría"
 			],
 			"areaTags": [
 				"S"
@@ -9476,10 +9476,10 @@
 			]
 		},
 		{
-			"name": "Greater Invisibility",
-			"originalname": "",
+			"name": "Invisibilidad mejorada",
+			"originalname": "Greater Invisibility",
 			"source": "XPHB",
-			"page": 281,
+			"page": 296,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -9511,7 +9511,7 @@
 				}
 			],
 			"entries": [
-				"A creature you touch has the {@condition Invisible|XPHB} condition until the spell ends."
+				"Una criatura a la que tocas tiene el estado de {@condition Invisible|XPHB} hasta que el conjuro termine."
 			],
 			"conditionInflict": [
 				"invisible"
@@ -10008,7 +10008,7 @@
 								},
 								{
 									"type": "item",
-									"name": "Fear",
+									"name": "Terror",
 									"entries": [
 										"Creatures of any types you choose have the {@condition Asustado|XPHB} condition while in the area."
 									]
@@ -10682,7 +10682,7 @@
 				"paralizado"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SCT",
@@ -10745,7 +10745,7 @@
 				"paralizado"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"affectsCreatureType": [
 				"humanoide"
@@ -10986,7 +10986,7 @@
 				"incapacitated"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"areaTags": [
 				"C"
@@ -11300,7 +11300,7 @@
 				"inconsciente"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -12902,7 +12902,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -13359,7 +13359,7 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -13649,7 +13649,7 @@
 				"incapacitated"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"PRM",
@@ -14280,7 +14280,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -14487,7 +14487,7 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -14864,7 +14864,7 @@
 				"The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment."
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -15271,7 +15271,7 @@
 			"savingThrow": [
 				"dexterity",
 				"constitution",
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"PRM"
@@ -15379,7 +15379,7 @@
 			"savingThrow": [
 				"constitution",
 				"dexterity",
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"LGT",
@@ -16416,10 +16416,10 @@
 			]
 		},
 		{
-			"name": "Rope Trick",
-			"originalname": "",
+			"name": "Truco de la cuerda",
+			"originalname": "Rope Trick",
 			"source": "XPHB",
-			"page": 312,
+			"page": 341,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -16439,7 +16439,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a segment of rope"
+				"m": "un trozo de cuerda"
 			},
 			"duration": [
 				{
@@ -16451,8 +16451,8 @@
 				}
 			],
 			"entries": [
-				"You touch a rope. One end of it hovers upward until the rope hangs perpendicular to the ground or the rope reaches a ceiling. At the rope's upper end, an {@condition Invisible|XPHB} 3-foot-by-5-foot portal opens to an extradimensional space that lasts until the spell ends. That space can be reached by climbing the rope, which can be pulled into or dropped out of it.",
-				"The space can hold up to eight Medium or smaller creatures. Attacks, spells, and other effects can't pass into or out of the space, but creatures inside it can see through the portal. Anything inside the space drops out when the spell ends."
+				"Tocas una cuerda, lo que hace que uno de sus extremos flote hacia arriba hasta que la cuerda se ponga perpendicular al suelo o toque un techo. En el extremo superior de la cuerda se abre un portal invisible de 0,9 m por 1,5 m, el cual conduce a un espacio extradimensional que dura hasta que el conjuro termine. Este espacio puede alcanzarse trepando por la cuerda, que puede recogerse o soltarse desde el interior.",
+				"En el espacio caben hasta ocho criaturas Medianas o más pequeñas. Los ataques, conjuros y otros efectos no pueden cruzar el espacio en ningún sentido, pero las criaturas que están dentro pueden ver a través del portal. Todo lo que esté dentro del espacio caerá fuera cuando el conjuro termine."
 			]
 		},
 		{
@@ -16562,7 +16562,7 @@
 				"El conjuro termina si la criatura protegida hace una tirada de ataque, lanza un conjuro o inflige daño."
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"areaTags": [
 				"ST"
@@ -16718,7 +16718,7 @@
 				"En vez de hacer objetivo a una criatura, puedes elegir una ubicación que hayas visto antes. Cuando lo hagas, el sensor aparecerá en ese lugar y no se moverá."
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"hasFluffImages": true
 		},
@@ -16818,10 +16818,10 @@
 			]
 		},
 		{
-			"name": "Seeming",
-			"originalname": "",
+			"name": "Apariencia",
+			"originalname": "Seeming",
 			"source": "XPHB",
-			"page": 314,
+			"page": 243,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -16853,10 +16853,10 @@
 				}
 			],
 			"entries": [
-				"You give an illusory appearance to each creature of your choice that you can see within range. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.",
-				"You can give the same appearance or different ones to the targets. The spell can change the appearance of the targets' bodies and equipment. You can make each creature seem 1 foot shorter or taller and appear heavier or lighter. A target's new appearance must have the same basic arrangement of limbs as the target, but the extent of the illusion is otherwise up to you. The spell lasts for the duration.",
-				"The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat.",
-				"A creature that takes the {@action Study|XPHB} action to examine a target can make an Intelligence ({@skill Investigation|XPHB}) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised."
+				"Le das una apariencia ilusoria a cada criatura de tu elección que puedas ver dentro del alcance. Un objetivo no voluntario puede hacer una tirada de salvación de Carisma y, si la supera, el conjuro no le afectará.",
+				"Puedes dar la misma apariencia o una distinta a cada objetivo, así como cambiar el aspecto de sus cuerpos y equipo. Puedes hacer que cada criatura parezca 30 cm más alta o más baja y de complexión más pesada o ligera. Un nuevo aspecto debe tener la misma configuración básica de miembros que el objetivo, aunque en el resto de aspectos, la ilusión queda a tu elección y permanecerá hasta que el conjuro termine.",
+				"Los cambios realizados por este conjuro pueden descubrirse mediante una inspección física. Por ejemplo, si usas este conjuro para añadir un sombrero a la vestimenta de una criatura, los objetos atravesarán el sombrero.",
+				"Si una criatura emplea la acción de {@action Study|XPHB|estudiar} para examinar a un objetivo, podrá hacer una prueba de Inteligencia ({@skill Investigación|XPHB}) contra tu CD de salvación de conjuros. Si la supera, sabrá que el objetivo está disfrazado."
 			],
 			"savingThrow": [
 				"charisma"
@@ -17544,7 +17544,7 @@
 				"inconsciente"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"areaTags": [
 				"S"
@@ -17648,7 +17648,7 @@
 				"An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success."
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"MAC"
@@ -18028,7 +18028,7 @@
 				"piercing"
 			],
 			"abilityCheck": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"DFT"
@@ -18092,7 +18092,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"areaTags": [
 				"S"
@@ -18208,7 +18208,7 @@
 				"aturdido"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"AAD"
@@ -18607,7 +18607,7 @@
 				"charmed"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SGT"
@@ -19353,7 +19353,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Fear",
+					"name": "Terror",
 					"entries": [
 						"Each target must succeed on a Wisdom saving throw or have the {@condition Asustado|XPHB} condition for 1 minute. While {@condition Asustado|XPHB}, the target must move at least 30 feet away from the glyph on each of its turns, if able."
 					]
@@ -19391,11 +19391,11 @@
 			],
 			"savingThrow": [
 				"constitution",
-				"wisdom",
+				"sabiduría",
 				"intelligence"
 			],
 			"abilityCheck": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"LGT",
@@ -19549,7 +19549,7 @@
 				"prone"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SCT",
@@ -20346,7 +20346,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SCL",
@@ -20551,7 +20551,7 @@
 				}
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"OBJ",
@@ -20939,7 +20939,7 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"SCL",
@@ -21547,7 +21547,7 @@
 				"asustado"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"areaTags": [
 				"S"
@@ -21983,7 +21983,7 @@
 				"asustado"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"AAD"
@@ -22034,7 +22034,7 @@
 				"prone"
 			],
 			"savingThrow": [
-				"wisdom"
+				"sabiduría"
 			],
 			"miscTags": [
 				"FMV",

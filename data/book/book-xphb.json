@@ -6662,7 +6662,7 @@
 											"items": [
 												"{@class Explorador|XPHB|Señor de las bestias|Señor de las bestias|XPHB} to bond with a primal beast.",
 												"{@class Explorador|XPHB|Fey Wanderer|Fey Wanderer|XPHB} to manifest fey mirth and fury.",
-												"{@class Explorador|XPHB|Gloom Stalker|Gloom Stalker|XPHB} to hunt foes that lurk in darkness.",
+												"{@class Explorador|XPHB|Acechador en la penumbra|Acechador en la penumbra|XPHB} to hunt foes that lurk in darkness.",
 												"{@class Explorador|XPHB|Hunter|Hunter|XPHB} to protect nature with martial versatility."
 											]
 										}
@@ -12786,7 +12786,7 @@
 								"{@spell Fabricate|XPHB}",
 								"{@spell Fuego feérico|XPHB}",
 								"{@spell False Life|XPHB}",
-								"{@spell Fear|XPHB}",
+								"{@spell Terror|XPHB}",
 								"{@spell Feather Fall|XPHB}",
 								"{@spell Feign Death|XPHB}",
 								"{@spell Find Familiar|XPHB}",
@@ -12828,7 +12828,7 @@
 								"{@spell Buenas bayas|XPHB}",
 								"{@spell Grasping Vine|XPHB}",
 								"{@spell Grease|XPHB}",
-								"{@spell Greater Invisibility|XPHB}",
+								"{@spell Invisibilidad mejorada|XPHB}",
 								"{@spell Restablecimiento mayor|XPHB}",
 								"{@spell Guardian of Faith|XPHB}",
 								"{@spell Guards and Wards|XPHB}",
@@ -13023,7 +13023,7 @@
 								"{@spell Resurrection|XPHB}",
 								"{@spell Reverse Gravity|XPHB}",
 								"{@spell Revivir|XPHB}",
-								"{@spell Rope Trick|XPHB}"
+								"{@spell Truco de la cuerda|XPHB}"
 							]
 						},
 						{
@@ -13037,7 +13037,7 @@
 								"{@spell Escudriñar|XPHB}",
 								"{@spell Searing Smite|XPHB}",
 								"{@spell Ver invisibilidad|XPHB}",
-								"{@spell Seeming|XPHB}",
+								"{@spell Apariencia|XPHB}",
 								"{@spell Sending|XPHB}",
 								"{@spell Sequester|XPHB}",
 								"{@spell Shapechange|XPHB}",

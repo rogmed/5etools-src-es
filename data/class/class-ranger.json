@@ -567,12 +567,12 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Gloom Stalker",
-			"shortName": "Gloom Stalker",
+			"name": "Acechador en la penumbra",
+			"shortName": "Acechador en la penumbra",
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"page": 125,
+			"page": 106,
 			"edition": "one",
 			"additionalSpells": [
 				{
@@ -596,10 +596,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Gloom Stalker|Explorador|XPHB|Gloom Stalker|XPHB|3",
-				"Iron Mind|Explorador|XPHB|Gloom Stalker|XPHB|7",
-				"Stalker's Flurry|Explorador|XPHB|Gloom Stalker|XPHB|11",
-				"Shadowy Dodge|Explorador|XPHB|Gloom Stalker|XPHB|15"
+				"Acechador en la penumbra|Explorador|XPHB|Acechador en la penumbra|XPHB|3",
+				"Mente de hierro|Explorador|XPHB|Acechador en la penumbra|XPHB|7",
+				"Oleada del acechador|Explorador|XPHB|Acechador en la penumbra|XPHB|11",
+				"Esquiva de las sombras|Explorador|XPHB|Acechador en la penumbra|XPHB|15"
 			],
 			"hasFluffImages": true
 		},
@@ -1257,7 +1257,7 @@
 		{
 			"name": "Beguiling Twist",
 			"source": "XPHB",
-			"page": 125,
+			"page": 106,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
@@ -1272,7 +1272,7 @@
 		{
 			"name": "Fey Reinforcements",
 			"source": "XPHB",
-			"page": 125,
+			"page": 106,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
@@ -1287,7 +1287,7 @@
 		{
 			"name": "Misty Wanderer",
 			"source": "XPHB",
-			"page": 125,
+			"page": 106,
 			"className": "Explorador",
 			"classSource": "XPHB",
 			"subclassShortName": "Fey Wanderer",
@@ -1300,82 +1300,82 @@
 			]
 		},
 		{
-			"name": "Dread Ambusher",
+			"name": "Emboscador pavoroso",
 			"source": "XPHB",
-			"page": 125,
+			"page": 106,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You have mastered the art of creating fearsome ambushes, granting you the following benefits.",
+				"Dominas el arte de tender emboscadas temibles, lo que te otorga los siguientes beneficios.",
 				{
 					"type": "entries",
-					"name": "Ambusher's Leap",
+					"name": "Bonificador de iniciativa",
 					"entries": [
-						"At the start of your first turn of each combat, your {@variantrule Speed|XPHB} increases by 10 feet until the end of that turn."
+						"Cuando tires iniciativa, puedes sumar tu modificador por Sabiduría a la tirada."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Dreadful Strike",
+					"name": "Golpe pavoroso",
 					"entries": [
-						"When you attack a creature and hit it with a weapon, you can deal an extra {@damage 2d6} Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+						"Cuando ataques a una criatura con un armay aciertes, puedes infligirle {@damage 2d6} de daño psíquico adicional. Puedes usar este beneficio solo una vez por turno, puedes usarlo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Initiative Bonus",
+					"name": "Salto emboscador",
 					"entries": [
-						"When you roll {@variantrule Initiative|XPHB}, you can add your Wisdom modifier to the roll."
+						"Al comienzo de tu primer turno de cada combate, tu velocidad aumenta en 10 pies (3 m) hasta el final de ese turno."
 					]
 				}
 			]
 		},
 		{
-			"name": "Gloom Stalker",
+			"name": "Acechador en la penumbra",
 			"source": "XPHB",
-			"page": 125,
+			"page": 106,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Draw on Shadow Magic to Fight Your Foes}",
-				"Gloom Stalkers are at home in the darkest places, wielding magic drawn from the Shadowfell to combat enemies that lurk in darkness.",
+				"{@i Recurre a la magia de las sombras para luchar contra tus enemigos}",
+				"Los acechadores en la penumbra están familiarizados con los lugares más oscuros y utilizan magia procedente del Páramo Sombrío para combatir a los enemigos que se ocultan en las tinieblas.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Dread Ambusher|Explorador|XPHB|Gloom Stalker|XPHB|3"
+					"subclassFeature": "Conjuros de acechador en la penumbra|Explorador|XPHB|Acechador en la penumbra|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Gloom Stalker Spells|Explorador|XPHB|Gloom Stalker|XPHB|3"
+					"subclassFeature": "Emboscador pavoroso|Explorador|XPHB|Acechador en la penumbra|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Umbral Sight|Explorador|XPHB|Gloom Stalker|XPHB|3"
+					"subclassFeature": "Visión en la umbra|Explorador|XPHB|Acechador en la penumbra|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Gloom Stalker Spells",
+			"name": "Conjuros de acechador en la penumbra",
 			"source": "XPHB",
-			"page": 126,
+			"page": 106,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"When you reach a Ranger level specified in the Gloom Stalker Spells table, you thereafter always have the listed spells prepared.",
+				"Cuando alcances un nivel de explorador especificado en la tabla “Conjuros de acechador en la penumbra”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Gloom Stalker Spells",
+					"caption": "CONJUROS DE ACECHADOR EN LA PENUMBRA",
 					"colLabels": [
-						"Ranger Level",
-						"Spells"
+						"Nivel de explorador",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-1 text-center",
@@ -1383,97 +1383,97 @@
 					],
 					"rows": [
 						[
-							"3rd",
-							"{@spell Disguise Self|XPHB}"
+							"3",
+							"{@spell Disfrazarse|XPHB}"
 						],
 						[
-							"5th",
-							"{@spell Rope Trick|XPHB}"
+							"5",
+							"{@spell Truco de la cuerda|XPHB}"
 						],
 						[
-							"9th",
-							"{@spell Fear|XPHB}"
+							"9",
+							"{@spell Terror|XPHB}"
 						],
 						[
-							"13th",
-							"{@spell Greater Invisibility|XPHB}"
+							"13",
+							"{@spell Invisibilidad mejorada|XPHB}"
 						],
 						[
-							"17th",
-							"{@spell Seeming|XPHB}"
+							"17",
+							"{@spell Apariencia|XPHB}"
 						]
 					]
 				}
 			]
 		},
 		{
-			"name": "Umbral Sight",
+			"name": "Visión en la umbra",
 			"source": "XPHB",
 			"page": 126,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain {@sense Darkvision|XPHB} with a range of 60 feet. If you already have {@sense Darkvision|XPHB} when you gain this feature, its range increases by 60 feet.",
-				"You are also adept at evading creatures that rely on {@sense Darkvision|XPHB}. While entirely in {@variantrule Darkness|XPHB}, you have the {@condition Invisible|XPHB} condition to any creature that relies on {@sense Darkvision|XPHB} to see you in that {@variantrule Darkness|XPHB}."
+				"Obtienes visión en la oscuridad hasta 60 pies (18 m). Si ya posees visión en la oscuridad cuando obtienes este rasgo, su alcance aumenta en 60 pies (18 m).",
+				"Además, eres muy hábil evitando a criaturas que dependan de la visión en la oscuridad. Mientras estés en una oscuridad total, tendrás el estado de {@condition Invisible|XPHB} frente a cualquier criatura que dependa de visión en la oscuridad para verte en esas tinieblas."
 			]
 		},
 		{
-			"name": "Iron Mind",
+			"name": "Mente de hierro",
 			"source": "XPHB",
-			"page": 126,
+			"page": 107,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"You have honed your ability to resist mind-altering powers. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice)."
+				"Has mejorado tu habilidad para resistir los poderes que alteran la mente. Ganas competencia en las tiradas de salvación de Sabiduría. Si ya tienes esta competencia, obtienes competencia en las tiradas de salvación de Inteligencia o Carisma (a tu elección)."
 			]
 		},
 		{
-			"name": "Stalker's Flurry",
+			"name": "Oleada del acechador",
 			"source": "XPHB",
-			"page": 126,
+			"page": 107,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"The Psychic damage of your Dreadful Strike becomes {@damage 2d8}. In addition, when you use the Dreadful Strike effect of your Dread Ambusher feature, you can cause one of the following additional effects.",
+				"El daño psíquico de tu golpe pavoroso pasa a ser {@damage 2d8}. Además, cuando utilizas el efecto de golpe pavoroso del rasgo Emboscador pavoroso, puedes provocar uno de los siguientes efectos adicionales.",
 				{
 					"type": "entries",
-					"name": "Sudden Strike",
+					"name": "Ataque súbito",
 					"entries": [
-						"You can make another attack with the same weapon against a different creature that is within 5 feet of the original target and that is within the weapon's range."
+						"Puedes realizar otro ataque con la misma arma contra una criatura distinta que se encuentre a 5 pies (1,5 m) o menos del objetivo original y que esté dentro del alcance del arma."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Mass Fear",
+					"name": "Terror masivo",
 					"entries": [
-						"The target and each creature within 10 feet of it must make a Wisdom saving throw against your spell save DC. On a failed save, a creature has the {@condition Asustado|XPHB} condition until the start of your next turn."
+						"El objetivo y todas las criaturas a 10 pies (3 m) o menos de él deberán hacer una tirada de salvación de Sabiduría contra tu CD de salvación de conjuros. Si una criatura la falla, tendrá el estado de {@condition Asustado|XPHB} hasta el principio de tu siguiente turno."
 					]
 				}
 			]
 		},
 		{
-			"name": "Shadowy Dodge",
+			"name": "Esquiva de las sombras",
 			"source": "XPHB",
-			"page": 126,
+			"page": 107,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Gloom Stalker",
+			"subclassShortName": "Acechador en la penumbra",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When a creature makes an attack roll against you, you can take a {@variantrule Reaction|XPHB} to impose {@variantrule Disadvantage|XPHB} on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see."
+				"Cuando una criatura haga una tirada de ataque contra ti, puedes usar una reacción para darle desventaja en la tirada. Tanto si el ataque acierta como si no, luego podrás teletransportarte hasta 30 pies (9 m) a un espacio sin ocupar que puedas ver."
 			]
 		},
 		{

@@ -6170,7 +6170,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Fear",
+			"name": "Terror",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -7546,7 +7546,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Greater Invisibility",
+			"name": "Invisibilidad mejorada",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -13126,7 +13126,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Seeming",
+			"name": "Apariencia",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -15154,7 +15154,7 @@
 							"uuid": "@creature[shadow spirit (despair)|tce]"
 						},
 						{
-							"name": "Fear",
+							"name": "Terror",
 							"uuid": "@creature[shadow spirit (fear)|tce]"
 						}
 					],
@@ -15544,7 +15544,7 @@
 					]
 				},
 				{
-					"name": "Fear",
+					"name": "Terror",
 					"type": "save",
 					"activation": {
 						"type": ""

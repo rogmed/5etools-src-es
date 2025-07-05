@@ -3548,7 +3548,7 @@
 								"{@b Fighter}: Arcane Archer, Cavalier, Samurai",
 								"{@b Monk}: Way of the Drunken Master, Way of the Kensei, Way of the Sun Soul",
 								"{@b Paladin}: Oath of Conquest",
-								"{@b Ranger}: Gloom Stalker, Horizon Walker, Monster Slayer",
+								"{@b Ranger}: Acechador en la penumbra, Horizon Walker, Monster Slayer",
 								"{@b Rogue}: Mastermind, Scout, Swashbuckler",
 								"{@b Hechicero}: Divine Soul, Shadow Magic, Storm Sorcery",
 								"{@b Warlock}: Celestial, Hexblade",
@@ -5502,10 +5502,10 @@
 								},
 								{
 									"type": "entries",
-									"name": "Gloom Stalker",
+									"name": "Acechador en la penumbra",
 									"page": 65,
 									"entries": [
-										"Gloom Stalkers are often best known for their work in the Underdark, but shadows are shadows wherever they occur. As a Gloom Stalker ranger, you find solace and refuge in dark alleys, dimly lit back rooms, and the shadowy corners of any corporate boardroom. Moreover, your expertise as a skulker and an ambush predator fits right in with most franchise business models."
+										"Acechador en la penumbras are often best known for their work in the Underdark, but shadows are shadows wherever they occur. As a Acechador en la penumbra ranger, you find solace and refuge in dark alleys, dimly lit back rooms, and the shadowy corners of any corporate boardroom. Moreover, your expertise as a skulker and an ambush predator fits right in with most franchise business models."
 									],
 									"id": "12f"
 								},

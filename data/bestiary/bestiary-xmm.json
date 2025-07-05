@@ -748,7 +748,7 @@
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
-						"{@spell Fear|XPHB}",
+						"{@spell Terror|XPHB}",
 						"{@spell Melf's Acid Arrow|XPHB} (level 3 version)"
 					],
 					"daily": {
@@ -806,7 +806,7 @@
 				{
 					"name": "Frightful Presence",
 					"entries": [
-						"The dragon uses Spellcasting to cast {@spell Fear|XPHB}. The dragon can't take this action again until the start of its next turn."
+						"The dragon uses Spellcasting to cast {@spell Terror|XPHB}. The dragon can't take this action again until the start of its next turn."
 					]
 				},
 				{
@@ -2621,11 +2621,11 @@
 					"name": "Frightful Presence",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The dragon casts {@spell Fear|XPHB}, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 14}). The dragon can't take this action again until the start of its next turn."
+						"The dragon casts {@spell Terror|XPHB}, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 14}). The dragon can't take this action again until the start of its next turn."
 					],
 					"legendary": {
 						"1": [
-							"{@spell Fear|XPHB}"
+							"{@spell Terror|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -3021,7 +3021,7 @@
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
-						"{@spell Fear|XPHB}",
+						"{@spell Terror|XPHB}",
 						"{@spell Melf's Acid Arrow|XPHB} (level 4 version)"
 					],
 					"daily": {
@@ -3080,7 +3080,7 @@
 				{
 					"name": "Frightful Presence",
 					"entries": [
-						"The dragon uses Spellcasting to cast {@spell Fear|XPHB}. The dragon can't take this action again until the start of its next turn."
+						"The dragon uses Spellcasting to cast {@spell Terror|XPHB}. The dragon can't take this action again until the start of its next turn."
 					]
 				},
 				{
@@ -4907,11 +4907,11 @@
 					"name": "Frightful Presence",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The dragon casts {@spell Fear|XPHB}, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 18}). The dragon can't take this action again until the start of its next turn."
+						"The dragon casts {@spell Terror|XPHB}, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 18}). The dragon can't take this action again until the start of its next turn."
 					],
 					"legendary": {
 						"1": [
-							"{@spell Fear|XPHB}"
+							"{@spell Terror|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -20560,10 +20560,10 @@
 					"name": "Superior Invisibility",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The dragon casts {@spell Greater Invisibility|XPHB} on itself, requiring no spell components and using the same spellcasting ability as Spellcasting."
+						"The dragon casts {@spell Invisibilidad mejorada|XPHB} on itself, requiring no spell components and using the same spellcasting ability as Spellcasting."
 					],
 					"will": [
-						"{@spell Greater Invisibility|XPHB}"
+						"{@spell Invisibilidad mejorada|XPHB}"
 					],
 					"ability": "cha",
 					"displayAs": "bonus",
@@ -20703,10 +20703,10 @@
 					"name": "Superior Invisibility",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The dragon casts {@spell Greater Invisibility|XPHB} on itself, requiring no spell components and using the same spellcasting ability as Spellcasting."
+						"The dragon casts {@spell Invisibilidad mejorada|XPHB} on itself, requiring no spell components and using the same spellcasting ability as Spellcasting."
 					],
 					"will": [
-						"{@spell Greater Invisibility|XPHB}"
+						"{@spell Invisibilidad mejorada|XPHB}"
 					],
 					"ability": "cha",
 					"displayAs": "bonus",
@@ -35072,11 +35072,11 @@
 					"name": "Frightening Gaze",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The lich casts {@spell Fear|XPHB}, using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn."
+						"The lich casts {@spell Terror|XPHB}, using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn."
 					],
 					"legendary": {
 						"1": [
-							"{@spell Fear|XPHB}"
+							"{@spell Terror|XPHB}"
 						]
 					},
 					"ability": "int",

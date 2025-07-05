@@ -5617,10 +5617,10 @@
 			]
 		},
 		{
-			"name": "Dimension Door",
-			"originalname": "",
+			"name": "Puerta dimensional",
+			"originalname": "Dimension Door",
 			"source": "XPHB",
-			"page": 262,
+			"page": 324,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -5647,9 +5647,9 @@
 				}
 			],
 			"entries": [
-				"You teleport to a location within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as \"200 feet straight downward\" or \"300 feet upward to the northwest at a 45-degree angle.\"",
-				"You can also teleport one willing creature. The creature must be within 5 feet of you when you teleport, and it teleports to a space within 5 feet of your destination space.",
-				"If you, the other creature, or both would arrive in a space occupied by a creature or completely filled by one or more objects, you and any creature traveling with you each take {@damage 4d6} Force damage, and the teleportation fails."
+				"Te teletransportas a una ubicación dentro del alcance y llegas exactamente al sitio deseado. Puede ser un lugar que tengas a la vista, uno que logres visualizar o uno que puedas describir indicando la distancia y la dirección, como “60 m en línea recta hacia abajo” o “90 m hacia arriba y hacia el noroeste en un ángulo de 45 grados”.",
+				"También puedes teletransportar contigo a una criatura voluntaria. La criatura deberá estar a 5 pies (1,5 m) o menos de ti cuando te teletransportes y aparecerá en un espacio a 5 pies (1,5 m) o menos de tu espacio de destino.",
+				"Si la otra criatura, tú o las dos fuerais a llegar a un espacio ya ocupado por una criatura o totalmente ocupado por uno o más objetos, la criatura que viaje contigo y tú sufriréis {@damage 4d6} de daño de fuerza y la teletransportación fallará."
 			],
 			"damageInflict": [
 				"force"
@@ -7797,7 +7797,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Use the spell slot's level for the spell's level in the stat block."
+						"Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil."
 					]
 				}
 			],
@@ -9121,7 +9121,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Use the spell slot's level for the spell's level in the stat block."
+						"Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil."
 					]
 				}
 			],
@@ -13510,10 +13510,10 @@
 			]
 		},
 		{
-			"name": "Mislead",
-			"originalname": "",
+			"name": "Engañar",
+			"originalname": "Mislead",
 			"source": "XPHB",
-			"page": 299,
+			"page": 276,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -13544,9 +13544,9 @@
 				}
 			],
 			"entries": [
-				"You gain the {@condition Invisible|XPHB} condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.",
-				"As a {@action Magic|XPHB} action, you can move the illusory double up to twice your {@variantrule Speed|XPHB} and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.",
-				"You can see through its eyes and hear through its ears as if you were located where it is."
+				"Obtienes el estado de {@condition Invisible|XPHB} al mismo tiempo que un doble ilusorio de ti aparece en tu sitio. El doble permanece hasta que termine el conjuro, pero la invisibilidad acaba de inmediato después de que hagas una tirada de ataque, causes daño o lances un conjuro.",
+				"Como acción de magia, puedes hacer que tu doble ilusorio se mueva hasta el doble de tu velocidad y hacer que realice gestos, hable y se comporte del modo que quieras. El doble es intangible e invulnerable.",
+				"Puedes ver a través de sus ojos y oír con sus oídos como si estuvieras en su ubicación."
 			],
 			"conditionInflict": [
 				"invisible"
@@ -13556,10 +13556,10 @@
 			]
 		},
 		{
-			"name": "Misty Step",
-			"originalname": "",
+			"name": "Paso brumoso",
+			"originalname": "Misty Step",
 			"source": "XPHB",
-			"page": 299,
+			"page": 318,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -13585,7 +13585,7 @@
 				}
 			],
 			"entries": [
-				"Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see."
+				"Una niebla plateada te rodea brevemente y te teletransportas hasta 30 pies (9 m) a un espacio sin ocupar que puedas ver."
 			],
 			"miscTags": [
 				"SGT",
@@ -18663,7 +18663,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Use the spell slot's level for the spell's level in the stat block."
+						"Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil."
 					]
 				}
 			],
@@ -18720,7 +18720,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Use the spell slot's level for the spell's level in the stat block."
+						"Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil."
 					]
 				}
 			],
@@ -18776,7 +18776,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Use the spell slot's level for the spell's level in the stat block."
+						"Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil."
 					]
 				}
 			],
@@ -18833,7 +18833,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Use the spell slot's level for the spell's level in the stat block."
+						"Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil."
 					]
 				}
 			],
@@ -18892,7 +18892,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Use the spell slot's level for the spell's level in the stat block."
+						"Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil."
 					]
 				}
 			],
@@ -18949,7 +18949,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Use the spell slot's level for the spell's level in the stat block."
+						"Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil."
 					]
 				}
 			],
@@ -18959,10 +18959,10 @@
 			]
 		},
 		{
-			"name": "Summon Fey",
-			"originalname": "",
+			"name": "Invocar feérico",
+			"originalname": "Summon Fey",
 			"source": "XPHB",
-			"page": 326,
+			"page": 301,
 			"level": 3,
 			"school": "C",
 			"time": [
@@ -18982,7 +18982,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "a gilded flower worth 300+ GP",
+					"text": "una flor bañada.en oro que valga al menos 300 po",
 					"cost": 30000
 				}
 			},
@@ -18997,15 +18997,15 @@
 				}
 			],
 			"entries": [
-				"You call forth a Fey spirit. It manifests in an unoccupied space that you can see within range and uses the {@creature Fey Spirit|XPHB} stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a Fey creature of your choice marked by the chosen mood, which determines certain details in its stat block. The creature disappears when it drops to 0 {@variantrule Hit Points|XPHB} or when the spell ends.",
-				"The creature is an ally to you and your allies. In combat, the creature shares your {@variantrule Initiative|XPHB} count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the {@action Dodge|XPHB} action and uses its movement to avoid danger."
+				"Invocas un espíritu feérico que se manifiesta en un espacio sin ocupar que puedas ver dentro del alcance y usa el perfil del {@creature Fey Spirit|XPHB|espíritu feérico}. Cuando lances el conjuro, elige un estado de ánimo: alegre, burlón o enfurecido. La criatura se parecerá a un ser feérico de tu elección con ese estado de ánimo, lo que determinará ciertos detalles de su perfil. La criatura desaparecerá si sus puntos de golpe se reducen a 0 o si el conjuro termina.",
+				"La criatura se considera un aliado para tus aliados y para ti. En combate, la criatura comparte tu orden de iniciativa, pero su turno va justo después del tuyo, obedece tus órdenes verbales (no requiere acción) y, si no le das ninguna, realiza la acción de esquivar y usa su movimiento para evitar el peligro."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Use the spell slot's level for the spell's level in the stat block."
+						"Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil."
 					]
 				}
 			],
@@ -19062,7 +19062,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Use the spell slot's level for the spell's level in the stat block."
+						"Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil."
 					]
 				}
 			],
@@ -19119,7 +19119,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Use the spell slot's level for the spell's level in the stat block."
+						"Usa el nivel del espacio de conjuro para determinar el nivel del conjuro en el perfil."
 					]
 				}
 			],

@@ -6071,7 +6071,7 @@
 						"1e": [
 							"{@spell Contact Other Plane|XPHB}",
 							"{@spell Detectar pensamientos|XPHB}",
-							"{@spell Dimension Door|XPHB}",
+							"{@spell Puerta dimensional|XPHB}",
 							"{@spell Mind Blank|XPHB}"
 						]
 					},
@@ -6293,7 +6293,7 @@
 					],
 					"will": [
 						"{@spell Detectar pensamientos|XPHB}",
-						"{@spell Dimension Door|XPHB}",
+						"{@spell Puerta dimensional|XPHB}",
 						"{@spell Dispel Magic|XPHB}",
 						"{@spell Hypnotic Pattern|XPHB}"
 					],
@@ -6382,7 +6382,7 @@
 				{
 					"name": "Malicious Magic",
 					"entries": [
-						"The hag uses Spellcasting to cast {@spell Dimension Door|XPHB} or {@spell Hypnotic Pattern|XPHB}. The hag can't take this action again until the start of its next turn."
+						"The hag uses Spellcasting to cast {@spell Puerta dimensional|XPHB} or {@spell Hypnotic Pattern|XPHB}. The hag can't take this action again until the start of its next turn."
 					]
 				}
 			],
@@ -6631,14 +6631,14 @@
 					"displayAs": "action"
 				},
 				{
-					"name": "Misty Step (3/Day)",
+					"name": "Paso brumoso (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mage casts {@spell Misty Step|XPHB}, using the same spellcasting ability as Spellcasting."
+						"The mage casts {@spell Paso brumoso|XPHB}, using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"3": [
-							"{@spell Misty Step|XPHB}"
+							"{@spell Paso brumoso|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -13708,13 +13708,13 @@
 					"displayAs": "action"
 				},
 				{
-					"name": "Misty Step",
+					"name": "Paso brumoso",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The giant casts the {@spell Misty Step|XPHB} spell, using the same spellcasting ability as Spellcasting."
+						"The giant casts the {@spell Paso brumoso|XPHB} spell, using the same spellcasting ability as Spellcasting."
 					],
 					"will": [
-						"{@spell Misty Step|XPHB}"
+						"{@spell Paso brumoso|XPHB}"
 					],
 					"ability": "cha",
 					"displayAs": "bonus",
@@ -25767,14 +25767,14 @@
 					"displayAs": "action"
 				},
 				{
-					"name": "Misty Step (3/Day)",
+					"name": "Paso brumoso (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The githyanki casts {@spell Misty Step|XPHB}, requiring no spell components and using the same spellcasting ability as Spellcasting."
+						"The githyanki casts {@spell Paso brumoso|XPHB}, requiring no spell components and using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"3": [
-							"{@spell Misty Step|XPHB}"
+							"{@spell Paso brumoso|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -25919,14 +25919,14 @@
 					"displayAs": "action"
 				},
 				{
-					"name": "Misty Step (2/Day)",
+					"name": "Paso brumoso (2/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The githyanki casts {@spell Misty Step|XPHB}, requiring no spell components and using the same spellcasting ability as Spellcasting."
+						"The githyanki casts {@spell Paso brumoso|XPHB}, requiring no spell components and using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"2": [
-							"{@spell Misty Step|XPHB}"
+							"{@spell Paso brumoso|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -26056,14 +26056,14 @@
 					"displayAs": "action"
 				},
 				{
-					"name": "Misty Step (2/Day)",
+					"name": "Paso brumoso (2/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The githyanki casts {@spell Misty Step|XPHB}, requiring no spell components and using the same spellcasting ability as Spellcasting."
+						"The githyanki casts {@spell Paso brumoso|XPHB}, requiring no spell components and using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"2": [
-							"{@spell Misty Step|XPHB}"
+							"{@spell Paso brumoso|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -35039,7 +35039,7 @@
 					"daily": {
 						"2e": [
 							"{@spell Animate Dead|XPHB}",
-							"{@spell Dimension Door|XPHB}",
+							"{@spell Puerta dimensional|XPHB}",
 							"{@spell Plane Shift|XPHB}"
 						],
 						"1e": [
@@ -35716,14 +35716,14 @@
 					"displayAs": "action"
 				},
 				{
-					"name": "Misty Step (3/Day)",
+					"name": "Paso brumoso (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mage casts {@spell Misty Step|XPHB}, using the same spellcasting ability as Spellcasting."
+						"The mage casts {@spell Paso brumoso|XPHB}, using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"3": [
-							"{@spell Misty Step|XPHB}"
+							"{@spell Paso brumoso|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -37948,7 +37948,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Clairvoyance|XPHB}",
-							"{@spell Dimension Door|XPHB}",
+							"{@spell Puerta dimensional|XPHB}",
 							"{@spell Bola de fuego|XPHB} (level 5 version)",
 							"{@spell Lightning Bolt|XPHB} (level 5 version)",
 							"{@spell Plane Shift|XPHB} (self only)",
@@ -50855,7 +50855,7 @@
 					"daily": {
 						"2e": [
 							"{@spell Detectar pensamientos|XPHB}",
-							"{@spell Dimension Door|XPHB}",
+							"{@spell Puerta dimensional|XPHB}",
 							"{@spell Hold Person|XPHB} (level 3 version)",
 							"{@spell Lightning Bolt|XPHB} (level 4 version)"
 						]
@@ -54732,7 +54732,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Dimension Door|XPHB}",
+							"{@spell Puerta dimensional|XPHB}",
 							"{@spell Bola de fuego|XPHB} (level 5 version)",
 							"{@spell Muro de Fuego|XPHB}"
 						]
@@ -54744,13 +54744,13 @@
 					"name": "Fiendish Guile {@recharge 4}",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The ultroloth casts {@spell Dispel Magic|XPHB}, {@spell Invisibility|XPHB} (self only), {@spell Misty Step|XPHB}, or {@spell Suggestion|XPHB}, requiring no Material components and using the same spellcasting ability as Spellcasting."
+						"The ultroloth casts {@spell Dispel Magic|XPHB}, {@spell Invisibility|XPHB} (self only), {@spell Paso brumoso|XPHB}, or {@spell Suggestion|XPHB}, requiring no Material components and using the same spellcasting ability as Spellcasting."
 					],
 					"recharge": {
 						"4": [
 							"{@spell Dispel Magic|XPHB}",
 							"{@spell Invisibility|XPHB}",
-							"{@spell Misty Step|XPHB}",
+							"{@spell Paso brumoso|XPHB}",
 							"{@spell Suggestion|XPHB}"
 						]
 					},

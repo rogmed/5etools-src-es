@@ -530,12 +530,12 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Fey Wanderer",
-			"shortName": "Fey Wanderer",
+			"name": "Errante feérico",
+			"shortName": "Errante feérico",
 			"source": "XPHB",
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"page": 124,
+			"page": 108,
 			"edition": "one",
 			"additionalSpells": [
 				{
@@ -559,10 +559,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Fey Wanderer|Explorador|XPHB|Fey Wanderer|XPHB|3",
-				"Beguiling Twist|Explorador|XPHB|Fey Wanderer|XPHB|7",
-				"Fey Reinforcements|Explorador|XPHB|Fey Wanderer|XPHB|11",
-				"Misty Wanderer|Explorador|XPHB|Fey Wanderer|XPHB|15"
+				"Errante feérico|Explorador|XPHB|Errante feérico|XPHB|3",
+				"Giro seductor|Explorador|XPHB|Errante feérico|XPHB|7",
+				"Refuerzos feéricos|Explorador|XPHB|Errante feérico|XPHB|11",
+				"Errante brumoso|Explorador|XPHB|Errante feérico|XPHB|15"
 			],
 			"hasFluffImages": true
 		},
@@ -1113,63 +1113,63 @@
 			]
 		},
 		{
-			"name": "Fey Wanderer",
+			"name": "Errante feérico",
 			"source": "XPHB",
-			"page": 124,
+			"page": 108,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Fey Wanderer",
+			"subclassShortName": "Errante feérico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Wield Fey Mirth and Fury}",
-				"A fey mystique surrounds you, thanks to the boon of an archfey or a location in the Feywild that transformed you. However you gained fey magic, you are now a Fey Wanderer. Your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.",
+				"{@i Sírvete del júbilo y la furia feéricos}",
+				"Un aura mística te envuelve gracias a la bendición de un señor feérico o de un lugar de los Parajes Feéricos que te transformó. Consiguieras como consiguieras esta magia, ahora eres un errante feérico. Tu risa alegre ilumina los corazones de los oprimidos y tu destreza marcial infunde terror a tus enemigos, pues grande es el regocijo de los feéricos y terrible es su furia.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Dreadful Strikes|Explorador|XPHB|Fey Wanderer|XPHB|3"
+					"subclassFeature": "Golpes pavorosos|Explorador|XPHB|Errante feérico|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Fey Wanderer Spells|Explorador|XPHB|Fey Wanderer|XPHB|3"
+					"subclassFeature": "Conjuros de errante feérico|Explorador|XPHB|Errante feérico|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Otherworldly Glamour|Explorador|XPHB|Fey Wanderer|XPHB|3"
+					"subclassFeature": "Glamur sobrenatural|Explorador|XPHB|Errante feérico|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Dreadful Strikes",
+			"name": "Golpes pavorosos",
 			"source": "XPHB",
-			"page": 124,
+			"page": 109,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Fey Wanderer",
+			"subclassShortName": "Errante feérico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can augment your weapon strikes with mind-scarring magic drawn from the murky hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra {@damage 1d4} Psychic damage to the target, which can take this extra damage only once per turn. The extra damage increases to {@damage 1d6} when you reach Ranger level 11."
+				"Puedes potenciar tus ataques con armas usando magia inquietante que proviene de las turbias hondonadas de los Parajes Feéricos. Cuando aciertas a una criatura con un arma, puedes infligir {@damage 1d4} de daño psíquico adicional al objetivo, que solo puede sufrir este daño adicional una vez por turno. El daño adicional aumenta a {@damage 1d6} cuando alcanzas el nivel 11 de explorador."
 			]
 		},
 		{
-			"name": "Fey Wanderer Spells",
+			"name": "Conjuros de errante feérico",
 			"source": "XPHB",
-			"page": 124,
+			"page": 108,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Fey Wanderer",
+			"subclassShortName": "Errante feérico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Ranger level specified in the Fey Wanderer Spells table, you thereafter always have the listed spells prepared.",
+				"Cuando alcances un nivel de explorador especificado en la tabla “Conjuros de errante feérico”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Fey Wanderer Spells",
+					"caption": "CONJUROS DE ERRANTE FEÉRICO",
 					"colLabels": [
-						"Ranger Level",
-						"Spells"
+						"Nivel de explorador",
+						"Conjuro"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1178,33 +1178,33 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell Charm Person|XPHB}"
+							"{@spell Hechizar persona|XPHB}"
 						],
 						[
 							"5th",
-							"{@spell Misty Step|XPHB}"
+							"{@spell Paso brumoso|XPHB}"
 						],
 						[
 							"9th",
-							"{@spell Summon Fey|XPHB}"
+							"{@spell Invocar feérico|XPHB}"
 						],
 						[
 							"13th",
-							"{@spell Dimension Door|XPHB}"
+							"{@spell Puerta dimensional|XPHB}"
 						],
 						[
 							"17th",
-							"{@spell Mislead|XPHB}"
+							"{@spell Engañar|XPHB}"
 						]
 					]
 				},
-				"You also possess a fey blessing. Choose it from the Feywild Gifts table or determine it randomly.",
+				"También cuentas con una bendición feérica. Elígela de la tabla “Dádivas de los Parajes Feéricos” o determínala alazar.",
 				{
 					"type": "table",
-					"caption": "Feywild Gifts",
+					"caption": "DÁDIVAS DE LOS PARAJES FEÉRICOS",
 					"colLabels": [
 						"1d6",
-						"Gift"
+						"Dávida"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1213,90 +1213,90 @@
 					"rows": [
 						[
 							"1",
-							"Illusory butterflies flutter around you while you take a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}."
+							"Unas mariposas ilusorias revolotean a tu alrededor mientras haces un descanso corto o largo."
 						],
 						[
 							"2",
-							"Flowers bloom from your hair each dawn."
+							"Te brotan flores en el pelo cada amanecer."
 						],
 						[
 							"3",
-							"You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice."
+							"Emanas un ligero olor a canela, lavanda, nuez moscada u otra hierba o especia agradable."
 						],
 						[
 							"4",
-							"Your shadow dances while no one is looking directly at it."
+							"Tu sombra baila cuando nadie la mira directamente."
 						],
 						[
 							"5",
-							"Horns or antlers sprout from your head."
+							"De tu cabeza brotan cuernos o astas."
 						],
 						[
 							"6",
-							"Your skin and hair change color each dawn."
+							"Tu piel y tu cabello cambian de color cada amanecer."
 						]
 					]
 				}
 			]
 		},
 		{
-			"name": "Otherworldly Glamour",
+			"name": "Glamur sobrenatural",
 			"source": "XPHB",
-			"page": 124,
+			"page": 109,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Fey Wanderer",
+			"subclassShortName": "Errante feérico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).",
-				"You also gain proficiency in one of these skills of your choice: {@skill Deception|XPHB}, {@skill Performance|XPHB}, or {@skill Persuasion|XPHB}."
+				"Siempre que hagas una prueba de Carisma, obtienes un bonificador igual a tu modificador por Sabiduría (mínimo de +1).",
+				"También ganas competencia en una de las siguientes habilidades a tu elección: {@skill Engaño|XPHB}, {@skill Interpretación|XPHB} o {@skill Persuasión|XPHB}."
 			]
 		},
 		{
-			"name": "Beguiling Twist",
+			"name": "Giro seductor",
 			"source": "XPHB",
-			"page": 106,
+			"page": 109,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Fey Wanderer",
+			"subclassShortName": "Errante feérico",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"The magic of the Feywild guards your mind. You have {@variantrule Advantage|XPHB} on saving throws to avoid or end the {@condition Hechizado|XPHB} or {@condition Asustado|XPHB} condition.",
-				"In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw to avoid or end the {@condition Hechizado|XPHB} or {@condition Asustado|XPHB} condition, you can take a {@variantrule Reaction|XPHB} to force a different creature you can see within 120 feet of yourself to make a Wisdom save against your spell save DC. On a failed save, the target is {@condition Hechizado|XPHB} or {@condition Asustado|XPHB} (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success."
+				"La magia de los Parajes Feéricos protege tu mente. Tienes ventaja en las tiradas de salvación para evitar o poner fin a los estados de {@condition Asustado|XPHB} o {@condition Hechizado|XPHB}.",
+				"Además, siempre que tú o una criatura que puedas ver a 120 pies (36) m o menos de ti tengáis éxito en una tirada de salvación para evitar o poner fin a los estados de {@condition Asustado|XPHB} o {@condition Hechizado|XPHB}, puedes usar una reacción para obligar a otra criatura distinta que puedas ver a 120 pies (36) m o menos de ti a hacer una tirada de salvación de Sabiduría contra tu CD de salvación de conjuros. Si la falla, el objetivo quedará {@condition Asustado|XPHB} o {@condition Hechizado|XPHB} (a tu elección) durante 1 minuto. El objetivo repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto."
 			]
 		},
 		{
-			"name": "Fey Reinforcements",
+			"name": "Refuerzos feéricos",
 			"source": "XPHB",
-			"page": 106,
+			"page": 109,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Fey Wanderer",
+			"subclassShortName": "Errante feérico",
 			"subclassSource": "XPHB",
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"You can cast {@spell Summon Fey|XPHB} without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a {@variantrule Long Rest|XPHB}.",
-				"Whenever you start casting the spell, you can modify it so that it doesn't require {@status Concentration|XPHB}. If you do so, the spell's duration becomes 1 minute for that casting."
+				"Puedes lanzar {@spell Invocar feérico|XPHB} sin ningún componente material. También puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo de esta forma tras finalizar un descanso largo.",
+				"Cuando empieces a lanzar el conjuro, puedes modificarlo para que no requiera {@status Concentración|XPHB}. Si lo haces, la duración del conjuro es de 1 minuto para ese lanzamiento."
 			]
 		},
 		{
-			"name": "Misty Wanderer",
+			"name": "Errante brumoso",
 			"source": "XPHB",
-			"page": 106,
+			"page": 109,
 			"className": "Explorador",
 			"classSource": "XPHB",
-			"subclassShortName": "Fey Wanderer",
+			"subclassShortName": "Errante feérico",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"You can cast {@spell Misty Step|XPHB} without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}.",
-				"In addition, whenever you cast {@spell Misty Step|XPHB}, you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space."
+				"Puedes lanzar {@spell Paso brumoso|XPHB} sin gastar un espacio de conjuro. Puedes hacerlo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo.",
+				"Además, siempre que lances {@spell Paso brumoso|XPHB}, podrás elegir a una criatura voluntaria que puedas ver a 5 pies (1,5 m) o menos de ti para que te acompañe. Esa criatura se teletransportará a un espacio sin ocupar de tu elección a 5 pies (1,5 m) de tu espacio de destino."
 			]
 		},
 		{

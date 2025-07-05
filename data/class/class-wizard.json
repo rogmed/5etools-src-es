@@ -4822,7 +4822,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You always have the {@spell Summon Beast|XPHB} and {@spell Summon Fey|XPHB} spells prepared. Whenever you cast either spell, you can change its school to Illusion, which causes the summoned creature to appear spectral. You can cast the Illusion version of each spell without expending a spell slot, but casting it without a slot halves the creature's {@variantrule Hit Points|XPHB}. Once you cast either spell without a spell slot, you must finish a {@variantrule Long Rest|XPHB} before you can cast the spell in that way again."
+				"You always have the {@spell Summon Beast|XPHB} and {@spell Invocar feérico|XPHB} spells prepared. Whenever you cast either spell, you can change its school to Illusion, which causes the summoned creature to appear spectral. You can cast the Illusion version of each spell without expending a spell slot, but casting it without a slot halves the creature's {@variantrule Hit Points|XPHB}. Once you cast either spell without a spell slot, you must finish a {@variantrule Long Rest|XPHB} before you can cast the spell in that way again."
 			]
 		},
 		{

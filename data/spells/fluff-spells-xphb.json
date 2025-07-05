@@ -533,14 +533,14 @@
 			]
 		},
 		{
-			"name": "Summon Fey",
+			"name": "Invocar feérico",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Summon Fey.webp"
+						"path": "spells/XPHB/Invocar feérico.webp"
 					},
 					"credit": "Joseph Weston"
 				}

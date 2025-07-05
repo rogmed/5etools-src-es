@@ -1448,7 +1448,7 @@
 				}
 			]
 		},
-		"Dimension Door": {
+		"Puerta dimensional": {
 			"class": [
 				{
 					"name": "Bard",
@@ -3652,7 +3652,7 @@
 				}
 			]
 		},
-		"Mislead": {
+		"Engañar": {
 			"class": [
 				{
 					"name": "Bard",
@@ -3668,7 +3668,7 @@
 				}
 			]
 		},
-		"Misty Step": {
+		"Paso brumoso": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -5060,7 +5060,7 @@
 				}
 			]
 		},
-		"Summon Fey": {
+		"Invocar feérico": {
 			"class": [
 				{
 					"name": "Druid",

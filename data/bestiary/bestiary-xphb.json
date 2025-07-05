@@ -1446,7 +1446,7 @@
 			"name": "Fey Spirit",
 			"source": "XPHB",
 			"page": 326,
-			"summonedBySpell": "Summon Fey|XPHB",
+			"summonedBySpell": "Invocar feérico|XPHB",
 			"summonedBySpellLevel": 3,
 			"size": [
 				"S"

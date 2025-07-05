@@ -5609,7 +5609,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell Dimension Door}",
+							"{@spell Puerta dimensional}",
 							"{@spell Invisibility}",
 							"{@spell Escudriñar} (as an action)"
 						],

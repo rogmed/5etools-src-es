@@ -4143,7 +4143,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Dimension Door",
+			"name": "Puerta dimensional",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -14998,7 +14998,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Summon Fey",
+			"name": "Invocar feérico",
 			"source": "TCE",
 			"activities": [
 				{
@@ -15032,7 +15032,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Summon Fey",
+			"name": "Invocar feérico",
 			"source": "XPHB",
 			"activities": [
 				{

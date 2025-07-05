@@ -44,7 +44,7 @@
 				}
 			]
 		},
-		"Alarm": {
+		"Alarma": {
 			"class": [
 				{
 					"name": "Explorador",
@@ -76,7 +76,7 @@
 				}
 			]
 		},
-		"Animal Friendship": {
+		"Encantar animal": {
 			"class": [
 				{
 					"name": "Bard",
@@ -1820,7 +1820,7 @@
 				}
 			]
 		},
-		"Entangle": {
+		"Enmarañar": {
 			"class": [
 				{
 					"name": "Druid",
@@ -2464,7 +2464,7 @@
 				}
 			]
 		},
-		"Goodberry": {
+		"Buenas bayas": {
 			"class": [
 				{
 					"name": "Druid",
@@ -2612,7 +2612,7 @@
 				}
 			]
 		},
-		"Hail of Thorns": {
+		"Tormenta de espinas": {
 			"class": [
 				{
 					"name": "Explorador",
@@ -3244,7 +3244,7 @@
 				}
 			]
 		},
-		"Longstrider": {
+		"Zancada prodigiosa": {
 			"class": [
 				{
 					"name": "Bard",
@@ -4768,7 +4768,7 @@
 				}
 			]
 		},
-		"Speak with Animals": {
+		"Hablar con los animales": {
 			"class": [
 				{
 					"name": "Bard",

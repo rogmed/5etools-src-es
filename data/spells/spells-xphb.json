@@ -122,10 +122,10 @@
 			]
 		},
 		{
-			"name": "Alarm",
-			"originalname": "",
+			"name": "Alarma",
+			"originalname": "Alarm",
 			"source": "XPHB",
-			"page": 239,
+			"page": 240,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -146,7 +146,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a bell and silver wire"
+				"m": "una campanae hilo de plata"
 			},
 			"duration": [
 				{
@@ -161,23 +161,23 @@
 				"ritual": true
 			},
 			"entries": [
-				"You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot {@variantrule Cube [Area of Effect]|XPHB|Cube}. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:",
+				"Preparas una alarma contra los intrusos. Elige una puerta, una ventana o una zona dentro del alcance que no sea mayor que un cubo de 10 pies (6 m) de lado. Hasta que el conjuro termine, una alarma te alertará siempre que una criatura toque la zona vigilada o entre en ella. Al lanzar el conjuro, puedes designar qué criaturas no activarán la alarma, que puede ser mental o sonora:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
 					"items": [
 						{
 							"type": "item",
-							"name": "Audible Alarm",
+							"name": "Alarma mental",
 							"entries": [
-								"The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area."
+								"La alarma te avisará con un sonido dentro de tu mente si estás a 1,5 km o menos de la zona vigilada. Si estás durmiendo, te despertará."
 							]
 						},
 						{
 							"type": "item",
-							"name": "Mental Alarm",
+							"name": "Alarma sonora",
 							"entries": [
-								"You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you're asleep."
+								"La alarma producirá el sonido de una campanilla durante 10 segundos, que será audible a 60 pies (18 m) o menos de la zona vigilada."
 							]
 						}
 					]
@@ -253,10 +253,10 @@
 			]
 		},
 		{
-			"name": "Animal Friendship",
-			"originalname": "",
+			"name": "Encantar animal",
+			"originalname": "Animal Friendship",
 			"source": "XPHB",
-			"page": 239,
+			"page": 275,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -277,7 +277,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a morsel of food"
+				"m": "unas migajas de comida"
 			},
 			"duration": [
 				{
@@ -289,14 +289,14 @@
 				}
 			],
 			"entries": [
-				"Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. If you or one of your allies deals damage to the target, the spells ends."
+				"Haces objetivo a una bestia que puedas ver dentro del alcance. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition Hechizado|XPHB} hasta que termine el conjuro. Si alguno de tus aliados o tú dañáis al objetivo, el conjuro termina."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You can target one additional Beast for each spell slot level above 1."
+						"Puedes hacer objetivo a una bestia adicional por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -7027,10 +7027,10 @@
 			]
 		},
 		{
-			"name": "Entangle",
-			"originalname": "",
+			"name": "Enmarañar",
+			"originalname": "Entangle",
 			"source": "XPHB",
-			"page": 268,
+			"page": 277,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -7063,8 +7063,8 @@
 				}
 			],
 			"entries": [
-				"Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into {@variantrule Difficult Terrain|XPHB}. They disappear when the spell ends.",
-				"Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the {@condition Apresado|XPHB} condition until the spell ends. A {@condition Apresado|XPHB} creature can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer {@condition Apresado|XPHB} by them."
+				"Unas plantas apresadoras surgen del suelo en un cuadrado de 20 pies (6 m) de lado dentro del alcance. Hasta que termine el conjuro, estas plantas convertirán la zona en terreno difícil y desaparecerán cuando el conjuro termine.",
+				"Cada criatura (excepto tú) que esté en la zona cuando lances el conjuro deberá superar una tirada de salvación de Fuerza o tendrá el estado de {@condition Apresado|XPHB} hasta que el conjuro termine. Una criatura {@condition Apresado|XPHB|apresada} puede emplear una acción para hacer una prueba de Fuerza ({@skill Atletismo|XPHB}) contra tu CD de salvación de conjuros. Si la supera, se liberará de las plantas y dejará de estar apresada por ellas."
 			],
 			"conditionInflict": [
 				"apresado"
@@ -7882,7 +7882,7 @@
 				}
 			],
 			"entries": [
-				"You sense any trap within range that is within line of sight. A trap, for the purpose of this spell, includes any object or mechanism that was created to cause damage or other danger. Thus, the spell would sense the {@spell Alarm|XPHB} or {@spell Glyph of Warding|XPHB} spell or a mechanical pit trap, but it wouldn't reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.",
+				"You sense any trap within range that is within line of sight. A trap, for the purpose of this spell, includes any object or mechanism that was created to cause damage or other danger. Thus, the spell would sense the {@spell Alarma|XPHB} or {@spell Glyph of Warding|XPHB} spell or a mechanical pit trap, but it wouldn't reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.",
 				"This spell reveals that a trap is present but not its location. You do learn the general nature of the danger posed by a trap you sense."
 			],
 			"miscTags": [
@@ -9314,10 +9314,10 @@
 			]
 		},
 		{
-			"name": "Goodberry",
-			"originalname": "",
+			"name": "Buenas bayas",
+			"originalname": "Goodberry",
 			"source": "XPHB",
-			"page": 280,
+			"page": 249,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -9337,7 +9337,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a sprig of mistletoe"
+				"m": "una rama de muérdago"
 			},
 			"duration": [
 				{
@@ -9349,8 +9349,8 @@
 				}
 			],
 			"entries": [
-				"Ten berries appear in your hand and are infused with magic for the duration. A creature can take a {@variantrule Bonus Action|XPHB} to eat one berry. Eating a berry restores 1 {@variantrule Hit Points|XPHB|Hit Point}, and the berry provides enough nourishment to sustain a creature for one day.",
-				"Uneaten berries disappear when the spell ends."
+				"En tu mano aparecen diez bayas, que están impregnadas de magia hasta que termine el conjuro. Una criatura puede usar una acción adicional para comerse una, lo que le permite recuperar 1 punto de golpe. Además, la baya proporciona alimento suficiente como para mantener a una criatura durante 1 día.",
+				"Las bayas que no se consuman desaparecen cuando el conjuro termine."
 			],
 			"miscTags": [
 				"HL"
@@ -9866,17 +9866,17 @@
 			]
 		},
 		{
-			"name": "Hail of Thorns",
-			"originalname": "",
+			"name": "Tormenta de espinas",
+			"originalname": "Hail of Thorns",
 			"source": "XPHB",
-			"page": 283,
+			"page": 339,
 			"level": 1,
 			"school": "C",
 			"time": [
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a Ranged weapon"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma a distancia"
 				}
 			],
 			"range": {
@@ -9894,14 +9894,14 @@
 				}
 			],
 			"entries": [
-				"As you hit the creature, this spell creates a rain of thorns that sprouts from your Ranged weapon or ammunition. The target of the attack and each creature within 5 feet of it make a Dexterity saving throw, taking {@damage 1d10} Piercing damage on a failed save or half as much damage on a successful one."
+				"Al golpear a la criatura, el conjuro crea una lluvia de espinas que saldrá disparada de tu arma a distancia o munición. El objetivo del ataque y todas las criaturas a 5 pies (1,5) m o menos de él hacen una tirada de salvación de Destreza; sufrirán {@damage 1d10} de daño perforante si la fallan o la mitad del daño si la superan."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 1d10|1-9|1d10} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 1d10|1-9|1d10} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -12215,10 +12215,10 @@
 			]
 		},
 		{
-			"name": "Longstrider",
-			"originalname": "",
+			"name": "Zancada prodigiosa",
+			"originalname": "Longstrider",
 			"source": "XPHB",
-			"page": 293,
+			"page": 343,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -12238,7 +12238,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a pinch of dirt"
+				"m": "una pizca de tierra"
 			},
 			"duration": [
 				{
@@ -12250,7 +12250,7 @@
 				}
 			],
 			"entries": [
-				"You touch a creature. The target's {@variantrule Speed|XPHB} increases by 10 feet until the spell ends."
+				"Tocas a una criatura y su velocidad aumenta en 10 pies (3 m) hasta que el conjuro termine."
 			],
 			"entriesHigherLevel": [
 				{
@@ -17782,10 +17782,10 @@
 			]
 		},
 		{
-			"name": "Speak with Animals",
-			"originalname": "",
+			"name": "Hablar con los animales",
+			"originalname": "Speak with Animals",
 			"source": "XPHB",
-			"page": 318,
+			"page": 289,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -17819,8 +17819,8 @@
 				"ritual": true
 			},
 			"entries": [
-				"For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the {@action Influence|XPHB} action's skill options with them.",
-				"Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day."
+				"Hasta que termine el conjuro, puedes comprender y comunicarte verbalmente con bestias y usar con ellas cualquiera de las opciones de la acción de influir.",
+				"La mayoría de bestias tienen poco que decir en cuestiones que no tengan que ver con la supervivencia o la compañía, pero como mínimo podrán proporcionarte información sobre los lugares y monstruos cercanos, incluyendo lo que hayan percibido en el último día."
 			],
 			"affectsCreatureType": [
 				"beast"

@@ -11736,7 +11736,7 @@
 														"Seven gemstones worth 50 GP each",
 														"{@item Potion of Healing|XDMG}",
 														"{@item Rope of Climbing|XDMG}",
-														"Two {@item Spell Scroll|XDMG|Spell Scrolls} ({@spell Alarm|XPHB} and {@spell Comprehend Languages|XPHB})"
+														"Two {@item Spell Scroll|XDMG|Spell Scrolls} ({@spell Alarma|XPHB} and {@spell Comprehend Languages|XPHB})"
 													]
 												},
 												"If the characters defeat or drive off the dragon, each of them earns a bonus 400 XP."
@@ -25968,7 +25968,7 @@
 								"{@item Pole of Angling|XDMG}",
 								"{@item Pole of Collapsing|XDMG}",
 								"{@item Portable Hole|XDMG}",
-								"{@item Potion of Animal Friendship|XDMG}",
+								"{@item Potion of Encantar animal|XDMG}",
 								"{@item Potion of Clairvoyance|XDMG}",
 								"{@item Potion of Climbing|XDMG}",
 								"{@item Potion of Comprehension|XDMG}",
@@ -26472,7 +26472,7 @@
 										],
 										[
 											"48\u201349",
-											"{@item Potion of Animal Friendship|XDMG}"
+											"{@item Potion of Encantar animal|XDMG}"
 										],
 										[
 											"50\u201351",
@@ -28453,7 +28453,7 @@
 										],
 										[
 											"36\u201340",
-											"{@item Potion of Animal Friendship|XDMG}"
+											"{@item Potion of Encantar animal|XDMG}"
 										],
 										[
 											"41\u201355",

@@ -1263,7 +1263,7 @@
 					],
 					"will": [
 						"{@spell Prestidigitation}",
-						"{@spell Speak with Animals}"
+						"{@spell Hablar con los animales}"
 					],
 					"daily": {
 						"1e": [
@@ -1771,7 +1771,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell Goodberry}",
+							"{@spell Buenas bayas}",
 							"{@spell Restablecimiento menor}",
 							"{@spell Locate Creature}",
 							"{@spell Move Earth}",

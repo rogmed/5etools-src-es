@@ -12621,9 +12621,9 @@
 							"items": [
 								"{@spell Acid Splash|XPHB}",
 								"{@spell Auxilio|XPHB}",
-								"{@spell Alarm|XPHB}",
+								"{@spell Alarma|XPHB}",
 								"{@spell Alter Self|XPHB}",
-								"{@spell Animal Friendship|XPHB}",
+								"{@spell Encantar animal|XPHB}",
 								"{@spell Animal Messenger|XPHB}",
 								"{@spell Animal Shapes|XPHB}",
 								"{@spell Animate Dead|XPHB}",
@@ -12770,7 +12770,7 @@
 								"{@spell Enhance Ability|XPHB}",
 								"{@spell Enlarge/Reduce|XPHB}",
 								"{@spell Golpe apresador|XPHB}",
-								"{@spell Entangle|XPHB}",
+								"{@spell Enmarañar|XPHB}",
 								"{@spell Enthrall|XPHB}",
 								"{@spell Etherealness|XPHB}",
 								"{@spell Evard's Black Tentacles|XPHB}",
@@ -12825,7 +12825,7 @@
 								"{@spell Glibness|XPHB}",
 								"{@spell Globe of Invulnerability|XPHB}",
 								"{@spell Glyph of Warding|XPHB}",
-								"{@spell Goodberry|XPHB}",
+								"{@spell Buenas bayas|XPHB}",
 								"{@spell Grasping Vine|XPHB}",
 								"{@spell Grease|XPHB}",
 								"{@spell Greater Invisibility|XPHB}",
@@ -12842,7 +12842,7 @@
 							"style": "list-hang-notitle",
 							"columns": 3,
 							"items": [
-								"{@spell Hail of Thorns|XPHB}",
+								"{@spell Tormenta de espinas|XPHB}",
 								"{@spell Hallow|XPHB}",
 								"{@spell Hallucinatory Terrain|XPHB}",
 								"{@spell Harm|XPHB}",
@@ -12911,7 +12911,7 @@
 								"{@spell Locate Animals or Plants|XPHB}",
 								"{@spell Locate Creature|XPHB}",
 								"{@spell Locate Object|XPHB}",
-								"{@spell Longstrider|XPHB}"
+								"{@spell Zancada prodigiosa|XPHB}"
 							]
 						},
 						{
@@ -13055,7 +13055,7 @@
 								"{@spell Slow|XPHB}",
 								"{@spell Estallido mágico|XPHB}",
 								"{@spell Piedad con los moribundos|XPHB}",
-								"{@spell Speak with Animals|XPHB}",
+								"{@spell Hablar con los animales|XPHB}",
 								"{@spell Speak with Dead|XPHB}",
 								"{@spell Speak with Plants|XPHB}",
 								"{@spell Spider Climb|XPHB}",

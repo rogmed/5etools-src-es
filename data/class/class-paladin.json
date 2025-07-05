@@ -53,11 +53,11 @@
 						"choose": {
 							"from": [
 								"atletismo",
-								"insight",
+								"perspicacia",
 								"intimidación",
-								"medicine",
+								"medicina",
 								"persuasion",
-								"religion"
+								"religión"
 							],
 							"count": 2
 						}
@@ -426,11 +426,11 @@
 						"choose": {
 							"from": [
 								"atletismo",
-								"insight",
+								"perspicacia",
 								"intimidación",
-								"medicine",
+								"medicina",
 								"persuasion",
-								"religion"
+								"religión"
 							],
 							"count": 2
 						}

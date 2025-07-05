@@ -1,11 +1,11 @@
 {
 	"classFluff": [
 		{
-			"name": "Wizard",
+			"name": "Mago",
 			"source": "PHB",
 			"entries": [
 				{
-					"name": "Wizard",
+					"name": "Mago",
 					"type": "section",
 					"entries": [
 						"Clad in the silver robes that denote her station, an elf closes her eyes to shut out the distractions of the battlefield and begins her quiet chant. Fingers weaving in front of her, she completes her spell and launches a tiny bead of fire toward the enemy ranks, where it erupts into a conflagration that engulfs the soldiers.",
@@ -313,12 +313,12 @@
 			]
 		},
 		{
-			"name": "Wizard",
+			"name": "Mago",
 			"source": "XPHB",
 			"entries": [
 				{
 					"type": "section",
-					"name": "Wizard",
+					"name": "Mago",
 					"source": "XPHB",
 					"page": 164,
 					"entries": [
@@ -380,7 +380,7 @@
 			"name": "War Magic",
 			"shortName": "War",
 			"source": "XGE",
-			"className": "Wizard",
+			"className": "Mago",
 			"classSource": "PHB",
 			"entries": [
 				{
@@ -407,7 +407,7 @@
 			"name": "Chronurgy Magic",
 			"shortName": "Chronurgy",
 			"source": "EGW",
-			"className": "Wizard",
+			"className": "Mago",
 			"classSource": "PHB",
 			"images": [
 				{
@@ -425,7 +425,7 @@
 			"name": "Graviturgy Magic",
 			"shortName": "Graviturgy",
 			"source": "EGW",
-			"className": "Wizard",
+			"className": "Mago",
 			"classSource": "PHB",
 			"images": [
 				{
@@ -443,7 +443,7 @@
 			"name": "Bladesinging",
 			"shortName": "Bladesinging",
 			"source": "TCE",
-			"className": "Wizard",
+			"className": "Mago",
 			"classSource": "PHB",
 			"images": [
 				{
@@ -461,7 +461,7 @@
 			"name": "Order of Scribes",
 			"shortName": "Scribes",
 			"source": "TCE",
-			"className": "Wizard",
+			"className": "Mago",
 			"classSource": "PHB",
 			"images": [
 				{
@@ -479,7 +479,7 @@
 			"name": "Blood Magic",
 			"shortName": "Blood Magic",
 			"source": "TDCSR",
-			"className": "Wizard",
+			"className": "Mago",
 			"classSource": "PHB",
 			"images": [
 				{
@@ -497,7 +497,7 @@
 			"name": "Abjurer",
 			"shortName": "Abjurer",
 			"source": "XPHB",
-			"className": "Wizard",
+			"className": "Mago",
 			"classSource": "XPHB",
 			"images": [
 				{
@@ -516,7 +516,7 @@
 			"name": "Diviner",
 			"shortName": "Diviner",
 			"source": "XPHB",
-			"className": "Wizard",
+			"className": "Mago",
 			"classSource": "XPHB",
 			"images": [
 				{
@@ -535,7 +535,7 @@
 			"name": "Evoker",
 			"shortName": "Evoker",
 			"source": "XPHB",
-			"className": "Wizard",
+			"className": "Mago",
 			"classSource": "XPHB",
 			"images": [
 				{
@@ -554,7 +554,7 @@
 			"name": "Illusionist",
 			"shortName": "Illusionist",
 			"source": "XPHB",
-			"className": "Wizard",
+			"className": "Mago",
 			"classSource": "XPHB",
 			"images": [
 				{

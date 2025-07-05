@@ -694,7 +694,7 @@
 					"rows": [
 						[
 							"Mage",
-							"{@filter Wizard|spells|class=Wizard}",
+							"{@filter Wizard|spells|class=Mago}",
 							"Intelligence"
 						],
 						[

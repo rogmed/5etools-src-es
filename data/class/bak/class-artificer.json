@@ -104,10 +104,10 @@
 					{
 						"choose": {
 							"from": [
-								"arcana",
-								"history",
-								"investigation",
-								"medicine",
+								"conocimiento arcano",
+								"historia",
+								"investigación",
+								"medicina",
 								"naturaleza",
 								"percepción",
 								"sleight of hand"

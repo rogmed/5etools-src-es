@@ -4168,7 +4168,7 @@
 											"High"
 										],
 										[
-											"{@class Wizard|XPHB}",
+											"{@class Mago|XPHB}",
 											"Spellbooks",
 											"Intelligence",
 											"Average"
@@ -4181,7 +4181,7 @@
 									"page": 36,
 									"id": "0cb",
 									"entries": [
-										"The classic D&D party comprises a {@class Cleric|XPHB}, {@class Guerrero|XPHB}, {@class Rogue|XPHB}, and {@class Wizard|XPHB}. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:",
+										"The classic D&D party comprises a {@class Cleric|XPHB}, {@class Guerrero|XPHB}, {@class Rogue|XPHB}, and {@class Mago|XPHB}. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -4794,7 +4794,7 @@
 													"15"
 												],
 												[
-													"{@class Wizard|XPHB}",
+													"{@class Mago|XPHB}",
 													"8",
 													"12",
 													"13",
@@ -5512,7 +5512,7 @@
 															"8 + Con. modifier"
 														],
 														[
-															"{@class Hechicero|XPHB} or {@class Wizard|XPHB}",
+															"{@class Hechicero|XPHB} or {@class Mago|XPHB}",
 															"6 + Con. modifier"
 														]
 													]
@@ -5822,7 +5822,7 @@
 															"5 + Con. modifier"
 														],
 														[
-															"{@class Hechicero|XPHB} or {@class Wizard|XPHB}",
+															"{@class Hechicero|XPHB} or {@class Mago|XPHB}",
 															"4 + Con. modifier"
 														]
 													]
@@ -6768,7 +6768,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "{@class Wizard|XPHB}",
+									"name": "{@class Mago|XPHB}",
 									"page": 164,
 									"entries": [
 										"Study arcane magic and master spells for every purpose. Then embody the...",
@@ -6776,10 +6776,10 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Wizard|XPHB|Abjurer|Abjurer|XPHB} to shield allies and banish foes.",
-												"{@class Wizard|XPHB|Diviner|Diviner|XPHB} to learn the multiverse's secrets.",
-												"{@class Wizard|XPHB|Evoker|Evoker|XPHB} to create explosive effects.",
-												"{@class Wizard|XPHB|Illusionist|Illusionist|XPHB} to weave spells of deception."
+												"{@class Mago|XPHB|Abjurer|Abjurer|XPHB} to shield allies and banish foes.",
+												"{@class Mago|XPHB|Diviner|Diviner|XPHB} to learn the multiverse's secrets.",
+												"{@class Mago|XPHB|Evoker|Evoker|XPHB} to create explosive effects.",
+												"{@class Mago|XPHB|Illusionist|Illusionist|XPHB} to weave spells of deception."
 											]
 										}
 									],
@@ -12158,7 +12158,7 @@
 											"One"
 										],
 										[
-											"{@class Wizard|XPHB}",
+											"{@class Mago|XPHB}",
 											"Finish a Long Rest",
 											"Any"
 										]

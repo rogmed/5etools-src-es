@@ -1181,7 +1181,7 @@
 					"type": "entries",
 					"name": "Dos trucos",
 					"entries": [
-						"Aprendes dos trucos de tu elección escogidos de entre los de la lista de conjuros de {@filter clérigo|spells|class=clérigo}, {@filter druida|spells|class=druid} o {@filter mago|spells|class=wizard}. Tu aptitud mágica para los conjuros de esta dote es la Inteligencia, la Sabiduría o el Carisma (elígela cuando selecciones esta dote)."
+						"Aprendes dos trucos de tu elección escogidos de entre los de la lista de conjuros de {@filter clérigo|spells|class=clérigo}, {@filter druida|spells|class=druid} o {@filter mago|spells|class=mago}. Tu aptitud mágica para los conjuros de esta dote es la Inteligencia, la Sabiduría o el Carisma (elígela cuando selecciones esta dote)."
 					]
 				},
 				{
@@ -1861,11 +1861,11 @@
 				{
 					"choose": {
 						"from": [
-							"arcana",
-							"history",
-							"investigation",
+							"conocimiento arcano",
+							"historia",
+							"investigación",
 							"nature",
-							"religion"
+							"religión"
 						]
 					}
 				}
@@ -2031,8 +2031,8 @@
 				{
 					"choose": {
 						"from": [
-							"insight",
-							"investigation",
+							"perspicacia",
+							"investigación",
 							"perception"
 						]
 					}
@@ -2904,14 +2904,14 @@
 					"acrobatics": true,
 					"sleight of hand": true,
 					"stealth": true,
-					"arcana": true,
-					"history": true,
-					"investigation": true,
+					"conocimiento arcano": true,
+					"historia": true,
+					"investigación": true,
 					"nature": true,
-					"religion": true,
+					"religión": true,
 					"animal handling": true,
-					"insight": true,
-					"medicine": true,
+					"perspicacia": true,
+					"medicina": true,
 					"perception": true,
 					"survival": true,
 					"deception": true,

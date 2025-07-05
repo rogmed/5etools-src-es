@@ -82,13 +82,13 @@
 					{
 						"choose": {
 							"from": [
-								"arcana",
+								"conocimiento arcano",
 								"trato con animales",
-								"insight",
-								"medicine",
+								"perspicacia",
+								"medicina",
 								"naturaleza",
 								"percepción",
-								"religion",
+								"religión",
 								"supervivencia"
 							],
 							"count": 2
@@ -603,13 +603,13 @@
 					{
 						"choose": {
 							"from": [
-								"arcana",
+								"conocimiento arcano",
 								"trato con animales",
-								"insight",
-								"medicine",
+								"perspicacia",
+								"medicina",
 								"naturaleza",
 								"percepción",
-								"religion",
+								"religión",
 								"supervivencia"
 							],
 							"count": 2

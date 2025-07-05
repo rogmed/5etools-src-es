@@ -70,10 +70,10 @@
 				"wis": "+13"
 			},
 			"skill": {
-				"arcana": "+14",
-				"history": "+14",
-				"insight": "+13",
-				"religion": "+14"
+				"conocimiento arcano": "+14",
+				"historia": "+14",
+				"perspicacia": "+13",
+				"religión": "+14"
 			},
 			"passive": 16,
 			"resist": [
@@ -390,7 +390,7 @@
 				"cha": "+7"
 			},
 			"skill": {
-				"insight": "+6",
+				"perspicacia": "+6",
 				"intimidation": "+7",
 				"perception": "+6"
 			},
@@ -2854,7 +2854,7 @@
 				"cha": "+15"
 			},
 			"skill": {
-				"arcana": "+14",
+				"conocimiento arcano": "+14",
 				"deception": "+22",
 				"perception": "+11",
 				"stealth": "+12"
@@ -3379,7 +3379,7 @@
 				"wis": "+12"
 			},
 			"skill": {
-				"insight": "+12",
+				"perspicacia": "+12",
 				"perception": "+12",
 				"stealth": "+11"
 			},
@@ -3988,7 +3988,7 @@
 				"wis": "+8"
 			},
 			"skill": {
-				"investigation": "+9",
+				"investigación": "+9",
 				"perception": "+8",
 				"stealth": "+9"
 			},
@@ -4954,9 +4954,9 @@
 				"cha": "+9"
 			},
 			"skill": {
-				"arcana": "+15",
+				"conocimiento arcano": "+15",
 				"perception": "+12",
-				"religion": "+10",
+				"religión": "+10",
 				"stealth": "+14"
 			},
 			"senses": [
@@ -5230,8 +5230,8 @@
 				"cha": "+12"
 			},
 			"skill": {
-				"arcana": "+18",
-				"history": "+12",
+				"conocimiento arcano": "+18",
+				"historia": "+12",
 				"persuasion": "+12"
 			},
 			"passive": 11,
@@ -5550,9 +5550,9 @@
 				"wis": "+15"
 			},
 			"skill": {
-				"arcana": "+22",
-				"history": "+14",
-				"insight": "+15",
+				"conocimiento arcano": "+22",
+				"historia": "+14",
+				"perspicacia": "+15",
 				"perception": "+15"
 			},
 			"senses": [
@@ -6170,9 +6170,9 @@
 				"cha": "+15"
 			},
 			"skill": {
-				"arcana": "+13",
+				"conocimiento arcano": "+13",
 				"deception": "+22",
-				"insight": "+18",
+				"perspicacia": "+18",
 				"perception": "+11",
 				"performance": "+22",
 				"persuasion": "+22",

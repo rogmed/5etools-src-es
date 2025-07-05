@@ -24,13 +24,13 @@
 					{
 						"choose": {
 							"from": [
-								"arcana",
-								"history",
-								"insight",
-								"medicine",
+								"conocimiento arcano",
+								"historia",
+								"perspicacia",
+								"medicina",
 								"naturaleza",
 								"percepción",
-								"religion"
+								"religión"
 							],
 							"count": 2
 						}
@@ -1321,7 +1321,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"At 6th level, you learn three wizard spells of your choice and always have them prepared. The spells must be of {@filter 1st through 3rd level|spells|level=1;2;3|class=wizard}.",
+				"At 6th level, you learn three wizard spells of your choice and always have them prepared. The spells must be of {@filter 1st through 3rd level|spells|level=1;2;3|class=mago}.",
 				"As a bonus action, you can spend psi points to create spell slots that you can use to cast these spells, as well as other spells you are capable of casting. The psi-point cost of each spell slot is detailed on the table below.",
 				{
 					"type": "table",
@@ -1357,7 +1357,7 @@
 					]
 				},
 				"The spell slot remains until you use it or finish a long rest. You must observe your psi limit when spending psi points to create a spell slot.",
-				"Whenever you gain a level in this class, you can replace on of the chosen wizard spells with a different {@filter wizard spell of 1st through 3rd level|spells|level=1;2;3|class=wizard}."
+				"Whenever you gain a level in this class, you can replace on of the chosen wizard spells with a different {@filter wizard spell of 1st through 3rd level|spells|level=1;2;3|class=mago}."
 			]
 		},
 		{

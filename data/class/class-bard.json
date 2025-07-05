@@ -189,14 +189,14 @@
 									"acrobatics",
 									"sleight of hand",
 									"stealth",
-									"arcana",
-									"history",
-									"investigation",
+									"conocimiento arcano",
+									"historia",
+									"investigación",
 									"naturaleza",
-									"religion",
+									"religión",
 									"trato con animales",
-									"insight",
-									"medicine",
+									"perspicacia",
+									"medicina",
 									"percepción",
 									"supervivencia",
 									"deception",
@@ -777,14 +777,14 @@
 									"acrobatics",
 									"sleight of hand",
 									"stealth",
-									"arcana",
-									"history",
-									"investigation",
+									"conocimiento arcano",
+									"historia",
+									"investigación",
 									"naturaleza",
-									"religion",
+									"religión",
 									"trato con animales",
-									"insight",
-									"medicine",
+									"perspicacia",
+									"medicina",
 									"percepción",
 									"supervivencia",
 									"deception",
@@ -2557,7 +2557,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the {@filter Bard|spells|class=Bard}, {@filter Cleric|spells|class=Cleric}, {@filter Druid|spells|class=Druid}, and {@filter Wizard spell list|spells|class=Wizard}s, and the chosen spells count as Bard spells for you (see a class's section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists."
+				"You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the {@filter Bard|spells|class=Bard}, {@filter Cleric|spells|class=Cleric}, {@filter Druid|spells|class=Druid}, and {@filter Wizard spell list|spells|class=Mago}s, and the chosen spells count as Bard spells for you (see a class's section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists."
 			]
 		},
 		{
@@ -3957,7 +3957,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You learn two spells of your choice. These spells can come from the {@filter Cleric|spells|class=Cleric}, {@filter Druid|spells|class=Druid}, or {@filter Wizard spell list|spells|class=Wizard} or any combination thereof (see a class's section for its spell list). A spell you choose must be a cantrip or a spell for which you have spell slots, as shown in the Bard Features table.",
+				"You learn two spells of your choice. These spells can come from the {@filter Cleric|spells|class=Cleric}, {@filter Druid|spells|class=Druid}, or {@filter Wizard spell list|spells|class=Mago} or any combination thereof (see a class's section for its spell list). A spell you choose must be a cantrip or a spell for which you have spell slots, as shown in the Bard Features table.",
 				"You always have the chosen spells prepared, and whenever you gain a Bard level, you can replace one of the spells with another spell that meets these requirements."
 			]
 		},

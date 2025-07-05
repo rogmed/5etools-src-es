@@ -45,9 +45,9 @@
 				"wis": "+15"
 			},
 			"skill": {
-				"arcana": "+22",
-				"history": "+14",
-				"insight": "+15",
+				"conocimiento arcano": "+22",
+				"historia": "+14",
+				"perspicacia": "+15",
 				"perception": "+15"
 			},
 			"senses": [

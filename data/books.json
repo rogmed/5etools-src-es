@@ -139,7 +139,7 @@
 						"Movement and Position",
 						"Actions in Combat",
 						"Making an Attack",
-						"Cover",
+						"Cobertura",
 						"Damage and Healing",
 						"Mounted Combat",
 						"Underwater Combat"
@@ -1532,7 +1532,7 @@
 						"Movement and Position",
 						"Actions in Combat",
 						"Making an Attack",
-						"Cover",
+						"Cobertura",
 						"Damage and Healing"
 					]
 				},
@@ -6470,7 +6470,7 @@
 				{
 					"name": "DM Screen",
 					"headers": [
-						"Cover",
+						"Cobertura",
 						"Conditions",
 						"Tables"
 					]

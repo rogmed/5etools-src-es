@@ -9091,7 +9091,7 @@
 				{
 					"name": "Swallow",
 					"entries": [
-						"{@actSave dex} {@dc 18}, one Large or smaller creature {@condition Grappled|XPHB} by the behir (the behir can have only one creature swallowed at a time). {@actSaveFail} The behir swallows the target, which is no longer {@condition Grappled|XPHB}. While swallowed, a creature has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions, has {@variantrule Cover|XPHB|Total Cover} against attacks and other effects outside the behir, and takes 21 ({@damage 6d6}) Acid damage at the start of each of the behir's turns.",
+						"{@actSave dex} {@dc 18}, one Large or smaller creature {@condition Grappled|XPHB} by the behir (the behir can have only one creature swallowed at a time). {@actSaveFail} The behir swallows the target, which is no longer {@condition Grappled|XPHB}. While swallowed, a creature has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions, has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects outside the behir, and takes 21 ({@damage 6d6}) Acid damage at the start of each of the behir's turns.",
 						"If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a {@dc 14} Constitution saving throw at the end of that turn or regurgitate the creature, which falls in a space within 10 feet of the behir and has the {@condition Prone|XPHB} condition. If the behir dies, a swallowed creature is no longer {@condition Restrained|XPHB} and can escape from the corpse by using 15 feet of movement, exiting {@condition Prone|XPHB}."
 					]
 				}
@@ -10279,7 +10279,7 @@
 				{
 					"name": "Engulf",
 					"entries": [
-						"The blob moves up to its {@variantrule Speed|XPHB} and can move through the spaces of Huge or smaller creatures and objects. {@actSave str} {@dc 23}, each creature or object whose space the blob enters for the first time during this move. {@actSaveFail} The target is engulfed. While engulfed, a target has {@variantrule Cover|XPHB|Total Cover} against attacks and other effects outside the blob, and when the blob moves, the engulfed target moves with it. A nonmagical object is destroyed after spending 1 minute engulfed.",
+						"The blob moves up to its {@variantrule Speed|XPHB} and can move through the spaces of Huge or smaller creatures and objects. {@actSave str} {@dc 23}, each creature or object whose space the blob enters for the first time during this move. {@actSaveFail} The target is engulfed. While engulfed, a target has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects outside the blob, and when the blob moves, the engulfed target moves with it. A nonmagical object is destroyed after spending 1 minute engulfed.",
 						"While engulfed, a creature takes 21 ({@damage 6d6}) Force damage at the start of each of its turns, is suffocating, has the {@condition Restrained|XPHB} condition, and repeats the save at the end of each of its turns. An engulfed creature that is reduced to 0 {@variantrule Hit Points|XPHB} dissolves into ash, which is ejected into the Astral Sea. {@actSaveSuccess} The target escapes and enters the nearest unoccupied space."
 					]
 				},
@@ -19388,7 +19388,7 @@
 									"type": "item",
 									"name": "4: Swallowing Earth",
 									"entries": [
-										"{@actSave str} {@dc 23}, each creature in a 90-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} originating from a point on the ground within 150 feet. {@actSaveFail} 18 ({@damage 4d8}) Bludgeoning damage plus 18 ({@damage 4d8}) Acid damage, and the target has the {@condition Prone|XPHB} condition and is buried under rubble. A buried target has the {@condition Restrained|XPHB} condition, has {@variantrule Cover|XPHB|Total Cover}, and is suffocating. As an action, a buried creature or another creature within 5 feet of it can make a {@dc 18} Strength ({@skill Athletics|XPHB}) check. On a successful check, the creature is no longer buried. {@actSaveSuccess} Half damage only."
+										"{@actSave str} {@dc 23}, each creature in a 90-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} originating from a point on the ground within 150 feet. {@actSaveFail} 18 ({@damage 4d8}) Bludgeoning damage plus 18 ({@damage 4d8}) Acid damage, and the target has the {@condition Prone|XPHB} condition and is buried under rubble. A buried target has the {@condition Restrained|XPHB} condition, has {@variantrule Cobertura|XPHB|Total Cover}, and is suffocating. As an action, a buried creature or another creature within 5 feet of it can make a {@dc 18} Strength ({@skill Athletics|XPHB}) check. On a successful check, the creature is no longer buried. {@actSaveSuccess} Half damage only."
 									]
 								}
 							]
@@ -22407,7 +22407,7 @@
 					"name": "Ooze Cube",
 					"entries": [
 						"The cube fills its entire space and is transparent. Other creatures can enter that space, but a creature that does so is subjected to the cube's Engulf and has {@variantrule Disadvantage|XPHB} on the saving throw.",
-						"Creatures inside the cube have {@variantrule Cover|XPHB|Total Cover}, and the cube can hold one Large creature or up to four Medium or Small creatures inside itself at a time.",
+						"Creatures inside the cube have {@variantrule Cobertura|XPHB|Total Cover}, and the cube can hold one Large creature or up to four Medium or Small creatures inside itself at a time.",
 						"As an action, a creature within 5 feet of the cube can pull a creature or an object out of the cube by succeeding on a {@dc 12} Strength ({@skill Athletics|XPHB}) check, and the puller takes 10 ({@damage 3d6}) Acid damage."
 					]
 				},
@@ -24042,7 +24042,7 @@
 				{
 					"name": "Swallow",
 					"entries": [
-						"The frog swallows a Small or smaller target it is grappling. While swallowed, the target isn't {@condition Grappled|XPHB} but has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions, and it has {@variantrule Cover|XPHB|Total Cover} against attacks and other effects outside the frog. While swallowing the target, the frog can't use Bite, and if the frog dies, the swallowed target is no longer {@condition Restrained|XPHB} and can escape from the corpse using 5 feet of movement, exiting with the {@condition Prone|XPHB} condition.",
+						"The frog swallows a Small or smaller target it is grappling. While swallowed, the target isn't {@condition Grappled|XPHB} but has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions, and it has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects outside the frog. While swallowing the target, the frog can't use Bite, and if the frog dies, the swallowed target is no longer {@condition Restrained|XPHB} and can escape from the corpse using 5 feet of movement, exiting with the {@condition Prone|XPHB} condition.",
 						"At the end of the frog's next turn, the swallowed target takes 5 ({@damage 2d4}) Acid damage. If that damage doesn't kill it, the frog disgorges it, causing it to exit {@condition Prone|XPHB}."
 					]
 				}
@@ -25135,7 +25135,7 @@
 				{
 					"name": "Swallow",
 					"entries": [
-						"The toad swallows a Medium or smaller target it is grappling. While swallowed, the target isn't {@condition Grappled|XPHB} but has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions, and it has {@variantrule Cover|XPHB|Total Cover} against attacks and other effects outside the toad. In addition, the target takes 10 ({@damage 3d6}) Acid damage at the end of each of the toad's turns. The toad can have only one target swallowed at a time, and it can't use Bite while it has a swallowed target. If the toad dies, a swallowed creature is no longer {@condition Restrained|XPHB} and can escape from the corpse using 5 feet of movement, exiting with the {@condition Prone|XPHB} condition."
+						"The toad swallows a Medium or smaller target it is grappling. While swallowed, the target isn't {@condition Grappled|XPHB} but has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions, and it has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects outside the toad. In addition, the target takes 10 ({@damage 3d6}) Acid damage at the end of each of the toad's turns. The toad can have only one target swallowed at a time, and it can't use Bite while it has a swallowed target. If the toad dies, a swallowed creature is no longer {@condition Restrained|XPHB} and can escape from the corpse using 5 feet of movement, exiting with the {@condition Prone|XPHB} condition."
 					]
 				}
 			],
@@ -30319,7 +30319,7 @@
 				{
 					"name": "Invitation",
 					"entries": [
-						"{@actSave cha} {@dc 17}, each creature in a 60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target is teleported inside the revenant's space and swallowed. A swallowed creature has {@variantrule Cover|XPHB|Total Cover} against attacks and other effects outside the revenant.",
+						"{@actSave cha} {@dc 17}, each creature in a 60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target is teleported inside the revenant's space and swallowed. A swallowed creature has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects outside the revenant.",
 						"While the revenant has {@variantrule Hit Points|XPHB}, a swallowed creature can leave the revenant's space only by using magic that enables planar travel, such as the {@spell Plane Shift|XPHB} spell."
 					]
 				}
@@ -32732,7 +32732,7 @@
 				{
 					"name": "Steal Body",
 					"entries": [
-						"{@actSave int} {@dc 12}, one Small or Medium creature within 5 feet that has the {@condition Incapacitated|XPHB} condition, is a Humanoid or Beast, and has 10 {@variantrule Hit Points|XPHB} or fewer. {@actSaveFail} The intellect devourer possesses the target, consumes its brain, and teleports inside its skull. While there, the intellect devourer has {@variantrule Cover|XPHB|Total Cover} against attacks and other effects originating outside its host. The intellect devourer retains its Intelligence, Wisdom, and Charisma scores; its understanding of Deep Speech; its telepathy; and its Detect Intelligence trait. It otherwise adopts the target's game statistics. It knows everything the target knew, including spells and languages.",
+						"{@actSave int} {@dc 12}, one Small or Medium creature within 5 feet that has the {@condition Incapacitated|XPHB} condition, is a Humanoid or Beast, and has 10 {@variantrule Hit Points|XPHB} or fewer. {@actSaveFail} The intellect devourer possesses the target, consumes its brain, and teleports inside its skull. While there, the intellect devourer has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects originating outside its host. The intellect devourer retains its Intelligence, Wisdom, and Charisma scores; its understanding of Deep Speech; its telepathy; and its Detect Intelligence trait. It otherwise adopts the target's game statistics. It knows everything the target knew, including spells and languages.",
 						"If the host body dies, the intellect devourer must leave it. The intellect devourer is also forced out if the target regains its devoured brain by means of a {@spell Wish|XPHB} spell. By spending 5 feet of its movement, the intellect devourer can voluntarily leave the body, teleporting to the nearest unoccupied space within 5 feet of it. The body then dies unless its brain is restored before the end of the intellect devourer's next turn."
 					]
 				}
@@ -33921,7 +33921,7 @@
 				{
 					"name": "Swallow",
 					"entries": [
-						"{@actSave dex} {@dc 25}, one creature {@condition Grappled|XPHB} by the kraken (it can have up to four creatures swallowed at a time). {@actSaveFail} 23 ({@damage 3d8 + 10}) Piercing damage. If the target is Large or smaller, it is swallowed and no longer {@condition Grappled|XPHB}. A swallowed creature has the {@condition Restrained|XPHB} condition, has {@variantrule Cover|XPHB|Total Cover} against attacks and other effects outside the kraken, and takes 24 ({@damage 7d6}) Acid damage at the start of each of its turns.",
+						"{@actSave dex} {@dc 25}, one creature {@condition Grappled|XPHB} by the kraken (it can have up to four creatures swallowed at a time). {@actSaveFail} 23 ({@damage 3d8 + 10}) Piercing damage. If the target is Large or smaller, it is swallowed and no longer {@condition Grappled|XPHB}. A swallowed creature has the {@condition Restrained|XPHB} condition, has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects outside the kraken, and takes 24 ({@damage 7d6}) Acid damage at the start of each of its turns.",
 						"If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a {@dc 25} Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 10 feet of the kraken with the {@condition Prone|XPHB} condition. If the kraken dies, any swallowed creature no longer has the {@condition Restrained|XPHB} condition and can escape from the corpse using 15 feet of movement, exiting {@condition Prone|XPHB}."
 					]
 				}
@@ -44652,7 +44652,7 @@
 				{
 					"name": "Swallow",
 					"entries": [
-						"{@actSave str} {@dc 19}, one Large or smaller creature {@condition Grappled|XPHB} by the worm (it can have up to three creatures swallowed at a time). {@actSaveFail} The target is swallowed by the worm, and the {@condition Grappled|XPHB} condition ends. A swallowed creature has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions, has {@variantrule Cover|XPHB|Total Cover} against attacks and other effects outside the worm, and takes 17 ({@damage 5d6}) Acid damage at the start of each of the worm's turns.",
+						"{@actSave str} {@dc 19}, one Large or smaller creature {@condition Grappled|XPHB} by the worm (it can have up to three creatures swallowed at a time). {@actSaveFail} The target is swallowed by the worm, and the {@condition Grappled|XPHB} condition ends. A swallowed creature has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions, has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects outside the worm, and takes 17 ({@damage 5d6}) Acid damage at the start of each of the worm's turns.",
 						"If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a {@dc 21} Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the worm and has the {@condition Prone|XPHB} condition. If the worm dies, any swallowed creature no longer has the {@condition Restrained|XPHB} condition and can escape from the corpse using 20 feet of movement, exiting {@condition Prone|XPHB}."
 					]
 				}
@@ -45939,7 +45939,7 @@
 				{
 					"name": "Swallow",
 					"entries": [
-						"{@actSave str} {@dc 19}, one Large or smaller creature {@condition Grappled|XPHB} by the remorhaz (it can have up to two creatures swallowed at a time). {@actSaveFail} The target is swallowed by the remorhaz, and the {@condition Grappled|XPHB} condition ends. A swallowed creature has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions, it has {@variantrule Cover|XPHB|Total Cover} against attacks and other effects outside the remorhaz, and it takes 10 ({@damage 3d6}) Acid damage plus 10 ({@damage 3d6}) Fire damage at the start of each of the remorhaz's turns.",
+						"{@actSave str} {@dc 19}, one Large or smaller creature {@condition Grappled|XPHB} by the remorhaz (it can have up to two creatures swallowed at a time). {@actSaveFail} The target is swallowed by the remorhaz, and the {@condition Grappled|XPHB} condition ends. A swallowed creature has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions, it has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects outside the remorhaz, and it takes 10 ({@damage 3d6}) Acid damage plus 10 ({@damage 3d6}) Fire damage at the start of each of the remorhaz's turns.",
 						"If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a {@dc 15} Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the remorhaz and has the {@condition Prone|XPHB} condition. If the remorhaz dies, any swallowed creature no longer has the {@condition Restrained|XPHB} condition and can escape from the corpse by using 15 feet of movement, exiting {@condition Prone|XPHB}."
 					]
 				}
@@ -53309,7 +53309,7 @@
 				{
 					"name": "Swallow",
 					"entries": [
-						"{@actSave str} {@dc 27}, one Large or smaller creature {@condition Grappled|XPHB} by the tarrasque (it can have up to six creatures swallowed at a time). {@actSaveFail} The target is swallowed, and the {@condition Grappled|XPHB} condition ends. A swallowed creature has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions and can't teleport, it has {@variantrule Cover|XPHB|Total Cover} against attacks and other effects outside the tarrasque, and it takes 56 ({@damage 16d6}) Acid damage at the start of each of the tarrasque's turns.",
+						"{@actSave str} {@dc 27}, one Large or smaller creature {@condition Grappled|XPHB} by the tarrasque (it can have up to six creatures swallowed at a time). {@actSaveFail} The target is swallowed, and the {@condition Grappled|XPHB} condition ends. A swallowed creature has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions and can't teleport, it has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects outside the tarrasque, and it takes 56 ({@damage 16d6}) Acid damage at the start of each of the tarrasque's turns.",
 						"If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a {@dc 20} Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 10 feet of the tarrasque and has the {@condition Prone|XPHB} condition. If the tarrasque dies, any swallowed creature no longer has the {@condition Restrained|XPHB} condition and can escape from the corpse using 20 feet of movement, exiting {@condition Prone|XPHB}."
 					]
 				}

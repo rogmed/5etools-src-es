@@ -4487,7 +4487,7 @@
 							"type": "entries",
 							"name": "Stealth Attack (Cost: 1d6)",
 							"entries": [
-								"If you have the {@action Hide|XPHB} action's {@condition Invisible|XPHB} condition, this attack doesn't end that condition on you if you end the turn behind {@variantrule Cover|XPHB|Three-Quarters Cover} or {@variantrule Cover|XPHB|Total Cover}."
+								"If you have the {@action Hide|XPHB} action's {@condition Invisible|XPHB} condition, this attack doesn't end that condition on you if you end the turn behind {@variantrule Cobertura|XPHB|Three-Quarters Cover} or {@variantrule Cobertura|XPHB|Total Cover}."
 							]
 						}
 					]

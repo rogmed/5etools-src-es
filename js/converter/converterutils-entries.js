@@ -1082,7 +1082,7 @@ export class CoreRuleTag extends ConverterTaggerInitializable {
 				return `{@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}`;
 			})
 			.replace(/(Half|Three-Quarters|Total) {@variantrule Cover\|XPHB}/g, (...m) => {
-				return `{@variantrule Cover|XPHB|${m[1]} Cover}`;
+				return `{@variantrule Cobertura|XPHB|${m[1]} Cover}`;
 			})
 			.replace(/\b(Cone|Cube|Cylinder|Emanation|Line|Sphere)\b/g, (...m) => {
 				return `{@variantrule ${m[1]} [Area of Effect]|XPHB|${m[1]}}`;

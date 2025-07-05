@@ -410,7 +410,7 @@
 						"{@variantrule Sphere [Area of Effect]|XPHB|Sphere}"
 					]
 				},
-				"An area of effect has a point of origin, a location from which the effect's energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn't included in the area of effect. To block a line, an obstruction must provide {@variantrule Cover|XPHB|Total Cover}.",
+				"An area of effect has a point of origin, a location from which the effect's energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn't included in the area of effect. To block a line, an obstruction must provide {@variantrule Cobertura|XPHB|Total Cover}.",
 				"If the creator of an area of effect places it at an unseen point and an obstruction\u2014such as a wall\u2014is between the creator and that point, the point of origin comes into being on the near side of the obstruction."
 			]
 		},
@@ -841,14 +841,46 @@
 			]
 		},
 		{
-			"name": "Cover",
+			"name": "Cobertura",
 			"source": "XPHB",
 			"page": 364,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"Cover provides a degree of protection to a target behind it. There are three degrees of cover, each of which provides a different benefit to a target: Half Cover (+2 bonus to AC and Dexterity saving throws), Three-Quarters Cover (+5 bonus to AC and Dexterity {@variantrule Tirada de salvación|XPHB|saving throws}), and Total Cover (can't be targeted directly). If behind more than one degree of cover, a target benefits only from the most protective degree."
+				"La cobertura proporciona un grado de protección a un objetivo situado tras ella. Hay tres niveles de cobertura, cada uno de los cuales otorga un beneficio diferente al objetivo:",
+				{
+					"type": "table",
+					"caption": "Cobertura",
+					"colLabels": [
+						"Nivel de cobertura",
+						"Beneficio al objetivo"
+					],
+					"colStyles": [
+						"col-3",
+						"col-9"
+					],
+					"rows": [
+						[
+							"Cobertura media",
+							"+2 a la CA y las tiradas de salvación de Destreza"
+						],
+						[
+							"Cobertura tres cuartos",
+							"+5 a la CA y las tiradas de salvación de Destreza"
+						],
+						[
+							"Cobertura completa",
+							"No puede ser el objetivo directo"
+						]
+					],
+					"data": {
+						"genTables": {
+							"tableChapterIgnore": true
+						}
+					}
+				},
+				"Si un objetivo está detrás de más de un grado de cobertura, solo se beneficia del que le proporciona más protección."
 			]
 		},
 		{

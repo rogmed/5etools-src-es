@@ -2895,7 +2895,7 @@
 										{
 											"type": "item",
 											"name": "Determine Modifiers",
-											"entry": "The DM determines whether the target has {@variantrule Cover|XPHB} (see the next section) and whether you have {@variantrule Advantage|XPHB} or {@variantrule Disadvantage|XPHB} against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll."
+											"entry": "The DM determines whether the target has {@variantrule Cobertura|XPHB} (see the next section) and whether you have {@variantrule Advantage|XPHB} or {@variantrule Disadvantage|XPHB} against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll."
 										},
 										{
 											"type": "item",
@@ -2908,15 +2908,15 @@
 						},
 						{
 							"type": "entries",
-							"name": "Cover",
+							"name": "Cobertura",
 							"page": 25,
 							"id": "084",
 							"entries": [
 								"Walls, trees, creatures, and other obstacles can provide cover, making a target more difficult to harm. As detailed in the Cover table, there are three degrees of cover, each of which gives a different benefit to a target.",
-								"A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives {@variantrule Cover|XPHB|Half Cover} and a tree trunk that gives {@variantrule Cover|XPHB|Three-Quarters Cover}, the target has Three-Quarters Cover.",
+								"A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives {@variantrule Cobertura|XPHB|Half Cover} and a tree trunk that gives {@variantrule Cobertura|XPHB|Three-Quarters Cover}, the target has Three-Quarters Cover.",
 								{
 									"type": "table",
-									"caption": "Cover",
+									"caption": "Cobertura",
 									"srd52": true,
 									"basicRules2024": true,
 									"colLabels": [
@@ -2931,17 +2931,17 @@
 									],
 									"rows": [
 										[
-											"{@variantrule Cover|XPHB|Half}",
+											"{@variantrule Cobertura|XPHB|Half}",
 											"+2 bonus to AC and Dexterity saving throws",
 											"Another creature or an object that covers at least half of the target"
 										],
 										[
-											"{@variantrule Cover|XPHB|Three-Quarters}",
+											"{@variantrule Cobertura|XPHB|Three-Quarters}",
 											"+5 bonus to AC and Dexterity saving throws",
 											"An object that covers at least three-quarters of the target"
 										],
 										[
-											"{@variantrule Cover|XPHB|Total}",
+											"{@variantrule Cobertura|XPHB|Total}",
 											"Can't be targeted directly",
 											"An object that covers the whole target"
 										]
@@ -12500,7 +12500,7 @@
 											"page": 238,
 											"id": "741",
 											"entries": [
-												"To target something with a spell, a caster must have a clear path to it, so it can't be behind {@variantrule Cover|XPHB|Total Cover}."
+												"To target something with a spell, a caster must have a clear path to it, so it can't be behind {@variantrule Cobertura|XPHB|Total Cover}."
 											]
 										},
 										{
@@ -13881,7 +13881,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Cover"
+							"name": "Cobertura"
 						},
 						{
 							"type": "statblock",

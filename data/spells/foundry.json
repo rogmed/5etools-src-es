@@ -14670,7 +14670,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Summon Beast",
+			"name": "Invocar bestia",
 			"source": "TCE",
 			"activities": [
 				{
@@ -14703,7 +14703,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Summon Beast",
+			"name": "Invocar bestia",
 			"source": "XPHB",
 			"activities": [
 				{

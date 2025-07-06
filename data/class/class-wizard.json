@@ -254,7 +254,7 @@
 					]
 				},
 				{
-					"title": "spacios de conjuro por cada nivel de conjuro",
+					"title": "Espacios de conjuro por cada nivel de conjuro",
 					"colLabels": [
 						"{@filter 1|spells|level=1|class=Mago}",
 						"{@filter 2|spells|level=2|class=Mago}",
@@ -729,14 +729,14 @@
 			"subclassFeatures": [
 				"Evocador|Mago|XPHB|Evocador|XPHB|3",
 				"Esculpir conjuros|Mago|XPHB|Evocador|XPHB|6",
-				"Empowered Evocation|Mago|XPHB|Evocador|XPHB|10",
-				"Overchannel|Mago|XPHB|Evocador|XPHB|14"
+				"Evocación potenciada|Mago|XPHB|Evocador|XPHB|10",
+				"Sobrecanalizar|Mago|XPHB|Evocador|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
 		{
-			"name": "Illusionist",
-			"shortName": "Illusionist",
+			"name": "Ilusionista",
+			"shortName": "Ilusionista",
 			"source": "XPHB",
 			"className": "Mago",
 			"classSource": "XPHB",
@@ -799,10 +799,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Illusionist|Mago|XPHB|Illusionist|XPHB|3",
-				"Phantasmal Creatures|Mago|XPHB|Illusionist|XPHB|6",
-				"Illusory Self|Mago|XPHB|Illusionist|XPHB|10",
-				"Illusory Reality|Mago|XPHB|Illusionist|XPHB|14"
+				"Ilusionista|Mago|XPHB|Ilusionista|XPHB|3",
+				"Criaturas fantasmales|Mago|XPHB|Ilusionista|XPHB|6",
+				"Yo ilusorio|Mago|XPHB|Ilusionista|XPHB|10",
+				"Realidad ilusoria|Mago|XPHB|Ilusionista|XPHB|14"
 			],
 			"hasFluffImages": true
 		}
@@ -1391,7 +1391,7 @@
 			]
 		},
 		{
-			"name": "Empowered Evocation",
+			"name": "Evocación potenciada",
 			"source": "XPHB",
 			"page": 146,
 			"srd52": true,
@@ -1403,11 +1403,11 @@
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"Whenever you cast a Wizard spell from the Evocation school, you can add your Intelligence modifier to one damage roll of that spell."
+				"Siempre que lances un conjuro de mago de la escuela de evocación, puedes sumar tu modificador por Inteligencia a una tirada de daño del conjuro."
 			]
 		},
 		{
-			"name": "Overchannel",
+			"name": "Sobrecanalizar",
 			"source": "XPHB",
 			"page": 146,
 			"srd52": true,
@@ -1419,104 +1419,104 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"You can increase the power of your spells. When you cast a Wizard spell with a spell slot of levels 1\u20135 that deals damage, you can deal maximum damage with that spell on the turn you cast it.",
-				"The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a {@variantrule Long Rest|XPHB}, you take {@damage 2d12} Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores {@variantrule Resistance|XPHB} and {@variantrule Immunity|XPHB}.",
-				"Each time you use this feature again before finishing a {@variantrule Long Rest|XPHB}, the Necrotic damage per spell level increases by {@damage 1d12}."
+				"Puedes aumentar el poder de tus conjuros. Cuando lances un conjuro de mago que cause daño usando un espacio de conjuro de niveles entre 1 y 5, puedes infligir el máximo daño posible con ese conjuro el turno en que lo lanzas.",
+				"La primera vez que hagas esto no sufrirás ningún efecto negativo, pero si usas este rasgo de nuevo sin haber finalizado un descanso largo antes, recibirás {@damage 2d12} de daño necrótico por cada nivel del espacio de conjuro inmediatamente después de lanzarlo. Este daño ignora cualquier resistencia e inmunidad.",
+				"Cada vez que vuelvas a utilizar este rasgo sin haber terminado un descanso largo, el daño necrótico por cada nivel del conjuro aumentará en {@damage 1d12}."
 			]
 		},
 		{
-			"name": "Illusionist",
+			"name": "Ilusionista",
 			"source": "XPHB",
-			"page": 175,
+			"page": 147,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Illusionist",
+			"subclassShortName": "Ilusionista",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Weave Conjuro sutils of Deception}",
-				"You specialize in magic that dazzles the senses and tricks the mind, and the illusions you craft make the impossible seem real.",
+				"{@i Urde sutiles conjuros de engaño}",
+				"Te especializas en la magia que deslumbra los sentidos o engaña la mente y las ilusiones que concibes hacen que lo imposible parezca real.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Illusion Savant|Mago|XPHB|Illusionist|XPHB|3"
+					"subclassFeature": "Experto en ilusionismo|Mago|XPHB|Ilusionista|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Improved Illusions|Mago|XPHB|Illusionist|XPHB|3"
+					"subclassFeature": "Ilusiones mejoradas|Mago|XPHB|Ilusionista|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Illusion Savant",
+			"name": "Experto en ilusionismo",
 			"source": "XPHB",
-			"page": 175,
+			"page": 147,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Illusionist",
+			"subclassShortName": "Ilusionista",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Choose two {@filter Wizard spells from the Illusion school|spells|level=0;1;2|class=Mago|school=I}, each of which must be no higher than level 2, and add them to your spellbook for free.",
-				"In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Illusion school to your spellbook for free. The chosen spell must be of a level for which you have spell slots."
+				"Elige dos {@filter conjuros de mago de la escuela de ilusionismo|spells|level=0;1;2|class=Mago|school=I} de nivel 2 o inferior y añádelos a tu libro de conjuros sin coste.",
+				"Además, siempre que consigas un nuevo nivel de espacios de conjuro de esta clase, puedes añadir un conjuro de mago de la {@filter escuela de ilusionismo|spells|class=Mago|school=I} a tu libro de conjuros sin coste. El conjuro elegido debe ser de un nivel para el que tengas espacios de conjuro."
 			]
 		},
 		{
-			"name": "Improved Illusions",
+			"name": "Ilusiones mejoradas",
 			"source": "XPHB",
-			"page": 175,
+			"page": 147,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Illusionist",
+			"subclassShortName": "Ilusionista",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can cast Illusion spells without providing Verbal components, and if an Illusion spell you cast has a range of 10+ feet, the range increases by 60 feet.",
-				"You also know the {@spell Ilusión menor|XPHB} cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known. You can create both a sound and an image with a single casting of {@spell Ilusión menor|XPHB}, and you can cast it as a {@variantrule Bonus Action|XPHB}."
+				"Puedes lanzar conjuros de ilusionismo sin emplear componentes verbales. Además, si un conjuro de ilusionismo que lances tiene un alcance de 10 pies (3 m) o más, su alcance aumenta en 60 pies (18 m).",
+				"También conoces el truco {@spell Ilusión menor|XPHB}. Si ya lo conoces, aprendes otro {@filter truco de mago|spells|level=0|class=mago} de tu elección. Este truco no cuenta para tu límite de trucos conocidos. Además, puedes lanzar {@spell Ilusión menor|XPHB} como acción adicional y crear tanto un sonido como una imagen en el mismo lanzamiento."
 			]
 		},
 		{
-			"name": "Phantasmal Creatures",
+			"name": "Criaturas fantasmales",
 			"source": "XPHB",
-			"page": 175,
+			"page": 147,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Illusionist",
+			"subclassShortName": "Ilusionista",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You always have the {@spell Summon Beast|XPHB} and {@spell Invocar feérico|XPHB} spells prepared. Whenever you cast either spell, you can change its school to Illusion, which causes the summoned creature to appear spectral. You can cast the Illusion version of each spell without expending a spell slot, but casting it without a slot halves the creature's {@variantrule Hit Points|XPHB}. Once you cast either spell without a spell slot, you must finish a {@variantrule Long Rest|XPHB} before you can cast the spell in that way again."
+				"Siempre tienes los conjuros {@spell invocar bestia|XPHB} e {@spell invocar feérico|XPHB} preparados. Cuando lances cualquiera de ellos, puedes cambiar su escuela a ilusionismo, lo que hará que la criatura invocada tenga un aspecto espectral. Puedes lanzar la versión de ilusionismo de cada conjuro sin gastar un espacio de conjuro, pero si lo haces de este modo, la criatura tendrá la mitad de sus puntos de golpe. Cuando lances cualquiera de ellos sin un espacio de conjuro, deberás finalizar un descanso largo antes de poder volver a lanzar ese conjuro de esta forma."
 			]
 		},
 		{
-			"name": "Illusory Self",
+			"name": "Yo ilusorio",
 			"source": "XPHB",
-			"page": 175,
+			"page": 147,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Illusionist",
+			"subclassShortName": "Ilusionista",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"When a creature hits you with an attack roll, you can take a {@variantrule Reaction|XPHB} to interpose an illusory duplicate of yourself between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}. You can also restore your use of it by expending a level 2+ spell slot (no action required)."
+				"Cuando una criatura te acierte con una tirada de ataque, puedes usar una reacción para interponer un doble ilusorio entre la criatura atacante y tú. El ataque fallará automáticamente y la ilusión se disipará.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso corto o largo. También puedes restablecer su uso gastando un espacio de conjuro de nivel 2 o superior (no requiere acción)."
 			]
 		},
 		{
-			"name": "Illusory Reality",
+			"name": "Realidad ilusoria",
 			"source": "XPHB",
-			"page": 175,
+			"page": 147,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Illusionist",
+			"subclassShortName": "Ilusionista",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"You have learned to weave shadow magic into your illusions to give them a semi-reality. When you cast an Illusion spell with a spell slot, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a {@variantrule Bonus Action|XPHB} while the spell is ongoing. The object remains real for 1 minute, during which it can't deal damage or give any conditions. For example, you can create an illusion of a bridge over a chasm and then make it real and cross it."
+				"Has aprendido a tejer magia de las sombras en tus ilusiones para dotarlas de una pseudorrealidad. Cuando lances un conjuro de ilusionismo con un espacio de conjuro, puedes elegir un objeto no mágico e inanimado que forme parte de la ilusión para hacerlo real. Puedes realizar esto en tu turno como acción adicional mientras el conjuro esté activo. El objeto es real durante 1 minuto, durante el que no podrá causar daño ni aplicar estados. Por ejemplo, podrías crear la ilusión de un puente que cruza un abismo y hacerlo real para poder recorrerlo."
 			]
 		}
 	]

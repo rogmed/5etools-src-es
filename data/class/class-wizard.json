@@ -598,12 +598,12 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Diviner",
-			"shortName": "Diviner",
+			"name": "Adivino",
+			"shortName": "Adivino",
 			"source": "XPHB",
 			"className": "Mago",
 			"classSource": "XPHB",
-			"page": 173,
+			"page": 145,
 			"edition": "one",
 			"additionalSpells": [
 				{
@@ -660,16 +660,16 @@
 				}
 			],
 			"subclassFeatures": [
-				"Diviner|Mago|XPHB|Diviner|XPHB|3",
-				"Expert Divination|Mago|XPHB|Diviner|XPHB|6",
-				"The Third Eye|Mago|XPHB|Diviner|XPHB|10",
-				"Greater Portent|Mago|XPHB|Diviner|XPHB|14"
+				"Adivino|Mago|XPHB|Adivino|XPHB|3",
+				"Adivino avezado|Mago|XPHB|Adivino|XPHB|6",
+				"El tercer ojo|Mago|XPHB|Adivino|XPHB|10",
+				"Presagio mayor|Mago|XPHB|Adivino|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
 		{
-			"name": "Evoker",
-			"shortName": "Evoker",
+			"name": "Evocador",
+			"shortName": "Evocador",
 			"source": "XPHB",
 			"className": "Mago",
 			"classSource": "XPHB",
@@ -727,10 +727,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Evoker|Mago|XPHB|Evoker|XPHB|3",
-				"Sculpt Spells|Mago|XPHB|Evoker|XPHB|6",
-				"Empowered Evocation|Mago|XPHB|Evoker|XPHB|10",
-				"Overchannel|Mago|XPHB|Evoker|XPHB|14"
+				"Evocador|Mago|XPHB|Evocador|XPHB|3",
+				"Esculpir conjuros|Mago|XPHB|Evocador|XPHB|6",
+				"Empowered Evocation|Mago|XPHB|Evocador|XPHB|10",
+				"Overchannel|Mago|XPHB|Evocador|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
@@ -1198,105 +1198,105 @@
 			]
 		},
 		{
-			"name": "Diviner",
+			"name": "Adivino",
 			"source": "XPHB",
-			"page": 173,
+			"page": 145,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Diviner",
+			"subclassShortName": "Adivino",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Learn the Secrets of the Multiverse}",
-				"The counsel of a Diviner is sought by those who want a clearer understanding of the past, present, and future. As a Diviner, you strive to part the veils of space, time, and consciousness. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.",
+				"{@i Descifra los secretos del multiverso}",
+				"Quienes buscan una comprensión más clara de su pasado, presente y futuro acuden al consejo de los adivinos. Como tal, te esfuerzas por retirar los velos del espacio, el tiempo y la consciencia y trabajas para dominar los conjuros del discernimiento, la visión remota, el conocimiento sobrenatural y los presagios del futuro.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Divination Savant|Mago|XPHB|Diviner|XPHB|3"
+					"subclassFeature": "Experto en adivinación|Mago|XPHB|Adivino|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Portent|Mago|XPHB|Diviner|XPHB|3"
+					"subclassFeature": "Presagio|Mago|XPHB|Adivino|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Divination Savant",
+			"name": "Experto en adivinación",
 			"source": "XPHB",
-			"page": 173,
+			"page": 145,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Diviner",
+			"subclassShortName": "Adivino",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Choose two {@filter Wizard spells from the Divination school|spells|level=0;1;2|class=Mago|school=D}, each of which must be no higher than level 2, and add them to your spellbook for free.",
-				"In addition, whenever you gain access to a new level of spell slots in this class, you can add one {@filter Wizard spell from the Divination school|spells|class=Mago|school=D} to your spellbook for free. The chosen spell must be of a level for which you have spell slots."
+				"Elige dos {@filter conjuros de mago de la escuela de adivinación de nivel 2 o inferior|spells|level=0;1;2|class=Mago|school=D} y añádelos a tu libro de conjuros sin coste.",
+				"Además, siempre que consigas un nuevo nivel de espacios de conjuro de esta clase, puedes añadir un {@filter conjuro de mago de la escuela de adivinación|spells|class=Mago|school=D} a tu libro de conjuros sin coste. El conjuro elegido debe ser de un nivel para el que tengas espacios de conjuro."
 			]
 		},
 		{
-			"name": "Portent",
+			"name": "Presagio",
 			"source": "XPHB",
-			"page": 173,
+			"page": 145,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Diviner",
+			"subclassShortName": "Adivino",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Glimpses of the future begin to press on your awareness. Whenever you finish a {@variantrule Long Rest|XPHB}, roll two d20s and record the numbers rolled. You can replace any {@variantrule Prueba con d20|XPHB} made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.",
-				"Each foretelling roll can be used only once. When you finish a {@variantrule Long Rest|XPHB}, you lose any unused foretelling rolls."
+				"Empiezas a vislumbrar retazos del futuro. Tras finalizar un descanso largo, tira 2d20 y anota los resultados. Puedes sustituir cualquier prueba con d20 que hagáis tú o una criatura que puedas ver por uno de los resultados presagiados. Debes indicar que haces esto antes de llevar a cabo la tirada y solo puedes sustituir una tirada de esta forma una vez por turno.",
+				"Cada resultado presagiado solo puede usarse una vez. Tras finalizar un descanso largo, pierdes todos los resultados presagiados que no hayas utilizado."
 			]
 		},
 		{
-			"name": "Expert Divination",
+			"name": "Adivino avezado",
 			"source": "XPHB",
-			"page": 173,
+			"page": 145,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Diviner",
+			"subclassShortName": "Adivino",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Casting Divination spells comes so easily to you that it expends only a fraction of your Lanzamiento de conjuros efforts. When you cast a Divination spell using a level 2+ spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the slot you expended and can't be higher than level 5."
+				"Lanzar conjuros de adivinación te resulta tan fácil que solo requiere una pequeña parte de tus esfuerzos. Cuando lances un conjuro de adivinación usando un espacio de nivel 2 o superior, recuperarás un espacio de conjuro gastado. El espacio que recuperes debe ser de un nivel inferior al del espacio gastado y no puede ser superior a 5."
 			]
 		},
 		{
-			"name": "The Third Eye",
+			"name": "El tercer ojo",
 			"source": "XPHB",
-			"page": 173,
+			"page": 145,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Diviner",
+			"subclassShortName": "Adivino",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"You can increase your powers of perception. As a {@variantrule Bonus Action|XPHB}, choose one of the following benefits, which lasts until you start a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}. You can't use this feature again until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}.",
+				"Puedes aumentar tus poderes de percepción. Como acción adicional, elige uno de los siguientes beneficios, que durará hasta que empieces un descanso corto o largo. No podrás volver a usar este rasgo hasta que finalices un descanso corto o largo.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Darkvision",
+							"name": "Comprensión superior",
 							"entries": [
-								"You gain {@sense Darkvision|XPHB} with a range of 120 feet."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Greater Comprehension",
-							"entries": [
-								"You can read any language."
+								"YPuedes leer cualquier idioma."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Ver invisibilidad",
 							"entries": [
-								"You can cast {@spell Ver invisibilidad|XPHB} without expending a spell slot."
+								"Puedes lanzar {@spell Ver invisibilidad|XPHB} sin gastar un espacio de conjuro."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Visión en la oscuridad",
+							"entries": [
+								"Obtienes visión en la oscuridad hasta 120 pies (36 m)."
 							]
 						}
 					]
@@ -1304,101 +1304,101 @@
 			]
 		},
 		{
-			"name": "Greater Portent",
+			"name": "Presagio mayor",
 			"source": "XPHB",
-			"page": 173,
+			"page": 145,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Diviner",
+			"subclassShortName": "Adivino",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. Roll three d20s for your Portent feature rather than two."
+				"Las visiones de tus sueños se intensifican y dibujan en tu mente una imagen más clara de lo que está por acontecer. Tira 3d20 cuando uses el rasgo Presagio en vez de dos."
 			]
 		},
 		{
-			"name": "Evoker",
+			"name": "Evocador",
 			"source": "XPHB",
-			"page": 174,
+			"page": 146,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Evoker",
+			"subclassShortName": "Evocador",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Create Explosive Elemental Effects}",
-				"Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.",
+				"{@i Crea efectos elementales explosivos}",
+				"Haces hincapié en el estudio de la magia capaz de crear poderosos efectos elementales, como un frío penetrante, llamas abrasadoras, ácidos corrosivos, truenos reverberantes o violentos relámpagos. Algunos evocadores encuentran empleo en las fuerzas armadas, concretamente en los regimientos de artillería para destrozar ejércitos desde lejos. Otros emplean su poder para proteger a los demás y hay quienes los usan en su propio beneficio.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Evocation Savant|Mago|XPHB|Evoker|XPHB|3"
+					"subclassFeature": "Experto en evocación|Mago|XPHB|Evocador|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Potent Cantrip|Mago|XPHB|Evoker|XPHB|3"
+					"subclassFeature": "Truco potente|Mago|XPHB|Evocador|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Evocation Savant",
+			"name": "Experto en evocación",
 			"source": "XPHB",
-			"page": 174,
+			"page": 146,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Evoker",
+			"subclassShortName": "Evocador",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Choose two {@filter Wizard spells from the Evocation school|spells|level=0;1;2|class=Mago|school=V}, each of which must be no higher than level 2, and add them to your spellbook for free.",
-				"In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Evocation school to your spellbook for free. The chosen spell must be of a level for which you have spell slots."
+				"Elige dos {@filter conjuros de mago de la escuela de evocación de nivel 2 o inferior|spells|level=0;1;2|class=Mago|school=V} y añádelos a tu libro de conjuros sin coste.",
+				"Además, siempre que consigas un nuevo nivel de espacios de conjuro de esta clase, puedes añadir un {@filter conjuro de mago de la escuela de evocación|spells|class=Mago|school=V} a tu libro de conjuros sin coste. El conjuro elegido debe ser de un nivel para el que tengas espacios de conjuro."
 			]
 		},
 		{
-			"name": "Potent Cantrip",
+			"name": "Truco potente",
 			"source": "XPHB",
-			"page": 174,
+			"page": 146,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Evoker",
+			"subclassShortName": "Evocador",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Your damaging cantrips affect even creatures that avoid the brunt of the effect. When you cast a cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip."
+				"Tus trucos que causen daño pueden afectar incluso a las criaturas que hayan evitado la peor parte del efecto. Cuando lances un truco a una criatura y falles la tirada de ataque o el objetivo supere la tirada de salvación contra el truco, el objetivo recibirá la mitad del daño del truco (si es que causa alguno), pero no sufrirá ningún otro de sus efectos adicionales."
 			]
 		},
 		{
-			"name": "Sculpt Spells",
+			"name": "Esculpir conjuros",
 			"source": "XPHB",
-			"page": 174,
+			"page": 146,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Evoker",
+			"subclassShortName": "Evocador",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You can create pockets of relative safety within the effects of your evocations. When you cast an Evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 plus the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save."
+				"Puedes crear espacios de relativa seguridad en el interior de los efectos generados por tu magia de evocación. Cuando lances un conjuro de evocación que afecte a otras criaturas que puedas ver, puedes elegir una cantidad de ellas igual a 1 más el nivel del conjuro. Las criaturas elegidas tienen éxito automáticamente en sus tiradas de salvación contra el conjuro y no reciben daño alguno si normalmente recibirían la mitad de daño del mismo al superar una tirada de salvación."
 			]
 		},
 		{
 			"name": "Empowered Evocation",
 			"source": "XPHB",
-			"page": 174,
+			"page": 146,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Evoker",
+			"subclassShortName": "Evocador",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
@@ -1409,12 +1409,12 @@
 		{
 			"name": "Overchannel",
 			"source": "XPHB",
-			"page": 174,
+			"page": 146,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Evoker",
+			"subclassShortName": "Evocador",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,

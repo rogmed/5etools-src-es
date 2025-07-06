@@ -84,8 +84,8 @@
 			]
 		},
 		{
-			"name": "Diviner",
-			"shortName": "Diviner",
+			"name": "Adivino",
+			"shortName": "Adivino",
 			"source": "XPHB",
 			"className": "Mago",
 			"classSource": "XPHB",
@@ -103,8 +103,8 @@
 			]
 		},
 		{
-			"name": "Evoker",
-			"shortName": "Evoker",
+			"name": "Evocador",
+			"shortName": "Evocador",
 			"source": "XPHB",
 			"className": "Mago",
 			"classSource": "XPHB",

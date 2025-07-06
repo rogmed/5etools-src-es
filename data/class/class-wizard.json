@@ -861,7 +861,7 @@
 							"type": "entries",
 							"name": "Libro de conjuros",
 							"entries": [
-								"Tu aprendizaje de mago culminó con la creación de un libro único: tu libro de conjuros. Es un objeto Diminuto que pesa 3 libras (1,5 kg), contiene 100 páginas y solo podéis leerlo tú o alguien que lance {@spell Identify|XPHB|identificar}. Tú decides la apariencia y los materiales del libro; por ejemplo, puede ser un volumen con los cantos cubiertos de pan de oro o páginas de vitela cosidas con bramante.",
+								"Tu aprendizaje de mago culminó con la creación de un libro único: tu libro de conjuros. Es un objeto Diminuto que pesa 3 libras (1,5 kg), contiene 100 páginas y solo podéis leerlo tú o alguien que lance {@spell Identificar|XPHB|identificar}. Tú decides la apariencia y los materiales del libro; por ejemplo, puede ser un volumen con los cantos cubiertos de pan de oro o páginas de vitela cosidas con bramante.",
 								"El libro contiene los conjuros de nivel 1 y superiores que conoces. Empiezas con seis conjuros de mago de nivel 1 de tu elección. Se recomiendan {@spell armadura de mago|XPHB}, {@spell caída de pluma|XPHB}, {@spell detectar magia|XPHB}, {@spell dormir|XPHB}, {@spell ola atronadora|XPHB} y {@spell proyectil mágico|XPHB}.",
 								"Siempre que subas un nivel de mago después del 1, añade dos conjuros de mago de tu elección a tu libro de conjuros. Estos conjuros deben ser de un nivel para el que tengas espacios de conjuro, como se indica en la tabla “Rasgos de mago”. Los conjuros son el resultado de la investigación arcana que llevas a cabo de forma habitual."
 							]

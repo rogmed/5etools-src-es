@@ -2471,7 +2471,7 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You can summon a nature spirit that assumes an animal form to aid you. As a {@action Magic|XPHB} action, you can expend a spell slot or a use of Wild Shape to cast the {@spell Find Familiar|XPHB} spell without Material components.",
+				"You can summon a nature spirit that assumes an animal form to aid you. As a {@action Magic|XPHB} action, you can expend a spell slot or a use of Wild Shape to cast the {@spell Encontrar familiar|XPHB} spell without Material components.",
 				"When you cast the spell in this way, the familiar is Fey and disappears when you finish a {@variantrule Long Rest|XPHB}."
 			]
 		},

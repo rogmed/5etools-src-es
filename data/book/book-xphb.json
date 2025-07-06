@@ -11840,7 +11840,7 @@
 							"id": "716",
 							"entries": [
 								"Some magic items are indistinguishable from their nonmagical counterparts, while others are conspicuously magical. Handling a magic item is enough to give you a sense that it is extraordinary, but learning a magic item's properties isn't automatic.",
-								"The {@spell Identify|XPHB} spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a {@variantrule Short Rest|XPHB} while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).",
+								"The {@spell Identificar|XPHB} spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a {@variantrule Short Rest|XPHB} while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).",
 								"Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a {@item Ring of Feather Falling|XDMG}.",
 								"Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a {@item Ring of Swimming|XDMG}, the DM might say, \"Your movement feels strangely fluid.\" Perhaps you then dive into a river to see what happens. The DM would then say you swim unexpectedly well."
 							]
@@ -12789,7 +12789,7 @@
 								"{@spell Terror|XPHB}",
 								"{@spell Feather Fall|XPHB}",
 								"{@spell Feign Death|XPHB}",
-								"{@spell Find Familiar|XPHB}",
+								"{@spell Encontrar familiar|XPHB}",
 								"{@spell Find Steed|XPHB}",
 								"{@spell Find the Path|XPHB}",
 								"{@spell Find Traps|XPHB}",
@@ -12869,8 +12869,8 @@
 							"items": [
 								"{@spell Ice Knife|XPHB}",
 								"{@spell Ice Storm|XPHB}",
-								"{@spell Identify|XPHB}",
-								"{@spell Illusory Script|XPHB}",
+								"{@spell Identificar|XPHB}",
+								"{@spell Texto ilusorio|XPHB}",
 								"{@spell Imprisonment|XPHB}",
 								"{@spell Incendiary Cloud|XPHB}",
 								"{@spell Infligir heridas|XPHB}",
@@ -13092,12 +13092,12 @@
 							"columns": 3,
 							"items": [
 								"{@spell Tasha's Bubbling Cauldron|XPHB}",
-								"{@spell Tasha's Hideous Laughter|XPHB}",
+								"{@spell Risa horrible de Tasha|XPHB}",
 								"{@spell Telequinesis|XPHB}",
 								"{@spell Telepathy|XPHB}",
 								"{@spell Teleport|XPHB}",
 								"{@spell Teleportation Circle|XPHB}",
-								"{@spell Tenser's Floating Disk|XPHB}",
+								"{@spell Disco flotante de Tenser|XPHB}",
 								"{@spell Taumaturgia|XPHB}",
 								"{@spell Thorn Whip|XPHB}",
 								"{@spell Tronar|XPHB}",
@@ -13120,7 +13120,7 @@
 							"style": "list-hang-notitle",
 							"columns": 3,
 							"items": [
-								"{@spell Unseen Servant|XPHB}"
+								"{@spell Sirviente invisible|XPHB}"
 							]
 						},
 						{

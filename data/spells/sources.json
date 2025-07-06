@@ -2020,7 +2020,7 @@
 				}
 			]
 		},
-		"Find Familiar": {
+		"Encontrar familiar": {
 			"class": [
 				{
 					"name": "Mago",
@@ -2884,7 +2884,7 @@
 				}
 			]
 		},
-		"Identify": {
+		"Identificar": {
 			"class": [
 				{
 					"name": "Bard",
@@ -2900,7 +2900,7 @@
 				}
 			]
 		},
-		"Illusory Script": {
+		"Texto ilusorio": {
 			"class": [
 				{
 					"name": "Bard",
@@ -5204,7 +5204,7 @@
 				}
 			]
 		},
-		"Tasha's Hideous Laughter": {
+		"Risa horrible de Tasha": {
 			"class": [
 				{
 					"name": "Bard",
@@ -5276,7 +5276,7 @@
 				}
 			]
 		},
-		"Tenser's Floating Disk": {
+		"Disco flotante de Tenser": {
 			"class": [
 				{
 					"name": "Mago",
@@ -5512,7 +5512,7 @@
 				}
 			]
 		},
-		"Unseen Servant": {
+		"Sirviente invisible": {
 			"class": [
 				{
 					"name": "Bard",

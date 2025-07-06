@@ -6063,7 +6063,7 @@
 					"will": [
 						"{@spell Alter Self|XPHB}",
 						"{@spell Detect Magic|XPHB}",
-						"{@spell Identify|XPHB}",
+						"{@spell Identificar|XPHB}",
 						"{@spell Mage Hand|XPHB}",
 						"{@spell Prestidigitation|XPHB}"
 					],
@@ -6268,16 +6268,16 @@
 					"name": "Coven Magic",
 					"type": "spellcasting",
 					"headerEntries": [
-						"While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save {@dc 19}): {@spell Augury|XPHB}, {@spell Find Familiar|XPHB}, {@spell Identify|XPHB}, {@spell Locate Object|XPHB}, {@spell Escudriñar|XPHB}, or {@spell Unseen Servant|XPHB}. The hag must finish a {@variantrule Long Rest|XPHB} before using this trait to cast that spell again."
+						"While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save {@dc 19}): {@spell Augury|XPHB}, {@spell Encontrar familiar|XPHB}, {@spell Identificar|XPHB}, {@spell Locate Object|XPHB}, {@spell Escudriñar|XPHB}, or {@spell Sirviente invisible|XPHB}. The hag must finish a {@variantrule Long Rest|XPHB} before using this trait to cast that spell again."
 					],
 					"restLong": {
 						"1": [
 							"{@spell Augury|XPHB}",
-							"{@spell Find Familiar|XPHB}",
-							"{@spell Identify|XPHB}",
+							"{@spell Encontrar familiar|XPHB}",
+							"{@spell Identificar|XPHB}",
 							"{@spell Locate Object|XPHB}",
 							"{@spell Escudriñar|XPHB}",
-							"{@spell Unseen Servant|XPHB}"
+							"{@spell Sirviente invisible|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -28832,16 +28832,16 @@
 					"name": "Coven Magic",
 					"type": "spellcasting",
 					"headerEntries": [
-						"While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save {@dc 11}): {@spell Augury|XPHB}, {@spell Find Familiar|XPHB}, {@spell Identify|XPHB}, {@spell Locate Object|XPHB}, {@spell Escudriñar|XPHB}, or {@spell Unseen Servant|XPHB}. The hag must finish a {@variantrule Long Rest|XPHB} before using this trait to cast that spell again."
+						"While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save {@dc 11}): {@spell Augury|XPHB}, {@spell Encontrar familiar|XPHB}, {@spell Identificar|XPHB}, {@spell Locate Object|XPHB}, {@spell Escudriñar|XPHB}, or {@spell Sirviente invisible|XPHB}. The hag must finish a {@variantrule Long Rest|XPHB} before using this trait to cast that spell again."
 					],
 					"restLong": {
 						"1": [
 							"{@spell Augury|XPHB}",
-							"{@spell Find Familiar|XPHB}",
-							"{@spell Identify|XPHB}",
+							"{@spell Encontrar familiar|XPHB}",
+							"{@spell Identificar|XPHB}",
 							"{@spell Locate Object|XPHB}",
 							"{@spell Escudriñar|XPHB}",
-							"{@spell Unseen Servant|XPHB}"
+							"{@spell Sirviente invisible|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -39912,16 +39912,16 @@
 					"name": "Coven Magic",
 					"type": "spellcasting",
 					"headerEntries": [
-						"While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save {@dc 14}): {@spell Augury|XPHB}, {@spell Find Familiar|XPHB}, {@spell Identify|XPHB}, {@spell Locate Object|XPHB}, {@spell Escudriñar|XPHB}, or {@spell Unseen Servant|XPHB}. The hag must finish a {@variantrule Long Rest|XPHB} before using this trait to cast that spell again."
+						"While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save {@dc 14}): {@spell Augury|XPHB}, {@spell Encontrar familiar|XPHB}, {@spell Identificar|XPHB}, {@spell Locate Object|XPHB}, {@spell Escudriñar|XPHB}, or {@spell Sirviente invisible|XPHB}. The hag must finish a {@variantrule Long Rest|XPHB} before using this trait to cast that spell again."
 					],
 					"restLong": {
 						"1": [
 							"{@spell Augury|XPHB}",
-							"{@spell Find Familiar|XPHB}",
-							"{@spell Identify|XPHB}",
+							"{@spell Encontrar familiar|XPHB}",
+							"{@spell Identificar|XPHB}",
 							"{@spell Locate Object|XPHB}",
 							"{@spell Escudriñar|XPHB}",
-							"{@spell Unseen Servant|XPHB}"
+							"{@spell Sirviente invisible|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -42023,7 +42023,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell Tasha's Hideous Laughter|XPHB} (level 3 version)"
+							"{@spell Risa horrible de Tasha|XPHB} (level 3 version)"
 						]
 					},
 					"ability": "cha",
@@ -43235,13 +43235,13 @@
 					"name": "Burst of Wonder {@recharge 5}",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The pixie casts {@spell Enmarañar|XPHB}, {@spell Polymorph|XPHB}, or {@spell Tasha's Hideous Laughter|XPHB}, requiring no Material components and using the same spellcasting ability as Spellcasting."
+						"The pixie casts {@spell Enmarañar|XPHB}, {@spell Polymorph|XPHB}, or {@spell Risa horrible de Tasha|XPHB}, requiring no Material components and using the same spellcasting ability as Spellcasting."
 					],
 					"recharge": {
 						"5": [
 							"{@spell Enmarañar|XPHB}",
 							"{@spell Polymorph|XPHB}",
-							"{@spell Tasha's Hideous Laughter|XPHB}"
+							"{@spell Risa horrible de Tasha|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -48049,16 +48049,16 @@
 					"name": "Coven Magic",
 					"type": "spellcasting",
 					"headerEntries": [
-						"While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save {@dc 11}): {@spell Augury|XPHB}, {@spell Find Familiar|XPHB}, {@spell Identify|XPHB}, {@spell Locate Object|XPHB}, {@spell Escudriñar|XPHB}, or {@spell Unseen Servant|XPHB}. The hag must finish a {@variantrule Long Rest|XPHB} before using this trait to cast that spell again."
+						"While within 30 feet of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using Intelligence as the spellcasting ability (spell save {@dc 11}): {@spell Augury|XPHB}, {@spell Encontrar familiar|XPHB}, {@spell Identificar|XPHB}, {@spell Locate Object|XPHB}, {@spell Escudriñar|XPHB}, or {@spell Sirviente invisible|XPHB}. The hag must finish a {@variantrule Long Rest|XPHB} before using this trait to cast that spell again."
 					],
 					"restLong": {
 						"1": [
 							"{@spell Augury|XPHB}",
-							"{@spell Find Familiar|XPHB}",
-							"{@spell Identify|XPHB}",
+							"{@spell Encontrar familiar|XPHB}",
+							"{@spell Identificar|XPHB}",
 							"{@spell Locate Object|XPHB}",
 							"{@spell Escudriñar|XPHB}",
-							"{@spell Unseen Servant|XPHB}"
+							"{@spell Sirviente invisible|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -49978,7 +49978,7 @@
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
-						"{@spell Identify|XPHB}",
+						"{@spell Identificar|XPHB}",
 						"{@spell Mage Hand|XPHB}",
 						"{@spell Ilusión menor|XPHB}",
 						"{@spell Prestidigitation|XPHB}"
@@ -50157,7 +50157,7 @@
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
-						"{@spell Identify|XPHB}",
+						"{@spell Identificar|XPHB}",
 						"{@spell Prestidigitation|XPHB}"
 					],
 					"daily": {

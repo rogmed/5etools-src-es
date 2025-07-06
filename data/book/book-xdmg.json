@@ -11868,7 +11868,7 @@
 											"page": 124,
 											"id": "290",
 											"entries": [
-												"The Horns of the Beast can be destroyed only by dropping it in the {@book River Oceanus|XDMG|5|River Oceanus}, which flows through the Upper Planes (see {@book chapter 6|XDMG|5}). A character can learn this by casting {@spell Identify|XPHB} on the Artifact."
+												"The Horns of the Beast can be destroyed only by dropping it in the {@book River Oceanus|XDMG|5|River Oceanus}, which flows through the Upper Planes (see {@book chapter 6|XDMG|5}). A character can learn this by casting {@spell Identificar|XPHB} on the Artifact."
 											]
 										}
 									]
@@ -15963,7 +15963,7 @@
 																{
 																	"type": "item",
 																	"name": "Magic Item Identification",
-																	"entry": "Morley can cast the {@spell Identify|XPHB} spell at will. He charges 50 GP for each casting of the spell."
+																	"entry": "Morley can cast the {@spell Identificar|XPHB} spell at will. He charges 50 GP for each casting of the spell."
 																}
 															]
 														}
@@ -24759,7 +24759,7 @@
 									"page": 220,
 									"id": "433",
 									"entries": [
-										"Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when the {@spell Identify|XPHB} spell is cast on it. A creature attuned to an item knows how many charges the item has and how many it regains."
+										"Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when the {@spell Identificar|XPHB} spell is cast on it. A creature attuned to an item knows how many charges the item has and how many it regains."
 									]
 								}
 							]
@@ -24779,7 +24779,7 @@
 							"page": 220,
 							"id": "435",
 							"entries": [
-								"A magic item's description specifies whether it bears a curse. Most methods of identifying items, including the {@spell Identify|XPHB} spell, fail to reveal such a curse.",
+								"A magic item's description specifies whether it bears a curse. Most methods of identifying items, including the {@spell Identificar|XPHB} spell, fail to reveal such a curse.",
 								"Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with a {@spell Remove Curse|XPHB} spell."
 							]
 						},
@@ -30329,7 +30329,7 @@
 							"width": 850,
 							"height": 1041
 						},
-						"Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv {@i (IGG-wilv)} was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see {@book Zagyg|XDMG|8|Zagyg}). Later, as an adventurer, she created several new spells, including {@spell Tasha's Hideous Laughter|XPHB} and {@spell Tasha's Bubbling Cauldron|XPHB}, leaning on the teachings of her adoptive mother, the arch-hag {@book Baba Yaga|XDMG|8|Baba Yaga}. As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the {@item Demonomicon of Iggwilv|XDMG} (see {@book chapter 7|XDMG|6|Demonomicon of Iggwilv}). She also bound and trapped the demon lord {@book Graz'zt|XDMG|5|Layers 45\u201347: Azzagrat} (see {@book chapter 6|XDMG|5|Layers 45\u201347: Azzagrat}).",
+						"Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv {@i (IGG-wilv)} was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see {@book Zagyg|XDMG|8|Zagyg}). Later, as an adventurer, she created several new spells, including {@spell Risa horrible de Tasha|XPHB} and {@spell Tasha's Bubbling Cauldron|XPHB}, leaning on the teachings of her adoptive mother, the arch-hag {@book Baba Yaga|XDMG|8|Baba Yaga}. As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the {@item Demonomicon of Iggwilv|XDMG} (see {@book chapter 7|XDMG|6|Demonomicon of Iggwilv}). She also bound and trapped the demon lord {@book Graz'zt|XDMG|5|Layers 45\u201347: Azzagrat} (see {@book chapter 6|XDMG|5|Layers 45\u201347: Azzagrat}).",
 						"Iggwilv ruled Perrenland as a tyrant. When Graz'zt escaped his magical prison, Iggwilv went into hiding. Iggwilv's current location is unknown, but she left behind a cambion son ({@book Iuz|XDMG|8|Iuz}), who has his mother's tyrannical bent, and a daughter (Drelnza), who is now a vampire and lairs in the Lost Caverns of Tsojcanth (see \"{@book Greyhawk Gazetteer|XDMG|4|Greyhawk Gazetteer}\" in {@book chapter 5|XDMG|4}), not far from her mother's old haunts."
 					]
 				},

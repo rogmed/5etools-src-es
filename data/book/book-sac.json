@@ -2278,7 +2278,7 @@
 											"name": "Can the familiar you conjure with the find familiar spell use the Help action to grant you advantage on your attack roll?",
 											"id": "0f9",
 											"entries": [
-												"A {@spell Find Familiar||familiar} can't attack, but it can take non-attack actions, including {@action Help}. As the text of the {@action Help} action indicates, the action doesn't require you to be able to attack; you simply need to be able to provide some sort of distraction."
+												"A {@spell Encontrar familiar||familiar} can't attack, but it can take non-attack actions, including {@action Help}. As the text of the {@action Help} action indicates, the action doesn't require you to be able to attack; you simply need to be able to provide some sort of distraction."
 											]
 										},
 										{
@@ -2286,7 +2286,7 @@
 											"name": "Does the familiar of find familiar count as an ally for the purposes of Sneak Attack?",
 											"id": "0fa",
 											"entries": [
-												"A {@spell Find Familiar||familiar} is an allied creature. Its proximity to a target can allow you to use the Sneak Attack feature or any other feature that requires the presence of an ally."
+												"A {@spell Encontrar familiar||familiar} is an allied creature. Its proximity to a target can allow you to use the Sneak Attack feature or any other feature that requires the presence of an ally."
 											]
 										},
 										{

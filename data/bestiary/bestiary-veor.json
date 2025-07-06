@@ -5264,7 +5264,7 @@
 						"{@spell Mage Hand}",
 						"{@spell Message}",
 						"{@spell Prestidigitation}",
-						"{@spell Tasha's Hideous Laughter}"
+						"{@spell Risa horrible de Tasha}"
 					],
 					"daily": {
 						"2": [
@@ -6217,7 +6217,7 @@
 						],
 						"3e": [
 							"{@spell Shatter}",
-							"{@spell Unseen Servant}"
+							"{@spell Sirviente invisible}"
 						],
 						"2e": [
 							"{@spell Hypnotic Pattern}",

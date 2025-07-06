@@ -4417,7 +4417,7 @@
 					],
 					"will": [
 						"{@spell Mage Hand}",
-						"{@spell Tasha's Hideous Laughter}"
+						"{@spell Risa horrible de Tasha}"
 					],
 					"ability": "cha",
 					"displayAs": "action"

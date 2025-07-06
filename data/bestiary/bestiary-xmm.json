@@ -278,14 +278,14 @@
 					"displayAs": "action"
 				},
 				{
-					"name": "Counterspell (2/Day)",
+					"name": "Contrahechizo (2/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The cultist casts {@spell Counterspell|XPHB} in response to that spell's trigger, using the same spellcasting ability as Spellcasting."
+						"The cultist casts {@spell Contrahechizo|XPHB} in response to that spell's trigger, using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"2": [
-							"{@spell Counterspell|XPHB}"
+							"{@spell Contrahechizo|XPHB}"
 						]
 					},
 					"ability": "wis",
@@ -6079,13 +6079,13 @@
 					"displayAs": "action"
 				},
 				{
-					"name": "Counterspell",
+					"name": "Contrahechizo",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The arcanaloth casts {@spell Counterspell|XPHB} in response to that spell's trigger, using the same spellcasting ability as Spellcasting."
+						"The arcanaloth casts {@spell Contrahechizo|XPHB} in response to that spell's trigger, using the same spellcasting ability as Spellcasting."
 					],
 					"will": [
-						"{@spell Counterspell|XPHB}"
+						"{@spell Contrahechizo|XPHB}"
 					],
 					"ability": "int",
 					"displayAs": "reaction",
@@ -6294,7 +6294,7 @@
 					"will": [
 						"{@spell Detectar pensamientos|XPHB}",
 						"{@spell Puerta dimensional|XPHB}",
-						"{@spell Dispel Magic|XPHB}",
+						"{@spell Disipar magia|XPHB}",
 						"{@spell Hypnotic Pattern|XPHB}"
 					],
 					"daily": {
@@ -6311,10 +6311,10 @@
 					"name": "Tongue Twister",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The hag casts {@spell Counterspell|XPHB} in response to that spell's trigger, using the same spellcasting ability as Spellcasting. If the target fails its saving throw, it is cursed until the end of its next turn. Until the curse ends, the target can't cast spells with a Verbal component, and when it speaks, it says the opposite of what it means."
+						"The hag casts {@spell Contrahechizo|XPHB} in response to that spell's trigger, using the same spellcasting ability as Spellcasting. If the target fails its saving throw, it is cursed until the end of its next turn. Until the curse ends, the target can't cast spells with a Verbal component, and when it speaks, it says the opposite of what it means."
 					],
 					"will": [
-						"{@spell Counterspell|XPHB}"
+						"{@spell Contrahechizo|XPHB}"
 					],
 					"ability": "cha",
 					"displayAs": "reaction",
@@ -6651,11 +6651,11 @@
 					"name": "Protective Magic (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The archmage casts {@spell Counterspell|XPHB} or {@spell Shield|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
+						"The archmage casts {@spell Contrahechizo|XPHB} or {@spell Shield|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"3": [
-							"{@spell Counterspell|XPHB}",
+							"{@spell Contrahechizo|XPHB}",
 							"{@spell Shield|XPHB}"
 						]
 					},
@@ -6818,12 +6818,12 @@
 					"name": "Divine Aid (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The priest casts {@spell Bless|XPHB}, {@spell Dispel Magic|XPHB}, {@spell Palabra de curación|XPHB}, or {@spell Restablecimiento menor|XPHB}, using the same spellcasting ability as Spellcasting."
+						"The priest casts {@spell Bless|XPHB}, {@spell Disipar magia|XPHB}, {@spell Palabra de curación|XPHB}, or {@spell Restablecimiento menor|XPHB}, using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"3": [
 							"{@spell Bless|XPHB}",
-							"{@spell Dispel Magic|XPHB}",
+							"{@spell Disipar magia|XPHB}",
 							"{@spell Palabra de curación|XPHB}",
 							"{@spell Restablecimiento menor|XPHB}"
 						]
@@ -15975,7 +15975,7 @@
 					"daily": {
 						"2e": [
 							"{@spell Destructive Wave|XPHB} (Necrotic)",
-							"{@spell Dispel Magic|XPHB}"
+							"{@spell Disipar magia|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -16183,7 +16183,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Destructive Wave|XPHB} (Necrotic)",
-							"{@spell Dispel Magic|XPHB}"
+							"{@spell Disipar magia|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -26647,7 +26647,7 @@
 					"will": [
 						"{@spell Darkness|XPHB}",
 						"{@spell Detect Magic|XPHB}",
-						"{@spell Dispel Magic|XPHB}"
+						"{@spell Disipar magia|XPHB}"
 					],
 					"daily": {
 						"1e": [
@@ -35029,7 +35029,7 @@
 					"will": [
 						"{@spell Detect Magic|XPHB}",
 						"{@spell Detectar pensamientos|XPHB}",
-						"{@spell Dispel Magic|XPHB}",
+						"{@spell Disipar magia|XPHB}",
 						"{@spell Bola de fuego|XPHB} (level 5 version)",
 						"{@spell Invisibility|XPHB}",
 						"{@spell Lightning Bolt|XPHB} (level 5 version)",
@@ -35056,10 +35056,10 @@
 					"name": "Protective Magic",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The lich casts {@spell Counterspell|XPHB} or {@spell Shield|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
+						"The lich casts {@spell Contrahechizo|XPHB} or {@spell Shield|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
 					],
 					"will": [
-						"{@spell Counterspell|XPHB}",
+						"{@spell Contrahechizo|XPHB}",
 						"{@spell Shield|XPHB}"
 					],
 					"ability": "int",
@@ -35736,11 +35736,11 @@
 					"name": "Protective Magic (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mage casts {@spell Counterspell|XPHB} or {@spell Shield|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
+						"The mage casts {@spell Contrahechizo|XPHB} or {@spell Shield|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"3": [
-							"{@spell Counterspell|XPHB}",
+							"{@spell Contrahechizo|XPHB}",
 							"{@spell Shield|XPHB}"
 						]
 					},
@@ -37494,7 +37494,7 @@
 						"1e": [
 							"{@spell Cloudkill|XPHB}",
 							"{@spell Darkness|XPHB}",
-							"{@spell Dispel Magic|XPHB}"
+							"{@spell Disipar magia|XPHB}"
 						]
 					},
 					"ability": "wis",
@@ -39067,7 +39067,7 @@
 						"The mummy casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save {@dc 17}, {@hit 9} to hit with spell attacks):"
 					],
 					"will": [
-						"{@spell Dispel Magic|XPHB}",
+						"{@spell Disipar magia|XPHB}",
 						"{@spell Thaumaturgy|XPHB}"
 					],
 					"daily": {
@@ -43958,12 +43958,12 @@
 					"name": "Divine Aid (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The priest casts {@spell Bless|XPHB}, {@spell Dispel Magic|XPHB}, {@spell Palabra de curación|XPHB}, or {@spell Restablecimiento menor|XPHB}, using the same spellcasting ability as Spellcasting."
+						"The priest casts {@spell Bless|XPHB}, {@spell Disipar magia|XPHB}, {@spell Palabra de curación|XPHB}, or {@spell Restablecimiento menor|XPHB}, using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"3": [
 							"{@spell Bless|XPHB}",
-							"{@spell Dispel Magic|XPHB}",
+							"{@spell Disipar magia|XPHB}",
 							"{@spell Palabra de curación|XPHB}",
 							"{@spell Restablecimiento menor|XPHB}"
 						]
@@ -49985,7 +49985,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Dispel Magic|XPHB}",
+							"{@spell Disipar magia|XPHB}",
 							"{@spell Legend Lore|XPHB}",
 							"{@spell Locate Object|XPHB}",
 							"{@spell Plane Shift|XPHB}",
@@ -50325,7 +50325,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Detect Magic|XPHB}",
-							"{@spell Dispel Magic|XPHB}",
+							"{@spell Disipar magia|XPHB}",
 							"{@spell Restablecimiento mayor|XPHB}",
 							"{@spell Heroes' Feast|XPHB}",
 							"{@spell Zone of Truth|XPHB}"
@@ -54744,11 +54744,11 @@
 					"name": "Fiendish Guile {@recharge 4}",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The ultroloth casts {@spell Dispel Magic|XPHB}, {@spell Invisibility|XPHB} (self only), {@spell Paso brumoso|XPHB}, or {@spell Suggestion|XPHB}, requiring no Material components and using the same spellcasting ability as Spellcasting."
+						"The ultroloth casts {@spell Disipar magia|XPHB}, {@spell Invisibility|XPHB} (self only), {@spell Paso brumoso|XPHB}, or {@spell Suggestion|XPHB}, requiring no Material components and using the same spellcasting ability as Spellcasting."
 					],
 					"recharge": {
 						"4": [
-							"{@spell Dispel Magic|XPHB}",
+							"{@spell Disipar magia|XPHB}",
 							"{@spell Invisibility|XPHB}",
 							"{@spell Paso brumoso|XPHB}",
 							"{@spell Suggestion|XPHB}"

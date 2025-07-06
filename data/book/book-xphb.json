@@ -7112,7 +7112,7 @@
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
-															"{@feat Boon of Energy Resistance|XPHB}",
+															"{@feat Don de la resistencia a energías|XPHB}",
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
@@ -7120,35 +7120,35 @@
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
-															"{@feat Boon of Fortitude|XPHB}",
+															"{@feat Don de la fortaleza|XPHB}",
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
-															"{@feat Boon of Irresistible Offense|XPHB}",
+															"{@feat Don del ataque imparable|XPHB}",
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
-															"{@feat Boon of Recovery|XPHB}",
+															"{@feat Don de la recuperación|XPHB}",
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
-															"{@feat Boon of Skill|XPHB}",
+															"{@feat Don de la habilidad|XPHB}",
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
-															"{@feat Boon of Speed|XPHB}",
+															"{@feat Don de la velocidad|XPHB}",
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
-															"{@feat Boon of Spell Recall|XPHB}",
+															"{@feat Don del recuerdo de conjuros|XPHB}",
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
-															"{@feat Boon of the Night Spirit|XPHB}",
+															"{@feat Don del espíritu de la noche|XPHB}",
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
-															"{@feat Boon of Truesight|XPHB}",
+															"{@feat Don de la visión verdadera|XPHB}",
 															"{@book Epic Boon|XPHB|5|Epic Boon Feats}"
 														],
 														[
@@ -7517,16 +7517,16 @@
 							"items": [
 								"{@feat Don de la pericia en combate|XPHB}",
 								"{@feat Don del viaje dimensional|XPHB}",
-								"{@feat Boon of Energy Resistance|XPHB}",
+								"{@feat Don de la resistencia a energías|XPHB}",
 								"{@feat Don del destino|XPHB}",
-								"{@feat Boon of Fortitude|XPHB}",
-								"{@feat Boon of Irresistible Offense|XPHB}",
-								"{@feat Boon of Recovery|XPHB}",
-								"{@feat Boon of Skill|XPHB}",
-								"{@feat Boon of Speed|XPHB}",
-								"{@feat Boon of Spell Recall|XPHB}",
-								"{@feat Boon of the Night Spirit|XPHB}",
-								"{@feat Boon of Truesight|XPHB}"
+								"{@feat Don de la fortaleza|XPHB}",
+								"{@feat Don del ataque imparable|XPHB}",
+								"{@feat Don de la recuperación|XPHB}",
+								"{@feat Don de la habilidad|XPHB}",
+								"{@feat Don de la velocidad|XPHB}",
+								"{@feat Don del recuerdo de conjuros|XPHB}",
+								"{@feat Don del espíritu de la noche|XPHB}",
+								"{@feat Don de la visión verdadera|XPHB}"
 							]
 						}
 					]
@@ -12712,7 +12712,7 @@
 								"{@spell Control Water|XPHB}",
 								"{@spell Control Weather|XPHB}",
 								"{@spell Cordon of Arrows|XPHB}",
-								"{@spell Counterspell|XPHB}",
+								"{@spell Contrahechizo|XPHB}",
 								"{@spell Create Food and Water|XPHB}",
 								"{@spell Crear o destruir agua|XPHB}",
 								"{@spell Create Undead|XPHB}",
@@ -12743,7 +12743,7 @@
 								"{@spell Disguise Self|XPHB}",
 								"{@spell Disintegrate|XPHB}",
 								"{@spell Dispel Evil and Good|XPHB}",
-								"{@spell Dispel Magic|XPHB}",
+								"{@spell Disipar magia|XPHB}",
 								"{@spell Susurros discordantes|XPHB}",
 								"{@spell Divination|XPHB}",
 								"{@spell Divine Favor|XPHB}",

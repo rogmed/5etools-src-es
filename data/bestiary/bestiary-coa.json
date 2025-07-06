@@ -1975,7 +1975,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell Dispel Magic}",
+							"{@spell Disipar magia}",
 							"{@spell Inmovilizar monstruo}",
 							"{@spell Mirror Image}",
 							"{@spell Mislead}",
@@ -3746,7 +3746,7 @@
 					],
 					"will": [
 						"{@spell Detect Magic}",
-						"{@spell Dispel Magic}",
+						"{@spell Disipar magia}",
 						"{@spell Heroism}",
 						"{@spell Magic Missile}"
 					],
@@ -5856,7 +5856,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Counterspell",
+					"name": "Contrahechizo",
 					"entries": [
 						"As a reaction to a creature he can see casting a spell, Levistus can attempt to prevent the casting. Levistus makes an Intelligence check (+7) against a DC of (10 + spell level). On a success, the creature's spell fails and has no effect."
 					]
@@ -6414,7 +6414,7 @@
 						"{@spell Darkness}",
 						"{@spell Detectar el bien y el mal}",
 						"{@spell Detect Magic}",
-						"{@spell Dispel Magic}",
+						"{@spell Disipar magia}",
 						"{@spell Geas} (duration 1 year)",
 						"{@spell Restablecimiento mayor}",
 						"{@spell Hallow}",
@@ -7502,7 +7502,7 @@
 							"{@spell Blade Barrier}",
 							"{@spell Orden imperiosa}",
 							"{@spell Contagion}",
-							"{@spell Dispel Magic}",
+							"{@spell Disipar magia}",
 							"{@spell Divination}",
 							"{@spell Etherealness}",
 							"{@spell Fire Storm}",
@@ -8122,7 +8122,7 @@
 					"will": [
 						"{@spell Perdición}",
 						"{@spell Disguise Self}",
-						"{@spell Dispel Magic}",
+						"{@spell Disipar magia}",
 						"{@spell Mage Armor}",
 						"{@spell Mirror Image}",
 						"{@spell Thaumaturgy}"

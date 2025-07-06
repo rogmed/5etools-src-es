@@ -283,7 +283,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Counterspell",
+					"name": "Contrahechizo",
 					"entries": [
 						"The nullifier attempts to interrupt a creature that it can see within 60 feet in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, the nullifier makes a Charisma check with a DC equal to 10 + the spell's level. On a success, the creature's spell fails and has no effect."
 					]

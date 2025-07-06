@@ -3228,6 +3228,7 @@ Renderer.utils = class {
 						${ptBrewSourceLink}
 					</div>
 				</div>
+				<div style="font-size:75%; color:grey;">${ent.originalname}</div>
 			</th>
 		</tr>`;
 
@@ -7300,7 +7301,7 @@ Renderer.spell = class {
 	}
 
 	/* -------------------------------------------- */
-		static getHtmlPtOriginalName (spell, {styleHint = null} = {}) {
+	static getHtmlPtOriginalName (spell, {styleHint = null} = {}) {
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
 		return `${spell.originalname ? spell.originalname : ""}`;
 	}

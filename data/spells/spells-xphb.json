@@ -648,7 +648,7 @@
 				"An aura of antimagic surrounds you in 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation}. No one can cast spells, take {@action Magic|XPHB} actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.",
 				"Areas of effect created by spells or other magic can't extend into the aura, and no one can teleport into or out of it or use planar travel there. Portals close temporarily while in the aura.",
 				"Ongoing spells, except those cast by an Artifact or a deity, are suppressed in the area. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.",
-				"{@spell Dispel Magic|XPHB} has no effect on the aura, and the auras created by different {@spell Antimagic Field|XPHB} spells don't nullify each other."
+				"{@spell Disipar magia|XPHB} has no effect on the aura, and the auras created by different {@spell Antimagic Field|XPHB} spells don't nullify each other."
 			],
 			"miscTags": [
 				"OBJ"
@@ -4594,10 +4594,10 @@
 			]
 		},
 		{
-			"name": "Counterspell",
-			"originalname": "",
+			"name": "Contrahechizo",
+			"originalname": "Counterspell",
 			"source": "XPHB",
-			"page": 258,
+			"page": 263,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -4606,7 +4606,7 @@
 				{
 					"number": 1,
 					"unit": "reacción",
-					"condition": "which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components"
+					"condition": "que llevas a cabo cuando una criatura que puedas ver a 60 pies (18 m) o menos de ti lance un conjuro usando componentes verbales, somáticos o materiales"
 				}
 			],
 			"range": {
@@ -4625,7 +4625,7 @@
 				}
 			],
 			"entries": [
-				"You attempt to interrupt a creature in the process of casting a spell. The creature makes a Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, {@variantrule Bonus Action|XPHB}, or {@variantrule Reaction|XPHB} used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended."
+				"Intentas interrumpir a una criatura que esté lanzando un conjuro. La criatura hace una tirada de salvación de Constitución. Si la falla, el conjuro se disipa sin causar efecto alguno y la acción, acción adicional o reacción empleada para lanzarlo se desperdiciará. Si ese conjuro se lanzó con un espacio de conjuro, dicho espacio no se gastará."
 			],
 			"savingThrow": [
 				"constitution"
@@ -5836,10 +5836,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Dispel Magic",
-			"originalname": "",
+			"name": "Disipar magia",
+			"originalname": "Dispel Magic",
 			"source": "XPHB",
-			"page": 264,
+			"page": 273,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -5867,14 +5867,14 @@
 				}
 			],
 			"entries": [
-				"Choose one creature, object, or magical effect within range. Any ongoing spell of level 3 or lower on the target ends. For each ongoing spell of level 4 or higher on the target, make an ability check using your spellcasting ability ({@dc 10} plus that spell's level). On a successful check, the spell ends."
+				"Elige una criatura, un objeto o un efecto mágico dentro del alcance. Cualquier conjuro activo de nivel 3 o inferior presente en el objetivo termina. Para cada conjuro activo de nivel 4 o superior, haz una prueba de característica usando tu aptitud mágica (CD 10 más el nivel de ese conjuro). Si superas la tirada, el conjuro termina."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You automatically end a spell on the target if the spell's level is equal to or less than the level of the spell slot you use."
+						"Disipas automáticamente un conjuro sobre el objetivo cuyo nivel sea menor o igual al nivel del espacio de conjuro que hayas utilizado."
 					]
 				}
 			],
@@ -8629,7 +8629,7 @@
 				"A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart. A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.",
 				"When you cast the spell, any creature that is completely inside the cage's area is trapped. Creatures only partially within the area, or those too large to fit inside it, are pushed away from the center of the area until they are completely outside it.",
 				"A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave, it must first make a Charisma saving throw. On a successful save, the creature can use that magic to exit the cage. On a failed save, the creature doesn't exit the cage and wastes the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.",
-				"This spell can't be dispelled by {@spell Dispel Magic|XPHB}."
+				"This spell can't be dispelled by {@spell Disipar magia|XPHB}."
 			],
 			"savingThrow": [
 				"charisma"
@@ -9662,7 +9662,7 @@
 			"entries": [
 				"You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.",
 				"When you cast this spell, you can specify individuals that are unaffected by the spell's effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects.",
-				"The spell creates the effects below within the warded area. {@spell Dispel Magic|XPHB} has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled.",
+				"The spell creates the effects below within the warded area. {@spell Disipar magia|XPHB} has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled.",
 				{
 					"type": "entries",
 					"name": "Corridors",
@@ -11291,7 +11291,7 @@
 					"name": "Ending the Spell",
 					"entries": [
 						"When you cast the spell, specify a trigger that will end it. The trigger can be as simple or as elaborate as you choose, but the DM must agree that it has a high likelihood of happening within the next decade. The trigger must be an observable action, such as someone making a particular offering at the temple of your god, saving your true love, or defeating a specific monster.",
-						"A {@spell Dispel Magic|XPHB} spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it."
+						"A {@spell Disipar magia|XPHB} spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it."
 					]
 				}
 			],
@@ -15319,7 +15319,7 @@
 				"A shimmering, multicolored plane of light forms a vertical opaque wall\u2014up to 90 feet long, 30 feet high, and 1 inch thick\u2014centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you position the wall in a space occupied by a creature, the spell ends instantly without effect.",
 				"The wall sheds {@variantrule Bright Light|XPHB} within 100 feet and {@variantrule Dim Light|XPHB} for an additional 100 feet. You and creatures you designate when you cast the spell can pass through and be near the wall without harm. If another creature that can see the wall moves within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or have the {@condition Cegado|XPHB} condition for 1 minute.",
 				"The wall consists of seven layers, each with a different color. When a creature reaches into or passes through the wall, it does so one layer at a time through all the layers. Each layer forces the creature to make a Dexterity saving throw or be affected by that layer's properties as described in the Prismatic Layers table.",
-				"The wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. {@spell Antimagic Field|XPHB} has no effect on the wall, and {@spell Dispel Magic|XPHB} can affect only the violet layer.",
+				"The wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. {@spell Antimagic Field|XPHB} has no effect on the wall, and {@spell Disipar magia|XPHB} can affect only the violet layer.",
 				{
 					"type": "table",
 					"caption": "Prismatic Layers",
@@ -15358,7 +15358,7 @@
 						],
 						[
 							"7",
-							"{@b Violet.} {@i Failed Save:} The target has the {@condition Cegado|XPHB} condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). {@i Additional Effects:} This layer is destroyed by {@spell Dispel Magic|XPHB}."
+							"{@b Violet.} {@i Failed Save:} The target has the {@condition Cegado|XPHB} condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). {@i Additional Effects:} This layer is destroyed by {@spell Disipar magia|XPHB}."
 						]
 					]
 				}
@@ -21105,7 +21105,7 @@
 			],
 			"entries": [
 				"An {@condition Invisible|XPHB} wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick and lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side).",
-				"Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by {@spell Dispel Magic|XPHB}. A {@spell Disintegrate|XPHB} spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall."
+				"Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by {@spell Disipar magia|XPHB}. A {@spell Disintegrate|XPHB} spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall."
 			],
 			"areaTags": [
 				"W"

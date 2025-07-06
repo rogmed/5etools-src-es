@@ -109,7 +109,7 @@
 					"daily": {
 						"2e": [
 							"{@spell Detectar pensamientos}",
-							"{@spell Dispel Magic}",
+							"{@spell Disipar magia}",
 							"{@spell Tongues}"
 						],
 						"1e": [
@@ -178,7 +178,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Shining Counterspell",
+					"name": "Shining Contrahechizo",
 					"entries": [
 						"Alustriel interrupts a creature she can see within 60 feet of herself that is casting a spell. If the spell is 5th level or lower, it fails and has no effect. If the spell is 6th level or higher, Alustriel makes an Intelligence check ({@dc 10} plus the spell's level). On a successful check, the spell fails and has no effect. Whatever the spell's level, the caster takes 11 ({@damage 2d10}) radiant damage if the spell fails."
 					]
@@ -1339,7 +1339,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell Dispel Magic}"
+							"{@spell Disipar magia}"
 						],
 						"2e": [
 							"{@spell Pass without Trace}",
@@ -1837,7 +1837,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell Dispel Magic}",
+							"{@spell Disipar magia}",
 							"{@spell Invisibility} (self only)"
 						],
 						"1e": [
@@ -5259,7 +5259,7 @@
 					"will": [
 						"{@spell Detect Magic}",
 						"{@spell Disguise Self}",
-						"{@spell Dispel Magic}",
+						"{@spell Disipar magia}",
 						"{@spell Light}",
 						"{@spell Mage Hand}",
 						"{@spell Message}",
@@ -5601,7 +5601,7 @@
 					"will": [
 						"{@spell Animate Dead} (as an action)",
 						"{@spell Detect Magic}",
-						"{@spell Dispel Magic}",
+						"{@spell Disipar magia}",
 						"{@spell Fly}",
 						"{@spell Lightning Bolt}",
 						"{@spell Mage Hand}",
@@ -5682,7 +5682,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Dread Counterspell",
+					"name": "Dread Contrahechizo",
 					"entries": [
 						"Vecna utters a dread word to interrupt a creature he can see that is casting a spell. If the spell is 4th level or lower, it fails and has no effect. If the spell is 5th level or higher, Vecna makes an Intelligence check ({@dc 10} plus the spell's level). On a successful check, the spell fails and has no effect. Whatever the spell's level, the caster takes 10 ({@damage 3d6}) psychic damage if the spell fails."
 					]

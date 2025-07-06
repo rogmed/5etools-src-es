@@ -105,7 +105,7 @@ class _RenderSpellsImplBase extends RenderPageImplBase {
 		return {
 			...super._getCommonHtmlParts({ent, renderer, opts}),
 
-			htmlPtOriginalName: this._getCommonHtmlParts_originalName({ent}),
+			// htmlPtOriginalName: this._getCommonHtmlParts_originalName({ent}),
 
 			htmlPtLevelSchoolRitual: this._getCommonHtmlParts_levelSchoolRitual({ent}),
 
@@ -121,9 +121,9 @@ class _RenderSpellsImplBase extends RenderPageImplBase {
 
 	/* ----- */
 
-	_getCommonHtmlParts_originalName ({ent}) {
-		return `<tr><td style="font-size:95%; color:grey" colspan="6">${Renderer.spell.getHtmlPtOriginalName(ent, {styleHint: this._style})}</td></tr>`;
-	}
+	// _getCommonHtmlParts_originalName ({ent}) {
+	// 	return `<tr><td style="font-size:95%; color:grey" colspan="6">${Renderer.spell.getHtmlPtOriginalName(ent, {styleHint: this._style})}</td></tr>`;
+	// }
 
 	_getCommonHtmlParts_levelSchoolRitual ({ent}) {
 		return `<tr><td colspan="6">${Renderer.spell.getHtmlPtLevelSchoolRitual(ent, {styleHint: this._style})}</td></tr>`;

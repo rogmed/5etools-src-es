@@ -450,7 +450,7 @@
 					]
 				},
 				{
-					"name": "Fiery Counterspell",
+					"name": "Fiery Contrahechizo",
 					"entries": [
 						"Charmayne interrupts a creature she can see within 60 feet of herself that is casting a spell. If the spell is 4th level or lower, it fails and has no effect. If the spell is 5th level or higher, Charmayne makes an Intelligence check ({@dc 10} + the spell's level). On a success, the spell fails and has no effect. Whatever the spell's level, the caster takes 10 ({@damage 3d6}) fire damage if the spell fails."
 					]

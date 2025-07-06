@@ -47,7 +47,7 @@
 							"items": {
 								"name": "Detention Orb",
 								"entries": [
-									"The drone launches a tiny orb of magical force at a creature it can see within 30 feet of itself. The creature must succeed on a {@dc 15} Constitution saving throw or be encased in the orb, which expands to a size just large enough to contain the creature. While encased, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb, nor can any creature teleport or use planar travel to enter or exit the orb. As a bonus action, the drone can move the orb and its contents up to 30 feet in any direction. A successful casting of the {@spell Dispel Magic} spell on the orb ({@dc 15}) destroys it. The orb otherwise remains intact until the drone spends an action to end the effect or the drone is destroyed. A drone can have only one detention orb active at a time; if the drone creates a detention orb when it already has one active, the first orb disappears, freeing the creature inside."
+									"The drone launches a tiny orb of magical force at a creature it can see within 30 feet of itself. The creature must succeed on a {@dc 15} Constitution saving throw or be encased in the orb, which expands to a size just large enough to contain the creature. While encased, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb, nor can any creature teleport or use planar travel to enter or exit the orb. As a bonus action, the drone can move the orb and its contents up to 30 feet in any direction. A successful casting of the {@spell Disipar magia} spell on the orb ({@dc 15}) destroys it. The orb otherwise remains intact until the drone spends an action to end the effect or the drone is destroyed. A drone can have only one detention orb active at a time; if the drone creates a detention orb when it already has one active, the first orb disappears, freeing the creature inside."
 								]
 							}
 						}
@@ -237,7 +237,7 @@
 							"items": {
 								"name": "Detention Orb",
 								"entries": [
-									"The drone launches a tiny orb of magical force at a creature it can see within 30 feet of itself. The creature must succeed on a {@dc 15} Constitution saving throw or be encased in the orb, which expands to a size just large enough to contain the creature. While encased, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb, nor can any creature teleport or use planar travel to enter or exit the orb. As a bonus action, the drone can move the orb and its contents up to 30 feet in any direction. A successful casting of the {@spell Dispel Magic} spell on the orb ({@dc 15}) destroys it. The orb otherwise remains intact until the drone spends an action to end the effect or the drone is destroyed. A drone can have only one detention orb active at a time; if the drone creates a detention orb when it already has one active, the first orb disappears, freeing the creature inside."
+									"The drone launches a tiny orb of magical force at a creature it can see within 30 feet of itself. The creature must succeed on a {@dc 15} Constitution saving throw or be encased in the orb, which expands to a size just large enough to contain the creature. While encased, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb, nor can any creature teleport or use planar travel to enter or exit the orb. As a bonus action, the drone can move the orb and its contents up to 30 feet in any direction. A successful casting of the {@spell Disipar magia} spell on the orb ({@dc 15}) destroys it. The orb otherwise remains intact until the drone spends an action to end the effect or the drone is destroyed. A drone can have only one detention orb active at a time; if the drone creates a detention orb when it already has one active, the first orb disappears, freeing the creature inside."
 								]
 							}
 						}
@@ -629,7 +629,7 @@
 					"daily": {
 						"2e": [
 							"{@spell Darkness}",
-							"{@spell Dispel Magic}",
+							"{@spell Disipar magia}",
 							"{@spell Hold Person}"
 						]
 					},
@@ -2154,7 +2154,7 @@
 						],
 						"2e": [
 							"{@spell Bestow Curse}",
-							"{@spell Dispel Magic}"
+							"{@spell Disipar magia}"
 						]
 					},
 					"ability": "int",
@@ -3002,7 +3002,7 @@
 							"items": {
 								"name": "Detention Orb",
 								"entries": [
-									"The drone launches a tiny orb of magical force at a creature it can see within 30 feet of itself. The creature must succeed on a {@dc 15} Constitution saving throw or be encased in the orb, which expands to a size just large enough to contain the creature. While encased, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb, nor can any creature teleport or use planar travel to enter or exit the orb. As a bonus action, the drone can move the orb and its contents up to 30 feet in any direction. A successful casting of the {@spell Dispel Magic} spell on the orb ({@dc 15}) destroys it. The orb otherwise remains intact until the drone spends an action to end the effect or the drone is destroyed. A drone can have only one detention orb active at a time; if the drone creates a detention orb when it already has one active, the first orb disappears, freeing the creature inside."
+									"The drone launches a tiny orb of magical force at a creature it can see within 30 feet of itself. The creature must succeed on a {@dc 15} Constitution saving throw or be encased in the orb, which expands to a size just large enough to contain the creature. While encased, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb, nor can any creature teleport or use planar travel to enter or exit the orb. As a bonus action, the drone can move the orb and its contents up to 30 feet in any direction. A successful casting of the {@spell Disipar magia} spell on the orb ({@dc 15}) destroys it. The orb otherwise remains intact until the drone spends an action to end the effect or the drone is destroyed. A drone can have only one detention orb active at a time; if the drone creates a detention orb when it already has one active, the first orb disappears, freeing the creature inside."
 								]
 							}
 						}
@@ -3517,7 +3517,7 @@
 							"{@spell Teleport}"
 						],
 						"2e": [
-							"{@spell Dispel Magic}",
+							"{@spell Disipar magia}",
 							"{@spell Fog Cloud}"
 						]
 					},
@@ -4762,7 +4762,7 @@
 					"daily": {
 						"2e": [
 							"{@spell Calmar emociones}",
-							"{@spell Dispel Magic}",
+							"{@spell Disipar magia}",
 							"{@spell Invisibility}"
 						],
 						"1e": [
@@ -4927,7 +4927,7 @@
 							"items": {
 								"name": "Detention Orb",
 								"entries": [
-									"The drone launches a tiny orb of magical force at a creature it can see within 30 feet of itself. The creature must succeed on a {@dc 15} Constitution saving throw or be encased in the orb, which expands to a size just large enough to contain the creature. While encased, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb, nor can any creature teleport or use planar travel to enter or exit the orb. As a bonus action, the drone can move the orb and its contents up to 30 feet in any direction. A successful casting of the {@spell Dispel Magic} spell on the orb ({@dc 15}) destroys it. The orb otherwise remains intact until the drone spends an action to end the effect or the drone is destroyed. A drone can have only one detention orb active at a time; if the drone creates a detention orb when it already has one active, the first orb disappears, freeing the creature inside."
+									"The drone launches a tiny orb of magical force at a creature it can see within 30 feet of itself. The creature must succeed on a {@dc 15} Constitution saving throw or be encased in the orb, which expands to a size just large enough to contain the creature. While encased, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb, nor can any creature teleport or use planar travel to enter or exit the orb. As a bonus action, the drone can move the orb and its contents up to 30 feet in any direction. A successful casting of the {@spell Disipar magia} spell on the orb ({@dc 15}) destroys it. The orb otherwise remains intact until the drone spends an action to end the effect or the drone is destroyed. A drone can have only one detention orb active at a time; if the drone creates a detention orb when it already has one active, the first orb disappears, freeing the creature inside."
 								]
 							}
 						}

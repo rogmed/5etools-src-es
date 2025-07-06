@@ -4193,7 +4193,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Draining Counterspell",
+					"name": "Draining Contrahechizo",
 					"entries": [
 						"Jon Irenicus interrupts a creature he can see that is casting a spell. If the spell is 3rd level or lower, it fails and has no effect. If the spell is 4th level or higher, Jon Irenicus makes an Intelligence check ({@dc 10} + the spell's level). On a success, the spell fails and has no effect. Whatever the spell's level, the caster takes 10 ({@damage 3d6}) necrotic damage if the spell fails."
 					]
@@ -4221,7 +4221,7 @@
 				{
 					"name": "Transformation (Costs 3 Actions)",
 					"entries": [
-						"Jon Irenicus becomes endowed with endurance and martial prowess for 1 minute or until he ends this effect by using a bonus action. While transformed, he gains 50 temporary hit points, proficiency in Strength and Constitution saving throw, adds his Multiattack feature, and loses his Draining Counterspell reaction and Spellcasting action."
+						"Jon Irenicus becomes endowed with endurance and martial prowess for 1 minute or until he ends this effect by using a bonus action. While transformed, he gains 50 temporary hit points, proficiency in Strength and Constitution saving throw, adds his Multiattack feature, and loses his Draining Contrahechizo reaction and Spellcasting action."
 					]
 				}
 			],

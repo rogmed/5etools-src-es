@@ -1538,7 +1538,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Fae Counterspell",
+					"name": "Fae Contrahechizo",
 					"entries": [
 						"The high fae interrupts a creature it can see that is casting a spell with verbal, somatic, or material components. The caster takes 10 ({@damage 3d6}) psychic damage and must make a {@dc 19} Charisma saving throw. On a failed save, the spell fails and has no effect, but the spell slot used to cast it is not expended."
 					]

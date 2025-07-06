@@ -410,31 +410,31 @@
 					"gainSubclassFeature": true
 				},
 				"Steady Aim|Rogue||3|TCE",
-				"Ability Score Improvement|Rogue||4",
+				"Mejora de característica|Rogue||4",
 				"Uncanny Dodge|Rogue||5",
 				"Pericia|Rogue||6",
 				"Evasion|Rogue||7",
-				"Ability Score Improvement|Rogue||8",
+				"Mejora de característica|Rogue||8",
 				{
 					"classFeature": "Roguish Archetype feature|Rogue||9",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Rogue||10",
+				"Mejora de característica|Rogue||10",
 				"Reliable Talent|Rogue||11",
-				"Ability Score Improvement|Rogue||12",
+				"Mejora de característica|Rogue||12",
 				{
 					"classFeature": "Roguish Archetype feature|Rogue||13",
 					"gainSubclassFeature": true
 				},
 				"Blindsense|Rogue||14",
 				"Slippery Mind|Rogue||15",
-				"Ability Score Improvement|Rogue||16",
+				"Mejora de característica|Rogue||16",
 				{
 					"classFeature": "Roguish Archetype feature|Rogue||17",
 					"gainSubclassFeature": true
 				},
 				"Elusive|Rogue||18",
-				"Ability Score Improvement|Rogue||19",
+				"Mejora de característica|Rogue||19",
 				"Stroke of Luck|Rogue||20"
 			],
 			"subclassTitle": "Roguish Archetype",
@@ -855,27 +855,27 @@
 					"gainSubclassFeature": true
 				},
 				"Steady Aim|Rogue|XPHB|3",
-				"Ability Score Improvement|Rogue|XPHB|4",
+				"Mejora de característica|Rogue|XPHB|4",
 				"Cunning Strike|Rogue|XPHB|5",
 				"Uncanny Dodge|Rogue|XPHB|5",
 				"Pericia|Rogue|XPHB|6",
 				"Evasion|Rogue|XPHB|7",
 				"Reliable Talent|Rogue|XPHB|7",
-				"Ability Score Improvement|Rogue|XPHB|8",
+				"Mejora de característica|Rogue|XPHB|8",
 				{
 					"classFeature": "Rasgo de subclase|Rogue|XPHB|9",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Rogue|XPHB|10",
+				"Mejora de característica|Rogue|XPHB|10",
 				"Improved Cunning Strike|Rogue|XPHB|11",
-				"Ability Score Improvement|Rogue|XPHB|12",
+				"Mejora de característica|Rogue|XPHB|12",
 				{
 					"classFeature": "Rasgo de subclase|Rogue|XPHB|13",
 					"gainSubclassFeature": true
 				},
 				"Devious Strikes|Rogue|XPHB|14",
 				"Slippery Mind|Rogue|XPHB|15",
-				"Ability Score Improvement|Rogue|XPHB|16",
+				"Mejora de característica|Rogue|XPHB|16",
 				{
 					"classFeature": "Rasgo de subclase|Rogue|XPHB|17",
 					"gainSubclassFeature": true
@@ -2115,7 +2115,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
@@ -2168,7 +2168,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
@@ -2195,7 +2195,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
@@ -2222,7 +2222,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
@@ -2275,7 +2275,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
@@ -2315,7 +2315,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
@@ -2438,7 +2438,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
 			"page": 129,
 			"srd52": true,
@@ -2447,7 +2447,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. You gain this feature again at Rogue levels 8, 10, 12, and 16."
 			]
 		},
 		{
@@ -2574,7 +2574,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
 			"page": 130,
 			"srd52": true,
@@ -2583,7 +2583,7 @@
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
@@ -2600,7 +2600,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
 			"page": 130,
 			"srd52": true,
@@ -2609,7 +2609,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
@@ -2626,7 +2626,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
 			"page": 131,
 			"srd52": true,
@@ -2635,7 +2635,7 @@
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
@@ -2734,7 +2734,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
 			"page": 131,
 			"srd52": true,
@@ -2743,7 +2743,7 @@
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
@@ -2782,7 +2782,7 @@
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Boon of the Night Spirit|XPHB} is recommended."
+				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Don del espíritu de la noche|XPHB} is recommended."
 			]
 		},
 		{

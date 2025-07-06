@@ -1096,7 +1096,7 @@
 				}
 			]
 		},
-		"Counterspell": {
+		"Contrahechizo": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -1512,7 +1512,7 @@
 				}
 			]
 		},
-		"Dispel Magic": {
+		"Disipar magia": {
 			"class": [
 				{
 					"name": "Bard",

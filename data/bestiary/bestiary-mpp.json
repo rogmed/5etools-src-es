@@ -6684,7 +6684,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Fell Counterspell (3/Day)",
+					"name": "Fell Contrahechizo (3/Day)",
 					"entries": [
 						"Shemeshka utters a magical word to interrupt a creature she can see that is casting a spell. If the spell is 5th level or lower, it fails and has no effect. If the spell is 6th level or higher, Shemeshka makes an Intelligence check ({@dc 10} + the spell's level). On a success, the spell fails and has no effect. Whatever the spell's level, the caster gains the {@condition poisoned} condition until the end of its next turn."
 					]

@@ -499,26 +499,26 @@
 					"classFeature": "Subclase de mago|Mago|XPHB|3",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Mago|XPHB|4",
-				"Memorize Spell|Mago|XPHB|5",
+				"Mejora de característica|Mago|XPHB|4",
+				"Memorizar conjuro|Mago|XPHB|5",
 				{
 					"classFeature": "Rasgo de subclase|Mago|XPHB|6",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Mago|XPHB|8",
+				"Mejora de característica|Mago|XPHB|8",
 				{
 					"classFeature": "Rasgo de subclase|Mago|XPHB|10",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Mago|XPHB|12",
+				"Mejora de característica|Mago|XPHB|12",
 				{
 					"classFeature": "Rasgo de subclase|Mago|XPHB|14",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Mago|XPHB|16",
-				"Spell Mastery|Mago|XPHB|18",
+				"Mejora de característica|Mago|XPHB|16",
+				"Maestría sobre conjuros|Mago|XPHB|18",
 				"Don épico|Mago|XPHB|19",
-				"Signature Spells|Mago|XPHB|20"
+				"Conjuros característicos|Mago|XPHB|20"
 			],
 			"subclassTitle": "Subclase de mago",
 			"hasFluff": true,
@@ -527,8 +527,8 @@
 	],
 	"subclass": [
 		{
-			"name": "Abjurer",
-			"shortName": "Abjurer",
+			"name": "Abjurador",
+			"shortName": "Abjurador",
 			"source": "XPHB",
 			"className": "Mago",
 			"classSource": "XPHB",
@@ -590,10 +590,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Abjurer|Mago|XPHB|Abjurer|XPHB|3",
-				"Projected Ward|Mago|XPHB|Abjurer|XPHB|6",
-				"Spell Breaker|Mago|XPHB|Abjurer|XPHB|10",
-				"Spell Resistance|Mago|XPHB|Abjurer|XPHB|14"
+				"Abjurador|Mago|XPHB|Abjurador|XPHB|3",
+				"Salvaguarda proyectada|Mago|XPHB|Abjurador|XPHB|6",
+				"Rompeconjuros|Mago|XPHB|Abjurador|XPHB|10",
+				"Resistencia a conjuros|Mago|XPHB|Abjurador|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
@@ -956,7 +956,7 @@
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
 			"page": 139,
 			"srd52": true,
@@ -965,11 +965,11 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. You gain this feature again at Wizard levels 8, 12, and 16."
 			]
 		},
 		{
-			"name": "Memorize Spell",
+			"name": "Memorizar conjuro",
 			"source": "XPHB",
 			"page": 139,
 			"srd52": true,
@@ -978,7 +978,7 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"Whenever you finish a {@variantrule Short Rest|XPHB}, you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Lanzamiento de conjuros feature with another level 1+ spell from the book."
+				"Tras finalizar un descanso corto, puedes estudiar tu libro de conjuros y sustituir un conjuro de mago de nivel 1 o superior que tengas preparado con tu rasgo Lanzamiento de conjuros por otro de nivel 1 o superior del libro."
 			]
 		},
 		{
@@ -991,11 +991,11 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain a feature from your Subclase de mago."
+				"Obtienes un rasgo de tu subclase de mago"
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
 			"page": 139,
 			"srd52": true,
@@ -1004,7 +1004,7 @@
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} Feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
@@ -1017,11 +1017,11 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You gain a feature from your Subclase de mago."
+				"Obtienes un rasgo de tu subclase de mago"
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
 			"page": 139,
 			"srd52": true,
@@ -1030,7 +1030,7 @@
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} Feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
@@ -1043,11 +1043,11 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You gain a feature from your Subclase de mago."
+				"Obtienes un rasgo de tu subclase de mago"
 			]
 		},
 		{
-			"name": "Ability Score Improvement",
+			"name": "Mejora de característica",
 			"source": "XPHB",
 			"page": 139,
 			"srd52": true,
@@ -1056,11 +1056,11 @@
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} Feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones."
 			]
 		},
 		{
-			"name": "Spell Mastery",
+			"name": "Maestría sobre conjuros",
 			"source": "XPHB",
 			"page": 139,
 			"srd52": true,
@@ -1069,8 +1069,8 @@
 			"classSource": "XPHB",
 			"level": 18,
 			"entries": [
-				"You have achieved such mastery over certain spells that you can cast them at will. Choose a level 1 and a level 2 spell in your spellbook that have a casting time of an action. You always have those spells prepared, and you can cast them at their lowest level without expending a spell slot. To cast either spell at a higher level, you must expend a spell slot.",
-				"Whenever you finish a {@variantrule Long Rest|XPHB}, you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book."
+				"Has alcanzado tal maestría sobre ciertos conjuros que puedes lanzarlos a voluntad. Elige un conjuro de {@filter nivel 1|spells|level=1|class=mago} y otro de {@filter nivel 2|spells|level=2|class=mago} de tu libro de conjuros con un tiempo de lanzamiento de una acción. Siempre tienes esos conjuros preparados y puedes lanzarlos a su nivel más bajo sin gastar un espacio de conjuro. Para lanzar cualquiera de ellos a un nivel superior, deberás gastar un espacio de conjuro.",
+				"Tras finalizar un descanso largo, puedes estudiar tu libro de conjuros y sustituir uno de los conjuros por otro del libro del mismo nivel que cumpla los requisitos."
 			]
 		},
 		{
@@ -1083,11 +1083,11 @@
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Boon of Spell Recall|XPHB} is recommended."
+				"Obtienes una {@filter dote de don épico|feats|category=DE} u otra dote de tu elección para la que cumplas las condiciones. Se recomienda {@feat Don del recuerdo de conjuros|XPHB}."
 			]
 		},
 		{
-			"name": "Signature Spells",
+			"name": "Conjuros característicos",
 			"source": "XPHB",
 			"page": 139,
 			"srd52": true,
@@ -1096,105 +1096,105 @@
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}. To cast either spell at a higher level, you must expend a spell slot."
+				"Escoge dos conjuros de {@filter nivel 3|spells|level=3|class=mago} que figuren en tu libro de conjuros como conjuros característicos. Siempre tienes esos conjuros preparados y puedes lanzar cada uno de ellos una vez a nivel 3 sin gastar un espacio de conjuro. Una vez que los lances, no podrás volver a hacerlo de este modo hasta que finalices un descanso corto o largo. Para lanzar cualquiera de ellos a un nivel superior, deberás gastar un espacio de conjuro."
 			]
 		}
 	],
 	"subclassFeature": [
 		{
-			"name": "Abjurer",
+			"name": "Abjurador",
 			"source": "XPHB",
-			"page": 172,
+			"page": 144,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Abjurer",
+			"subclassShortName": "Abjurador",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Shield Companions and Banish Foes}",
-				"Your study of magic is focused on spells that block, banish, or protect\u2014ending harmful effects, banishing evil influences, and protecting the weak. Abjurers are sought when baleful spirits require exorcism, when locations must be guarded against magical spying, and when portals to other planes of existence must be closed. Adventuring parties value Abjurers for the protection they provide against a variety of hostile magic and other attacks.",
+				"{@i Protege a tus compañeros y destierra a tus enemigos}",
+				"Tu estudio de la magia se centra en conjuros de detención, destierro o protección que acaban con efectos dañinos, expulsan las influencias malignas y defienden a los débiles. Los abjuradores entran en acción cuando aparecen espíritus siniestros a los que exorcizar, cuando es necesario defender lugares importantes contra el espionaje mágico o cuando se deben cerrar portales a otros planos. Los grupos de aventureros valoran a los abjuradores por la protección que ofrecen frente a magias hostiles y amenazas diversas.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Abjuration Savant|Mago|XPHB|Abjurer|XPHB|3"
+					"subclassFeature": "Experto en abjuración|Mago|XPHB|Abjurador|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Arcane Ward|Mago|XPHB|Abjurer|XPHB|3"
+					"subclassFeature": "Salvaguarda arcana|Mago|XPHB|Abjurador|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Abjuration Savant",
+			"name": "Experto en abjuración",
 			"source": "XPHB",
-			"page": 172,
+			"page": 144,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Abjurer",
+			"subclassShortName": "Abjurador",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Choose two {@filter Wizard spells from the Abjuration school|spells|level=0;1;2|class=Mago|school=A}, each of which must be no higher than level 2, and add them to your spellbook for free.",
-				"In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Abjuration school to your spellbook for free. The chosen spell must be of a level for which you have spell slots."
+				"Elige dos {@filter conjuros de mago de la escuela de abjuración|spells|level=0;1;2|class=Mago|school=A} de nivel 2 o inferior y añádelos a tu libro de conjuros sin coste.",
+				"Además, siempre que consigas un nuevo nivel de espacios de conjuro de esta clase, puedes añadir un conjuro de mago de la escuela de abjuración a tu libro de conjuros sin coste. El conjuro elegido debe ser de un nivel para el que tengas espacios de conjuro."
 			]
 		},
 		{
-			"name": "Arcane Ward",
+			"name": "Salvaguarda arcana",
 			"source": "XPHB",
-			"page": 172,
+			"page": 144,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Abjurer",
+			"subclassShortName": "Abjurador",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can weave magic around yourself for protection. When you cast an Abjuration spell with a spell slot, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a {@variantrule Long Rest|XPHB}. The ward has a {@variantrule Hit Points|XPHB|Hit Point} maximum equal to twice your Wizard level plus your Intelligence modifier. Whenever you take damage, the ward takes the damage instead, and if you have any Resistances or Vulnerabilities, apply them before reducing the ward's {@variantrule Hit Points|XPHB}. If the damage reduces the ward to 0 {@variantrule Hit Points|XPHB}, you take any remaining damage. While the ward has 0 {@variantrule Hit Points|XPHB}, it can't absorb damage, but its magic remains.",
-				"Whenever you cast an Abjuration spell with a spell slot, the ward regains a number of {@variantrule Hit Points|XPHB} equal to twice the level of the spell slot. Alternatively, as a {@variantrule Bonus Action|XPHB}, you can expend a spell slot, and the ward regains a number of {@variantrule Hit Points|XPHB} equal to twice the level of the spell slot expended.",
-				"Once you create the ward, you can't create it again until you finish a {@variantrule Long Rest|XPHB}."
+				"Puedes tejer una protección mágica a tu alrededor. Cuando lances un {@filter conjuro de abjuración|spells|class=mago|level=!0|school=A} con un espacio de conjuro, puedes usar simultáneamente una hebra mágica del conjuro para crear sobre ti una salvaguarda que durará hasta que finalices un descanso largo. Esta salvaguarda tiene una cantidad de puntos de golpe máximos igual al doble de tu nivel de mago más tu modificador por Inteligencia. Cada vez que fueras a recibir daño, la salvaguarda lo hará en tu lugar. Si tienes alguna resistencia o vulnerabilidad, aplícalas antes de reducir los puntos de golpe de la salvaguarda. Si el daño reduce a 0 los puntos de golpe de la salvaguarda, recibirás el daño restante. La salvaguarda no podrá absorber daño mientras tenga 0 puntos de golpe, pero su magia permanecerá.",
+				"Siempre que lances un {@filter conjuro de abjuración|spells|class=mago|level=!0|school=A} con un espacio de conjuro, la salvaguarda recuperará una cantidad de puntos de golpe igual al doble del nivel del espacio de conjuro. Como alternativa, puedes gastar un espacio de conjuro como acción adicional para que la salvaguarda recupere una cantidad de puntos de golpe igual al doble del nivel del espacio de conjuro gastado.",
+				"Una vez creada la salvaguarda, deberás finalizar un descanso largo para poder formarla de nuevo."
 			]
 		},
 		{
-			"name": "Projected Ward",
+			"name": "Salvaguarda proyectada",
 			"source": "XPHB",
-			"page": 172,
+			"page": 144,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Abjurer",
+			"subclassShortName": "Abjurador",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"When a creature that you can see within 30 feet of yourself takes damage, you can take a {@variantrule Reaction|XPHB} to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 {@variantrule Hit Points|XPHB}, the warded creature takes any remaining damage. If that creature has any Resistances or Vulnerabilities, apply them before reducing the ward's {@variantrule Hit Points|XPHB}."
+				"Cuando una criatura que puedas ver a 30 pies (9 m) o menos de ti reciba daño, puedes utilizar una reacción para hacer que tu salvaguarda arcana absorba dicho daño. Si ese daño reduce a 0 los puntos de golpe de la salvaguarda, la criatura protegida recibirá el daño restante. Si esa criatura tiene alguna resistencia o vulnerabilidad, aplícalas antes de reducir los puntos de golpe de la salvaguarda."
 			]
 		},
 		{
-			"name": "Spell Breaker",
+			"name": "Rompeconjuros",
 			"source": "XPHB",
-			"page": 173,
+			"page": 145,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Abjurer",
+			"subclassShortName": "Abjurador",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"You always have the {@spell Counterspell|XPHB} and {@spell Dispel Magic|XPHB} spells prepared. In addition, you can cast {@spell Dispel Magic|XPHB} as a {@variantrule Bonus Action|XPHB}, and you can add your {@variantrule Competencia|XPHB|Proficiency Bonus} to its ability check.",
-				"When you cast either spell with a spell slot, that slot isn't expended if the spell fails to stop a spell."
+				"Siempre tienes los conjuros {@spell contrahechizo|XPHB} y {@spell disipar magia|XPHB} preparados. Además, puedes lanzar disipar magia como acción adicional y sumar tu bonificador por competencia a su prueba de característica.",
+				"Cuando lanzas cualquiera de esos conjuros con un espacio de conjuro, el espacio no se gasta si el conjuro no consigue neutralizar otro."
 			]
 		},
 		{
-			"name": "Spell Resistance",
+			"name": "Resistencia a conjuros",
 			"source": "XPHB",
-			"page": 173,
+			"page": 145,
 			"className": "Mago",
 			"classSource": "XPHB",
-			"subclassShortName": "Abjurer",
+			"subclassShortName": "Abjurador",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"You have {@variantrule Advantage|XPHB} on saving throws against spells, and you have {@variantrule Resistance|XPHB} to the damage of spells."
+				"Tienes ventaja en las tiradas de salvación contra conjuros y posees resistencia contra el daño de conjuros."
 			]
 		},
 		{

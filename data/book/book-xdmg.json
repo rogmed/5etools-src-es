@@ -4118,7 +4118,7 @@
 									"page": 46,
 									"id": "0d2",
 									"entries": [
-										"It's important that players can tell when their characters' opponents are casting spells, giving the characters the opportunity to cast {@spell Counterspell|XPHB} or otherwise interfere with the spellcasting.",
+										"It's important that players can tell when their characters' opponents are casting spells, giving the characters the opportunity to cast {@spell Contrahechizo|XPHB} or otherwise interfere with the spellcasting.",
 										"When a monster casts a spell, check the components it's using and describe its activity appropriately. If the spell has Verbal components, the monster might chant, boldly proclaim, or hiss the mystic syllables of the spell. Somatic components involve the monster moving its hands (or similar appendages) in graceful patterns, shaping them into angular positions, or thrusting them sharply forward. Finally, the monster might be holding a Spellcasting Focus or some other Material component.",
 										"Some monsters have the special ability to ignore some or all of a spell's normal components, which might prevent characters from recognizing what the monster is doing. Similarly, when monsters use magical abilities that don't involve casting spells, make sure it's clear to the players that the monster is drawing on its unique magical abilities, not casting a spell their characters could counter."
 									]
@@ -24322,7 +24322,7 @@
 														],
 														[
 															"00",
-															"Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a {@item Potion of Healing|XDMG} might increase the drinker's Hit Point maximum by {@dice 2d4 + 2}, or a {@item Potion of Invisibility|XDMG} might give the drinker the {@condition Invisible|XPHB} condition indefinitely. At your discretion, a {@spell Dispel Magic|XPHB} spell or similar magic might end this lasting effect."
+															"Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a {@item Potion of Healing|XDMG} might increase the drinker's Hit Point maximum by {@dice 2d4 + 2}, or a {@item Potion of Invisibility|XDMG} might give the drinker the {@condition Invisible|XPHB} condition indefinitely. At your discretion, a {@spell Disipar magia|XPHB} spell or similar magic might end this lasting effect."
 														]
 													]
 												}

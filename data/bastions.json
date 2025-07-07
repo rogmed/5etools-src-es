@@ -968,7 +968,7 @@
 								{
 									"type": "item",
 									"name": "Bigby's Burden",
-									"entry": "Drinking a pint of this beverage grants you the \"enlarge\" effect of an {@spell Enlarge/Reduce|XPHB} spell that has a duration of 24 hours (no saving throw allowed)."
+									"entry": "Drinking a pint of this beverage grants you the \"enlarge\" effect of an {@spell Agrandar/reducir|XPHB} spell that has a duration of 24 hours (no saving throw allowed)."
 								},
 								{
 									"type": "item",
@@ -1101,7 +1101,7 @@
 					"type": "entries",
 					"name": "Spell Refreshment",
 					"entries": [
-						"Having a Sacristy allows you to regain one expended spell slot of level 5 or lower after spending an entire Short Rest in your Bastion. You can't gain this benefit again until you finish a Long Rest."
+						"Having a Sacristy allows you to regain one expended spell slot of level 5 or lower after spending an entire Descanso corto in your Bastion. You can't gain this benefit again until you finish a Long Rest."
 					]
 				}
 			]
@@ -1691,7 +1691,7 @@
 					"type": "entries",
 					"name": "Source of Inspiration",
 					"entries": [
-						"After spending an entire Short Rest in your Workshop, you gain {@variantrule Inspiración Heroica|XPHB}. You can't gain this benefit again until you finish a Long Rest."
+						"After spending an entire Descanso corto in your Workshop, you gain {@variantrule Inspiración Heroica|XPHB}. You can't gain this benefit again until you finish a Long Rest."
 					]
 				},
 				{

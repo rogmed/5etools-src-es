@@ -718,7 +718,7 @@ Parser.stringToCasedSlug = function (str) {
 	return str.toAscii().replace(/[^\w ]+/g, "").replace(/ +/g, "-");
 };
 
-Parser.ITEM_SPELLCASTING_FOCUS_CLASSES = ["Artificer", "Bard", "Clérigo", "Druid", "Paladin", "Explorador", "Hechicero", "Warlock", "Mago"];
+Parser.ITEM_SPELLCASTING_FOCUS_CLASSES = ["Artificer", "Bardo", "Clérigo", "Druid", "Paladin", "Explorador", "Hechicero", "Warlock", "Mago"];
 
 Parser.itemValueToFull = function (item, opts = {isShortForm: false, isSmallUnits: false}) {
 	return Parser._moneyToFull(item, "value", "valueMult", opts);
@@ -898,8 +898,8 @@ Parser.itemWeightToFull = function (item, isShortForm) {
 
 Parser.ITEM_RECHARGE_TO_FULL = {
 	round: "Every Round",
-	restShort: "Short Rest",
-	restLong: "Long Rest",
+	restShort: "Descanso corto",
+	restLong: "Descanso largo",
 	dawn: "Dawn",
 	dusk: "Dusk",
 	midnight: "Midnight",
@@ -1662,8 +1662,8 @@ Parser.spComponentsToFull = function (comp, level, {isPlainText = false} = {}) {
 };
 
 Parser.SP_END_TYPE_TO_FULL = {
-	"dispel": "dispelled",
-	"trigger": "triggered",
+	"dispel": "disipado",
+	"trigger": "activado",
 	"discharge": "discharged",
 };
 Parser.spEndTypeToFull = function (type) {

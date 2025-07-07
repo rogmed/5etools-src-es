@@ -429,7 +429,7 @@
 				},
 				{
 					"type": "section",
-					"name": "Bard",
+					"name": "Bardo",
 					"page": 27,
 					"id": "08b",
 					"entries": [
@@ -454,7 +454,7 @@
 											"style": "list-hang-notitle",
 											"items": [
 												"1st level: {@spell Color spray}, {@spell Orden imperiosa}",
-												"2nd level: {@spell Auxilio}, {@spell Enlarge/reduce}, {@spell Mirror image}",
+												"2nd level: {@spell Auxilio}, {@spell Enlarge/reduce}, {@spell Imagen múltiple}",
 												"3rd level: {@spell Intellect fortress|TCE},* {@spell Mass healing word}, {@spell Slow}",
 												"4th level: {@spell Phantasmal killer}",
 												"5th level: {@spell Rary's telepathic bond} (ritual)",
@@ -466,8 +466,8 @@
 										}
 									]
 								},
-								"{@classFeature Magical Inspiration|Bard|PHB|2|TCE} ({@i 2nd-level bard feature})",
-								"{@classFeature Bardic Versatility|Bard|PHB|4|TCE} ({@i 4th-level bard feature})"
+								"{@classFeature Magical Inspiration|Bardo|PHB|2|TCE} ({@i 2nd-level bard feature})",
+								"{@classFeature Bardic Versatility|Bardo|PHB|4|TCE} ({@i 4th-level bard feature})"
 							]
 						},
 						{
@@ -481,8 +481,8 @@
 									"type": "list",
 									"columns": 2,
 									"items": [
-										"{@class Bard|phb|College of Creation|Creation|TCE}",
-										"{@class Bard|phb|College of Eloquence|Eloquence|TCE}"
+										"{@class Bardo|phb|College of Creation|Creation|TCE}",
+										"{@class Bardo|phb|College of Eloquence|Eloquence|TCE}"
 									]
 								}
 							]
@@ -6379,7 +6379,7 @@
 												],
 												[
 													"35\u201340",
-													"One character in the region gains the benefit of the {@spell mirror image} spell. The images created sometimes move or speak of their own volition."
+													"One character in the region gains the benefit of the {@spell Imagen múltiple} spell. The images created sometimes move or speak of their own volition."
 												],
 												[
 													"41\u201346",

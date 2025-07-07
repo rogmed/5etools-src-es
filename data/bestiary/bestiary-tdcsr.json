@@ -404,7 +404,7 @@
 				"dex": "+7"
 			},
 			"skill": {
-				"acrobatics": "+7",
+				"acrobacias": "+7",
 				"perception": "+6"
 			},
 			"passive": 16,
@@ -1188,13 +1188,13 @@
 				"cha": "+6"
 			},
 			"skill": {
-				"acrobatics": "+19",
+				"acrobacias": "+19",
 				"intimidation": "+10",
 				"investigación": "+10",
 				"perception": "+16",
-				"persuasion": "+10",
-				"sleight of hand": "+12",
-				"stealth": "+19"
+				"persuasión": "+10",
+				"juego de manos": "+12",
+				"sigilo": "+19"
 			},
 			"senses": [
 				"darkvision 60 ft."
@@ -1543,8 +1543,8 @@
 				"dex": "+6"
 			},
 			"skill": {
-				"deception": "+3",
-				"stealth": "+8"
+				"engaño": "+3",
+				"sigilo": "+8"
 			},
 			"passive": 12,
 			"languages": [
@@ -1909,7 +1909,7 @@
 			},
 			"skill": {
 				"perception": "+1",
-				"stealth": "+8"
+				"sigilo": "+8"
 			},
 			"senses": [
 				"darkvision 120 ft."
@@ -2187,7 +2187,7 @@
 			},
 			"skill": {
 				"perception": "+3",
-				"stealth": "+7"
+				"sigilo": "+7"
 			},
 			"senses": [
 				"darkvision 120 ft."
@@ -2320,7 +2320,7 @@
 				"dex": "+3"
 			},
 			"skill": {
-				"stealth": "+5",
+				"sigilo": "+5",
 				"perception": "+0"
 			},
 			"senses": [
@@ -3268,9 +3268,9 @@
 				"wis": "+8"
 			},
 			"skill": {
-				"acrobatics": "+12",
+				"acrobacias": "+12",
 				"perception": "+13",
-				"stealth": "+17"
+				"sigilo": "+17"
 			},
 			"senses": [
 				"darkvision 120 ft."
@@ -3377,7 +3377,7 @@
 					]
 				},
 				{
-					"name": "Mirrored Form (Recharges after a {@quickref resting|PHB|2|0|Short Rest})",
+					"name": "Mirrored Form (Recharges after a {@quickref resting|PHB|2|0|Descanso corto})",
 					"entries": [
 						"Jourrael manifests three illusory duplicates that hover in her space. Each time a creature targets Jourrael with an attack, roll a {@dice d20} to see if it hits one of the duplicates. If there are three duplicates, a duplicate is targeted on a roll of 6 or higher. With two duplicates, a duplicate is targeted on a roll of 8 or higher. A single duplicate is targeted on a roll of 11 or higher. A duplicate's AC is 17, and it is destroyed if hit. Jourrael can hide the duplicates as a bonus action."
 					]
@@ -3487,8 +3487,8 @@
 				"intimidation": "+8",
 				"nature": "+12",
 				"perception": "+12",
-				"persuasion": "+8",
-				"stealth": "+8",
+				"persuasión": "+8",
+				"sigilo": "+8",
 				"survival": "+12"
 			},
 			"senses": [
@@ -4419,10 +4419,10 @@
 				"con": "+8"
 			},
 			"skill": {
-				"acrobatics": "+12",
+				"acrobacias": "+12",
 				"historia": "+11",
 				"perception": "+9",
-				"persuasion": "+8"
+				"persuasión": "+8"
 			},
 			"passive": 19,
 			"resist": [
@@ -4436,7 +4436,7 @@
 			"cr": "18",
 			"trait": [
 				{
-					"name": "Action Surge (2/{@quickref resting|PHB|2|0|Short Rest})",
+					"name": "Action Surge (2/{@quickref resting|PHB|2|0|Descanso corto})",
 					"entries": [
 						"Once on his turn, Percy can take one additional action."
 					]
@@ -4606,9 +4606,9 @@
 			"skill": {
 				"athletics": "+10",
 				"perception": "+11",
-				"persuasion": "+8",
+				"persuasión": "+8",
 				"religión": "+8",
-				"stealth": "+7"
+				"sigilo": "+7"
 			},
 			"senses": [
 				"darkvision 60 ft."
@@ -4785,7 +4785,7 @@
 					]
 				},
 				{
-					"name": "Everlight's Guidance (3/{@quickref resting|PHB|2|0|Short Rest})",
+					"name": "Everlight's Guidance (3/{@quickref resting|PHB|2|0|Descanso corto})",
 					"entries": [
 						"When Pike or a creature she can see within 30 feet of her makes an attack roll, she can grant a +10 bonus to the roll. She can grant this bonus after the roll is made but before it hits or misses."
 					]
@@ -5428,7 +5428,7 @@
 			},
 			"skill": {
 				"conocimiento arcano": "+10",
-				"deception": "+9"
+				"engaño": "+9"
 			},
 			"senses": [
 				"truesight 60 ft."
@@ -5522,7 +5522,7 @@
 						"9": {
 							"slots": 1,
 							"spells": [
-								"{@spell power word kill}"
+								"{@spell Palabra de poder: Matar}"
 							]
 						}
 					},
@@ -5633,8 +5633,8 @@
 				"wis": "+2"
 			},
 			"skill": {
-				"deception": "+5",
-				"stealth": "+6"
+				"engaño": "+5",
+				"sigilo": "+6"
 			},
 			"passive": 9,
 			"resist": [
@@ -5822,7 +5822,7 @@
 				"wis": "+5"
 			},
 			"skill": {
-				"acrobatics": "+4",
+				"acrobacias": "+4",
 				"athletics": "+5",
 				"perception": "+5"
 			},
@@ -6140,14 +6140,14 @@
 				"cha": "+13"
 			},
 			"skill": {
-				"acrobatics": "+5",
+				"acrobacias": "+5",
 				"conocimiento arcano": "+8",
 				"athletics": "+6",
-				"deception": "+16",
+				"engaño": "+16",
 				"intimidation": "+11",
 				"investigación": "+13",
-				"performance": "+16",
-				"persuasion": "+16"
+				"interpretación": "+16",
+				"persuasión": "+16"
 			},
 			"senses": [
 				"darkvision 60 ft."
@@ -6290,7 +6290,7 @@
 					]
 				},
 				{
-					"name": "Bardic Inspiration (6/{@quickref resting|PHB|2|0|Short Rest})",
+					"name": "Bardic Inspiration (6/{@quickref resting|PHB|2|0|Descanso corto})",
 					"entries": [
 						"Scanlan grants a Bardic Inspiration die to one creature other than himself within 60 feet of him who can hear him. Once within the next 10 minutes, the creature can roll a {@dice d12} and add the number rolled to one ability check, attack roll, or {@quickref saving throws|PHB|2|1|saving throw} it makes.  When Scanlan uses this ability, he gains {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on attack rolls with {@item Mythcarver (Exalted)|TDCSR|Mythcarver} until the end of his turn."
 					]
@@ -6746,14 +6746,14 @@
 				"cha": "+5"
 			},
 			"skill": {
-				"acrobatics": "+17",
+				"acrobacias": "+17",
 				"athletics": "+4",
-				"deception": "+9",
+				"engaño": "+9",
 				"perspicacia": "+9",
 				"investigación": "+8",
 				"perception": "+15",
-				"persuasion": "+9",
-				"stealth": "+17",
+				"persuasión": "+9",
+				"sigilo": "+17",
 				"survival": "+9"
 			},
 			"senses": [
@@ -6870,7 +6870,7 @@
 					]
 				},
 				{
-					"name": "Bramble Shot (2/{@quickref resting|PHB|2|0|Short Rest})",
+					"name": "Bramble Shot (2/{@quickref resting|PHB|2|0|Descanso corto})",
 					"entries": [
 						"The attack deals an extra 18 ({@damage 4d8}) piercing damage, and the target must succeed on a {@dc 17} Strength {@quickref saving throws|PHB|2|1|saving throw} or be {@condition restrained}. The target can repeat the {@quickref saving throws|PHB|2|1|saving throw} at the end of each of its turns, ending the effect on itself on a success."
 					]
@@ -6978,7 +6978,7 @@
 			"cha": 14,
 			"skill": {
 				"perception": "+2",
-				"stealth": "+4"
+				"sigilo": "+4"
 			},
 			"senses": [
 				"darkvision 60 ft."
@@ -7141,7 +7141,7 @@
 			"cha": 16,
 			"skill": {
 				"perception": "+2",
-				"stealth": "+7"
+				"sigilo": "+7"
 			},
 			"senses": [
 				"darkvision 60 ft."

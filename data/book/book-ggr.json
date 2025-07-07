@@ -1056,13 +1056,13 @@
 						},
 						{
 							"type": "entries",
-							"name": "Bard",
+							"name": "Bardo",
 							"page": 23,
 							"entries": [
 								"In Ravnica, bards are commonly found among the Azorius Senate, the Cult of Rakdos, and the Selesnya Conclave, serving in a variety of capacities as lore keepers and entertainers.",
 								{
 									"type": "table",
-									"caption": "Bard",
+									"caption": "Bardo",
 									"colStyles": [
 										"col-6",
 										"col-6"
@@ -1073,11 +1073,11 @@
 									],
 									"rows": [
 										[
-											"{@class bard||College of Glamour|Glamour|XGE}*",
+											"{@class bard||Colegio del glamour|Glamour|XGE}*",
 											"Selesnya"
 										],
 										[
-											"{@class bard||College of Lore|Lore}",
+											"{@class bard||Colegio del conocimiento|Lore}",
 											"Azorius, Selesnya"
 										],
 										[
@@ -1085,7 +1085,7 @@
 											"{@creature Rakdos|GGR}"
 										],
 										[
-											"{@class bard||College of Valor|Valor}",
+											"{@class bard||Colegio del valor|Valor}",
 											"{@creature Rakdos|GGR}"
 										],
 										[
@@ -1934,7 +1934,7 @@
 											"name": "Elocutors",
 											"page": 33,
 											"entries": [
-												"As a skilled orator and diplomat (perhaps a bard of the College of Lore), you can put your talents to use in the guild as an elocutor. The Azorius are known for their measured, patient speech, and the elocutors are the primary voice through which the senate communicates with the other guilds and the people of Ravnica. Thus, you might serve as an emissary from the Azorius to another guild, working to settle trade or territorial agreements, temporary alliances, and the like. You might have the task of securing the support of key senators for a particular piece of legislation or treaty. Well-established elocutors can be rewarded with the rank of scribe or emissary."
+												"As a skilled orator and diplomat (perhaps a bard of the Colegio del conocimiento), you can put your talents to use in the guild as an elocutor. The Azorius are known for their measured, patient speech, and the elocutors are the primary voice through which the senate communicates with the other guilds and the people of Ravnica. Thus, you might serve as an emissary from the Azorius to another guild, working to settle trade or territorial agreements, temporary alliances, and the like. You might have the task of securing the support of key senators for a particular piece of legislation or treaty. Well-established elocutors can be rewarded with the rank of scribe or emissary."
 											],
 											"id": "046"
 										}
@@ -3976,7 +3976,7 @@
 										"By the time you start your adventuring career, you no doubt have a great act ready to go, and you're champing at the spike-studded bit to get out there and show the world what you've got. But you must earn a place on the stage or in the ring, and that means first doing your part backstage to keep the show running. \"Backstage\" can also mean \"out in the city,\" carrying out a variety of errands for people who have more pull than you. And with the {@creature Rakdos|GGR}, such errands tend to look more like adventures than like shopping trips.",
 										"What does your chosen form of performance look like? What skills do you aspire to learn? Spikewheel acrobats, lampooners, fire jugglers, puppeteers, pain artists, noise musicians, and hellbeast riders form the heart of the cult's bizarre entertainments, putting on shows in guild-owned dark speakeasies and on portable stages in the streets. Performers called uncagers tend\u2014and unleash\u2014the variety of beasts and horrors used in {@creature Rakdos|GGR} shows.",
 										"Other {@creature Rakdos|GGR} performers are spellcasters of spectacular sort, using expressive, free-wheeling, and dangerous magic. These mages find inspiration in the responses expressed by witnesses of their magic. They can be equally gratified by howls of laughter or howls of horror\u2014any attention, in their minds, is good attention.",
-										"Most {@creature Rakdos|GGR} performers are fighters of the Champion or Eldritch Knight archetype, barbarians of the Senda del berserker, or rogues of the Thief or Assassin archetype. Spellcasting performers are often bards of the College of Valor or warlocks of the fiend (the demon lord {@creature Rakdos|GGR})."
+										"Most {@creature Rakdos|GGR} performers are fighters of the Champion or Eldritch Knight archetype, barbarians of the Senda del berserker, or rogues of the Thief or Assassin archetype. Spellcasting performers are often bards of the Colegio del valor or warlocks of the fiend (the demon lord {@creature Rakdos|GGR})."
 									],
 									"id": "0b3"
 								},

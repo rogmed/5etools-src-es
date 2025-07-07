@@ -116,14 +116,14 @@ CreatureConverterUi._SAMPLE_MARKDOWN =
 >
 >• Cantrips (at will): mano de mago, prestidigitación, ray of frost
 >• 1st level (4 slots): detect magic, magic missile, shield, thunderwave
->• 2nd level (3 slots): detect thoughts, invisibility, Melf's acid arrow, mirror image
+>• 2nd level (3 slots): detect thoughts, invisibility, Melf's acid arrow, Imagen múltiple
 >• 3rd level (3 slots): animate dead, counterspell, dispel magic, fireball
 >• 4th level (3 slots): blight, dimension door
 >• 5th level (3 slots): cloudkill, scrying
 >• 6th level (1 slot): disintegrate, globe of invulnerability
 >• 7th level (1 slot): finger of death, plane shift
 >• 8th level (1 slot): dominate monster, power word stun
->• 9th level (1 slot): power word kill
+>• 9th level (1 slot): Palabra de poder: Matar
 >
 >***Turn Resistance.*** The lich has advantage on saving throws against any effect that turns undead.
 >

@@ -2061,7 +2061,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell ice storm}",
+							"{@spell tormenta de hielo}",
 							"{@spell sleet storm}",
 							"{@spell wind wall}"
 						],

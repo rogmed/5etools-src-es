@@ -508,7 +508,7 @@
 				}
 			]
 		},
-		"Blight": {
+		"Marchitar": {
 			"class": [
 				{
 					"name": "Druida",
@@ -572,7 +572,7 @@
 				}
 			]
 		},
-		"Blur": {
+		"Contorno borroso": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -888,7 +888,7 @@
 				}
 			]
 		},
-		"Cone of Cold": {
+		"Cono de frío": {
 			"class": [
 				{
 					"name": "Druida",
@@ -2868,7 +2868,7 @@
 				}
 			]
 		},
-		"Ice Storm": {
+		"Tormenta de hielo": {
 			"class": [
 				{
 					"name": "Druida",
@@ -4712,7 +4712,7 @@
 				}
 			]
 		},
-		"Sleet Storm": {
+		"Tormenta de aguanieve": {
 			"class": [
 				{
 					"name": "Druida",
@@ -5292,7 +5292,7 @@
 				}
 			]
 		},
-		"Thorn Whip": {
+		"Látigo de espinas": {
 			"class": [
 				{
 					"name": "Druida",
@@ -5596,7 +5596,7 @@
 				}
 			]
 		},
-		"Wall of Stone": {
+		"Muro de piedra": {
 			"class": [
 				{
 					"name": "Druida",

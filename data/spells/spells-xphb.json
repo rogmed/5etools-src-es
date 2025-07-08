@@ -56,7 +56,7 @@
 				"acid"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SCL",
@@ -1015,7 +1015,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"areaTags": [
 				"S"
@@ -1687,7 +1687,7 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -1861,8 +1861,8 @@
 				"M"
 			],
 			"savingThrow": [
-				"dexterity",
-				"strength"
+				"destreza",
+				"fuerza"
 			],
 			"miscTags": [
 				"DFT",
@@ -1917,7 +1917,7 @@
 				"force"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"DFT"
@@ -2023,8 +2023,8 @@
 			]
 		},
 		{
-			"name": "Blight",
-			"originalname": "",
+			"name": "Marchitar",
+			"originalname": "Blight",
 			"source": "XPHB",
 			"page": 247,
 			"srd52": true,
@@ -2054,15 +2054,15 @@
 				}
 			],
 			"entries": [
-				"A creature that you can see within range makes a Constitution saving throw, taking {@damage 8d8} Necrotic damage on a failed save or half as much damage on a successful one. A Plant creature automatically fails the save.",
-				"Alternatively, target a nonmagical plant that isn't a creature, such as a tree or shrub. It doesn't make a save; it simply withers and dies."
+				"Una criatura a la que puedas ver dentro del alcance deberá hacer una tirada de salvación de Constitución; sufrirá {@damage 8d8} de daño necrótico si la falla o la mitad del daño si la supera. Las criaturas de tipo “planta” fallan automáticamente la tirada.",
+				"Como alternativa, haz objetivo a una planta no mágica que no sea una criatura, como un árbol o un arbusto. No hará una tirada de salvación: simplemente se marchitará y morirá."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 8d8|4-9|1d8} for each spell slot level above 4."
+						"El daño aumenta en {@scaledamage 8d8|4-9|1d8} por cada nivel por encima de 4 que tenga el espacio."
 					]
 				}
 			],
@@ -2070,7 +2070,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SGT"
@@ -2130,7 +2130,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"AAD"
@@ -2187,7 +2187,7 @@
 				"ensordecido"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SCT",
@@ -2240,10 +2240,10 @@
 			]
 		},
 		{
-			"name": "Blur",
-			"originalname": "",
+			"name": "Contorno borroso",
+			"originalname": "Blur",
 			"source": "XPHB",
-			"page": 248,
+			"page": 263,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -2274,7 +2274,7 @@
 				}
 			],
 			"entries": [
-				"Your body becomes blurred. For the duration, any creature has {@variantrule Disadvantage|XPHB} on attack rolls against you. An attacker is immune to this effect if it perceives you with {@sense Blindsight|XPHB} or {@sense Truesight|XPHB}."
+				"Tu cuerpo se vuelve borroso. Hasta que termine el conjuro, todas las criaturas tendrán desventaja en las tiradas de ataque contra ti. Un atacante es inmune a este efecto si te percibe mediante visión ciega o visión verdadera."
 			]
 		},
 		{
@@ -2325,7 +2325,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -2389,7 +2389,7 @@
 				"lightning"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -2504,7 +2504,7 @@
 				"lightning"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ",
@@ -2823,7 +2823,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"S"
@@ -3073,7 +3073,7 @@
 				"poison"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"OBS"
@@ -3121,7 +3121,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"N"
@@ -3465,10 +3465,10 @@
 			]
 		},
 		{
-			"name": "Cone of Cold",
-			"originalname": "",
+			"name": "Cono de frío",
+			"originalname": "Cone of Cold",
 			"source": "XPHB",
-			"page": 253,
+			"page": 261,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -3489,7 +3489,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a small crystal or glass cone"
+				"m": "un cono pequeño de cristal o vidrio"
 			},
 			"duration": [
 				{
@@ -3497,14 +3497,14 @@
 				}
 			],
 			"entries": [
-				"You unleash a blast of cold air. Each creature in a 60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone} originating from you makes a Constitution saving throw, taking {@damage 8d8} Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws."
+				"Emites una ráfaga de aire helado. Todas las criaturas situadas en un cono de 60 pies (18 m) que se origina en ti hacen una tirada de salvación de Constitución; sufrirán {@damage 8d8} de daño de frío si la fallan o la mitad de daño si la superan. Si una criatura muere a causa de este conjuro, se convertirá en una estatua congelada hasta que se descongele."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 8d8|5-9|1d8} for each spell slot level above 5."
+						"El daño aumenta en {@scaledamage 8d8|5-9|1d8} por cada nivel por encima de 5 que tenga el espacio."
 					]
 				}
 			],
@@ -3512,7 +3512,7 @@
 				"cold"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"N"
@@ -3662,7 +3662,7 @@
 				"slashing"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"ADV",
@@ -3721,7 +3721,7 @@
 				"force"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -3804,7 +3804,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"HL",
@@ -3873,7 +3873,7 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -4042,7 +4042,7 @@
 				"force"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -4155,7 +4155,7 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"intelligence"
+				"inteligencia"
 			]
 		},
 		{
@@ -4204,7 +4204,7 @@
 				"poisoned"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"ST"
@@ -4373,10 +4373,10 @@
 				"bludgeoning"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"FMV",
@@ -4586,7 +4586,7 @@
 				"piercing"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"S"
@@ -4627,7 +4627,7 @@
 				"Intentas interrumpir a una criatura que esté lanzando un conjuro. La criatura hace una tirada de salvación de Constitución. Si la falla, el conjuro se disipa sin causar efecto alguno y la acción, acción adicional o reacción empleada para lanzarlo se desperdiciará. Si ese conjuro se lanzó con un espacio de conjuro, dicho espacio no se gastará."
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SGT"
@@ -5311,7 +5311,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -5405,7 +5405,7 @@
 				"prone"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"MT",
@@ -5609,7 +5609,7 @@
 				"sabiduría"
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -5697,7 +5697,7 @@
 				"Para darse cuenta de que te has disfrazado, una criatura debe emplear la acción de estudiar para inspeccionar tu apariencia y superar una prueba de Inteligencia ({@skill Investigación|XPHB}) contra tu CD de salvación de conjuros."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -5753,7 +5753,7 @@
 				"force"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ",
@@ -6402,7 +6402,7 @@
 				"poison"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"N",
@@ -6637,11 +6637,11 @@
 				"prone"
 			],
 			"savingThrow": [
-				"constitution",
-				"dexterity"
+				"constitución",
+				"destreza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"DFT",
@@ -6953,7 +6953,7 @@
 				}
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"ADV",
@@ -7019,10 +7019,10 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			]
 		},
 		{
@@ -7069,10 +7069,10 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"DFT"
@@ -7236,10 +7236,10 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"DFT",
@@ -7448,7 +7448,7 @@
 				"Las tiradas de ataque contra las criaturas u objetos afectados tendrán ventaja si el atacante puede verlos."
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"ADV",
@@ -7927,7 +7927,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"PRM",
@@ -8098,7 +8098,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -8156,7 +8156,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -8279,7 +8279,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"Y"
@@ -8340,7 +8340,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"LGT",
@@ -8398,7 +8398,7 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"PRM",
@@ -8730,7 +8730,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"AAD",
@@ -9303,7 +9303,7 @@
 				"thunder"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"abilityCheck": [
 				"sabiduría"
@@ -9465,7 +9465,7 @@
 				"prone"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"DFT"
@@ -9613,7 +9613,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -9854,7 +9854,7 @@
 				"As a {@variantrule Acción adicional|XPHB} on your later turns, you can change the direction in which the {@variantrule Line [Area of Effect]|XPHB|Line} blasts from you."
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"FMV",
@@ -9908,7 +9908,7 @@
 				"piercing"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"S"
@@ -10122,7 +10122,7 @@
 				"The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to notice the illusion. If the difference isn't obvious by touch, a creature examining the illusion can take the {@action Study|XPHB} action to make an Intelligence ({@skill Investigation|XPHB}) check against your spell save DC to disbelieve it. If a creature discerns that the terrain is illusory, the creature sees a vague image superimposed on the real terrain."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"areaTags": [
 				"C"
@@ -10166,7 +10166,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SGT"
@@ -10383,7 +10383,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"OBJ",
@@ -10442,7 +10442,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -10804,7 +10804,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"ADV"
@@ -10869,7 +10869,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"DFT"
@@ -11042,7 +11042,7 @@
 				"R"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"ST"
@@ -11050,10 +11050,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Ice Storm",
-			"originalname": "",
+			"name": "Tormenta de hielo",
+			"originalname": "Ice Storm",
 			"source": "XPHB",
-			"page": 287,
+			"page": 339,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -11074,7 +11074,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a mitten"
+				"m": "una manopla"
 			},
 			"duration": [
 				{
@@ -11082,15 +11082,15 @@
 				}
 			],
 			"entries": [
-				"Hail falls in a 20-foot-radius, 40-foot-high {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centered on a point within range. Each creature in the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} makes a Dexterity saving throw. A creature takes {@damage 2d10} Bludgeoning damage and {@damage 4d6} Cold damage on a failed save or half as much damage on a successful one.",
-				"Hailstones turn ground in the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} into {@variantrule Difficult Terrain|XPHB} until the end of your next turn."
+				"Una granizada cae en un cilindro de 20 pies (6 m) de radio y 40 pies (12 m) de altura centrado en un punto dentro del alcance. Todas las criaturas situadas en el cilindro hacen una tirada de salvación de Destreza; sufrirán {@damage 2d10} de daño contundente y {@damage 4d6} de daño de frío si la fallan o la mitad del daño si la superan.",
+				"Las bolas de granizo convierten el suelo del cilindro en terreno difícil hasta el final de tu siguiente turno."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The Bludgeoning damage increases by {@scaledamage 2d8|4-9|1d10} for each spell slot level above 4."
+						"El daño contundente aumenta en {@scaledamage 2d8|4-9|1d10} por cada nivel por encima de 4 que tenga el espacio."
 					]
 				}
 			],
@@ -11099,7 +11099,7 @@
 				"cold"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"DFT"
@@ -11353,7 +11353,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBS"
@@ -11408,7 +11408,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"ST"
@@ -11468,7 +11468,7 @@
 				"piercing"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"DFT",
@@ -11593,7 +11593,7 @@
 				"ensordecido"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SGT"
@@ -11922,7 +11922,7 @@
 				"When the spell ends, the target floats gently to the ground if it is still aloft."
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"OBJ",
@@ -12021,7 +12021,7 @@
 				"lightning"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"S"
@@ -12075,7 +12075,7 @@
 				"lightning"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -12699,7 +12699,7 @@
 				}
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"PRM",
@@ -12952,7 +12952,7 @@
 				"When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -13187,7 +13187,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ",
@@ -13297,7 +13297,7 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SCL",
@@ -13421,7 +13421,7 @@
 				}
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			]
 		},
 		{
@@ -13712,7 +13712,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"LGT"
@@ -13767,7 +13767,7 @@
 				"force"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -14159,10 +14159,10 @@
 				"cold"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"areaTags": [
 				"S"
@@ -14227,7 +14227,7 @@
 				"thunder"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -14424,10 +14424,10 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"intelligence"
+				"inteligencia"
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -15033,7 +15033,7 @@
 				"aturdido"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SGT"
@@ -15268,8 +15268,8 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"dexterity",
-				"constitution",
+				"destreza",
+				"constitución",
 				"sabiduría"
 			],
 			"miscTags": [
@@ -15376,8 +15376,8 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"constitution",
-				"dexterity",
+				"constitución",
+				"destreza",
 				"sabiduría"
 			],
 			"miscTags": [
@@ -15504,7 +15504,7 @@
 				"Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the {@action Study|XPHB} action to examine the image can determine that it is an illusion with a successful Intelligence ({@skill Investigation|XPHB}) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"hasFluffImages": true
 		},
@@ -15554,7 +15554,7 @@
 				"Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the {@action Study|XPHB} action to examine the image can determine that it is an illusion with a successful Intelligence ({@skill Investigation|XPHB}) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -15904,7 +15904,7 @@
 				"On a failed save, the target has {@variantrule Disadvantage|XPHB} on Strength-based {@variantrule Prueba con d20|XPHB|Prueba con d20s} for the duration. During that time, it also subtracts {@dice 1d8} from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success."
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"ST"
@@ -16360,7 +16360,7 @@
 				"If a ceiling or an anchored object is encountered in this upward fall, creatures and objects strike it just as they would during a downward fall. If an affected creature or object reaches the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}'s top without striking anything, it hovers there for the duration. When the spell ends, affected objects and creatures fall downward."
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -16510,7 +16510,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SCL",
@@ -16771,7 +16771,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"AAD"
@@ -16861,7 +16861,7 @@
 				"carisma"
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -17060,7 +17060,7 @@
 				"thunder"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"OBJ"
@@ -17441,7 +17441,7 @@
 				"La interacción física con la imagen revela que es una ilusión, ya que las cosas pueden atravesarla. Si una criatura emplea una acción de estudiar para examinar la imagen, puede determinar que es una ilusión si supera una prueba de Inteligencia ({@skill Investigación|XPHB}) contra tu CD de salvación de conjuros. Si la criatura descubre que la imagen es una ilusión, no se dejará engañar por ella."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"hasFluffImages": true
 		},
@@ -17550,10 +17550,10 @@
 			]
 		},
 		{
-			"name": "Sleet Storm",
-			"originalname": "",
+			"name": "Tormenta de aguanieve",
+			"originalname": "Sleet Storm",
 			"source": "XPHB",
-			"page": 317,
+			"page": 338,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -17574,7 +17574,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a miniature umbrella"
+				"m": "un paraguas en miniatura"
 			},
 			"duration": [
 				{
@@ -17587,14 +17587,14 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centered on a point you choose within range. The area is {@variantrule Heavily Obscured|XPHB}, and exposed flames in the area are doused.",
-				"Ground in the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} is {@variantrule Difficult Terrain|XPHB}. When a creature enters the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} for the first time on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the {@condition Prone|XPHB} condition and lose {@status Concentration|XPHB}."
+				"Hasta que el conjuro termine, caerá aguanieve en un cilindro de 40 pies (12 m) de alto y 20 pies (6 m) de radio centrado en un punto que elijas dentro del alcance. La zona está muy oscura y las llamas desprotegidas que haya en ella se apagan.",
+				"El suelo abarcado en el cilindro es terreno difícil. Cuando una criatura entre en el cilindro por primera vez en un turno o comience su turno en él, deberá superar una tirada de salvación de Destreza o tendrá el estado de {@condition derribado|XPHB|derribada} y perderá la {@condition concentración|XPHB}."
 			],
 			"conditionInflict": [
 				"prone"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"DFT",
@@ -18372,7 +18372,7 @@
 				"Each creature that starts its turn in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} must succeed on a Constitution saving throw or have the {@condition Envenenado|XPHB} condition until the end of the current turn. While {@condition Envenenado|XPHB} in this way, the creature can't take an action or a {@variantrule Acción adicional|XPHB}."
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"OBS"
@@ -18550,8 +18550,8 @@
 				"ensordecido"
 			],
 			"savingThrow": [
-				"constitution",
-				"dexterity"
+				"constitución",
+				"destreza"
 			],
 			"miscTags": [
 				"DFT",
@@ -19177,7 +19177,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"LGTS"
@@ -19230,7 +19230,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"LGT",
@@ -19389,9 +19389,9 @@
 				"inconsciente"
 			],
 			"savingThrow": [
-				"constitution",
+				"constitución",
 				"sabiduría",
-				"intelligence"
+				"inteligencia"
 			],
 			"abilityCheck": [
 				"sabiduría"
@@ -19441,8 +19441,8 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"intelligence",
-				"constitution"
+				"inteligencia",
+				"constitución"
 			],
 			"areaTags": [
 				"S"
@@ -19617,7 +19617,7 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"FMV",
@@ -20008,10 +20008,10 @@
 			]
 		},
 		{
-			"name": "Thorn Whip",
-			"originalname": "",
+			"name": "Látigo de espinas",
+			"originalname": "Thorn Whip",
 			"source": "XPHB",
-			"page": 333,
+			"page": 304,
 			"level": 0,
 			"school": "T",
 			"time": [
@@ -20030,7 +20030,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "the stem of a plant with thorns"
+				"m": "el tallo de una planta con espinas"
 			},
 			"duration": [
 				{
@@ -20038,7 +20038,7 @@
 				}
 			],
 			"entries": [
-				"You create a vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. On a hit, the target takes {@damage 1d6} Piercing damage, and if it is Large or smaller, you can pull it up to 10 feet closer to you."
+				"Creas un látigo similar a una enredadera cubierta de espinas que fustiga bajo tus órdenes a una criatura dentro del alcance. Haz un ataque de conjuro cuerpo a cuerpo contra el objetivo. Si acierta, el objetivo sufre {@damage 1d6} de daño perforante y, si es Grande o más pequeño, puedes arrastrarlo hasta 10 pies (3 m) hacia ti."
 			],
 			"entriesHigherLevel": [
 				{
@@ -20125,7 +20125,7 @@
 				"thunder"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SCL"
@@ -20181,7 +20181,7 @@
 				"prone"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"AAD",
@@ -20236,7 +20236,7 @@
 				"thunder"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"FMV",
@@ -20764,10 +20764,10 @@
 				"bludgeoning"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"areaTags": [
 				"W"
@@ -20997,7 +20997,7 @@
 				"acid"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"S"
@@ -21059,7 +21059,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"W"
@@ -21166,18 +21166,18 @@
 				"cold"
 			],
 			"savingThrow": [
-				"dexterity",
-				"constitution"
+				"destreza",
+				"constitución"
 			],
 			"areaTags": [
 				"W"
 			]
 		},
 		{
-			"name": "Wall of Stone",
-			"originalname": "",
+			"name": "Muro de piedra",
+			"originalname": "Wall of Stone",
 			"source": "XPHB",
-			"page": 339,
+			"page": 312,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -21198,7 +21198,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a cube of granite"
+				"m": "un cubo de granito"
 			},
 			"duration": [
 				{
@@ -21211,15 +21211,15 @@
 				}
 			],
 			"entries": [
-				"A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.",
-				"If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its {@variantrule Reaction|XPHB} to move up to its {@variantrule Speed|XPHB} so that it is no longer enclosed by the wall.",
-				"The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on a firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.",
-				"If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create battlements and the like.",
-				"The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 {@variantrule Hit Points|XPHB} per inch of thickness, and it has {@variantrule Immunity|XPHB} to Poison and Psychic damage. Reducing a panel to 0 {@variantrule Hit Points|XPHB} destroys it and might cause connected panels to collapse at the DM's discretion.",
-				"If you maintain your {@status Concentration|XPHB} on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends."
+				"Un muro no mágico de piedra sólida brota en un punto de tu elección dentro del alcance. Tiene 15 cm de grosor y está compuesto de 10 paneles de 10 por 10 pies (3 m por 3 m). Cada panel debe estar adyacente a otro panel. Como alternativa, puedes crear paneles de 10 por 20 pies (3 m por 6 m} cuyo grosor sea solo de 7,5 cm.",
+				"Al aparecer, si el muro atraviesa el espacio de una criatura, esta es empujada hacia un lado del muro (tú eliges cuál). Si una criatura fuera a quedar rodeada por todas partes por el muro (o por el muro y otra superficie sólida), puede hacer una tirada de salvación de Destreza. Si la supera, podrá usar su reacción para moverse hasta su velocidad y no quedar encerrada por el muro.",
+				"El muro puede adoptar la forma que desees, pero no puede ocupar el mismo espacio que una criatura o un objeto. El muro no tiene por qué ser vertical ni apoyarse en una base firme. Sin embargo, sí debe fundirse con alguna masa de piedra existente que lo sostenga firmemente. Así, podrías usar este conjuro para formar un puente que cruce una sima o para crear una rampa.",
+				"Si creas un muro que se extienda más de 20 pies (6 m), debes reducir a la mitad el tamaño de cada panel para crear soportes. Puedes moldear el muro de forma tosca para que tenga almenas y elementos similares.",
+				"El muro es un objeto hecho de piedra que se puede dañar y, por tanto, atravesar. Cada panel tiene una CA de 15, 30 puntos de golpe por cada 2,5 cm de grosor e inmunidad al daño psíquico y de veneno. Si los puntos de golpe de un panel se reducen a 0, se destruye, lo que podría provocar que los paneles conectados se derrumben, a discreción de tu DM.",
+				"Si mantienes la {@status concentration|XPHB} en este conjuro durante toda su duración, el muro se vuelve permanente y no se puede disipar. De lo contrario, desaparece en cuanto el conjuro termine."
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ",
@@ -21285,7 +21285,7 @@
 				"slashing"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"W"
@@ -21486,10 +21486,10 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"DFT",
@@ -21645,7 +21645,7 @@
 				"bludgeoning"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"areaTags": [
 				"W"
@@ -21882,7 +21882,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SCL",

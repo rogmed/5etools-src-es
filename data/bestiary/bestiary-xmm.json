@@ -2418,7 +2418,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Ice Storm|XPHB} (level 5 version)",
+							"{@spell Tormenta de hielo|XPHB} (level 5 version)",
 							"{@spell Zona de la verdad|XPHB}"
 						]
 					},
@@ -4702,7 +4702,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Control Weather|XPHB}",
-							"{@spell Ice Storm|XPHB} (level 7 version)",
+							"{@spell Tormenta de hielo|XPHB} (level 7 version)",
 							"{@spell Teleport|XPHB}",
 							"{@spell Zona de la verdad|XPHB}"
 						]
@@ -6621,7 +6621,7 @@
 							"{@spell Lightning Bolt|XPHB} (level 7 version)"
 						],
 						"1e": [
-							"{@spell Cone of Cold|XPHB} (level 9 version)",
+							"{@spell Cono de frío|XPHB} (level 9 version)",
 							"{@spell Mind Blank|XPHB} (cast before combat)",
 							"{@spell Escudriñar|XPHB}",
 							"{@spell Teleport|XPHB}"
@@ -13694,7 +13694,7 @@
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
-						"{@spell Fog Cloud|XPHB}",
+						"{@spell Nube de oscurecimiento|XPHB}",
 						"{@spell Light|XPHB}"
 					],
 					"daily": {
@@ -13727,7 +13727,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The giant makes two attacks, using Thunderous Mace or Thundercloud in any combination. It can replace one attack with a use of Spellcasting to cast {@spell Fog Cloud|XPHB}."
+						"The giant makes two attacks, using Thunderous Mace or Thundercloud in any combination. It can replace one attack with a use of Spellcasting to cast {@spell Nube de oscurecimiento|XPHB}."
 					]
 				},
 				{
@@ -14502,7 +14502,7 @@
 							"{@spell Dream|XPHB}",
 							"{@spell Restablecimiento mayor|XPHB}",
 							"{@spell Escudriñar|XPHB}",
-							"{@spell Sleep|XPHB}"
+							"{@spell Dormir|XPHB}"
 						]
 					},
 					"ability": "wis",
@@ -15504,7 +15504,7 @@
 							"{@spell Passwall|XPHB}",
 							"{@spell Plane Shift|XPHB}",
 							"{@spell Tongues|XPHB}",
-							"{@spell Wall of Stone|XPHB}"
+							"{@spell Muro de piedra|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -16353,7 +16353,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Blight|XPHB} (level 8 version)",
+							"{@spell Marchitar|XPHB} (level 8 version)",
 							"{@spell Cloudkill|XPHB} (level 6 version)",
 							"{@spell Fly|XPHB}",
 							"{@spell Plane Shift|XPHB}",
@@ -18781,11 +18781,11 @@
 					"name": "Sleep (1/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mephit casts the {@spell Sleep|XPHB} spell, requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 10})."
+						"The mephit casts the {@spell Dormir|XPHB} spell, requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 10})."
 					],
 					"daily": {
 						"1": [
-							"{@spell Sleep|XPHB}"
+							"{@spell Dormir|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -32278,11 +32278,11 @@
 					"name": "Fog Cloud (1/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mephit casts {@spell Fog Cloud|XPHB}, requiring no spell components and using Charisma as the spellcasting ability."
+						"The mephit casts {@spell Nube de oscurecimiento|XPHB}, requiring no spell components and using Charisma as the spellcasting ability."
 					],
 					"daily": {
 						"1": [
-							"{@spell Fog Cloud|XPHB}"
+							"{@spell Nube de oscurecimiento|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -35708,7 +35708,7 @@
 							"{@spell Invisibilidad|XPHB}"
 						],
 						"1e": [
-							"{@spell Cone of Cold|XPHB}",
+							"{@spell Cono de frío|XPHB}",
 							"{@spell Fly|XPHB}"
 						]
 					},
@@ -36604,11 +36604,11 @@
 					"name": "Misty Veil {@recharge 5}",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The marid casts {@spell Fog Cloud|XPHB}, using the same spellcasting ability as Spellcasting."
+						"The marid casts {@spell Nube de oscurecimiento|XPHB}, using the same spellcasting ability as Spellcasting."
 					],
 					"recharge": {
 						"5": [
-							"{@spell Fog Cloud|XPHB}"
+							"{@spell Nube de oscurecimiento|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -41199,7 +41199,7 @@
 							"{@spell Charm Person|XPHB} (level 2 version)",
 							"{@spell Darkness|XPHB}",
 							"{@spell Gaseous Form|XPHB}",
-							"{@spell Sleep|XPHB}"
+							"{@spell Dormir|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -43106,7 +43106,7 @@
 						"1e": [
 							"{@spell Detectar pensamientos|XPHB}",
 							"{@spell Fly|XPHB}",
-							"{@spell Sleep|XPHB}"
+							"{@spell Dormir|XPHB}"
 						]
 					},
 					"ability": "cha",

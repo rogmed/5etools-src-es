@@ -34,7 +34,7 @@ export class ScaleCreature {
 	}
 
 	// cantrips that should be preserved when lowering the number of cantrips known, to ensure caster effectiveness
-	static _PROTECTED_CANTRIPS = ["acid splash", "chill touch", "eldritch blast", "fire bolt", "poison spray", "crear llama", "ray of frost", "sacred flame", "shocking grasp", "thorn whip", "vicious mockery"];
+	static _PROTECTED_CANTRIPS = ["acid splash", "chill touch", "eldritch blast", "fire bolt", "poison spray", "crear llama", "ray of frost", "sacred flame", "shocking grasp", "látigo de espinas", "vicious mockery"];
 
 	// analysis of official data + some manual smoothing
 	static _CR_TO_CASTER_LEVEL_AVG = {

@@ -1763,13 +1763,13 @@
 						"Cryonax casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 21}, {@hit 13} to hit with spell attacks):"
 					],
 					"will": [
-						"{@spell ice storm}",
+						"{@spell tormenta de hielo}",
 						"{@spell sleet storm}",
 						"{@spell wall of ice}"
 					],
 					"daily": {
 						"2e": [
-							"{@spell cone of cold}",
+							"{@spell cono de frío}",
 							"{@spell otiluke's freezing sphere} (45 ({@damage 13d6}) damage)"
 						]
 					},
@@ -2166,7 +2166,7 @@
 					"daily": {
 						"2e": [
 							"{@spell armor of Agathys}",
-							"{@spell cone of cold}",
+							"{@spell cono de frío}",
 							"{@spell darkness}",
 							"{@spell fear}",
 							"{@spell hallucinatory terrain}",
@@ -2653,7 +2653,7 @@
 					"name": "Staff Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"While holding the staff of power, Edwin casts one of the following spells (spell save {@dc 18}, {@hit 12} to hit with spell attacks). These spells require charges; the staff has 20 charges, and it regains {@dice 2d8 + 4} expended charges daily at dawn. 1 charge each: magic missile, ray of enfeeblement 2 charges: levitate 5 charges each: cone of cold, fireball (5th level), hold monster, lightning bolt (5th level), wall of force 6 charges: globe of invulnerability"
+						"While holding the staff of power, Edwin casts one of the following spells (spell save {@dc 18}, {@hit 12} to hit with spell attacks). These spells require charges; the staff has 20 charges, and it regains {@dice 2d8 + 4} expended charges daily at dawn. 1 charge each: magic missile, ray of enfeeblement 2 charges: levitate 5 charges each: cono de frío, fireball (5th level), hold monster, lightning bolt (5th level), wall of force 6 charges: globe of invulnerability"
 					],
 					"displayAs": "action"
 				}
@@ -6181,7 +6181,7 @@
 							"{@spell suggestion}"
 						],
 						"1e": [
-							"{@spell cone of cold}",
+							"{@spell cono de frío}",
 							"{@spell counterspell}",
 							"{@spell fly}",
 							"{@spell greater invisibility}"
@@ -6596,7 +6596,7 @@
 						"1e": [
 							"{@spell fly}",
 							"{@spell greater invisibility}",
-							"{@spell ice storm}"
+							"{@spell tormenta de hielo}"
 						]
 					},
 					"ability": "int",

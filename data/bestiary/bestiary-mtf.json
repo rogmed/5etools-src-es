@@ -2725,13 +2725,13 @@
 							"spells": [
 								"{@spell dimension door}",
 								"{@spell greater invisibility}",
-								"{@spell ice storm}"
+								"{@spell tormenta de hielo}"
 							]
 						},
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell cone of cold}",
+								"{@spell cono de frío}",
 								"{@spell wall of force}"
 							]
 						},
@@ -5894,7 +5894,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell cone of cold}"
+								"{@spell cono de frío}"
 							]
 						},
 						"6": {
@@ -9867,7 +9867,7 @@
 						"{@spell alter self} (can become Medium when changing his appearance)",
 						"{@spell detect magic}",
 						"{@spell geas}",
-						"{@spell ice storm}",
+						"{@spell tormenta de hielo}",
 						"{@spell invisibility} (self only)",
 						"{@spell locate object}",
 						"{@spell suggestion}",
@@ -18488,14 +18488,14 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dimension door}",
-								"{@spell ice storm}"
+								"{@spell tormenta de hielo}"
 							]
 						},
 						"5": {
 							"slots": 2,
 							"spells": [
 								"{@spell cloudkill}",
-								"{@spell cone of cold}"
+								"{@spell cono de frío}"
 							]
 						},
 						"6": {
@@ -22716,8 +22716,8 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell cone of cold}",
-							"{@spell ice storm}"
+							"{@spell cono de frío}",
+							"{@spell tormenta de hielo}"
 						]
 					},
 					"ability": "int"

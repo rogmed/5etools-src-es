@@ -4956,7 +4956,7 @@
 				{
 					"name": "Rime Breath {@recharge 5}",
 					"entries": [
-						"The sea serpent exhales a 60-foot cone of cold. Each creature in that area must make a {@dc 18} Constitution saving throw, taking 49 ({@damage 9d10}) cold damage on a failed save, or half as much damage on a successful one."
+						"The sea serpent exhales a 60-foot cono de frío. Each creature in that area must make a {@dc 18} Constitution saving throw, taking 49 ({@damage 9d10}) cold damage on a failed save, or half as much damage on a successful one."
 					]
 				}
 			],
@@ -17794,7 +17794,7 @@
 				{
 					"name": "Rime Breath {@recharge 5}",
 					"entries": [
-						"The sea serpent exhales a 30-foot cone of cold. Each creature in that area must make a {@dc 14} Constitution saving throw, taking 38 ({@damage 7d10}) cold damage on a failed save, or half as much damage on a successful one."
+						"The sea serpent exhales a 30-foot cono de frío. Each creature in that area must make a {@dc 14} Constitution saving throw, taking 38 ({@damage 7d10}) cold damage on a failed save, or half as much damage on a successful one."
 					]
 				}
 			],

@@ -2504,7 +2504,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell cloudkill}",
-								"{@spell cone of cold}",
+								"{@spell cono de frío}",
 								"{@spell hold monster}",
 								"{@spell scrying}"
 							]

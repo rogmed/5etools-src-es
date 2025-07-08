@@ -2164,7 +2164,7 @@
 			"classSource": "PHB",
 			"level": 7,
 			"entries": [
-				"Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an {@spell ice storm} spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail."
+				"Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an {@spell tormenta de hielo} spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail."
 			]
 		},
 		{
@@ -3937,7 +3937,7 @@
 					"type": "entries",
 					"name": "Prepared Spells of 1st+ Level",
 					"entries": [
-						"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. {@spell Charm Person|XPHB}, {@spell Disguise Self|XPHB}, and {@spell Fog Cloud|XPHB} are recommended.",
+						"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. {@spell Charm Person|XPHB}, {@spell Disguise Self|XPHB}, and {@spell Nube de oscurecimiento|XPHB} are recommended.",
 						"The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Arcane Trickster Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Arcane Trickster Spellcasting table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Wizard spells of level 1 or 2 in any combination."
 					]
 				},

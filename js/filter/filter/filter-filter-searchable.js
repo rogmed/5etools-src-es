@@ -289,7 +289,7 @@ export class SearchableFilter extends Filter {
 
 	_$render_bindSearchHandler_blur ({$iptSearch}) {
 		$iptSearch
-			.on("blur", () => {
+			.on("contorno borroso", () => {
 				this._compSearch._state.search = "";
 			});
 	}

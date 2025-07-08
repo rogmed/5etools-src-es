@@ -1884,13 +1884,13 @@
 							"slots": 3,
 							"spells": [
 								"{@spell greater invisibility}",
-								"{@spell ice storm}"
+								"{@spell tormenta de hielo}"
 							]
 						},
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell cone of cold}"
+								"{@spell cono de frío}"
 							]
 						}
 					},
@@ -4444,7 +4444,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell Bigby's hand}",
-								"{@spell cone of cold}",
+								"{@spell cono de frío}",
 								"{@spell scrying}"
 							]
 						},

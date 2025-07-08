@@ -1036,7 +1036,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell cone of cold}"
+								"{@spell cono de frío}"
 							]
 						}
 					},
@@ -1360,7 +1360,7 @@
 								"{@spell eldritch blast}",
 								"{@spell mending}",
 								"{@spell prestidigitation}",
-								"{@spell thorn whip}",
+								"{@spell látigo de espinas}",
 								"{@spell vicious mockery}"
 							]
 						},
@@ -3204,7 +3204,7 @@
 							"spells": [
 								"{@spell saber druídico}",
 								"{@spell crear llama}",
-								"{@spell thorn whip}"
+								"{@spell látigo de espinas}"
 							]
 						},
 						"1": {

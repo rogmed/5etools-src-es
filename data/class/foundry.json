@@ -1577,8 +1577,8 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Circle of the Land",
-			"shortName": "Land",
+			"name": "Círculo de la tierra",
+			"shortName": "Tierra",
 			"source": "XPHB",
 			"className": "Druida",
 			"classSource": "XPHB",
@@ -8624,7 +8624,7 @@
 			"source": "PHB",
 			"className": "Druida",
 			"classSource": "PHB",
-			"subclassShortName": "Land",
+			"subclassShortName": "Tierra",
 			"subclassSource": "PHB",
 			"level": 10,
 			"entryData": {
@@ -14288,7 +14288,7 @@
 			"source": "XPHB",
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Land",
+			"subclassShortName": "Tierra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -14390,7 +14390,7 @@
 			"source": "XPHB",
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Land",
+			"subclassShortName": "Tierra",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"activities": [
@@ -14456,7 +14456,7 @@
 			"source": "XPHB",
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Land",
+			"subclassShortName": "Tierra",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"effects": [
@@ -14543,7 +14543,7 @@
 			"source": "XPHB",
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Land",
+			"subclassShortName": "Tierra",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"activities": [
@@ -22275,7 +22275,7 @@
 							"uuid": "@creature[bestial spirit (air)|xphb]"
 						},
 						{
-							"name": "Land",
+							"name": "Tierra",
 							"uuid": "@creature[bestial spirit (land)|xphb]"
 						},
 						{

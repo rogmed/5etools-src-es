@@ -810,7 +810,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell cone of cold}",
+								"{@spell cono de frío}",
 								"{@spell creation}",
 								"{@spell hold monster}"
 							]
@@ -2925,7 +2925,7 @@
 								"{@spell saber druídico}",
 								"{@spell crear llama}",
 								"{@spell resistance}",
-								"{@spell thorn whip}"
+								"{@spell látigo de espinas}"
 							]
 						},
 						"1": {
@@ -3569,10 +3569,10 @@
 						],
 						"1e": [
 							"{@spell banishment}",
-							"{@spell cone of cold}",
+							"{@spell cono de frío}",
 							"{@spell dimension door}",
 							"{@spell fireball}",
-							"{@spell ice storm}"
+							"{@spell tormenta de hielo}"
 						]
 					},
 					"ability": "int"
@@ -4403,7 +4403,7 @@
 							"spells": [
 								"{@spell poison spray}",
 								"{@spell shillelagh}",
-								"{@spell thorn whip}"
+								"{@spell látigo de espinas}"
 							]
 						},
 						"1": {
@@ -10714,7 +10714,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell control water}",
-								"{@spell ice storm}",
+								"{@spell tormenta de hielo}",
 								"{@spell polymorph}"
 							]
 						},

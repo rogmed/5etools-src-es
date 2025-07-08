@@ -7213,7 +7213,7 @@
 										{
 											"type": "item",
 											"name": "Step 2",
-											"entry": "Find the roll needed on the Mob Results table. If all the monsters have {@variantrule Advantage|XPHB} on the roll (for example, if they're attacking and have the Pack Tactics trait, or if they're making a saving throw against a spell and have the Magic Resistance trait), find the roll needed in the With Advantage column. If all the monsters have {@variantrule Disadvantage|XPHB} (for example, if they're attacking a creature protected by the {@spell Blur|XPHB} spell), use the With Disadvantage column. Otherwise, use the Normal column."
+											"entry": "Find the roll needed on the Mob Results table. If all the monsters have {@variantrule Advantage|XPHB} on the roll (for example, if they're attacking and have the Pack Tactics trait, or if they're making a saving throw against a spell and have the Magic Resistance trait), find the roll needed in the With Advantage column. If all the monsters have {@variantrule Disadvantage|XPHB} (for example, if they're attacking a creature protected by the {@spell Contorno borroso|XPHB} spell), use the With Disadvantage column. Otherwise, use the Normal column."
 										},
 										{
 											"type": "item",
@@ -22779,7 +22779,7 @@
 									"page": 204,
 									"id": "3ea",
 									"entries": [
-										"Cania, the eighth layer of the Nine Hells, is a frozen hellscape whose ice storms can tear flesh from bone. Cities embedded in the ice provide shelter for guests and prisoners of Cania's ruler, the brilliant and conniving archdevil Mephistopheles.",
+										"Cania, the eighth layer of the Nine Hells, is a frozen hellscape whose tormenta de hielos can tear flesh from bone. Cities embedded in the ice provide shelter for guests and prisoners of Cania's ruler, the brilliant and conniving archdevil Mephistopheles.",
 										"Mephistopheles dwells in the ice citadel of Mephistar, where he plots to seize the throne of the Nine Hells and conquer all the planes. He is Asmodeus's greatest enemy and ally, and the archduke of Nessus appears to trust Mephistopheles's counsel. Mephistopheles knows he can't depose Asmodeus until his adversary makes a fatal miscalculation, and so both wait to discover what circumstances might turn them against each other. Mephistopheles is also a godfather of sorts to Glasya, further complicating the relationship between Mephistopheles and Asmodeus.",
 										"Mephistopheles is a tall, striking devil with impressive horns and a cool demeanor. He trades in souls, as do other archdevils, but he rarely gives his time to any creatures not worthy of his personal attention. It is said that only Asmodeus has ever deceived or thwarted him."
 									]

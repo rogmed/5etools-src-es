@@ -4409,7 +4409,7 @@ Renderer.utils = class {
 				if (name) fauxEntry.name = name;
 				else {
 					if (tag === "@ability") fauxEntry.name = Parser.attAbvToFull(abil);
-					else if (tag === "@savingThrow") fauxEntry.name = `${Parser.attAbvToFull(abil)} save`;
+					else if (tag === "@savingThrow") fauxEntry.name = `Salvación de ${Parser.attAbvToFull(abil)}`;
 				}
 
 				const rawScoreOrMod = rawScoreOrModParts.join(" ");
@@ -9976,7 +9976,7 @@ Renderer.monster = class {
 				green: ["Rayo nauseabundo", "charm person", "detect thoughts", "invisibilidad", "suggestion"],
 				white: ["ice knife|XGE", "Snilloc's snowball swarm|XGE"],
 				brass: ["see invisibility", "magic mouth", "blindness/deafness", "Dormir", "detect thoughts"],
-				bronze: ["gust of wind", "misty step", "locate object", "blur", "witch bolt", "thunderwave", "escudo"],
+				bronze: ["gust of wind", "misty step", "locate object", "contorno borroso", "witch bolt", "thunderwave", "escudo"],
 				copper: ["knock", "Dormir", "detect thoughts", "blindness/deafness", "tasha's hideous laughter"],
 			},
 			3: {
@@ -9986,20 +9986,20 @@ Renderer.monster = class {
 				silver: ["sleet storm", "protection from energy", "catnap|XGE", "locate object", "identify", "Leomund's tiny hut"],
 			},
 			4: {
-				black: ["vitriolic sphere|XGE", "sickening radiance|XGE", "Evard's black tentacles", "blight", "hunger of Hadar"],
-				white: ["fire shield", "ice storm", "sleet storm"],
+				black: ["vitriolic sphere|XGE", "sickening radiance|XGE", "Evard's black tentacles", "marchitar", "hunger of Hadar"],
+				white: ["fire shield", "tormenta de hielo", "sleet storm"],
 				brass: ["charm monster|XGE", "sending", "wall of sand|XGE", "hypnotic pattern", "tongues"],
 				copper: ["polymorph", "greater invisibility", "confusion", "stinking cloud", "major image", "charm monster|XGE"],
 			},
 			5: {
-				blue: ["telekinesis", "hold monster", "dimension door", "wall of stone", "wall of force"],
+				blue: ["telekinesis", "hold monster", "dimension door", "muro de piedra", "wall of force"],
 				green: ["cloudkill", "charm monster|XGE", "modify memory", "mislead", "hallucinatory terrain", "dimension door"],
 				bronze: ["steel wind strike|XGE", "control winds|XGE", "watery sphere|XGE", "storm sphere|XGE", "tidal wave|XGE"],
 				gold: ["hold monster", "immolation|XGE", "wall of fire", "greater invisibility", "dimension door"],
-				silver: ["cone of cold", "ice storm", "teleportation circle", "skill empowerment|XGE", "creation", "Mordenkainen's private sanctum"],
+				silver: ["cono de frío", "tormenta de hielo", "teleportation circle", "skill empowerment|XGE", "creation", "Mordenkainen's private sanctum"],
 			},
 			6: {
-				white: ["cone of cold", "wall of ice"],
+				white: ["cono de frío", "wall of ice"],
 				brass: ["scrying", "Enlace telepático de Rary", "Otto's irresistible dance", "legend lore", "hold monster", "dream"],
 			},
 			7: {
@@ -10049,7 +10049,7 @@ Renderer.monster = class {
 				silver: ["beacon of hope", "calm emotions", "hold person", "polymorph", "zone of truth"],
 			},
 			6: {
-				white: ["gust of wind", "ice storm"],
+				white: ["gust of wind", "tormenta de hielo"],
 				brass: ["create or destroy water", "locate creature", "speak with animals", "suggestion"],
 				deep: ["command", "dissonant whispers", "faerie fire", "passwall", "water breathing"],
 			},
@@ -10714,7 +10714,7 @@ Renderer.monster = class {
 				const colClass = i % 5 === 0
 					? "stats-tbl-ability-scores__lbl-abv"
 					: i % 5 === 4 ? "stats-tbl-ability-scores__lbl-spacer" : "stats-tbl-ability-scores__lbl-score";
-				return `<td class="${colClass}"><div class="ve-muted ve-text-center small-caps">${i % 5 === 2 ? "mod" : i % 5 === 3 ? "save" : ""}</div></td>`;
+				return `<td class="${colClass}"><div class="ve-muted ve-text-center small-caps">${i % 5 === 2 ? "mod." : i % 5 === 3 ? "salv." : ""}</div></td>`;
 			},
 		)
 			.join("");

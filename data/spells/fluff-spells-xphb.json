@@ -71,14 +71,14 @@
 			]
 		},
 		{
-			"name": "Cone of Cold",
+			"name": "Cono de frío",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Cone of Cold.webp"
+						"path": "spells/XPHB/Cono de frío.webp"
 					},
 					"credit": "Randy Vargas"
 				}

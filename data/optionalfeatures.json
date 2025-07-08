@@ -637,7 +637,7 @@
 						"_": {
 							"resource": {
 								"6": [
-									"cone of cold"
+									"cono de frío"
 								]
 							}
 						}
@@ -647,7 +647,7 @@
 				}
 			],
 			"entries": [
-				"You can spend 6 ki points to cast {@spell cone of cold}."
+				"You can spend 6 ki points to cast {@spell cono de frío}."
 			]
 		},
 		{
@@ -5068,7 +5068,7 @@
 						"_": {
 							"resource": {
 								"6": [
-									"wall of stone"
+									"muro de piedra"
 								]
 							}
 						}

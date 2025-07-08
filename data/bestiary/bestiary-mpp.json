@@ -3004,7 +3004,7 @@
 					"daily": {
 						"1e": [
 							"{@spell dispel magic}",
-							"{@spell ice storm}"
+							"{@spell tormenta de hielo}"
 						]
 					},
 					"ability": "int",

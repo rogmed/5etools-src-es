@@ -4162,8 +4162,8 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell cone of cold}",
-							"{@spell ice storm}",
+							"{@spell cono de frío}",
+							"{@spell tormenta de hielo}",
 							"{@spell wall of ice}"
 						]
 					},
@@ -14423,7 +14423,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell ice storm}",
+							"{@spell tormenta de hielo}",
 							"{@spell lightning bolt}",
 							"{@spell mage armor}"
 						],
@@ -16527,7 +16527,7 @@
 					"will": [
 						"{@spell alter self} (can become Medium when changing his appearance)",
 						"{@spell detect magic}",
-						"{@spell ice storm}",
+						"{@spell tormenta de hielo}",
 						"{@spell invisibility} (self only)",
 						"{@spell locate object}",
 						"{@spell suggestion}",
@@ -31636,7 +31636,7 @@
 						],
 						"1e": [
 							"{@spell cloudkill}",
-							"{@spell cone of cold}"
+							"{@spell cono de frío}"
 						]
 					},
 					"ability": "cha",

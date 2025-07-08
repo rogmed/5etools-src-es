@@ -122,7 +122,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell ice storm}",
+								"{@spell tormenta de hielo}",
 								"{@spell storm sphere|xge}"
 							]
 						},
@@ -2351,7 +2351,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell control water}",
-								"{@spell ice storm}"
+								"{@spell tormenta de hielo}"
 							]
 						},
 						"5": {
@@ -4228,7 +4228,7 @@
 							"{@spell storm of vengeance}"
 						],
 						"3": [
-							"{@spell ice storm}"
+							"{@spell tormenta de hielo}"
 						]
 					},
 					"ability": "cha"

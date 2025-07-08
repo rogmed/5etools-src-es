@@ -994,7 +994,7 @@
 							"{@spell globe of invulnerability}",
 							"{@spell haste}",
 							"{@spell hypnotic pattern}",
-							"{@spell ice storm}",
+							"{@spell tormenta de hielo}",
 							"{@spell lightning bolt}",
 							"{@spell Mordenkainen's sword}",
 							"{@spell wall of force}"
@@ -2664,7 +2664,7 @@
 						"1e": [
 							"{@spell detect magic}",
 							"{@spell dispel magic}",
-							"{@spell ice storm}",
+							"{@spell tormenta de hielo}",
 							"{@spell stone shape}",
 							"{@spell teleport}"
 						]
@@ -3377,7 +3377,7 @@
 						"2e": [
 							"{@spell darkness}",
 							"{@spell detect thoughts}",
-							"{@spell ice storm}"
+							"{@spell tormenta de hielo}"
 						],
 						"1e": [
 							"{@spell banishment}",
@@ -5088,13 +5088,13 @@
 							"slots": 3,
 							"spells": [
 								"{@spell greater invisibility}",
-								"{@spell ice storm}"
+								"{@spell tormenta de hielo}"
 							]
 						},
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell cone of cold}"
+								"{@spell cono de frío}"
 							]
 						}
 					},
@@ -6040,7 +6040,7 @@
 						"2e": [
 							"{@spell control weather} (cast as 1 action)",
 							"{@spell fly}",
-							"{@spell ice storm}"
+							"{@spell tormenta de hielo}"
 						],
 						"1e": [
 							"{@spell arcane eye}",
@@ -8024,7 +8024,7 @@
 							"{@spell magic missile}"
 						],
 						"1e": [
-							"{@spell cone of cold}",
+							"{@spell cono de frío}",
 							"{@spell contact other plane} (cast as 1 action)",
 							"{@spell greater invisibility}",
 							"{@spell mass suggestion}",

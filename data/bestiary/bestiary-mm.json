@@ -8662,7 +8662,7 @@
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell cone of cold}",
+								"{@spell cono de frío}",
 								"{@spell scrying}",
 								"{@spell wall of force}"
 							]
@@ -41067,7 +41067,7 @@
 				{
 					"name": "Frost Breath {@recharge}",
 					"entries": [
-						"The mephit exhales a 15-foot cone of cold air. Each creature in that area must succeed on a {@dc 10} Dexterity saving throw, taking 5 ({@damage 2d4}) cold damage on a failed save, or half as much damage on a successful one."
+						"The mephit exhales a 15-foot cono de frío air. Each creature in that area must succeed on a {@dc 10} Dexterity saving throw, taking 5 ({@damage 2d4}) cold damage on a failed save, or half as much damage on a successful one."
 					]
 				}
 			],
@@ -45221,7 +45221,7 @@
 							"spells": [
 								"{@spell saber druídico}",
 								"{@spell crear llama}",
-								"{@spell thorn whip}"
+								"{@spell látigo de espinas}"
 							]
 						},
 						"1": {
@@ -45543,13 +45543,13 @@
 							"slots": 3,
 							"spells": [
 								"{@spell greater invisibility}",
-								"{@spell ice storm}"
+								"{@spell tormenta de hielo}"
 							]
 						},
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell cone of cold}"
+								"{@spell cono de frío}"
 							]
 						}
 					},
@@ -51970,7 +51970,7 @@
 					"daily": {
 						"1e": [
 							"{@spell charm person}",
-							"{@spell cone of cold}",
+							"{@spell cono de frío}",
 							"{@spell gaseous form}",
 							"{@spell sleep}"
 						]

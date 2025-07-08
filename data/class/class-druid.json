@@ -563,21 +563,21 @@
 	],
 	"subclass": [
 		{
-			"name": "Circle of the Land",
-			"shortName": "Land",
+			"name": "Círculo de la tierra",
+			"shortName": "Tierra",
 			"source": "XPHB",
 			"className": "Druida",
 			"classSource": "XPHB",
-			"page": 84,
+			"page": 98,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
 			"additionalSpells": [
 				{
-					"name": "Arid Land",
+					"name": "Terreno árido",
 					"prepared": {
 						"3": [
-							"blur|xphb",
+							"contorno borroso|xphb",
 							"burning hands|xphb",
 							"fire bolt|xphb"
 						],
@@ -585,15 +585,15 @@
 							"fireball|xphb"
 						],
 						"7": [
-							"blight|xphb"
+							"marchitar|xphb"
 						],
 						"9": [
-							"wall of stone|xphb"
+							"muro de piedra|xphb"
 						]
 					}
 				},
 				{
-					"name": "Polar Land",
+					"name": "Terreno polar",
 					"prepared": {
 						"3": [
 							"fog cloud|xphb",
@@ -604,10 +604,10 @@
 							"sleet storm|xphb"
 						],
 						"7": [
-							"ice storm|xphb"
+							"tormenta de hielo|xphb"
 						],
 						"9": [
-							"cone of cold|xphb"
+							"cono de frío|xphb"
 						]
 					}
 				},
@@ -617,7 +617,7 @@
 						"3": [
 							"misty step|xphb",
 							"shocking grasp|xphb",
-							"sleep|xphb"
+							"dormir|xphb"
 						],
 						"5": [
 							"lightning bolt|xphb"
@@ -651,10 +651,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Circle of the Land|Druida|XPHB|Land|XPHB|3",
-				"Natural Recovery|Druida|XPHB|Land|XPHB|6",
-				"Nature's Ward|Druida|XPHB|Land|XPHB|10",
-				"Nature's Sanctuary|Druida|XPHB|Land|XPHB|14"
+				"Círculo de la tierra|Druida|XPHB|Tierra|XPHB|3",
+				"Natural Recovery|Druida|XPHB|Tierra|XPHB|6",
+				"Nature's Ward|Druida|XPHB|Tierra|XPHB|10",
+				"Nature's Sanctuary|Druida|XPHB|Tierra|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
@@ -1295,48 +1295,64 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Circle of the Land",
+			"name": "Círculo de la tierra",
 			"source": "XPHB",
-			"page": 84,
+			"page": 98,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Land",
+			"subclassShortName": "Tierra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Celebrate Connection to the Natural World}",
-				"The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druídico. The circle's wisest members preside as the chief priests of their communities.",
+				"{@i Celebra el vínculo con el mundo natural}",
+				"El círculo de la tierra se compone de místicos y sabios que custodian ritos y conocimientos antiguos. Estos druidas se reúnen en torno a círculos sagrados de árboles o menhires para susurrar secretos primordiales en lengua druídica. Los miembros más sabios del círculo son los sumos sacerdotes de sus comunidades.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Circle of the Land Spells|Druida|XPHB|Land|XPHB|3"
+					"subclassFeature": "Ayuda de la tierra|Druida|XPHB|Tierra|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Land's Aid|Druida|XPHB|Land|XPHB|3"
+					"subclassFeature": "Conjuros del círculo de la tierra|Druida|XPHB|Tierra|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Circle of the Land Spells",
+			"name": "Ayuda de la tierra",
 			"source": "XPHB",
-			"page": 84,
+			"page": 98,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Land",
+			"subclassShortName": "Tierra",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"Whenever you finish a {@variantrule Descanso largo|XPHB}, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.",
+				"Como acción de magia, puedes gastar un uso de tu rasgo Forma salvaje y elegir un punto a 60 pies (18 m) o menos de ti. Unas flores que otorgan vitalidad y espinas que la absorben aparecen por un instante en una esfera de 10 pies (3 m) de radio centrada en ese punto. Todas las criaturas de tu elección situadas en la esfera deberán hacer una tirada de salvación de Constitución contra tu CD de salvación de conjuros; sufrirán {@damage 2d6} de daño necrótico si la fallan o la mitad del daño si la superan. Además, una criatura de tu elección situada en esa zona recuperará {@dice 2d6} puntos de golpe.",
+				"El daño y la curación aumentan en {@dice 1d6} cuando alcances los niveles 10 ({@dice 3d6}) y 14 ({@dice 4d6}) de druida."
+			]
+		},
+		{
+			"name": "Conjuros del círculo de la tierra",
+			"source": "XPHB",
+			"page": 98,
+			"srd52": true,
+			"basicRules2024": true,
+			"className": "Druida",
+			"classSource": "XPHB",
+			"subclassShortName": "Tierra",
+			"subclassSource": "XPHB",
+			"level": 3,
+			"entries": [
+				"Tras finalizar un descanso largo, elige un tipo de terreno: árido, polar, templado o tropical. Consulta a continuación la tabla que se corresponda con el tipo elegido. Tendrás preparados los conjuros que se mencionan para tu nivel de druida e inferiores.",
 				{
 					"type": "table",
-					"caption": "Arid Land",
+					"caption": "Terreno árido",
 					"colLabels": [
-						"Druid Level",
-						"Circle Spells"
+						"Nivel de druida",
+						"Conjuros de círculo"
 					],
 					"colStyles": [
 						"col-1 text-center",
@@ -1344,29 +1360,29 @@
 					],
 					"rows": [
 						[
-							"3rd",
-							"{@spell Blur|XPHB}, {@spell Burning Hands|XPHB}, {@spell Descarga de fuego|XPHB}"
+							"3",
+							"{@spell Contorno borroso|XPHB}, {@spell Descarga de fuego|XPHB}, {@spell Manos ardientes|XPHB}"
 						],
 						[
-							"5th",
+							"5",
 							"{@spell Bola de fuego|XPHB}"
 						],
 						[
-							"7th",
-							"{@spell Blight|XPHB}"
+							"7",
+							"{@spell Marchitar|XPHB}"
 						],
 						[
-							"9th",
-							"{@spell Wall of Stone|XPHB}"
+							"9",
+							"{@spell Muro de piedra|XPHB}"
 						]
 					]
 				},
 				{
 					"type": "table",
-					"caption": "Polar Land",
+					"caption": "Terreno polar",
 					"colLabels": [
-						"Druid Level",
-						"Circle Spells"
+						"Nivel de druida",
+						"Conjuros de círculo"
 					],
 					"colStyles": [
 						"col-1 text-center",
@@ -1374,20 +1390,20 @@
 					],
 					"rows": [
 						[
-							"3rd",
-							"{@spell Fog Cloud|XPHB}, {@spell Inmovilizar persona|XPHB}, {@spell Rayo de escarcha|XPHB}"
+							"3",
+							"{@spell Inmovilizar persona|XPHB}, {@spell Nube de oscurecimiento|XPHB}, {@spell Rayo de escarcha|XPHB}"
 						],
 						[
-							"5th",
-							"{@spell Sleet Storm|XPHB}"
+							"5",
+							"{@spell Tormenta de aguanieve|XPHB}"
 						],
 						[
-							"7th",
-							"{@spell Ice Storm|XPHB}"
+							"7",
+							"{@spell Tormenta de hielo|XPHB}"
 						],
 						[
-							"9th",
-							"{@spell Cone of Cold|XPHB}"
+							"9",
+							"{@spell Cono de frío|XPHB}"
 						]
 					]
 				},
@@ -1395,8 +1411,8 @@
 					"type": "table",
 					"caption": "Temperate Land",
 					"colLabels": [
-						"Druid Level",
-						"Circle Spells"
+						"Nivel de druida",
+						"Conjuros de círculo"
 					],
 					"colStyles": [
 						"col-1 text-center",
@@ -1405,7 +1421,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell Paso brumoso|XPHB}, {@spell Agarre electrizante|XPHB}, {@spell Sleep|XPHB}"
+							"{@spell Paso brumoso|XPHB}, {@spell Agarre electrizante|XPHB}, {@spell Dormir|XPHB}"
 						],
 						[
 							"5th",
@@ -1425,8 +1441,8 @@
 					"type": "table",
 					"caption": "Tropical Land",
 					"colLabels": [
-						"Druid Level",
-						"Circle Spells"
+						"Nivel de druida",
+						"Conjuros de círculo"
 					],
 					"colStyles": [
 						"col-1 text-center",
@@ -1454,30 +1470,14 @@
 			]
 		},
 		{
-			"name": "Land's Aid",
-			"source": "XPHB",
-			"page": 85,
-			"srd52": true,
-			"basicRules2024": true,
-			"className": "Druida",
-			"classSource": "XPHB",
-			"subclassShortName": "Land",
-			"subclassSource": "XPHB",
-			"level": 3,
-			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend a use of your Forma salvaje and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on that point. Each creature of your choice in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} must make a Constitution saving throw against your spell save DC, taking {@damage 2d6} Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains {@dice 2d6} {@variantrule Hit Points|XPHB}.",
-				"The damage and healing increase by {@dice 1d6} when you reach Druid levels 10 ({@dice 3d6}) and 14 ({@dice 4d6})."
-			]
-		},
-		{
 			"name": "Natural Recovery",
 			"source": "XPHB",
-			"page": 85,
+			"page": 99,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Land",
+			"subclassShortName": "Tierra",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
@@ -1489,12 +1489,12 @@
 		{
 			"name": "Nature's Ward",
 			"source": "XPHB",
-			"page": 85,
+			"page": 99,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Land",
+			"subclassShortName": "Tierra",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
@@ -1540,12 +1540,12 @@
 		{
 			"name": "Nature's Sanctuary",
 			"source": "XPHB",
-			"page": 86,
+			"page": 99,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Land",
+			"subclassShortName": "Tierra",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
@@ -1632,7 +1632,7 @@
 					"type": "table",
 					"caption": "Circle of the Moon Spells",
 					"colLabels": [
-						"Druid Level",
+						"Nivel de druida",
 						"Prepared Spells"
 					],
 					"colStyles": [
@@ -1778,7 +1778,7 @@
 					"type": "table",
 					"caption": "Circle of the Sea Spells",
 					"colLabels": [
-						"Druid Level",
+						"Nivel de druida",
 						"Prepared Spells"
 					],
 					"colStyles": [
@@ -1788,7 +1788,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell Fog Cloud|XPHB}, {@spell Gust of Wind|XPHB}, {@spell Rayo de escarcha|XPHB}, {@spell Hacer añicos|XPHB}, {@spell Thunderwave|XPHB}"
+							"{@spell Nube de oscurecimiento|XPHB}, {@spell Gust of Wind|XPHB}, {@spell Rayo de escarcha|XPHB}, {@spell Hacer añicos|XPHB}, {@spell Thunderwave|XPHB}"
 						],
 						[
 							"5th",
@@ -1796,7 +1796,7 @@
 						],
 						[
 							"7th",
-							"{@spell Control Water|XPHB}, {@spell Ice Storm|XPHB}"
+							"{@spell Control Water|XPHB}, {@spell Tormenta de hielo|XPHB}"
 						],
 						[
 							"9th",

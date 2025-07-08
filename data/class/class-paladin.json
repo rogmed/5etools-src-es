@@ -866,7 +866,7 @@
 							"protection from energy"
 						],
 						"13": [
-							"ice storm",
+							"tormenta de hielo",
 							"stoneskin"
 						],
 						"17": [
@@ -993,7 +993,7 @@
 							"bestow curse"
 						],
 						"13": [
-							"blight",
+							"marchitar",
 							"confusion"
 						],
 						"17": [
@@ -1575,7 +1575,7 @@
 							"protection from energy|xphb"
 						],
 						"13": [
-							"ice storm|xphb",
+							"tormenta de hielo|xphb",
 							"stoneskin|xphb"
 						],
 						"17": [
@@ -2706,7 +2706,7 @@
 						],
 						[
 							"13th",
-							"{@spell ice storm}, {@spell stoneskin}"
+							"{@spell tormenta de hielo}, {@spell stoneskin}"
 						],
 						[
 							"17th",
@@ -4904,7 +4904,7 @@
 						],
 						[
 							"13th",
-							"{@spell Ice Storm|XPHB}, {@spell Stoneskin|XPHB}"
+							"{@spell Tormenta de hielo|XPHB}, {@spell Stoneskin|XPHB}"
 						],
 						[
 							"17th",

@@ -9085,7 +9085,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Ice Storm",
+			"name": "Tormenta de hielo",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -13728,7 +13728,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Sleet Storm",
+			"name": "Tormenta de aguanieve",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -14681,7 +14681,7 @@
 							"uuid": "@creature[bestial spirit (air)|tce]"
 						},
 						{
-							"name": "Land",
+							"name": "Tierra",
 							"uuid": "@creature[bestial spirit (land)|tce]"
 						},
 						{
@@ -15976,7 +15976,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Thorn Whip",
+			"name": "Látigo de espinas",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -16922,7 +16922,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Wall of Stone",
+			"name": "Muro de piedra",
 			"source": "XPHB",
 			"activities": [
 				{

@@ -7189,10 +7189,10 @@
 			]
 		},
 		{
-			"name": "Evard's Black Tentacles",
-			"originalname": "",
+			"name": "Tentáculos negros de Evard",
+			"originalname": "Evard's Black Tentacles",
 			"source": "XPHB",
-			"page": 270,
+			"page": 337,
 			"srd52": "Black Tentacles",
 			"basicRules2024": true,
 			"level": 4,
@@ -7213,7 +7213,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a tentacle"
+				"m": "un tentáculo"
 			},
 			"duration": [
 				{
@@ -7226,9 +7226,9 @@
 				}
 			],
 			"entries": [
-				"Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into {@variantrule Difficult Terrain|XPHB}.",
-				"Each creature in that area makes a Strength saving throw. On a failed save, it takes {@damage 3d6} Bludgeoning damage, and it has the {@condition Apresado|XPHB} condition until the spell ends. A creature also makes that save if it enters the area or ends it turn there. A creature makes that save only once per turn.",
-				"A {@condition Apresado|XPHB} creature can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC, ending the condition on itself on a success."
+				"Unos tentáculos color ébano que se retuercen llenan un cuadrado en el suelo de 20 pies (6 m) de lado que puedas ver dentro del alcance. Hasta que termine el conjuro, estos tentáculos convertirán la zona en terreno difícil.",
+				"Todas las criaturas situadas en esa zona hacen una tirada de salvación de Fuerza. Si la fallan, sufrirán {@damage 3d6} de daño contundente y tendrán el estado de {@condition Apresado|XPHB|apresadas} hasta que el conjuro termine. Una criatura también deberá hacer la tirada si entra en la zona o termina su turno en ella. Cada criatura solo hace esta tirada una vez por turno.",
+				"Una criatura {@condition Apresado|XPHB|apresada} puede emplear una acción para hacer una prueba de Fuerza ({@skill Atletismo|XPHB}) contra tu CD de salvación de conjuros y, si la supera, pondrá fin a su estado."
 			],
 			"damageInflict": [
 				"bludgeoning"
@@ -10815,10 +10815,10 @@
 			]
 		},
 		{
-			"name": "Hunger of Hadar",
-			"originalname": "",
+			"name": "Hambre de Hadar",
+			"originalname": "Hunger of Hadar",
 			"source": "XPHB",
-			"page": 286,
+			"page": 290,
 			"level": 3,
 			"school": "C",
 			"time": [
@@ -10837,7 +10837,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a pickled tentacle"
+				"m": "un tentáculo en salmuera"
 			},
 			"duration": [
 				{
@@ -10850,15 +10850,15 @@
 				}
 			],
 			"entries": [
-				"You open a gateway to the Far Realm, a region infested with unspeakable horrors. A 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} of {@variantrule Darkness|XPHB} appears, centered on a point with range and lasting for the duration. The {@variantrule Sphere [Area of Effect]|XPHB|Sphere} is {@variantrule Difficult Terrain|XPHB}, and it is filled with strange whispers and slurping noises, which can be heard up to 30 feet away. No light, magical or otherwise, can illuminate the area, and creatures fully within it have the {@condition Cegado|XPHB} condition.",
-				"Any creature that starts its turn in the area takes {@damage 2d6} Cold damage. Any creature that ends its turn there must succeed on a Dexterity saving throw or take {@damage 2d6} Acid damage from otherworldly tentacles."
+				"Abres un portal al Reino Lejano, una región infestada de horrores ignotos. Aparece una esfera de oscuridad de 20 pies (6 m) de radio centrada en un punto dentro del alcance y que permanece hasta que el conjuro termine. La esfera se considera terreno difícil y está llena de susurros extraños y sonidos de succión, audibles a 30 pies (9 m) de distancia. Ninguna luz mágica u ordinaria puede iluminar la zona, y las criaturas completamente dentro de ella tendrán el estado de {@condition Cegado|XPHB|cegadas}.",
+				"Cualquier criatura que comience su turno dentro de la zona recibirá {@damage 2d6} de daño de frío. Cualquier criatura que termine su turno dentro deberá superar una tirada de salvación de Destreza o recibirá {@damage 2d6} de daño de ácido de unos tentáculos sobrenaturales."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The Cold or Acid damage (your choice) increases by {@scaledamage 2d6|3-9|1d6} for each spell slot level above 3."
+						"El daño de frío o de ácido (a tu elección) aumenta en {@scaledamage 2d6|3-9|1d6} por cada nivel por encima de 3 que tenga el espacio."
 					]
 				}
 			],
@@ -15818,10 +15818,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Rary's Telepathic Bond",
-			"originalname": "",
+			"name": "Enlace telepático de Rary",
+			"originalname": "Rary's Telepathic Bond",
 			"source": "XPHB",
-			"page": 311,
+			"page": 277,
 			"srd52": "Telepathic Bond",
 			"basicRules2024": true,
 			"level": 5,
@@ -15842,7 +15842,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "two eggs"
+				"m": "dos huevos"
 			},
 			"duration": [
 				{
@@ -15857,8 +15857,8 @@
 				"ritual": true
 			},
 			"entries": [
-				"You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures that can't communicate in any languages aren't affected by this spell.",
-				"Until the spell ends, the targets can communicate telepathically through the bond whether or not they share a language. The communication is possible over any distance, though it can't extend to other planes of existence."
+				"Forjas un enlace telepático entre hasta ocho criaturas voluntarias de tu elección dentro del alcance y las vinculas psíquicamente unas con otras hasta que termine el conjuro. Las criaturas que no pueden comunicarse mediante idiomas no se ven afectadas.",
+				"Hasta que el conjuro termine, los objetivos se pueden comunicar telepáticamente usando el enlace, tanto si comparten idioma como si no. Esta comunicación se puede producir a cualquier distancia, pero no se extiende a otros planos de existencia."
 			],
 			"areaTags": [
 				"MT"
@@ -16872,10 +16872,10 @@
 			]
 		},
 		{
-			"name": "Sending",
-			"originalname": "",
+			"name": "Recado",
+			"originalname": "Sending",
 			"source": "XPHB",
-			"page": 314,
+			"page": 326,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -16895,7 +16895,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a copper wire"
+				"m": "un alambre de cobre)"
 			},
 			"duration": [
 				{
@@ -16903,9 +16903,9 @@
 				}
 			],
 			"entries": [
-				"You send a short message of 25 words or fewer to a creature you have met or a creature described to you by someone who has met it. The target hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables targets to understand the meaning of your message.",
-				"You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a {@chance 5|||Message lost!|Message arrives} chance that the message doesn't arrive. You know if the delivery fails.",
-				"Upon receiving your message, a creature can block your ability to reach it again with this spell for 8 hours. If you try to send another message during that time, you learn that you are blocked, and the spell fails."
+				"Envías un mensaje corto de 25 palabras o menos a una criatura que conozcas o a una criatura que te haya descrito alguien que la conozca. El objetivo escucha el mensaje en su mente, te reconoce como emisor si sabe quién eres y puede responder de manera similar inmediatamente. El conjuro permite que los objetivos comprendan el significado del mensaje.",
+				"Puedes enviar el mensaje a cualquier distancia e incluso a otros planos de existencia, pero si el objetivo está en un plano diferente al tuyo, existe una probabilidad del {@chance 5|||Mensaje perdido!|Mensaje recibido} de que el mensaje no llegue. Si el mensaje no llega, lo sabrás.",
+				"Al recibir tu mensaje, una criatura puede impedir que te pongas en contacto con ella otra vez con este conjuro durante 8 horas. Si intentas enviarle otro mensaje durante ese tiempo, sabrás que te ha bloqueado y el conjuro fallará."
 			]
 		},
 		{
@@ -18617,10 +18617,10 @@
 			]
 		},
 		{
-			"name": "Summon Aberration",
-			"originalname": "",
+			"name": "Invocar aberración",
+			"originalname": "Summon Aberration",
 			"source": "XPHB",
-			"page": 322,
+			"page": 296,
 			"level": 4,
 			"school": "C",
 			"time": [
@@ -18640,7 +18640,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "a pickled tentacle and an eyeball in a platinum-inlaid vial worth 400+ GP",
+					"text": "un tentáculo en salmuera y un globo ocular en un vial con incrustaciones de platino que valga al menos 400 po",
 					"cost": 40000
 				}
 			},
@@ -18655,8 +18655,8 @@
 				}
 			],
 			"entries": [
-				"You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range and uses the {@creature Aberrant Spirit|XPHB} stat block. When you cast the spell, choose Beholderkin, Mind Flayer, or Slaad. The creature resembles an Aberration of that kind, which determines certain details in its stat block. The creature disappears when it drops to 0 {@variantrule Hit Points|XPHB} or when the spell ends.",
-				"The creature is an ally to you and your allies. In combat, it shares your {@variantrule Initiative|XPHB} count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the {@action Dodge|XPHB} action and uses its movement to avoid danger."
+				"Invocas un espíritu aberrante que se manifiesta en un espacio sin ocupar que puedas ver dentro del alcance y usa el perfil del {@creature espíritu aberrante|XPHB}. Cuando lances el conjuro, elige {@creature Espíritu aberrante (azotamentes)|XPHB|azotamentes}, contemplador o slaad. La criatura se parecerá a una aberración de ese tipo, lo que determinará ciertos detalles de su perfil. La criatura desaparecerá si sus puntos de golpe se reducen a 0 o si el conjuro termina.",
+				"La criatura se considera un aliado para tus aliados y para ti. En combate, comparte tu orden de iniciativa, pero su turno va justo después del tuyo, obedece tus órdenes verbales (no requiere acción) y, si no le das ninguna, realiza la acción de esquivar y usa su movimiento para evitar el peligro."
 			],
 			"entriesHigherLevel": [
 				{

@@ -6137,7 +6137,7 @@
 						{
 							"type": "item",
 							"name": "Telepathic Enhancement",
-							"entry": "The dragon's psionic energy enhances the mental powers of other creatures. Any creature capable of telepathic communication has its telepathy range doubled while within 1 mile of the lair. This includes creatures with innate telepathy and magical telepathy such as the {@spell Rary's telepathic bond} spell."
+							"entry": "The dragon's psionic energy enhances the mental powers of other creatures. Any creature capable of telepathic communication has its telepathy range doubled while within 1 mile of the lair. This includes creatures with innate telepathy and magical telepathy such as the {@spell Enlace telepático de Rary} spell."
 						},
 						{
 							"type": "item",

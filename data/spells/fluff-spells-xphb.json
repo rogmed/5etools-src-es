@@ -169,14 +169,14 @@
 			]
 		},
 		{
-			"name": "Evard's Black Tentacles",
+			"name": "Tentáculos negros de Evard",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Evard's Black Tentacles.webp"
+						"path": "spells/XPHB/Tentáculos negros de Evard.webp"
 					},
 					"credit": "Craig J Spearing"
 				}
@@ -253,7 +253,7 @@
 			]
 		},
 		{
-			"name": "Hunger of Hadar",
+			"name": "Hambre de Hadar",
 			"source": "XPHB",
 			"images": [
 				{
@@ -477,14 +477,14 @@
 			]
 		},
 		{
-			"name": "Summon Aberration",
+			"name": "Invocar aberración",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Summon Aberration.webp"
+						"path": "spells/XPHB/Invocar aberración.webp"
 					},
 					"credit": "Justine Cruz"
 				}

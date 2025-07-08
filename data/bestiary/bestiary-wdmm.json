@@ -3842,7 +3842,7 @@
 							"5": [
 								{
 									"replace": "{@spell scrying}",
-									"with": "{@spell Rary's telepathic bond}"
+									"with": "{@spell Enlace telepático de Rary}"
 								}
 							]
 						}

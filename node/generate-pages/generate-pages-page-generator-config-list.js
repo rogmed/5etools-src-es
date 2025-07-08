@@ -538,9 +538,9 @@ class _PageGeneratorListSpells extends PageGeneratorListBase {
 	_btnsList = [
 		HtmlGeneratorListButtons.getBtn({width: "2-9", sortIdent: "name", text: "Nombre"}),
 		HtmlGeneratorListButtons.getBtn({width: "1-5", sortIdent: "level", text: "Nivel"}),
-		HtmlGeneratorListButtons.getBtn({width: "1-7", sortIdent: "time", text: "Tiempo de lanz."}),
+		HtmlGeneratorListButtons.getBtn({width: "1-7", sortIdent: "time", text: "Tiempo"}),
 		HtmlGeneratorListButtons.getBtn({width: "1-2", sortIdent: "school", text: "Escuela"}),
-		HtmlGeneratorListButtons.getBtn({width: "0-6", sortIdent: "concentration", title: "Concentration", text: "Especial"}),
+		HtmlGeneratorListButtons.getBtn({width: "0-6", sortIdent: "concentration", title: "Concentration", text: "C."}),
 		HtmlGeneratorListButtons.getBtn({width: "2-4", sortIdent: "range", text: "Alcance"}),
 		HtmlGeneratorListButtons.getBtnSource(),
 	];
@@ -548,9 +548,9 @@ class _PageGeneratorListSpells extends PageGeneratorListBase {
 	_btnsSublist = [
 		HtmlGeneratorListButtons.getBtn({width: "3-2", sortIdent: "name", text: "Nombre"}),
 		HtmlGeneratorListButtons.getBtn({width: "1-5", sortIdent: "level", text: "Nivel"}),
-		HtmlGeneratorListButtons.getBtn({width: "1-8", sortIdent: "time", text: "Tiempo de lanz."}),
+		HtmlGeneratorListButtons.getBtn({width: "1-8", sortIdent: "time", text: "Tiempo"}),
 		HtmlGeneratorListButtons.getBtn({width: "1-6", sortIdent: "school", text: "Escuela"}),
-		HtmlGeneratorListButtons.getBtn({width: "0-7", sortIdent: "concentration", title: "Concentration", text: "Especial"}),
+		HtmlGeneratorListButtons.getBtn({width: "0-7", sortIdent: "concentration", title: "Concentration", text: "C."}),
 		HtmlGeneratorListButtons.getBtn({width: "3-2", sortIdent: "range", text: "Alcance"}),
 	];
 

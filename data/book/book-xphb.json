@@ -12773,7 +12773,7 @@
 								"{@spell Enmarañar|XPHB}",
 								"{@spell Embelesar|XPHB}",
 								"{@spell Etherealness|XPHB}",
-								"{@spell Evard's Black Tentacles|XPHB}",
+								"{@spell Tentáculos negros de Evard|XPHB}",
 								"{@spell Expeditious Retreat|XPHB}",
 								"{@spell Eyebite|XPHB}"
 							]
@@ -12857,7 +12857,7 @@
 								"{@spell Inmovilizar monstruo|XPHB}",
 								"{@spell Inmovilizar persona|XPHB}",
 								"{@spell Holy Aura|XPHB}",
-								"{@spell Hunger of Hadar|XPHB}",
+								"{@spell Hambre de Hadar|XPHB}",
 								"{@spell Marca del cazador|XPHB}",
 								"{@spell Hypnotic Pattern|XPHB}"
 							]
@@ -13012,7 +13012,7 @@
 							"columns": 3,
 							"items": [
 								"{@spell Raise Dead|XPHB}",
-								"{@spell Rary's Telepathic Bond|XPHB}",
+								"{@spell Enlace telepático de Rary|XPHB}",
 								"{@spell Ray of Enfeeblement|XPHB}",
 								"{@spell Rayo de escarcha|XPHB}",
 								"{@spell Ray of Sickness|XPHB}",
@@ -13038,7 +13038,7 @@
 								"{@spell Searing Smite|XPHB}",
 								"{@spell Ver invisibilidad|XPHB}",
 								"{@spell Apariencia|XPHB}",
-								"{@spell Sending|XPHB}",
+								"{@spell Recado|XPHB}",
 								"{@spell Sequester|XPHB}",
 								"{@spell Shapechange|XPHB}",
 								"{@spell Hacer añicos|XPHB}",
@@ -13070,7 +13070,7 @@
 								"{@spell Stoneskin|XPHB}",
 								"{@spell Storm of Vengeance|XPHB}",
 								"{@spell Sugestión|XPHB}",
-								"{@spell Summon Aberration|XPHB}",
+								"{@spell Invocar aberración|XPHB}",
 								"{@spell Invocar bestia|XPHB}",
 								"{@spell Summon Celestial|XPHB}",
 								"{@spell Summon Construct|XPHB}",

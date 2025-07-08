@@ -4632,11 +4632,11 @@
 						],
 						[
 							"5",
-							"{@spell Clairvoyance|XPHB}, {@spell Hunger of Hadar|XPHB}"
+							"{@spell Clairvoyance|XPHB}, {@spell Hambre de Hadar|XPHB}"
 						],
 						[
 							"7",
-							"{@spell Confusion|XPHB}, {@spell Summon Aberration|XPHB}"
+							"{@spell Confusion|XPHB}, {@spell Invocar aberración|XPHB}"
 						],
 						[
 							"9",
@@ -4714,7 +4714,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"When you cast {@spell Summon Aberration|XPHB}, you can modify it so that it doesn't require {@status Concentration|XPHB}. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of {@variantrule Temporary Hit Points|XPHB} equal to your Warlock level plus your Charisma modifier.",
+				"When you cast {@spell Invocar aberración|XPHB}, you can modify it so that it doesn't require {@status Concentration|XPHB}. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of {@variantrule Temporary Hit Points|XPHB} equal to your Warlock level plus your Charisma modifier.",
 				"In addition, the first time each turn the Aberration hits a creature under the effect of your {@spell Hex|XPHB}, the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell."
 			]
 		}

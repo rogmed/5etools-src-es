@@ -4317,9 +4317,9 @@ Renderer.utils = class {
 				const [rollText, displayText, name, ...others] = Renderer.splitTagByPipe(text);
 				if (displayText) fauxEntry.displayText = displayText;
 
-				if ((!fauxEntry.displayText && (rollText || "").includes("summonSpellLevel")) || (fauxEntry.displayText && fauxEntry.displayText.includes("summonSpellLevel"))) fauxEntry.displayText = (fauxEntry.displayText || rollText || "").replace(/summonSpellLevel/g, "the spell's level");
+				if ((!fauxEntry.displayText && (rollText || "").includes("summonSpellLevel")) || (fauxEntry.displayText && fauxEntry.displayText.includes("summonSpellLevel"))) fauxEntry.displayText = (fauxEntry.displayText || rollText || "").replace(/summonSpellLevel/g, "el nivel del conjuro");
 
-				if ((!fauxEntry.displayText && (rollText || "").includes("summonClassLevel")) || (fauxEntry.displayText && fauxEntry.displayText.includes("summonClassLevel"))) fauxEntry.displayText = (fauxEntry.displayText || rollText || "").replace(/summonClassLevel/g, "your class level");
+				if ((!fauxEntry.displayText && (rollText || "").includes("summonClassLevel")) || (fauxEntry.displayText && fauxEntry.displayText.includes("summonClassLevel"))) fauxEntry.displayText = (fauxEntry.displayText || rollText || "").replace(/summonClassLevel/g, "tu nivel de clase");
 
 				if (name) fauxEntry.name = name;
 
@@ -10000,7 +10000,7 @@ Renderer.monster = class {
 			},
 			6: {
 				white: ["cone of cold", "wall of ice"],
-				brass: ["scrying", "Rary's telepathic bond", "Otto's irresistible dance", "legend lore", "hold monster", "dream"],
+				brass: ["scrying", "Enlace telepático de Rary", "Otto's irresistible dance", "legend lore", "hold monster", "dream"],
 			},
 			7: {
 				black: ["power word pain|XGE", "finger of death", "disintegrate", "hold monster"],

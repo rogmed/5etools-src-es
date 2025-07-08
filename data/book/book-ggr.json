@@ -1175,13 +1175,13 @@
 						},
 						{
 							"type": "entries",
-							"name": "Druid",
+							"name": "Druida",
 							"page": 23,
 							"entries": [
 								"Druid characters are typically associated with the Golgari Swarm, the Gruul Clans, the Selesnya Conclave, and the Simic Combine. Druid circles do not cross guild boundaries; the fact that a Golgari druid and a Selesnya druid both belong to the Circle of the Land does not necessarily create common ground between them.",
 								{
 									"type": "table",
-									"caption": "Druid",
+									"caption": "Druida",
 									"colStyles": [
 										"col-6",
 										"col-6"
@@ -1192,23 +1192,23 @@
 									],
 									"rows": [
 										[
-											"{@class druid||Circle of Dreams|Dreams|XGE}*",
+											"{@class Druida||Circle of Dreams|Dreams|XGE}*",
 											"Selesnya"
 										],
 										[
-											"{@class druid||Circle of Spores|Spores|TCE}**",
+											"{@class Druida||Circle of Spores|Spores|TCE}**",
 											"Golgari"
 										],
 										[
-											"{@class druid||Circle of the Land|Land}",
+											"{@class Druida||Circle of the Land|Land}",
 											"Golgari (forest, swamp, Underdark), Selesnya (forest, grassland), Simic (coast, forest)"
 										],
 										[
-											"{@class druid||Circle of the Moon|Moon}",
+											"{@class Druida||Circle of the Moon|Moon}",
 											"Gruul"
 										],
 										[
-											"{@class druid||Circle of the Shepherd|Shepherd|XGE}*",
+											"{@class Druida||Circle of the Shepherd|Shepherd|XGE}*",
 											"Selesnya"
 										]
 									],
@@ -1614,7 +1614,7 @@
 					"entries": [
 						"Two classes receive subclass options in this section: the cleric and the druid.",
 						"At 1st level, a cleric chooses a Divine Domain. This source adds the {@class cleric|phb|Order Domain|Order|TCE} to the options available to the cleric making that choice.",
-						"At 2nd level, a druid chooses a Druid Circle. This source adds the {@class druid|phb|Circle of Spores|Spores|TCE} to the options available to the druid making that choice."
+						"At 2nd level, a druid chooses a Druid Circle. This source adds the {@class Druida|phb|Circle of Spores|Spores|TCE} to the options available to the druid making that choice."
 					],
 					"id": "02f"
 				}
@@ -13408,7 +13408,7 @@
 									"{@creature Berserker}"
 								],
 								[
-									"Druid",
+									"Druida",
 									"{@creature Druid of the Old Ways|GGR}*"
 								],
 								[

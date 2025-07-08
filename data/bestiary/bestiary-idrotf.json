@@ -2190,7 +2190,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell guidance}",
 								"{@spell resistance}"
 							]
@@ -3437,7 +3437,7 @@
 						"Grandolpha's innate spellcasting ability is Wisdom (spell save {@dc 13}). She can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell mending}",
 						"{@spell poison spray} (see \"Actions\" below)"
 					],
@@ -5167,7 +5167,7 @@
 			"source": "IDRotF",
 			"page": 215,
 			"_copy": {
-				"name": "Druid",
+				"name": "Druida",
 				"source": "MM",
 				"_mod": {
 					"*": [
@@ -5654,13 +5654,13 @@
 			"source": "IDRotF",
 			"page": 152,
 			"_copy": {
-				"name": "Druid",
+				"name": "Druida",
 				"source": "MM",
 				"_mod": {
 					"*": [
 						{
 							"mode": "replaceTxt",
-							"replace": "druid",
+							"replace": "Druida",
 							"with": "shaman"
 						}
 					],

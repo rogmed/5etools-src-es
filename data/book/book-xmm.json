@@ -4341,12 +4341,12 @@
 						},
 						{
 							"type": "section",
-							"name": "Druid",
+							"name": "Druida",
 							"page": 106,
 							"entries": [
 								{
 									"type": "statblock",
-									"name": "Druid",
+									"name": "Druida",
 									"prop": "monsterFluff",
 									"source": "XMM",
 									"data": {
@@ -4367,7 +4367,7 @@
 								},
 								{
 									"type": "statblock",
-									"name": "Druid",
+									"name": "Druida",
 									"tag": "creature",
 									"source": "XMM",
 									"style": "narrow"

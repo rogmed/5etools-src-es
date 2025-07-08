@@ -1824,7 +1824,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell guidance}",
 								"{@spell poison spray}"
 							]

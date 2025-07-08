@@ -23212,7 +23212,7 @@
 			]
 		},
 		{
-			"name": "Druid",
+			"name": "Druida",
 			"source": "MM",
 			"page": 346,
 			"srd": true,
@@ -23343,8 +23343,8 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
 								"{@spell shillelagh}"
 							]
 						},
@@ -23540,7 +23540,7 @@
 						"The dryad's innate spellcasting ability is Charisma (spell save {@dc 14}). The dryad can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"3e": [
@@ -45219,8 +45219,8 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
 								"{@spell thorn whip}"
 							]
 						},
@@ -54254,7 +54254,7 @@
 						"The pixie's innate spellcasting ability is Charisma (spell save {@dc 12}). It can innately cast the following spells, requiring only its pixie dust as a component:"
 					],
 					"will": [
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"1e": [
@@ -68322,7 +68322,7 @@
 					],
 					"will": [
 						"{@spell detect evil and good}",
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell pass without trace}"
 					],
 					"daily": {

@@ -304,7 +304,7 @@
 						"Bastian's innate spellcasting ability is Constitution (spell save {@dc 13}, {@hit 5} to hit with spell attacks). He can innately cast the following spells:"
 					],
 					"will": [
-						"{@spell produce flame}"
+						"{@spell crear llama}"
 					],
 					"daily": {
 						"1": [
@@ -1398,10 +1398,10 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell guidance}",
 								"{@spell poison spray}",
-								"{@spell produce flame}"
+								"{@spell crear llama}"
 							]
 						},
 						"1": {
@@ -5801,7 +5801,7 @@
 								"{@spell friends}",
 								"{@spell mage hand}",
 								"{@spell message}",
-								"{@spell produce flame}",
+								"{@spell crear llama}",
 								"{@spell thaumaturgy}"
 							]
 						},

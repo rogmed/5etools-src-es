@@ -390,7 +390,7 @@
 						"The Forest Master casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell fog cloud}",
 						"{@spell guidance}"
 					],

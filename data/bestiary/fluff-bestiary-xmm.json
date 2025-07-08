@@ -6671,12 +6671,12 @@
 			]
 		},
 		{
-			"name": "Druid",
+			"name": "Druida",
 			"source": "XMM",
 			"entries": [
 				{
 					"type": "section",
-					"name": "Druid",
+					"name": "Druida",
 					"entries": [
 						"{@i Steward and Sage of Nature}",
 						{

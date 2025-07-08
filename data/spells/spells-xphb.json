@@ -2437,7 +2437,6 @@
 			],
 			"entries": [
 				"Cada humanoide en una esfera de 20 pies (6 m) de radio centrada en un punto que elijas dentro del alcance deberá superar una tirada de salvación de Carisma o se verá afectado por uno de los siguientes efectos (elige uno por cada criatura):",
-				"Each Humanoid in a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):",
 				{
 					"type": "list",
 					"items": [
@@ -6511,10 +6510,10 @@
 			]
 		},
 		{
-			"name": "Druidcraft",
-			"originalname": "",
+			"name": "Saber druídico",
+			"originalname": "Druidcraft",
 			"source": "XPHB",
-			"page": 266,
+			"page": 330,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -6542,33 +6541,33 @@
 				}
 			],
 			"entries": [
-				"Whispering to the spirits of nature, you create one of the following effects within range.",
+				"Susurras a los espíritus de la naturaleza y produces uno de los siguientes efectos dentro del alcance.",
 				{
 					"type": "entries",
-					"name": "Weather Sensor",
+					"name": "Sensor climático",
 					"entries": [
-						"You create a Tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round."
+						"Creas un efecto sensorial Diminuto e inofensivo que predice el clima que habrá en tu ubicación durante las siguientes 24 horas. El efecto se manifiesta como un orbe dorado para los cielos despejados, una nube para la lluvia, copos de nieve para la nieve, etc. Este efecto persiste durante 1 asalto."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Bloom",
+					"name": "Florecer",
 					"entries": [
-						"You instantly make a flower blossom, a seed pod open, or a leaf bud bloom."
+						"Haces que, al instante, una flor florezca, una vaina de semillas se abra o el brote de una hoja germine."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Sensory Effect",
+					"name": "Efecto sensorial",
 					"entries": [
-						"You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot {@variantrule Cube [Area of Effect]|XPHB|Cube}."
+						"Creas un efecto sensorial inofensivo, como hojas cayendo, hadas espectrales bailando, una suave brisa, el sonido de un animal o un leve olor a mofeta. El efecto debe caber en un cubo de 5 pies (1,5 m) de lado."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Fire Play",
+					"name": "Jugar con fuego",
 					"entries": [
-						"You light or snuff out a candle, a torch, or a campfire."
+						"Enciendes o apagas una vela, una antorcha o una hoguera."
 					]
 				}
 			],
@@ -15390,10 +15389,10 @@
 			]
 		},
 		{
-			"name": "Produce Flame",
-			"originalname": "",
+			"name": "Crear llama",
+			"originalname": "Produce Flame",
 			"source": "XPHB",
-			"page": 308,
+			"page": 266,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -15424,8 +15423,8 @@
 				}
 			],
 			"entries": [
-				"A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} for an additional 20 feet. The spell ends if you cast it again.",
-				"Until the spell ends, you can take a {@action Magic|XPHB} action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes {@damage 1d8} Fire damage."
+				"En tu mano aparece una llama titilante, que permanece hasta que termine el conjuro. En tu mano, la llama no genera calor, no puede quemar nada y emite una luz brillante en un radio de 20 pies (6 m) y luz tenue 20 pies (6 m) más allá. El conjuro termina si lo vuelves a lanzar.",
+				"Hasta que el conjuro termine, puedes usar una acción de magia para arrojar la llama a una criatura u objeto a 60 pies (18 m) o menos de ti. Haz un ataque de conjuro a distancia. Si acierta, el objetivo recibe {@damage 1d8} de daño de fuego."
 			],
 			"entriesHigherLevel": [
 				{

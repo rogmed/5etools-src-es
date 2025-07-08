@@ -126,7 +126,7 @@
 											"name": "{@class Druid}",
 											"page": 5,
 											"entries": [
-												"Certain shamans of the Sun Empire are closely attuned to the forces of nature, and use wild shape to take on dinosaur forms. These druids typically follow the {@class Druid||Circle of the Moon|Moon}."
+												"Certain shamans of the Sun Empire are closely attuned to the forces of nature, and use wild shape to take on dinosaur forms. These druids typically follow the {@class Druida||Circle of the Moon|Moon}."
 											],
 											"id": "007"
 										},
@@ -367,7 +367,7 @@
 											"name": "{@class Druid}",
 											"page": 7,
 											"entries": [
-												"Many River Herald shamans are druids of the {@class Druid||Circle of the Land|Land}."
+												"Many River Herald shamans are druids of the {@class Druida||Circle of the Land|Land}."
 											],
 											"id": "010"
 										},

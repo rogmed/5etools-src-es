@@ -4599,7 +4599,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell speak with animals}"
 					],
 					"daily": {

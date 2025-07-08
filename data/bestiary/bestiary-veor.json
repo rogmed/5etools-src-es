@@ -1335,7 +1335,7 @@
 						"The dryad casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell Druidcraft}"
+						"{@spell Saber druídico}"
 					],
 					"daily": {
 						"1": [

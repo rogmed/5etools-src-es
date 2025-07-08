@@ -4147,7 +4147,7 @@ Renderer.utils = class {
 
 		static _SCF_TYPE_TO_NAME = {
 			"arcane": "Arcane Focus",
-			"druid": "Druidic Focus",
+			"Druida": "Druidic Focus",
 			"holy": "Holy Symbol",
 		};
 		static _getHtml_spellcastingFocus ({v, isListMode, isTextOnly, styleHint}) {
@@ -12429,11 +12429,11 @@ Renderer.item = class {
 						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Warlock|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
-				if (item.scfType === "druid") {
+				if (item.scfType === "Druida") {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A {@class druid} can use such an object as a spellcasting focus."
-						: "Un canalizador druídico está tallado, atado con un lazo o pintado para canalizar la magia primigenia. Los {@class Druid|XPHB|druidas} o {@class Explorador|XPHB|exploradores} pueden utilizar estos objetos como canalizadores mágicos.";
+						: "Un canalizador druídico está tallado, atado con un lazo o pintado para canalizar la magia primigenia. Los {@class Druida|XPHB|druidas} o {@class Explorador|XPHB|exploradores} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 				if (item.scfType === "holy") {
@@ -12451,11 +12451,11 @@ Renderer.item = class {
 						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Warlock|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
-				if (item.scfType === "druid") {
+				if (item.scfType === "Druida") {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "A {@class druid} can use this object as a spellcasting focus."
-						: "Un canalizador druídico está tallado, atado con un lazo o pintado para canalizar la magia primigenia. Los {@class Druid|XPHB|druidas} o {@class Explorador|XPHB|exploradores} pueden utilizar estos objetos como canalizadores mágicos.";
+						: "Un canalizador druídico está tallado, atado con un lazo o pintado para canalizar la magia primigenia. Los {@class Druida|XPHB|druidas} o {@class Explorador|XPHB|exploradores} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 				if (item.scfType === "holy") {

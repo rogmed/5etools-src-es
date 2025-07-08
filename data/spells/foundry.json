@@ -4748,7 +4748,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Druidcraft",
+			"name": "Saber druídico",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -11643,7 +11643,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Produce Flame",
+			"name": "Crear llama",
 			"source": "XPHB",
 			"activities": [
 				{

@@ -3004,7 +3004,7 @@
 						"Faldorn casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 18}):"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell poison spray}",
 						"{@spell shillelagh}"
 					],
@@ -3911,9 +3911,9 @@
 					],
 					"will": [
 						"{@spell barkskin}",
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell poison spray}",
-						"{@spell produce flame}",
+						"{@spell crear llama}",
 						"{@spell shillelagh}"
 					],
 					"daily": {

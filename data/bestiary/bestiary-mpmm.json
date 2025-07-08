@@ -1784,7 +1784,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -19424,7 +19424,7 @@
 						"The grung casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 12}):"
 					],
 					"will": [
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"2": [
@@ -35528,7 +35528,7 @@
 						"The tortle casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 12}):"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell guidance}"
 					],
 					"daily": {

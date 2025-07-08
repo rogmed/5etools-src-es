@@ -255,7 +255,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}",
 								"{@spell shillelagh}"
 							]
@@ -1192,7 +1192,7 @@
 			"source": "TftYP",
 			"page": 159,
 			"_copy": {
-				"name": "Druid",
+				"name": "Druida",
 				"source": "MM",
 				"_templates": [
 					{

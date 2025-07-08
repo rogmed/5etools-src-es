@@ -21760,9 +21760,9 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell guidance}",
-								"{@spell produce flame}"
+								"{@spell crear llama}"
 							]
 						},
 						"1": {

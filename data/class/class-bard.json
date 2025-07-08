@@ -1118,7 +1118,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"Has aprendido secretos de diversas tradiciones mágicas. Cada vez que alcances un nivel de bardo (incluido este) y aumente la cantidad de conjuros preparados de la tabla “Rasgos de bardo”, podrás elegir cualquiera de los nuevos conjuros preparados de entre las listas de conjuros de {@filter bardo|spells|class=bardo}, {@filter clérigo|spells|class=clérigo}, {@filter druida|spells|class=Druid} y {@filter mago|spells|class=mago}. Los conjuros elegidos contarán como conjuros de bardo para ti (consulta las listas de conjuros en la sección de la clase correspondiente). Además, cuando sustituyas un conjuro preparado para esta clase, podrás hacerlo con un conjuro de esas listas."
+				"Has aprendido secretos de diversas tradiciones mágicas. Cada vez que alcances un nivel de bardo (incluido este) y aumente la cantidad de conjuros preparados de la tabla “Rasgos de bardo”, podrás elegir cualquiera de los nuevos conjuros preparados de entre las listas de conjuros de {@filter bardo|spells|class=bardo}, {@filter clérigo|spells|class=clérigo}, {@filter druida|spells|class=Druida} y {@filter mago|spells|class=mago}. Los conjuros elegidos contarán como conjuros de bardo para ti (consulta las listas de conjuros en la sección de la clase correspondiente). Además, cuando sustituyas un conjuro preparado para esta clase, podrás hacerlo con un conjuro de esas listas."
 			]
 		},
 		{
@@ -1502,7 +1502,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Aprendes dos conjuros de tu elección. Estos conjuros pueden proceder de las listas de conjuros de {@filter clérigo|spells|class=clérigo}, {@filter druida|spells|class=Druid} o {@filter mago|spells|class=Mago}, o de cualquier combinación de estas (consulta la lista de conjuros en la sección de la clase). Los conjuros que elijas deben ser trucos o conjuros para los que tengas espacios de conjuro, como se muestra en la tabla “Rasgos de bardo”.",
+				"Aprendes dos conjuros de tu elección. Estos conjuros pueden proceder de las listas de conjuros de {@filter clérigo|spells|class=clérigo}, {@filter druida|spells|class=Druida} o {@filter mago|spells|class=Mago}, o de cualquier combinación de estas (consulta la lista de conjuros en la sección de la clase). Los conjuros que elijas deben ser trucos o conjuros para los que tengas espacios de conjuro, como se muestra en la tabla “Rasgos de bardo”.",
 				"Siempre tienes preparados los conjuros elegidos y, cada vez que subas un nivel de bardo, podrás reemplazar uno de los conjuros por otro conjuro que cumpla estos requisitos."
 			]
 		},

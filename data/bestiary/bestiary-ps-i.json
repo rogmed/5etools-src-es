@@ -604,8 +604,8 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
 								"{@spell shillelagh}"
 							]
 						},

@@ -1494,7 +1494,7 @@
 					"will": [
 						"{@spell dancing lights}",
 						"{@spell detect magic}",
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell mage armor} (self only)"
 					],
 					"daily": {
@@ -2027,7 +2027,7 @@
 			"type": {
 				"type": "giant",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -2079,7 +2079,7 @@
 					],
 					"will": [
 						"{@spell beast sense} (rats only)",
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell entangle}"
 					],
 					"daily": {
@@ -2878,7 +2878,7 @@
 			"type": {
 				"type": "plant",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -2941,7 +2941,7 @@
 					],
 					"will": [
 						"{@spell detect poison and disease}",
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"1": [

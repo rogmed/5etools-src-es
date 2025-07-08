@@ -1045,7 +1045,7 @@
 				}
 			],
 			"entries": [
-				"Aprendes dos {@filter trucos de druida|spells|class=druid|level=0} de tu elección (consulta la sección de la clase druida para ver la lista de conjuros de druida). Se recomiendan {@spell Guía|XPHB} y {@spell Voluta estelar|XPHB}, Los trucos elegidos cuentan como conjuros de explorador para ti y la Sabiduría es tu aptitud mágica para lanzarlos. Cada vez que subas un nivel de explorador, puedes sustituir uno de estos trucos por otro {@filter trucos de druida|spells|class=druid|level=0}."
+				"Aprendes dos {@filter trucos de druida|spells|class=druida|level=0} de tu elección (consulta la sección de la clase druida para ver la lista de conjuros de druida). Se recomiendan {@spell Guía|XPHB} y {@spell Voluta estelar|XPHB}, Los trucos elegidos cuentan como conjuros de explorador para ti y la Sabiduría es tu aptitud mágica para lanzarlos. Cada vez que subas un nivel de explorador, puedes sustituir uno de estos trucos por otro {@filter trucos de druida|spells|class=druida|level=0}."
 			]
 		},
 		{

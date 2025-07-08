@@ -1266,8 +1266,8 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
 								"{@spell shillelagh}"
 							]
 						},
@@ -3718,7 +3718,7 @@
 				"type": "fey",
 				"tags": [
 					"archfey",
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -3789,7 +3789,7 @@
 						"The Gardener casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell Druidcraft}",
+						"{@spell Saber druídico}",
 						"{@spell Hablar con los animales}",
 						"{@spell Speak with Plants}"
 					],

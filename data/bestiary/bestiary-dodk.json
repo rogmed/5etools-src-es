@@ -2008,10 +2008,10 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell mending}",
 								"{@spell poison spray}",
-								"{@spell produce flame}"
+								"{@spell crear llama}"
 							]
 						},
 						"1": {

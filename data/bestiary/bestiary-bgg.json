@@ -3040,7 +3040,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -5893,7 +5893,7 @@
 			"type": {
 				"type": "giant",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -5943,7 +5943,7 @@
 						"The giant casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 16}):"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell guidance}"
 					],
 					"daily": {

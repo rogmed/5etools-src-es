@@ -8769,7 +8769,7 @@
 												"{@class bard|PHB|Bard: College of Tragedy|Tragedy|TDCSR}",
 												"{@class cleric|PHB|Cleric: Blood Domain|Blood|TDCSR}",
 												"{@class cleric|PHB|Cleric: Moon Domain|Moon|TDCSR}",
-												"{@class Druid|PHB|Druid: Circle of the Blighted|Blighted|TDCSR}",
+												"{@class Druida|PHB|Druid: Circle of the Blighted|Blighted|TDCSR}",
 												"{@class monk|PHB|Monk: Way of the Cobalt Soul|Cobalt Soul|TDCSR}",
 												"{@class paladin|PHB|Paladin: Oath of the Open Sea|Open Sea|TDCSR}",
 												"{@class hechicero|PHB|Hechicero: Runechild sorcerous origin|Runechild|TDCSR}",
@@ -9825,10 +9825,10 @@
 						},
 						{
 							"type": "entries",
-							"name": "Druid",
+							"name": "Druida",
 							"page": 171,
 							"entries": [
-								"As a druid, you are a keeper of the old ways, attuned to nature and channeling power that grants you spells and allows you to transform your body. When your druid character chooses a druid circle at 2nd level, the {@class Druid|PHB|Circle of the Blighted|Blighted|TDCSR} is a new option available in a Tal'Dorei campaign.",
+								"As a druid, you are a keeper of the old ways, attuned to nature and channeling power that grants you spells and allows you to transform your body. When your druid character chooses a druid circle at 2nd level, the {@class Druida|PHB|Circle of the Blighted|Blighted|TDCSR} is a new option available in a Tal'Dorei campaign.",
 								{
 									"type": "inset",
 									"name": "Camellia Springshower",
@@ -9857,7 +9857,7 @@
 									"source": "TDCSR",
 									"name": "Blighted",
 									"page": 171,
-									"className": "Druid",
+									"className": "Druida",
 									"classSource": "PHB",
 									"collapsed": true
 								},
@@ -10899,7 +10899,7 @@
 								"{@creature Sagacitous Erusaire|TDCSR}"
 							]
 						},
-						"{@note Additionally the summonable Blighted Sapling supports the new {@class druid|PHB|Blighted Druid Subclass|Blighted|TDCSR}:}",
+						"{@note Additionally the summonable Blighted Sapling supports the new {@class Druida|PHB|Blighted Druid Subclass|Blighted|TDCSR}:}",
 						{
 							"type": "list",
 							"style": "list-no-bullets",

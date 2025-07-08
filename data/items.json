@@ -2658,7 +2658,7 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"type": "SCF|XPHB",
-			"scfType": "druid",
+			"scfType": "Druida",
 			"rarity": "none",
 			"value": 100
 		},
@@ -3486,7 +3486,7 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"type": "SCF|XPHB",
-			"scfType": "druid",
+			"scfType": "Druida",
 			"rarity": "none",
 			"weight": 1,
 			"value": 1000
@@ -3548,10 +3548,10 @@
 			"source": "XPHB",
 			"page": 225,
 			"type": "SCF|XPHB",
-			"scfType": "druid",
+			"scfType": "Druida",
 			"rarity": "none",
 			"focus": [
-				"Druid"
+				"Druida"
 			],
 			"items": [
 				"Sprig of mistletoe|XPHB",

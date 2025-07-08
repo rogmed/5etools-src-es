@@ -734,7 +734,7 @@
 										],
 										"will": [
 											"{@spell detect evil and good}",
-											"{@spell druidcraft}",
+											"{@spell saber druídico}",
 											"{@spell pass without trace}"
 										],
 										"daily": {

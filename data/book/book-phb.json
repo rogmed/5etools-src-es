@@ -1870,7 +1870,7 @@
 									"{@dice 5d4×10|5d4 × 10|Cleric Starting Wealth} gp"
 								],
 								[
-									"Druid",
+									"Druida",
 									"{@dice 2d4×10|2d4 × 10|Druid Starting Wealth} gp"
 								],
 								[
@@ -9925,11 +9925,11 @@
 							"name": "Cantrips (0 Level)",
 							"columns": 4,
 							"items": [
-								"{@spell Druidcraft}",
+								"{@spell Saber druídico}",
 								"{@spell Guía}",
 								"{@spell Mending}",
 								"{@spell Rociada venenosa}",
-								"{@spell Produce Flame}",
+								"{@spell Crear llama}",
 								"{@spell Resistencia}",
 								"{@spell Shillelagh}",
 								"{@spell Thorn Whip}"
@@ -11098,7 +11098,7 @@
 								"{@spell Dominate Person}",
 								"{@spell Drawmij's Instant Summons}",
 								"{@spell Dream}",
-								"{@spell Druidcraft}",
+								"{@spell Saber druídico}",
 								"{@spell Earthquake}",
 								"{@spell Eldritch Blast}",
 								"{@spell Elemental Weapon}",
@@ -11250,7 +11250,7 @@
 								"{@spell Prestidigitación}",
 								"{@spell Prismatic Spray}",
 								"{@spell Prismatic Wall}",
-								"{@spell Produce Flame}",
+								"{@spell Crear llama}",
 								"{@spell Programmed Illusion}",
 								"{@spell Project Image}",
 								"{@spell Protection from Energy}",

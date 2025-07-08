@@ -2055,7 +2055,7 @@
 						"The dryad's innate spellcasting ability is Charisma (spell save {@dc 17}). The dryad can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"3e": [
@@ -2922,8 +2922,8 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
 								"{@spell resistance}",
 								"{@spell thorn whip}"
 							]
@@ -10126,7 +10126,7 @@
 					],
 					"will": [
 						"{@spell dispel magic}",
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"3e": [
@@ -10681,7 +10681,7 @@
 						"0": {
 							"spells": [
 								"{@spell acid splash}",
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell ray of frost}",
 								"{@spell shape water|XGE}"
 							]

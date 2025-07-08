@@ -4120,7 +4120,7 @@
 											"Average"
 										],
 										[
-											"{@class Druid|XPHB}",
+											"{@class Druida|XPHB}",
 											"Nature",
 											"Sabiduría",
 											"High"
@@ -4189,7 +4189,7 @@
 												{
 													"type": "item",
 													"name": "Cleric:",
-													"entry": "Replace with {@class Bardo|XPHB} or {@class Druid|XPHB}"
+													"entry": "Replace with {@class Bardo|XPHB} or {@class Druida|XPHB}"
 												},
 												{
 													"type": "item",
@@ -4722,7 +4722,7 @@
 													"12"
 												],
 												[
-													"{@class Druid|XPHB}",
+													"{@class Druida|XPHB}",
 													"8",
 													"12",
 													"14",
@@ -5508,7 +5508,7 @@
 															"10 + Con. modifier"
 														],
 														[
-															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druid|XPHB}, {@class Monje|XPHB}, {@class Rogue|XPHB}, or {@class Warlock|XPHB}",
+															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Rogue|XPHB}, or {@class Warlock|XPHB}",
 															"8 + Con. modifier"
 														],
 														[
@@ -5818,7 +5818,7 @@
 															"6 + Con. modifier"
 														],
 														[
-															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druid|XPHB}, {@class Monje|XPHB}, {@class Rogue|XPHB}, or {@class Warlock|XPHB}",
+															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Rogue|XPHB}, or {@class Warlock|XPHB}",
 															"5 + Con. modifier"
 														],
 														[
@@ -6536,7 +6536,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "{@class Druid|XPHB}",
+									"name": "{@class Druida|XPHB}",
 									"page": 80,
 									"entries": [
 										"Channel nature magic to heal, shape-shift, and control the elements. Then join the Circle of the...",
@@ -6544,10 +6544,10 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Druid|XPHB|Circle of the Land|Land|XPHB} to draw on the magic of the environment.",
-												"{@class Druid|XPHB|Circle of the Moon|Moon|XPHB} to adopt powerful animal forms.",
-												"{@class Druid|XPHB|Circle of the Sea|Sea|XPHB} to channel tides and storms.",
-												"{@class Druid|XPHB|Circle of the Stars|Stars|XPHB} to gain powers in a starry form."
+												"{@class Druida|XPHB|Circle of the Land|Land|XPHB} to draw on the magic of the environment.",
+												"{@class Druida|XPHB|Circle of the Moon|Moon|XPHB} to adopt powerful animal forms.",
+												"{@class Druida|XPHB|Circle of the Sea|Sea|XPHB} to channel tides and storms.",
+												"{@class Druida|XPHB|Circle of the Stars|Stars|XPHB} to gain powers in a starry form."
 											]
 										}
 									],
@@ -12133,7 +12133,7 @@
 											"Any"
 										],
 										[
-											"{@class Druid|XPHB}",
+											"{@class Druida|XPHB}",
 											"Finish a Long Rest",
 											"Any"
 										],
@@ -12755,7 +12755,7 @@
 								"{@spell Dragon's Breath|XPHB}",
 								"{@spell Drawmij's Instant Summons|XPHB}",
 								"{@spell Dream|XPHB}",
-								"{@spell Druidcraft|XPHB}"
+								"{@spell Saber druídico|XPHB}"
 							]
 						},
 						{
@@ -12997,7 +12997,7 @@
 								"{@spell Prestidigitación|XPHB}",
 								"{@spell Prismatic Spray|XPHB}",
 								"{@spell Prismatic Wall|XPHB}",
-								"{@spell Produce Flame|XPHB}",
+								"{@spell Crear llama|XPHB}",
 								"{@spell Programmed Illusion|XPHB}",
 								"{@spell Project Image|XPHB}",
 								"{@spell Protection from Energy|XPHB}",

@@ -686,7 +686,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell speak with animals}"
 					],
 					"daily": {
@@ -803,9 +803,9 @@
 							"spells": {
 								"0": {
 									"spells": [
-										"{@spell druidcraft}",
+										"{@spell saber druídico}",
 										"{@spell mending}",
-										"{@spell produce flame}"
+										"{@spell crear llama}"
 									]
 								},
 								"1": {
@@ -6839,7 +6839,7 @@
 						"Turlang casts one of the following spells, requiring no material spell components and using Wisdom as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell guidance}",
 						"{@spell resistance}",
 						"{@spell speak with plants}"

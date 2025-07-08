@@ -141,14 +141,14 @@
 			]
 		},
 		{
-			"name": "Druidcraft",
+			"name": "Saber druídico",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Druidcraft.webp"
+						"path": "spells/XPHB/Saber druídico.webp"
 					},
 					"credit": "Olga Drebas"
 				}

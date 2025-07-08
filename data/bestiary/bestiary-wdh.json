@@ -1531,7 +1531,7 @@
 						"Embric's spellcasting ability is Constitution ({@hit 4} to hit with spell attacks). He can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell produce flame}"
+						"{@spell crear llama}"
 					],
 					"ability": "con"
 				}
@@ -1763,8 +1763,8 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
 								"{@spell shillelagh}"
 							]
 						},
@@ -5303,8 +5303,8 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
 								"{@spell shillelagh}"
 							]
 						},

@@ -1068,7 +1068,7 @@
 			]
 		},
 		{
-			"name": "Charm of Druidcraft",
+			"name": "Charm of Saber druídico",
 			"source": "IDRotF",
 			"page": 228,
 			"type": "Charm",
@@ -1078,7 +1078,7 @@
 						"_": {
 							"limited": {
 								"3": [
-									"druidcraft"
+									"saber druídico"
 								]
 							}
 						}
@@ -1086,7 +1086,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell druidcraft} cantrip as an action, no components required. Once used three times, this charm vanishes from you."
+				"This charm allows you to cast the {@spell saber druídico} cantrip as an action, no components required. Once used three times, this charm vanishes from you."
 			]
 		},
 		{

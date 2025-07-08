@@ -7839,7 +7839,7 @@
 						"Tem's spellcasting ability is Wisdom (spell save {@dc 12}, {@hit 4} to spell attacks). She has the following druid spells prepared:"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell poison spray}"
 					],
 					"spells": {
@@ -8028,7 +8028,7 @@
 								"Tem's spellcasting ability is Wisdom (spell save {@dc 16}, {@hit 8} to spell attacks). She has the following druid spells prepared:"
 							],
 							"will": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}",
 								"{@spell mending}",
 								"{@spell resistance}"
@@ -8109,7 +8109,7 @@
 								"Tem's spellcasting ability is Wisdom (spell save {@dc 16}, {@hit 8} to spell attacks). She has the following druid spells prepared:"
 							],
 							"will": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}",
 								"{@spell mending}",
 								"{@spell resistance}"
@@ -8170,7 +8170,7 @@
 								"Tem's spellcasting ability is Wisdom (spell save {@dc 12}, {@hit 4} to spell attacks). She has the following druid spells prepared:"
 							],
 							"will": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}"
 							],
 							"spells": {
@@ -8202,7 +8202,7 @@
 								"Tem's spellcasting ability is Wisdom (spell save {@dc 12}, {@hit 4} to spell attacks). She has the following druid spells prepared:"
 							],
 							"will": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}"
 							],
 							"spells": {
@@ -8247,7 +8247,7 @@
 								"Tem's spellcasting ability is Wisdom (spell save {@dc 13}, {@hit 5} to spell attacks). She has the following druid spells prepared:"
 							],
 							"will": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}",
 								"{@spell mending}"
 							],
@@ -8308,7 +8308,7 @@
 								"Tem's spellcasting ability is Wisdom (spell save {@dc 14}, {@hit 6} to spell attacks). She has the following druid spells prepared:"
 							],
 							"will": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}",
 								"{@spell mending}"
 							],
@@ -8382,7 +8382,7 @@
 								"Tem's spellcasting ability is Wisdom (spell save {@dc 14}, {@hit 6} to spell attacks). She has the following druid spells prepared:"
 							],
 							"will": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}",
 								"{@spell mending}"
 							],
@@ -8456,7 +8456,7 @@
 								"Tem's spellcasting ability is Wisdom (spell save {@dc 14}, {@hit 6} to spell attacks). She has the following druid spells prepared:"
 							],
 							"will": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}",
 								"{@spell mending}"
 							],
@@ -8536,7 +8536,7 @@
 								"Tem's spellcasting ability is Wisdom (spell save {@dc 15}, {@hit 7} to spell attacks). She has the following druid spells prepared:"
 							],
 							"will": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}",
 								"{@spell mending}"
 							],
@@ -8616,7 +8616,7 @@
 								"Tem's spellcasting ability is Wisdom (spell save {@dc 16}, {@hit 8} to spell attacks). She has the following druid spells prepared:"
 							],
 							"will": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}",
 								"{@spell mending}"
 							],

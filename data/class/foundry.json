@@ -407,7 +407,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Druid",
+			"name": "Druida",
 			"source": "XPHB",
 			"system": {
 				"spellcasting": {
@@ -1580,7 +1580,7 @@
 			"name": "Circle of the Land",
 			"shortName": "Land",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"advancement": [
 				{
@@ -1612,7 +1612,7 @@
 			"name": "Circle of the Sea",
 			"shortName": "Sea",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"advancement": [
 				{
@@ -1641,7 +1641,7 @@
 			"name": "Circle of the Stars",
 			"shortName": "Stars",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"advancement": [
 				{
@@ -2142,7 +2142,7 @@
 		{
 			"name": "Druidic",
 			"source": "PHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"level": 1,
 			"entryData": {
@@ -3921,7 +3921,7 @@
 		{
 			"name": "Druidic",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"level": 1,
 			"entryData": {
@@ -3936,7 +3936,7 @@
 		{
 			"name": "Magician",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"level": 1,
 			"effects": [
@@ -3976,7 +3976,7 @@
 		{
 			"name": "Warden",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"level": 1,
 			"entryData": {
@@ -3996,7 +3996,7 @@
 		{
 			"name": "Wild Companion",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"level": 2,
 			"activities": [
@@ -4051,7 +4051,7 @@
 								"value": "1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								}
 							}
 						]
@@ -4077,7 +4077,7 @@
 		{
 			"name": "Wild Shape",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"level": 2,
 			"system": {
@@ -4115,7 +4115,7 @@
 		{
 			"name": "Wild Resurgence",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"level": 5,
 			"activities": [
@@ -4138,7 +4138,7 @@
 								"value": "1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								}
 							},
 							{
@@ -4169,7 +4169,7 @@
 								"value": "-1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								}
 							},
 							{
@@ -4198,7 +4198,7 @@
 		{
 			"name": "Primal Strike",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"level": 7,
 			"activities": [
@@ -4238,7 +4238,7 @@
 		{
 			"name": "Don épico",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"level": 19,
 			"isIgnored": true,
@@ -4247,7 +4247,7 @@
 		{
 			"name": "Archdruid",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"level": 20,
 			"activities": [
@@ -4268,7 +4268,7 @@
 								"value": "1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								},
 								"scaling": {
 									"mode": "amount"
@@ -4309,7 +4309,7 @@
 								"value": "-1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								}
 							}
 						]
@@ -8622,7 +8622,7 @@
 		{
 			"name": "Nature's Ward",
 			"source": "PHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Land",
 			"subclassSource": "PHB",
@@ -8641,7 +8641,7 @@
 		{
 			"name": "Halo of Spores",
 			"source": "TCE",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Spores",
 			"subclassSource": "TCE",
@@ -8666,7 +8666,7 @@
 		{
 			"name": "Fungal Infestation",
 			"source": "TCE",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Spores",
 			"subclassSource": "TCE",
@@ -8677,7 +8677,7 @@
 		{
 			"name": "Spreading Spores",
 			"source": "TCE",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Spores",
 			"subclassSource": "TCE",
@@ -8705,7 +8705,7 @@
 		{
 			"name": "Fungal Body",
 			"source": "TCE",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Spores",
 			"subclassSource": "TCE",
@@ -8723,7 +8723,7 @@
 		{
 			"name": "Summon Wildfire Spirit",
 			"source": "TCE",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Wildfire",
 			"subclassSource": "TCE",
@@ -8747,7 +8747,7 @@
 		{
 			"name": "Call of the Shadowseeds",
 			"source": "TDCSR",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Blighted",
 			"subclassSource": "TDCSR",
@@ -8758,7 +8758,7 @@
 		{
 			"name": "Incarnation of Corruption",
 			"source": "TDCSR",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Blighted",
 			"subclassSource": "TDCSR",
@@ -8773,7 +8773,7 @@
 		{
 			"name": "Balm of the Summer Court",
 			"source": "XGE",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Dreams",
 			"subclassSource": "XGE",
@@ -8808,7 +8808,7 @@
 		{
 			"name": "Hearth of Moonlight and Shadow",
 			"source": "XGE",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Dreams",
 			"subclassSource": "XGE",
@@ -8830,7 +8830,7 @@
 		{
 			"name": "Hidden Paths",
 			"source": "XGE",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Dreams",
 			"subclassSource": "XGE",
@@ -8855,7 +8855,7 @@
 		{
 			"name": "Speech of the Woods",
 			"source": "XGE",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Shepherd",
 			"subclassSource": "XGE",
@@ -8872,7 +8872,7 @@
 		{
 			"name": "Spirit Totem",
 			"source": "XGE",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "PHB",
 			"subclassShortName": "Shepherd",
 			"subclassSource": "XGE",
@@ -14286,7 +14286,7 @@
 		{
 			"name": "Land's Aid",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Land",
 			"subclassSource": "XPHB",
@@ -14305,7 +14305,7 @@
 								"value": "1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								}
 							}
 						]
@@ -14388,7 +14388,7 @@
 		{
 			"name": "Natural Recovery",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Land",
 			"subclassSource": "XPHB",
@@ -14454,7 +14454,7 @@
 		{
 			"name": "Nature's Ward",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Land",
 			"subclassSource": "XPHB",
@@ -14541,7 +14541,7 @@
 		{
 			"name": "Nature's Sanctuary",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Land",
 			"subclassSource": "XPHB",
@@ -14565,7 +14565,7 @@
 								"value": "1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								}
 							}
 						]
@@ -14675,7 +14675,7 @@
 		{
 			"name": "Circle Forms",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Moon",
 			"subclassSource": "XPHB",
@@ -14698,7 +14698,7 @@
 		{
 			"name": "Improved Circle Forms",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Moon",
 			"subclassSource": "XPHB",
@@ -14720,7 +14720,7 @@
 		{
 			"name": "Moonlight Step",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Moon",
 			"subclassSource": "XPHB",
@@ -14811,7 +14811,7 @@
 		{
 			"name": "Lunar Form",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Moon",
 			"subclassSource": "XPHB",
@@ -14847,7 +14847,7 @@
 		{
 			"name": "Wrath of the Sea",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Sea",
 			"subclassSource": "XPHB",
@@ -14869,7 +14869,7 @@
 								"value": "1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								}
 							}
 						]
@@ -14960,7 +14960,7 @@
 		{
 			"name": "Stormborn",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Sea",
 			"subclassSource": "XPHB",
@@ -14982,7 +14982,7 @@
 								"value": "1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								}
 							}
 						]
@@ -15060,7 +15060,7 @@
 		{
 			"name": "Oceanic Gift",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Sea",
 			"subclassSource": "XPHB",
@@ -15083,7 +15083,7 @@
 								"value": "1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								}
 							}
 						]
@@ -15150,7 +15150,7 @@
 								"value": "2",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								}
 							}
 						]
@@ -15233,7 +15233,7 @@
 		{
 			"name": "Archer",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Stars",
 			"subclassSource": "XPHB",
@@ -15282,7 +15282,7 @@
 		{
 			"name": "Chalice",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Stars",
 			"subclassSource": "XPHB",
@@ -15324,7 +15324,7 @@
 		{
 			"name": "Dragon",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Stars",
 			"subclassSource": "XPHB",
@@ -15363,7 +15363,7 @@
 		{
 			"name": "Star Map",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Stars",
 			"subclassSource": "XPHB",
@@ -15383,7 +15383,7 @@
 		{
 			"name": "Starry Form",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Stars",
 			"subclassSource": "XPHB",
@@ -15402,7 +15402,7 @@
 								"value": "1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Wild Shape|Druid|XPHB|2"
+									"uid": "Wild Shape|Druida|XPHB|2"
 								}
 							}
 						]
@@ -15433,7 +15433,7 @@
 		{
 			"name": "Cosmic Omen",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Stars",
 			"subclassSource": "XPHB",
@@ -15514,7 +15514,7 @@
 		{
 			"name": "Full of Stars",
 			"source": "XPHB",
-			"className": "Druid",
+			"className": "Druida",
 			"classSource": "XPHB",
 			"subclassShortName": "Stars",
 			"subclassSource": "XPHB",

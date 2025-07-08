@@ -260,9 +260,9 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell mending}",
-								"{@spell produce flame} ({@dice 2d8})"
+								"{@spell crear llama} ({@dice 2d8})"
 							]
 						},
 						"1": {
@@ -603,7 +603,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell resistance}"
 							]
 						},
@@ -755,7 +755,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray} ({@dice 2d12})",
 								"{@spell resistance}"
 							]
@@ -1239,7 +1239,7 @@
 					"will": [
 						"{@spell bane}",
 						"{@spell bless}",
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"1": [
@@ -3512,7 +3512,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell guidance}",
 								"{@spell mending}"
 							]

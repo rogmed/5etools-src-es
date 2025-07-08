@@ -316,7 +316,7 @@
 			"type": {
 				"type": "dragon",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -5447,7 +5447,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -5496,7 +5496,7 @@
 						"The apprentice casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability:"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell spare the dying}"
 					],
 					"daily": {
@@ -5576,7 +5576,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -5631,7 +5631,7 @@
 						"The apprentice casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability:"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell spare the dying}"
 					],
 					"daily": {
@@ -5721,7 +5721,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -5776,7 +5776,7 @@
 						"The professor casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell spare the dying}"
 					],
 					"daily": {
@@ -5860,7 +5860,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -5918,7 +5918,7 @@
 						"The professor casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability:"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell spare the dying}"
 					],
 					"daily": {

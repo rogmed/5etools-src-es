@@ -2657,7 +2657,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell minor illusion}",
 								"{@spell shocking grasp}"
 							]
@@ -3885,7 +3885,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell produce flame}",
+								"{@spell crear llama}",
 								"{@spell resistance}",
 								"{@spell thorn whip}"
 							]

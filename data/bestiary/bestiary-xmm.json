@@ -11970,7 +11970,7 @@
 					],
 					"will": [
 						"{@spell Luces danzantes|XPHB}",
-						"{@spell Druidcraft|XPHB}",
+						"{@spell Saber druídico|XPHB}",
 						"{@spell Ray of Sickness|XPHB}"
 					],
 					"daily": {
@@ -12731,7 +12731,7 @@
 						"The centaur casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell Druidcraft|XPHB}",
+						"{@spell Saber druídico|XPHB}",
 						"{@spell Hablar con los animales|XPHB}"
 					],
 					"ability": "wis",
@@ -18433,7 +18433,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Druid",
+			"name": "Druida",
 			"source": "XMM",
 			"page": 106,
 			"srd52": true,
@@ -18485,7 +18485,7 @@
 						"The druid casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell Druidcraft|XPHB}",
+						"{@spell Saber druídico|XPHB}",
 						"{@spell Hablar con los animales|XPHB}"
 					],
 					"daily": {
@@ -18622,7 +18622,7 @@
 					"will": [
 						"{@spell Encantar animal|XPHB}",
 						"{@spell Charm Monster|XPHB} (lasts 24 hours; ends early if the dryad casts the spell again)",
-						"{@spell Druidcraft|XPHB}"
+						"{@spell Saber druídico|XPHB}"
 					],
 					"daily": {
 						"1e": [
@@ -43099,7 +43099,7 @@
 					],
 					"will": [
 						"{@spell Luces danzantes|XPHB}",
-						"{@spell Druidcraft|XPHB}",
+						"{@spell Saber druídico|XPHB}",
 						"{@spell Invisibilidad|XPHB} (self only)"
 					],
 					"daily": {
@@ -43218,7 +43218,7 @@
 					],
 					"will": [
 						"{@spell Luces danzantes|XPHB}",
-						"{@spell Druidcraft|XPHB}",
+						"{@spell Saber druídico|XPHB}",
 						"{@spell Invisibilidad|XPHB} (self only)"
 					],
 					"daily": {
@@ -55041,7 +55041,7 @@
 					],
 					"will": [
 						"{@spell Detectar el bien y el mal|XPHB}",
-						"{@spell Druidcraft|XPHB}"
+						"{@spell Saber druídico|XPHB}"
 					],
 					"daily": {
 						"1e": [

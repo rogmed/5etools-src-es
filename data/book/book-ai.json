@@ -2105,7 +2105,7 @@
 													"Hollowed-out holy tome"
 												],
 												[
-													"Druid",
+													"Druida",
 													"Made from natural, organic, locally sourced woven fibers"
 												],
 												[
@@ -4335,7 +4335,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Druid",
+							"name": "Druida",
 							"page": 57,
 							"entries": [
 								"{@i My plan for creating an intern tier consisting of nothing but giant ants should allow us to increase productivity by 37 percent. Who's with me}?",

@@ -220,7 +220,7 @@
 						"The dandylion casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell guidance}",
 						"{@spell purify food and drink}"
 					],

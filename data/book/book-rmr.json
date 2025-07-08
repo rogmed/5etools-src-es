@@ -65,7 +65,7 @@
 						"{@comic What kind of cleric sends somebody in to die for them, anyway? He's totally complicit, Morty.} "
 					]
 				},
-				"Unlike a game of make-believe, D&D gives structure to the stories\u2014a way of determining the consequences of the adventurers' actions. Players roll dice to determine whether their attacks hit or miss and whether their characters can scale a cliff, roll away from the strike of a magical lightning bolt, or pull off some other dangerous task. Anything is possible, but the dice make some things more probable than others.",
+				"Unlike a game of make-believe, D&D gives structure to the stories\u2014a way of determining the consequences of the adventurers' actions. Players roll dice to determine whether their attacks hit or miss and whether their characters can scale a cliff, roll away from the strike of a magical relámpago, or pull off some other dangerous task. Anything is possible, but the dice make some things more probable than others.",
 				{
 					"type": "inset",
 					"id": "005",
@@ -999,7 +999,7 @@
 													"page": 12,
 													"id": "03a",
 													"entries": [
-														"One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be lightly or heavily obscured. In a lightly obscured area\u2014such as dim light, patchy fog, or moderate foliage\u2014creatures have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight. In a heavily obscured area\u2014such as darkness, opaque fog, or dense foliage\u2014vision is blocked, effectively imposing the {@condition blinded} condition, as explained in the appendix."
+														"One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be lightly or muy oscuro. In a lightly obscured area\u2014such as dim light, patchy fog, or moderate foliage\u2014creatures have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight. In a muy oscuro area\u2014such as darkness, opaque fog, or dense foliage\u2014vision is blocked, effectively imposing the {@condition blinded} condition, as explained in the appendix."
 													]
 												}
 											]
@@ -1814,12 +1814,12 @@
 						},
 						{
 							"type": "entries",
-							"name": "Difficult Terrain",
+							"name": "Terreno difícil",
 							"page": 20,
 							"id": "06c",
 							"entries": [
-								"Combatants are often slowed down by {@quickref difficult terrain||3}. Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples of {@quickref difficult terrain||3}. The space of another creature, whether hostile or not, also counts as {@quickref difficult terrain||3}.",
-								"Every foot of movement in {@quickref difficult terrain||3} costs 1 extra foot. This rule is true even if multiple things in a space count as {@quickref difficult terrain||3}.",
+								"Combatants are often slowed down by {@quickref terreno difícil||3}. Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples of {@quickref terreno difícil||3}. The space of another creature, whether hostile or not, also counts as {@quickref terreno difícil||3}.",
+								"Every foot of movement in {@quickref terreno difícil||3} costs 1 extra foot. This rule is true even if multiple things in a space count as {@quickref terreno difícil||3}.",
 								{
 									"type": "inset",
 									"id": "06d",
@@ -1851,7 +1851,7 @@
 							"entries": [
 								"Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are {@condition prone}, a condition described in {@book appendix A|RMR|4}.",
 								"You can {@b drop {@condition prone}} without using any of your speed. {@b Standing up} takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.",
-								"To move while {@condition prone}, you must {@b crawl} or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in {@quickref difficult terrain||3}, therefore, costs 3 feet of movement."
+								"To move while {@condition prone}, you must {@b crawl} or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in {@quickref terreno difícil||3}, therefore, costs 3 feet of movement."
 							]
 						},
 						{
@@ -3041,7 +3041,7 @@
 									"entries": [
 										"When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your DM might allow you to make a Strength ({@skill Athletics}) check to jump farther than you normally can.",
 										"This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a {@dc 10} Strength ({@skill Athletics}) check to clear a low obstacle (no taller than a quarter of the jump's distance). Otherwise, you hit it.",
-										"When you land in {@quickref difficult terrain||3}, you must succeed on a {@dc 10} Dexterity ({@skill Acrobatics}) check to land on your feet. Otherwise, you land {@condition prone}."
+										"When you land in {@quickref terreno difícil||3}, you must succeed on a {@dc 10} Dexterity ({@skill Acrobatics}) check to land on your feet. Otherwise, you land {@condition prone}."
 									]
 								},
 								{
@@ -3059,7 +3059,7 @@
 									"page": 34,
 									"id": "0ba",
 									"entries": [
-										"While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in {@quickref difficult terrain||3}), unless a creature has a climbing or swimming speed. At the DM's option, climbing a slippery surface or one with few handholds requires a successful Strength ({@skill Athletics}) check. Similarly, gaining any distance in rough water might require a successful Strength ({@skill Athletics}) check.",
+										"While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in {@quickref terreno difícil||3}), unless a creature has a climbing or swimming speed. At the DM's option, climbing a slippery surface or one with few handholds requires a successful Strength ({@skill Athletics}) check. Similarly, gaining any distance in rough water might require a successful Strength ({@skill Athletics}) check.",
 										{
 											"type": "inset",
 											"id": "0bb",
@@ -5779,7 +5779,7 @@
 										"Disipar magia {@comicNote JERRY SPELL}",
 										"Fireball {@comicNote Oh Hell YES}",
 										"Fly {@comicNote YES}",
-										"Lightning Bolt {@comicNote YES, Big Zap}",
+										"Relámpago {@comicNote YES, Big Zap}",
 										"Protection from Energy {@comicNote JERRY SPELL}"
 									]
 								}
@@ -5835,7 +5835,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Blur",
+							"name": "Contorno borroso",
 							"page": 50,
 							"collapsed": true
 						},
@@ -6165,7 +6165,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Lightning Bolt",
+							"name": "Relámpago",
 							"page": 56,
 							"collapsed": true
 						},
@@ -6540,7 +6540,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Web",
+							"name": "Telaraña",
 							"page": 61,
 							"collapsed": true
 						},

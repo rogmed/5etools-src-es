@@ -1119,7 +1119,7 @@
 			"cr": "1/2",
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The eel can breathe only underwater."
 					]
@@ -1134,7 +1134,7 @@
 				}
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -1165,7 +1165,7 @@
 					"trait": {
 						"mode": "prependArr",
 						"items": {
-							"name": "Water Breathing",
+							"name": "Respirar bajo el agua",
 							"entries": [
 								"The eel can breathe only underwater."
 							]
@@ -1186,7 +1186,7 @@
 				"sigilo": "+4"
 			},
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"damageTags": [
 				"P"
@@ -1404,7 +1404,7 @@
 				{
 					"name": "Libertad de movimiento",
 					"entries": [
-						"The kraken ignores {@quickref difficult terrain||3}, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
+						"The kraken ignores {@quickref terreno difícil||3}, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
 					]
 				}
 			],
@@ -1457,7 +1457,7 @@
 				{
 					"name": "Ink Cloud (Costs 3 Actions)",
 					"entries": [
-						"While underwater, the kraken expels an ink cloud in a 40-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a {@dc 18} Constitution saving throw, taking 11 ({@damage 2d10}) poison damage on a failed save or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn."
+						"While underwater, the kraken expels an ink cloud in a 40-foot radius. The cloud spreads around corners, and that area is muy oscuro to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a {@dc 18} Constitution saving throw, taking 11 ({@damage 2d10}) poison damage on a failed save or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn."
 					]
 				}
 			],
@@ -1747,7 +1747,7 @@
 			"source": "GoS",
 			"page": 92,
 			"_copy": {
-				"name": "Druid",
+				"name": "Druida",
 				"source": "MM",
 				"_templates": [
 					{
@@ -2836,7 +2836,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The maw of Sekolah can breathe only underwater."
 					]
@@ -2884,7 +2884,7 @@
 			],
 			"traitTags": [
 				"Legendary Resistances",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"SD"
@@ -3917,7 +3917,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell Melf's acid arrow}",
 								"{@spell misty step}"
 							]
@@ -4801,7 +4801,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The swarm can breathe only underwater."
 					]
@@ -4816,7 +4816,7 @@
 				}
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"SD"
@@ -5395,7 +5395,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The shark can breathe only underwater."
 					]
@@ -5417,7 +5417,7 @@
 			],
 			"traitTags": [
 				"Magic Resistance",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"SD"

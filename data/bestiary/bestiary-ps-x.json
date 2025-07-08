@@ -132,7 +132,7 @@
 				"_mod": {
 					"*": {
 						"mode": "replaceTxt",
-						"replace": "blight",
+						"replace": "marchitar",
 						"with": "blight totem"
 					}
 				}

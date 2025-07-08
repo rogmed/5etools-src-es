@@ -754,7 +754,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The ghost can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The ghost can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -1260,7 +1260,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell contagion}",
-								"{@spell insect plague}"
+								"{@spell plaga de insectos}"
 							]
 						},
 						"6": {
@@ -1982,8 +1982,8 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
 								"{@spell shillelagh}"
 							]
 						},
@@ -1993,7 +1993,7 @@
 								"{@spell entangle}",
 								"{@spell longstrider}",
 								"{@spell speak with animals}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2284,7 +2284,7 @@
 						"The lich casts one of the following spells using Wisdom as the spellcasting ability (save {@dc 19}):"
 					],
 					"will": [
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"3e": [
@@ -2821,7 +2821,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"Miirym can move through other creatures and objects as if they were {@quickref difficult terrain||3}. She takes 5 ({@damage 1d10}) force damage if she ends her turn inside an object."
+						"Miirym can move through other creatures and objects as if they were {@quickref terreno difícil||3}. She takes 5 ({@damage 1d10}) force damage if she ends her turn inside an object."
 					]
 				},
 				{
@@ -3855,7 +3855,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"Shemshime can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"Shemshime can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -4231,7 +4231,7 @@
 				{
 					"name": "Lightning Strike {@recharge 5}",
 					"entries": [
-						"The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a {@dc 15} Dexterity saving throw, taking 54 ({@damage 12d8}) lightning damage on a failed save, or half as much damage on a successful one."
+						"The giant hurls a magical relámpago at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a {@dc 15} Dexterity saving throw, taking 54 ({@damage 12d8}) lightning damage on a failed save, or half as much damage on a successful one."
 					]
 				}
 			],
@@ -4783,7 +4783,7 @@
 						"spells": {
 							"5": {
 								"spells": [
-									"{@spell conjure elemental}"
+									"{@spell Conjurar elemental}"
 								]
 							}
 						}

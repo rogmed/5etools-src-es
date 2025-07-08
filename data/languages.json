@@ -515,8 +515,8 @@
 			"page": 9,
 			"type": "secret",
 			"typicalSpeakers": [
-				"Selesnya {@class druid||druids}/{@creature druid||druids}",
-				"Golgari {@class druid||druids}/{@creature druid||druids}"
+				"Selesnya {@class Druida||druids}/{@creature druid||druids}",
+				"Golgari {@class Druida||druids}/{@creature druid||druids}"
 			]
 		},
 		{
@@ -530,7 +530,7 @@
 			],
 			"type": "secret",
 			"typicalSpeakers": [
-				"{@class druid||druids}/{@creature druid||druids}",
+				"{@class Druida||druids}/{@creature druid||druids}",
 				"{@creature treant||treants}"
 			],
 			"entries": [

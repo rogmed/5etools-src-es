@@ -928,7 +928,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell mage hand}",
 								"{@spell message}",
 								"{@spell ray of frost}"
@@ -953,7 +953,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell blink}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						}
 					},
@@ -2212,7 +2212,7 @@
 							"mode": "removeArr",
 							"names": [
 								"Hold Breath",
-								"Water Breathing"
+								"Respirar bajo el agua"
 							]
 						}
 					]
@@ -3801,7 +3801,7 @@
 								"{@spell animal friendship}",
 								"{@spell cure wounds}",
 								"{@spell detect poison and disease}",
-								"{@spell ray of sickness}"
+								"{@spell rayo nauseabundo}"
 							]
 						},
 						"2": {
@@ -3815,7 +3815,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals} (2 giant spiders)",
+								"{@spell conjurar animales} (2 giant spiders)",
 								"{@spell dispel magic}"
 							]
 						},
@@ -3829,7 +3829,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell insect plague}",
+								"{@spell plaga de insectos}",
 								"{@spell mass cure wounds}"
 							]
 						}
@@ -4087,7 +4087,7 @@
 			"source": "OotA",
 			"page": 135,
 			"_copy": {
-				"name": "Druid",
+				"name": "Druida",
 				"source": "MM",
 				"_templates": [
 					{
@@ -4413,7 +4413,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell light}",
 								"{@spell mage hand}",
 								"{@spell poison spray}",
@@ -4425,7 +4425,7 @@
 							"spells": [
 								"{@spell false life}",
 								"{@spell mage armor}",
-								"{@spell ray of sickness}",
+								"{@spell rayo nauseabundo}",
 								"{@spell shield}"
 							]
 						},
@@ -4440,7 +4440,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell gaseous form}",
-								"{@spell stinking cloud}"
+								"{@spell nube apestosa}"
 							]
 						},
 						"4": {

@@ -59,7 +59,7 @@
 						"Alax casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell Druidcraft}",
+						"{@spell Saber druídico}",
 						"{@spell Resistance}"
 					],
 					"daily": {

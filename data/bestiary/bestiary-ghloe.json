@@ -2314,7 +2314,7 @@
 								"{@spell fly}",
 								"{@spell greater restoration}",
 								"{@spell guiding bolt}",
-								"{@spell insect plague}",
+								"{@spell plaga de insectos}",
 								"{@spell lesser restoration}",
 								"{@spell suggestion}",
 								"{@spell tongues}",
@@ -5912,7 +5912,7 @@
 								"{@spell detect magic}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -6884,7 +6884,7 @@
 				{
 					"name": "Smoke Shroud",
 					"entries": [
-						"While the mjork asher has 41 or more hit points, smoke renders a sphere within 20 feet of it heavily obscured. This smoke goes around corners. Even while the mjork has 40 or fewer hit points, tendrils of this smoke extend to 60 feet from the mjork, providing smoke for the Smoke Sense of all mjorks. However, the whole shroud dissipates during any round the mjork is exposed to moderate (at least 10 miles per hour) or stronger wind."
+						"While the mjork asher has 41 or more hit points, smoke renders a sphere within 20 feet of it muy oscuro. This smoke goes around corners. Even while the mjork has 40 or fewer hit points, tendrils of this smoke extend to 60 feet from the mjork, providing smoke for the Smoke Sense of all mjorks. However, the whole shroud dissipates during any round the mjork is exposed to moderate (at least 10 miles per hour) or stronger wind."
 					]
 				},
 				{
@@ -6916,7 +6916,7 @@
 				{
 					"name": "Create Sootlings (1/Day)",
 					"entries": [
-						"The mjork asher chooses a point within 60 feet of it that it can sense. Smoke fills a 20-foot radius sphere centered on that point. The sphere spreads around corners, and its area is heavily obscured. This smoke lasts until the start of the mjork's next turn or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. Unless dispersed before the start of the mjork's next turn, a sootling swarm forms in a space in the area, favoring a space a creature hostile to the mjork occupies. The swarm takes its turn just after the mjork and obeys the mjork's verbal commands (no action for the mjork). If issued no commands, the swarm acts independently, often attacking a creature that isn't its ally. The swarm can survive indefinitely after being created."
+						"The mjork asher chooses a point within 60 feet of it that it can sense. Smoke fills a 20-foot radius sphere centered on that point. The sphere spreads around corners, and its area is muy oscuro. This smoke lasts until the start of the mjork's next turn or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. Unless dispersed before the start of the mjork's next turn, a sootling swarm forms in a space in the area, favoring a space a creature hostile to the mjork occupies. The swarm takes its turn just after the mjork and obeys the mjork's verbal commands (no action for the mjork). If issued no commands, the swarm acts independently, often attacking a creature that isn't its ally. The swarm can survive indefinitely after being created."
 					]
 				}
 			],
@@ -8415,7 +8415,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell gust of wind}",
+							"{@spell ráfaga de viento}",
 							"{@spell invisibility} (self only)"
 						]
 					},
@@ -11119,7 +11119,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell guidance}",
 								"{@spell mending}",
 								"{@spell resistance}"
@@ -11143,7 +11143,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell dispel magic}",
 								"{@spell plant growth}"
 							]
@@ -11152,14 +11152,14 @@
 							"slots": 3,
 							"spells": [
 								"{@spell freedom of movement}",
-								"{@spell ice storm}"
+								"{@spell tormenta de hielo}"
 							]
 						},
 						"5": {
 							"slots": 2,
 							"spells": [
 								"{@spell commune with nature}",
-								"{@spell tree stride}"
+								"{@spell paso arbóreo}"
 							]
 						},
 						"6": {

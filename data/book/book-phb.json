@@ -15,7 +15,7 @@
 					],
 					"id": "001"
 				},
-				"Unlike a game of make-believe, D&D gives structure to the stories, a way of determining the consequences of the adventurers' action. Players roll dice to resolve whether their attacks hit or miss or whether their adventurers can scale a cliff, roll away from the strike of a magical lightning bolt, or pull off some other dangerous task. Anything is possible, but the dice make some outcomes more probable than others.",
+				"Unlike a game of make-believe, D&D gives structure to the stories, a way of determining the consequences of the adventurers' action. Players roll dice to resolve whether their attacks hit or miss or whether their adventurers can scale a cliff, roll away from the strike of a magical relámpago, or pull off some other dangerous task. Anything is possible, but the dice make some outcomes more probable than others.",
 				{
 					"type": "insetReadaloud",
 					"entries": [
@@ -786,7 +786,7 @@
 							"entries": [
 								"The shading in the Character Advancement table shows the four tiers of play. The tiers don't have any rules associated with them; they are a general description of how the play experience changes as characters gain levels.",
 								"{@b In the first tier (levels 1-4),} characters are effectively apprentice adventurers. They are learning the features that define them as members of particular classes, including the major choices that flavor their class features as they advance (such as a wizard's Arcane Tradition or a fighter's Martial Archetype). The threats they face are relatively minor, usually posing a danger to local farmsteads or villages.",
-								"{@b In the second tier (levels 5-10),} characters come into their own. Many spellcasters gain access to 3rd-level spells at the start of this tier, crossing a new threshold of magical power with spells such as {@spell fireball} and {@spell lightning bolt}. At this tier, many weapon-using classes gain the ability to make multiple attacks in one round. These characters have become important, facing dangers that threaten cities and kingdoms.",
+								"{@b In the second tier (levels 5-10),} characters come into their own. Many spellcasters gain access to 3rd-level spells at the start of this tier, crossing a new threshold of magical power with spells such as {@spell fireball} and {@spell relámpago}. At this tier, many weapon-using classes gain the ability to make multiple attacks in one round. These characters have become important, facing dangers that threaten cities and kingdoms.",
 								"{@b In the third tier (levels 11-16),} characters have reached a level of power that sets them high above the ordinary populace and makes them special even among adventurers. At 11th level, many spellcasters gain access to 6th-level spells, some of which create effects previously impossible for player characters to achieve. Other characters gain features that allow them to make more attacks or do more impressive things with those attacks. These mighty adventurers often confront threats to whole regions and continents.",
 								"{@b At the fourth tier (levels 17-20),} characters achieve the pinnacle of their class features, becoming heroic (or villainous) archetypes in their own right. The fate of the world or even the fundamental order of the multiverse might hang in the balance during their adventures."
 							],
@@ -1870,7 +1870,7 @@
 									"{@dice 5d4×10|5d4 × 10|Cleric Starting Wealth} gp"
 								],
 								[
-									"Druid",
+									"Druida",
 									"{@dice 2d4×10|2d4 × 10|Druid Starting Wealth} gp"
 								],
 								[
@@ -6926,7 +6926,7 @@
 											"name": "What Can you See?",
 											"page": 177,
 											"entries": [
-												"One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be lightly or heavily obscured, as explained in chapter 8."
+												"One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be lightly or muy oscuro, as explained in chapter 8."
 											],
 											"id": "124"
 										}
@@ -7412,7 +7412,7 @@
 									"data": {
 										"quickref": 5
 									},
-									"name": "Difficult Terrain",
+									"name": "Terreno difícil",
 									"page": 182,
 									"entries": [
 										"The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground\u2014all considered difficult terrain.",
@@ -7437,7 +7437,7 @@
 									"name": "Climbing, Swimming, and Crawling",
 									"page": 182,
 									"entries": [
-										"Each foot of movement costs 1 extra foot (2 extra feet in {@quickref difficult terrain||3}) when you're climbing, swimming, or crawling. You ignore this extra cost if you have a climbing speed and use it to climb, or a swimming speed and use it to swim. At the DM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength ({@skill Athletics}) check. Similarly, gaining any distance in rough water might require a successful Strength ({@skill Athletics}) check."
+										"Each foot of movement costs 1 extra foot (2 extra feet in {@quickref terreno difícil||3}) when you're climbing, swimming, or crawling. You ignore this extra cost if you have a climbing speed and use it to climb, or a swimming speed and use it to swim. At the DM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength ({@skill Athletics}) check. Similarly, gaining any distance in rough water might require a successful Strength ({@skill Athletics}) check."
 									],
 									"id": "14d"
 								},
@@ -7457,7 +7457,7 @@
 											"entries": [
 												"When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.",
 												"This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a {@dc 10} Strength ({@skill Athletics}) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.",
-												"When you land in {@quickref difficult terrain||3}, you must succeed on a {@dc 10} Dexterity ({@skill Acrobatics}) check to land on your feet. Otherwise, you land {@condition prone}."
+												"When you land in {@quickref terreno difícil||3}, you must succeed on a {@dc 10} Dexterity ({@skill Acrobatics}) check to land on your feet. Otherwise, you land {@condition prone}."
 											],
 											"id": "14f"
 										},
@@ -7643,12 +7643,12 @@
 									],
 									"entries": [
 										"The most fundamental tasks of adventuring\u2014noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few\u2014rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.",
-										"A given area might be lightly or heavily obscured. In a {@b lightly obscured} area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight.",
-										"A {@b heavily obscured} area\u2014such as darkness, opaque fog, or dense foliage\u2014blocks vision entirely. A creature effectively suffers from the {@condition blinded} condition when trying to see something in that area.",
+										"A given area might be lightly or muy oscuro. In a {@b lightly obscured} area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight.",
+										"A {@b muy oscuro} area\u2014such as darkness, opaque fog, or dense foliage\u2014blocks vision entirely. A creature effectively suffers from the {@condition blinded} condition when trying to see something in that area.",
 										"The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.",
 										"{@b Bright light} lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.",
 										"{@b Dim light}, also called shadows, creates a lightly obscured area. An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness. The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.",
-										"{@b Darkness} creates a heavily obscured area. Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness.",
+										"{@b Darkness} creates a muy oscuro area. Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness.",
 										{
 											"type": "entries",
 											"name": "Blindsight",
@@ -8195,7 +8195,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Difficult Terrain",
+							"name": "Terreno difícil",
 							"page": 190,
 							"entries": [
 								"Combat rarely takes place in bare rooms or on featureless plains.",
@@ -8215,7 +8215,7 @@
 							"entries": [
 								"Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are {@condition prone}, a condition described in the appendix.",
 								"You can drop {@condition prone} without using any of your speed. Standing up takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.",
-								"To move while {@condition prone}, you must crawl or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in {@quickref difficult terrain||3}, therefore, costs 3 feet of movement."
+								"To move while {@condition prone}, you must crawl or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in {@quickref terreno difícil||3}, therefore, costs 3 feet of movement."
 							],
 							"id": "189"
 						},
@@ -8224,7 +8224,7 @@
 							"name": "Moving around Other Creatures",
 							"page": 191,
 							"entries": [
-								"You can move through a nonhostile creature's space. In contrast, you can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you. Remember that another creature's space is {@quickref difficult terrain||3} for you.",
+								"You can move through a nonhostile creature's space. In contrast, you can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you. Remember that another creature's space is {@quickref terreno difícil||3} for you.",
 								"Whether a creature is a friend or an enemy, you can't willingly end your move in its space.",
 								"If you leave a hostile creature's reach during your move, you provoke an opportunity attack, as explained later in the chapter."
 							],
@@ -8353,7 +8353,7 @@
 									"type": "entries",
 									"entries": [
 										"To enter a square, you must have at least 1 square of movement left, even if the square is diagonally adjacent to the square you're in. (The rule for diagonal movement sacrifices realism for the sake of smooth play. The Dungeon Master's Guide provides guidance on using a more realistic approach.)",
-										"If a square costs extra movement, as a square of {@quickref difficult terrain||3} does, you must have enough movement left to pay for entering it. For example, you must have at least 2 squares of movement left to enter a square of {@quickref difficult terrain||3}."
+										"If a square costs extra movement, as a square of {@quickref terreno difícil||3} does, you must have enough movement left to pay for entering it. For example, you must have at least 2 squares of movement left to enter a square of {@quickref terreno difícil||3}."
 									],
 									"id": "192"
 								},
@@ -8747,7 +8747,7 @@
 											"name": "Lightning",
 											"page": 196,
 											"entries": [
-												"A lightning bolt spell and a blue dragon's breath deal lightning damage."
+												"A relámpago spell and a blue dragon's breath deal lightning damage."
 											],
 											"id": "1b3"
 										},
@@ -9371,7 +9371,7 @@
 							"name": "Areas of Effect",
 							"page": 204,
 							"entries": [
-								"Spells such as {@spell burning hands} and {@spell cone of cold} cover an area, allowing them to affect multiple creatures at once. A spell's description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a point of origin, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.",
+								"Spells such as {@spell burning hands} and {@spell cono de frío} cover an area, allowing them to affect multiple creatures at once. A spell's description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a point of origin, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.",
 								"A spell's effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn't included in the spell's area. To block one of these imaginary lines, an obstruction must provide {@quickref Cover||3||total cover}, as explained in chapter 9.",
 								{
 									"type": "image",
@@ -9563,7 +9563,7 @@
 								"{@spell Sleep}",
 								"{@spell Hablar con los animales}",
 								"{@spell Risa horrible de Tasha}",
-								"{@spell Thunderwave}",
+								"{@spell Ola atronadora}",
 								"{@spell Sirviente invisible}"
 							]
 						},
@@ -9617,7 +9617,7 @@
 								"{@spell Sending}",
 								"{@spell Speak with Dead}",
 								"{@spell Speak with Plants}",
-								"{@spell Stinking Cloud}",
+								"{@spell Nube apestosa}",
 								"{@spell Tongues}"
 							]
 						},
@@ -9824,7 +9824,7 @@
 							"columns": 4,
 							"items": [
 								"{@spell Banishment}",
-								"{@spell Control Water}",
+								"{@spell Controlar agua}",
 								"{@spell Guarda contra la muerte}",
 								"{@spell Divination}",
 								"{@spell Libertad de movimiento}",
@@ -9846,7 +9846,7 @@
 								"{@spell Geas}",
 								"{@spell Restablecimiento mayor}",
 								"{@spell Hallow}",
-								"{@spell Insect Plague}",
+								"{@spell Plaga de insectos}",
 								"{@spell Legend Lore}",
 								"{@spell Curar heridas en masa}",
 								"{@spell Planar Binding}",
@@ -9925,14 +9925,14 @@
 							"name": "Cantrips (0 Level)",
 							"columns": 4,
 							"items": [
-								"{@spell Druidcraft}",
+								"{@spell Saber druídico}",
 								"{@spell Guía}",
 								"{@spell Mending}",
 								"{@spell Rociada venenosa}",
-								"{@spell Produce Flame}",
+								"{@spell Crear llama}",
 								"{@spell Resistencia}",
 								"{@spell Shillelagh}",
-								"{@spell Thorn Whip}"
+								"{@spell Látigo de espinas}"
 							]
 						},
 						{
@@ -9956,7 +9956,7 @@
 								"{@spell Zancada prodigiosa}",
 								"{@spell Purificar comida y bebida}",
 								"{@spell Hablar con los animales}",
-								"{@spell Thunderwave}"
+								"{@spell Ola atronadora}"
 							]
 						},
 						{
@@ -9973,13 +9973,13 @@
 								"{@spell Find Traps}",
 								"{@spell Flame Blade}",
 								"{@spell Flaming Sphere}",
-								"{@spell Gust of Wind}",
+								"{@spell Ráfaga de viento}",
 								"{@spell Calentar metal}",
 								"{@spell Inmovilizar persona}",
 								"{@spell Restablecimiento menor}",
 								"{@spell Localizar animales o plantas}",
 								"{@spell Localizar objeto}",
-								"{@spell Moonbeam}",
+								"{@spell Rayo de luna}",
 								"{@spell Pass without Trace}",
 								"{@spell Protection from Poison}",
 								"{@spell Spike Growth}"
@@ -9992,16 +9992,16 @@
 							"columns": 4,
 							"items": [
 								"{@spell Call Lightning}",
-								"{@spell Conjure Animals}",
+								"{@spell Conjurar animales}",
 								"{@spell Luz del día}",
 								"{@spell Disipar magia}",
 								"{@spell Feign Death}",
 								"{@spell Meld into Stone}",
 								"{@spell Plant Growth}",
 								"{@spell Protection from Energy}",
-								"{@spell Sleet Storm}",
+								"{@spell Tormenta de aguanieve}",
 								"{@spell Speak with Plants}",
-								"{@spell Water Breathing}",
+								"{@spell Respirar bajo el agua}",
 								"{@spell Water Walk}",
 								"{@spell Wind Wall}"
 							]
@@ -10016,13 +10016,13 @@
 								"{@spell Confusion}",
 								"{@spell Conjure Minor Elementals}",
 								"{@spell Conjure Woodland Beings}",
-								"{@spell Control Water}",
+								"{@spell Controlar agua}",
 								"{@spell Dominate Beast}",
 								"{@spell Libertad de movimiento}",
 								"{@spell Giant Insect}",
 								"{@spell Grasping Vine}",
 								"{@spell Hallucinatory Terrain}",
-								"{@spell Ice Storm}",
+								"{@spell Tormenta de hielo}",
 								"{@spell Locate Creature}",
 								"{@spell Polymorph}",
 								"{@spell Stone Shape}",
@@ -10039,17 +10039,17 @@
 								"{@spell Antilife Shell}",
 								"{@spell Awaken}",
 								"{@spell Commune with Nature}",
-								"{@spell Conjure Elemental}",
+								"{@spell Conjurar elemental}",
 								"{@spell Contagion}",
 								"{@spell Geas}",
 								"{@spell Restablecimiento mayor}",
-								"{@spell Insect Plague}",
+								"{@spell Plaga de insectos}",
 								"{@spell Curar heridas en masa}",
 								"{@spell Planar Binding}",
 								"{@spell Reincarnate}",
 								"{@spell Escudriñar}",
-								"{@spell Tree Stride}",
-								"{@spell Wall of Stone}"
+								"{@spell Paso arbóreo}",
+								"{@spell Muro de piedra}"
 							]
 						},
 						{
@@ -10256,7 +10256,7 @@
 							"name": "3rd Level",
 							"columns": 4,
 							"items": [
-								"{@spell Conjure Animals}",
+								"{@spell Conjurar animales}",
 								"{@spell Conjure Barrage}",
 								"{@spell Luz del día}",
 								"{@spell Lightning Arrow}",
@@ -10264,7 +10264,7 @@
 								"{@spell Plant Growth}",
 								"{@spell Protection from Energy}",
 								"{@spell Speak with Plants}",
-								"{@spell Water Breathing}",
+								"{@spell Respirar bajo el agua}",
 								"{@spell Water Walk}",
 								"{@spell Wind Wall}"
 							]
@@ -10291,7 +10291,7 @@
 								"{@spell Commune with Nature}",
 								"{@spell Conjure Volley}",
 								"{@spell Swift Quiver}",
-								"{@spell Tree Stride}"
+								"{@spell Paso arbóreo}"
 							]
 						}
 					],
@@ -10307,7 +10307,7 @@
 							"name": "Cantrips (0 Level)",
 							"columns": 4,
 							"items": [
-								"{@spell Acid Splash}",
+								"{@spell Salpicadura ácida}",
 								"{@spell Guardia de cuchillas}",
 								"{@spell Chill Touch}",
 								"{@spell Luces danzantes}",
@@ -10345,11 +10345,11 @@
 								"{@spell Jump}",
 								"{@spell Mage Armor}",
 								"{@spell Magic Missile}",
-								"{@spell Ray of Sickness}",
+								"{@spell Rayo nauseabundo}",
 								"{@spell Shield}",
 								"{@spell Silent Image}",
 								"{@spell Sleep}",
-								"{@spell Thunderwave}",
+								"{@spell Ola atronadora}",
 								"{@spell Witch Bolt}"
 							]
 						},
@@ -10369,7 +10369,7 @@
 								"{@spell Detectar pensamientos}",
 								"{@spell Potenciar característica}",
 								"{@spell Agrandar/reducir}",
-								"{@spell Gust of Wind}",
+								"{@spell Ráfaga de viento}",
 								"{@spell Inmovilizar persona}",
 								"{@spell Invisibility}",
 								"{@spell Knock}",
@@ -10402,14 +10402,14 @@
 								"{@spell Gaseous Form}",
 								"{@spell Haste}",
 								"{@spell Hypnotic Pattern}",
-								"{@spell Lightning Bolt}",
+								"{@spell Relámpago}",
 								"{@spell Major Image}",
 								"{@spell Protection from Energy}",
-								"{@spell Sleet Storm}",
+								"{@spell Tormenta de aguanieve}",
 								"{@spell Slow}",
-								"{@spell Stinking Cloud}",
+								"{@spell Nube apestosa}",
 								"{@spell Tongues}",
-								"{@spell Water Breathing}",
+								"{@spell Respirar bajo el agua}",
 								"{@spell Water Walk}"
 							]
 						},
@@ -10425,7 +10425,7 @@
 								"{@spell Puerta dimensional}",
 								"{@spell Dominate Beast}",
 								"{@spell Invisibilidad mejorada}",
-								"{@spell Ice Storm}",
+								"{@spell Tormenta de hielo}",
 								"{@spell Polymorph}",
 								"{@spell Stoneskin}",
 								"{@spell Muro de Fuego}"
@@ -10439,15 +10439,15 @@
 							"items": [
 								"{@spell Animate Objects}",
 								"{@spell Cloudkill}",
-								"{@spell Cone of Cold}",
+								"{@spell Cono de frío}",
 								"{@spell Creation}",
 								"{@spell Dominate Person}",
 								"{@spell Inmovilizar monstruo}",
-								"{@spell Insect Plague}",
+								"{@spell Plaga de insectos}",
 								"{@spell Seeming}",
 								"{@spell Telequinesis}",
 								"{@spell Teleportation Circle}",
-								"{@spell Wall of Stone}"
+								"{@spell Muro de piedra}"
 							]
 						},
 						{
@@ -10684,7 +10684,7 @@
 							"name": "Cantrips (0 Level)",
 							"columns": 4,
 							"items": [
-								"{@spell Acid Splash}",
+								"{@spell Salpicadura ácida}",
 								"{@spell Guardia de cuchillas}",
 								"{@spell Chill Touch}",
 								"{@spell Luces danzantes}",
@@ -10729,13 +10729,13 @@
 								"{@spell Mage Armor}",
 								"{@spell Magic Missile}",
 								"{@spell Protección contra el bien y el mal}",
-								"{@spell Ray of Sickness}",
+								"{@spell Rayo nauseabundo}",
 								"{@spell Shield}",
 								"{@spell Silent Image}",
 								"{@spell Sleep}",
 								"{@spell Risa horrible de Tasha}",
 								"{@spell Disco flotante de Tenser}",
-								"{@spell Thunderwave}",
+								"{@spell Ola atronadora}",
 								"{@spell Sirviente invisible}",
 								"{@spell Witch Bolt}"
 							]
@@ -10759,7 +10759,7 @@
 								"{@spell Agrandar/reducir}",
 								"{@spell Flaming Sphere}",
 								"{@spell Gentle Repose}",
-								"{@spell Gust of Wind}",
+								"{@spell Ráfaga de viento}",
 								"{@spell Inmovilizar persona}",
 								"{@spell Invisibility}",
 								"{@spell Knock}",
@@ -10803,7 +10803,7 @@
 								"{@spell Haste}",
 								"{@spell Hypnotic Pattern}",
 								"{@spell Leomund's Tiny Hut}",
-								"{@spell Lightning Bolt}",
+								"{@spell Relámpago}",
 								"{@spell Magic Circle}",
 								"{@spell Major Image}",
 								"{@spell Nondetection}",
@@ -10811,12 +10811,12 @@
 								"{@spell Protection from Energy}",
 								"{@spell Remove Curse}",
 								"{@spell Sending}",
-								"{@spell Sleet Storm}",
+								"{@spell Tormenta de aguanieve}",
 								"{@spell Slow}",
-								"{@spell Stinking Cloud}",
+								"{@spell Nube apestosa}",
 								"{@spell Tongues}",
 								"{@spell Vampiric Touch}",
-								"{@spell Water Breathing}"
+								"{@spell Respirar bajo el agua}"
 							]
 						},
 						{
@@ -10830,14 +10830,14 @@
 								"{@spell Blight}",
 								"{@spell Confusion}",
 								"{@spell Conjure Minor Elementals}",
-								"{@spell Control Water}",
+								"{@spell Controlar agua}",
 								"{@spell Puerta dimensional}",
 								"{@spell Tentáculos negros de Evard}",
 								"{@spell Fabricate}",
 								"{@spell Escudo de fuego}",
 								"{@spell Invisibilidad mejorada}",
 								"{@spell Hallucinatory Terrain}",
-								"{@spell Ice Storm}",
+								"{@spell Tormenta de hielo}",
 								"{@spell Leomund's Secret Chest}",
 								"{@spell Locate Creature}",
 								"{@spell Mordenkainen's Faithful Hound}",
@@ -10859,8 +10859,8 @@
 								"{@spell Animate Objects}",
 								"{@spell Bigby's Hand}",
 								"{@spell Cloudkill}",
-								"{@spell Cone of Cold}",
-								"{@spell Conjure Elemental}",
+								"{@spell Cono de frío}",
+								"{@spell Conjurar elemental}",
 								"{@spell Contact Other Plane}",
 								"{@spell Creation}",
 								"{@spell Dominate Person}",
@@ -10878,7 +10878,7 @@
 								"{@spell Telequinesis}",
 								"{@spell Teleportation Circle}",
 								"{@spell Wall of Force}",
-								"{@spell Wall of Stone}"
+								"{@spell Muro de piedra}"
 							]
 						},
 						{
@@ -10987,7 +10987,7 @@
 							"columns": 4,
 							"style": "list-hang-notitle",
 							"items": [
-								"{@spell Acid Splash}",
+								"{@spell Salpicadura ácida}",
 								"{@spell Auxilio}",
 								"{@spell Alarm}",
 								"{@spell Alter Self}",
@@ -11047,12 +11047,12 @@
 								"{@spell Compelled Duel}",
 								"{@spell Comprehend Languages}",
 								"{@spell Compulsion}",
-								"{@spell Cone of Cold}",
+								"{@spell Cono de frío}",
 								"{@spell Confusion}",
-								"{@spell Conjure Animals}",
+								"{@spell Conjurar animales}",
 								"{@spell Conjure Barrage}",
 								"{@spell Conjure Celestial}",
-								"{@spell Conjure Elemental}",
+								"{@spell Conjurar elemental}",
 								"{@spell Conjure Fey}",
 								"{@spell Conjure Minor Elementals}",
 								"{@spell Conjure Volley}",
@@ -11061,7 +11061,7 @@
 								"{@spell Contagion}",
 								"{@spell Contingency}",
 								"{@spell Continual Flame}",
-								"{@spell Control Water}",
+								"{@spell Controlar agua}",
 								"{@spell Control Weather}",
 								"{@spell Cordon of Arrows}",
 								"{@spell Contrahechizo}",
@@ -11098,7 +11098,7 @@
 								"{@spell Dominate Person}",
 								"{@spell Drawmij's Instant Summons}",
 								"{@spell Dream}",
-								"{@spell Druidcraft}",
+								"{@spell Saber druídico}",
 								"{@spell Earthquake}",
 								"{@spell Eldritch Blast}",
 								"{@spell Elemental Weapon}",
@@ -11155,7 +11155,7 @@
 								"{@spell Guards and Wards}",
 								"{@spell Guía}",
 								"{@spell Saeta guía}",
-								"{@spell Gust of Wind}",
+								"{@spell Ráfaga de viento}",
 								"{@spell Tormenta de espinas}",
 								"{@spell Hallow}",
 								"{@spell Hallucinatory Terrain}",
@@ -11174,13 +11174,13 @@
 								"{@spell Hambre de Hadar}",
 								"{@spell Marca del cazador}",
 								"{@spell Hypnotic Pattern}",
-								"{@spell Ice Storm}",
+								"{@spell Tormenta de hielo}",
 								"{@spell Identify}",
 								"{@spell Texto ilusorio}",
 								"{@spell Imprisonment}",
 								"{@spell Incendiary Cloud}",
 								"{@spell Infligir heridas}",
-								"{@spell Insect Plague}",
+								"{@spell Plaga de insectos}",
 								"{@spell Invisibility}",
 								"{@spell Jump}",
 								"{@spell Knock}",
@@ -11191,7 +11191,7 @@
 								"{@spell Levitate}",
 								"{@spell Light}",
 								"{@spell Lightning Arrow}",
-								"{@spell Lightning Bolt}",
+								"{@spell Relámpago}",
 								"{@spell Localizar animales o plantas}",
 								"{@spell Locate Creature}",
 								"{@spell Localizar objeto}",
@@ -11221,7 +11221,7 @@
 								"{@spell Mislead}",
 								"{@spell Paso brumoso}",
 								"{@spell Modify Memory}",
-								"{@spell Moonbeam}",
+								"{@spell Rayo de luna}",
 								"{@spell Mordenkainen's Faithful Hound}",
 								"{@spell Mordenkainen's Magnificent Mansion}",
 								"{@spell Mordenkainen's Private Sanctum}",
@@ -11250,7 +11250,7 @@
 								"{@spell Prestidigitación}",
 								"{@spell Prismatic Spray}",
 								"{@spell Prismatic Wall}",
-								"{@spell Produce Flame}",
+								"{@spell Crear llama}",
 								"{@spell Programmed Illusion}",
 								"{@spell Project Image}",
 								"{@spell Protection from Energy}",
@@ -11261,7 +11261,7 @@
 								"{@spell Enlace telepático de Rary}",
 								"{@spell Ray of Enfeeblement}",
 								"{@spell Rayo de escarcha}",
-								"{@spell Ray of Sickness}",
+								"{@spell Rayo nauseabundo}",
 								"{@spell Regenerate}",
 								"{@spell Reincarnate}",
 								"{@spell Remove Curse}",
@@ -11289,7 +11289,7 @@
 								"{@spell Silent Image}",
 								"{@spell Simulacrum}",
 								"{@spell Sleep}",
-								"{@spell Sleet Storm}",
+								"{@spell Tormenta de aguanieve}",
 								"{@spell Slow}",
 								"{@spell Piedad con los moribundos}",
 								"{@spell Hablar con los animales}",
@@ -11300,7 +11300,7 @@
 								"{@spell Espíritus guardianes}",
 								"{@spell Arma espiritual}",
 								"{@spell Staggering Smite}",
-								"{@spell Stinking Cloud}",
+								"{@spell Nube apestosa}",
 								"{@spell Stone Shape}",
 								"{@spell Stoneskin}",
 								"{@spell Storm of Vengeance}",
@@ -11316,13 +11316,13 @@
 								"{@spell Teleportation Circle}",
 								"{@spell Disco flotante de Tenser}",
 								"{@spell Taumaturgia}",
-								"{@spell Thorn Whip}",
+								"{@spell Látigo de espinas}",
 								"{@spell Thunderous Smite}",
-								"{@spell Thunderwave}",
+								"{@spell Ola atronadora}",
 								"{@spell Time Stop}",
 								"{@spell Tongues}",
 								"{@spell Transport via Plants}",
-								"{@spell Tree Stride}",
+								"{@spell Paso arbóreo}",
 								"{@spell True Polymorph}",
 								"{@spell True Resurrection}",
 								"{@spell True Seeing}",
@@ -11334,10 +11334,10 @@
 								"{@spell Muro de Fuego}",
 								"{@spell Wall of Force}",
 								"{@spell Wall of Ice}",
-								"{@spell Wall of Stone}",
+								"{@spell Muro de piedra}",
 								"{@spell Wall of Thorns}",
 								"{@spell Warding Bond}",
-								"{@spell Water Breathing}",
+								"{@spell Respirar bajo el agua}",
 								"{@spell Water Walk}",
 								"{@spell Web}",
 								"{@spell Weird}",
@@ -11636,7 +11636,7 @@
 											"{@deity Talos}, god of storms",
 											"CE",
 											"Tempest",
-											"Three lightning bolts radiating from a central point"
+											"Three relámpagos radiating from a central point"
 										],
 										[
 											"{@deity Tempus}, god of war",
@@ -12564,7 +12564,7 @@
 											"{@deity Zeus|greek}, god of the sky, ruler of the gods",
 											"N",
 											"Tempest",
-											"Fist full of lightning bolts"
+											"Fist full of relámpagos"
 										],
 										[
 											"{@deity Aphrodite|greek}, goddess of love and beauty",

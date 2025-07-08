@@ -393,13 +393,13 @@ class PageFilterSpells extends PageFilterBase {
 		});
 		this._saveFilter = new Filter({
 			header: "Saving Throw",
-			items: ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"],
+			items: ["fuerza", "destreza", "constitución", "inteligencia", "sabiduría", "carisma"],
 			displayFn: PageFilterSpells.getFilterAbilitySave,
 			itemSortFn: null,
 		});
 		this._checkFilter = new Filter({
 			header: "Ability Check",
-			items: ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"],
+			items: ["fuerza", "destreza", "constitución", "inteligencia", "sabiduría", "carisma"],
 			displayFn: PageFilterSpells.getFilterAbilityCheck,
 			itemSortFn: null,
 		});

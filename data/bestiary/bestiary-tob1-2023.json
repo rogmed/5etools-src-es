@@ -4197,7 +4197,7 @@
 				{
 					"name": "Haboob (1/Day)",
 					"entries": [
-						"A 30-foot-tall cylinder of sand forms in the anubian's space and moves with it for 10 minutes, until the anubian ends the storm as a bonus action, or until its {@status concentration} ends (as if {@status concentration||concentrating} on a spell). The area within 5 feet of the anubian is heavily obscured. A creature that starts its turn in that area or enters the area for the first time on a turn must succeed on a {@dc 13} Strength saving throw or be {@condition restrained} by the storm. While {@condition restrained}, the creature takes 3 ({@damage 1d6}) slashing damage at the start of each of its turns, and moves with the anubian when the anubian moves. A creature, including the {@condition restrained} creature, can use its action to free the {@condition restrained} creature by succeeding on a {@dc 13} Strength check."
+						"A 30-foot-tall cylinder of sand forms in the anubian's space and moves with it for 10 minutes, until the anubian ends the storm as a bonus action, or until its {@status concentration} ends (as if {@status concentration||concentrating} on a spell). The area within 5 feet of the anubian is muy oscuro. A creature that starts its turn in that area or enters the area for the first time on a turn must succeed on a {@dc 13} Strength saving throw or be {@condition restrained} by the storm. While {@condition restrained}, the creature takes 3 ({@damage 1d6}) slashing damage at the start of each of its turns, and moves with the anubian when the anubian moves. A creature, including the {@condition restrained} creature, can use its action to free the {@condition restrained} creature by succeeding on a {@dc 13} Strength check."
 					]
 				}
 			],
@@ -5474,7 +5474,7 @@
 				{
 					"name": "Ash Cloud {@recharge}",
 					"entries": [
-						"The ash drake beats its wings, filling the area within 10 feet of it with ash for 1 minute. The ash spreads around corners, and its area is heavily obscured. Each creature that isn't an ash drake and that enters the cloud for the first time on its turn or starts its turn there must succeed on a {@dc 13} Constitution saving throw or become {@condition blinded} until the end of its next turn. The ash moves with the drake, remaining centered on it for the duration."
+						"The ash drake beats its wings, filling the area within 10 feet of it with ash for 1 minute. The ash spreads around corners, and its area is muy oscuro. Each creature that isn't an ash drake and that enters the cloud for the first time on its turn or starts its turn there must succeed on a {@dc 13} Constitution saving throw or become {@condition blinded} until the end of its next turn. The ash moves with the drake, remaining centered on it for the duration."
 					]
 				},
 				{
@@ -8129,7 +8129,7 @@
 						"The boloti casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 11}):"
 					],
 					"will": [
-						"{@spell water breathing}",
+						"{@spell respirar bajo el agua}",
 						"{@spell water walk}"
 					],
 					"daily": {
@@ -13261,7 +13261,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The coral drake can breathe only underwater."
 					]
@@ -13305,7 +13305,7 @@
 			],
 			"traitTags": [
 				"Camouflage",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"SD"
@@ -15106,7 +15106,7 @@
 						],
 						"1e": [
 							"{@spell augury}",
-							"{@spell lightning bolt}",
+							"{@spell relámpago}",
 							"{@spell spirit guardians}"
 						]
 					},
@@ -15605,7 +15605,7 @@
 						"3": [
 							"{@spell dispel magic}",
 							"{@spell giant insect}",
-							"{@spell insect plague}"
+							"{@spell plaga de insectos}"
 						]
 					},
 					"ability": "cha",
@@ -16381,7 +16381,7 @@
 					"daily": {
 						"3e": [
 							"{@spell dispel magic}",
-							"{@spell insect plague} (biting worms)"
+							"{@spell plaga de insectos} (biting worms)"
 						],
 						"1e": [
 							"{@spell earthquake}",
@@ -19009,7 +19009,7 @@
 						"The dryad casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"3e": [
@@ -19041,7 +19041,7 @@
 					]
 				},
 				{
-					"name": "Tree Stride",
+					"name": "Paso arbóreo",
 					"entries": [
 						"Once on her turn, the dryad can use 10 feet of her movement to step magically into one dead tree within her reach and emerge from a second dead tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger."
 					]
@@ -19078,7 +19078,7 @@
 			],
 			"traitTags": [
 				"Magic Resistance",
-				"Tree Stride"
+				"Paso arbóreo"
 			],
 			"senseTags": [
 				"D"
@@ -25157,7 +25157,7 @@
 				{
 					"name": "Silt Cloud (Recharges after a Short or Long Rest)",
 					"entries": [
-						"When it takes damage while underwater and within 5 feet of the bottom of a body of water, the glass gator stirs up a 10-foot-radius sphere of silt centered on it. The silt spreads around corners, and its area is heavily obscured. It lasts for 1 minute or until a strong current disperses it. The glass gator can then swim up to half its speed. The cloud of silt doesn't move with the glass gator."
+						"When it takes damage while underwater and within 5 feet of the bottom of a body of water, the glass gator stirs up a 10-foot-radius sphere of silt centered on it. The silt spreads around corners, and its area is muy oscuro. It lasts for 1 minute or until a strong current disperses it. The glass gator can then swim up to half its speed. The cloud of silt doesn't move with the glass gator."
 					]
 				}
 			],
@@ -26612,7 +26612,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell gust of wind}",
+							"{@spell ráfaga de viento}",
 							"{@spell telekinesis}"
 						],
 						"1e": [
@@ -27569,7 +27569,7 @@
 				{
 					"name": "Sudden Gust {@recharge 5}",
 					"entries": [
-						"Hraesvelgr unleashes a powerful gust of wind in a 60-foot line that is 10 feet wide. Each creature in the line must make a {@dc 19} Strength saving throw. On a failure, a creature takes 63 ({@damage 18d6}) bludgeoning damage and is pushed up to 15 feet away from Hraesvelgr. On a success, a creature takes half the damage and isn't pushed."
+						"Hraesvelgr unleashes a powerful ráfaga de viento in a 60-foot line that is 10 feet wide. Each creature in the line must make a {@dc 19} Strength saving throw. On a failure, a creature takes 63 ({@damage 18d6}) bludgeoning damage and is pushed up to 15 feet away from Hraesvelgr. On a success, a creature takes half the damage and isn't pushed."
 					]
 				}
 			],
@@ -28875,7 +28875,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The isonade can breathe only underwater."
 					]
@@ -28913,7 +28913,7 @@
 			"traitTags": [
 				"Magic Resistance",
 				"Siege Monster",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -29281,7 +29281,7 @@
 						],
 						"3": [
 							"{@spell bestow curse}",
-							"{@spell gust of wind}"
+							"{@spell ráfaga de viento}"
 						]
 					},
 					"ability": "wis",
@@ -30853,7 +30853,7 @@
 				{
 					"name": "Ink Cloud {@recharge 5}",
 					"entries": [
-						"While underwater, the krake spawn emits a 20-foot-radius cloud of ink all around itself. Each creature in the cloud must make a {@dc 17} Constitution saving throw, taking 55 ({@damage 10d10}) poison damage on a failed save, or half as much damage on a successful one. The area is heavily obscured for 1 minute, although a significant current can disperse the ink."
+						"While underwater, the krake spawn emits a 20-foot-radius cloud of ink all around itself. Each creature in the cloud must make a {@dc 17} Constitution saving throw, taking 55 ({@damage 10d10}) poison damage on a failed save, or half as much damage on a successful one. The area is muy oscuro for 1 minute, although a significant current can disperse the ink."
 					]
 				},
 				{
@@ -33236,7 +33236,7 @@
 						"The mallqui casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"3e": [
@@ -35644,7 +35644,7 @@
 					"will": [
 						"{@spell continual flame}",
 						"{@spell invisibility} (self only)",
-						"{@spell moonbeam}",
+						"{@spell rayo de luna}",
 						"{@spell zone of truth}"
 					],
 					"daily": {
@@ -42218,7 +42218,7 @@
 					],
 					"will": [
 						"{@spell animal friendship}",
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell entangle}"
 					],
 					"daily": {
@@ -43170,7 +43170,7 @@
 					],
 					"will": [
 						"{@spell create or destroy water}",
-						"{@spell water breathing}"
+						"{@spell respirar bajo el agua}"
 					],
 					"daily": {
 						"1": [
@@ -43776,7 +43776,7 @@
 							"{@spell control weather} (as an action)"
 						],
 						"3e": [
-							"{@spell gust of wind}",
+							"{@spell ráfaga de viento}",
 							"{@spell sleet storm}"
 						]
 					},
@@ -44565,7 +44565,7 @@
 				{
 					"name": "Scouring Sirocco {@recharge 5}",
 					"entries": [
-						"The sand hag generates a blast of hot wind and sand in a 30-foot cone. Each creature in the area must make a {@dc 14} Constitution saving throw. On a failure, a creature takes 14 ({@damage 4d6}) slashing damage and 9 ({@damage 2d8}) fire damage and is {@condition blinded} for 1 minute. On a success, a creature takes half the damage and isn't {@condition blinded}. A {@condition blinded} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The area is heavily obscured by airborne sand until the start of the sand hag's next turn."
+						"The sand hag generates a blast of hot wind and sand in a 30-foot cone. Each creature in the area must make a {@dc 14} Constitution saving throw. On a failure, a creature takes 14 ({@damage 4d6}) slashing damage and 9 ({@damage 2d8}) fire damage and is {@condition blinded} for 1 minute. On a success, a creature takes half the damage and isn't {@condition blinded}. A {@condition blinded} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The area is muy oscuro by airborne sand until the start of the sand hag's next turn."
 					]
 				}
 			],
@@ -47675,7 +47675,7 @@
 				{
 					"name": "Shellycoat's Fog (1/Day)",
 					"entries": [
-						"While in contact with water, the shellycoat can create a 20-foot-radius sphere of fog centered on a point it can see within 60 feet of it for 1 minute. The sphere spreads around corners, and its area is heavily obscured. A creature that enters the fog for the first time on a turn or starts its turn there must succeed on a {@dc 13} Constitution saving throw or be {@condition poisoned} and unable to breathe, unless it can breathe water, for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"While in contact with water, the shellycoat can create a 20-foot-radius sphere of fog centered on a point it can see within 60 feet of it for 1 minute. The sphere spreads around corners, and its area is muy oscuro. A creature that enters the fog for the first time on a turn or starts its turn there must succeed on a {@dc 13} Constitution saving throw or be {@condition poisoned} and unable to breathe, unless it can breathe water, for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 					]
 				}
 			],
@@ -48501,7 +48501,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The slow storm makes three Slam attacks or four Lightning Bolt attacks. If two Slam attacks hit one creature, the target must succeed on a {@dc 18} Constitution saving throw or be wracked with pain for 1 minute. While the target is wracked with pain, minute bits of electricity dance within its body, and the target takes 4 ({@damage 1d8}) lightning damage for every 5 feet it moves. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"The slow storm makes three Slam attacks or four Relámpago attacks. If two Slam attacks hit one creature, the target must succeed on a {@dc 18} Constitution saving throw or be wracked with pain for 1 minute. While the target is wracked with pain, minute bits of electricity dance within its body, and the target takes 4 ({@damage 1d8}) lightning damage for every 5 feet it moves. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 					]
 				},
 				{
@@ -48511,7 +48511,7 @@
 					]
 				},
 				{
-					"name": "Lightning Bolt",
+					"name": "Relámpago",
 					"entries": [
 						"{@atk rs} {@hit 9} to hit, range 120 ft., one target. {@h}22 ({@damage 4d8 + 4}) lightning damage."
 					]
@@ -55157,7 +55157,7 @@
 				{
 					"name": "Poison Breath {@recharge 5}",
 					"entries": [
-						"The vapor lynx exhales poisonous fog in a 20-foot radius centered on itself. The fog spreads around corners, and its area is heavily obscured. Each creature in the area must make a {@dc 14} Constitution saving throw. On a failure, a creature takes 28 ({@damage 8d6}) poison damage and is {@condition poisoned} until the end of its next turn. On a success, a creature takes half the damage and isn't {@condition poisoned}. The fog lasts for 1 minute. A creature that starts its turn in the fog or enters the fog for the first time on a turn must succeed on a {@dc 14} Constitution saving throw or be {@condition poisoned} until the end of its next turn."
+						"The vapor lynx exhales poisonous fog in a 20-foot radius centered on itself. The fog spreads around corners, and its area is muy oscuro. Each creature in the area must make a {@dc 14} Constitution saving throw. On a failure, a creature takes 28 ({@damage 8d6}) poison damage and is {@condition poisoned} until the end of its next turn. On a success, a creature takes half the damage and isn't {@condition poisoned}. The fog lasts for 1 minute. A creature that starts its turn in the fog or enters the fog for the first time on a turn must succeed on a {@dc 14} Constitution saving throw or be {@condition poisoned} until the end of its next turn."
 					]
 				}
 			],

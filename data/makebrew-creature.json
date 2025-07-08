@@ -4,7 +4,7 @@
 			"name": "Aberrant Ground",
 			"source": "MM",
 			"entries": [
-				"The ground in a 10-foot radius around <$short_name$> is doughlike {@quickref difficult terrain||3}. Each creature that starts its turn in that area must succeed on a {@dc 10} Strength saving throw or have its speed reduced to 0 until the start of its next turn."
+				"The ground in a 10-foot radius around <$short_name$> is doughlike {@quickref terreno difícil||3}. Each creature that starts its turn in that area must succeed on a {@dc 10} Strength saving throw or have its speed reduced to 0 until the start of its next turn."
 			]
 		},
 		{
@@ -525,7 +525,7 @@
 			"name": "Libertad de movimiento",
 			"source": "MM",
 			"entries": [
-				"<$title_short_name$> ignores {@quickref difficult terrain||3}, and magical effects can't reduce its speed or cause it to be {@condition apresado}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition agarrado}."
+				"<$title_short_name$> ignores {@quickref terreno difícil||3}, and magical effects can't reduce its speed or cause it to be {@condition apresado}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition agarrado}."
 			]
 		},
 		{
@@ -680,7 +680,7 @@
 			"name": "Ice Walk",
 			"source": "MM",
 			"entries": [
-				"<$title_short_name$> can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref difficult terrain||3} composed of ice or snow doesn't cost it extra movement."
+				"<$title_short_name$> can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref terreno difícil||3} composed of ice or snow doesn't cost it extra movement."
 			]
 		},
 		{
@@ -729,7 +729,7 @@
 			"name": "Incorporeal Movement",
 			"source": "DMG",
 			"entries": [
-				"<$title_short_name$> can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+				"<$title_short_name$> can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 			]
 		},
 		{
@@ -1518,7 +1518,7 @@
 			]
 		},
 		{
-			"name": "Tree Stride",
+			"name": "Paso arbóreo",
 			"source": "MM",
 			"entries": [
 				"Once on their turn, <$short_name$> can use 10 feet of movement to step magically into one living tree within reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger."
@@ -1606,7 +1606,7 @@
 			]
 		},
 		{
-			"name": "Water Breathing",
+			"name": "Respirar bajo el agua",
 			"source": "MM",
 			"entries": [
 				"<$title_short_name$> can breathe only underwater."
@@ -2045,7 +2045,7 @@
 			"name": "Lightning Strike (Storm Giant)",
 			"source": "MM",
 			"entries": [
-				"<$title_short_name$> hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC <$dc__dex$> Dexterity saving throw, taking 54 ({@damage 12d8}) lightning damage on a failed save, or half as much damage on a successful one."
+				"<$title_short_name$> hurls a magical relámpago at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC <$dc__dex$> Dexterity saving throw, taking 54 ({@damage 12d8}) lightning damage on a failed save, or half as much damage on a successful one."
 			]
 		},
 		{

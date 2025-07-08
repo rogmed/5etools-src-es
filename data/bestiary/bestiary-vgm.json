@@ -114,7 +114,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell cone of cold}",
+								"{@spell cono de frío}",
 								"{@spell wall of force}"
 							]
 						},
@@ -337,7 +337,7 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -593,7 +593,7 @@
 									"slots": 4,
 									"spells": [
 										"{@spell identify}",
-										"{@spell ray of sickness}"
+										"{@spell rayo nauseabundo}"
 									]
 								},
 								"2": {
@@ -608,7 +608,7 @@
 									"spells": [
 										"{@spell bestow curse}",
 										"{@spell counterspell}",
-										"{@spell lightning bolt}"
+										"{@spell relámpago}"
 									]
 								},
 								"4": {
@@ -725,7 +725,7 @@
 									"slots": 3,
 									"spells": [
 										"{@spell flaming sphere}",
-										"{@spell moonbeam}",
+										"{@spell rayo de luna}",
 										"{@spell spike growth}"
 									]
 								},
@@ -746,8 +746,8 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell insect plague}",
-										"{@spell tree stride}"
+										"{@spell plaga de insectos}",
+										"{@spell paso arbóreo}"
 									]
 								},
 								"6": {
@@ -889,7 +889,7 @@
 										"slots": 4,
 										"spells": [
 											"{@spell identify}",
-											"{@spell ray of sickness}"
+											"{@spell rayo nauseabundo}"
 										]
 									},
 									"2": {
@@ -904,7 +904,7 @@
 										"spells": [
 											"{@spell bestow curse}",
 											"{@spell counterspell}",
-											"{@spell lightning bolt}"
+											"{@spell relámpago}"
 										]
 									},
 									"4": {
@@ -1026,7 +1026,7 @@
 										"slots": 3,
 										"spells": [
 											"{@spell flaming sphere}",
-											"{@spell moonbeam}",
+											"{@spell rayo de luna}",
 											"{@spell spike growth}"
 										]
 									},
@@ -1047,8 +1047,8 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell insect plague}",
-											"{@spell tree stride}"
+											"{@spell plaga de insectos}",
+											"{@spell paso arbóreo}"
 										]
 									},
 									"6": {
@@ -1343,10 +1343,10 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell mending}",
 								"{@spell poison spray}",
-								"{@spell produce flame}"
+								"{@spell crear llama}"
 							]
 						},
 						"1": {
@@ -1369,9 +1369,9 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell meld into stone}",
-								"{@spell water breathing}"
+								"{@spell respirar bajo el agua}"
 							]
 						},
 						"4": {
@@ -1388,7 +1388,7 @@
 							"spells": [
 								"{@spell commune with nature}",
 								"{@spell mass cure wounds}",
-								"{@spell tree stride}"
+								"{@spell paso arbóreo}"
 							]
 						},
 						"6": {
@@ -2068,7 +2068,7 @@
 								"{@spell healing word}",
 								"{@spell heroism}",
 								"{@spell sleep}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2427,8 +2427,8 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell cone of cold}*",
-							"{@spell ice storm}*",
+							"{@spell cono de frío}*",
+							"{@spell tormenta de hielo}*",
 							"{@spell wall of ice}*"
 						],
 						"1e": [
@@ -2448,7 +2448,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The hag can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref difficult terrain||3} composed of ice or snow doesn't cost her extra moment."
+						"The hag can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref terreno difícil||3} composed of ice or snow doesn't cost her extra moment."
 					]
 				}
 			],
@@ -2488,7 +2488,7 @@
 									"slots": 4,
 									"spells": [
 										"{@spell identify}",
-										"{@spell ray of sickness}"
+										"{@spell rayo nauseabundo}"
 									]
 								},
 								"2": {
@@ -2503,7 +2503,7 @@
 									"spells": [
 										"{@spell bestow curse}",
 										"{@spell counterspell}",
-										"{@spell lightning bolt}"
+										"{@spell relámpago}"
 									]
 								},
 								"4": {
@@ -2620,7 +2620,7 @@
 									"slots": 3,
 									"spells": [
 										"{@spell flaming sphere}",
-										"{@spell moonbeam}",
+										"{@spell rayo de luna}",
 										"{@spell spike growth}"
 									]
 								},
@@ -2641,8 +2641,8 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell insect plague}",
-										"{@spell tree stride}"
+										"{@spell plaga de insectos}",
+										"{@spell paso arbóreo}"
 									]
 								},
 								"6": {
@@ -2789,7 +2789,7 @@
 										"slots": 4,
 										"spells": [
 											"{@spell identify}",
-											"{@spell ray of sickness}"
+											"{@spell rayo nauseabundo}"
 										]
 									},
 									"2": {
@@ -2804,7 +2804,7 @@
 										"spells": [
 											"{@spell bestow curse}",
 											"{@spell counterspell}",
-											"{@spell lightning bolt}"
+											"{@spell relámpago}"
 										]
 									},
 									"4": {
@@ -2926,7 +2926,7 @@
 										"slots": 3,
 										"spells": [
 											"{@spell flaming sphere}",
-											"{@spell moonbeam}",
+											"{@spell rayo de luna}",
 											"{@spell spike growth}"
 										]
 									},
@@ -2947,8 +2947,8 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell insect plague}",
-											"{@spell tree stride}"
+											"{@spell plaga de insectos}",
+											"{@spell paso arbóreo}"
 										]
 									},
 									"6": {
@@ -3673,7 +3673,7 @@
 				{
 					"name": "Oil Puddle",
 					"entries": [
-						"The boggle creates a puddle of oil that is either slippery or sticky (boggle's choice). The puddle is 1 inch deep and covers the ground in the boggle's space. The puddle is {@quickref difficult terrain||3} For all creatures except boggles and lasts for 1 hour.",
+						"The boggle creates a puddle of oil that is either slippery or sticky (boggle's choice). The puddle is 1 inch deep and covers the ground in the boggle's space. The puddle is {@quickref terreno difícil||3} For all creatures except boggles and lasts for 1 hour.",
 						"If the oil is slippery, any creature that enters the puddle's area or starts its turn there must succeed on a {@dc 11} Dexterity saving throw or fall {@condition prone}.",
 						"If the oil is sticky, any creature that enters the puddle's area or starts its turn there must succeed on a {@dc 11} Strength saving throw or be {@condition restrained}. On its turn. a creature can use an action to try to extricate itself from the sticky puddle, ending the effect and moving into the nearest safe unoccupied space with a successful {@dc 11} Strength check."
 					]
@@ -4936,7 +4936,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell mage hand}",
 								"{@spell poison spray}",
 								"{@spell prestidigitation}"
@@ -4962,7 +4962,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell fireball}",
-								"{@spell stinking cloud}*"
+								"{@spell nube apestosa}*"
 							]
 						},
 						"4": {
@@ -4976,7 +4976,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell cloudkill}*",
-								"{@spell conjure elemental}*"
+								"{@spell Conjurar elemental}*"
 							]
 						}
 					},
@@ -6225,7 +6225,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell arcane eye}*",
-								"{@spell ice storm}",
+								"{@spell tormenta de hielo}",
 								"{@spell stoneskin}"
 							]
 						},
@@ -7056,13 +7056,13 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell fireball}*",
-								"{@spell lightning bolt}*"
+								"{@spell relámpago}*"
 							]
 						},
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell ice storm}*",
+								"{@spell tormenta de hielo}*",
 								"{@spell stoneskin}"
 							]
 						},
@@ -7070,7 +7070,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell Bigby's hand}*",
-								"{@spell cone of cold}*"
+								"{@spell cono de frío}*"
 							]
 						},
 						"6": {
@@ -10231,7 +10231,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell fire bolt}",
 								"{@spell ray of frost}",
 								"{@spell shocking grasp}"
@@ -10242,13 +10242,13 @@
 							"spells": [
 								"{@spell fog cloud}",
 								"{@spell magic missile}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell Melf's acid arrow}",
 								"{@spell scorching ray}"
 							]
@@ -10258,13 +10258,13 @@
 							"spells": [
 								"{@spell fireball}",
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
 							"slots": 1,
 							"spells": [
-								"{@spell ice storm}"
+								"{@spell tormenta de hielo}"
 							]
 						}
 					},
@@ -10615,7 +10615,7 @@
 								"{@spell detect magic}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -11887,7 +11887,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell conjure elemental} (as 6th-level spell; {@creature galeb duhr}, {@creature gargoyle}, {@creature earth elemental}, or {@creature xorn} only)",
+							"{@spell Conjurar elemental} (as 6th-level spell; {@creature galeb duhr}, {@creature gargoyle}, {@creature earth elemental}, or {@creature xorn} only)",
 							"{@spell Otto's irresistible dance}"
 						]
 					},
@@ -12080,7 +12080,7 @@
 						"3e": [
 							"{@spell control water}",
 							"{@spell darkness}",
-							"{@spell water breathing}",
+							"{@spell respirar bajo el agua}",
 							"{@spell water walk}"
 						],
 						"1e": [
@@ -13292,7 +13292,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell mage hand}",
 								"{@spell mending}",
 								"{@spell ray of frost}",
@@ -13320,7 +13320,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dispel magic}",
-								"{@spell lightning bolt}",
+								"{@spell relámpago}",
 								"{@spell sending}"
 							]
 						},
@@ -13651,7 +13651,7 @@
 							"spells": [
 								"{@spell false life}*",
 								"{@spell mage armor}",
-								"{@spell ray of sickness}*"
+								"{@spell rayo nauseabundo}*"
 							]
 						},
 						"2": {
@@ -16955,7 +16955,7 @@
 				{
 					"name": "Gust",
 					"entries": [
-						"The giant targets a creature it can see within 60 feet of it and creates a magical gust of wind around it. The target must succeed on a {@dc 18} Strength saving throw or be pushed up to 20 feet in any horizontal direction the giant chooses."
+						"The giant targets a creature it can see within 60 feet of it and creates a magical ráfaga de viento around it. The target must succeed on a {@dc 18} Strength saving throw or be pushed up to 20 feet in any horizontal direction the giant chooses."
 					]
 				},
 				{
@@ -19209,7 +19209,7 @@
 								"{@spell magic circle}",
 								"{@spell scorching ray}",
 								"{@spell scrying}",
-								"{@spell stinking cloud}",
+								"{@spell nube apestosa}",
 								"{@spell suggestion}",
 								"{@spell wall of fire}"
 							]
@@ -19830,7 +19830,7 @@
 					]
 				},
 				{
-					"name": "Tree Stride",
+					"name": "Paso arbóreo",
 					"entries": [
 						"Once on each of its turns, the wood woad can use 10 feet of its movement to step magically into one living tree within 5 feet of it and emerge from a second living tree within 60 feet of it that it can see, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger."
 					]
@@ -19863,7 +19863,7 @@
 			"traitTags": [
 				"Camouflage",
 				"Regeneration",
-				"Tree Stride"
+				"Paso arbóreo"
 			],
 			"senseTags": [
 				"D"

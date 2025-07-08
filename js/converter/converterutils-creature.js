@@ -732,7 +732,7 @@ export class TraitActionTag {
 			"web sense": "Web Sense",
 			"flyby": "Flyby",
 			"pounce": "Pounce",
-			"water breathing": "Water Breathing",
+			"respirar bajo el agua": "Respirar bajo el agua",
 
 			"turn resistance": "Turn Resistance",
 			"turn defiance": "Turn Resistance",
@@ -806,7 +806,7 @@ export class TraitActionTag {
 
 			"immutable form": "Immutable Form",
 
-			"tree stride": "Tree Stride",
+			"paso arbóreo": "Paso arbóreo",
 
 			"unusual nature": "Unusual Nature",
 

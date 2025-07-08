@@ -78,7 +78,7 @@
 					"daily": {
 						"2e": [
 							"{@spell dispel magic}",
-							"{@spell lightning bolt}",
+							"{@spell relámpago}",
 							"{@spell mage armor}"
 						],
 						"1e": [
@@ -1094,7 +1094,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The allip can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The allip can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -1784,7 +1784,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -1842,7 +1842,7 @@
 							"{@spell animal messenger}",
 							"{@spell dominate beast}",
 							"{@spell faerie fire}",
-							"{@spell tree stride}"
+							"{@spell paso arbóreo}"
 						],
 						"1e": [
 							"{@spell commune with nature} (as an action)",
@@ -4162,8 +4162,8 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell cone of cold}",
-							"{@spell ice storm}",
+							"{@spell cono de frío}",
+							"{@spell tormenta de hielo}",
 							"{@spell wall of ice}"
 						]
 					},
@@ -4187,7 +4187,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The hag can move across and climb icy surfaces without needing to make an ability check, and {@quickref difficult terrain||3} composed of ice or snow doesn't cost the hag extra moment."
+						"The hag can move across and climb icy surfaces without needing to make an ability check, and {@quickref terreno difícil||3} composed of ice or snow doesn't cost the hag extra moment."
 					]
 				}
 			],
@@ -5052,7 +5052,7 @@
 				{
 					"name": "Oil Puddle",
 					"entries": [
-						"The boggle creates a puddle of nonflammable oil. The puddle is 1 inch deep and covers the ground in the boggle's space. The puddle is {@quickref difficult terrain||3} for all creatures except boggles and lasts for 1 hour. The oil has one of the following additional effects of the boggle's choice:",
+						"The boggle creates a puddle of nonflammable oil. The puddle is 1 inch deep and covers the ground in the boggle's space. The puddle is {@quickref terreno difícil||3} for all creatures except boggles and lasts for 1 hour. The oil has one of the following additional effects of the boggle's choice:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -7408,7 +7408,7 @@
 						],
 						"1e": [
 							"{@spell fly}",
-							"{@spell stinking cloud}",
+							"{@spell nube apestosa}",
 							"{@spell web}"
 						]
 					},
@@ -10135,7 +10135,7 @@
 							"{@spell detect magic}",
 							"{@spell detect thoughts}",
 							"{@spell fly}",
-							"{@spell lightning bolt}",
+							"{@spell relámpago}",
 							"{@spell locate object}",
 							"{@spell mage armor}",
 							"{@spell Enlace telepático de Rary}"
@@ -10671,7 +10671,7 @@
 							"{@spell etherealness}",
 							"{@spell faerie fire}",
 							"{@spell fly}",
-							"{@spell insect plague}",
+							"{@spell plaga de insectos}",
 							"{@spell invisibility}"
 						]
 					},
@@ -11912,7 +11912,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell stinking cloud}"
+							"{@spell nube apestosa}"
 						]
 					},
 					"ability": "int",
@@ -13240,7 +13240,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The dybbuk can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The dybbuk can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -13532,7 +13532,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The eidolon can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object other than a {@creature sacred statue|MPMM}."
+						"The eidolon can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object other than a {@creature sacred statue|MPMM}."
 					]
 				},
 				{
@@ -14423,8 +14423,8 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell ice storm}",
-							"{@spell lightning bolt}",
+							"{@spell tormenta de hielo}",
+							"{@spell relámpago}",
 							"{@spell mage armor}"
 						],
 						"1e": [
@@ -16527,7 +16527,7 @@
 					"will": [
 						"{@spell alter self} (can become Medium when changing his appearance)",
 						"{@spell detect magic}",
-						"{@spell ice storm}",
+						"{@spell tormenta de hielo}",
 						"{@spell invisibility} (self only)",
 						"{@spell locate object}",
 						"{@spell suggestion}",
@@ -19424,7 +19424,7 @@
 						"The grung casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 12}):"
 					],
 					"will": [
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"2": [
@@ -20238,8 +20238,8 @@
 							"{@spell fireball}",
 							"{@spell fly}",
 							"{@spell fog cloud}",
-							"{@spell gust of wind}",
-							"{@spell lightning bolt}"
+							"{@spell ráfaga de viento}",
+							"{@spell relámpago}"
 						]
 					},
 					"ability": "int",
@@ -20836,7 +20836,7 @@
 						"{@spell detect magic}",
 						"{@spell hold monster}",
 						"{@spell invisibility} (self only)",
-						"{@spell lightning bolt}",
+						"{@spell relámpago}",
 						"{@spell suggestion}",
 						"{@spell wall of fire}"
 					],
@@ -22542,7 +22542,7 @@
 						"3e": [
 							"{@spell control water}",
 							"{@spell darkness}",
-							"{@spell water breathing}",
+							"{@spell respirar bajo el agua}",
 							"{@spell water walk}"
 						]
 					},
@@ -24669,7 +24669,7 @@
 						"{@spell darkness}",
 						"{@spell detect magic}",
 						"{@spell dispel magic}",
-						"{@spell gust of wind}"
+						"{@spell ráfaga de viento}"
 					],
 					"daily": {
 						"3": [
@@ -25070,7 +25070,7 @@
 						"{@spell detect magic}",
 						"{@spell fly}",
 						"{@spell major image}",
-						"{@spell stinking cloud}",
+						"{@spell nube apestosa}",
 						"{@spell suggestion}",
 						"{@spell wall of fire}"
 					],
@@ -25318,7 +25318,7 @@
 					],
 					"daily": {
 						"3": [
-							"{@spell lightning bolt}"
+							"{@spell relámpago}"
 						]
 					},
 					"ability": "cha",
@@ -25533,7 +25533,7 @@
 							"{@spell darkness}",
 							"{@spell dimension door}",
 							"{@spell dispel magic}",
-							"{@spell lightning bolt}",
+							"{@spell relámpago}",
 							"{@spell sending}"
 						]
 					},
@@ -31171,7 +31171,7 @@
 				{
 					"name": "Contamination",
 					"entries": [
-						"The sibriex emits an aura of corruption 30 feet in every direction. Vegetation withers in the aura, and the ground in the aura is {@quickref difficult terrain||3} for other creatures. Any creature that starts its turn in the aura must succeed on a {@dc 20} Constitution saving throw or take 14 ({@damage 4d6}) poison damage. A creature that succeeds on the save is immune to this sibriex's Contamination for 24 hours."
+						"The sibriex emits an aura of corruption 30 feet in every direction. Vegetation withers in the aura, and the ground in the aura is {@quickref terreno difícil||3} for other creatures. Any creature that starts its turn in the aura must succeed on a {@dc 20} Constitution saving throw or take 14 ({@damage 4d6}) poison damage. A creature that succeeds on the save is immune to this sibriex's Contamination for 24 hours."
 					]
 				},
 				{
@@ -31636,7 +31636,7 @@
 						],
 						"1e": [
 							"{@spell cloudkill}",
-							"{@spell cone of cold}"
+							"{@spell cono de frío}"
 						]
 					},
 					"ability": "cha",
@@ -32125,7 +32125,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The troll can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The troll can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -33033,7 +33033,7 @@
 				{
 					"name": "Out-Of-Phase Movement",
 					"entries": [
-						"The seer can move through other creatures and objects as if they were {@quickref difficult terrain||3}, and its movement doesn't provoke {@action opportunity attack||opportunity attacks}.",
+						"The seer can move through other creatures and objects as if they were {@quickref terreno difícil||3}, and its movement doesn't provoke {@action opportunity attack||opportunity attacks}.",
 						"Each creature it moves through takes 5 ({@damage 1d10}) psychic damage; no creature can take this damage more than once per turn.",
 						"The seer takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
@@ -33845,7 +33845,7 @@
 				{
 					"name": "Gust",
 					"entries": [
-						"The giant targets a creature it can see within 60 feet of it and creates a magical gust of wind around the target, who must succeed on a {@dc 18} Strength saving throw or be moved up to 20 feet in any horizontal direction the giant chooses."
+						"The giant targets a creature it can see within 60 feet of it and creates a magical ráfaga de viento around the target, who must succeed on a {@dc 18} Strength saving throw or be moved up to 20 feet in any horizontal direction the giant chooses."
 					]
 				},
 				{
@@ -35528,7 +35528,7 @@
 						"The tortle casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 12}):"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell guidance}"
 					],
 					"daily": {
@@ -35536,7 +35536,7 @@
 							"{@spell cure wounds}",
 							"{@spell hold person}",
 							"{@spell speak with animals}",
-							"{@spell thunderwave}"
+							"{@spell ola atronadora}"
 						]
 					},
 					"ability": "wis",
@@ -37810,7 +37810,7 @@
 				{
 					"name": "Undertow",
 					"entries": [
-						"If the wastrilith is underwater, it causes all water within 60 feet of it to be {@quickref difficult terrain||3} for other creatures until the start of its next turn."
+						"If the wastrilith is underwater, it causes all water within 60 feet of it to be {@quickref terreno difícil||3} for other creatures until the start of its next turn."
 					]
 				}
 			],
@@ -38222,7 +38222,7 @@
 					],
 					"will": [
 						"{@spell fog cloud}",
-						"{@spell gust of wind}",
+						"{@spell ráfaga de viento}",
 						"{@spell sleet storm}"
 					],
 					"ability": "int",
@@ -38419,7 +38419,7 @@
 					]
 				},
 				{
-					"name": "Tree Stride",
+					"name": "Paso arbóreo",
 					"entries": [
 						"Once on each of its turns, the wood woad can use 10 feet of its movement to step magically into one living tree within 5 feet of it and emerge from a second living tree within 60 feet of it that it can see, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger."
 					]
@@ -38452,7 +38452,7 @@
 			"traitTags": [
 				"Camouflage",
 				"Regeneration",
-				"Tree Stride"
+				"Paso arbóreo"
 			],
 			"senseTags": [
 				"D"
@@ -38942,7 +38942,7 @@
 					],
 					"daily": {
 						"3": [
-							"{@spell lightning bolt}"
+							"{@spell relámpago}"
 						]
 					},
 					"ability": "cha",
@@ -40620,7 +40620,7 @@
 				{
 					"name": "Earth-Shaking Movement",
 					"entries": [
-						"After moving at least 10 feet on the ground, the zaratan sends a shock wave through the ground in a 120-foot-radius circle centered on itself. That area becomes {@quickref difficult terrain||3} for 1 minute. Each creature on the ground that is {@status concentration||concentrating} must succeed on a {@dc 25} Constitution saving throw or the creature's {@status concentration} is broken. The shock wave deals 100 thunder damage to all structures in contact with the ground in the area. If a creature is near a structure that collapses, the creature might be buried; a creature within half the distance of the structure's height must make a {@dc 25} Dexterity saving throw. On a failed save, the creature takes 17 ({@damage 5d6}) bludgeoning damage, is knocked {@condition prone}, and is trapped in the rubble. A trapped creature is {@condition restrained}, requiring a successful {@dc 20} Strength ({@skill Athletics}) check as an action to escape. Another creature within 5 feet of the buried creature can use its action to clear rubble and grant advantage on the check. If three creatures use their actions in this way, the check is an automatic success. On a successful save, the creature takes half as much damage and doesn't fall {@condition prone} or become trapped."
+						"After moving at least 10 feet on the ground, the zaratan sends a shock wave through the ground in a 120-foot-radius circle centered on itself. That area becomes {@quickref terreno difícil||3} for 1 minute. Each creature on the ground that is {@status concentration||concentrating} must succeed on a {@dc 25} Constitution saving throw or the creature's {@status concentration} is broken. The shock wave deals 100 thunder damage to all structures in contact with the ground in the area. If a creature is near a structure that collapses, the creature might be buried; a creature within half the distance of the structure's height must make a {@dc 25} Dexterity saving throw. On a failed save, the creature takes 17 ({@damage 5d6}) bludgeoning damage, is knocked {@condition prone}, and is trapped in the rubble. A trapped creature is {@condition restrained}, requiring a successful {@dc 20} Strength ({@skill Athletics}) check as an action to escape. Another creature within 5 feet of the buried creature can use its action to clear rubble and grant advantage on the check. If three creatures use their actions in this way, the check is an automatic success. On a successful save, the creature takes half as much damage and doesn't fall {@condition prone} or become trapped."
 					]
 				}
 			],

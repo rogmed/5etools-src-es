@@ -836,7 +836,7 @@
 				{
 					"name": "Incorporeal Dash",
 					"entries": [
-						"Bol'bara moves up to her speed. She can move through other creatures and objects as if they were {@quickref difficult terrain||3}. She takes 5 ({@damage 1d10}) force damage if she ends her turn inside an object."
+						"Bol'bara moves up to her speed. She can move through other creatures and objects as if they were {@quickref terreno difícil||3}. She takes 5 ({@damage 1d10}) force damage if she ends her turn inside an object."
 					]
 				},
 				{
@@ -2657,7 +2657,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell minor illusion}",
 								"{@spell shocking grasp}"
 							]
@@ -2667,7 +2667,7 @@
 							"spells": [
 								"{@spell cure wounds}",
 								"{@spell fog cloud}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2682,7 +2682,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dispel magic}",
-								"{@spell lightning bolt} (see \"Actions\" below)",
+								"{@spell relámpago} (see \"Actions\" below)",
 								"{@spell sleet storm}"
 							]
 						}
@@ -2706,7 +2706,7 @@
 					]
 				},
 				{
-					"name": "Lightning Bolt (3rd-Level Spell; Requires a Spell Slot)",
+					"name": "Relámpago (3rd-Level Spell; Requires a Spell Slot)",
 					"entries": [
 						"The merrow unleashes a stroke of lightning in a line 100 feet long and 5 feet wide. Each creature in the line must make a {@dc 13} Dexterity saving throw, taking 28 ({@damage 8d6}) lightning damage on a failed save, or half as much damage on a successful one."
 					]
@@ -3505,7 +3505,7 @@
 						"1e": [
 							"{@spell bestow curse}",
 							"{@spell fear}",
-							"{@spell thunderwave}"
+							"{@spell ola atronadora}"
 						]
 					},
 					"ability": "cha"
@@ -3885,9 +3885,9 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell produce flame}",
+								"{@spell crear llama}",
 								"{@spell resistance}",
-								"{@spell thorn whip}"
+								"{@spell látigo de espinas}"
 							]
 						},
 						"1": {
@@ -3908,7 +3908,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell animate dead}",
-								"{@spell conjure animals} (reptiles only)"
+								"{@spell conjurar animales} (reptiles only)"
 							]
 						}
 					},

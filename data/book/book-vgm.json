@@ -1034,7 +1034,7 @@
 										{
 											"type": "item",
 											"name": "Fear Ray:",
-											"entry": "{@spell gaseous form} (self or willing creature only), {@spell moonbeam}"
+											"entry": "{@spell gaseous form} (self or willing creature only), {@spell rayo de luna}"
 										},
 										{
 											"type": "item",
@@ -1222,7 +1222,7 @@
 											"name": "Obstacle Course",
 											"page": 15,
 											"entries": [
-												"If its lair includes a long, narrow chamber with an uneven floor and multiple terraces, a beholder might turn this area into a killing ground. The floors count as {@quickref difficult terrain||3}, and the terraces mean that in some places climbing or jumping down is required to make progress. These areas are often seeded with perils both stationary and mobile. The beholder and its minions can bypass the area by means of secret doors at either end. Some obstacle courses feature low walls to slow enemies even further or a portcullis to trap them in one section of the chamber."
+												"If its lair includes a long, narrow chamber with an uneven floor and multiple terraces, a beholder might turn this area into a killing ground. The floors count as {@quickref terreno difícil||3}, and the terraces mean that in some places climbing or jumping down is required to make progress. These areas are often seeded with perils both stationary and mobile. The beholder and its minions can bypass the area by means of secret doors at either end. Some obstacle courses feature low walls to slow enemies even further or a portcullis to trap them in one section of the chamber."
 											],
 											"id": "02d"
 										},
@@ -4837,10 +4837,10 @@
 													"style": "list-no-bullets",
 													"items": [
 														"1st level (4 slots): {@spell entangle}, {@spell speak with animals}",
-														"2nd level (3 slots): {@spell flaming sphere}, {@spell moonbeam}, {@spell spike growth}",
+														"2nd level (3 slots): {@spell flaming sphere}, {@spell rayo de luna}, {@spell spike growth}",
 														"3rd level (3 slots): {@spell call lightning}, {@spell plant growth}",
 														"4th level (3 slots): {@spell dominate beast}, {@spell grasping vine}",
-														"5th level (2 slots): {@spell insect plague}, {@spell tree stride}",
+														"5th level (2 slots): {@spell plaga de insectos}, {@spell paso arbóreo}",
 														"6th level (1 slot): {@spell wall of thorns}"
 													]
 												}
@@ -4980,7 +4980,7 @@
 										{
 											"type": "list",
 											"items": [
-												"The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are heavily obscured. A creature that enters the cloud for the first time on a turn or starts its turn there takes 10 ({@dice 3d6}) acid damage."
+												"The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are muy oscuro. A creature that enters the cloud for the first time on a turn or starts its turn there takes 10 ({@dice 3d6}) acid damage."
 											]
 										},
 										"A powerful {@b bheur hag} might have the following additional lair action:",
@@ -5009,7 +5009,7 @@
 										{
 											"type": "list",
 											"items": [
-												"The hag fills up to four 10-foot cubes of water with ink. The inky areas are heavily obscured for 1 minute, although a steady, strong underwater current disperses the ink on initiative count 10. The hag ignores the obscuring effect of the ink.",
+												"The hag fills up to four 10-foot cubes of water with ink. The inky areas are muy oscuro for 1 minute, although a steady, strong underwater current disperses the ink on initiative count 10. The hag ignores the obscuring effect of the ink.",
 												"The hag chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the simulacrum spell). This hideous simulacrum is formed out of seaweed, slime, half-eaten fish, and other garbage, but still generally resembles the creature it is imitating. This simulacrum obeys the hag's commands and is destroyed on initiative count 20 on the next round."
 											]
 										}
@@ -6729,7 +6729,7 @@
 									"page": 81,
 									"entries": [
 										"This carapace-like augmentation encases portions of the wearer's shoulders, neck, and chest. A survival mantle is equivalent to a suit of nonmagical half plate armor and takes just as long to don or doff. It can't be worn with other kinds of armor.",
-										"A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a {@spell cloudkill} spell, a {@spell stinking cloud} spell, inhaled poisons, and the breath weapons of some dragons)."
+										"A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a {@spell cloudkill} spell, a {@spell nube apestosa} spell, inhaled poisons, and the breath weapons of some dragons)."
 									],
 									"id": "14c"
 								}
@@ -6914,7 +6914,7 @@
 									"name": "Omens and Superstitions",
 									"page": 86,
 									"entries": [
-										"Orcs believe that any seemingly unimportant discovery or event-a bear's claw marks on a tree, a flock of crows, or a sudden gust of wind-might be a communication from the gods.",
+										"Orcs believe that any seemingly unimportant discovery or event-a bear's claw marks on a tree, a flock of crows, or a sudden ráfaga de viento-might be a communication from the gods.",
 										"If the tribe has encountered a similar omen before, the priests understand how to interpret it, but if a sign from the gods has no clear explanation, the priests might have to meditate for hours or days to get a vision of its meaning.",
 										"Every group of orcs has particular superstitions and recognizes certain omens.",
 										"These tenets vary from tribe to tribe, and are often based in events that the tribe has experienced. Here are a few examples:",

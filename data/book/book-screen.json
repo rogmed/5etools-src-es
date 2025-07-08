@@ -741,8 +741,8 @@
 					"caption": "Light",
 					"colLabels": [
 						"Source",
-						"Bright Light",
-						"Dim Light",
+						"Luz brillante",
+						"Luz tenue",
 						"Duration"
 					],
 					"colStyles": [

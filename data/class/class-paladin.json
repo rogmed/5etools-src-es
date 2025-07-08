@@ -858,7 +858,7 @@
 							"speak with animals"
 						],
 						"5": [
-							"moonbeam",
+							"rayo de luna",
 							"misty step"
 						],
 						"9": [
@@ -866,12 +866,12 @@
 							"protection from energy"
 						],
 						"13": [
-							"ice storm",
+							"tormenta de hielo",
 							"stoneskin"
 						],
 						"17": [
 							"commune with nature",
-							"tree stride"
+							"paso arbóreo"
 						]
 					}
 				}
@@ -993,7 +993,7 @@
 							"bestow curse"
 						],
 						"13": [
-							"blight",
+							"marchitar",
 							"confusion"
 						],
 						"17": [
@@ -1336,7 +1336,7 @@
 							"Detectar magia"
 						],
 						"5": [
-							"moonbeam",
+							"rayo de luna",
 							"see invisibility"
 						],
 						"9": [
@@ -1416,7 +1416,7 @@
 							"freedom of the waves|TDCSR"
 						],
 						"13": [
-							"control water",
+							"controlar agua",
 							"freedom of movement"
 						],
 						"17": [
@@ -1564,23 +1564,23 @@
 					"prepared": {
 						"3": [
 							"golpe apresador|xphb",
-							"speak with animals|xphb"
+							"hablar con los animales|xphb"
 						],
 						"5": [
 							"misty step|xphb",
-							"moonbeam|xphb"
+							"rayo de luna|xphb"
 						],
 						"9": [
 							"plant growth|xphb",
 							"protection from energy|xphb"
 						],
 						"13": [
-							"ice storm|xphb",
+							"tormenta de hielo|xphb",
 							"stoneskin|xphb"
 						],
 						"17": [
 							"commune with nature|xphb",
-							"tree stride|xphb"
+							"paso arbóreo|xphb"
 						]
 					}
 				}
@@ -2698,7 +2698,7 @@
 						],
 						[
 							"5th",
-							"{@spell moonbeam}, {@spell misty step}"
+							"{@spell rayo de luna}, {@spell misty step}"
 						],
 						[
 							"9th",
@@ -2706,11 +2706,11 @@
 						],
 						[
 							"13th",
-							"{@spell ice storm}, {@spell stoneskin}"
+							"{@spell tormenta de hielo}, {@spell stoneskin}"
 						],
 						[
 							"17th",
-							"{@spell commune with nature}, {@spell tree stride}"
+							"{@spell commune with nature}, {@spell paso arbóreo}"
 						]
 					]
 				}
@@ -3959,7 +3959,7 @@
 						],
 						[
 							"5th",
-							"{@spell moonbeam}, {@spell see invisibility}"
+							"{@spell rayo de luna}, {@spell see invisibility}"
 						],
 						[
 							"9th",
@@ -4191,7 +4191,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As an action, you channel the sea to create a thick cloud of fog that surrounds you for 20 feet in all directions. The fog moves with you, remaining centered on you and making its area heavily obscured. You and each creature within 5 feet of you instead treat the area as lightly obscured. This fog lasts for 10 minutes, spreads around corners, and cannot be dispersed unless you choose to end this effect (no action required)."
+				"As an action, you channel the sea to create a thick cloud of fog that surrounds you for 20 feet in all directions. The fog moves with you, remaining centered on you and making its area muy oscuro. You and each creature within 5 feet of you instead treat the area as lightly obscured. This fog lasts for 10 minutes, spreads around corners, and cannot be dispersed unless you choose to end this effect (no action required)."
 			]
 		},
 		{
@@ -4896,7 +4896,7 @@
 						],
 						[
 							"5th",
-							"{@spell Paso brumoso|XPHB}, {@spell Moonbeam|XPHB}"
+							"{@spell Paso brumoso|XPHB}, {@spell Rayo de luna|XPHB}"
 						],
 						[
 							"9th",
@@ -4904,11 +4904,11 @@
 						],
 						[
 							"13th",
-							"{@spell Ice Storm|XPHB}, {@spell Stoneskin|XPHB}"
+							"{@spell Tormenta de hielo|XPHB}, {@spell Stoneskin|XPHB}"
 						],
 						[
 							"17th",
-							"{@spell Commune with Nature|XPHB}, {@spell Tree Stride|XPHB}"
+							"{@spell Commune with Nature|XPHB}, {@spell Paso arbóreo|XPHB}"
 						]
 					]
 				}
@@ -5077,7 +5077,7 @@
 			},
 			"entries": [
 				"When you take the {@action Attack|XPHB} action, you can expend one use of your Channel Divinity to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.",
-				"The weapon also emits {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} 20 feet beyond that.",
+				"The weapon also emits {@variantrule Luz brillante|XPHB} in a 20-foot radius and {@variantrule Luz tenue|XPHB} 20 feet beyond that.",
 				"You can end this effect early (no action required). This effect also ends if you aren't carrying the weapon."
 			]
 		},
@@ -5145,7 +5145,7 @@
 					"type": "entries",
 					"name": "Sunlight",
 					"entries": [
-						"The aura is filled with {@variantrule Bright Light|XPHB} that is sunlight."
+						"The aura is filled with {@variantrule Luz brillante|XPHB} that is sunlight."
 					]
 				}
 			]

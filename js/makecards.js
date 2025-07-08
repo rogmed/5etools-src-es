@@ -940,7 +940,7 @@ MakeCards.utils = class {
 				Renderer.item._initFullEntries(item);
 				item._fullEntries.push("A hechicero, warlock, or wizard can use this item as a spellcasting focus.");
 			}
-			if (item.scfType === "druid") {
+			if (item.scfType === "Druida") {
 				Renderer.item._initFullEntries(item);
 				item._fullEntries.push("A druid can use this item as a spellcasting focus.");
 			}

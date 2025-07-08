@@ -121,7 +121,7 @@
 								"{@spell magic circle}",
 								"{@spell scorching ray}",
 								"{@spell scrying}",
-								"{@spell stinking cloud}",
+								"{@spell nube apestosa}",
 								"{@spell suggestion}"
 							]
 						}
@@ -155,7 +155,7 @@
 					]
 				},
 				{
-					"name": "Tree Stride",
+					"name": "Paso arbóreo",
 					"entries": [
 						"Once on each of its turns, Dirt-Under-Nails can use 10 feet of his movement to step magically into one copse of mushrooms within 5 feet of him and emerge from a second copse of mushrooms within 60 feet of it, appearing in an unoccupied space within 5 feet of the second copse. Both copses of mushrooms must be Large or bigger. Dirt-Under-Nails doesn't need to be able to see the second copse to use this ability."
 					]
@@ -174,7 +174,7 @@
 			],
 			"traitTags": [
 				"Regeneration",
-				"Tree Stride"
+				"Paso arbóreo"
 			],
 			"senseTags": [
 				"D"
@@ -307,7 +307,7 @@
 					]
 				},
 				{
-					"name": "Tree Stride",
+					"name": "Paso arbóreo",
 					"entries": [
 						"Once on each of its turns, the rotter can use 10 feet of its movement to step magically into one copse of mushrooms within 5 feet of it and emerge from a second copse of mushrooms within 60 feet of it, appearing in an unoccupied space within 5 feet of the second copse. Both copses of mushrooms must be Large or bigger. The rotter doesn't need to be able to see the second copse to use this ability."
 					]
@@ -333,7 +333,7 @@
 			"traitTags": [
 				"Camouflage",
 				"Regeneration",
-				"Tree Stride"
+				"Paso arbóreo"
 			],
 			"senseTags": [
 				"D"

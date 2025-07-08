@@ -211,7 +211,7 @@
 				{
 					"name": "Smoke Bomb (1/Day)",
 					"entries": [
-						"Amrik hurls a smoke bomb up to 20 feet away. The bomb explodes on impact, creating a cloud of black smoke that fills a 10-foot-radius sphere. The area within the cloud is heavily obscured. A strong wind disperses the cloud, which otherwise remains until the end of Amrik's next turn."
+						"Amrik hurls a smoke bomb up to 20 feet away. The bomb explodes on impact, creating a cloud of black smoke that fills a 10-foot-radius sphere. The area within the cloud is muy oscuro. A strong wind disperses the cloud, which otherwise remains until the end of Amrik's next turn."
 					]
 				}
 			],
@@ -2717,7 +2717,7 @@
 								"{@spell detect evil and good}",
 								"{@spell false life}",
 								"{@spell inflict wounds}",
-								"{@spell ray of sickness}"
+								"{@spell rayo nauseabundo}"
 							]
 						},
 						"2": {
@@ -3151,7 +3151,7 @@
 							"spells": [
 								"{@spell burning hands}",
 								"{@spell detect magic}",
-								"{@spell ray of sickness} (see \"Actions\" below)",
+								"{@spell rayo nauseabundo} (see \"Actions\" below)",
 								"{@spell shield}"
 							]
 						},
@@ -3202,7 +3202,7 @@
 					]
 				},
 				{
-					"name": "Ray of Sickness (1st-Level Spell; Requires a Spell Slot)",
+					"name": "Rayo nauseabundo (1st-Level Spell; Requires a Spell Slot)",
 					"entries": [
 						"{@atk rs} {@hit 6} to hit, range 60 ft., one creature. {@h}9 ({@damage 2d8}) poison damage, and the target must succeed on a {@dc 14} Constitution saving throw or be {@condition poisoned} until the end of the master of souls' next turn. If the master of souls casts this spell using a spell slot of 2nd level or higher, the damage increases by {@damage 1d8} for each slot level above 1st."
 					]
@@ -4064,7 +4064,7 @@
 							"spells": [
 								"{@spell detect magic}",
 								"{@spell protection from evil and good}",
-								"{@spell ray of sickness} (see \"Actions\" below)",
+								"{@spell rayo nauseabundo} (see \"Actions\" below)",
 								"{@spell shield}"
 							]
 						},
@@ -4093,7 +4093,7 @@
 					]
 				},
 				{
-					"name": "Ray of Sickness (1st-Level Spell; Requires a Spell Slot)",
+					"name": "Rayo nauseabundo (1st-Level Spell; Requires a Spell Slot)",
 					"entries": [
 						"{@atk rs} {@hit 5} to hit, range 60 ft., one creature. {@h}9 ({@damage 2d8}) poison damage, and the target must succeed on a {@dc 13} Constitution saving throw or be {@condition poisoned} until the end of the skull lasher's next turn. If the skull lasher casts this spell using a spell slot of 2nd level or higher, the damage increases by {@damage 1d8} for each slot level above 1st."
 					]

@@ -255,7 +255,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray}",
 								"{@spell shillelagh}"
 							]
@@ -266,7 +266,7 @@
 								"{@spell cure wounds}",
 								"{@spell entangle}",
 								"{@spell faerie fire}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -902,7 +902,7 @@
 									"items": [
 										"A {@i bolt of holding}, which casts {@spell hold person} on a target hit with the bolt, as well as up to two other targets within 30 feet of that target",
 										"A {@i bolt of blinding}, which casts {@spell blindness/deafness} to blind on a target hit with the bolt, as well as up to two other targets within 30 feet of that target",
-										"A {@i bolt of vapors}, which casts {@spell stinking cloud} centered on the point it hits"
+										"A {@i bolt of vapors}, which casts {@spell nube apestosa} centered on the point it hits"
 									]
 								},
 								"Each of these effects has a spell save DC of 15 and a duration of 1 minute."
@@ -1192,7 +1192,7 @@
 			"source": "TftYP",
 			"page": 159,
 			"_copy": {
-				"name": "Druid",
+				"name": "Druida",
 				"source": "MM",
 				"_templates": [
 					{
@@ -1890,7 +1890,7 @@
 			"cr": "3",
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The eel can breathe only underwater."
 					]
@@ -1917,7 +1917,7 @@
 				}
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"
@@ -4243,7 +4243,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell friends}",
 								"{@spell mage hand}",
 								"{@spell poison spray}"
@@ -4255,7 +4255,7 @@
 								"{@spell charm person}",
 								"{@spell detect magic}",
 								"{@spell magic missile}",
-								"{@spell ray of sickness}"
+								"{@spell rayo nauseabundo}"
 							]
 						},
 						"2": {
@@ -4271,7 +4271,7 @@
 							"spells": [
 								"{@spell fear}",
 								"{@spell slow}",
-								"{@spell stinking cloud}"
+								"{@spell nube apestosa}"
 							]
 						},
 						"4": {
@@ -5609,7 +5609,7 @@
 							"spells": [
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -5625,7 +5625,7 @@
 								"{@spell dispel magic}",
 								"{@spell fear}",
 								"{@spell haste}",
-								"{@spell stinking cloud}"
+								"{@spell nube apestosa}"
 							]
 						}
 					},

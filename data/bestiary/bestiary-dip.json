@@ -84,12 +84,12 @@
 					],
 					"daily": {
 						"3": [
-							"{@spell thunderwave} ({@damage 2d8} damage)"
+							"{@spell ola atronadora} ({@damage 2d8} damage)"
 						],
 						"1e": [
 							"{@spell augury}",
 							"{@spell bless}",
-							"{@spell lightning bolt} ({@damage 8d6} damage)",
+							"{@spell relámpago} ({@damage 8d6} damage)",
 							"{@spell revivify}"
 						]
 					},
@@ -452,7 +452,7 @@
 					]
 				},
 				{
-					"name": "Lightning Bolt {@recharge}",
+					"name": "Relámpago {@recharge}",
 					"entries": [
 						"Gorthok shoots a bolt of lightning at one creature it can see within 120 feet of it. The target must make a {@dc 15} Dexterity saving throw, taking 18 ({@damage 4d8}) lightning damage on a failed save, or half as much damage on a successful one."
 					]

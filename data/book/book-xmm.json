@@ -4341,12 +4341,12 @@
 						},
 						{
 							"type": "section",
-							"name": "Druid",
+							"name": "Druida",
 							"page": 106,
 							"entries": [
 								{
 									"type": "statblock",
-									"name": "Druid",
+									"name": "Druida",
 									"prop": "monsterFluff",
 									"source": "XMM",
 									"data": {
@@ -4367,7 +4367,7 @@
 								},
 								{
 									"type": "statblock",
-									"name": "Druid",
+									"name": "Druida",
 									"tag": "creature",
 									"source": "XMM",
 									"style": "narrow"
@@ -6311,7 +6311,7 @@
 										"type": "internal",
 										"path": "book/XMM/163-08-004.helmed-horror.webp"
 									},
-									"title": "A helmed horror proves immune to a mage's Lightning Bolt spell",
+									"title": "A helmed horror proves immune to a mage's Relámpago spell",
 									"credit": "Nikki Dawes",
 									"width": 1700,
 									"height": 1059

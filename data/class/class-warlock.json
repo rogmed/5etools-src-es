@@ -890,7 +890,7 @@
 						],
 						"s3": [
 							"fireball",
-							"stinking cloud"
+							"nube apestosa"
 						],
 						"s4": [
 							"fire shield",
@@ -1184,7 +1184,7 @@
 							"wrathful smite"
 						],
 						"s2": [
-							"blur",
+							"contorno borroso",
 							"branding smite"
 						],
 						"s3": [
@@ -1197,7 +1197,7 @@
 						],
 						"s5": [
 							"banishing smite",
-							"cone of cold"
+							"cono de frío"
 						]
 					}
 				}
@@ -1260,23 +1260,23 @@
 					"expanded": {
 						"s1": [
 							"create or destroy water",
-							"thunderwave"
+							"ola atronadora"
 						],
 						"s2": [
-							"gust of wind",
+							"ráfaga de viento",
 							"silence"
 						],
 						"s3": [
-							"lightning bolt",
+							"relámpago",
 							"sleet storm"
 						],
 						"s4": [
-							"control water",
+							"controlar agua",
 							"summon elemental|tce"
 						],
 						"s5": [
 							"Bigby's hand",
-							"cone of cold"
+							"cono de frío"
 						]
 					},
 					"known": {
@@ -1369,7 +1369,7 @@
 						],
 						"s5": [
 							"creation",
-							"wall of stone"
+							"muro de piedra"
 						]
 					}
 				},
@@ -1381,11 +1381,11 @@
 						],
 						"s1": [
 							"detect evil and good",
-							"thunderwave"
+							"ola atronadora"
 						],
 						"s2": [
 							"phantasmal force",
-							"gust of wind"
+							"ráfaga de viento"
 						],
 						"s3": [
 							"create food and water",
@@ -1441,7 +1441,7 @@
 						],
 						"s2": [
 							"phantasmal force",
-							"blur"
+							"contorno borroso"
 						],
 						"s3": [
 							"create food and water",
@@ -1449,11 +1449,11 @@
 						],
 						"s4": [
 							"phantasmal killer",
-							"control water"
+							"controlar agua"
 						],
 						"s5": [
 							"creation",
-							"cone of cold"
+							"cono de frío"
 						]
 					}
 				}
@@ -1596,7 +1596,7 @@
 							"faerie fire|xphb",
 							"misty step|xphb",
 							"phantasmal force|xphb",
-							"sleep|xphb"
+							"dormir|xphb"
 						],
 						"5": [
 							"blink|xphb",
@@ -1697,7 +1697,7 @@
 						],
 						"5": [
 							"fireball|xphb",
-							"stinking cloud|xphb"
+							"nube apestosa|xphb"
 						],
 						"7": [
 							"fire shield|xphb",
@@ -1705,7 +1705,7 @@
 						],
 						"9": [
 							"geas|xphb",
-							"insect plague|xphb"
+							"plaga de insectos|xphb"
 						]
 					}
 				}
@@ -2768,7 +2768,7 @@
 								],
 								[
 									"3rd",
-									"{@spell fireball}, {@spell stinking cloud}"
+									"{@spell fireball}, {@spell nube apestosa}"
 								],
 								[
 									"4th",
@@ -2998,7 +2998,7 @@
 							"rows": [
 								[
 									"1st",
-									"{@spell false life}, {@spell ray of sickness}"
+									"{@spell false life}, {@spell rayo nauseabundo}"
 								],
 								[
 									"2nd",
@@ -3119,15 +3119,15 @@
 							"rows": [
 								[
 									"1st",
-									"{@spell create or destroy water}, {@spell thunderwave}"
+									"{@spell create or destroy water}, {@spell ola atronadora}"
 								],
 								[
 									"2nd",
-									"{@spell gust of wind}, {@spell silence}"
+									"{@spell ráfaga de viento}, {@spell silence}"
 								],
 								[
 									"3rd",
-									"{@spell lightning bolt}, {@spell sleet storm}"
+									"{@spell relámpago}, {@spell sleet storm}"
 								],
 								[
 									"4th",
@@ -3135,7 +3135,7 @@
 								],
 								[
 									"5th",
-									"{@spell Bigby's hand} (appears as a tentacle), {@spell cone of cold}"
+									"{@spell Bigby's hand} (appears as a tentacle), {@spell cono de frío}"
 								]
 							]
 						}
@@ -3350,7 +3350,7 @@
 									"1st",
 									"{@spell detect evil and good}",
 									"{@spell sanctuary}",
-									"{@spell thunderwave}",
+									"{@spell ola atronadora}",
 									"{@spell burning hands}",
 									"{@spell fog cloud}"
 								],
@@ -3358,7 +3358,7 @@
 									"2nd",
 									"{@spell phantasmal force}",
 									"{@spell spike growth}",
-									"{@spell gust of wind}",
+									"{@spell ráfaga de viento}",
 									"{@spell scorching ray}",
 									"{@spell blur}"
 								],
@@ -3384,7 +3384,7 @@
 									"{@spell wall of stone}",
 									"{@spell seeming}",
 									"{@spell flame strike}",
-									"{@spell cone of cold}"
+									"{@spell cono de frío}"
 								],
 								[
 									"9th",
@@ -3660,7 +3660,7 @@
 					"items": [
 						"Your spirit and body gain resistance to bludgeoning, piercing, and slashing damage.",
 						"When you cast a spell of the conjuration or necromancy school, the spell doesn't require verbal or somatic components or material components that lack a gold cost.",
-						"You have a flying speed equal to your walking speed and can hover. You can move through creatures and objects as if they were {@quickref difficult terrain||3}, but you take {@damage 1d10} force damage if you end your turn inside a creature or an object.",
+						"You have a flying speed equal to your walking speed and can hover. You can move through creatures and objects as if they were {@quickref terreno difícil||3}, but you take {@damage 1d10} force damage if you end your turn inside a creature or an object.",
 						"While you are using your Form of Dread, once during each of your turns when you deal necrotic damage to a creature, you regain hit points equal to half the amount of necrotic damage dealt."
 					]
 				},
@@ -3850,7 +3850,7 @@
 								],
 								[
 									"5th",
-									"{@spell banishing smite}, {@spell cone of cold}"
+									"{@spell banishing smite}, {@spell cono de frío}"
 								]
 							]
 						}
@@ -4186,7 +4186,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Calmar emociones|XPHB}, {@spell Fuego feérico|XPHB}, {@spell Paso brumoso|XPHB}, {@spell Fuerza fantasmal|XPHB}, {@spell Sleep|XPHB}"
+							"{@spell Calmar emociones|XPHB}, {@spell Fuego feérico|XPHB}, {@spell Paso brumoso|XPHB}, {@spell Fuerza fantasmal|XPHB}, {@spell Dormir|XPHB}"
 						],
 						[
 							"5",
@@ -4497,7 +4497,7 @@
 						],
 						[
 							"5",
-							"{@spell Bola de fuego|XPHB}, {@spell Stinking Cloud|XPHB}"
+							"{@spell Bola de fuego|XPHB}, {@spell Nube apestosa|XPHB}"
 						],
 						[
 							"7",
@@ -4505,7 +4505,7 @@
 						],
 						[
 							"9",
-							"{@spell Geas|XPHB}, {@spell Insect Plague|XPHB}"
+							"{@spell Geas|XPHB}, {@spell Plaga de insectos|XPHB}"
 						]
 					]
 				}

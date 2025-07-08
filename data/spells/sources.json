@@ -27,7 +27,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -83,7 +83,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -99,7 +99,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -111,7 +111,7 @@
 		"Animal Shapes": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -151,7 +151,7 @@
 		"Antilife Shell": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -175,7 +175,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -275,7 +275,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -315,7 +315,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -331,7 +331,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -387,7 +387,7 @@
 		"Barkskin": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -407,7 +407,7 @@
 		"Beast Sense": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -423,7 +423,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -508,10 +508,10 @@
 				}
 			]
 		},
-		"Blight": {
+		"Marchitar": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -572,7 +572,7 @@
 				}
 			]
 		},
-		"Blur": {
+		"Contorno borroso": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -603,7 +603,7 @@
 		"Call Lightning": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -639,7 +639,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -663,7 +663,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -843,7 +843,7 @@
 		"Commune with Nature": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -888,10 +888,10 @@
 				}
 			]
 		},
-		"Cone of Cold": {
+		"Cono de frío": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -911,7 +911,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -924,10 +924,10 @@
 				}
 			]
 		},
-		"Conjure Animals": {
+		"Conjurar animales": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -952,10 +952,10 @@
 				}
 			]
 		},
-		"Conjure Elemental": {
+		"Conjurar elemental": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -967,7 +967,7 @@
 		"Conjure Fey": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -975,7 +975,7 @@
 		"Conjure Minor Elementals": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -995,7 +995,7 @@
 		"Conjure Woodland Beings": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1023,7 +1023,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -1043,7 +1043,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1056,14 +1056,14 @@
 				}
 			]
 		},
-		"Control Water": {
+		"Controlar agua": {
 			"class": [
 				{
 					"name": "Clérigo",
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1079,7 +1079,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1135,7 +1135,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -1211,7 +1211,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1267,7 +1267,7 @@
 		"Darkvision": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1295,7 +1295,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1383,7 +1383,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1419,7 +1419,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1523,7 +1523,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1567,7 +1567,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1603,7 +1603,7 @@
 		"Dominate Beast": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1688,10 +1688,10 @@
 				}
 			]
 		},
-		"Druidcraft": {
+		"Saber druídico": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -1703,7 +1703,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1723,7 +1723,7 @@
 		"Elemental Weapon": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1743,7 +1743,7 @@
 		"Elementalismo": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1767,7 +1767,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1795,7 +1795,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1823,7 +1823,7 @@
 		"Enmarañar": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -1935,7 +1935,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2011,7 +2011,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2047,7 +2047,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -2059,7 +2059,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2103,7 +2103,7 @@
 		"Escudo de fuego": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2123,7 +2123,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2147,7 +2147,7 @@
 		"Flame Blade": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2167,7 +2167,7 @@
 		"Flaming Sphere": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2183,7 +2183,7 @@
 		"Flesh to Stone": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2219,7 +2219,7 @@
 		"Nube de oscurecimiento": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2267,7 +2267,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2280,14 +2280,14 @@
 				}
 			]
 		},
-		"Fount of Moonlight": {
+		"Fuente de luz lunar": {
 			"class": [
 				{
 					"name": "Bardo",
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -2303,7 +2303,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2383,7 +2383,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2415,7 +2415,7 @@
 		"Giant Insect": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -2467,7 +2467,7 @@
 		"Buenas bayas": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2479,7 +2479,7 @@
 		"Grasping Vine": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2531,7 +2531,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2575,7 +2575,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2592,10 +2592,10 @@
 				}
 			]
 		},
-		"Gust of Wind": {
+		"Ráfaga de viento": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2635,7 +2635,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2679,7 +2679,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -2695,7 +2695,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -2707,7 +2707,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2735,7 +2735,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -2791,7 +2791,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2855,7 +2855,7 @@
 		"Cuchillo de hielo": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2868,10 +2868,10 @@
 				}
 			]
 		},
-		"Ice Storm": {
+		"Tormenta de hielo": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2931,7 +2931,7 @@
 		"Incendiary Cloud": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -2952,14 +2952,14 @@
 				}
 			]
 		},
-		"Insect Plague": {
+		"Plaga de insectos": {
 			"class": [
 				{
 					"name": "Clérigo",
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3007,7 +3007,7 @@
 		"Salto": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3095,7 +3095,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3160,7 +3160,7 @@
 				}
 			]
 		},
-		"Lightning Bolt": {
+		"Relámpago": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -3179,7 +3179,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3199,7 +3199,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3227,7 +3227,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3251,7 +3251,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3415,7 +3415,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -3471,7 +3471,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3499,7 +3499,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3523,7 +3523,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3623,7 +3623,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3696,10 +3696,10 @@
 				}
 			]
 		},
-		"Moonbeam": {
+		"Rayo de luna": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -3755,7 +3755,7 @@
 		"Move Earth": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3831,7 +3831,7 @@
 		"Pass without Trace": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3903,7 +3903,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3923,7 +3923,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3947,7 +3947,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3959,7 +3959,7 @@
 		"Rociada venenosa": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -3980,14 +3980,14 @@
 				}
 			]
 		},
-		"Polymorph": {
+		"Polimorfar": {
 			"class": [
 				{
 					"name": "Bardo",
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4128,10 +4128,10 @@
 				}
 			]
 		},
-		"Produce Flame": {
+		"Crear llama": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -4167,7 +4167,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4195,7 +4195,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4219,7 +4219,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4243,7 +4243,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4335,7 +4335,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -4343,7 +4343,7 @@
 		"Reincarnate": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -4375,7 +4375,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4399,7 +4399,7 @@
 		"Reverse Gravity": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4419,7 +4419,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4491,7 +4491,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4575,7 +4575,7 @@
 		"Shapechange": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4627,7 +4627,7 @@
 		"Shillelagh": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -4712,10 +4712,10 @@
 				}
 			]
 		},
-		"Sleet Storm": {
+		"Tormenta de aguanieve": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4759,7 +4759,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4775,7 +4775,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4811,7 +4811,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4843,7 +4843,7 @@
 		"Spike Growth": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4883,7 +4883,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -4900,7 +4900,7 @@
 				}
 			]
 		},
-		"Stinking Cloud": {
+		"Nube apestosa": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -4923,7 +4923,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4939,7 +4939,7 @@
 		"Stoneskin": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -4963,7 +4963,7 @@
 		"Storm of Vengeance": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -5003,7 +5003,7 @@
 		"Invocar bestia": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5047,7 +5047,7 @@
 		"Summon Elemental": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5063,7 +5063,7 @@
 		"Invocar feérico": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5111,7 +5111,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5131,7 +5131,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5163,7 +5163,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5292,10 +5292,10 @@
 				}
 			]
 		},
-		"Thorn Whip": {
+		"Látigo de espinas": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5311,7 +5311,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5347,7 +5347,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5415,15 +5415,15 @@
 		"Transport via Plants": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
 		},
-		"Tree Stride": {
+		"Paso arbóreo": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5455,7 +5455,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -5507,7 +5507,7 @@
 		"Tsunami": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -5567,7 +5567,7 @@
 		"Muro de Fuego": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5596,10 +5596,10 @@
 				}
 			]
 		},
-		"Wall of Stone": {
+		"Muro de piedra": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5619,7 +5619,7 @@
 		"Wall of Thorns": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -5636,10 +5636,10 @@
 				}
 			]
 		},
-		"Water Breathing": {
+		"Respirar bajo el agua": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5667,7 +5667,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{
@@ -5684,7 +5684,7 @@
 				}
 			]
 		},
-		"Web": {
+		"Telaraña": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -5715,7 +5715,7 @@
 		"Wind Walk": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				}
 			]
@@ -5723,7 +5723,7 @@
 		"Wind Wall": {
 			"class": [
 				{
-					"name": "Druid",
+					"name": "Druida",
 					"source": "XPHB"
 				},
 				{

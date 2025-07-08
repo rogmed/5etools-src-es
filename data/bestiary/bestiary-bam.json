@@ -2358,7 +2358,7 @@
 						"The chwinga casts one of the following spells, requiring no material or verbal components and using Charisma as the spellcasting ability:"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell guidance}",
 						"{@spell pass without trace}",
 						"{@spell resistance}"
@@ -3859,7 +3859,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"druid",
+					"Druida",
 					"gith"
 				]
 			},
@@ -3906,7 +3906,7 @@
 						"The githyanki casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save {@dc 16}):"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell light}",
 						"{@spell mage hand} (the hand is invisible)"
 					],
@@ -5152,7 +5152,7 @@
 							"{@spell fear} (9 brains)",
 							"{@spell hypnotic pattern} (10 brains)",
 							"{@spell major image} (11 brains)",
-							"{@spell stinking cloud} (12 brains)"
+							"{@spell nube apestosa} (12 brains)"
 						]
 					},
 					"ability": "int",

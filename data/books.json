@@ -2539,7 +2539,7 @@
 						"Bárbaro",
 						"Bardo",
 						"Clérigo",
-						"Druid",
+						"Druida",
 						"Guerrero",
 						{
 							"depth": 1,
@@ -4020,7 +4020,7 @@
 							"depth": 1
 						},
 						{
-							"header": "Druid",
+							"header": "Druida",
 							"depth": 1
 						},
 						{
@@ -6774,7 +6774,7 @@
 							"depth": 1
 						},
 						{
-							"header": "Druid",
+							"header": "Druida",
 							"depth": 1
 						},
 						{

@@ -126,7 +126,7 @@
 											"name": "{@class Druid}",
 											"page": 5,
 											"entries": [
-												"Certain shamans of the Sun Empire are closely attuned to the forces of nature, and use wild shape to take on dinosaur forms. These druids typically follow the {@class Druid||Circle of the Moon|Moon}."
+												"Certain shamans of the Sun Empire are closely attuned to the forces of nature, and use wild shape to take on dinosaur forms. These druids typically follow the {@class Druida||Circle of the Moon|Moon}."
 											],
 											"id": "007"
 										},
@@ -367,7 +367,7 @@
 											"name": "{@class Druid}",
 											"page": 7,
 											"entries": [
-												"Many River Herald shamans are druids of the {@class Druid||Circle of the Land|Land}."
+												"Many River Herald shamans are druids of the {@class Druida||Círculo de la tierra|Land}."
 											],
 											"id": "010"
 										},
@@ -1448,7 +1448,7 @@
 									"page": 41,
 									"entries": [
 										"In the language of the D&D game, the colors of mana are a means of categorizing the types of magic that suffuse all existence. When a spellcaster draws upon or manipulates the Weave (see {@book chapter 10 in the Player's Handbook|PHB|10}), part of that process involves tugging on a strand that connects to a land that produces mana of the desired color. Whether consciously or unconsciously, a druid casting {@spell barkskin} tugs on a strand of the Weave connected to a forest in the world, drawing out the green mana needed to cast the spell.",
-										"There's no rules weight to this material; it's simply about roleplaying your character. If you're playing a cleric, you might find it helpful to imagine your character drawing on white mana, and you'll find that a lot of your spells could indeed be white spells in Magic. You might also find inspiration in the personality traits and ideals described in the white mana entry. But there's no rule preventing your character from using spells like {@spell divination} (a blue spell), {@spell stone shape} (a red spell), {@spell create undead} (a black spell), or {@spell insect plague} (a green spell). On the other hand, you might find that thinking about your cleric as a white-aligned caster shapes your choice of spells as well as your personality."
+										"There's no rules weight to this material; it's simply about roleplaying your character. If you're playing a cleric, you might find it helpful to imagine your character drawing on white mana, and you'll find that a lot of your spells could indeed be white spells in Magic. You might also find inspiration in the personality traits and ideals described in the white mana entry. But there's no rule preventing your character from using spells like {@spell divination} (a blue spell), {@spell stone shape} (a red spell), {@spell create undead} (a black spell), or {@spell plaga de insectos} (a green spell). On the other hand, you might find that thinking about your cleric as a white-aligned caster shapes your choice of spells as well as your personality."
 									],
 									"id": "031"
 								}
@@ -2147,7 +2147,7 @@
 										],
 										[
 											"8",
-											"I see omens in every ripple, gust of wind, and flight of birds."
+											"I see omens in every ripple, ráfaga de viento, and flight of birds."
 										]
 									]
 								},

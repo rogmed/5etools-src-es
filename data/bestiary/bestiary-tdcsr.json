@@ -260,9 +260,9 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell mending}",
-								"{@spell produce flame} ({@dice 2d8})"
+								"{@spell crear llama} ({@dice 2d8})"
 							]
 						},
 						"1": {
@@ -299,7 +299,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell conjure elemental}"
+								"{@spell Conjurar elemental}"
 							]
 						}
 					},
@@ -439,7 +439,7 @@
 						"2": {
 							"slots": 2,
 							"spells": [
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell pass without trace}"
 							]
 						}
@@ -603,7 +603,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell resistance}"
 							]
 						},
@@ -611,7 +611,7 @@
 							"spells": [
 								"{@spell goodberry}",
 								"{@spell speak with animals}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							],
 							"slots": 4
 						},
@@ -636,7 +636,7 @@
 				{
 					"name": "Granite Maul",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning damage. If the attack hits, the stoneguard can also immediately cast {@spell thunderwave} as a bonus action. This casting uses a spell slot but requires no components."
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning damage. If the attack hits, the stoneguard can also immediately cast {@spell ola atronadora} as a bonus action. This casting uses a spell slot but requires no components."
 					]
 				}
 			],
@@ -755,7 +755,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell poison spray} ({@dice 2d12})",
 								"{@spell resistance}"
 							]
@@ -773,14 +773,14 @@
 							"spells": [
 								"{@spell animal messenger}",
 								"{@spell lesser restoration}",
-								"{@spell moonbeam}"
+								"{@spell rayo de luna}"
 							]
 						},
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals} (aquatic beasts only)",
-								"{@spell water breathing}",
+								"{@spell conjurar animales} (aquatic beasts only)",
+								"{@spell respirar bajo el agua}",
 								"{@spell water walk}"
 							]
 						},
@@ -1239,7 +1239,7 @@
 					"will": [
 						"{@spell bane}",
 						"{@spell bless}",
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"1": [
@@ -2061,7 +2061,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell ice storm}",
+							"{@spell tormenta de hielo}",
 							"{@spell sleet storm}",
 							"{@spell wind wall}"
 						],
@@ -3333,7 +3333,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"Jourrael can move through other creatures and objects as if they were {@quickref difficult terrain||3}. They take 5 ({@damage 1d10}) force damage if they end their turn inside an object."
+						"Jourrael can move through other creatures and objects as if they were {@quickref terreno difícil||3}. They take 5 ({@damage 1d10}) force damage if they end their turn inside an object."
 					]
 				},
 				{
@@ -3512,7 +3512,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell guidance}",
 								"{@spell mending}"
 							]
@@ -3524,7 +3524,7 @@
 								"{@spell faerie fire}",
 								"{@spell fog cloud}",
 								"{@spell healing word}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -3532,7 +3532,7 @@
 							"spells": [
 								"{@spell alter self} (at will)",
 								"{@spell flaming sphere}",
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell pass without trace}"
 							]
 						},
@@ -3556,7 +3556,7 @@
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure elemental}",
+								"{@spell Conjurar elemental}",
 								"{@spell greater restoration}",
 								"{@spell scrying}",
 								"{@spell wall of stone}"
@@ -3638,7 +3638,7 @@
 				{
 					"name": "Wild Shape",
 					"entries": [
-						"Keyleth magically {@spell polymorph|phb|polymorphs} into a beast or elemental of CR 6 or lower. Her game statistics are replaced by the statistics of the new form, but she retains her alignment, personality, and Intelligence, Wisdom, and Charisma scores. She also retains all of her skill and {@quickref saving throws|PHB|2|1|saving throw} proficiencies, in addition to gaining those of the new form. She assumes the new form's hit points and Hit Dice and returns to the number of hit points she had when she reverts to her normal form. Any equipment she is wearing or carrying is absorbed or borne by her new form (her choice). She reverts to her humanoid form as a bonus action, or when she falls {@condition unconscious}. Her attacks in Wild Shape form are magical, and she can cast spells while transformed."
+						"Keyleth magically {@spell polimorfar|phb|polymorphs} into a beast or elemental of CR 6 or lower. Her game statistics are replaced by the statistics of the new form, but she retains her alignment, personality, and Intelligence, Wisdom, and Charisma scores. She also retains all of her skill and {@quickref saving throws|PHB|2|1|saving throw} proficiencies, in addition to gaining those of the new form. She assumes the new form's hit points and Hit Dice and returns to the number of hit points she had when she reverts to her normal form. Any equipment she is wearing or carrying is absorbed or borne by her new form (her choice). She reverts to her humanoid form as a bonus action, or when she falls {@condition unconscious}. Her attacks in Wild Shape form are magical, and she can cast spells while transformed."
 					]
 				},
 				{
@@ -5984,7 +5984,7 @@
 							"{@spell call lightning}"
 						],
 						"3": [
-							"{@spell lightning bolt}"
+							"{@spell relámpago}"
 						]
 					},
 					"ability": "cha"
@@ -6002,7 +6002,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The stormborn makes two greataxe attacks. If it is concentrating on {@spell call lightning}, it can also call down a lightning bolt."
+						"The stormborn makes two greataxe attacks. If it is concentrating on {@spell call lightning}, it can also call down a relámpago."
 					]
 				},
 				{
@@ -6182,7 +6182,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell healing word}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -6198,8 +6198,8 @@
 							"slots": 3,
 							"spells": [
 								"{@spell counterspell}",
-								"{@spell lightning bolt}",
-								"{@spell stinking cloud}"
+								"{@spell relámpago}",
+								"{@spell nube apestosa}"
 							]
 						},
 						"4": {
@@ -7192,7 +7192,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The ghost can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The ghost can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -7330,7 +7330,7 @@
 				{
 					"name": "Wraith Shift",
 					"entries": [
-						"On its turn, the wraithroot tree can move through other creatures and objects as if they were {@quickref difficult terrain||3}. The tree does not provoke {@action opportunity attack|PHB|opportunity attacks} while moving, and must finish its movement in a space unoccupied by any Large or larger objects or creatures. Any Medium or smaller creature in the tree's space when it finishes moving is pushed to the nearest unoccupied space of the creature's choice. Medium or smaller objects in the tree's space are pushed to the nearest unoccupied spaces of the tree's choice."
+						"On its turn, the wraithroot tree can move through other creatures and objects as if they were {@quickref terreno difícil||3}. The tree does not provoke {@action opportunity attack|PHB|opportunity attacks} while moving, and must finish its movement in a space unoccupied by any Large or larger objects or creatures. Any Medium or smaller creature in the tree's space when it finishes moving is pushed to the nearest unoccupied space of the creature's choice. Medium or smaller objects in the tree's space are pushed to the nearest unoccupied spaces of the tree's choice."
 					]
 				}
 			],

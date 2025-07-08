@@ -8220,7 +8220,7 @@
 						{
 							"min": 36,
 							"max": 40,
-							"result": "Fog that rolls across the terrain, making the area within {@dice 1d3} miles heavily obscured for {@dice 1d4} hours"
+							"result": "Fog that rolls across the terrain, making the area within {@dice 1d3} miles muy oscuro for {@dice 1d4} hours"
 						},
 						{
 							"min": 41,

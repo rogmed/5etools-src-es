@@ -100,14 +100,14 @@
 								"{@spell charm person}",
 								"{@spell feather fall}",
 								"{@spell mage armor}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
 								"{@spell dust devil|xge}",
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell invisibility}"
 							]
 						},
@@ -116,13 +116,13 @@
 							"spells": [
 								"{@spell fly}",
 								"{@spell gaseous form}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell ice storm}",
+								"{@spell tormenta de hielo}",
 								"{@spell storm sphere|xge}"
 							]
 						},
@@ -304,7 +304,7 @@
 						"Bastian's innate spellcasting ability is Constitution (spell save {@dc 13}, {@hit 5} to hit with spell attacks). He can innately cast the following spells:"
 					],
 					"will": [
-						"{@spell produce flame}"
+						"{@spell crear llama}"
 					],
 					"daily": {
 						"1": [
@@ -559,7 +559,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell blade ward}",
 								"{@spell light}",
 								"{@spell mending}",
@@ -1398,10 +1398,10 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell guidance}",
 								"{@spell poison spray}",
-								"{@spell produce flame}"
+								"{@spell crear llama}"
 							]
 						},
 						"1": {
@@ -1411,7 +1411,7 @@
 								"{@spell faerie fire}",
 								"{@spell healing word}",
 								"{@spell jump}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -1425,7 +1425,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dispel magic}",
-								"{@spell stinking cloud}"
+								"{@spell nube apestosa}"
 							]
 						},
 						"4": {
@@ -2328,7 +2328,7 @@
 								"{@spell create or destroy water}",
 								"{@spell cure wounds}",
 								"{@spell fog cloud}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2351,7 +2351,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell control water}",
-								"{@spell ice storm}"
+								"{@spell tormenta de hielo}"
 							]
 						},
 						"5": {
@@ -2949,7 +2949,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dust devil|xge}",
-								"{@spell gust of wind}"
+								"{@spell ráfaga de viento}"
 							]
 						},
 						"3": {
@@ -3092,13 +3092,13 @@
 							"spells": [
 								"{@spell feather fall}",
 								"{@spell jump}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
 							"slots": 2,
 							"spells": [
-								"{@spell gust of wind}"
+								"{@spell ráfaga de viento}"
 							]
 						}
 					},
@@ -3574,7 +3574,7 @@
 				{
 					"name": "Earth Passage",
 					"entries": [
-						"Marlos can move in {@quickref difficult terrain||3} composed of anything made from earth or stone as if it were normal terrain. He can move through solid earth and rock as if it were {@quickref difficult terrain||3}. If he ends his turn there, he is shunted into the nearest space he last occupied."
+						"Marlos can move in {@quickref terreno difícil||3} composed of anything made from earth or stone as if it were normal terrain. He can move through solid earth and rock as if it were {@quickref terreno difícil||3}. If he ends his turn there, he is shunted into the nearest space he last occupied."
 					]
 				},
 				{
@@ -3735,7 +3735,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell blade ward}",
 								"{@spell friends}",
 								"{@spell light}",
@@ -3793,7 +3793,7 @@
 				{
 					"name": "Earth Walk",
 					"entries": [
-						"Moving through {@quickref difficult terrain||3} made of earth or stone costs Miraj no extra movement."
+						"Moving through {@quickref terreno difícil||3} made of earth or stone costs Miraj no extra movement."
 					]
 				}
 			],
@@ -4228,7 +4228,7 @@
 							"{@spell storm of vengeance}"
 						],
 						"3": [
-							"{@spell ice storm}"
+							"{@spell tormenta de hielo}"
 						]
 					},
 					"ability": "cha"
@@ -4441,7 +4441,7 @@
 							"spells": [
 								"{@spell fog cloud}",
 								"{@spell mage armor}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -4594,7 +4594,7 @@
 								"{@spell false life}",
 								"{@spell mage armor}",
 								"{@spell magic missile}",
-								"{@spell ray of sickness}"
+								"{@spell rayo nauseabundo}"
 							]
 						},
 						"2": {
@@ -4856,7 +4856,7 @@
 								"{@spell detect magic}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -5160,7 +5160,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell chill touch}",
 								"{@spell friends}",
 								"{@spell prestidigitation}",
@@ -5321,7 +5321,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell invisibility}"
 							]
 						},
@@ -5329,7 +5329,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						}
 					},
@@ -5457,7 +5457,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell blade ward}",
 								"{@spell light}",
 								"{@spell mending}",
@@ -5801,7 +5801,7 @@
 								"{@spell friends}",
 								"{@spell mage hand}",
 								"{@spell message}",
-								"{@spell produce flame}",
+								"{@spell crear llama}",
 								"{@spell thaumaturgy}"
 							]
 						},
@@ -6151,7 +6151,7 @@
 							"spells": [
 								"{@spell disguise self}",
 								"{@spell dissonant whispers}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -6330,9 +6330,9 @@
 						"Yan-C-Bin's innate spellcasting ability is Charisma (spell save {@dc 20}, {@hit 12} to hit with spell attacks). He can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell gust of wind}",
+						"{@spell ráfaga de viento}",
 						"{@spell invisibility}",
-						"{@spell lightning bolt}"
+						"{@spell relámpago}"
 					],
 					"daily": {
 						"2e": [

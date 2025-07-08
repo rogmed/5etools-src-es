@@ -766,7 +766,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell light}",
 								"{@spell mending}",
 								"{@spell poison spray}",
@@ -810,7 +810,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell cone of cold}",
+								"{@spell cono de frío}",
 								"{@spell creation}",
 								"{@spell hold monster}"
 							]
@@ -2055,7 +2055,7 @@
 						"The dryad's innate spellcasting ability is Charisma (spell save {@dc 17}). The dryad can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"3e": [
@@ -2065,7 +2065,7 @@
 							"{@spell spike growth}"
 						],
 						"1e": [
-							"{@spell moonbeam}",
+							"{@spell rayo de luna}",
 							"{@spell grasping vine}",
 							"{@spell wall of thorns}"
 						]
@@ -2238,7 +2238,7 @@
 						"3e": [
 							"{@spell scorching ray}",
 							"{@spell shield}",
-							"{@spell thunderwave}"
+							"{@spell ola atronadora}"
 						]
 					},
 					"ability": "int"
@@ -2688,7 +2688,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell chill touch}",
 								"{@spell mage hand}",
 								"{@spell poison spray}",
@@ -2700,7 +2700,7 @@
 							"spells": [
 								"{@spell chromatic orb}",
 								"{@spell magic missile}",
-								"{@spell ray of sickness}"
+								"{@spell rayo nauseabundo}"
 							]
 						},
 						"2": {
@@ -2732,7 +2732,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell cloudkill}",
-								"{@spell insect plague}"
+								"{@spell plaga de insectos}"
 							]
 						},
 						"6": {
@@ -2922,10 +2922,10 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
 								"{@spell resistance}",
-								"{@spell thorn whip}"
+								"{@spell látigo de espinas}"
 							]
 						},
 						"1": {
@@ -2933,7 +2933,7 @@
 							"spells": [
 								"{@spell cure wounds}",
 								"{@spell faerie fire}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2947,7 +2947,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell dispel magic}",
 								"{@spell plant growth}"
 							]
@@ -2964,7 +2964,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell commune with nature}",
-								"{@spell conjure elemental}",
+								"{@spell Conjurar elemental}",
 								"{@spell scrying}"
 							]
 						},
@@ -3569,10 +3569,10 @@
 						],
 						"1e": [
 							"{@spell banishment}",
-							"{@spell cone of cold}",
+							"{@spell cono de frío}",
 							"{@spell dimension door}",
 							"{@spell fireball}",
-							"{@spell ice storm}"
+							"{@spell tormenta de hielo}"
 						]
 					},
 					"ability": "int"
@@ -4029,8 +4029,8 @@
 						],
 						"3e": [
 							"{@spell levitate}",
-							"{@spell lightning bolt}",
-							"{@spell thunderwave}"
+							"{@spell relámpago}",
+							"{@spell ola atronadora}"
 						]
 					},
 					"ability": "int"
@@ -4040,13 +4040,13 @@
 				{
 					"name": "Galvanic Overcast {@recharge 5}",
 					"entries": [
-						"When the blastseeker casts {@spell lightning bolt} or thunderwave, it can roll a die. On an odd number, the blastseeker takes 9 ({@damage 2d8}) force damage. On an even number, the spell also deals 9 ({@damage 2d8}) lightning damage to each target that fails its saving throw."
+						"When the blastseeker casts {@spell relámpago} or thunderwave, it can roll a die. On an odd number, the blastseeker takes 9 ({@damage 2d8}) force damage. On an even number, the spell also deals 9 ({@damage 2d8}) lightning damage to each target that fails its saving throw."
 					]
 				},
 				{
 					"name": "Heart of the Storm",
 					"entries": [
-						"When the blastseeker casts {@spell lightning bolt} or thunderwave, all other creatures within 10 feet of the blastseeker each take 3 lightning damage."
+						"When the blastseeker casts {@spell relámpago} or thunderwave, all other creatures within 10 feet of the blastseeker each take 3 lightning damage."
 					]
 				},
 				{
@@ -4403,7 +4403,7 @@
 							"spells": [
 								"{@spell poison spray}",
 								"{@spell shillelagh}",
-								"{@spell thorn whip}"
+								"{@spell látigo de espinas}"
 							]
 						},
 						"1": {
@@ -4411,7 +4411,7 @@
 							"spells": [
 								"{@spell cure wounds}",
 								"{@spell entangle}",
-								"{@spell ray of sickness}"
+								"{@spell rayo nauseabundo}"
 							]
 						},
 						"2": {
@@ -4675,7 +4675,7 @@
 					"daily": {
 						"1e": [
 							"{@spell bless}",
-							"{@spell conjure animals}"
+							"{@spell conjurar animales}"
 						]
 					},
 					"ability": "wis"
@@ -5274,7 +5274,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The spirit can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The spirit can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -5665,7 +5665,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell chill touch}",
 								"{@spell mage hand}",
 								"{@spell poison spray}",
@@ -5676,7 +5676,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell entangle}",
-								"{@spell ray of sickness}",
+								"{@spell rayo nauseabundo}",
 								"{@spell sleep}"
 							]
 						},
@@ -5709,7 +5709,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell cloudkill}",
-								"{@spell insect plague}"
+								"{@spell plaga de insectos}"
 							]
 						},
 						"6": {
@@ -5936,7 +5936,7 @@
 					"daily": {
 						"3e": [
 							"{@spell ray of enfeeblement}",
-							"{@spell ray of sickness}"
+							"{@spell rayo nauseabundo}"
 						],
 						"1e": [
 							"{@spell animate dead}",
@@ -7187,7 +7187,7 @@
 								"{@spell detect magic}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}",
+								"{@spell ola atronadora}",
 								"{@spell unseen servant}"
 							]
 						},
@@ -7206,7 +7206,7 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell fireball}",
-								"{@spell lightning bolt}",
+								"{@spell relámpago}",
 								"{@spell slow}"
 							]
 						},
@@ -7221,7 +7221,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell conjure elemental}",
+								"{@spell Conjurar elemental}",
 								"{@spell polymorph}",
 								"{@spell wall of fire}",
 								"{@spell wall of force}"
@@ -7669,7 +7669,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The ghost can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The ghost can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -8260,7 +8260,7 @@
 								"{@spell dissonant whispers}",
 								"{@spell silent image}",
 								"{@spell Tasha's hideous laughter}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -8661,7 +8661,7 @@
 							"spells": [
 								"{@spell guiding bolt}",
 								"{@spell shield}",
-								"{@spell thunderwave}",
+								"{@spell ola atronadora}",
 								"{@spell witch bolt}"
 							]
 						},
@@ -8675,7 +8675,7 @@
 						"3": {
 							"slots": 2,
 							"spells": [
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						}
 					},
@@ -8801,7 +8801,7 @@
 				{
 					"name": "Ruin Dweller",
 					"entries": [
-						"The stalker has advantage on Dexterity ({@skill Stealth}) checks made to hide in ruins, and its speed is not reduced in {@quickref difficult terrain||3} composed of rubble."
+						"The stalker has advantage on Dexterity ({@skill Stealth}) checks made to hide in ruins, and its speed is not reduced in {@quickref terreno difícil||3} composed of rubble."
 					]
 				},
 				{
@@ -9059,7 +9059,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The horror can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The horror can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -10126,14 +10126,14 @@
 					],
 					"will": [
 						"{@spell dispel magic}",
-						"{@spell druidcraft}"
+						"{@spell saber druídico}"
 					],
 					"daily": {
 						"3e": [
 							"{@spell bless}",
-							"{@spell conjure animals}",
+							"{@spell conjurar animales}",
 							"{@spell giant insect}",
-							"{@spell moonbeam}",
+							"{@spell rayo de luna}",
 							"{@spell plant growth}",
 							"{@spell spike growth}",
 							"{@spell suggestion}"
@@ -10172,7 +10172,7 @@
 					]
 				},
 				{
-					"name": "Tree Stride",
+					"name": "Paso arbóreo",
 					"entries": [
 						"Once on her turn, Trostani can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger."
 					]
@@ -10240,7 +10240,7 @@
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Magic Weapons",
-				"Tree Stride"
+				"Paso arbóreo"
 			],
 			"senseTags": [
 				"SD"
@@ -10680,8 +10680,8 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
-								"{@spell druidcraft}",
+								"{@spell salpicadura ácida}",
+								"{@spell saber druídico}",
 								"{@spell ray of frost}",
 								"{@spell shape water|XGE}"
 							]
@@ -10699,7 +10699,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell enlarge/reduce}",
-								"{@spell gust of wind}"
+								"{@spell ráfaga de viento}"
 							]
 						},
 						"3": {
@@ -10714,14 +10714,14 @@
 							"slots": 3,
 							"spells": [
 								"{@spell control water}",
-								"{@spell ice storm}",
+								"{@spell tormenta de hielo}",
 								"{@spell polymorph}"
 							]
 						},
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell conjure elemental}",
+								"{@spell Conjurar elemental}",
 								"{@spell creation}"
 							]
 						},

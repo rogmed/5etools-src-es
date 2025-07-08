@@ -3755,7 +3755,7 @@
 				{
 					"min": 96,
 					"max": 96,
-					"item": "{@item Wand of Lightning Bolts}"
+					"item": "{@item Wand of Relámpagos}"
 				},
 				{
 					"min": 97,
@@ -5405,7 +5405,7 @@
 				{
 					"min": 91,
 					"max": 94,
-					"item": "{@item Wand of Lightning Bolts|XDMG}"
+					"item": "{@item Wand of Relámpagos|XDMG}"
 				},
 				{
 					"min": 95,

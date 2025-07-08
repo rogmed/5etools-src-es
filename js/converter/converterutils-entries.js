@@ -268,7 +268,7 @@ export class SpellTag extends ConverterTaggerInitializable {
 
 						.replace(/{@spell (Darkvision)\|XPHB}( can't| \d+ (?:ft\.|feet))/g, "$1$2")
 
-						.replace(/(Dim Light or ){@spell (Darkness)\|XPHB}/g, "$1$2")
+						.replace(/(Luz tenue or ){@spell (Darkness)\|XPHB}/g, "$1$2")
 						.replace(/(magical ){@spell (Darkness)\|XPHB}/g, "$1$2")
 
 						.replace(/{@spell (Fly)\|XPHB}( \d+ (?:ft\.|feet))/g, "$1$2")
@@ -987,17 +987,17 @@ export class QuickrefTag {
 	}
 }
 QuickrefTag._RE_BASIC = /\b([Dd]ifficult [Tt]errain|Vision and Light)\b/g;
-QuickrefTag._RE_VISION = /\b(dim light|bright light|lightly obscured|heavily obscured)\b/gi;
+QuickrefTag._RE_VISION = /\b(dim light|bright light|lightly obscured|muy oscuro)\b/gi;
 QuickrefTag._RE_COVER = /\b(half cover|three-quarters cover|total cover)\b/gi;
 QuickrefTag._LOOKUP_BASIC = {
-	"difficult terrain": "difficult terrain||3",
+	"terreno difícil": "terreno difícil||3",
 	"vision and light": "Vision and Light||2",
 };
 QuickrefTag._LOOKUP_VISION = {
 	"bright light": "Vision and Light||2",
-	"dim light": "Vision and Light||2",
+	"luz tenue": "Vision and Light||2",
 	"lightly obscured": "Vision and Light||2",
-	"heavily obscured": "Vision and Light||2",
+	"muy oscuro": "Vision and Light||2",
 };
 QuickrefTag._LOOKUP_COVER = {
 	"half cover": "Cover||3",

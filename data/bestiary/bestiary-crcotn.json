@@ -438,7 +438,7 @@
 						"1e": [
 							"{@spell lesser restoration}",
 							"{@spell remove curse}",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha",
@@ -1960,7 +1960,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The shark can breathe only underwater."
 					]
@@ -1976,7 +1976,7 @@
 			],
 			"traitTags": [
 				"Regeneration",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"
@@ -2192,7 +2192,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The death embrace can breathe only underwater."
 					]
@@ -2221,7 +2221,7 @@
 				}
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"
@@ -3257,7 +3257,7 @@
 							"{@spell scrying} (as an action)",
 							"{@spell slow}",
 							"{@spell telekinesis}",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "int",
@@ -4200,7 +4200,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The light devourer can breathe only underwater."
 					]
@@ -4230,7 +4230,7 @@
 			],
 			"traitTags": [
 				"Damage Absorption",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"SD"
@@ -6294,7 +6294,7 @@
 					"daily": {
 						"1e": [
 							"{@spell blindness/deafness}",
-							"{@spell ray of sickness}"
+							"{@spell rayo nauseabundo}"
 						]
 					},
 					"ability": "cha",
@@ -6350,7 +6350,7 @@
 				"_mod": {
 					"trait": {
 						"mode": "replaceArr",
-						"replace": "Water Breathing",
+						"replace": "Respirar bajo el agua",
 						"items": {
 							"name": "Unusual Nature",
 							"entries": [
@@ -6437,7 +6437,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The bloodfin can breathe only underwater."
 					]
@@ -6474,7 +6474,7 @@
 			],
 			"traitTags": [
 				"Death Burst",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"
@@ -6548,7 +6548,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The Sorrowfish can breathe only underwater."
 					]
@@ -6563,7 +6563,7 @@
 				}
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -6645,7 +6645,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The swarm can breathe only underwater."
 					]
@@ -6666,7 +6666,7 @@
 				}
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"

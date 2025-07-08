@@ -2757,7 +2757,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Conjure Animals",
+			"name": "Conjurar animales",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -3355,7 +3355,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Control Water",
+			"name": "Controlar agua",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -4748,7 +4748,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Druidcraft",
+			"name": "Saber druídico",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -7004,7 +7004,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Fount of Moonlight",
+			"name": "Fuente de luz lunar",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -8057,7 +8057,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Gust of Wind",
+			"name": "Ráfaga de viento",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -9085,7 +9085,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Ice Storm",
+			"name": "Tormenta de hielo",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -11149,7 +11149,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Polymorph",
+			"name": "Polimorfar",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -11643,7 +11643,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Produce Flame",
+			"name": "Crear llama",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -13728,7 +13728,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Sleet Storm",
+			"name": "Tormenta de aguanieve",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -14260,13 +14260,13 @@
 					"duration": {
 						"rounds": 1
 					},
-					"description": "Until the end of your next turn, it emits Dim Light in a 10-foot radius and can't benefit from the &Reference[Invisible] condition."
+					"description": "Until the end of your next turn, it emits Luz tenue in a 10-foot radius and can't benefit from the &Reference[Invisible] condition."
 				}
 			],
 			"migrationVersion": 3
 		},
 		{
-			"name": "Stinking Cloud",
+			"name": "Nube apestosa",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -14681,7 +14681,7 @@
 							"uuid": "@creature[bestial spirit (air)|tce]"
 						},
 						{
-							"name": "Land",
+							"name": "Tierra",
 							"uuid": "@creature[bestial spirit (land)|tce]"
 						},
 						{
@@ -15976,7 +15976,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Thorn Whip",
+			"name": "Látigo de espinas",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -16922,7 +16922,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Wall of Stone",
+			"name": "Muro de piedra",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -17207,7 +17207,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Water Breathing",
+			"name": "Respirar bajo el agua",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -17262,7 +17262,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Web",
+			"name": "Telaraña",
 			"source": "XPHB",
 			"activities": [
 				{

@@ -3753,7 +3753,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Tentáculos negros de Evard}",
-							"{@spell Cone of Cold}",
+							"{@spell Cono de frío}",
 							"{@spell Confusion}",
 							"{@spell Puerta dimensional}",
 							"{@spell Geas}",
@@ -5787,9 +5787,9 @@
 						"Levistus casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 23}):"
 					],
 					"will": [
-						"{@spell Cone of Cold}",
+						"{@spell Cono de frío}",
 						"{@spell Darkness}",
-						"{@spell Ice Storm}",
+						"{@spell Tormenta de hielo}",
 						"{@spell Wall of Ice}"
 					],
 					"ability": "int",
@@ -9350,7 +9350,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell Cone of Cold}",
+							"{@spell Cono de frío}",
 							"{@spell Foresight}",
 							"{@spell Stoneskin}",
 							"{@spell Enlace telepático de Rary}",

@@ -397,7 +397,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"will": [
-						"{@spell acid splash}",
+						"{@spell salpicadura ácida}",
 						"{@spell dancing lights}",
 						"{@spell minor illusion}"
 					],

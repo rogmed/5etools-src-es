@@ -34,7 +34,7 @@
 								{
 									"name": "Incorporeal Movement",
 									"entries": [
-										"The hound can move through other creatures and objects as if they were {@quickref difficult terrain||3}. The hound takes 5 force damage if it ends its turn inside an object."
+										"The hound can move through other creatures and objects as if they were {@quickref terreno difícil||3}. The hound takes 5 force damage if it ends its turn inside an object."
 									]
 								},
 								{

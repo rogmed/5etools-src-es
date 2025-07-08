@@ -404,7 +404,7 @@
 									"id": "031",
 									"entries": [
 										"Summoning in the Cage",
-										"With the exception of permanent teleportation circles, the Lady of Pain prevents spells and other powers from allowing anything to enter the City of Doors. That means creatures and objects from outside in the multiverse can't be summoned or conjured into Sigil by any means. Summoning abilities a character might have, such as the {@spell conjure elemental} spell or a class feature that summons a companion, still function as normal with these features calling only creatures that exist somewhere within Sigil itself.",
+										"With the exception of permanent teleportation circles, the Lady of Pain prevents spells and other powers from allowing anything to enter the City of Doors. That means creatures and objects from outside in the multiverse can't be summoned or conjured into Sigil by any means. Summoning abilities a character might have, such as the {@spell Conjurar elemental} spell or a class feature that summons a companion, still function as normal with these features calling only creatures that exist somewhere within Sigil itself.",
 										"The unique planar geography of Sigil should create interesting, even if sometimes confounding, twists, but it shouldn't prevent a character from doing what they do best."
 									]
 								}
@@ -2392,7 +2392,7 @@
 									"id": "086",
 									"entries": [
 										"Fell, a {@creature dabus|MPP} (see {@book Morte's Planar Parade|MPP}), runs a tattoo parlor in the Hive. From a distance, he looks like any other of his kind\u2014a lean, purple-skinned figure in flowing robes, his horns protruding from a voluminous tuft of white hair atop his head. Shunned by the Lady of Pain and ostracized by his kin for declaring himself a priest of Aoskar, the dead god of portals, Fell now walks on the ground instead of floating above it. However, some of the dabus's magic remains, evident in the indelible designs he weaves into his visual rebuses.",
-										"Fell's Tattoos is a modest, oblong shack down the street from the {@book Smoldering Corpse Bar|SatO|2|Smoldering Corpse Bar} (detailed below). A pearl lightning bolt above the door marks the parlor's entrance. Inside, the quiet artist lets his handiwork speak for itself. Fell nods and smiles at his clients, producing wispy images that hang in the air and adjusting the shapes to their liking. The dabus applies each tattoo with a wave of his hand, wafting the design toward the client's skin where it grafts itself in vibrant ink.",
+										"Fell's Tattoos is a modest, oblong shack down the street from the {@book Smoldering Corpse Bar|SatO|2|Smoldering Corpse Bar} (detailed below). A pearl relámpago above the door marks the parlor's entrance. Inside, the quiet artist lets his handiwork speak for itself. Fell nods and smiles at his clients, producing wispy images that hang in the air and adjusting the shapes to their liking. The dabus applies each tattoo with a wave of his hand, wafting the design toward the client's skin where it grafts itself in vibrant ink.",
 										{
 											"type": "entries",
 											"name": "Magic Tattoos",

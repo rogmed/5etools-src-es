@@ -194,7 +194,7 @@
 								"{@spell fog cloud}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -385,7 +385,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell misty step}",
 								"{@spell shatter}"
 							]
@@ -394,7 +394,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						}
 					},
@@ -933,7 +933,7 @@
 								"{@spell longstrider}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -1824,7 +1824,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell guidance}",
 								"{@spell poison spray}"
 							]
@@ -1835,7 +1835,7 @@
 								"{@spell cure wounds}",
 								"{@spell entangle}",
 								"{@spell healing word}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2510,7 +2510,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell insect plague}"
+								"{@spell plaga de insectos}"
 							]
 						}
 					},

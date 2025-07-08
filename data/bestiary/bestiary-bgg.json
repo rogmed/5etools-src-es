@@ -670,7 +670,7 @@
 				{
 					"name": "Death Burst",
 					"entries": [
-						"When the cinder hulk dies, it leaves behind a cloud of cinders and smoke that fills a 10-foot-radius sphere centered on its space. The sphere is heavily obscured. Any creature that moves into the area for the first time on a turn or starts its turn there must succeed on a {@dc 16} Constitution saving throw or take 10 ({@damage 3d6}) fire damage. The cloud lasts for 1 minute or until it is dispersed by strong wind."
+						"When the cinder hulk dies, it leaves behind a cloud of cinders and smoke that fills a 10-foot-radius sphere centered on its space. The sphere is muy oscuro. Any creature that moves into the area for the first time on a turn or starts its turn there must succeed on a {@dc 16} Constitution saving throw or take 10 ({@damage 3d6}) fire damage. The cloud lasts for 1 minute or until it is dispersed by strong wind."
 					]
 				}
 			],
@@ -838,7 +838,7 @@
 					"name": "Thunderous Clap (Requires Cloud Rune)",
 					"entries": [
 						"The giant magically summons a thundercloud that fills a 30-foot-radius sphere centered on a point the giant can see within 60 feet of itself. The cloud spreads around corners. Each creature in that area must make a {@dc 20} Constitution saving throw as the cloud emits a thunderous boom. On a failed save, a creature takes 52 ({@damage 8d12}) thunder damage and has the {@condition prone} condition. On a successful save, a creature takes half as much damage only. The thunderclap is audible within 300 feet of the cloud's center point.",
-						"The cloud's area is heavily obscured. The cloud lingers until the start of the giant's next turn or until a strong wind disperses it."
+						"The cloud's area is muy oscuro. The cloud lingers until the start of the giant's next turn or until a strong wind disperses it."
 					]
 				}
 			],
@@ -2032,7 +2032,7 @@
 				{
 					"name": "Lightning Barrage {@recharge 5}",
 					"entries": [
-						"The cradle hurls multiple magical lightning bolts at up to two creatures it can see within 500 feet of itself. Each target must make a {@dc 22} Dexterity saving throw. On a failed save, the target takes 71 ({@damage 11d12}) lightning damage and has the {@condition stunned} condition until the end of its next turn. On a successful save, the target takes half as much damage only."
+						"The cradle hurls multiple magical relámpagos at up to two creatures it can see within 500 feet of itself. Each target must make a {@dc 22} Dexterity saving throw. On a failed save, the target takes 71 ({@damage 11d12}) lightning damage and has the {@condition stunned} condition until the end of its next turn. On a successful save, the target takes half as much damage only."
 					]
 				}
 			],
@@ -3040,7 +3040,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -4171,7 +4171,7 @@
 					"daily": {
 						"1e": [
 							"{@spell chain lightning}",
-							"{@spell cone of cold} (6th-level version)",
+							"{@spell cono de frío} (6th-level version)",
 							"{@spell fireball} (6th-level version)",
 							"{@spell fly}",
 							"{@spell plane shift} (self only)"
@@ -5893,7 +5893,7 @@
 			"type": {
 				"type": "giant",
 				"tags": [
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -5943,7 +5943,7 @@
 						"The giant casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 16}):"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell guidance}"
 					],
 					"daily": {
@@ -7586,7 +7586,7 @@
 				{
 					"name": "Vengeful Storm {@recharge}",
 					"entries": [
-						"The scion conjures a churning storm cloud in a 30-foot-radius, 10-foot-tall cylinder centered on a point within 120 feet of itself. The cloud's area is heavily obscured. The cloud lasts for 1 minute, until the scion dies, or when the scion uses this bonus action again.",
+						"The scion conjures a churning storm cloud in a 30-foot-radius, 10-foot-tall cylinder centered on a point within 120 feet of itself. The cloud's area is muy oscuro. The cloud lasts for 1 minute, until the scion dies, or when the scion uses this bonus action again.",
 						"When the cloud appears, and as a bonus action on later turns, the scion can move the cloud up to 30 feet and cause one of the following effects in a 30-foot-radius, 120-foot-high cylinder directly below it; the scion can't choose the same effect two rounds in a row:"
 					]
 				},
@@ -7603,7 +7603,7 @@
 					]
 				},
 				{
-					"name": "Lightning Bolts",
+					"name": "Relámpagos",
 					"entries": [
 						"Bolts of lightning strike down. Each creature in the cylinder must succeed on {@dc 25} Dexterity saving throw or take 18 ({@damage 4d8}) lightning damage and have the {@condition stunned} condition until the end of its next turn."
 					]
@@ -9306,7 +9306,7 @@
 				{
 					"name": "Death Bolt {@recharge 5}",
 					"entries": [
-						"The spirit hurls a magical lightning bolt in a 120-foot line that is 10 feet wide. Each creature in that area must make a {@dc 18} Dexterity saving throw, taking 27 ({@damage 6d8}) lightning damage plus 16 ({@damage 3d10}) necrotic damage on a failed save, or half as much damage on a successful one. On a success or failure, an affected creature's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creature finishes a long rest. The creature dies if its hit point maximum is reduced to 0."
+						"The spirit hurls a magical relámpago in a 120-foot line that is 10 feet wide. Each creature in that area must make a {@dc 18} Dexterity saving throw, taking 27 ({@damage 6d8}) lightning damage plus 16 ({@damage 3d10}) necrotic damage on a failed save, or half as much damage on a successful one. On a success or failure, an affected creature's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creature finishes a long rest. The creature dies if its hit point maximum is reduced to 0."
 					]
 				}
 			],

@@ -34,7 +34,7 @@ export class ScaleCreature {
 	}
 
 	// cantrips that should be preserved when lowering the number of cantrips known, to ensure caster effectiveness
-	static _PROTECTED_CANTRIPS = ["acid splash", "chill touch", "eldritch blast", "fire bolt", "poison spray", "produce flame", "ray of frost", "sacred flame", "shocking grasp", "thorn whip", "vicious mockery"];
+	static _PROTECTED_CANTRIPS = ["salpicadura ácida", "chill touch", "eldritch blast", "fire bolt", "poison spray", "crear llama", "ray of frost", "sacred flame", "shocking grasp", "látigo de espinas", "vicious mockery"];
 
 	// analysis of official data + some manual smoothing
 	static _CR_TO_CASTER_LEVEL_AVG = {
@@ -325,10 +325,10 @@ export class ScaleCreature {
 					} else return m[0];
 				});
 
-				const mClasses = /(artificer|bard|cleric|druid|paladin|explorador|hechicero|warlock|wizard) spells?/i.exec(outStr);
+				const mClasses = /(artificer|bard|cleric|Druida|paladin|explorador|hechicero|warlock|wizard) spells?/i.exec(outStr);
 				if (mClasses) spellsFromClass = mClasses[1];
 				else {
-					const mClasses2 = /(artificer|bard|cleric|druid|paladin|explorador|hechicero|warlock|wizard)(?:'s)? spell list/i.exec(outStr);
+					const mClasses2 = /(artificer|bard|cleric|Druida|paladin|explorador|hechicero|warlock|wizard)(?:'s)? spell list/i.exec(outStr);
 					if (mClasses2) spellsFromClass = mClasses2[1];
 				}
 

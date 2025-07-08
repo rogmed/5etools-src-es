@@ -816,7 +816,7 @@
 											"name": "Giant Stone Statue",
 											"page": 15,
 											"entries": [
-												"A 100-foot-tall stone statue has stairs and rooms carved within its interior. When a character sits at the helm located in a room within the statue's head, the statue can be directed to walk across the land. The statue ignores {@quickref difficult terrain||3}, usually by simply crashing through it. However, the navigator has a limited sight line while peering out through the statue's large eyes. When the terrain is cluttered or subject to combat conditions, it can be hard to avoid creatures or objects smaller than a large building.",
+												"A 100-foot-tall stone statue has stairs and rooms carved within its interior. When a character sits at the helm located in a room within the statue's head, the statue can be directed to walk across the land. The statue ignores {@quickref terreno difícil||3}, usually by simply crashing through it. However, the navigator has a limited sight line while peering out through the statue's large eyes. When the terrain is cluttered or subject to combat conditions, it can be hard to avoid creatures or objects smaller than a large building.",
 												{
 													"type": "quote",
 													"entries": [
@@ -832,7 +832,7 @@
 											"name": "Battle Balloon",
 											"page": 15,
 											"entries": [
-												"A hot air balloon is lit by a magic furnace channeling elemental power. A galleon suspended below the balloon features a helm that controls the ship. The vessel can fly virtually anywhere, ignoring {@quickref difficult terrain||3}, but it is at risk from storms and strong winds. If the balloon takes significant damage, the ship could be forced to descend\u2014or might even crash.",
+												"A hot air balloon is lit by a magic furnace channeling elemental power. A galleon suspended below the balloon features a helm that controls the ship. The vessel can fly virtually anywhere, ignoring {@quickref terreno difícil||3}, but it is at risk from storms and strong winds. If the balloon takes significant damage, the ship could be forced to descend\u2014or might even crash.",
 												"({@book Appendix C|AI|12} features vehicle statistics for a typical battle balloon. For characters who choose this highly coveted feature for their headquarters, the DM can impose limitations on the ship's attacks and make changes to its statistics.)"
 											],
 											"id": "02c"
@@ -842,7 +842,7 @@
 											"name": "Self-Contained Train",
 											"page": 15,
 											"entries": [
-												"This mobile franchise headquarters features a magical-mechanical locomotive that lays down its own track. Mechanical arms at the front of the locomotive set down crossbars and rails in front of the headquarters at ridiculous speed, while arms at the back of the headquarters pick up the track as it passes. The train moves at quarter speed over {@quickref difficult terrain||3} (instead of half speed). It can pass over rivers, but cannot cross lakes or large bodies of water."
+												"This mobile franchise headquarters features a magical-mechanical locomotive that lays down its own track. Mechanical arms at the front of the locomotive set down crossbars and rails in front of the headquarters at ridiculous speed, while arms at the back of the headquarters pick up the track as it passes. The train moves at quarter speed over {@quickref terreno difícil||3} (instead of half speed). It can pass over rivers, but cannot cross lakes or large bodies of water."
 											],
 											"id": "02d"
 										},
@@ -899,7 +899,7 @@
 											"name": "Lighthouse Energy Blast",
 											"page": 16,
 											"entries": [
-												"Magical power can be focused through a lighthouse beacon, requiring 1 round to gather energy and aim. The following round, the energy can be released. The beacon has AC 12, 75 hit points, immunity to poison and psychic damage, and vulnerability to cold. The explosion of energy can be treated as a {@spell scorching ray}, {@spell fireball}, or {@spell lightning bolt} spell, as the DM determines. More powerful features might require more time to recharge, or could be usable only a certain number of times per day. Such attacks might function at longer range but be unable to target creatures or objects within 60 feet of the lighthouse."
+												"Magical power can be focused through a lighthouse beacon, requiring 1 round to gather energy and aim. The following round, the energy can be released. The beacon has AC 12, 75 hit points, immunity to poison and psychic damage, and vulnerability to cold. The explosion of energy can be treated as a {@spell scorching ray}, {@spell fireball}, or {@spell relámpago} spell, as the DM determines. More powerful features might require more time to recharge, or could be usable only a certain number of times per day. Such attacks might function at longer range but be unable to target creatures or objects within 60 feet of the lighthouse."
 											],
 											"id": "033"
 										}
@@ -2105,7 +2105,7 @@
 													"Hollowed-out holy tome"
 												],
 												[
-													"Druid",
+													"Druida",
 													"Made from natural, organic, locally sourced woven fibers"
 												],
 												[
@@ -4335,7 +4335,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Druid",
+							"name": "Druida",
 							"page": 57,
 							"entries": [
 								"{@i My plan for creating an intern tier consisting of nothing but giant ants should allow us to increase productivity by 37 percent. Who's with me}?",
@@ -4550,10 +4550,10 @@
 								},
 								{
 									"type": "entries",
-									"name": "Circle of the Land",
+									"name": "Círculo de la tierra",
 									"page": 59,
 									"entries": [
-										"Any organization that wants to make an imprint on the world needs to employ an environmental consultant, ensuring that they're engaging with the land in a sustainable and efficient manner. As a druid of the Circle of the Land, your role in your franchise makes extensive use of your knowledge of nature. Your expertise ensures that the exploits of the franchise don't disturb nature\u2014and just as importantly, prevent nature from disturbing the franchise."
+										"Any organization that wants to make an imprint on the world needs to employ an environmental consultant, ensuring that they're engaging with the land in a sustainable and efficient manner. As a druid of the Círculo de la tierra, your role in your franchise makes extensive use of your knowledge of nature. Your expertise ensures that the exploits of the franchise don't disturb nature\u2014and just as importantly, prevent nature from disturbing the franchise."
 									],
 									"id": "106"
 								},
@@ -4663,7 +4663,7 @@
 											"rows": [
 												[
 													"1",
-													"Handcrafted arrows whose heads bear the mark of a lightning bolt, and which give a distinctive whistle when fired"
+													"Handcrafted arrows whose heads bear the mark of a relámpago, and which give a distinctive whistle when fired"
 												],
 												[
 													"2",
@@ -6825,7 +6825,7 @@
 								},
 								"The drow warlock {@creature K'thriss Drow'b|AI} cuts a dashing figure as the worldly representative of the Ur\u2014a ravenous, inscrutable, and largely indifferent elder entity from beyond reality. Tapped into this dark power, the \"C\" Team's hoardsperson sees all existence as a puzzle to unlock, and he is obsessed by the essential lack of meaning and purpose in the structures of so-called \"reality.\" Still, all things considered, he is most often polite and affable. Because after a long adventuring career, he understands that he can't afford to make more enemies.",
 								"Given his blue skin tone, rumors suggest that K'thriss is of mixed heritage, but no one knows for sure. As a young and doubting adherent of Lolth, he stumbled upon fragments of a relic known as the Black Altar, exposing him to their infinite truths and shocking the drow's hair jet-black. His matching \"beard\" is actually a slow-growing colony of inert spores that K'thriss believes makes him look distinguished. Possessed of alarming and asymmetric crystalline eyes, he often wears a blindfold to spare others his visage, seeing through the eyes of his familiar while he does.",
-								"Tentacles play a big part in K'thriss's spellcasting, whether wrenching him through the sky when he uses magic to fly, or manifesting in dark, suckered form when he casts spells such as {@spell thorn whip}. And when enemies hear K'thriss whisper the deep truths of the Ur\u2014typically something about how on a geologic time scale, everyone's desires are meaningless\u2014they remember it.",
+								"Tentacles play a big part in K'thriss's spellcasting, whether wrenching him through the sky when he uses magic to fly, or manifesting in dark, suckered form when he casts spells such as {@spell látigo de espinas}. And when enemies hear K'thriss whisper the deep truths of the Ur\u2014typically something about how on a geologic time scale, everyone's desires are meaningless\u2014they remember it.",
 								"K'thriss's familiar, Ligotti, is a semisapient remnant of a tentacle attack, spawned by the warlock's intercessor patron god. Though entirely alien to the material plane (and often appearing in the form of a staff), Ligotti uses the stat block of a {@creature poisonous snake} with these changes:",
 								{
 									"type": "list",

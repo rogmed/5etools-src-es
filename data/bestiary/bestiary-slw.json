@@ -548,7 +548,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The statue makes five attacks: one with its headbutt and four with its lightning bolt blades."
+						"The statue makes five attacks: one with its headbutt and four with its relámpago blades."
 					]
 				},
 				{
@@ -558,7 +558,7 @@
 					]
 				},
 				{
-					"name": "Lightning Bolt Blades",
+					"name": "Relámpago Blades",
 					"entries": [
 						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d4 + 4}) slashing damage."
 					]

@@ -41,7 +41,7 @@
 			"page": 365,
 			"srd52": true,
 			"entries": [
-				"If you have Darkvision, you can see in {@variantrule Dim Light|XPHB} within a specified range as if it were {@variantrule Bright Light|XPHB} and in {@variantrule Darkness|XPHB} within that range as if it were {@variantrule Dim Light|XPHB}. You discern colors in that {@variantrule Darkness|XPHB} only as shades of gray."
+				"If you have Darkvision, you can see in {@variantrule Luz tenue|XPHB} within a specified range as if it were {@variantrule Luz brillante|XPHB} and in {@variantrule Darkness|XPHB} within that range as if it were {@variantrule Luz tenue|XPHB}. You discern colors in that {@variantrule Darkness|XPHB} only as shades of gray."
 			]
 		},
 		{

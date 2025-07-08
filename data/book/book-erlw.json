@@ -12166,7 +12166,7 @@
 										],
 										[
 											"5",
-											"{@b Hass Faldren} (half-elf) is a smuggler and the captain of the elemental sloop {@i Ice Storm}. Hass is also well connected on the docks and in the warehouse districts."
+											"{@b Hass Faldren} (half-elf) is a smuggler and the captain of the elemental sloop {@i Tormenta de hielo}. Hass is also well connected on the docks and in the warehouse districts."
 										],
 										[
 											"6",
@@ -19951,7 +19951,7 @@
 						"{@creature Lady Illmarrow|ERLW}",
 						"{@creature Living Burning Hands|ERLW}",
 						"{@creature Living Cloudkill|ERLW}",
-						"{@creature Living Lightning Bolt|ERLW}",
+						"{@creature Living Relámpago|ERLW}",
 						"{@creature Magewright|ERLW}",
 						"{@creature Mordakhesh|ERLW}",
 						"{@creature Radiant Idol|ERLW}",
@@ -20201,7 +20201,7 @@
 										],
 										[
 											"3\u20134",
-											"Living lightning bolt"
+											"Living relámpago"
 										],
 										[
 											"5",
@@ -20213,7 +20213,7 @@
 								"{@b Damage Immunity}. Replace the living spell's damage immunity with immunity to the type (or types) of damage dealt by the chosen spell.",
 								"{@b Magical Strike}. Replace the damage that Magical Strike deals with one type of damage dealt by the chosen spell.",
 								"{@b Spell Mimicry}. Replace the effect of Spell Mimicry with the effect of the chosen spell. If that spell requires a saving throw, use spell save DC from the replaced spell, and if the spell involves an attack roll, use the attack bonus from the living spell's Magical Strike.",
-								"For example, if you turn {@spell fireball} (a 3rd-level spell) into a living spell, customize the {@creature living lightning bolt|ERLW}. The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates {@spell fireball} with Spell Mimicry."
+								"For example, if you turn {@spell fireball} (a 3rd-level spell) into a living spell, customize the {@creature living relámpago|ERLW}. The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates {@spell fireball} with Spell Mimicry."
 							],
 							"id": "02d"
 						}

@@ -2045,7 +2045,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The quori can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The quori can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -2489,7 +2489,7 @@
 								"{@spell counterspell}",
 								"{@spell fireball}",
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -2504,7 +2504,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell cloudkill}",
-								"{@spell cone of cold}",
+								"{@spell cono de frío}",
 								"{@spell hold monster}",
 								"{@spell scrying}"
 							]
@@ -2905,7 +2905,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Living Lightning Bolt",
+			"name": "Living Relámpago",
 			"source": "ERLW",
 			"page": 299,
 			"size": [
@@ -3390,7 +3390,7 @@
 						"1e": [
 							"{@spell commune}",
 							"{@spell dominate person}",
-							"{@spell insect plague}",
+							"{@spell plaga de insectos}",
 							"{@spell mass suggestion}",
 							"{@spell raise dead}"
 						]
@@ -3909,7 +3909,7 @@
 						"{@spell dispel magic}",
 						"{@spell eyebite}",
 						"{@spell fireball}",
-						"{@spell lightning bolt}",
+						"{@spell relámpago}",
 						"{@spell shield}"
 					],
 					"daily": {
@@ -4294,7 +4294,7 @@
 							"spells": [
 								"{@spell expeditious retreat}",
 								"{@spell sanctuary}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {

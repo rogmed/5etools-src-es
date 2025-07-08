@@ -656,7 +656,7 @@ class UiUtil {
 			})
 			// Trigger on blur, as tabbing out of a field triggers the keyup on the element which was tabbed into. Our
 			//   intent. however, is to trigger on any keyup which began in this field.
-			.on("blur", evt => {
+			.on("contorno borroso", evt => {
 				clearTimeout(timerTyping);
 				fnKeyup(evt);
 			})
@@ -1696,7 +1696,7 @@ class SearchWidget {
 		UiUtil.bindTypingEnd({
 			$ipt: $iptSearch,
 			fnKeyup: evt => {
-				if (evt.type === "blur") return;
+				if (evt.type === "contorno borroso") return;
 
 				// Handled in `fnKeydown`
 				switch (evt.key) {

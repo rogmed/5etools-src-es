@@ -686,7 +686,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell speak with animals}"
 					],
 					"daily": {
@@ -803,9 +803,9 @@
 							"spells": {
 								"0": {
 									"spells": [
-										"{@spell druidcraft}",
+										"{@spell saber druídico}",
 										"{@spell mending}",
-										"{@spell produce flame}"
+										"{@spell crear llama}"
 									]
 								},
 								"1": {
@@ -813,7 +813,7 @@
 									"spells": [
 										"{@spell cure wounds}",
 										"{@spell entangle}",
-										"{@spell thunderwave}"
+										"{@spell ola atronadora}"
 									]
 								},
 								"2": {
@@ -821,14 +821,14 @@
 									"spells": [
 										"{@spell animal messenger}",
 										"{@spell barkskin}",
-										"{@spell gust of wind}"
+										"{@spell ráfaga de viento}"
 									]
 								},
 								"3": {
 									"slots": 3,
 									"spells": [
 										"{@spell call lightning}",
-										"{@spell conjure animals}",
+										"{@spell conjurar animales}",
 										"{@spell speak with plants}"
 									]
 								},
@@ -842,7 +842,7 @@
 								"5": {
 									"slots": 1,
 									"spells": [
-										"{@spell conjure elemental}"
+										"{@spell Conjurar elemental}"
 									]
 								}
 							},
@@ -985,7 +985,7 @@
 					"daily": {
 						"2e": [
 							"{@spell arcane lock}",
-							"{@spell gust of wind}",
+							"{@spell ráfaga de viento}",
 							"{@spell invisibility}",
 							"{@spell magic missile}",
 							"{@spell unseen servant}"
@@ -994,8 +994,8 @@
 							"{@spell globe of invulnerability}",
 							"{@spell haste}",
 							"{@spell hypnotic pattern}",
-							"{@spell ice storm}",
-							"{@spell lightning bolt}",
+							"{@spell tormenta de hielo}",
+							"{@spell relámpago}",
 							"{@spell Mordenkainen's sword}",
 							"{@spell wall of force}"
 						]
@@ -2664,7 +2664,7 @@
 						"1e": [
 							"{@spell detect magic}",
 							"{@spell dispel magic}",
-							"{@spell ice storm}",
+							"{@spell tormenta de hielo}",
 							"{@spell stone shape}",
 							"{@spell teleport}"
 						]
@@ -2885,7 +2885,7 @@
 							"{@spell jump}",
 							"{@spell locate animals or plants}",
 							"{@spell locate object}",
-							"{@spell water breathing}",
+							"{@spell respirar bajo el agua}",
 							"{@spell water walk}"
 						]
 					},
@@ -3214,7 +3214,7 @@
 					"daily": {
 						"3e": [
 							"{@spell control weather}",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha"
@@ -3250,7 +3250,7 @@
 				{
 					"name": "Lightning Strike {@recharge 5}",
 					"entries": [
-						"Hekaton hurls a magical lightning bolt at a point he can see within 500 feet of it. Each creature within 10 feet of that point must make a {@dc 17} Dexterity saving throw, taking 54 ({@damage 12d8}) lightning damage on a failed save, or half as much damage on a successful one."
+						"Hekaton hurls a magical relámpago at a point he can see within 500 feet of it. Each creature within 10 feet of that point must make a {@dc 17} Dexterity saving throw, taking 54 ({@damage 12d8}) lightning damage on a failed save, or half as much damage on a successful one."
 					]
 				},
 				{
@@ -3377,7 +3377,7 @@
 						"2e": [
 							"{@spell darkness}",
 							"{@spell detect thoughts}",
-							"{@spell ice storm}"
+							"{@spell tormenta de hielo}"
 						],
 						"1e": [
 							"{@spell banishment}",
@@ -3413,7 +3413,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Klauth carries a {@item wand of fireballs} and a {@item wand of lightning bolts}, and he wears a {@item ring of cold resistance}."
+						"Klauth carries a {@item wand of fireballs} and a {@item wand of relámpagos}, and he wears a {@item ring of cold resistance}."
 					]
 				}
 			],
@@ -4493,7 +4493,7 @@
 					"daily": {
 						"1e": [
 							"{@spell control weather} (cast as 1 action)",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha",
@@ -4779,7 +4779,7 @@
 					"daily": {
 						"1e": [
 							"{@spell control weather} (cast as 1 action)",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha",
@@ -4913,7 +4913,7 @@
 					"daily": {
 						"1e": [
 							"{@spell mage armor}",
-							"{@spell thunderwave}",
+							"{@spell ola atronadora}",
 							"{@spell witch bolt}"
 						]
 					},
@@ -5088,13 +5088,13 @@
 							"slots": 3,
 							"spells": [
 								"{@spell greater invisibility}",
-								"{@spell ice storm}"
+								"{@spell tormenta de hielo}"
 							]
 						},
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell cone of cold}"
+								"{@spell cono de frío}"
 							]
 						}
 					},
@@ -5407,7 +5407,7 @@
 					"daily": {
 						"1e": [
 							"{@spell control weather} (cast as 1 action)",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha",
@@ -6040,7 +6040,7 @@
 						"2e": [
 							"{@spell control weather} (cast as 1 action)",
 							"{@spell fly}",
-							"{@spell ice storm}"
+							"{@spell tormenta de hielo}"
 						],
 						"1e": [
 							"{@spell arcane eye}",
@@ -6077,7 +6077,7 @@
 				{
 					"name": "Libertad de movimiento",
 					"entries": [
-						"Slarkrethel ignores {@quickref difficult terrain||3}, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
+						"Slarkrethel ignores {@quickref terreno difícil||3}, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
 					]
 				},
 				{
@@ -6135,7 +6135,7 @@
 				{
 					"name": "Ink Cloud (Costs 3 Actions)",
 					"entries": [
-						"While underwater, Slarkrethel expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than Slarkrethel. Each creature other than Slarkrethel that ends its turn there must succeed on a {@dc 23} Constitution saving throw, taking 16 ({@damage 3d10}) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of Slarkrethel's next turn."
+						"While underwater, Slarkrethel expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is muy oscuro to creatures other than Slarkrethel. Each creature other than Slarkrethel that ends its turn there must succeed on a {@dc 23} Constitution saving throw, taking 16 ({@damage 3d10}) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of Slarkrethel's next turn."
 					]
 				}
 			],
@@ -6839,7 +6839,7 @@
 						"Turlang casts one of the following spells, requiring no material spell components and using Wisdom as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell druidcraft}",
+						"{@spell saber druídico}",
 						"{@spell guidance}",
 						"{@spell resistance}",
 						"{@spell speak with plants}"
@@ -6850,7 +6850,7 @@
 							"{@spell detect magic}",
 							"{@spell entangle}",
 							"{@spell goodberry}",
-							"{@spell gust of wind}",
+							"{@spell ráfaga de viento}",
 							"{@spell pass without trace}",
 							"{@spell speak with animals}"
 						],
@@ -7242,7 +7242,7 @@
 							"daily": {
 								"1e": [
 									"{@spell beast sense} (wolf or dire wolf only)",
-									"{@spell moonbeam}",
+									"{@spell rayo de luna}",
 									"{@spell speak with animals} (wolf or dire wolf only)"
 								]
 							}
@@ -7302,7 +7302,7 @@
 							"mode": "addSpells",
 							"daily": {
 								"1e": [
-									"{@spell gust of wind}",
+									"{@spell ráfaga de viento}",
 									"{@spell witch bolt}"
 								]
 							}
@@ -7415,7 +7415,7 @@
 					"daily": {
 						"1e": [
 							"{@spell control weather} (cast as 1 action)",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha",
@@ -8019,12 +8019,12 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell gust of wind}",
+							"{@spell ráfaga de viento}",
 							"{@spell levitate}",
 							"{@spell magic missile}"
 						],
 						"1e": [
-							"{@spell cone of cold}",
+							"{@spell cono de frío}",
 							"{@spell contact other plane} (cast as 1 action)",
 							"{@spell greater invisibility}",
 							"{@spell mass suggestion}",

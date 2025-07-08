@@ -666,7 +666,7 @@
 				{
 					"name": "Mist Sight",
 					"entries": [
-						"The blazebear can see normally through heavily obscured areas created by mist or fog, including areas created by spells such as Fog Cloud."
+						"The blazebear can see normally through muy oscuro areas created by mist or fog, including areas created by spells such as Fog Cloud."
 					]
 				}
 			],
@@ -1335,7 +1335,7 @@
 						"The dryad casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell Druidcraft}"
+						"{@spell Saber druídico}"
 					],
 					"daily": {
 						"1": [
@@ -4999,7 +4999,7 @@
 					"daily": {
 						"2e": [
 							"{@spell Animate Dead} (as an action)",
-							"{@spell Gust of Wind}",
+							"{@spell Ráfaga de viento}",
 							"{@spell Imagen múltiple}",
 							"{@spell Nondetection}"
 						],
@@ -5603,7 +5603,7 @@
 						"{@spell Detect Magic}",
 						"{@spell Disipar magia}",
 						"{@spell Fly}",
-						"{@spell Lightning Bolt}",
+						"{@spell Relámpago}",
 						"{@spell Mage Hand}",
 						"{@spell Prestidigitation}"
 					],

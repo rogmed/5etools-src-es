@@ -151,8 +151,8 @@ class PageFilterEquipment extends PageFilterBase {
 						if (!item._fFocus.includes("Mago")) item._fFocus.push("Mago");
 						break;
 					}
-					case "druid": {
-						if (!item._fFocus.includes("Druid")) item._fFocus.push("Druid");
+					case "Druida": {
+						if (!item._fFocus.includes("Druida")) item._fFocus.push("Druida");
 						break;
 					}
 					case "holy":

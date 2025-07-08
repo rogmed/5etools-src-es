@@ -5109,7 +5109,7 @@
 			}
 		},
 		{
-			"name": "Druid",
+			"name": "Druida",
 			"source": "DMG",
 			"set": "Deck of Illusions",
 			"page": 161,
@@ -5637,7 +5637,7 @@
 			]
 		},
 		{
-			"name": "Druid",
+			"name": "Druida",
 			"source": "XDMG",
 			"set": "Deck of Illusions",
 			"page": 249,
@@ -23034,7 +23034,7 @@
 			]
 		},
 		{
-			"name": "Druid",
+			"name": "Druida",
 			"source": "CoS",
 			"set": "Tarokka Deck",
 			"page": 243,

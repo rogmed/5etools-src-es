@@ -1024,7 +1024,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell fast friends|AI}*",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -1036,7 +1036,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell cone of cold}"
+								"{@spell cono de frío}"
 							]
 						}
 					},
@@ -1360,7 +1360,7 @@
 								"{@spell eldritch blast}",
 								"{@spell mending}",
 								"{@spell prestidigitation}",
-								"{@spell thorn whip}",
+								"{@spell látigo de espinas}",
 								"{@spell vicious mockery}"
 							]
 						},
@@ -1693,7 +1693,7 @@
 						"3": {
 							"slots": 2,
 							"spells": [
-								"{@spell conjure animals}"
+								"{@spell conjurar animales}"
 							]
 						}
 					},
@@ -2181,7 +2181,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell light}",
 								"{@spell mage hand}",
 								"{@spell poison spray}",
@@ -3202,9 +3202,9 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
-								"{@spell thorn whip}"
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
+								"{@spell látigo de espinas}"
 							]
 						},
 						"1": {
@@ -3212,14 +3212,14 @@
 							"spells": [
 								"{@spell cure wounds}",
 								"{@spell entangle}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
 								"{@spell flame blade}",
-								"{@spell moonbeam}",
+								"{@spell rayo de luna}",
 								"{@spell pass without trace}"
 							]
 						},

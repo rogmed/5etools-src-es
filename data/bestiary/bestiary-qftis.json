@@ -1266,8 +1266,8 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
 								"{@spell shillelagh}"
 							]
 						},
@@ -1277,7 +1277,7 @@
 								"{@spell entangle}",
 								"{@spell longstrider}",
 								"{@spell speak with animals}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2947,7 +2947,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell Insect Plague}"
+							"{@spell Plaga de insectos}"
 						],
 						"2e": [
 							"{@spell Orden imperiosa}",
@@ -3147,11 +3147,11 @@
 					"name": "Communal Spellcasting (2/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The pech works with three or more pechs to cast spells, requiring no spell components and using Wisdom as the spellcasting ability (save {@dc 12}). If at least three other pechs are within 30 feet of it, the pech can cast {@spell Wall of Stone} . If at least seven other pechs are within 30 feet of it, it can cast {@spell Restablecimiento mayor} . Each other pech involved in casting the spell can't have the incapacitated condition and must have at least one use of Communal Spellcasting remaining, which it must immediately expend to participate (no action required)."
+						"The pech works with three or more pechs to cast spells, requiring no spell components and using Wisdom as the spellcasting ability (save {@dc 12}). If at least three other pechs are within 30 feet of it, the pech can cast {@spell Muro de piedra} . If at least seven other pechs are within 30 feet of it, it can cast {@spell Restablecimiento mayor} . Each other pech involved in casting the spell can't have the incapacitated condition and must have at least one use of Communal Spellcasting remaining, which it must immediately expend to participate (no action required)."
 					],
 					"daily": {
 						"2": [
-							"{@spell Wall of Stone}",
+							"{@spell Muro de piedra}",
 							"{@spell Restablecimiento mayor}"
 						]
 					},
@@ -3718,7 +3718,7 @@
 				"type": "fey",
 				"tags": [
 					"archfey",
-					"druid"
+					"Druida"
 				]
 			},
 			"alignment": [
@@ -3789,7 +3789,7 @@
 						"The Gardener casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell Druidcraft}",
+						"{@spell Saber druídico}",
 						"{@spell Hablar con los animales}",
 						"{@spell Speak with Plants}"
 					],

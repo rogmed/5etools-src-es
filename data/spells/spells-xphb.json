@@ -56,7 +56,7 @@
 				"acid"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SCL",
@@ -1015,7 +1015,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"areaTags": [
 				"S"
@@ -1687,7 +1687,7 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -1835,7 +1835,7 @@
 							"type": "item",
 							"name": "Interposing Hand",
 							"entries": [
-								"The hand grants you Half {@variantrule Cobertura|XPHB} against attacks and other effects that originate from its space or that pass through it. In addition, its space counts as {@variantrule Difficult Terrain|XPHB} for your enemies."
+								"The hand grants you Half {@variantrule Cobertura|XPHB} against attacks and other effects that originate from its space or that pass through it. In addition, its space counts as {@variantrule Terreno difícil|XPHB} for your enemies."
 							]
 						}
 					]
@@ -1861,8 +1861,8 @@
 				"M"
 			],
 			"savingThrow": [
-				"dexterity",
-				"strength"
+				"destreza",
+				"fuerza"
 			],
 			"miscTags": [
 				"DFT",
@@ -1910,14 +1910,14 @@
 				}
 			],
 			"entries": [
-				"You create a wall of whirling blades made of magical energy. The wall appears within range and lasts for the duration. You make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides Three-Quarters {@variantrule Cobertura|XPHB}, and its space is {@variantrule Difficult Terrain|XPHB}.",
+				"You create a wall of whirling blades made of magical energy. The wall appears within range and lasts for the duration. You make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides Three-Quarters {@variantrule Cobertura|XPHB}, and its space is {@variantrule Terreno difícil|XPHB}.",
 				"Any creature in the wall's space makes a Dexterity saving throw, taking {@damage 6d10} Force damage on a failed save or half as much damage on a successful one. A creature also makes that save if it enters the wall's space or ends it turn there. A creature makes that save only once per turn."
 			],
 			"damageInflict": [
 				"force"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"DFT"
@@ -2023,8 +2023,8 @@
 			]
 		},
 		{
-			"name": "Blight",
-			"originalname": "",
+			"name": "Marchitar",
+			"originalname": "Blight",
 			"source": "XPHB",
 			"page": 247,
 			"srd52": true,
@@ -2054,15 +2054,15 @@
 				}
 			],
 			"entries": [
-				"A creature that you can see within range makes a Constitution saving throw, taking {@damage 8d8} Necrotic damage on a failed save or half as much damage on a successful one. A Plant creature automatically fails the save.",
-				"Alternatively, target a nonmagical plant that isn't a creature, such as a tree or shrub. It doesn't make a save; it simply withers and dies."
+				"Una criatura a la que puedas ver dentro del alcance deberá hacer una tirada de salvación de Constitución; sufrirá {@damage 8d8} de daño necrótico si la falla o la mitad del daño si la supera. Las criaturas de tipo “planta” fallan automáticamente la tirada.",
+				"Como alternativa, haz objetivo a una planta no mágica que no sea una criatura, como un árbol o un arbusto. No hará una tirada de salvación: simplemente se marchitará y morirá."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 8d8|4-9|1d8} for each spell slot level above 4."
+						"El daño aumenta en {@scaledamage 8d8|4-9|1d8} por cada nivel por encima de 4 que tenga el espacio."
 					]
 				}
 			],
@@ -2070,7 +2070,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SGT"
@@ -2130,7 +2130,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"AAD"
@@ -2187,7 +2187,7 @@
 				"ensordecido"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SCT",
@@ -2240,10 +2240,10 @@
 			]
 		},
 		{
-			"name": "Blur",
-			"originalname": "",
+			"name": "Contorno borroso",
+			"originalname": "Blur",
 			"source": "XPHB",
-			"page": 248,
+			"page": 263,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -2274,7 +2274,7 @@
 				}
 			],
 			"entries": [
-				"Your body becomes blurred. For the duration, any creature has {@variantrule Disadvantage|XPHB} on attack rolls against you. An attacker is immune to this effect if it perceives you with {@sense Blindsight|XPHB} or {@sense Truesight|XPHB}."
+				"Tu cuerpo se vuelve borroso. Hasta que termine el conjuro, todas las criaturas tendrán desventaja en las tiradas de ataque contra ti. Un atacante es inmune a este efecto si te percibe mediante visión ciega o visión verdadera."
 			]
 		},
 		{
@@ -2325,7 +2325,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -2372,7 +2372,7 @@
 			],
 			"entries": [
 				"A storm cloud appears at a point within range that you can see above yourself. It takes the shape of a {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} that is 10 feet tall with a 60-foot radius.",
-				"When you cast the spell, choose a point you can see under the cloud. A lightning bolt shoots from the cloud to that point. Each creature within 5 feet of that point makes a Dexterity saving throw, taking {@damage 3d10} Lightning damage on a failed save or half as much damage on a successful one.",
+				"When you cast the spell, choose a point you can see under the cloud. A relámpago shoots from the cloud to that point. Each creature within 5 feet of that point makes a Dexterity saving throw, taking {@damage 3d10} Lightning damage on a failed save or half as much damage on a successful one.",
 				"Until the spell ends, you can take a {@action Magic|XPHB} action to call down lightning in that way again, targeting the same point or a different one.",
 				"If you're outdoors in a storm when you cast this spell, the spell gives you control over that storm instead of creating a new one. Under such conditions, the spell's damage increases by {@damage 1d10}."
 			],
@@ -2389,7 +2389,7 @@
 				"lightning"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -2437,7 +2437,6 @@
 			],
 			"entries": [
 				"Cada humanoide en una esfera de 20 pies (6 m) de radio centrada en un punto que elijas dentro del alcance deberá superar una tirada de salvación de Carisma o se verá afectado por uno de los siguientes efectos (elige uno por cada criatura):",
-				"Each Humanoid in a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):",
 				{
 					"type": "list",
 					"items": [
@@ -2489,7 +2488,7 @@
 				}
 			],
 			"entries": [
-				"You launch a lightning bolt toward a target you can see within range. Three bolts then leap from that target to as many as three other targets of your choice, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.",
+				"You launch a relámpago toward a target you can see within range. Three bolts then leap from that target to as many as three other targets of your choice, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.",
 				"Each target makes a Dexterity saving throw, taking {@damage 10d8} Lightning damage on a failed save or half as much damage on a successful one."
 			],
 			"entriesHigherLevel": [
@@ -2505,7 +2504,7 @@
 				"lightning"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ",
@@ -2824,7 +2823,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"S"
@@ -3057,7 +3056,7 @@
 				}
 			],
 			"entries": [
-				"You create a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by {@spell Gust of Wind|XPHB}) disperses it, ending the spell. Its area is {@variantrule Heavily Obscured|XPHB}.",
+				"You create a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by {@spell Ráfaga de viento|XPHB}) disperses it, ending the spell. Its area is {@variantrule Muy oscuro|XPHB}.",
 				"Each creature in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} makes a Constitution saving throw, taking {@damage 5d8} Poison damage on a failed save or half as much damage on a successful one. A creature must also make this save when the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} moves into its space and when it enters the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} or ends its turn there. A creature makes this save only once per turn.",
 				"The {@variantrule Sphere [Area of Effect]|XPHB|Sphere} moves 10 feet away from you at the start of each of your turns."
 			],
@@ -3074,7 +3073,7 @@
 				"poison"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"OBS"
@@ -3122,7 +3121,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"N"
@@ -3466,10 +3465,10 @@
 			]
 		},
 		{
-			"name": "Cone of Cold",
-			"originalname": "",
+			"name": "Cono de frío",
+			"originalname": "Cone of Cold",
 			"source": "XPHB",
-			"page": 253,
+			"page": 261,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -3490,7 +3489,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a small crystal or glass cone"
+				"m": "un cono pequeño de cristal o vidrio"
 			},
 			"duration": [
 				{
@@ -3498,14 +3497,14 @@
 				}
 			],
 			"entries": [
-				"You unleash a blast of cold air. Each creature in a 60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone} originating from you makes a Constitution saving throw, taking {@damage 8d8} Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws."
+				"Emites una ráfaga de aire helado. Todas las criaturas situadas en un cono de 60 pies (18 m) que se origina en ti hacen una tirada de salvación de Constitución; sufrirán {@damage 8d8} de daño de frío si la fallan o la mitad de daño si la superan. Si una criatura muere a causa de este conjuro, se convertirá en una estatua congelada hasta que se descongele."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 8d8|5-9|1d8} for each spell slot level above 5."
+						"El daño aumenta en {@scaledamage 8d8|5-9|1d8} por cada nivel por encima de 5 que tenga el espacio."
 					]
 				}
 			],
@@ -3513,7 +3512,7 @@
 				"cold"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"N"
@@ -3610,10 +3609,10 @@
 			]
 		},
 		{
-			"name": "Conjure Animals",
-			"originalname": "",
+			"name": "Conjurar animales",
+			"originalname": "Conjure Animals",
 			"source": "XPHB",
-			"page": 254,
+			"page": 259,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -3646,16 +3645,16 @@
 				}
 			],
 			"entries": [
-				"You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirits' animal form, such as wolves, serpents, or birds.",
-				"You have {@variantrule Advantage|XPHB} on Strength saving throws while you're within 5 feet of the pack, and when you move on your turn, you can also move the pack up to 30 feet to an unoccupied space you can see.",
-				"Whenever the pack moves within 10 feet of a creature you can see and whenever a creature you can see enters a space within 10 feet of the pack or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes {@damage 3d10} Slashing damage. A creature makes this save only once per turn."
+				"Conjuras espíritus de la naturaleza que aparecen como una manada Grande de animales espectrales e intangibles en un espacio sin ocupar que puedas ver dentro del alcance. La manada permanecerá hasta que el conjuro termine y puedes elegir la forma animal de los espíritus, como lobos, serpientes o aves.",
+				"Tienes ventaja en las tiradas de salvación de Fuerza mientras estés a 5 pies (1,5 m) o menos de la manada. Además, cuando te muevas en tu turno, también podrás mover a la manada hasta 30 pies (9 m) a un espacio sin ocupar que puedas ver.",
+				"Siempre que la manada se mueva a 10 pies (3 m) o menos de una criatura que puedas ver y siempre que una criatura que puedas ver entre en un espacio a 10 pies (3 m) o menos de la manada o termine su turno allí, puedes obligar a la criatura a hacer una tirada de salvación de Destreza. Si la falla, recibirá {@damage 3d10} de daño cortante. Una criatura solo hace esta tirada una vez por turno."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 3d10|3-9|1d10} for each spell slot level above 3."
+						"El daño aumenta en {@scaledamage 3d10|3-9|1d10} por cada nivel por encima de 3 que tenga el espacio."
 					]
 				}
 			],
@@ -3663,7 +3662,7 @@
 				"slashing"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"ADV",
@@ -3722,7 +3721,7 @@
 				"force"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -3789,7 +3788,7 @@
 						}
 					]
 				},
-				"Until the spell ends, {@variantrule Bright Light|XPHB} fills the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}, and when you move on your turn, you can also move the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} up to 30 feet.",
+				"Until the spell ends, {@variantrule Luz brillante|XPHB} fills the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}, and when you move on your turn, you can also move the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} up to 30 feet.",
 				"Whenever the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} moves into the space of a creature you can see and whenever a creature you can see enters the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} or ends its turn there, you can bathe it in one of the lights. A creature can be affected by this spell only once per turn."
 			],
 			"entriesHigherLevel": [
@@ -3805,7 +3804,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"HL",
@@ -3816,10 +3815,10 @@
 			]
 		},
 		{
-			"name": "Conjure Elemental",
-			"originalname": "",
+			"name": "Conjurar elemental",
+			"originalname": "Conjure Elemental",
 			"source": "XPHB",
-			"page": 254,
+			"page": 259,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -3852,15 +3851,15 @@
 				}
 			],
 			"entries": [
-				"You conjure a Large, intangible spirit from the Elemental Planes that appears in an unoccupied space within range. Choose the spirit's element, which determines its damage type: air (Lightning), earth (Thunder), fire (Fire), or water (Cold). The spirit lasts for the duration.",
-				"Whenever a creature you can see enters the spirit's space or starts its turn within 5 feet of the spirit, you can force that creature to make a Dexterity saving throw if the spirit has no creature {@condition Apresado|XPHB}. On failed save, the target takes {@damage 8d8} damage of the spirit's type, and the target has the {@condition Apresado|XPHB} condition until the spell ends. At the start of each of its turns, the {@condition Apresado|XPHB} target repeats the save. On a failed save, the target takes {@damage 4d8} damage of the spirit's type. On a successful save, the target isn't {@condition Apresado|XPHB} by the spirit."
+				"Invocas un espíritu Grande e intangible de los Planos Elementales, que aparece en un espacio sin ocupar dentro. del alcance. Elige el elemento del espíritu, que determina su tipo de daño: agua (frío), aire (relámpago), fuego (fuego) o tierra (trueno). El espíritu permanece hasta que el conjuro termine.",
+				"Siempre que una criatura que puedas ver entre en el espacio del espíritu o empiece su turno a 1,5 m o menos de él, puedes obligarla a hacer una tirada de salvación de Destreza si el espíritu no tiene ninguna criatura apresada. Si la falla, el objetivo sufrirá {@damage 8d8} de daño del tipo del espíritu y tendrá el estado de {@condition apresado|XPHB} hasta que el conjuro termine. Al principio de cada uno de sus turnos, el objetivo {@condition apresado|XPHB} repite la tirada de salvación. Si la falla, sufrirá {@damage 4d8} de daño del tipo del espíritu. Si la supera, dejará de estar apresado por él."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 8d8;4d8|5-9|1d8} for each spell slot level above 5."
+						"El daño aumenta en {@scaledamage 8d8;4d8|5-9|1d8} por cada nivel por encima de 5 que tenga el espacio."
 					]
 				}
 			],
@@ -3874,7 +3873,7 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -3978,7 +3977,7 @@
 			],
 			"entries": [
 				"You conjure spirits from the Elemental Planes that flit around you in a 15-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} for the duration. Until the spell ends, any attack you make deals an extra {@damage 2d8} damage when you hit a creature in the {@variantrule Emanation [Area of Effect]|XPHB|Emanation}. This damage is Acid, Cold, Fire, or Lightning (your choice when you make the attack).",
-				"In addition, the ground in the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} is {@variantrule Difficult Terrain|XPHB} for your enemies."
+				"In addition, the ground in the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} is {@variantrule Terreno difícil|XPHB} for your enemies."
 			],
 			"entriesHigherLevel": [
 				{
@@ -4043,7 +4042,7 @@
 				"force"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -4156,7 +4155,7 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"intelligence"
+				"inteligencia"
 			]
 		},
 		{
@@ -4205,7 +4204,7 @@
 				"poisoned"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"ST"
@@ -4250,7 +4249,7 @@
 				}
 			],
 			"entries": [
-				"Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell\u2014called the contingent spell\u2014as part of casting Contingency, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a Contingency cast with {@spell Water Breathing|XPHB} might stipulate that Water Breathing comes into effect when you are engulfed in water or a similar liquid.",
+				"Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell\u2014called the contingent spell\u2014as part of casting Contingency, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a Contingency cast with {@spell Respirar bajo el agua|XPHB} might stipulate that Water Breathing comes into effect when you are engulfed in water or a similar liquid.",
 				"The contingent spell takes effect immediately after the trigger occurs for the first time, whether or not you want it to, and then Contingency ends.",
 				"The contingent spell takes effect only on you, even if it can normally target others. You can use only one Contingency spell at a time. If you cast this spell again, the effect of another Contingency spell on you ends. Also, Contingency ends on you if its material component is ever not on your person."
 			]
@@ -4294,7 +4293,7 @@
 				}
 			],
 			"entries": [
-				"A flame springs from an object that you touch. The effect casts {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} for an additional 20 feet. It looks like a regular flame, but it creates no heat and consumes no fuel. The flame can be covered or hidden but not smothered or quenched."
+				"A flame springs from an object that you touch. The effect casts {@variantrule Luz brillante|XPHB} in a 20-foot radius and {@variantrule Luz tenue|XPHB} for an additional 20 feet. It looks like a regular flame, but it creates no heat and consumes no fuel. The flame can be covered or hidden but not smothered or quenched."
 			],
 			"miscTags": [
 				"LGT",
@@ -4302,10 +4301,10 @@
 			]
 		},
 		{
-			"name": "Control Water",
-			"originalname": "",
+			"name": "Controlar agua",
+			"originalname": "controlar agua",
 			"source": "XPHB",
-			"page": 256,
+			"page": 262,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -4326,7 +4325,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a mixture of water and dust"
+				"m": "una mezcla de agua y polvo"
 			},
 			"duration": [
 				{
@@ -4339,34 +4338,34 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, you control any water inside an area you choose that is a {@variantrule Cube [Area of Effect]|XPHB|Cube} up to 100 feet on a side, using one of the following effects. As a {@action Magic|XPHB} action on your later turns, you can repeat the same effect or choose a different one.",
+				"Hasta que el conjuro termine, controlas cualquier masa de agua que esté en un área de tu elección y con forma de cubo de hasta 100 pies (30 m) de lado, y usas uno de los siguientes efectos. Como acción de magia en tus siguientes turnos, puedes repetir el mismo efecto o elegir uno distinto.",
 				{
 					"type": "entries",
-					"name": "Flood",
+					"name": "Abrir las aguas",
 					"entries": [
-						"You cause the water level of all standing water in the area to rise by as much as 20 feet. If you choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes. Any Huge or smaller vehicles in the wave's path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a {@chance 25|||Capsizes!|No effect} chance of capsizing.",
-						"The water level remains elevated until the spell ends or you choose a different effect. If this effect produced a wave, the wave repeats on the start of your next turn while the flood effect lasts."
+						"Haces que las aguas de la zona se separen y creen un canal, que se extiende a lo largo de toda el área del conjuro, con las aguas separadas formando un muro a ambos lados. El canal se mantendrá hasta que el conjuro termine o hasta que elijas un efecto distinto. Posteriormente, el agua irá llenando el canal lentamente durante el siguiente asalto hasta recuperar su nivel normal."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Part Water",
+					"name": "Inundación",
 					"entries": [
-						"You part water in the area and create a trench. The trench extends across the spell's area, and the separated water forms a wall to either side. The trench remains until the spell ends or you choose a different effect. The water then slowly fills in the trench over the course of the next round until the normal water level is restored."
+						"Haces que el nivel del agua estancada de la zona aumente hasta 20 pies (6 m). Si eliges una zona en una masa de agua grande, en vez de eso, creas una ola de 20 pies (6 m) de altura que se desplaza de un lado de esa zona a la otra y luego rompe. Cualquier vehículo Enorme o más pequeño que esté en el recorrido de la ola será transportado hasta el otro lado y también tendrá un 25% de probabilidades de volcar.",
+						"El nivel del agua permanecerá elevado hasta que el conjuro termine o hasta que elijas un efecto distinto. Si este efecto ha producido una ola, esta se repetirá al principio de tu siguiente turno mientras dure el efecto de la inundación."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Redirect Flow",
+					"name": "Redirigir caudal",
 					"entries": [
-						"You cause flowing water in the area to move in a direction you choose, even if the water has to flow over obstacles, up walls, or in other unlikely directions. The water in the area moves as you direct it, but once it moves beyond the spell's area, it resumes its flow based on the terrain. The water continues to move in the direction you chose until the spell ends or you choose a different effect."
+						"Haces que un caudal de agua en la zona se mueva en la dirección que elijas, incluso si tiene que fluir por encima de obstáculos, subir muros o tomar otros rumbos extraños. El agua de la zona se moverá según tus instrucciones, pero una vez salga del área del conjuro, volverá a fluir de forma normal en función del terreno. El agua seguirá moviéndose en la dirección que hayas elegido hasta que el conjuro termine o hasta que elijas un efecto distinto."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Whirlpool",
+					"name": "Remolino",
 					"entries": [
-						"You cause a whirlpool to form in the center of the area, which must be at least 50 feet square and 25 feet deep. The whirlpool lasts until you choose a different effect or the spell ends. The whirlpool is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature in the water and within 25 feet of the whirlpool is pulled 10 feet toward it. When a creature enters the whirlpool for the first time on a turn or ends its turn there, it makes a Strength saving throw. On a failed save, the creature takes {@damage 2d8} Bludgeoning damage. On a successful save, the creature takes half as much damage. A creature can swim away from the whirlpool only if it first takes an action to pull away and succeeds on a Strength ({@skill Athletics|XPHB}) check against your spell save DC."
+						"Provocas que se forme un remolino en el centro del área, que debe ser un cuadrado de al menos 50 pies (15 m) de lado y 25 pies (7,5 m) de profundidad. El remolino permanece hasta que elijas un efecto distinto o termine el conjuro. El remolino tiene 5 pies (1,5 m) de ancho en su base y hasta 50 pies (15 m) en la parte superior, con una altura de 25 pies (7,5 m). Cualquier criatura que esté en el agua a 25 pies (7,5 m) o menos del remolino será atraída 10 pies (3 m) hacia él. Cuando una criatura entre en el remolino por primera vez en un turno o termine su turno allí, hará una tirada de salvación de Fuerza. Si la falla, la criatura recibirá {@damage 2d8} de daño contundente. Si la supera, recibirá la mitad de daño. Una criatura solo puede alejarse nadando del remolino si usa primero una acción para apartarse y supera una prueba de Fuerza ({@skill Atletismo}) contra tu CD de salvación de conjuros."
 					]
 				}
 			],
@@ -4374,10 +4373,10 @@
 				"bludgeoning"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"FMV",
@@ -4587,7 +4586,7 @@
 				"piercing"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"S"
@@ -4628,7 +4627,7 @@
 				"Intentas interrumpir a una criatura que esté lanzando un conjuro. La criatura hace una tirada de salvación de Constitución. Si la falla, el conjuro se disipa sin causar efecto alguno y la acción, acción adicional o reacción empleada para lanzarlo se desperdiciará. Si ese conjuro se lanzó con un espacio de conjuro, dicho espacio no se gastará."
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SGT"
@@ -5113,7 +5112,7 @@
 			"entries": [
 				"For the duration, magical {@variantrule Darkness|XPHB} spreads from a point within range and fills a 15-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere}. {@sense Darkvision|XPHB} can't see through it, and nonmagical light can't illuminate it.",
 				"Alternatively, you cast the spell on an object that isn't being worn or carried, causing the {@variantrule Darkness|XPHB} to fill a 15-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the {@variantrule Darkness|XPHB}.",
-				"If any of this spell's area overlaps with an area of {@variantrule Bright Light|XPHB} or {@variantrule Dim Light|XPHB} created by a spell of level 2 or lower, that other spell is dispelled."
+				"If any of this spell's area overlaps with an area of {@variantrule Luz brillante|XPHB} or {@variantrule Luz tenue|XPHB} created by a spell of level 2 or lower, that other spell is dispelled."
 			],
 			"miscTags": [
 				"OBJ"
@@ -5312,7 +5311,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -5406,7 +5405,7 @@
 				"prone"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"MT",
@@ -5610,7 +5609,7 @@
 				"sabiduría"
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -5698,7 +5697,7 @@
 				"Para darse cuenta de que te has disfrazado, una criatura debe emplear la acción de estudiar para inspeccionar tu apariencia y superar una prueba de Inteligencia ({@skill Investigación|XPHB}) contra tu CD de salvación de conjuros."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -5754,7 +5753,7 @@
 				"force"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ",
@@ -6403,7 +6402,7 @@
 				"poison"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"N",
@@ -6511,10 +6510,10 @@
 			]
 		},
 		{
-			"name": "Druidcraft",
-			"originalname": "",
+			"name": "Saber druídico",
+			"originalname": "Druidcraft",
 			"source": "XPHB",
-			"page": 266,
+			"page": 330,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -6542,33 +6541,33 @@
 				}
 			],
 			"entries": [
-				"Whispering to the spirits of nature, you create one of the following effects within range.",
+				"Susurras a los espíritus de la naturaleza y produces uno de los siguientes efectos dentro del alcance.",
 				{
 					"type": "entries",
-					"name": "Weather Sensor",
+					"name": "Sensor climático",
 					"entries": [
-						"You create a Tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round."
+						"Creas un efecto sensorial Diminuto e inofensivo que predice el clima que habrá en tu ubicación durante las siguientes 24 horas. El efecto se manifiesta como un orbe dorado para los cielos despejados, una nube para la lluvia, copos de nieve para la nieve, etc. Este efecto persiste durante 1 asalto."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Bloom",
+					"name": "Florecer",
 					"entries": [
-						"You instantly make a flower blossom, a seed pod open, or a leaf bud bloom."
+						"Haces que, al instante, una flor florezca, una vaina de semillas se abra o el brote de una hoja germine."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Sensory Effect",
+					"name": "Efecto sensorial",
 					"entries": [
-						"You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot {@variantrule Cube [Area of Effect]|XPHB|Cube}."
+						"Creas un efecto sensorial inofensivo, como hojas cayendo, hadas espectrales bailando, una suave brisa, el sonido de un animal o un leve olor a mofeta. El efecto debe caber en un cubo de 5 pies (1,5 m) de lado."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Fire Play",
+					"name": "Jugar con fuego",
 					"entries": [
-						"You light or snuff out a candle, a torch, or a campfire."
+						"Enciendes o apagas una vela, una antorcha o una hoguera."
 					]
 				}
 			],
@@ -6612,7 +6611,7 @@
 				}
 			],
 			"entries": [
-				"Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is {@variantrule Difficult Terrain|XPHB}.",
+				"Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is {@variantrule Terreno difícil|XPHB}.",
 				"When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the {@condition Prone|XPHB} condition, and its {@status Concentration|XPHB} is broken.",
 				"You can also cause the effects below.",
 				{
@@ -6638,11 +6637,11 @@
 				"prone"
 			],
 			"savingThrow": [
-				"constitution",
-				"dexterity"
+				"constitución",
+				"destreza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"DFT",
@@ -6954,7 +6953,7 @@
 				}
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"ADV",
@@ -7020,10 +7019,10 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			]
 		},
 		{
@@ -7070,10 +7069,10 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"DFT"
@@ -7237,10 +7236,10 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"DFT",
@@ -7449,7 +7448,7 @@
 				"Las tiradas de ataque contra las criaturas u objetos afectados tendrán ventaja si el atacante puede verlos."
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"ADV",
@@ -7928,7 +7927,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"PRM",
@@ -8099,7 +8098,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -8157,7 +8156,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -8206,7 +8205,7 @@
 			"entries": [
 				"You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a {@variantrule Acción adicional|XPHB}.",
 				"As a {@action Magic|XPHB} action, you can make a melee spell attack with the fiery blade. On a hit, the target takes Fire damage equal to {@damage 3d6} plus your spellcasting ability modifier.",
-				"The flaming blade sheds {@variantrule Bright Light|XPHB} in a 10-foot radius and {@variantrule Dim Light|XPHB} for an additional 10 feet."
+				"The flaming blade sheds {@variantrule Luz brillante|XPHB} in a 10-foot radius and {@variantrule Luz tenue|XPHB} for an additional 10 feet."
 			],
 			"entriesHigherLevel": [
 				{
@@ -8280,7 +8279,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"Y"
@@ -8326,7 +8325,7 @@
 			"entries": [
 				"You create a 5-foot-diameter sphere of fire in an unoccupied space on the ground within range. It lasts for the duration. Any creature that ends its turn within 5 feet of the sphere makes a Dexterity saving throw, taking {@damage 2d6} Fire damage on a failed save or half as much damage on a successful one.",
 				"As a {@variantrule Acción adicional|XPHB}, you can move the sphere up to 30 feet, rolling it along the ground. If you move the sphere into a creature's space, that creature makes the save against the sphere, and the sphere stops moving for the turn.",
-				"When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. Flammable objects that aren't being worn or carried start {@hazard burning|XPHB} if touched by the sphere, and it sheds {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} for an additional 20 feet."
+				"When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. Flammable objects that aren't being worn or carried start {@hazard burning|XPHB} if touched by the sphere, and it sheds {@variantrule Luz brillante|XPHB} in a 20-foot radius and {@variantrule Luz tenue|XPHB} for an additional 20 feet."
 			],
 			"entriesHigherLevel": [
 				{
@@ -8341,7 +8340,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"LGT",
@@ -8399,7 +8398,7 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"PRM",
@@ -8684,10 +8683,10 @@
 			]
 		},
 		{
-			"name": "Fount of Moonlight",
-			"originalname": "",
+			"name": "Fuente de luz lunar",
+			"originalname": "Fount of Moonlight",
 			"source": "XPHB",
-			"page": 277,
+			"page": 285,
 			"level": 4,
 			"school": "V",
 			"time": [
@@ -8717,9 +8716,9 @@
 				}
 			],
 			"entries": [
-				"A cool light wreathes your body for the duration, emitting {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} for an additional 20 feet.",
-				"Until the spell ends, you have {@variantrule Resistance|XPHB} to Radiant damage, and your melee attacks deal an extra {@damage 2d6} Radiant damage on a hit.",
-				"In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a {@variantrule Reaction|XPHB} to force the creature to make a Constitution saving throw. On a failed save, the creature has the {@condition Cegado|XPHB} condition until the end of your next turn."
+				"Mientras dure el efecto, una luz fría envuelve tu cuerpo y emite {@variantrule luz brillante|XPHB} en un radio de 20 pies (6 m) y {@variantrule luz tenue|XPHB} 20 pies (6 m) más allá.",
+				"Hasta que el conjuro termine, tienes {@variantrule resistencia|XPHB} al daño radiante y tus ataques cuerpo a cuerpo causarán {@damage 2d6} de daño radiante adicional cuando acierten.",
+				"Además, inmediatamente después de recibir daño de una criatura que puedas ver a 60 pies (18 m) o menos de ti, puedes usar una reacción para obligar a la criatura a hacer una tirada de salvación de Constitución. Si la falla, tendrá el estado de {@condition Cegado|XPHB|cegada} hasta el final de tu siguiente turno."
 			],
 			"damageResist": [
 				"radiant"
@@ -8731,7 +8730,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"AAD",
@@ -8775,9 +8774,8 @@
 				}
 			],
 			"entries": [
-				"Tocas a una criatura voluntaria. Hasta que termine el conjuro, el movimiento del objetivo no se ve afectado por el terreno difícil y los conjuros y otros efectos mágicos no pueden reducir su velocidad ni hacer que tenga los estados de {@condition Apresado|XPHB} o {@condition Paralizado|XPHB}. Además, el objetivo tiene una velocidad nadando igual a su velocidad.",
-				"El objetivo también puede gastar 5 pies (1,5 m) de movimiento para escapar automáticamente de ataduras no mágicas, como unas esposas o una criatura que le imponga el estado de {@condition Agarrado|XPHB}.",
-				"In addition, the target can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the {@condition Agarrado|XPHB} condition on it."
+				"Tocas a una criatura voluntaria. Hasta que termine el conjuro, el movimiento del objetivo no se ve afectado por el {@variantrule terreno difícil|XPHB} y los conjuros y otros efectos mágicos no pueden reducir su velocidad ni hacer que tenga los estados de {@condition Apresado|XPHB} o {@condition Paralizado|XPHB}. Además, el objetivo tiene una velocidad nadando igual a su velocidad.",
+				"El objetivo también puede gastar 5 pies (1,5 m) de movimiento para escapar automáticamente de ataduras no mágicas, como unas esposas o una criatura que le imponga el estado de {@condition Agarrado|XPHB}."
 			],
 			"entriesHigherLevel": [
 				{
@@ -9304,7 +9302,7 @@
 				"thunder"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"abilityCheck": [
 				"sabiduría"
@@ -9466,7 +9464,7 @@
 				"prone"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"DFT"
@@ -9614,7 +9612,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -9667,7 +9665,7 @@
 					"type": "entries",
 					"name": "Corridors",
 					"entries": [
-						"Fog fills all the warded corridors, making them {@variantrule Heavily Obscured|XPHB}. In addition, at each intersection or branching passage offering a choice of direction, there is a {@chance 50|||Disoriented!|No effect} chance that a creature other than you believes it is going in the opposite direction from the one it chooses."
+						"Fog fills all the warded corridors, making them {@variantrule Muy oscuro|XPHB}. In addition, at each intersection or branching passage offering a choice of direction, there is a {@chance 50|||Disoriented!|No effect} chance that a creature other than you believes it is going in the opposite direction from the one it chooses."
 					]
 				},
 				{
@@ -9681,7 +9679,7 @@
 					"type": "entries",
 					"name": "Stairs",
 					"entries": [
-						"Webs fill all stairs in the warded area from top to bottom, as in the {@spell Web|XPHB} spell. These strands regrow in 10 minutes if they are destroyed while Guards and Wards lasts."
+						"Webs fill all stairs in the warded area from top to bottom, as in the {@spell Telaraña|XPHB} spell. These strands regrow in 10 minutes if they are destroyed while Guards and Wards lasts."
 					]
 				},
 				{
@@ -9694,8 +9692,8 @@
 							"items": [
 								"{@spell Luces danzantes|XPHB} in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts",
 								"{@spell Boca mágica|XPHB} in two locations",
-								"{@spell Stinking Cloud|XPHB} in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)",
-								"{@spell Gust of Wind|XPHB} in one corridor or room (the wind blows continuously while the spell lasts)",
+								"{@spell Nube apestosa|XPHB} in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)",
+								"{@spell Ráfaga de viento|XPHB} in one corridor or room (the wind blows continuously while the spell lasts)",
 								"{@spell Sugestión|XPHB} in one 5-foot square; any creature that enters that square receives the suggestion mentally"
 							]
 						}
@@ -9813,10 +9811,10 @@
 			]
 		},
 		{
-			"name": "Gust of Wind",
-			"originalname": "",
+			"name": "Ráfaga de viento",
+			"originalname": "Gust of Wind",
 			"source": "XPHB",
-			"page": 282,
+			"page": 324,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -9836,7 +9834,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a legume seed"
+				"m": "la semilla de una legumbre"
 			},
 			"duration": [
 				{
@@ -9849,13 +9847,13 @@
 				}
 			],
 			"entries": [
-				"A {@variantrule Line [Area of Effect]|XPHB|Line} of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the duration. Each creature in the {@variantrule Line [Area of Effect]|XPHB|Line} must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the {@variantrule Line [Area of Effect]|XPHB|Line}. A creature that ends its turn in the {@variantrule Line [Area of Effect]|XPHB|Line} must make the same save.",
-				"Any creature in the {@variantrule Line [Area of Effect]|XPHB|Line} must spend 2 feet of movement for every 1 foot it moves when moving closer to you.",
-				"The gust disperses gas or vapor, and it extinguishes candles and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a {@chance 50|||Extinguished!|No effect} chance to extinguish them.",
-				"As a {@variantrule Acción adicional|XPHB} on your later turns, you can change the direction in which the {@variantrule Line [Area of Effect]|XPHB|Line} blasts from you."
+				"De ti surge una ráfaga de viento fuerte en una línea recta de 60 pies (18 m) de largo y 10 pies (3 m) de ancho en la dirección que elijas hasta que termine el conjuro. Todas las criaturas en esa línea deberán superar una tirada de salvación de Fuerza o serán empujadas 15 pies (4,5 m) en la dirección de la línea. Las criaturas que terminen su turno en ella también deberán hacer la tirada de salvación.",
+				"Cualquier criatura que esté en la línea deberá gastar 2 m de movimiento por cada metro que se mueva para acercarse a ti.",
+				"La ráfaga dispersa el gas o el vapor y apaga velas y otras llamas desprotegidas de la zona. Hace que las llamas protegidas, como las de los faroles, se agiten salvajemente y tienen un 50% de probabilidad de apagarse.",
+				"Como acción adicional en tus siguientes turnos, puedes cambiar la dirección en la que la línea surge de ti."
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"FMV",
@@ -9909,7 +9907,7 @@
 				"piercing"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"S"
@@ -10123,7 +10121,7 @@
 				"The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to notice the illusion. If the difference isn't obvious by touch, a creature examining the illusion can take the {@action Study|XPHB} action to make an Intelligence ({@skill Investigation|XPHB}) check against your spell save DC to disbelieve it. If a creature discerns that the terrain is illusory, the creature sees a vague image superimposed on the real terrain."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"areaTags": [
 				"C"
@@ -10167,7 +10165,7 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SGT"
@@ -10384,7 +10382,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"OBJ",
@@ -10443,7 +10441,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -10805,7 +10803,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"ADV"
@@ -10870,7 +10868,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"DFT"
@@ -11043,7 +11041,7 @@
 				"R"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"ST"
@@ -11051,10 +11049,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Ice Storm",
-			"originalname": "",
+			"name": "Tormenta de hielo",
+			"originalname": "Ice Storm",
 			"source": "XPHB",
-			"page": 287,
+			"page": 339,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -11075,7 +11073,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a mitten"
+				"m": "una manopla"
 			},
 			"duration": [
 				{
@@ -11083,15 +11081,15 @@
 				}
 			],
 			"entries": [
-				"Hail falls in a 20-foot-radius, 40-foot-high {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centered on a point within range. Each creature in the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} makes a Dexterity saving throw. A creature takes {@damage 2d10} Bludgeoning damage and {@damage 4d6} Cold damage on a failed save or half as much damage on a successful one.",
-				"Hailstones turn ground in the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} into {@variantrule Difficult Terrain|XPHB} until the end of your next turn."
+				"Una granizada cae en un cilindro de 20 pies (6 m) de radio y 40 pies (12 m) de altura centrado en un punto dentro del alcance. Todas las criaturas situadas en el cilindro hacen una tirada de salvación de Destreza; sufrirán {@damage 2d10} de daño contundente y {@damage 4d6} de daño de frío si la fallan o la mitad del daño si la superan.",
+				"Las bolas de granizo convierten el suelo del cilindro en terreno difícil hasta el final de tu siguiente turno."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The Bludgeoning damage increases by {@scaledamage 2d8|4-9|1d10} for each spell slot level above 4."
+						"El daño contundente aumenta en {@scaledamage 2d8|4-9|1d10} por cada nivel por encima de 4 que tenga el espacio."
 					]
 				}
 			],
@@ -11100,7 +11098,7 @@
 				"cold"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"DFT"
@@ -11346,7 +11344,7 @@
 				}
 			],
 			"entries": [
-				"A swirling cloud of embers and smoke fills a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within range. The cloud's area is {@variantrule Heavily Obscured|XPHB}. It lasts for the duration or until a strong wind (like that created by {@spell Gust of Wind|XPHB}) disperses it.",
+				"A swirling cloud of embers and smoke fills a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within range. The cloud's area is {@variantrule Muy oscuro|XPHB}. It lasts for the duration or until a strong wind (like that created by {@spell Ráfaga de viento|XPHB}) disperses it.",
 				"When the cloud appears, each creature in it makes a Dexterity saving throw, taking {@damage 10d8} Fire damage on a failed save or half as much damage on a successful one. A creature must also make this save when the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} moves into its space and when it enters the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} or ends its turn there. A creature makes this save only once per turn.",
 				"The cloud moves 10 feet away from you in a direction you choose at the start of each of your turns."
 			],
@@ -11354,7 +11352,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBS"
@@ -11409,17 +11407,17 @@
 				"necrotic"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"ST"
 			]
 		},
 		{
-			"name": "Insect Plague",
-			"originalname": "",
+			"name": "Plaga de insectos",
+			"originalname": "Insect Plague",
 			"source": "XPHB",
-			"page": 289,
+			"page": 319,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -11440,7 +11438,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a locust"
+				"m": "una langosta"
 			},
 			"duration": [
 				{
@@ -11453,15 +11451,15 @@
 				}
 			],
 			"entries": [
-				"Swarming locusts fill a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point you choose within range. The {@variantrule Sphere [Area of Effect]|XPHB|Sphere} remains for the duration, and its area is {@variantrule Lightly Obscured|XPHB} and {@variantrule Difficult Terrain|XPHB}.",
-				"When the swarm appears, each creature in it makes a Constitution saving throw, taking {@damage 4d10} Piercing damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn."
+				"Un enjambre de langostas llena una esfera de 20 pies (6 m) de radio centrada en un punto de tu elección dentro del alcance. Permanece hasta que termine el conjuro y la zona se considera {@variantrule Ligeramente oscuro|XPHB|ligeramente oscura} y {@variantrule terreno difícil|XPHB}.",
+				"Cuando aparezca el enjambre, todas las criaturas dentro de él harán una tirada de salvación de Constitución; sufrirán {@damage 4d10} de daño perforante si la fallan o la mitad del daño si la superan. Una criatura también hará esta tirada cuando entre en el área del conjuro por primera vez en un turno o termine su turno allí. Una criatura solo hace esta tirada una vez por turno."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 4d10|5-9|1d10} for each spell slot level above 5."
+						"El daño aumenta en {@scaledamage 4d10|5-9|1d10} por cada nivel por encima de 5 que tenga el espacio."
 					]
 				}
 			],
@@ -11469,7 +11467,7 @@
 				"piercing"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"DFT",
@@ -11594,7 +11592,7 @@
 				"ensordecido"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SGT"
@@ -11832,7 +11830,7 @@
 			"entries": [
 				"A 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} isn't big enough to fully encapsulate all creatures in its area.",
 				"Creatures and objects within the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} when you cast the spell can move through it freely. All other creatures and objects are barred from passing through it. Spells of level 3 or lower can't be cast through it, and the effects of such spells can't extend into it.",
-				"The atmosphere inside the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB} (no action required). The {@variantrule Emanation [Area of Effect]|XPHB|Emanation} is opaque from the outside and of any color you choose, but it's transparent from the inside.",
+				"The atmosphere inside the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have {@variantrule Luz tenue|XPHB} or {@variantrule Darkness|XPHB} (no action required). The {@variantrule Emanation [Area of Effect]|XPHB|Emanation} is opaque from the outside and of any color you choose, but it's transparent from the inside.",
 				"The spell ends early if you leave the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} or if you cast it again."
 			],
 			"miscTags": [
@@ -11923,7 +11921,7 @@
 				"When the spell ends, the target floats gently to the ground if it is still aloft."
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"OBJ",
@@ -12006,7 +12004,7 @@
 				}
 			],
 			"entries": [
-				"As your attack hits or misses the target, the weapon or ammunition you're using transforms into a lightning bolt. Instead of taking any damage or other effects from the attack, the target takes {@damage 4d8} Lightning damage on a hit or half as much damage on a miss. Each creature within 10 feet of the target then makes a Dexterity saving throw, taking {@damage 2d8} Lightning damage on a failed save or half as much damage on a successful one.",
+				"As your attack hits or misses the target, the weapon or ammunition you're using transforms into a relámpago. Instead of taking any damage or other effects from the attack, the target takes {@damage 4d8} Lightning damage on a hit or half as much damage on a miss. Each creature within 10 feet of the target then makes a Dexterity saving throw, taking {@damage 2d8} Lightning damage on a failed save or half as much damage on a successful one.",
 				"The weapon or ammunition then returns to its normal form."
 			],
 			"entriesHigherLevel": [
@@ -12022,17 +12020,17 @@
 				"lightning"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"S"
 			]
 		},
 		{
-			"name": "Lightning Bolt",
-			"originalname": "",
+			"name": "Relámpago",
+			"originalname": "Lightning Bolt",
 			"source": "XPHB",
-			"page": 292,
+			"page": 327,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -12053,7 +12051,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a bit of fur and a crystal rod"
+				"m": "un poco de pelaje y una vara de cristal)"
 			},
 			"duration": [
 				{
@@ -12061,14 +12059,14 @@
 				}
 			],
 			"entries": [
-				"A stroke of lightning forming a 100-foot-long, 5-foot-wide {@variantrule Line [Area of Effect]|XPHB|Line} blasts out from you in a direction you choose. Each creature in the {@variantrule Line [Area of Effect]|XPHB|Line} makes a Dexterity saving throw, taking {@damage 8d6} Lightning damage on a failed save or half as much damage on a successful one."
+				"Un relámpago que forma una {@variantrule Line [Area of Effect]|XPHB|línea} de 100 pies (30 m) de largo y 5 pies (1,5 m) de ancho surge de ti en la dirección que elijas. Todas las criaturas situadas en esa línea deberán hacer una tirada de salvación de Destreza; sufrirán {@damage 8d6} de daño de relámpago si la fallan o la mitad del daño si la superan."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 8d6|3-9|1d6} for each spell slot level above 3."
+						"El daño aumenta en {@scaledamage 8d6|3-9|1d6} por cada nivel por encima de 3 que tenga el espacio."
 					]
 				}
 			],
@@ -12076,7 +12074,7 @@
 				"lightning"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -12165,7 +12163,7 @@
 			],
 			"entries": [
 				"Describe or name a creature that is familiar to you. You sense the direction to the creature's location if that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.",
-				"The spell can locate a specific creature known to you or the nearest creature of a specific kind (such as a human or a unicorn) if you have seen such a creature up close\u2014within 30 feet\u2014at least once. If the creature you described or named is in a different form, such as under the effects of a {@spell Flesh to Stone|XPHB} or {@spell Polymorph|XPHB} spell, this spell doesn't locate the creature.",
+				"The spell can locate a specific creature known to you or the nearest creature of a specific kind (such as a human or a unicorn) if you have seen such a creature up close\u2014within 30 feet\u2014at least once. If the creature you described or named is in a different form, such as under the effects of a {@spell Flesh to Stone|XPHB} or {@spell Polimorfar|XPHB} spell, this spell doesn't locate the creature.",
 				"This spell can't locate a creature if any thickness of lead blocks a direct path between you and the creature."
 			]
 		},
@@ -12700,7 +12698,7 @@
 				}
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"PRM",
@@ -12953,7 +12951,7 @@
 				"When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -13188,7 +13186,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ",
@@ -13298,7 +13296,7 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SCL",
@@ -13422,7 +13420,7 @@
 				}
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			]
 		},
 		{
@@ -13462,7 +13460,7 @@
 			"entries": [
 				"You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other rough or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.",
 				"Similarly, you can alter the appearance of structures or add them where none are present. The spell doesn't disguise, conceal, or add creatures.",
-				"The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into {@variantrule Difficult Terrain|XPHB} (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell's area disappears immediately.",
+				"The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into {@variantrule Terreno difícil|XPHB} (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell's area disappears immediately.",
 				"Creatures with {@sense Truesight|XPHB} can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion."
 			],
 			"miscTags": [
@@ -13660,10 +13658,10 @@
 			]
 		},
 		{
-			"name": "Moonbeam",
-			"originalname": "",
+			"name": "Rayo de luna",
+			"originalname": "Moonbeam",
 			"source": "XPHB",
-			"page": 300,
+			"page": 326,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -13684,7 +13682,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a moonseed leaf"
+				"m": "una hoja con forma de media luna"
 			},
 			"duration": [
 				{
@@ -13697,15 +13695,15 @@
 				}
 			],
 			"entries": [
-				"A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centered on a point within range. Until the spell ends, {@variantrule Dim Light|XPHB} fills the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}, and you can take a {@action Magic|XPHB} action on later turns to move the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} up to 60 feet.",
-				"When the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} appears, each creature in it makes a Constitution saving throw. On a failed save, a creature takes {@damage 2d10} Radiant damage, and if the creature is shape-shifted (as a result of the {@spell Polymorph|XPHB} spell, for example), it reverts to its true form and can't shape-shift until it leaves the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}. On a successful save, a creature takes half as much damage only. A creature also makes this save when the spell's area moves into its space and when it enters the spell's area or ends its turn there. A creature makes this save only once per turn."
+				"Un rayo de luz pálida y plateada brilla en un cilindro de 5 pies (1,5 m) de radio y 40 pies (12 m) de alto centrado en un punto dentro del alcance. Hasta que el conjuro termine, una {@variantrule luz tenue|XPHB} llena el cilindro y puedes emplear una acción de magia en turnos posteriores para mover el cilindro hasta 60 pies (18 m).",
+				"Cuando el cilindro aparezca, todas las criaturas que haya en él realizan una tirada de salvación de Constitución. Si la fallan, recibirán {@damage 2d10} de daño radiante, y si una criatura ha cambiado de forma (por ejemplo, como resultado del conjuro {@spell polimorfar|XPHB}), volverá a su forma real y no podrá cambiarla hasta que salga del cilindro. Si la superan, solo sufrirán la mitad de ese daño. Una criatura también deberá hacer esta tirada cuando el área del conjuro entre en su espacio o cuando la criatura entre en el área o acabe su turno en ella. Una criatura solo hace esta tirada una vez por turno."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 2d10|2-9|1d10} for each spell slot level above 2."
+						"El daño aumenta en {@scaledamage 2d10|2-9|1d10} por cada nivel por encima de 2 que tenga el espacio."
 					]
 				}
 			],
@@ -13713,7 +13711,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"LGT"
@@ -13768,7 +13766,7 @@
 				"force"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SGT"
@@ -14160,10 +14158,10 @@
 				"cold"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"areaTags": [
 				"S"
@@ -14228,7 +14226,7 @@
 				"thunder"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -14425,10 +14423,10 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"intelligence"
+				"inteligencia"
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -14821,10 +14819,10 @@
 			]
 		},
 		{
-			"name": "Polymorph",
-			"originalname": "",
+			"name": "Polimorfar",
+			"originalname": "Polymorph",
 			"source": "XPHB",
-			"page": 306,
+			"page": 320,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -14845,7 +14843,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a caterpillar cocoon"
+				"m": "un capullo de oruga"
 			},
 			"duration": [
 				{
@@ -14858,10 +14856,10 @@
 				}
 			],
 			"entries": [
-				"You attempt to transform a creature that you can see within range into a Beast. The target must succeed on a Wisdom saving throw or shape-shift into Beast form for the duration. That form can be any {@filter Beast|bestiary|type=beast|miscellaneous=!swarm} you choose that has a {@variantrule Challenge Rating|XPHB} equal to or less than the target's (or the target's level if it doesn't have a {@variantrule Challenge Rating|XPHB}). The target's game statistics are replaced by the stat block of the chosen Beast, but the target retains its alignment, personality, creature type, {@variantrule Hit Points|XPHB}, and {@variantrule Hit Point Dice|XPHB}.",
-				"The target gains a number of {@variantrule Temporary Hit Points|XPHB} equal to the {@variantrule Hit Points|XPHB} of the Beast form. These {@variantrule Temporary Hit Points|XPHB} vanish if any remain when the spell ends. The spell ends early on the target if it has no {@variantrule Temporary Hit Points|XPHB} left. ",
-				"The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.",
-				"The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment."
+				"Intentas transformar en una {@filter bestia|bestiary|type=beast} a una criatura que puedas ver dentro del alcance. El objetivo debe superar una tirada de salvación de Sabiduría o adoptará la forma de una bestia hasta que termine el conjuro. Esa forma Puede ser la de cualquier bestia que elijas y cuyo valor de desafío sea igual o menor que el del objetivo (o que el nivel del objetivo si este no tiene un valor de desafío). El perfil del objetivo se sustituye por el de la bestia elegida, pero el objetivo conservará su alineamiento, personalidad, tipo de criatura, puntos de golpe y dados de puntos de golpe. En el apéndice B puedes consultar varios perfiles de bestias.",
+				"El objetivo obtiene una cantidad de puntos de golpe temporales igual a los puntos de golpe de la forma de bestia. Estos puntos de golpe temporales se desvanecerán si conservas alguno cuando el conjuro termine. El conjuro termina antes de tiempo si el objetivo se queda sin puntos de golpe temporales.",
+				"Las acciones que puede realizar el objetivo están limitadas por la anatomía de su nueva forma y no podrá hablar ni lanzar conjuros.",
+				"El equipo del objetivo se funde con su nueva formay la criatura no podrá usar ese equipo ni beneficiarse de él."
 			],
 			"savingThrow": [
 				"sabiduría"
@@ -15034,7 +15032,7 @@
 				"aturdido"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SGT"
@@ -15269,8 +15267,8 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"dexterity",
-				"constitution",
+				"destreza",
+				"constitución",
 				"sabiduría"
 			],
 			"miscTags": [
@@ -15317,7 +15315,7 @@
 			],
 			"entries": [
 				"A shimmering, multicolored plane of light forms a vertical opaque wall\u2014up to 90 feet long, 30 feet high, and 1 inch thick\u2014centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you position the wall in a space occupied by a creature, the spell ends instantly without effect.",
-				"The wall sheds {@variantrule Bright Light|XPHB} within 100 feet and {@variantrule Dim Light|XPHB} for an additional 100 feet. You and creatures you designate when you cast the spell can pass through and be near the wall without harm. If another creature that can see the wall moves within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or have the {@condition Cegado|XPHB} condition for 1 minute.",
+				"The wall sheds {@variantrule Luz brillante|XPHB} within 100 feet and {@variantrule Luz tenue|XPHB} for an additional 100 feet. You and creatures you designate when you cast the spell can pass through and be near the wall without harm. If another creature that can see the wall moves within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or have the {@condition Cegado|XPHB} condition for 1 minute.",
 				"The wall consists of seven layers, each with a different color. When a creature reaches into or passes through the wall, it does so one layer at a time through all the layers. Each layer forces the creature to make a Dexterity saving throw or be affected by that layer's properties as described in the Prismatic Layers table.",
 				"The wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. {@spell Antimagic Field|XPHB} has no effect on the wall, and {@spell Disipar magia|XPHB} can affect only the violet layer.",
 				{
@@ -15338,7 +15336,7 @@
 						],
 						[
 							"2",
-							"{@b Orange.} {@i Failed Save:} {@damage 12d6} Acid damage. {@i Successful Save:} Half as much damage. {@i Additional Effects:} Magical ranged attacks can't pass through this layer, which is destroyed by a strong wind (such as the one created by {@spell Gust of Wind|XPHB})."
+							"{@b Orange.} {@i Failed Save:} {@damage 12d6} Acid damage. {@i Successful Save:} Half as much damage. {@i Additional Effects:} Magical ranged attacks can't pass through this layer, which is destroyed by a strong wind (such as the one created by {@spell Ráfaga de viento|XPHB})."
 						],
 						[
 							"3",
@@ -15354,7 +15352,7 @@
 						],
 						[
 							"6",
-							"{@b Indigo.} {@i Failed Save:} The target has the {@condition Apresado|XPHB} condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the {@condition Petrificado|XPHB} condition until it is freed by an effect like the {@spell Restablecimiento mayor|XPHB} spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. {@i Additional Effects:} Spells can't be cast through this layer, which is destroyed by {@variantrule Bright Light|XPHB} shed by the {@spell Luz del día|XPHB} spell."
+							"{@b Indigo.} {@i Failed Save:} The target has the {@condition Apresado|XPHB} condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the {@condition Petrificado|XPHB} condition until it is freed by an effect like the {@spell Restablecimiento mayor|XPHB} spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. {@i Additional Effects:} Spells can't be cast through this layer, which is destroyed by {@variantrule Luz brillante|XPHB} shed by the {@spell Luz del día|XPHB} spell."
 						],
 						[
 							"7",
@@ -15377,8 +15375,8 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"constitution",
-				"dexterity",
+				"constitución",
+				"destreza",
 				"sabiduría"
 			],
 			"miscTags": [
@@ -15390,10 +15388,10 @@
 			]
 		},
 		{
-			"name": "Produce Flame",
-			"originalname": "",
+			"name": "Crear llama",
+			"originalname": "Produce Flame",
 			"source": "XPHB",
-			"page": 308,
+			"page": 266,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -15424,8 +15422,8 @@
 				}
 			],
 			"entries": [
-				"A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} for an additional 20 feet. The spell ends if you cast it again.",
-				"Until the spell ends, you can take a {@action Magic|XPHB} action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes {@damage 1d8} Fire damage."
+				"En tu mano aparece una llama titilante, que permanece hasta que termine el conjuro. En tu mano, la llama no genera calor, no puede quemar nada y emite una luz brillante en un radio de 20 pies (6 m) y luz tenue 20 pies (6 m) más allá. El conjuro termina si lo vuelves a lanzar.",
+				"Hasta que el conjuro termine, puedes usar una acción de magia para arrojar la llama a una criatura u objeto a 60 pies (18 m) o menos de ti. Haz un ataque de conjuro a distancia. Si acierta, el objetivo recibe {@damage 1d8} de daño de fuego."
 			],
 			"entriesHigherLevel": [
 				{
@@ -15505,7 +15503,7 @@
 				"Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the {@action Study|XPHB} action to examine the image can determine that it is an illusion with a successful Intelligence ({@skill Investigation|XPHB}) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"hasFluffImages": true
 		},
@@ -15555,7 +15553,7 @@
 				"Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the {@action Study|XPHB} action to examine the image can determine that it is an illusion with a successful Intelligence ({@skill Investigation|XPHB}) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -15905,7 +15903,7 @@
 				"On a failed save, the target has {@variantrule Disadvantage|XPHB} on Strength-based {@variantrule Prueba con d20|XPHB|Prueba con d20s} for the duration. During that time, it also subtracts {@dice 1d8} from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success."
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"areaTags": [
 				"ST"
@@ -16361,7 +16359,7 @@
 				"If a ceiling or an anchored object is encountered in this upward fall, creatures and objects strike it just as they would during a downward fall. If an affected creature or object reaches the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}'s top without striking anything, it hovers there for the duration. When the spell ends, affected objects and creatures fall downward."
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ"
@@ -16511,7 +16509,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"SCL",
@@ -16772,7 +16770,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"AAD"
@@ -16862,7 +16860,7 @@
 				"carisma"
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"miscTags": [
 				"SGT"
@@ -17061,7 +17059,7 @@
 				"thunder"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"OBJ"
@@ -17161,9 +17159,9 @@
 		},
 		{
 			"name": "Shillelagh",
-			"originalname": "",
+			"originalname": "Shillelagh",
 			"source": "XPHB",
-			"page": 316,
+			"page": 332,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -17183,7 +17181,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "mistletoe"
+				"m": "muérdago"
 			},
 			"duration": [
 				{
@@ -17195,15 +17193,15 @@
 				}
 			],
 			"entries": [
-				"A Club or Quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a {@dice d8}. If the attack deals damage, it can be Force damage or the weapon's normal damage type (your choice).",
-				"The spell ends early if you cast it again or if you let go of the weapon."
+				"Un {@item bastón|XPHB} o un {@item garrote|XPHB} que sostengas se ve impregnado del poder de la naturaleza. Hasta que termine el conjuro, puedes usar tu aptitud mágica en lugar de tu Fuerza para las tiradas de ataque y de daño de tus ataques cuerpo a cuerpo usando esa arma y el dado de daño pasa a ser un {@dice d8}. Si el ataque inflige daño, puede ser de fuerza o del tipo de daño normal del arma (a tu elección).",
+				"El conjuro termina antes de tiempo si lo vuelves a lanzar o si sueltas el arma."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Mejora de truco",
 					"entries": [
-						"The damage die changes when you reach levels 5 ({@damage d10}), 11 ({@damage d12}), and 17 ({@damage 2d6})."
+						"El dado de daño cambia cuando alcanzas los niveles 5 ({@damage d10}), 11 ({@damage d12}) y 17 ({@damage 2d6})."
 					]
 				}
 			],
@@ -17257,7 +17255,7 @@
 				}
 			],
 			"entries": [
-				"The target hit by the strike takes an extra {@damage 2d6} Radiant damage from the attack. Until the spell ends, the target sheds {@variantrule Bright Light|XPHB} in a 5-foot radius, attack rolls against it have {@variantrule Advantage|XPHB}, and it can't benefit from the {@condition Invisible|XPHB} condition."
+				"The target hit by the strike takes an extra {@damage 2d6} Radiant damage from the attack. Until the spell ends, the target sheds {@variantrule Luz brillante|XPHB} in a 5-foot radius, attack rolls against it have {@variantrule Advantage|XPHB}, and it can't benefit from the {@condition Invisible|XPHB} condition."
 			],
 			"entriesHigherLevel": [
 				{
@@ -17442,7 +17440,7 @@
 				"La interacción física con la imagen revela que es una ilusión, ya que las cosas pueden atravesarla. Si una criatura emplea una acción de estudiar para examinar la imagen, puede determinar que es una ilusión si supera una prueba de Inteligencia ({@skill Investigación|XPHB}) contra tu CD de salvación de conjuros. Si la criatura descubre que la imagen es una ilusión, no se dejará engañar por ella."
 			],
 			"abilityCheck": [
-				"intelligence"
+				"inteligencia"
 			],
 			"hasFluffImages": true
 		},
@@ -17551,10 +17549,10 @@
 			]
 		},
 		{
-			"name": "Sleet Storm",
-			"originalname": "",
+			"name": "Tormenta de aguanieve",
+			"originalname": "Sleet Storm",
 			"source": "XPHB",
-			"page": 317,
+			"page": 338,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -17575,7 +17573,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a miniature umbrella"
+				"m": "un paraguas en miniatura"
 			},
 			"duration": [
 				{
@@ -17588,14 +17586,14 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centered on a point you choose within range. The area is {@variantrule Heavily Obscured|XPHB}, and exposed flames in the area are doused.",
-				"Ground in the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} is {@variantrule Difficult Terrain|XPHB}. When a creature enters the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} for the first time on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the {@condition Prone|XPHB} condition and lose {@status Concentration|XPHB}."
+				"Hasta que el conjuro termine, caerá aguanieve en un cilindro de 40 pies (12 m) de alto y 20 pies (6 m) de radio centrado en un punto que elijas dentro del alcance. La zona está muy oscura y las llamas desprotegidas que haya en ella se apagan.",
+				"El suelo abarcado en el cilindro es terreno difícil. Cuando una criatura entre en el cilindro por primera vez en un turno o comience su turno en él, deberá superar una tirada de salvación de Destreza o tendrá el estado de {@condition derribado|XPHB|derribada} y perderá la {@condition concentración|XPHB}."
 			],
 			"conditionInflict": [
 				"prone"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"DFT",
@@ -17920,7 +17918,7 @@
 			],
 			"entries": [
 				"You imbue plants in an immobile 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.",
-				"You can also turn {@variantrule Difficult Terrain|XPHB} caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into {@variantrule Difficult Terrain|XPHB} that lasts for the duration.",
+				"You can also turn {@variantrule Terreno difícil|XPHB} caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into {@variantrule Terreno difícil|XPHB} that lasts for the duration.",
 				"The spell doesn't enable plants to uproot themselves and move about, but they can move their branches, tendrils, and stalks for you.",
 				"If a Plant creature is in the area, you can communicate with it as if you shared a common language."
 			],
@@ -18021,7 +18019,7 @@
 				}
 			],
 			"entries": [
-				"The ground in a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within range sprouts hard spikes and thorns. The area becomes {@variantrule Difficult Terrain|XPHB} for the duration. When a creature moves into or within the area, it takes {@damage 2d4} Piercing damage for every 5 feet it travels.",
+				"The ground in a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within range sprouts hard spikes and thorns. The area becomes {@variantrule Terreno difícil|XPHB} for the duration. When a creature moves into or within the area, it takes {@damage 2d4} Piercing damage for every 5 feet it travels.",
 				"The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a {@action Search|XPHB} action and succeed on a Wisdom ({@skill Perception|XPHB} or {@skill Survival|XPHB}) check against your spell save DC to recognize the terrain as hazardous before entering it."
 			],
 			"damageInflict": [
@@ -18332,10 +18330,10 @@
 			]
 		},
 		{
-			"name": "Stinking Cloud",
-			"originalname": "",
+			"name": "Nube apestosa",
+			"originalname": "Stinking Cloud",
 			"source": "XPHB",
-			"page": 321,
+			"page": 314,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -18356,7 +18354,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a rotten egg"
+				"m": "un huevo podrido"
 			},
 			"duration": [
 				{
@@ -18369,11 +18367,11 @@
 				}
 			],
 			"entries": [
-				"You create a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} of yellow, nauseating gas centered on a point within range. The cloud is {@variantrule Heavily Obscured|XPHB}. The cloud lingers in the air for the duration or until a strong wind (such as the one created by {@spell Gust of Wind|XPHB}) disperses it.",
-				"Each creature that starts its turn in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} must succeed on a Constitution saving throw or have the {@condition Envenenado|XPHB} condition until the end of the current turn. While {@condition Envenenado|XPHB} in this way, the creature can't take an action or a {@variantrule Acción adicional|XPHB}."
+				"Creas una esfera de gas nauseabundo y amarillento de 20 pies (6 m) de radio centrada en un punto dentro del alcance. La nube está {@variantrule muy oscuro|XPHB|muy oscura} y permanece en el aire hasta que el conjuro termine o hasta que la disperse un viento fuerte (por ejemplo, el que crea {@i {@spell ráfaga de viento|XPHB}}).",
+				"Todas las criaturas que comiencen su turno en la esfera deberán superar una tirada de salvación de Constitución o tendrán el estado de {@condition Envenenado|XPHB|envenenadas} hasta el final del turno actual. Mientras estén {@condition Envenenado|XPHB|envenenadas} de esta forma, no podrán realizar acciones ni acciones adicionales."
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"OBS"
@@ -18536,7 +18534,7 @@
 					"type": "entries",
 					"name": "Turns 5-10",
 					"entries": [
-						"Gusts and freezing rain assail the area under the cloud. Each creature there takes {@damage 1d6} Cold damage. Until the spell ends, the area is {@variantrule Difficult Terrain|XPHB} and {@variantrule Heavily Obscured|XPHB}, ranged attacks with weapons are impossible there, and strong wind blows through the area."
+						"Gusts and freezing rain assail the area under the cloud. Each creature there takes {@damage 1d6} Cold damage. Until the spell ends, the area is {@variantrule Terreno difícil|XPHB} and {@variantrule Muy oscuro|XPHB}, ranged attacks with weapons are impossible there, and strong wind blows through the area."
 					]
 				}
 			],
@@ -18551,8 +18549,8 @@
 				"ensordecido"
 			],
 			"savingThrow": [
-				"constitution",
-				"dexterity"
+				"constitución",
+				"destreza"
 			],
 			"miscTags": [
 				"DFT",
@@ -19169,7 +19167,7 @@
 			"entries": [
 				"You launch a sunbeam in a 5-foot-wide, 60-foot-long {@variantrule Line [Area of Effect]|XPHB|Line}. Each creature in the {@variantrule Line [Area of Effect]|XPHB|Line} makes a Constitution saving throw. On a failed save, a creature takes {@damage 6d8} Radiant damage and has the {@condition Cegado|XPHB} condition until the start of your next turn. On a successful save, it takes half as much damage only.",
 				"Until the spell ends, you can take a {@action Magic|XPHB} action to create a new {@variantrule Line [Area of Effect]|XPHB|Line} of radiance.",
-				"For the duration, a mote of brilliant radiance shines above you. It sheds {@variantrule Bright Light|XPHB} in a 30-foot radius and {@variantrule Dim Light|XPHB} for an additional 30 feet. This light is sunlight."
+				"For the duration, a mote of brilliant radiance shines above you. It sheds {@variantrule Luz brillante|XPHB} in a 30-foot radius and {@variantrule Luz tenue|XPHB} for an additional 30 feet. This light is sunlight."
 			],
 			"damageInflict": [
 				"radiant"
@@ -19178,7 +19176,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"LGTS"
@@ -19231,7 +19229,7 @@
 				"blinded"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"LGT",
@@ -19334,7 +19332,7 @@
 					"entries": [
 						"You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, common triggers include touching or stepping on the glyph, removing another object covering it, or approaching within a certain distance of it. For glyphs inscribed within an object, common triggers include opening that object or seeing the glyph.",
 						"You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.",
-						"Once triggered, the glyph glows, filling a 60-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} with {@variantrule Dim Light|XPHB} for 10 minutes, after which time the spell ends. Each creature in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} when the glyph activates is targeted by its effect, as is a creature that enters the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} for the first time on a turn or ends its turn there. A creature is targeted only once per turn."
+						"Once triggered, the glyph glows, filling a 60-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} with {@variantrule Luz tenue|XPHB} for 10 minutes, after which time the spell ends. Each creature in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} when the glyph activates is targeted by its effect, as is a creature that enters the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} for the first time on a turn or ends its turn there. A creature is targeted only once per turn."
 					]
 				},
 				{
@@ -19390,9 +19388,9 @@
 				"inconsciente"
 			],
 			"savingThrow": [
-				"constitution",
+				"constitución",
 				"sabiduría",
-				"intelligence"
+				"inteligencia"
 			],
 			"abilityCheck": [
 				"sabiduría"
@@ -19442,8 +19440,8 @@
 				"psychic"
 			],
 			"savingThrow": [
-				"intelligence",
-				"constitution"
+				"inteligencia",
+				"constitución"
 			],
 			"areaTags": [
 				"S"
@@ -19618,7 +19616,7 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"FMV",
@@ -20009,10 +20007,10 @@
 			]
 		},
 		{
-			"name": "Thorn Whip",
-			"originalname": "",
+			"name": "Látigo de espinas",
+			"originalname": "Thorn Whip",
 			"source": "XPHB",
-			"page": 333,
+			"page": 304,
 			"level": 0,
 			"school": "T",
 			"time": [
@@ -20031,7 +20029,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "the stem of a plant with thorns"
+				"m": "el tallo de una planta con espinas"
 			},
 			"duration": [
 				{
@@ -20039,7 +20037,7 @@
 				}
 			],
 			"entries": [
-				"You create a vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. On a hit, the target takes {@damage 1d6} Piercing damage, and if it is Large or smaller, you can pull it up to 10 feet closer to you."
+				"Creas un látigo similar a una enredadera cubierta de espinas que fustiga bajo tus órdenes a una criatura dentro del alcance. Haz un ataque de conjuro cuerpo a cuerpo contra el objetivo. Si acierta, el objetivo sufre {@damage 1d6} de daño perforante y, si es Grande o más pequeño, puedes arrastrarlo hasta 10 pies (3 m) hacia ti."
 			],
 			"entriesHigherLevel": [
 				{
@@ -20126,7 +20124,7 @@
 				"thunder"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SCL"
@@ -20182,7 +20180,7 @@
 				"prone"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"AAD",
@@ -20237,7 +20235,7 @@
 				"thunder"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"FMV",
@@ -20441,10 +20439,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Tree Stride",
-			"originalname": "",
+			"name": "Paso arbóreo",
+			"originalname": "Tree Stride",
 			"source": "XPHB",
-			"page": 335,
+			"page": 318,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -20476,8 +20474,8 @@
 				}
 			],
 			"entries": [
-				"You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.",
-				"You can use this transportation ability only once on each of your turns. You must end each turn outside a tree."
+				"Obtienes la capacidad de entrar en un árbol y moverte desde dentro al interior de otro árbol del mismo tipo que esté a 500 pies (150 m) o menos. Ambos árboles tienen que estar vivos y ser al menos del mismo tamaño que tú. Para entrar en un árbol debes gastar 5 pies (1,5 m) de movimiento. Al instante conoces la ubicación de todos los demás árboles del mismo tipo situados a 500 pies (150 m) o menos y, como parte del movimiento gastado para entrar en el árbol, puedes pasar al interior de uno de esos árboles o salir del árbol en el que estás. Apareces en un punto de tu elección a 5 pies (1,5 m) o menos del árbol de destino gastando otros 5 pies (1,5 m) de movimiento. Si no te queda movimiento, apareces a 5 pies (1,5 m) o menos del árbol en el que entraste.",
+				"Puedes usar esta capacidad de transporte solo una vez en cada uno de tus turnos y debes terminar cada turno fuera de un árbol."
 			],
 			"miscTags": [
 				"TP"
@@ -20765,10 +20763,10 @@
 				"bludgeoning"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"areaTags": [
 				"W"
@@ -20998,7 +20996,7 @@
 				"acid"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"S"
@@ -21060,7 +21058,7 @@
 				"fire"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"W"
@@ -21167,18 +21165,18 @@
 				"cold"
 			],
 			"savingThrow": [
-				"dexterity",
-				"constitution"
+				"destreza",
+				"constitución"
 			],
 			"areaTags": [
 				"W"
 			]
 		},
 		{
-			"name": "Wall of Stone",
-			"originalname": "",
+			"name": "Muro de piedra",
+			"originalname": "Wall of Stone",
 			"source": "XPHB",
-			"page": 339,
+			"page": 312,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -21199,7 +21197,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a cube of granite"
+				"m": "un cubo de granito"
 			},
 			"duration": [
 				{
@@ -21212,15 +21210,15 @@
 				}
 			],
 			"entries": [
-				"A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.",
-				"If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its {@variantrule Reaction|XPHB} to move up to its {@variantrule Speed|XPHB} so that it is no longer enclosed by the wall.",
-				"The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on a firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.",
-				"If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create battlements and the like.",
-				"The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 {@variantrule Hit Points|XPHB} per inch of thickness, and it has {@variantrule Immunity|XPHB} to Poison and Psychic damage. Reducing a panel to 0 {@variantrule Hit Points|XPHB} destroys it and might cause connected panels to collapse at the DM's discretion.",
-				"If you maintain your {@status Concentration|XPHB} on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends."
+				"Un muro no mágico de piedra sólida brota en un punto de tu elección dentro del alcance. Tiene 15 cm de grosor y está compuesto de 10 paneles de 10 por 10 pies (3 m por 3 m). Cada panel debe estar adyacente a otro panel. Como alternativa, puedes crear paneles de 10 por 20 pies (3 m por 6 m} cuyo grosor sea solo de 7,5 cm.",
+				"Al aparecer, si el muro atraviesa el espacio de una criatura, esta es empujada hacia un lado del muro (tú eliges cuál). Si una criatura fuera a quedar rodeada por todas partes por el muro (o por el muro y otra superficie sólida), puede hacer una tirada de salvación de Destreza. Si la supera, podrá usar su reacción para moverse hasta su velocidad y no quedar encerrada por el muro.",
+				"El muro puede adoptar la forma que desees, pero no puede ocupar el mismo espacio que una criatura o un objeto. El muro no tiene por qué ser vertical ni apoyarse en una base firme. Sin embargo, sí debe fundirse con alguna masa de piedra existente que lo sostenga firmemente. Así, podrías usar este conjuro para formar un puente que cruce una sima o para crear una rampa.",
+				"Si creas un muro que se extienda más de 20 pies (6 m), debes reducir a la mitad el tamaño de cada panel para crear soportes. Puedes moldear el muro de forma tosca para que tenga almenas y elementos similares.",
+				"El muro es un objeto hecho de piedra que se puede dañar y, por tanto, atravesar. Cada panel tiene una CA de 15, 30 puntos de golpe por cada 2,5 cm de grosor e inmunidad al daño psíquico y de veneno. Si los puntos de golpe de un panel se reducen a 0, se destruye, lo que podría provocar que los paneles conectados se derrumben, a discreción de tu DM.",
+				"Si mantienes la {@status concentration|XPHB} en este conjuro durante toda su duración, el muro se vuelve permanente y no se puede disipar. De lo contrario, desaparece en cuanto el conjuro termine."
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"miscTags": [
 				"OBJ",
@@ -21286,7 +21284,7 @@
 				"slashing"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"areaTags": [
 				"W"
@@ -21342,10 +21340,10 @@
 			]
 		},
 		{
-			"name": "Water Breathing",
-			"originalname": "",
+			"name": "Respirar bajo el agua",
+			"originalname": "Water Breathing",
 			"source": "XPHB",
-			"page": 340,
+			"page": 328,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -21366,7 +21364,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a short reed"
+				"m": "un junco corto"
 			},
 			"duration": [
 				{
@@ -21381,7 +21379,7 @@
 				"ritual": true
 			},
 			"entries": [
-				"This spell grants up to ten willing creatures of your choice within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration."
+				"Este conjuro concede a hasta diez criaturas voluntarias que elijas dentro del alcance la capacidad de respirar bajo el agua hasta que el conjuro termine. Las criaturas afectadas también conservan su modo de respiración normal."
 			],
 			"areaTags": [
 				"MT"
@@ -21437,10 +21435,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Web",
-			"originalname": "",
+			"name": "Telaraña",
+			"originalname": "Web",
 			"source": "XPHB",
-			"page": 340,
+			"page": 335,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -21461,7 +21459,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a bit of spiderweb"
+				"m": "un poco de tela de araña"
 			},
 			"duration": [
 				{
@@ -21474,11 +21472,11 @@
 				}
 			],
 			"entries": [
-				"You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} there for the duration. The webs are {@variantrule Difficult Terrain|XPHB}, and the area within them is {@variantrule Lightly Obscured|XPHB}.",
-				"If the webs aren't anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.",
-				"The first time a creature enters the webs on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the {@condition Apresado|XPHB} condition while in the webs or until it breaks free.",
-				"A creature {@condition Apresado|XPHB} by the webs can take an action to make a Strength ({@skill Athletics|XPHB}) check against your spell save DC. If it succeeds, it is no longer {@condition Apresado|XPHB}.",
-				"The webs are flammable. Any 5-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} of webs exposed to fire burns away in 1 round, dealing {@damage 2d4} Fire damage to any creature that starts its turn in the fire."
+				"Conjuras una masa de telarañas pegajosas en un punto dentro del alcance. Las telarañas ocupan un cubo de 20 pies (6 m) de lado en ese espacio hasta que el conjuro termine. Las telarañas son {@variantrule terreno difícil|XPHB} y su interior se considera {@variantrule ligeramente oscuro|XPHB}.",
+				"Si las telarañas no están ancladas entre dos objetos sólidos (como muros o árboles) o extendidas sobre un suelo, muro o techo, se vendrán abajo y el conjuro terminará al principio de tu siguiente turno. Las telarañas dispuestas sobre una superficie plana tienen una profundidad de 5 pies (1,5 m).",
+				"La primera vez que una criatura entre en las telarañas o termine su turno allí, deberá superar una tirada de salvación de Destreza o tendrá el estado de {@condition Apresado|XPHB|apresada} mientras permanezca en ellas o hasta que se libere.",
+				"Una criatura {@condition Apresado|XPHB|apresada} puede utilizar una acción para hacer una prueba de Fuerza ({@skill Atletismo|XPHB}) contra tu CD de salvación de conjuros. Si la supera, dejará de estar apresada.",
+				"Las telarañas son inflamables. Cualquier cubo de telarañas de 5 pies (1,5 m) de lado expuesto al fuego se quema por completo en 1 asalto y causa {@damage 2d4} de daño de fuego a cualquier criatura que comience su turno en el incendio."
 			],
 			"damageInflict": [
 				"fire"
@@ -21487,10 +21485,10 @@
 				"apresado"
 			],
 			"savingThrow": [
-				"dexterity"
+				"destreza"
 			],
 			"abilityCheck": [
-				"strength"
+				"fuerza"
 			],
 			"miscTags": [
 				"DFT",
@@ -21646,7 +21644,7 @@
 				"bludgeoning"
 			],
 			"savingThrow": [
-				"strength"
+				"fuerza"
 			],
 			"areaTags": [
 				"W"
@@ -21883,7 +21881,7 @@
 				"radiant"
 			],
 			"savingThrow": [
-				"constitution"
+				"constitución"
 			],
 			"miscTags": [
 				"SCL",

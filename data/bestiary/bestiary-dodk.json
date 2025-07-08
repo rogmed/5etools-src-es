@@ -378,7 +378,7 @@
 							"{@spell hypnotic pattern}"
 						],
 						"3": [
-							"{@spell lightning bolt}"
+							"{@spell relámpago}"
 						]
 					},
 					"ability": "cha"
@@ -1650,7 +1650,7 @@
 							"spells": [
 								"{@spell mage armor}",
 								"{@spell magic missile}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -1666,7 +1666,7 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell dispel magic}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -1674,7 +1674,7 @@
 							"spells": [
 								"{@spell banishment}",
 								"{@spell dimension door}",
-								"{@spell ice storm}"
+								"{@spell tormenta de hielo}"
 							]
 						},
 						"5": {
@@ -2008,10 +2008,10 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
+								"{@spell saber druídico}",
 								"{@spell mending}",
 								"{@spell poison spray}",
-								"{@spell produce flame}"
+								"{@spell crear llama}"
 							]
 						},
 						"1": {
@@ -2034,7 +2034,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell purge contamination|DoDk}*",
 								"{@spell sleet storm}"
 							]
@@ -2042,7 +2042,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell ice storm}",
+								"{@spell tormenta de hielo}",
 								"{@spell polymorph}",
 								"{@spell wall of fire}"
 							]
@@ -2051,7 +2051,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell commune with nature}",
-								"{@spell cone of cold}",
+								"{@spell cono de frío}",
 								"{@spell greater restoration}"
 							]
 						},
@@ -3485,7 +3485,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell nondetection}"
 							]
 						},
@@ -3499,7 +3499,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell tree stride} (works on buildings instead of trees)"
+								"{@spell paso arbóreo} (works on buildings instead of trees)"
 							]
 						}
 					},
@@ -4415,7 +4415,7 @@
 							"spells": [
 								"{@spell animate dead}",
 								"{@spell counterspell}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -4594,7 +4594,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell counterspell}",
-								"{@spell lightning bolt}",
+								"{@spell relámpago}",
 								"{@spell purge contamination|DoDk}*"
 							]
 						},
@@ -6174,7 +6174,7 @@
 						"1e": [
 							"{@spell augury}",
 							"{@spell burning hands}",
-							"{@spell conjure animals} (giant rats only)",
+							"{@spell conjurar animales} (giant rats only)",
 							"{@spell faerie fire}",
 							"{@spell invisibility}",
 							"{@spell misty step}"

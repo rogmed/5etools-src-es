@@ -4147,7 +4147,7 @@ Renderer.utils = class {
 
 		static _SCF_TYPE_TO_NAME = {
 			"arcane": "Arcane Focus",
-			"druid": "Druidic Focus",
+			"Druida": "Druidic Focus",
 			"holy": "Holy Symbol",
 		};
 		static _getHtml_spellcastingFocus ({v, isListMode, isTextOnly, styleHint}) {
@@ -4409,7 +4409,7 @@ Renderer.utils = class {
 				if (name) fauxEntry.name = name;
 				else {
 					if (tag === "@ability") fauxEntry.name = Parser.attAbvToFull(abil);
-					else if (tag === "@savingThrow") fauxEntry.name = `${Parser.attAbvToFull(abil)} save`;
+					else if (tag === "@savingThrow") fauxEntry.name = `Salvación de ${Parser.attAbvToFull(abil)}`;
 				}
 
 				const rawScoreOrMod = rawScoreOrModParts.join(" ");
@@ -9976,37 +9976,37 @@ Renderer.monster = class {
 				green: ["Rayo nauseabundo", "charm person", "detect thoughts", "invisibilidad", "suggestion"],
 				white: ["ice knife|XGE", "Snilloc's snowball swarm|XGE"],
 				brass: ["see invisibility", "magic mouth", "blindness/deafness", "Dormir", "detect thoughts"],
-				bronze: ["gust of wind", "misty step", "locate object", "blur", "witch bolt", "thunderwave", "escudo"],
+				bronze: ["ráfaga de viento", "misty step", "locate object", "contorno borroso", "witch bolt", "ola atronadora", "escudo"],
 				copper: ["knock", "Dormir", "detect thoughts", "blindness/deafness", "tasha's hideous laughter"],
 			},
 			3: {
-				blue: ["wall of sand|XGE", "thunder step|XGE", "lightning bolt", "blink", "Proyectil mágico", "slow"],
+				blue: ["wall of sand|XGE", "thunder step|XGE", "relámpago", "blink", "Proyectil mágico", "slow"],
 				red: ["fireball", "scorching ray", "haste", "erupting earth|XGE", "Aganazzar's scorcher|XGE"],
 				gold: ["slow", "fireball", "dispel magic", "counterspell", "Aganazzar's scorcher|XGE", "escudo"],
 				silver: ["sleet storm", "protection from energy", "catnap|XGE", "locate object", "identify", "Leomund's tiny hut"],
 			},
 			4: {
-				black: ["vitriolic sphere|XGE", "sickening radiance|XGE", "Evard's black tentacles", "blight", "hunger of Hadar"],
-				white: ["fire shield", "ice storm", "sleet storm"],
+				black: ["vitriolic sphere|XGE", "sickening radiance|XGE", "Evard's black tentacles", "marchitar", "hunger of Hadar"],
+				white: ["fire shield", "tormenta de hielo", "sleet storm"],
 				brass: ["charm monster|XGE", "sending", "wall of sand|XGE", "hypnotic pattern", "tongues"],
-				copper: ["polymorph", "greater invisibility", "confusion", "stinking cloud", "major image", "charm monster|XGE"],
+				copper: ["polimorfar", "greater invisibility", "confusion", "nube apestosa", "major image", "charm monster|XGE"],
 			},
 			5: {
-				blue: ["telekinesis", "hold monster", "dimension door", "wall of stone", "wall of force"],
+				blue: ["telekinesis", "hold monster", "dimension door", "muro de piedra", "wall of force"],
 				green: ["cloudkill", "charm monster|XGE", "modify memory", "mislead", "hallucinatory terrain", "dimension door"],
 				bronze: ["steel wind strike|XGE", "control winds|XGE", "watery sphere|XGE", "storm sphere|XGE", "tidal wave|XGE"],
 				gold: ["hold monster", "immolation|XGE", "wall of fire", "greater invisibility", "dimension door"],
-				silver: ["cone of cold", "ice storm", "teleportation circle", "skill empowerment|XGE", "creation", "Mordenkainen's private sanctum"],
+				silver: ["cono de frío", "tormenta de hielo", "teleportation circle", "skill empowerment|XGE", "creation", "Mordenkainen's private sanctum"],
 			},
 			6: {
-				white: ["cone of cold", "wall of ice"],
+				white: ["cono de frío", "wall of ice"],
 				brass: ["scrying", "Enlace telepático de Rary", "Otto's irresistible dance", "legend lore", "hold monster", "dream"],
 			},
 			7: {
 				black: ["power word pain|XGE", "finger of death", "disintegrate", "hold monster"],
 				blue: ["chain lightning", "forcecage", "teleport", "etherealness"],
 				green: ["project image", "mirage arcane", "prismatic spray", "teleport"],
-				bronze: ["whirlwind|XGE", "chain lightning", "scatter|XGE", "teleport", "disintegrate", "lightning bolt"],
+				bronze: ["whirlwind|XGE", "chain lightning", "scatter|XGE", "teleport", "disintegrate", "relámpago"],
 				copper: ["symbol", "simulacrum", "reverse gravity", "project image", "Bigby's hand", "mental prison|XGE", "seeming"],
 				silver: ["Otiluke's freezing sphere", "prismatic spray", "wall of ice", "contingency", "arcane gate"],
 			},
@@ -10022,7 +10022,7 @@ Renderer.monster = class {
 			2: {
 				black: ["blindness/deafness", "create or destroy water"],
 				green: ["invisibilidad", "speak with animals"],
-				white: ["gust of wind"],
+				white: ["ráfaga de viento"],
 				brass: ["create or destroy water", "speak with animals"],
 				bronze: ["beast sense", "detect thoughts", "speak with animals"],
 				copper: ["lesser restoration", "phantasmal force"],
@@ -10032,11 +10032,11 @@ Renderer.monster = class {
 				red: ["bane", "heat metal", "hypnotic pattern", "suggestion"],
 				gold: ["bless", "cure wounds", "slow", "suggestion", "zone of truth"],
 				silver: ["beacon of hope", "calm emotions", "hold person", "zone of truth"],
-				deep: ["command", "dissonant whispers", "faerie fire", "water breathing"],
+				deep: ["command", "dissonant whispers", "faerie fire", "respirar bajo el agua"],
 			},
 			4: {
 				black: ["blindness/deafness", "create or destroy water", "plant growth"],
-				white: ["gust of wind"],
+				white: ["ráfaga de viento"],
 				brass: ["create or destroy water", "speak with animals", "suggestion"],
 				copper: ["lesser restoration", "phantasmal force", "stone shape"],
 			},
@@ -10044,23 +10044,23 @@ Renderer.monster = class {
 				blue: ["arcane eye", "create or destroy water", "major image"],
 				red: ["bane", "dominate person", "heat metal", "hypnotic pattern", "suggestion"],
 				green: ["invisibilidad", "plant growth", "speak with animals"],
-				bronze: ["beast sense", "control water", "detect thoughts", "speak with animals"],
+				bronze: ["beast sense", "controlar agua", "detect thoughts", "speak with animals"],
 				gold: ["bless", "commune", "cure wounds", "geas", "slow", "suggestion", "zone of truth"],
-				silver: ["beacon of hope", "calm emotions", "hold person", "polymorph", "zone of truth"],
+				silver: ["beacon of hope", "calm emotions", "hold person", "polimorfar", "zone of truth"],
 			},
 			6: {
-				white: ["gust of wind", "ice storm"],
+				white: ["ráfaga de viento", "tormenta de hielo"],
 				brass: ["create or destroy water", "locate creature", "speak with animals", "suggestion"],
-				deep: ["command", "dissonant whispers", "faerie fire", "passwall", "water breathing"],
+				deep: ["command", "dissonant whispers", "faerie fire", "passwall", "respirar bajo el agua"],
 			},
 			7: {
-				black: ["blindness/deafness", "create or destroy water", "insect plague", "plant growth"],
+				black: ["blindness/deafness", "create or destroy water", "plaga de insectos", "plant growth"],
 				blue: ["arcane eye", "create or destroy water", "major image", "project image"],
 				red: ["bane", "dominate person", "heat metal", "hypnotic pattern", "power word stun", "suggestion"],
 				green: ["invisibilidad", "mass suggestion", "plant growth", "speak with animals"],
-				bronze: ["beast sense", "control water", "detect thoughts", "heroes' feast", "speak with animals"],
+				bronze: ["beast sense", "controlar agua", "detect thoughts", "heroes' feast", "speak with animals"],
 				copper: ["lesser restoration", "move earth", "phantasmal force", "stone shape"],
-				silver: ["beacon of hope", "calm emotions", "hold person", "polymorph", "teleport", "zone of truth"],
+				silver: ["beacon of hope", "calm emotions", "hold person", "polimorfar", "teleport", "zone of truth"],
 			},
 			8: {
 				gold: ["bless", "commune", "cure wounds", "geas", "plane shift", "slow", "suggestion", "word of recall", "zone of truth"],
@@ -10714,7 +10714,7 @@ Renderer.monster = class {
 				const colClass = i % 5 === 0
 					? "stats-tbl-ability-scores__lbl-abv"
 					: i % 5 === 4 ? "stats-tbl-ability-scores__lbl-spacer" : "stats-tbl-ability-scores__lbl-score";
-				return `<td class="${colClass}"><div class="ve-muted ve-text-center small-caps">${i % 5 === 2 ? "mod" : i % 5 === 3 ? "save" : ""}</div></td>`;
+				return `<td class="${colClass}"><div class="ve-muted ve-text-center small-caps">${i % 5 === 2 ? "mod." : i % 5 === 3 ? "salv." : ""}</div></td>`;
 			},
 		)
 			.join("");
@@ -12429,11 +12429,11 @@ Renderer.item = class {
 						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Warlock|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
-				if (item.scfType === "druid") {
+				if (item.scfType === "Druida") {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A {@class druid} can use such an object as a spellcasting focus."
-						: "Un canalizador druídico está tallado, atado con un lazo o pintado para canalizar la magia primigenia. Los {@class Druid|XPHB|druidas} o {@class Explorador|XPHB|exploradores} pueden utilizar estos objetos como canalizadores mágicos.";
+						: "Un canalizador druídico está tallado, atado con un lazo o pintado para canalizar la magia primigenia. Los {@class Druida|XPHB|druidas} o {@class Explorador|XPHB|exploradores} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 				if (item.scfType === "holy") {
@@ -12451,11 +12451,11 @@ Renderer.item = class {
 						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Warlock|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
-				if (item.scfType === "druid") {
+				if (item.scfType === "Druida") {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "A {@class druid} can use this object as a spellcasting focus."
-						: "Un canalizador druídico está tallado, atado con un lazo o pintado para canalizar la magia primigenia. Los {@class Druid|XPHB|druidas} o {@class Explorador|XPHB|exploradores} pueden utilizar estos objetos como canalizadores mágicos.";
+						: "Un canalizador druídico está tallado, atado con un lazo o pintado para canalizar la magia primigenia. Los {@class Druida|XPHB|druidas} o {@class Explorador|XPHB|exploradores} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 				if (item.scfType === "holy") {

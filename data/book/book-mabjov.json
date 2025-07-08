@@ -2696,7 +2696,7 @@
 												],
 												[
 													"71-75",
-													"{@item Wand of lightning bolts}",
+													"{@item Wand of relámpagos}",
 													"15,000 gp"
 												],
 												[
@@ -5058,7 +5058,7 @@
 														{
 															"type": "item",
 															"name": "Copper:",
-															"entry": "The egg must be coated in acid. This can be done with nonmagical acid once a day, or by using spells such as acid splash once a day."
+															"entry": "The egg must be coated in acid. This can be done with nonmagical acid once a day, or by using spells such as salpicadura ácida once a day."
 														},
 														{
 															"type": "item",

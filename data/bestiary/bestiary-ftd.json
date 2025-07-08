@@ -4956,7 +4956,7 @@
 				{
 					"name": "Rime Breath {@recharge 5}",
 					"entries": [
-						"The sea serpent exhales a 60-foot cone of cold. Each creature in that area must make a {@dc 18} Constitution saving throw, taking 49 ({@damage 9d10}) cold damage on a failed save, or half as much damage on a successful one."
+						"The sea serpent exhales a 60-foot cono de frío. Each creature in that area must make a {@dc 18} Constitution saving throw, taking 49 ({@damage 9d10}) cold damage on a failed save, or half as much damage on a successful one."
 					]
 				}
 			],
@@ -8675,7 +8675,7 @@
 						"1e": [
 							"{@spell enlarge/reduce}",
 							"{@spell invisibility}",
-							"{@spell stinking cloud}"
+							"{@spell nube apestosa}"
 						]
 					},
 					"ability": "cha",
@@ -9037,7 +9037,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The shard can move through creatures and objects as if they were {@quickref difficult terrain||3}. If it ends its turn inside an object, it takes 5 ({@damage 1d10}) force damage."
+						"The shard can move through creatures and objects as if they were {@quickref terreno difícil||3}. If it ends its turn inside an object, it takes 5 ({@damage 1d10}) force damage."
 					]
 				},
 				{
@@ -12257,7 +12257,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The ghost dragon can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The ghost dragon can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -17794,7 +17794,7 @@
 				{
 					"name": "Rime Breath {@recharge 5}",
 					"entries": [
-						"The sea serpent exhales a 30-foot cone of cold. Each creature in that area must make a {@dc 14} Constitution saving throw, taking 38 ({@damage 7d10}) cold damage on a failed save, or half as much damage on a successful one."
+						"The sea serpent exhales a 30-foot cono de frío. Each creature in that area must make a {@dc 14} Constitution saving throw, taking 38 ({@damage 7d10}) cold damage on a failed save, or half as much damage on a successful one."
 					]
 				}
 			],

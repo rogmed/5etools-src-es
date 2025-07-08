@@ -481,7 +481,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The octopus can breathe only underwater."
 					]
@@ -497,7 +497,7 @@
 			],
 			"traitTags": [
 				"Hold Breath",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"

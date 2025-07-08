@@ -718,7 +718,7 @@ Parser.stringToCasedSlug = function (str) {
 	return str.toAscii().replace(/[^\w ]+/g, "").replace(/ +/g, "-");
 };
 
-Parser.ITEM_SPELLCASTING_FOCUS_CLASSES = ["Artificer", "Bardo", "Clérigo", "Druid", "Paladin", "Explorador", "Hechicero", "Warlock", "Mago"];
+Parser.ITEM_SPELLCASTING_FOCUS_CLASSES = ["Artificer", "Bardo", "Clérigo", "Druida", "Paladin", "Explorador", "Hechicero", "Warlock", "Mago"];
 
 Parser.itemValueToFull = function (item, opts = {isShortForm: false, isSmallUnits: false}) {
 	return Parser._moneyToFull(item, "value", "valueMult", opts);
@@ -1801,7 +1801,7 @@ Parser.SP_MISC_TAG_TO_FULL = {
 	"UBA": "Uses Bonus Action",
 	"PS": "Plane Shifting",
 	"OBS": "Obscures Vision",
-	"DFT": "Difficult Terrain",
+	"DFT": "Terreno difícil",
 	"AAD": "Additional Attack Damage",
 	"OBJ": "Affects Objects",
 	"ADV": "Grants Advantage",

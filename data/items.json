@@ -402,7 +402,7 @@
 			"weight": 2,
 			"value": 1000,
 			"entries": [
-				"A Bullseye Lantern burns Oil as fuel to cast {@variantrule Bright Light|XPHB} in a 60-foot Cone and {@variantrule Dim Light|XPHB} for an additional 60 feet."
+				"A Bullseye Lantern burns Oil as fuel to cast {@variantrule Luz brillante|XPHB} in a 60-foot Cone and {@variantrule Luz tenue|XPHB} for an additional 60 feet."
 			],
 			"light": [
 				{
@@ -529,7 +529,7 @@
 			"rarity": "none",
 			"value": 1,
 			"entries": [
-				"For 1 hour, a lit Candle sheds {@variantrule Bright Light|XPHB} in a 5-foot radius and {@variantrule Dim Light|XPHB} for an additional 5 feet."
+				"For 1 hour, a lit Candle sheds {@variantrule Luz brillante|XPHB} in a 5-foot radius and {@variantrule Luz tenue|XPHB} for an additional 5 feet."
 			],
 			"light": [
 				{
@@ -1476,7 +1476,7 @@
 			"weight": 2,
 			"value": 500,
 			"entries": [
-				"A Hooded Lantern burns Oil as fuel to cast {@variantrule Bright Light|XPHB} in a 30-foot radius and {@variantrule Dim Light|XPHB} for an additional 30 feet. As a {@variantrule Acción adicional|XPHB}, you can lower the hood, reducing the light to {@variantrule Dim Light|XPHB} in a 5-foot radius, or raise it again."
+				"A Hooded Lantern burns Oil as fuel to cast {@variantrule Luz brillante|XPHB} in a 30-foot radius and {@variantrule Luz tenue|XPHB} for an additional 30 feet. As a {@variantrule Acción adicional|XPHB}, you can lower the hood, reducing the light to {@variantrule Luz tenue|XPHB} in a 5-foot radius, or raise it again."
 			],
 			"light": [
 				{
@@ -1699,7 +1699,7 @@
 			"weight": 1,
 			"value": 50,
 			"entries": [
-				"A Lamp burns {@item Aceite|XPHB} as fuel to cast {@variantrule Bright Light|XPHB} in a 15-foot radius and {@variantrule Dim Light|XPHB} for an additional 30 feet."
+				"A Lamp burns {@item Aceite|XPHB} as fuel to cast {@variantrule Luz brillante|XPHB} in a 15-foot radius and {@variantrule Luz tenue|XPHB} for an additional 30 feet."
 			],
 			"light": [
 				{
@@ -2658,7 +2658,7 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"type": "SCF|XPHB",
-			"scfType": "druid",
+			"scfType": "Druida",
 			"rarity": "none",
 			"value": 100
 		},
@@ -3486,7 +3486,7 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"type": "SCF|XPHB",
-			"scfType": "druid",
+			"scfType": "Druida",
 			"rarity": "none",
 			"weight": 1,
 			"value": 1000
@@ -3548,10 +3548,10 @@
 			"source": "XPHB",
 			"page": 225,
 			"type": "SCF|XPHB",
-			"scfType": "druid",
+			"scfType": "Druida",
 			"rarity": "none",
 			"focus": [
-				"Druid"
+				"Druida"
 			],
 			"items": [
 				"Sprig of mistletoe|XPHB",

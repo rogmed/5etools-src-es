@@ -436,7 +436,7 @@
 													"{@deity Kord|dawn war|dmg}, god of strength and storms",
 													"CN",
 													"Tempest",
-													"Sword with a lightning bolt cross guard"
+													"Sword with a relámpago cross guard"
 												],
 												[
 													"{@deity Lolth|dawn war|dmg}, goddess of spiders and lies",
@@ -2692,7 +2692,7 @@
 							"page": 37,
 							"entries": [
 								"By the time they reach this tier, adventurers have mastered the basics of their class features, though they continue to improve throughout these levels. They have found their place in the world and have begun to involve themselves in the dangers that surround them.",
-								"Dedicated spellcasters learn 3rd-level spells at the start of this tier. Suddenly characters can fly, damage large numbers of foes with {@spell fireball} and {@spell lightning bolt} spells, and even breathe underwater. They master 5th-level spells by the end of the tier, and spells such as {@spell teleportation circle}, {@spell scrying}, {@spell flame strike}, {@spell legend lore}, and {@spell raise dead} can have a significant impact on their adventures. They start acquiring more permanent magic items (uncommon and rare ones) as well, which will serve them for the rest of their careers.",
+								"Dedicated spellcasters learn 3rd-level spells at the start of this tier. Suddenly characters can fly, damage large numbers of foes with {@spell fireball} and {@spell relámpago} spells, and even breathe underwater. They master 5th-level spells by the end of the tier, and spells such as {@spell teleportation circle}, {@spell scrying}, {@spell flame strike}, {@spell legend lore}, and {@spell raise dead} can have a significant impact on their adventures. They start acquiring more permanent magic items (uncommon and rare ones) as well, which will serve them for the rest of their careers.",
 								"The fate of a region might depend on the adventures that characters of levels 5 to 10 undertake. These adventurers venture into fearsome wilds and ancient ruins, where they confront savage giants, ferocious hydras, fearless golems, evil yuan-ti, scheming devils, bloodthirsty demons, crafty mind flayers, and drow assassins. They might have a chance of defeating a young dragon that has established a lair but not yet extended its reach far into the surrounding territory."
 							],
 							"id": "09a"
@@ -4579,7 +4579,7 @@
 											"name": "Cania",
 											"page": 65,
 											"entries": [
-												"Cania, the eighth layer of the Nine Hells, is an icy hellscape, whose ice storms can tear flesh from bone. Cities embedded in the ice provide shelter for guests and prisoners of Cania's ruler, the brilliant and conniving archdevil Mephistopheles.",
+												"Cania, the eighth layer of the Nine Hells, is an icy hellscape, whose tormenta de hielos can tear flesh from bone. Cities embedded in the ice provide shelter for guests and prisoners of Cania's ruler, the brilliant and conniving archdevil Mephistopheles.",
 												"Mephistopheles dwells in the ice citadel of Mephistar, where he plots to seize the Throne of Baator and conquer the planes. He is Asmodeus's greatest enemy and ally, and the Archduke of Nessus appears to trust Mephistopheles's counsel when it is offered.",
 												"Mephistopheles knows he can't depose Asmodeus until his adversary makes a grave miscalculation, and so both wait to see what circumstances might turn them against each other. Mephistopheles is also a godfather of sorts to Glasya, further complicating the relationship.",
 												"Mephistopheles is a tall, striking devil with impressive horns and a cool demeanor. He trades in souls, as do other archdevils, but he rarely gives his time to any creatures not worthy of his personal attention. His instincts are as razor sharp as Cania's frigid winds, and it is said that only Asmodeus has ever deceived or thwarted him."
@@ -8666,7 +8666,7 @@
 								[
 									"",
 									"1",
-									"Blight"
+									"Marchitar"
 								],
 								[
 									"",
@@ -9784,7 +9784,7 @@
 												],
 												[
 													"5",
-													"Druid"
+													"Druida"
 												],
 												[
 													"6-7",
@@ -10745,7 +10745,7 @@
 									"name": "Slippery Ice",
 									"page": 110,
 									"entries": [
-										"Slippery ice is {@quickref difficult terrain||3}. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a {@dc 10} Dexterity ({@skill Acrobatics}) check or fall {@condition prone}."
+										"Slippery ice is {@quickref terreno difícil||3}. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a {@dc 10} Dexterity ({@skill Acrobatics}) check or fall {@condition prone}."
 									],
 									"id": "1de"
 								},
@@ -16621,7 +16621,7 @@
 										],
 										[
 											"96",
-											"{@item Wand of lightning bolts}"
+											"{@item Wand of relámpagos}"
 										],
 										[
 											"97",
@@ -19537,7 +19537,7 @@
 										]
 									]
 								},
-								"For example, if a wizard directs burning hands (a 15-foot cone) at a nearby group of orcs, you could use the table and say that two orcs are targeted (15 ÷ 10 = 1.5, rounded up to 2). Similarly, a hechicero could launch a lightning bolt (100-foot line) at some ogres and hobgoblins, and you could use the table to say four of the monsters are targeted (100 ÷ 30 = 3.33, rounded up to 4).",
+								"For example, if a wizard directs burning hands (a 15-foot cone) at a nearby group of orcs, you could use the table and say that two orcs are targeted (15 ÷ 10 = 1.5, rounded up to 2). Similarly, a hechicero could launch a relámpago (100-foot line) at some ogres and hobgoblins, and you could use the table to say four of the monsters are targeted (100 ÷ 30 = 3.33, rounded up to 4).",
 								"This approach aims at simplicity instead of spatial precision. If you prefer more tactical nuance, consider using miniatures."
 							],
 							"id": "2db"
@@ -19963,11 +19963,11 @@
 									"rows": [
 										[
 											"1",
-											"A large obstacle such as a horse or cart blocks your way. Make a {@dc 15} Dexterity ({@skill Acrobatics}) check to get past the obstacle. On a failed check, the obstacle counts as 10 feet of {@quickref difficult terrain||3}."
+											"A large obstacle such as a horse or cart blocks your way. Make a {@dc 15} Dexterity ({@skill Acrobatics}) check to get past the obstacle. On a failed check, the obstacle counts as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"2",
-											"A crowd blocks your way. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to make your way through the crowd unimpeded. On a failed check, the crowd counts as 10 feet of {@quickref difficult terrain||3}."
+											"A crowd blocks your way. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to make your way through the crowd unimpeded. On a failed check, the crowd counts as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"3",
@@ -19975,7 +19975,7 @@
 										],
 										[
 											"4",
-											"A maze of barrels, crates, or similar obstacles stands in your way. Make a {@dc 10} Dexterity ({@skill Acrobatics}) or Intelligence check (your choice) to navigate the maze. On a failed check, the maze counts as 10 feet of {@quickref difficult terrain||3}."
+											"A maze of barrels, crates, or similar obstacles stands in your way. Make a {@dc 10} Dexterity ({@skill Acrobatics}) or Intelligence check (your choice) to navigate the maze. On a failed check, the maze counts as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"5",
@@ -19983,15 +19983,15 @@
 										],
 										[
 											"6",
-											"You come upon a pack of dogs fighting over food. Make a {@dc 10} Dexterity ({@skill Acrobatics}) check to get through the pack unimpeded. On a failed check, you are bitten and take {@dice 1d4} piercing damage, and the dogs count as 5 feet of {@quickref difficult terrain||3}."
+											"You come upon a pack of dogs fighting over food. Make a {@dc 10} Dexterity ({@skill Acrobatics}) check to get through the pack unimpeded. On a failed check, you are bitten and take {@dice 1d4} piercing damage, and the dogs count as 5 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"7",
-											"You run into a brawl in progress. Make a {@dc 15} Strength ({@skill Athletics}), Dexterity ({@skill Acrobatics}), or Charisma ({@skill Intimidation}) check (your choice) to get past the brawlers unimpeded. On a failed check, you take {@dice 2d4} bludgeoning damage, and the brawlers count as 10 feet of {@quickref difficult terrain||3}."
+											"You run into a brawl in progress. Make a {@dc 15} Strength ({@skill Athletics}), Dexterity ({@skill Acrobatics}), or Charisma ({@skill Intimidation}) check (your choice) to get past the brawlers unimpeded. On a failed check, you take {@dice 2d4} bludgeoning damage, and the brawlers count as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"8",
-											"A beggar blocks your way. Make a {@dc 10} Strength ({@skill Athletics}), Dexterity ({@skill Acrobatics}), or Charisma ({@skill Intimidation}) check (your choice) to slip past the beggar. You succeed automatically if you toss the beggar a coin. On a failed check, the beggar counts as 5 feet of {@quickref difficult terrain||3}."
+											"A beggar blocks your way. Make a {@dc 10} Strength ({@skill Athletics}), Dexterity ({@skill Acrobatics}), or Charisma ({@skill Intimidation}) check (your choice) to slip past the beggar. You succeed automatically if you toss the beggar a coin. On a failed check, the beggar counts as 5 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"9",
@@ -20021,11 +20021,11 @@
 									"rows": [
 										[
 											"1",
-											"Your path takes you through a rough patch of brush. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to get past the brush. On a failed check, the brush counts as 5 feet of {@quickref difficult terrain||3}."
+											"Your path takes you through a rough patch of brush. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to get past the brush. On a failed check, the brush counts as 5 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"2",
-											"Uneven ground threatens to slow your progress. Make a {@dc 10} Dexterity ({@skill Acrobatics}) check to navigate the area. On a failed check, the ground counts as 10 feet of {@quickref difficult terrain||3}."
+											"Uneven ground threatens to slow your progress. Make a {@dc 10} Dexterity ({@skill Acrobatics}) check to navigate the area. On a failed check, the ground counts as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"3",
@@ -20033,7 +20033,7 @@
 										],
 										[
 											"4",
-											"A stream, ravine, or rock bed blocks your path. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to cross the impediment. On a failed check, the impediment counts as 10 feet of {@quickref difficult terrain||3}."
+											"A stream, ravine, or rock bed blocks your path. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to cross the impediment. On a failed check, the impediment counts as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"5",
@@ -21169,7 +21169,7 @@
 									"entries": [
 										"As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.",
 										"Each creature within 20 feet of an exploding fragmentation grenade must make a {@dc 15} Dexterity saving throw, taking {@dice 5d6} piercing damage on a failed save, or half as much damage on a successful one.",
-										"One round after a smoke grenade lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round."
+										"One round after a smoke grenade lands, it emits a cloud of smoke that creates a muy oscuro area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round."
 									],
 									"id": "32f"
 								},
@@ -23456,7 +23456,7 @@
 											"Increase the monster's effective hit points based on the expected challenge rating: 1-4, 7 hp: 5-10, 14 hp: 11-16, 21 hp: 17 or higher, 28 hp."
 										],
 										[
-											"Web",
+											"Telaraña",
 											"{@creature Giant spider}",
 											"Increase the monster's effective AC by 1."
 										],
@@ -24082,7 +24082,7 @@
 										"Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of spell points instead. You expend a number of spell points to create a spell slot of a given level, and then use that slot to cast a spell. You can't reduce your spell points total to less than 0, and you regain all spent spell points when you finish a long rest.",
 										"Spells of 6th level and higher are particularly taxing to cast. You can use spell points to create one slot of each level of 6th or higher. You can't create another slot of the same level until you finish a long rest.",
 										"The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.",
-										"The Spell Points by Level table applies to {@class bard||bards}, {@class cleric||clerics}, {@class druid||druids}, {@class hechicero||hechiceros}, and {@class wizard||wizards}. For a {@class paladin} or {@class ranger}, halve the character's level in that class and then consult the table. For a {@class fighter|phb|fighter (Eldritch Knight)|Eldritch Knight} or {@class rogue|phb|rogue (Arcane Trickster)|Arcane Trickster}, divide the character's level in that class by three.",
+										"The Spell Points by Level table applies to {@class bard||bards}, {@class cleric||clerics}, {@class Druida||druids}, {@class hechicero||hechiceros}, and {@class wizard||wizards}. For a {@class paladin} or {@class ranger}, halve the character's level in that class and then consult the table. For a {@class fighter|phb|fighter (Eldritch Knight)|Eldritch Knight} or {@class rogue|phb|rogue (Arcane Trickster)|Arcane Trickster}, divide the character's level in that class by three.",
 										"This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.",
 										{
 											"type": "table",
@@ -26447,7 +26447,7 @@
 										],
 										[
 											"85-88",
-											"{@spell Thunderwave} knocks characters into a pit or spikes"
+											"{@spell Ola atronadora} knocks characters into a pit or spikes"
 										],
 										[
 											"89-91",

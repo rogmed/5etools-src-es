@@ -513,7 +513,7 @@
 							"mass healing word"
 						],
 						"13": [
-							"blight",
+							"marchitar",
 							"death ward"
 						],
 						"17": [
@@ -544,7 +544,7 @@
 					"prepared": {
 						"3": [
 							"Proyectil mágico",
-							"thunderwave"
+							"ola atronadora"
 						],
 						"5": [
 							"Imagen múltiple",
@@ -552,7 +552,7 @@
 						],
 						"9": [
 							"hypnotic pattern",
-							"lightning bolt"
+							"relámpago"
 						],
 						"13": [
 							"fire shield",
@@ -592,7 +592,7 @@
 					"prepared": {
 						"3": [
 							"escudo",
-							"thunderwave"
+							"ola atronadora"
 						],
 						"5": [
 							"scorching ray",
@@ -603,11 +603,11 @@
 							"wind wall"
 						],
 						"13": [
-							"ice storm",
+							"tormenta de hielo",
 							"wall of fire"
 						],
 						"17": [
-							"cone of cold",
+							"cono de frío",
 							"wall of force"
 						]
 					}
@@ -1258,7 +1258,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell healing word}, {@spell ray of sickness}"
+							"{@spell healing word}, {@spell rayo nauseabundo}"
 						],
 						[
 							"5th",
@@ -1654,7 +1654,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell magic missile}, {@spell thunderwave}"
+							"{@spell magic missile}, {@spell ola atronadora}"
 						],
 						[
 							"5th",
@@ -1662,7 +1662,7 @@
 						],
 						[
 							"9th",
-							"{@spell hypnotic pattern}, {@spell lightning bolt}"
+							"{@spell hypnotic pattern}, {@spell relámpago}"
 						],
 						[
 							"13th",
@@ -1837,7 +1837,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell shield}, {@spell thunderwave}"
+							"{@spell shield}, {@spell ola atronadora}"
 						],
 						[
 							"5th",
@@ -1849,11 +1849,11 @@
 						],
 						[
 							"13th",
-							"{@spell ice storm}, {@spell wall of fire}"
+							"{@spell tormenta de hielo}, {@spell wall of fire}"
 						],
 						[
 							"17th",
-							"{@spell cone of cold}, {@spell wall of force}"
+							"{@spell cono de frío}, {@spell wall of force}"
 						]
 					]
 				}

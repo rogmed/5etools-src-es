@@ -1869,7 +1869,7 @@
 			"effects": [
 				{
 					"foundryId": "giftOfTheDepths",
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"duration": {
 						"seconds": 86400
 					}

@@ -626,7 +626,7 @@
 									"page": 15,
 									"id": "02a",
 									"entries": [
-										"If your spells or class features draw on elemental forces or the magic of the land, you might use a connection to giants to tap into that power. A druid belonging to the {@class Druid||Circle of the Land|Land} might feel a connection to the giants who inhabit that land. A monk who follows the {@class Monje||Way of the Four Elements|Four Elements} might seek to emulate Annam, the All-Father, to shape and channel the forces of the Elemental Chaos."
+										"If your spells or class features draw on elemental forces or the magic of the land, you might use a connection to giants to tap into that power. A druid belonging to the {@class Druida||Círculo de la tierra|Land} might feel a connection to the giants who inhabit that land. A monk who follows the {@class Monje||Way of the Four Elements|Four Elements} might seek to emulate Annam, the All-Father, to shape and channel the forces of the Elemental Chaos."
 									]
 								},
 								{
@@ -1767,7 +1767,7 @@
 									"Stronmaus",
 									"NG",
 									"{@class Cleric||Vida|Life}, {@class Cleric||Tempest|Tempest}",
-									"Forked lightning bolt descending from a cloud partly obscuring the sun"
+									"Forked relámpago descending from a cloud partly obscuring the sun"
 								],
 								[
 									"Surtur",
@@ -4418,7 +4418,7 @@
 										{
 											"type": "item",
 											"name": "Oversized Furnishing and Objects",
-											"entry": "Furnishings and other items in a location made for Huge giants are typically three times the size of human-sized equivalents and roughly twenty-seven times the weight. Medium and smaller creatures can clamber over or scuttle under giant-sized furniture, treating it as {@book difficult terrain|PHB|8|Difficult Terrain}. Such creatures can move normally beneath particularly hefty pieces of giant furniture, such as a 12-foot-tall dining table."
+											"entry": "Furnishings and other items in a location made for Huge giants are typically three times the size of human-sized equivalents and roughly twenty-seven times the weight. Medium and smaller creatures can clamber over or scuttle under giant-sized furniture, treating it as {@book terreno difícil|PHB|8|Difficult Terrain}. Such creatures can move normally beneath particularly hefty pieces of giant furniture, such as a 12-foot-tall dining table."
 										},
 										{
 											"type": "item",
@@ -6058,7 +6058,7 @@
 										{
 											"type": "item",
 											"name": "Spellcasting",
-											"entry": "While on the Howling Iceberg, a creature attuned to the shard can cast the {@spell control weather} (to lower the temperature and manipulate wind only), {@spell cone of cold}, {@spell fear}, and {@spell gust of wind} spells (spell save {@dc 17}), requiring no material components. Once the creature uses this property to cast a spell, the creature can't cast that spell with the property again until it finishes a long rest."
+											"entry": "While on the Howling Iceberg, a creature attuned to the shard can cast the {@spell control weather} (to lower the temperature and manipulate wind only), {@spell cono de frío}, {@spell fear}, and {@spell ráfaga de viento} spells (spell save {@dc 17}), requiring no material components. Once the creature uses this property to cast a spell, the creature can't cast that spell with the property again until it finishes a long rest."
 										},
 										{
 											"type": "item",
@@ -6304,7 +6304,7 @@
 										{
 											"type": "item",
 											"name": "Foggy Border",
-											"entry": "The edges of the valley are {@book heavily obscured|PHB|8|Vision and Light} by fog, which thins to {@book lightly obscuring|PHB|8|Vision and Light} mist in the valley itself."
+											"entry": "The edges of the valley are {@book muy oscuro|PHB|8|Vision and Light} by fog, which thins to {@book lightly obscuring|PHB|8|Vision and Light} mist in the valley itself."
 										},
 										{
 											"type": "item",
@@ -7606,7 +7606,7 @@
 							"page": 108,
 							"id": "15d",
 							"entries": [
-								"With their disposition toward divination, many storm giants are inclined to be superstitious, constantly searching the world for omens. They often carry a multitude of talismans and charms whose nature reflects the storm giant's home. A storm giant who lives in the sea might employ special kelp and shells for divination. A storm giant who spends more time in the sky might view lightning as a harbinger of good fortune and collect talismans made from objects struck by lightning or items that resemble lightning bolts.",
+								"With their disposition toward divination, many storm giants are inclined to be superstitious, constantly searching the world for omens. They often carry a multitude of talismans and charms whose nature reflects the storm giant's home. A storm giant who lives in the sea might employ special kelp and shells for divination. A storm giant who spends more time in the sky might view lightning as a harbinger of good fortune and collect talismans made from objects struck by lightning or items that resemble relámpagos.",
 								{
 									"type": "entries",
 									"name": "Storm Giant Bag Contents",

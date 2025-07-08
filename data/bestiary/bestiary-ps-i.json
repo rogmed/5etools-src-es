@@ -393,7 +393,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The geist can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The geist can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -604,8 +604,8 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell druidcraft}",
-								"{@spell produce flame}",
+								"{@spell saber druídico}",
+								"{@spell crear llama}",
 								"{@spell shillelagh}"
 							]
 						},
@@ -615,7 +615,7 @@
 								"{@spell entangle}",
 								"{@spell longstrider}",
 								"{@spell speak with animals}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -1184,13 +1184,13 @@
 									"slots": 3,
 									"spells": [
 										"{@spell greater invisibility}",
-										"{@spell ice storm}"
+										"{@spell tormenta de hielo}"
 									]
 								},
 								"5": {
 									"slots": 1,
 									"spells": [
-										"{@spell cone of cold}"
+										"{@spell cono de frío}"
 									]
 								}
 							},
@@ -1358,13 +1358,13 @@
 									"slots": 3,
 									"spells": [
 										"{@spell greater invisibility}",
-										"{@spell ice storm}"
+										"{@spell tormenta de hielo}"
 									]
 								},
 								"5": {
 									"slots": 1,
 									"spells": [
-										"{@spell cone of cold}"
+										"{@spell cono de frío}"
 									]
 								}
 							},

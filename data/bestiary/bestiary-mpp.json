@@ -2064,7 +2064,7 @@
 				{
 					"name": "Lightning Rays {@recharge}",
 					"entries": [
-						"The decaton unleashes a barrage of lightning bolts from its eyes. Each creature within 30 feet of the decaton must make a {@dc 13} Dexterity saving throw, taking 38 ({@damage 7d10}) lightning damage on a failed save, or half as much damage on a successful save."
+						"The decaton unleashes a barrage of relámpagos from its eyes. Each creature within 30 feet of the decaton must make a {@dc 13} Dexterity saving throw, taking 38 ({@damage 7d10}) lightning damage on a failed save, or half as much damage on a successful save."
 					]
 				}
 			],

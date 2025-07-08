@@ -806,7 +806,7 @@ export class TraitActionTag {
 
 			"immutable form": "Immutable Form",
 
-			"tree stride": "Tree Stride",
+			"paso arbóreo": "Paso arbóreo",
 
 			"unusual nature": "Unusual Nature",
 

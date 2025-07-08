@@ -1267,7 +1267,7 @@
 							"silence"
 						],
 						"s3": [
-							"lightning bolt",
+							"relámpago",
 							"sleet storm"
 						],
 						"s4": [
@@ -2998,7 +2998,7 @@
 							"rows": [
 								[
 									"1st",
-									"{@spell false life}, {@spell ray of sickness}"
+									"{@spell false life}, {@spell rayo nauseabundo}"
 								],
 								[
 									"2nd",
@@ -3127,7 +3127,7 @@
 								],
 								[
 									"3rd",
-									"{@spell lightning bolt}, {@spell sleet storm}"
+									"{@spell relámpago}, {@spell sleet storm}"
 								],
 								[
 									"4th",

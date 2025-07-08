@@ -9980,7 +9980,7 @@ Renderer.monster = class {
 				copper: ["knock", "Dormir", "detect thoughts", "blindness/deafness", "tasha's hideous laughter"],
 			},
 			3: {
-				blue: ["wall of sand|XGE", "thunder step|XGE", "lightning bolt", "blink", "Proyectil mágico", "slow"],
+				blue: ["wall of sand|XGE", "thunder step|XGE", "relámpago", "blink", "Proyectil mágico", "slow"],
 				red: ["fireball", "scorching ray", "haste", "erupting earth|XGE", "Aganazzar's scorcher|XGE"],
 				gold: ["slow", "fireball", "dispel magic", "counterspell", "Aganazzar's scorcher|XGE", "escudo"],
 				silver: ["sleet storm", "protection from energy", "catnap|XGE", "locate object", "identify", "Leomund's tiny hut"],
@@ -10006,7 +10006,7 @@ Renderer.monster = class {
 				black: ["power word pain|XGE", "finger of death", "disintegrate", "hold monster"],
 				blue: ["chain lightning", "forcecage", "teleport", "etherealness"],
 				green: ["project image", "mirage arcane", "prismatic spray", "teleport"],
-				bronze: ["whirlwind|XGE", "chain lightning", "scatter|XGE", "teleport", "disintegrate", "lightning bolt"],
+				bronze: ["whirlwind|XGE", "chain lightning", "scatter|XGE", "teleport", "disintegrate", "relámpago"],
 				copper: ["symbol", "simulacrum", "reverse gravity", "project image", "Bigby's hand", "mental prison|XGE", "seeming"],
 				silver: ["Otiluke's freezing sphere", "prismatic spray", "wall of ice", "contingency", "arcane gate"],
 			},

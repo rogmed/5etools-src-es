@@ -663,7 +663,7 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -1090,7 +1090,7 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -2131,7 +2131,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 22}, {@hit 14} to hit with spell attacks). He can cast {@spell disguise self} and {@spell invisibility} at will. He can cast {@spell fly} and {@spell lightning bolt} once each without expending a spell slot, but can't do so again until he finishes a short or long rest. Halaster has the following wizard spells prepared:"
+						"Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 22}, {@hit 14} to hit with spell attacks). He can cast {@spell disguise self} and {@spell invisibility} at will. He can cast {@spell fly} and {@spell relámpago} once each without expending a spell slot, but can't do so again until he finishes a short or long rest. Halaster has the following wizard spells prepared:"
 					],
 					"will": [
 						"{@spell disguise self}",
@@ -2140,7 +2140,7 @@
 					"daily": {
 						"1": [
 							"{@spell fly}",
-							"{@spell lightning bolt}"
+							"{@spell relámpago}"
 						]
 					},
 					"spells": {
@@ -2840,7 +2840,7 @@
 								"{@spell bane}",
 								"{@spell command}",
 								"{@spell inflict wounds}",
-								"{@spell ray of sickness}"
+								"{@spell rayo nauseabundo}"
 							]
 						},
 						"2": {
@@ -3606,7 +3606,7 @@
 							"spells": [
 								"{@spell animate dead}",
 								"{@spell counterspell}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -4608,7 +4608,7 @@
 				{
 					"name": "Lightning Turret",
 					"entries": [
-						"The turret shoots a magical lightning bolt at one creature within 60 feet of Shockerstomper. The target must make a {@dc 15} Dexterity saving throw, taking 44 ({@damage 8d10}) lightning damage on a failed save, or half as much damage on a successful one."
+						"The turret shoots a magical relámpago at one creature within 60 feet of Shockerstomper. The target must make a {@dc 15} Dexterity saving throw, taking 44 ({@damage 8d10}) lightning damage on a failed save, or half as much damage on a successful one."
 					]
 				},
 				{
@@ -5066,7 +5066,7 @@
 						"3": {
 							"slots": 1,
 							"spells": [
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						}
 					},

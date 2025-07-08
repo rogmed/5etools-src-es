@@ -123,7 +123,7 @@
 						},
 						"1": {
 							"spells": [
-								"{@spell ray of sickness}",
+								"{@spell rayo nauseabundo}",
 								"{@spell shield}"
 							]
 						},
@@ -6090,7 +6090,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell mage hand}",
 								"{@spell minor illusion}",
 								"{@spell prestidigitation}"
@@ -6117,7 +6117,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dispel magic}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -6288,7 +6288,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell fire bolt}",
 								"{@spell light}",
 								"{@spell mage hand}",

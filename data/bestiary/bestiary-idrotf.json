@@ -1794,14 +1794,14 @@
 							"hidden": true
 						},
 						{
-							"entry": "{@spell Acid Splash}",
+							"entry": "{@spell Salpicadura ácida}",
 							"hidden": true
 						}
 					],
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash} *",
+								"{@spell salpicadura ácida} *",
 								"{@spell light}",
 								"{@spell minor illusion}",
 								"{@spell shocking grasp} *"
@@ -1918,7 +1918,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}*",
+								"{@spell salpicadura ácida}*",
 								"{@spell light}",
 								"{@spell minor illusion}",
 								"{@spell shocking grasp}*"
@@ -1955,7 +1955,7 @@
 					]
 				},
 				{
-					"name": "Acid Splash (Cantrip)",
+					"name": "Salpicadura ácida (Cantrip)",
 					"entries": [
 						"The simulacrum hurls a bubble of acid at one creature it can see within 60 feet of it, or at two such creatures that are within 5 feet of each other. A target must succeed on a {@dc 13} Dexterity saving throw or take 7 ({@damage 2d6}) acid damage."
 					]
@@ -2507,7 +2507,7 @@
 				{
 					"name": "Static Discharge {@recharge 5}",
 					"entries": [
-						"The magen discharges a lightning bolt in a 60-foot line that is 5 feet wide. Each creature in that line must make a {@dc 14} Dexterity saving throw (with disadvantage if the creature is wearing armor made of metal), taking 22 ({@damage 4d10}) lightning damage on a failed save, or half as much damage on a successful one."
+						"The magen discharges a relámpago in a 60-foot line that is 5 feet wide. Each creature in that line must make a {@dc 14} Dexterity saving throw (with disadvantage if the creature is wearing armor made of metal), taking 22 ({@damage 4d10}) lightning damage on a failed save, or half as much damage on a successful one."
 					]
 				}
 			],
@@ -5549,7 +5549,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell counterspell}",
-								"{@spell lightning bolt}*"
+								"{@spell relámpago}*"
 							]
 						}
 					},
@@ -6746,7 +6746,7 @@
 							"spells": [
 								"{@spell comprehend languages}",
 								"{@spell detect magic}",
-								"{@spell ray of sickness}",
+								"{@spell rayo nauseabundo}",
 								"{@spell Tasha's hideous laughter}"
 							]
 						},

@@ -1024,7 +1024,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell fast friends|AI}*",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -2181,7 +2181,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell light}",
 								"{@spell mage hand}",
 								"{@spell poison spray}",

@@ -58,7 +58,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell Lightning Bolt|XPHB}"
+							"{@spell Relámpago|XPHB}"
 						]
 					},
 					"ability": "wis",
@@ -6618,7 +6618,7 @@
 					"daily": {
 						"2e": [
 							"{@spell Fly|XPHB}",
-							"{@spell Lightning Bolt|XPHB} (level 7 version)"
+							"{@spell Relámpago|XPHB} (level 7 version)"
 						],
 						"1e": [
 							"{@spell Cono de frío|XPHB} (level 9 version)",
@@ -10935,7 +10935,7 @@
 						"1e": [
 							"{@spell Orden imperiosa|XPHB}",
 							"{@spell Detectar pensamientos|XPHB}",
-							"{@spell Lightning Bolt|XPHB}"
+							"{@spell Relámpago|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -11971,7 +11971,7 @@
 					"will": [
 						"{@spell Luces danzantes|XPHB}",
 						"{@spell Saber druídico|XPHB}",
-						"{@spell Ray of Sickness|XPHB}"
+						"{@spell Rayo nauseabundo|XPHB}"
 					],
 					"daily": {
 						"1e": [
@@ -12001,7 +12001,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The bullywug makes two Bog Staff attacks. It can replace any attack with a use of Spellcasting to cast {@spell Ray of Sickness|XPHB}."
+						"The bullywug makes two Bog Staff attacks. It can replace any attack with a use of Spellcasting to cast {@spell Rayo nauseabundo|XPHB}."
 					]
 				},
 				{
@@ -17843,7 +17843,7 @@
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
-						"{@spell Ray of Sickness|XPHB} (level 2 version)"
+						"{@spell Rayo nauseabundo|XPHB} (level 2 version)"
 					],
 					"daily": {
 						"1e": [
@@ -17886,7 +17886,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The dracolich makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast {@spell Ray of Sickness|XPHB} (level 2 version)."
+						"The dracolich makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast {@spell Rayo nauseabundo|XPHB} (level 2 version)."
 					]
 				},
 				{
@@ -17913,7 +17913,7 @@
 				{
 					"name": "Sickening Ray",
 					"entries": [
-						"The dracolich uses Spellcasting to cast {@spell Ray of Sickness|XPHB} (level 2 version). The dracolich can't take this action again until the start of its next turn."
+						"The dracolich uses Spellcasting to cast {@spell Rayo nauseabundo|XPHB} (level 2 version). The dracolich can't take this action again until the start of its next turn."
 					]
 				},
 				{
@@ -18670,7 +18670,7 @@
 			],
 			"bonus": [
 				{
-					"name": "Tree Stride",
+					"name": "Paso arbóreo",
 					"entries": [
 						"If within 5 feet of a Large or bigger tree, the dryad teleports to an unoccupied space within 5 feet of a second Large or bigger tree that is within 60 feet of the previous tree."
 					]
@@ -28860,7 +28860,7 @@
 						"{@spell Disguise Self|XPHB} (24-hour duration)",
 						"{@spell Invisibilidad|XPHB} (self only, and the hag leaves no tracks while Invisible)",
 						"{@spell Ilusión menor|XPHB}",
-						"{@spell Ray of Sickness|XPHB} (level 3 version)"
+						"{@spell Rayo nauseabundo|XPHB} (level 3 version)"
 					],
 					"ability": "wis",
 					"displayAs": "action"
@@ -30613,7 +30613,7 @@
 				{
 					"name": "Spell Immunity",
 					"entries": [
-						"The helmed horror is immune to three spells chosen by its creator. Typical choices include {@spell Calentar metal|XPHB}, {@spell Lightning Bolt|XPHB}, and {@spell Magic Missile|XPHB}."
+						"The helmed horror is immune to three spells chosen by its creator. Typical choices include {@spell Calentar metal|XPHB}, {@spell Relámpago|XPHB}, and {@spell Magic Missile|XPHB}."
 					]
 				}
 			],
@@ -35032,7 +35032,7 @@
 						"{@spell Disipar magia|XPHB}",
 						"{@spell Bola de fuego|XPHB} (level 5 version)",
 						"{@spell Invisibilidad|XPHB}",
-						"{@spell Lightning Bolt|XPHB} (level 5 version)",
+						"{@spell Relámpago|XPHB} (level 5 version)",
 						"{@spell Mage Hand|XPHB}",
 						"{@spell Prestidigitation|XPHB}"
 					],
@@ -37950,7 +37950,7 @@
 							"{@spell Clairvoyance|XPHB}",
 							"{@spell Puerta dimensional|XPHB}",
 							"{@spell Bola de fuego|XPHB} (level 5 version)",
-							"{@spell Lightning Bolt|XPHB} (level 5 version)",
+							"{@spell Relámpago|XPHB} (level 5 version)",
 							"{@spell Plane Shift|XPHB} (self only)",
 							"{@spell Recado|XPHB}"
 						]
@@ -50857,7 +50857,7 @@
 							"{@spell Detectar pensamientos|XPHB}",
 							"{@spell Puerta dimensional|XPHB}",
 							"{@spell Inmovilizar persona|XPHB} (level 3 version)",
-							"{@spell Lightning Bolt|XPHB} (level 4 version)"
+							"{@spell Relámpago|XPHB} (level 4 version)"
 						]
 					},
 					"ability": "int",

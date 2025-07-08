@@ -65,7 +65,7 @@
 						"{@comic What kind of cleric sends somebody in to die for them, anyway? He's totally complicit, Morty.} "
 					]
 				},
-				"Unlike a game of make-believe, D&D gives structure to the stories\u2014a way of determining the consequences of the adventurers' actions. Players roll dice to determine whether their attacks hit or miss and whether their characters can scale a cliff, roll away from the strike of a magical lightning bolt, or pull off some other dangerous task. Anything is possible, but the dice make some things more probable than others.",
+				"Unlike a game of make-believe, D&D gives structure to the stories\u2014a way of determining the consequences of the adventurers' actions. Players roll dice to determine whether their attacks hit or miss and whether their characters can scale a cliff, roll away from the strike of a magical relámpago, or pull off some other dangerous task. Anything is possible, but the dice make some things more probable than others.",
 				{
 					"type": "inset",
 					"id": "005",
@@ -5779,7 +5779,7 @@
 										"Disipar magia {@comicNote JERRY SPELL}",
 										"Fireball {@comicNote Oh Hell YES}",
 										"Fly {@comicNote YES}",
-										"Lightning Bolt {@comicNote YES, Big Zap}",
+										"Relámpago {@comicNote YES, Big Zap}",
 										"Protection from Energy {@comicNote JERRY SPELL}"
 									]
 								}
@@ -6165,7 +6165,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Lightning Bolt",
+							"name": "Relámpago",
 							"page": 56,
 							"collapsed": true
 						},

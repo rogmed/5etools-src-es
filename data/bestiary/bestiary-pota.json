@@ -116,7 +116,7 @@
 							"spells": [
 								"{@spell fly}",
 								"{@spell gaseous form}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -559,7 +559,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell blade ward}",
 								"{@spell light}",
 								"{@spell mending}",
@@ -3735,7 +3735,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell blade ward}",
 								"{@spell friends}",
 								"{@spell light}",
@@ -4594,7 +4594,7 @@
 								"{@spell false life}",
 								"{@spell mage armor}",
 								"{@spell magic missile}",
-								"{@spell ray of sickness}"
+								"{@spell rayo nauseabundo}"
 							]
 						},
 						"2": {
@@ -5160,7 +5160,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell chill touch}",
 								"{@spell friends}",
 								"{@spell prestidigitation}",
@@ -5329,7 +5329,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						}
 					},
@@ -5457,7 +5457,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell blade ward}",
 								"{@spell light}",
 								"{@spell mending}",
@@ -6332,7 +6332,7 @@
 					"will": [
 						"{@spell gust of wind}",
 						"{@spell invisibility}",
-						"{@spell lightning bolt}"
+						"{@spell relámpago}"
 					],
 					"daily": {
 						"2e": [

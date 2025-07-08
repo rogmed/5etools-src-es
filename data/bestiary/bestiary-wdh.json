@@ -4820,7 +4820,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell counterspell}",
-								"{@spell lightning bolt}",
+								"{@spell relámpago}",
 								"{@spell sending}"
 							]
 						},
@@ -5036,7 +5036,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell counterspell}",
-								"{@spell lightning bolt}",
+								"{@spell relámpago}",
 								"{@spell sending}"
 							]
 						},
@@ -8688,7 +8688,7 @@
 				{
 					"name": "Staff Spells",
 					"entries": [
-						"While holding the {@item Blackstaff|WDH}, Vajra can use an action to expend 1 or more of its charges to cast one of the following spells from it, using her spell save DC and spell attack bonus: {@spell cono de frío} (5 charges), {@spell fireball} (5th-level version, 5 charges), {@spell globe of invulnerability} (6 charges), {@spell hold monster} (5 charges), {@spell levitate} (2 charges), {@spell lightning bolt} (5th-level version, 5 charges), {@spell magic missile} (1 charge), {@spell ray of enfeeblement} (1 charge), or {@spell wall of force} (5 charges)."
+						"While holding the {@item Blackstaff|WDH}, Vajra can use an action to expend 1 or more of its charges to cast one of the following spells from it, using her spell save DC and spell attack bonus: {@spell cono de frío} (5 charges), {@spell fireball} (5th-level version, 5 charges), {@spell globe of invulnerability} (6 charges), {@spell hold monster} (5 charges), {@spell levitate} (2 charges), {@spell relámpago} (5th-level version, 5 charges), {@spell magic missile} (1 charge), {@spell ray of enfeeblement} (1 charge), or {@spell wall of force} (5 charges)."
 					]
 				}
 			],

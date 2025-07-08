@@ -552,7 +552,7 @@
 						],
 						"9": [
 							"hypnotic pattern",
-							"lightning bolt"
+							"relámpago"
 						],
 						"13": [
 							"fire shield",
@@ -1258,7 +1258,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell healing word}, {@spell ray of sickness}"
+							"{@spell healing word}, {@spell rayo nauseabundo}"
 						],
 						[
 							"5th",
@@ -1662,7 +1662,7 @@
 						],
 						[
 							"9th",
-							"{@spell hypnotic pattern}, {@spell lightning bolt}"
+							"{@spell hypnotic pattern}, {@spell relámpago}"
 						],
 						[
 							"13th",

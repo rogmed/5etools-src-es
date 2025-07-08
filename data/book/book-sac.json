@@ -556,7 +556,7 @@
 											"name": "Does a monk's Purity of Body feature grant immunity to poison damage, the poisoned condition, or both?",
 											"id": "03c",
 											"entries": [
-												"That feature grants immunity to both. As a result, a monk with Purity of Body can, for example, inhale a {@creature Young Green Dragon||green dragon's} poison breath unharmed. Similarly, the monk is unaffected by {@spell ray of sickness}, which both deals poison damage and imposes the {@condition poisoned} condition."
+												"That feature grants immunity to both. As a result, a monk with Purity of Body can, for example, inhale a {@creature Young Green Dragon||green dragon's} poison breath unharmed. Similarly, the monk is unaffected by {@spell rayo nauseabundo}, which both deals poison damage and imposes the {@condition poisoned} condition."
 											]
 										},
 										{
@@ -901,7 +901,7 @@
 											"name": "Does the evoker's Potent Cantrip feature apply to cantrips with attack rolls or only to saves?",
 											"id": "063",
 											"entries": [
-												"Potent Cantrip affects only cantrips that require a saving throw, such as {@spell acid splash} and {@spell poison spray}."
+												"Potent Cantrip affects only cantrips that require a saving throw, such as {@spell salpicadura ácida} and {@spell poison spray}."
 											]
 										},
 										{
@@ -2044,7 +2044,7 @@
 											"id": "0e4",
 											"entries": [
 												"If a spell has a material component, you need to handle that {@book component|PHB|10|Components} when you cast the spell. The same rule applies if you're using a spellcasting focus as the material component.",
-												"If a spell has a somatic component, you can use the hand that performs the somatic component to also handle the material component. For example, a wizard who uses an {@item orb|PHB} as a spellcasting focus could hold a {@item quarterstaff|PHB} in one hand and the orb in the other, and he could cast {@spell lightning bolt} by using the orb as the spell's material component and the orb hand to perform the spell's somatic component.",
+												"If a spell has a somatic component, you can use the hand that performs the somatic component to also handle the material component. For example, a wizard who uses an {@item orb|PHB} as a spellcasting focus could hold a {@item quarterstaff|PHB} in one hand and the orb in the other, and he could cast {@spell relámpago} by using the orb as the spell's material component and the orb hand to perform the spell's somatic component.",
 												"Another example: a cleric's {@item holy symbol|PHB} is emblazoned on her {@item shield|PHB}. She likes to wade into melee combat with a {@item mace|PHB} in one hand and a shield in the other. She uses the holy symbol as her spellcasting focus, so she needs to have the shield in hand when she casts a cleric spell that has a material component. If the spell, such as {@spell aid}, also has a somatic component, she can perform that component with the shield hand and keep holding the mace in the other.",
 												"If the same cleric casts {@spell cure wounds}, she needs to put the {@item mace|PHB} or the {@item shield|PHB} away, because that spell doesn't have a material component but does have a somatic component. She's going to need a free hand to make the spell's gestures. If she had the {@feat War Caster} feat, she could ignore this restriction."
 											]

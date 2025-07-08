@@ -208,7 +208,7 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell fly}",
-								"{@spell lightning bolt}",
+								"{@spell relámpago}",
 								"{@spell major image}*"
 							]
 						},

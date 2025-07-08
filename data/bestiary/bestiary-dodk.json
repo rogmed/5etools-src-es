@@ -378,7 +378,7 @@
 							"{@spell hypnotic pattern}"
 						],
 						"3": [
-							"{@spell lightning bolt}"
+							"{@spell relámpago}"
 						]
 					},
 					"ability": "cha"
@@ -1666,7 +1666,7 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell dispel magic}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -3499,7 +3499,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell tree stride} (works on buildings instead of trees)"
+								"{@spell paso arbóreo} (works on buildings instead of trees)"
 							]
 						}
 					},
@@ -4415,7 +4415,7 @@
 							"spells": [
 								"{@spell animate dead}",
 								"{@spell counterspell}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -4594,7 +4594,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell counterspell}",
-								"{@spell lightning bolt}",
+								"{@spell relámpago}",
 								"{@spell purge contamination|DoDk}*"
 							]
 						},

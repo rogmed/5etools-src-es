@@ -2372,7 +2372,7 @@
 			],
 			"entries": [
 				"A storm cloud appears at a point within range that you can see above yourself. It takes the shape of a {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} that is 10 feet tall with a 60-foot radius.",
-				"When you cast the spell, choose a point you can see under the cloud. A lightning bolt shoots from the cloud to that point. Each creature within 5 feet of that point makes a Dexterity saving throw, taking {@damage 3d10} Lightning damage on a failed save or half as much damage on a successful one.",
+				"When you cast the spell, choose a point you can see under the cloud. A relámpago shoots from the cloud to that point. Each creature within 5 feet of that point makes a Dexterity saving throw, taking {@damage 3d10} Lightning damage on a failed save or half as much damage on a successful one.",
 				"Until the spell ends, you can take a {@action Magic|XPHB} action to call down lightning in that way again, targeting the same point or a different one.",
 				"If you're outdoors in a storm when you cast this spell, the spell gives you control over that storm instead of creating a new one. Under such conditions, the spell's damage increases by {@damage 1d10}."
 			],
@@ -2488,7 +2488,7 @@
 				}
 			],
 			"entries": [
-				"You launch a lightning bolt toward a target you can see within range. Three bolts then leap from that target to as many as three other targets of your choice, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.",
+				"You launch a relámpago toward a target you can see within range. Three bolts then leap from that target to as many as three other targets of your choice, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.",
 				"Each target makes a Dexterity saving throw, taking {@damage 10d8} Lightning damage on a failed save or half as much damage on a successful one."
 			],
 			"entriesHigherLevel": [
@@ -12005,7 +12005,7 @@
 				}
 			],
 			"entries": [
-				"As your attack hits or misses the target, the weapon or ammunition you're using transforms into a lightning bolt. Instead of taking any damage or other effects from the attack, the target takes {@damage 4d8} Lightning damage on a hit or half as much damage on a miss. Each creature within 10 feet of the target then makes a Dexterity saving throw, taking {@damage 2d8} Lightning damage on a failed save or half as much damage on a successful one.",
+				"As your attack hits or misses the target, the weapon or ammunition you're using transforms into a relámpago. Instead of taking any damage or other effects from the attack, the target takes {@damage 4d8} Lightning damage on a hit or half as much damage on a miss. Each creature within 10 feet of the target then makes a Dexterity saving throw, taking {@damage 2d8} Lightning damage on a failed save or half as much damage on a successful one.",
 				"The weapon or ammunition then returns to its normal form."
 			],
 			"entriesHigherLevel": [
@@ -12028,10 +12028,10 @@
 			]
 		},
 		{
-			"name": "Lightning Bolt",
-			"originalname": "",
+			"name": "Relámpago",
+			"originalname": "Lightning Bolt",
 			"source": "XPHB",
-			"page": 292,
+			"page": 327,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -12052,7 +12052,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a bit of fur and a crystal rod"
+				"m": "un poco de pelaje y una vara de cristal)"
 			},
 			"duration": [
 				{
@@ -12060,14 +12060,14 @@
 				}
 			],
 			"entries": [
-				"A stroke of lightning forming a 100-foot-long, 5-foot-wide {@variantrule Line [Area of Effect]|XPHB|Line} blasts out from you in a direction you choose. Each creature in the {@variantrule Line [Area of Effect]|XPHB|Line} makes a Dexterity saving throw, taking {@damage 8d6} Lightning damage on a failed save or half as much damage on a successful one."
+				"Un relámpago que forma una {@variantrule Line [Area of Effect]|XPHB|línea} de 100 pies (30 m) de largo y 5 pies (1,5 m) de ancho surge de ti en la dirección que elijas. Todas las criaturas situadas en esa línea deberán hacer una tirada de salvación de Destreza; sufrirán {@damage 8d6} de daño de relámpago si la fallan o la mitad del daño si la superan."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 8d6|3-9|1d6} for each spell slot level above 3."
+						"El daño aumenta en {@scaledamage 8d6|3-9|1d6} por cada nivel por encima de 3 que tenga el espacio."
 					]
 				}
 			],
@@ -20440,10 +20440,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Tree Stride",
-			"originalname": "",
+			"name": "Paso arbóreo",
+			"originalname": "Tree Stride",
 			"source": "XPHB",
-			"page": 335,
+			"page": 318,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -20475,8 +20475,8 @@
 				}
 			],
 			"entries": [
-				"You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.",
-				"You can use this transportation ability only once on each of your turns. You must end each turn outside a tree."
+				"Obtienes la capacidad de entrar en un árbol y moverte desde dentro al interior de otro árbol del mismo tipo que esté a 500 pies (150 m) o menos. Ambos árboles tienen que estar vivos y ser al menos del mismo tamaño que tú. Para entrar en un árbol debes gastar 5 pies (1,5 m) de movimiento. Al instante conoces la ubicación de todos los demás árboles del mismo tipo situados a 500 pies (150 m) o menos y, como parte del movimiento gastado para entrar en el árbol, puedes pasar al interior de uno de esos árboles o salir del árbol en el que estás. Apareces en un punto de tu elección a 5 pies (1,5 m) o menos del árbol de destino gastando otros 5 pies (1,5 m) de movimiento. Si no te queda movimiento, apareces a 5 pies (1,5 m) o menos del árbol en el que entraste.",
+				"Puedes usar esta capacidad de transporte solo una vez en cada uno de tus turnos y debes terminar cada turno fuera de un árbol."
 			],
 			"miscTags": [
 				"TP"

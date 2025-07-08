@@ -5984,7 +5984,7 @@
 							"{@spell call lightning}"
 						],
 						"3": [
-							"{@spell lightning bolt}"
+							"{@spell relámpago}"
 						]
 					},
 					"ability": "cha"
@@ -6002,7 +6002,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The stormborn makes two greataxe attacks. If it is concentrating on {@spell call lightning}, it can also call down a lightning bolt."
+						"The stormborn makes two greataxe attacks. If it is concentrating on {@spell call lightning}, it can also call down a relámpago."
 					]
 				},
 				{
@@ -6198,7 +6198,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell counterspell}",
-								"{@spell lightning bolt}",
+								"{@spell relámpago}",
 								"{@spell stinking cloud}"
 							]
 						},

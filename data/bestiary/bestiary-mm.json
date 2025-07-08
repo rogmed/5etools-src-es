@@ -8648,7 +8648,7 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -13753,7 +13753,7 @@
 						"3": {
 							"slots": 2,
 							"spells": [
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						}
 					},
@@ -22836,7 +22836,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -23048,7 +23048,7 @@
 								"{@spell animal friendship}",
 								"{@spell cure wounds}",
 								"{@spell detect poison and disease}",
-								"{@spell ray of sickness}"
+								"{@spell rayo nauseabundo}"
 							]
 						},
 						"2": {
@@ -23570,7 +23570,7 @@
 					]
 				},
 				{
-					"name": "Tree Stride",
+					"name": "Paso arbóreo",
 					"entries": [
 						"Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be large or bigger."
 					]
@@ -23604,7 +23604,7 @@
 			],
 			"traitTags": [
 				"Magic Resistance",
-				"Tree Stride"
+				"Paso arbóreo"
 			],
 			"senseTags": [
 				"D"
@@ -36410,7 +36410,7 @@
 									"slots": 4,
 									"spells": [
 										"{@spell identify}",
-										"{@spell ray of sickness}"
+										"{@spell rayo nauseabundo}"
 									]
 								},
 								"2": {
@@ -36425,7 +36425,7 @@
 									"spells": [
 										"{@spell bestow curse}",
 										"{@spell counterspell}",
-										"{@spell lightning bolt}"
+										"{@spell relámpago}"
 									]
 								},
 								"4": {
@@ -36531,7 +36531,7 @@
 										"slots": 4,
 										"spells": [
 											"{@spell identify}",
-											"{@spell ray of sickness}"
+											"{@spell rayo nauseabundo}"
 										]
 									},
 									"2": {
@@ -36546,7 +36546,7 @@
 										"spells": [
 											"{@spell bestow curse}",
 											"{@spell counterspell}",
-											"{@spell lightning bolt}"
+											"{@spell relámpago}"
 										]
 									},
 									"4": {
@@ -38943,7 +38943,7 @@
 				{
 					"name": "Spell Immunity",
 					"entries": [
-						"The helmed horror is immune to three spells chosen by its creator. Typical immunities include {@spell fireball}, {@spell heat metal}, and {@spell lightning bolt}."
+						"The helmed horror is immune to three spells chosen by its creator. Typical immunities include {@spell fireball}, {@spell heat metal}, and {@spell relámpago}."
 					]
 				}
 			],
@@ -48114,7 +48114,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell clairvoyance}",
-								"{@spell lightning bolt}",
+								"{@spell relámpago}",
 								"{@spell sending}"
 							]
 						},
@@ -50378,7 +50378,7 @@
 									"slots": 4,
 									"spells": [
 										"{@spell identify}",
-										"{@spell ray of sickness}"
+										"{@spell rayo nauseabundo}"
 									]
 								},
 								"2": {
@@ -50393,7 +50393,7 @@
 									"spells": [
 										"{@spell bestow curse}",
 										"{@spell counterspell}",
-										"{@spell lightning bolt}"
+										"{@spell relámpago}"
 									]
 								},
 								"4": {
@@ -50500,7 +50500,7 @@
 										"slots": 4,
 										"spells": [
 											"{@spell identify}",
-											"{@spell ray of sickness}"
+											"{@spell rayo nauseabundo}"
 										]
 									},
 									"2": {
@@ -50515,7 +50515,7 @@
 										"spells": [
 											"{@spell bestow curse}",
 											"{@spell counterspell}",
-											"{@spell lightning bolt}"
+											"{@spell relámpago}"
 										]
 									},
 									"4": {
@@ -60114,7 +60114,7 @@
 									"slots": 4,
 									"spells": [
 										"{@spell identify}",
-										"{@spell ray of sickness}"
+										"{@spell rayo nauseabundo}"
 									]
 								},
 								"2": {
@@ -60129,7 +60129,7 @@
 									"spells": [
 										"{@spell bestow curse}",
 										"{@spell counterspell}",
-										"{@spell lightning bolt}"
+										"{@spell relámpago}"
 									]
 								},
 								"4": {
@@ -60229,7 +60229,7 @@
 										"slots": 4,
 										"spells": [
 											"{@spell identify}",
-											"{@spell ray of sickness}"
+											"{@spell rayo nauseabundo}"
 										]
 									},
 									"2": {
@@ -60244,7 +60244,7 @@
 										"spells": [
 											"{@spell bestow curse}",
 											"{@spell counterspell}",
-											"{@spell lightning bolt}"
+											"{@spell relámpago}"
 										]
 									},
 									"4": {
@@ -62932,7 +62932,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell lightning bolt}",
+								"{@spell relámpago}",
 								"{@spell water breathing}"
 							]
 						},
@@ -64195,7 +64195,7 @@
 				{
 					"name": "Lightning Strike {@recharge 5}",
 					"entries": [
-						"The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a {@dc 17} Dexterity saving throw, taking 54 ({@damage 12d8}) lightning damage on a failed save, or half as much damage on a successful one."
+						"The giant hurls a magical relámpago at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a {@dc 17} Dexterity saving throw, taking 54 ({@damage 12d8}) lightning damage on a failed save, or half as much damage on a successful one."
 					]
 				}
 			],

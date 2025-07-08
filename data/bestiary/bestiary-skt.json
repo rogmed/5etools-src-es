@@ -995,7 +995,7 @@
 							"{@spell haste}",
 							"{@spell hypnotic pattern}",
 							"{@spell tormenta de hielo}",
-							"{@spell lightning bolt}",
+							"{@spell relámpago}",
 							"{@spell Mordenkainen's sword}",
 							"{@spell wall of force}"
 						]
@@ -3250,7 +3250,7 @@
 				{
 					"name": "Lightning Strike {@recharge 5}",
 					"entries": [
-						"Hekaton hurls a magical lightning bolt at a point he can see within 500 feet of it. Each creature within 10 feet of that point must make a {@dc 17} Dexterity saving throw, taking 54 ({@damage 12d8}) lightning damage on a failed save, or half as much damage on a successful one."
+						"Hekaton hurls a magical relámpago at a point he can see within 500 feet of it. Each creature within 10 feet of that point must make a {@dc 17} Dexterity saving throw, taking 54 ({@damage 12d8}) lightning damage on a failed save, or half as much damage on a successful one."
 					]
 				},
 				{
@@ -3413,7 +3413,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Klauth carries a {@item wand of fireballs} and a {@item wand of lightning bolts}, and he wears a {@item ring of cold resistance}."
+						"Klauth carries a {@item wand of fireballs} and a {@item wand of relámpagos}, and he wears a {@item ring of cold resistance}."
 					]
 				}
 			],

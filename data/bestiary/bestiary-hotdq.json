@@ -394,7 +394,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						}
 					},

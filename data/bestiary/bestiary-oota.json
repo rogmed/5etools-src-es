@@ -928,7 +928,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell mage hand}",
 								"{@spell message}",
 								"{@spell ray of frost}"
@@ -953,7 +953,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell blink}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						}
 					},
@@ -3801,7 +3801,7 @@
 								"{@spell animal friendship}",
 								"{@spell cure wounds}",
 								"{@spell detect poison and disease}",
-								"{@spell ray of sickness}"
+								"{@spell rayo nauseabundo}"
 							]
 						},
 						"2": {
@@ -4413,7 +4413,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell light}",
 								"{@spell mage hand}",
 								"{@spell poison spray}",
@@ -4425,7 +4425,7 @@
 							"spells": [
 								"{@spell false life}",
 								"{@spell mage armor}",
-								"{@spell ray of sickness}",
+								"{@spell rayo nauseabundo}",
 								"{@spell shield}"
 							]
 						},

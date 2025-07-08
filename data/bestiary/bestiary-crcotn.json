@@ -6294,7 +6294,7 @@
 					"daily": {
 						"1e": [
 							"{@spell blindness/deafness}",
-							"{@spell ray of sickness}"
+							"{@spell rayo nauseabundo}"
 						]
 					},
 					"ability": "cha",

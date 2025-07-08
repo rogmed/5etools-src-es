@@ -201,7 +201,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell mage hand}",
 								"{@spell poison spray}",
 								"{@spell prestidigitation}"

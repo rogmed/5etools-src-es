@@ -3160,7 +3160,7 @@
 				}
 			]
 		},
-		"Lightning Bolt": {
+		"Relámpago": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -5420,7 +5420,7 @@
 				}
 			]
 		},
-		"Tree Stride": {
+		"Paso arbóreo": {
 			"class": [
 				{
 					"name": "Druida",

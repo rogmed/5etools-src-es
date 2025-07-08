@@ -871,7 +871,7 @@
 						],
 						"17": [
 							"commune with nature",
-							"tree stride"
+							"paso arbóreo"
 						]
 					}
 				}
@@ -1580,7 +1580,7 @@
 						],
 						"17": [
 							"commune with nature|xphb",
-							"tree stride|xphb"
+							"paso arbóreo|xphb"
 						]
 					}
 				}
@@ -2710,7 +2710,7 @@
 						],
 						[
 							"17th",
-							"{@spell commune with nature}, {@spell tree stride}"
+							"{@spell commune with nature}, {@spell paso arbóreo}"
 						]
 					]
 				}
@@ -4908,7 +4908,7 @@
 						],
 						[
 							"17th",
-							"{@spell Commune with Nature|XPHB}, {@spell Tree Stride|XPHB}"
+							"{@spell Commune with Nature|XPHB}, {@spell Paso arbóreo|XPHB}"
 						]
 					]
 				}

@@ -218,7 +218,7 @@
 									"type": "entries",
 									"name": "Spellbook",
 									"entries": [
-										"Avarice's spellbook has white leather covers and vellum pages. The tiefling's personal sigil is burned into the front cover. The book contains the spells Avarice has prepared plus the following additional spells: {@spell burning hands}, {@spell cono de frío}, {@spell find familiar}, {@spell tormenta de hielo}, {@spell lightning bolt}, {@spell rope trick}, {@spell thunderwave}, {@spell tongues}, {@spell wall of fire}, and {@spell wall of force}."
+										"Avarice's spellbook has white leather covers and vellum pages. The tiefling's personal sigil is burned into the front cover. The book contains the spells Avarice has prepared plus the following additional spells: {@spell burning hands}, {@spell cono de frío}, {@spell find familiar}, {@spell tormenta de hielo}, {@spell relámpago}, {@spell rope trick}, {@spell thunderwave}, {@spell tongues}, {@spell wall of fire}, and {@spell wall of force}."
 									]
 								}
 							]
@@ -686,7 +686,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Galvan magen can fly. They also store static electricity, which they discharge as lightning bolts.",
+						"Galvan magen can fly. They also store static electricity, which they discharge as relámpagos.",
 						"Magen are magical, humanlike beings created by a wizard spell (see the {@spell create magen|IDRotF} spell in appendix D) or by other arcane methods.",
 						"Though magen look like humanoids with green skin, they are constructs. When one is wounded, its blood is seen to have the color and consistency of mercury. They exist purely through magical means. When one is killed, its body disappears in a burst of harmless fire and a cloud of smoke that quickly dissipates."
 					]

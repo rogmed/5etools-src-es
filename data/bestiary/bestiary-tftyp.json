@@ -4243,7 +4243,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell friends}",
 								"{@spell mage hand}",
 								"{@spell poison spray}"
@@ -4255,7 +4255,7 @@
 								"{@spell charm person}",
 								"{@spell detect magic}",
 								"{@spell magic missile}",
-								"{@spell ray of sickness}"
+								"{@spell rayo nauseabundo}"
 							]
 						},
 						"2": {

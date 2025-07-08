@@ -1214,7 +1214,7 @@
 			]
 		},
 		{
-			"name": "Charm of Lightning Bolt",
+			"name": "Charm of Relámpago",
 			"source": "IDRotF",
 			"page": 228,
 			"type": "Charm",
@@ -1224,7 +1224,7 @@
 						"_": {
 							"limited": {
 								"1": [
-									"lightning bolt"
+									"relámpago"
 								]
 							}
 						}
@@ -1232,7 +1232,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell lightning bolt} spell (save {@dc 15}) as an action, no components required. Once used, this charm vanishes from you."
+				"This charm allows you to cast the {@spell relámpago} spell (save {@dc 15}) as an action, no components required. Once used, this charm vanishes from you."
 			]
 		},
 		{
@@ -1760,7 +1760,7 @@
 						"_": {
 							"limited": {
 								"3": [
-									"lightning bolt"
+									"relámpago"
 								]
 							}
 						}
@@ -1768,7 +1768,7 @@
 				}
 			],
 			"entries": [
-				"You become charged with the power of the storm, to the extent that tiny sparks crackle in your eyes. You can cast the {@spell lightning bolt} spell (3rd-level version) as an action. Once used three times, the charm vanishes from you."
+				"You become charged with the power of the storm, to the extent that tiny sparks crackle in your eyes. You can cast the {@spell relámpago} spell (3rd-level version) as an action. Once used three times, the charm vanishes from you."
 			]
 		},
 		{
@@ -2220,7 +2220,7 @@
 			"page": 192,
 			"type": "Charm",
 			"entries": [
-				"Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the {@spell lightning bolt} spell as an action. After it has been used three times, the dark gift vanishes.",
+				"Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the {@spell relámpago} spell as an action. After it has been used three times, the dark gift vanishes.",
 				"As soon as this dark gift is received, one side of the beneficiary's face sags and loses all feeling."
 			]
 		},
@@ -2907,7 +2907,7 @@
 							"limited": {
 								"1": [
 									"dispel magic",
-									"lightning bolt"
+									"relámpago"
 								]
 							}
 						}
@@ -2915,7 +2915,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell dispel magic} or {@spell lightning bolt} spell. Alternatively, as an action, you can regain one expended spell slot of 3rd level or lower. The charm vanishes after you activate it."
+				"When you activate this charm, you can cast the {@spell dispel magic} or {@spell relámpago} spell. Alternatively, as an action, you can regain one expended spell slot of 3rd level or lower. The charm vanishes after you activate it."
 			]
 		},
 		{
@@ -3550,7 +3550,7 @@
 			],
 			"entries": [
 				"{@i Piety 3+ Pharika trait}",
-				"As a devotee of Pharika, you have power over affliction. You can cast {@spell ray of sickness} with this trait a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"As a devotee of Pharika, you have power over affliction. You can cast {@spell rayo nauseabundo} with this trait a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest. Wisdom is your spellcasting ability for this spell."
 			]
 		},
 		{

@@ -620,13 +620,13 @@
 							"dormir|xphb"
 						],
 						"5": [
-							"lightning bolt|xphb"
+							"relámpago|xphb"
 						],
 						"7": [
 							"freedom of movement|xphb"
 						],
 						"9": [
-							"tree stride|xphb"
+							"paso arbóreo|xphb"
 						]
 					}
 				},
@@ -634,8 +634,8 @@
 					"name": "Tropical Land",
 					"prepared": {
 						"3": [
-							"acid splash|xphb",
-							"ray of sickness|xphb",
+							"salpicadura ácida|xphb",
+							"rayo nauseabundo|xphb",
 							"web|xphb"
 						],
 						"5": [
@@ -713,15 +713,15 @@
 							"thunderwave|xphb"
 						],
 						"5": [
-							"lightning bolt|xphb",
+							"relámpago|xphb",
 							"water breathing|xphb"
 						],
 						"7": [
-							"lightning bolt|xphb",
+							"relámpago|xphb",
 							"water breathing|xphb"
 						],
 						"9": [
-							"lightning bolt|xphb",
+							"relámpago|xphb",
 							"water breathing|xphb"
 						]
 					}
@@ -1425,7 +1425,7 @@
 						],
 						[
 							"5th",
-							"{@spell Lightning Bolt|XPHB}"
+							"{@spell Relámpago|XPHB}"
 						],
 						[
 							"7th",
@@ -1433,7 +1433,7 @@
 						],
 						[
 							"9th",
-							"{@spell Tree Stride|XPHB}"
+							"{@spell Paso arbóreo|XPHB}"
 						]
 					]
 				},
@@ -1451,7 +1451,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell Acid Splash|XPHB}, {@spell Ray of Sickness|XPHB}, {@spell Web|XPHB}"
+							"{@spell Salpicadura ácida|XPHB}, {@spell Rayo nauseabundo|XPHB}, {@spell Web|XPHB}"
 						],
 						[
 							"5th",
@@ -1792,7 +1792,7 @@
 						],
 						[
 							"5th",
-							"{@spell Lightning Bolt|XPHB}, {@spell Water Breathing|XPHB}"
+							"{@spell Relámpago|XPHB}, {@spell Water Breathing|XPHB}"
 						],
 						[
 							"7th",

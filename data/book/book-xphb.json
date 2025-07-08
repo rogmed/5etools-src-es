@@ -5870,7 +5870,7 @@
 									"page": 43,
 									"id": "103",
 									"entries": [
-										"In tier 2, characters are full-fledged adventurers. Spellcasters gain iconic spells such as {@spell Bola de fuego|XPHB}, {@spell Lightning Bolt|XPHB}, and {@spell Raise Dead|XPHB}. Most weapon-focused classes gain the ability to make multiple attacks in a round. The characters now face dangers that threaten cities and kingdoms."
+										"In tier 2, characters are full-fledged adventurers. Spellcasters gain iconic spells such as {@spell Bola de fuego|XPHB}, {@spell Relámpago|XPHB}, and {@spell Raise Dead|XPHB}. Most weapon-focused classes gain the ability to make multiple attacks in a round. The characters now face dangers that threaten cities and kingdoms."
 									]
 								},
 								{
@@ -12619,7 +12619,7 @@
 							"style": "list-hang-notitle",
 							"columns": 3,
 							"items": [
-								"{@spell Acid Splash|XPHB}",
+								"{@spell Salpicadura ácida|XPHB}",
 								"{@spell Auxilio|XPHB}",
 								"{@spell Alarma|XPHB}",
 								"{@spell Alter Self|XPHB}",
@@ -12907,7 +12907,7 @@
 								"{@spell Levitate|XPHB}",
 								"{@spell Light|XPHB}",
 								"{@spell Lightning Arrow|XPHB}",
-								"{@spell Lightning Bolt|XPHB}",
+								"{@spell Relámpago|XPHB}",
 								"{@spell Localizar animales o plantas|XPHB}",
 								"{@spell Locate Creature|XPHB}",
 								"{@spell Localizar objeto|XPHB}",
@@ -13015,7 +13015,7 @@
 								"{@spell Enlace telepático de Rary|XPHB}",
 								"{@spell Ray of Enfeeblement|XPHB}",
 								"{@spell Rayo de escarcha|XPHB}",
-								"{@spell Ray of Sickness|XPHB}",
+								"{@spell Rayo nauseabundo|XPHB}",
 								"{@spell Regenerate|XPHB}",
 								"{@spell Reincarnate|XPHB}",
 								"{@spell Remove Curse|XPHB}",
@@ -13107,7 +13107,7 @@
 								"{@spell Tañido por los muertos|XPHB}",
 								"{@spell Tongues|XPHB}",
 								"{@spell Transport via Plants|XPHB}",
-								"{@spell Tree Stride|XPHB}",
+								"{@spell Paso arbóreo|XPHB}",
 								"{@spell True Polymorph|XPHB}",
 								"{@spell True Resurrection|XPHB}",
 								"{@spell True Seeing|XPHB}",

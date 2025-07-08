@@ -11327,27 +11327,27 @@
 			]
 		},
 		{
-			"name": "Wand of Lightning Bolts",
+			"name": "Wand of Relámpagos",
 			"source": "DMG",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "items/DMG/Wand of Lightning Bolts.webp"
+						"path": "items/DMG/Wand of Relámpagos.webp"
 					}
 				}
 			]
 		},
 		{
-			"name": "Wand of Lightning Bolts",
+			"name": "Wand of Relámpagos",
 			"source": "XDMG",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "items/XDMG/Wand of Lightning Bolts.webp"
+						"path": "items/XDMG/Wand of Relámpagos.webp"
 					}
 				}
 			]

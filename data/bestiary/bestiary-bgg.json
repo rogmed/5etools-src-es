@@ -2032,7 +2032,7 @@
 				{
 					"name": "Lightning Barrage {@recharge 5}",
 					"entries": [
-						"The cradle hurls multiple magical lightning bolts at up to two creatures it can see within 500 feet of itself. Each target must make a {@dc 22} Dexterity saving throw. On a failed save, the target takes 71 ({@damage 11d12}) lightning damage and has the {@condition stunned} condition until the end of its next turn. On a successful save, the target takes half as much damage only."
+						"The cradle hurls multiple magical relámpagos at up to two creatures it can see within 500 feet of itself. Each target must make a {@dc 22} Dexterity saving throw. On a failed save, the target takes 71 ({@damage 11d12}) lightning damage and has the {@condition stunned} condition until the end of its next turn. On a successful save, the target takes half as much damage only."
 					]
 				}
 			],
@@ -7603,7 +7603,7 @@
 					]
 				},
 				{
-					"name": "Lightning Bolts",
+					"name": "Relámpagos",
 					"entries": [
 						"Bolts of lightning strike down. Each creature in the cylinder must succeed on {@dc 25} Dexterity saving throw or take 18 ({@damage 4d8}) lightning damage and have the {@condition stunned} condition until the end of its next turn."
 					]
@@ -9306,7 +9306,7 @@
 				{
 					"name": "Death Bolt {@recharge 5}",
 					"entries": [
-						"The spirit hurls a magical lightning bolt in a 120-foot line that is 10 feet wide. Each creature in that area must make a {@dc 18} Dexterity saving throw, taking 27 ({@damage 6d8}) lightning damage plus 16 ({@damage 3d10}) necrotic damage on a failed save, or half as much damage on a successful one. On a success or failure, an affected creature's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creature finishes a long rest. The creature dies if its hit point maximum is reduced to 0."
+						"The spirit hurls a magical relámpago in a 120-foot line that is 10 feet wide. Each creature in that area must make a {@dc 18} Dexterity saving throw, taking 27 ({@damage 6d8}) lightning damage plus 16 ({@damage 3d10}) necrotic damage on a failed save, or half as much damage on a successful one. On a success or failure, an affected creature's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creature finishes a long rest. The creature dies if its hit point maximum is reduced to 0."
 					]
 				}
 			],

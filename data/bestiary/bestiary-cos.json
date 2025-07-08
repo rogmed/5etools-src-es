@@ -235,7 +235,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell acid splash}",
+								"{@spell salpicadura ácida}",
 								"{@spell fire bolt}",
 								"{@spell light}",
 								"{@spell mage hand}",
@@ -264,7 +264,7 @@
 							"spells": [
 								"{@spell dispel magic}",
 								"{@spell fireball}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {
@@ -648,7 +648,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell ray of sickness}",
+								"{@spell rayo nauseabundo}",
 								"{@spell sleep}",
 								"{@spell Tasha's hideous laughter}"
 							]
@@ -1310,7 +1310,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell clairvoyance}",
-								"{@spell lightning bolt}",
+								"{@spell relámpago}",
 								"{@spell magic circle}"
 							]
 						},
@@ -4429,7 +4429,7 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell fly}",
-								"{@spell lightning bolt}"
+								"{@spell relámpago}"
 							]
 						},
 						"4": {

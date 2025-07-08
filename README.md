@@ -6,9 +6,9 @@ Traducción al español de una pequeña parte de https://5e.tools/index.html
 
 ### Progreso PHB24
 
-#### Clases - 66%
+#### Clases - 75%
 #### Trasfondos - 0%
 #### Especies - 100%
 #### Dotes - 100%
 #### Equipo - ~50%
-#### Conjuros - 35%
+#### Conjuros - 43%

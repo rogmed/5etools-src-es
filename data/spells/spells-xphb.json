@@ -17160,9 +17160,9 @@
 		},
 		{
 			"name": "Shillelagh",
-			"originalname": "",
+			"originalname": "Shillelagh",
 			"source": "XPHB",
-			"page": 316,
+			"page": 332,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -17182,7 +17182,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "mistletoe"
+				"m": "muérdago"
 			},
 			"duration": [
 				{
@@ -17194,15 +17194,15 @@
 				}
 			],
 			"entries": [
-				"A Club or Quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a {@dice d8}. If the attack deals damage, it can be Force damage or the weapon's normal damage type (your choice).",
-				"The spell ends early if you cast it again or if you let go of the weapon."
+				"Un {@item bastón|XPHB} o un {@item garrote|XPHB} que sostengas se ve impregnado del poder de la naturaleza. Hasta que termine el conjuro, puedes usar tu aptitud mágica en lugar de tu Fuerza para las tiradas de ataque y de daño de tus ataques cuerpo a cuerpo usando esa arma y el dado de daño pasa a ser un {@dice d8}. Si el ataque inflige daño, puede ser de fuerza o del tipo de daño normal del arma (a tu elección).",
+				"El conjuro termina antes de tiempo si lo vuelves a lanzar o si sueltas el arma."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Mejora de truco",
 					"entries": [
-						"The damage die changes when you reach levels 5 ({@damage d10}), 11 ({@damage d12}), and 17 ({@damage 2d6})."
+						"El dado de daño cambia cuando alcanzas los niveles 5 ({@damage d10}), 11 ({@damage d12}) y 17 ({@damage 2d6})."
 					]
 				}
 			],

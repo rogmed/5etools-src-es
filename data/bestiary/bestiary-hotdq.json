@@ -194,7 +194,7 @@
 								"{@spell fog cloud}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -385,7 +385,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell misty step}",
 								"{@spell shatter}"
 							]
@@ -933,7 +933,7 @@
 								"{@spell longstrider}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -1835,7 +1835,7 @@
 								"{@spell cure wounds}",
 								"{@spell entangle}",
 								"{@spell healing word}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2510,7 +2510,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell insect plague}"
+								"{@spell plaga de insectos}"
 							]
 						}
 					},

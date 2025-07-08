@@ -1650,7 +1650,7 @@
 							"spells": [
 								"{@spell mage armor}",
 								"{@spell magic missile}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2034,7 +2034,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell purge contamination|DoDk}*",
 								"{@spell sleet storm}"
 							]
@@ -3485,7 +3485,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell nondetection}"
 							]
 						},
@@ -6174,7 +6174,7 @@
 						"1e": [
 							"{@spell augury}",
 							"{@spell burning hands}",
-							"{@spell conjure animals} (giant rats only)",
+							"{@spell conjurar animales} (giant rats only)",
 							"{@spell faerie fire}",
 							"{@spell invisibility}",
 							"{@spell misty step}"

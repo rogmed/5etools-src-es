@@ -941,7 +941,7 @@
 				}
 			],
 			"entries": [
-				"You can see normally in {@variantrule Dim Light|XPHB} and {@variantrule Darkness|XPHB}\u2014both magical and nonmagical\u2014within 120 feet of yourself."
+				"You can see normally in {@variantrule Luz tenue|XPHB} and {@variantrule Darkness|XPHB}\u2014both magical and nonmagical\u2014within 120 feet of yourself."
 			]
 		},
 		{
@@ -1763,7 +1763,7 @@
 						"_": {
 							"resource": {
 								"2": [
-									"thunderwave"
+									"ola atronadora"
 								]
 							}
 						}
@@ -1773,7 +1773,7 @@
 				}
 			],
 			"entries": [
-				"You can spend 2 ki points to cast {@spell thunderwave}."
+				"You can spend 2 ki points to cast {@spell ola atronadora}."
 			]
 		},
 		{
@@ -1916,7 +1916,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"water breathing"
+									"respirar bajo el agua"
 								]
 							}
 						}
@@ -1925,7 +1925,7 @@
 			],
 			"entries": [
 				"You can breathe underwater, and you gain a swimming speed equal to your walking speed.",
-				"You can also cast {@spell water breathing} once without expending a spell slot. You regain the ability to do so when you finish a long rest."
+				"You can also cast {@spell respirar bajo el agua} once without expending a spell slot. You regain the ability to do so when you finish a long rest."
 			]
 		},
 		{
@@ -1963,7 +1963,7 @@
 			],
 			"entries": [
 				"You can breathe underwater, and you gain a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Speed|XPHB}.",
-				"You can also cast {@spell Water Breathing|XPHB} once without expending a spell slot. You regain the ability to cast it in this way again when you finish a {@variantrule Descanso largo|XPHB}."
+				"You can also cast {@spell Respirar bajo el agua|XPHB} once without expending a spell slot. You regain the ability to cast it in this way again when you finish a {@variantrule Descanso largo|XPHB}."
 			]
 		},
 		{
@@ -2840,7 +2840,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"conjure elemental"
+									"Conjurar elemental"
 								]
 							}
 						}
@@ -2848,7 +2848,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell conjure elemental} once using a warlock spell slot. You can't do so again until you finish a long rest."
+				"You can cast {@spell Conjurar elemental} once using a warlock spell slot. You can't do so again until you finish a long rest."
 			]
 		},
 		{
@@ -3039,7 +3039,7 @@
 				}
 			],
 			"entries": [
-				"While you're in an area of {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, you can cast {@spell Invisibilidad|XPHB} on yourself without expending a spell slot."
+				"While you're in an area of {@variantrule Luz tenue|XPHB} or {@variantrule Darkness|XPHB}, you can cast {@spell Invisibilidad|XPHB} on yourself without expending a spell slot."
 			]
 		},
 		{
@@ -4186,7 +4186,7 @@
 						"_": {
 							"resource": {
 								"2": [
-									"gust of wind"
+									"ráfaga de viento"
 								]
 							}
 						}
@@ -4196,7 +4196,7 @@
 				}
 			],
 			"entries": [
-				"You can spend 2 ki points to cast {@spell gust of wind}."
+				"You can spend 2 ki points to cast {@spell ráfaga de viento}."
 			]
 		},
 		{
@@ -4223,7 +4223,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"polymorph"
+									"polimorfar"
 								]
 							}
 						}

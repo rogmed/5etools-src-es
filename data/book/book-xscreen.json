@@ -724,8 +724,8 @@
 							"caption": "Light Sources",
 							"colLabels": [
 								"Source",
-								"Bright Light",
-								"Dim Light",
+								"Luz brillante",
+								"Luz tenue",
 								"Duration"
 							],
 							"colStyles": [
@@ -787,12 +787,12 @@
 							],
 							"rows": [
 								[
-									"{@variantrule Lightly Obscured|XPHB}",
+									"{@variantrule Ligeramente oscuro|XPHB}",
 									"Creatures have {@variantrule Disadvantage|XPHB} on Wisdom ({@skill Perception|XPHB}) checks that rely on sight",
-									"{@variantrule Dim Light|XPHB}, patchy fog, moderate foliage"
+									"{@variantrule Luz tenue|XPHB}, patchy fog, moderate foliage"
 								],
 								[
-									"{@variantrule Heavily Obscured|XPHB}",
+									"{@variantrule Muy oscuro|XPHB}",
 									"Creatures have the {@condition Cegado|XPHB} condition",
 									"{@variantrule Darkness|XPHB}, heavy fog, dense foliage"
 								]
@@ -1059,11 +1059,11 @@
 									"2 miles (40 miles from a height)"
 								],
 								[
-									"Rain ({@variantrule Lightly Obscured|XPHB})",
+									"Rain ({@variantrule Ligeramente oscuro|XPHB})",
 									"1 mile"
 								],
 								[
-									"Fog ({@variantrule Lightly Obscured|XPHB})",
+									"Fog ({@variantrule Ligeramente oscuro|XPHB})",
 									"100 to 300 feet"
 								]
 							],

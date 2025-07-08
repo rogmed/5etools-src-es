@@ -1622,7 +1622,7 @@
 						"mode": "replaceArr",
 						"replace": "Amphibious",
 						"items": {
-							"name": "Water Breathing",
+							"name": "Respirar bajo el agua",
 							"entries": [
 								"Nightsea Chil-liren can breathe only underwater."
 							]
@@ -1634,7 +1634,7 @@
 				"darkvision 60 ft."
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"hasToken": true,
 			"hasFluff": true

@@ -5152,7 +5152,7 @@
 							"{@spell fear} (9 brains)",
 							"{@spell hypnotic pattern} (10 brains)",
 							"{@spell major image} (11 brains)",
-							"{@spell stinking cloud} (12 brains)"
+							"{@spell nube apestosa} (12 brains)"
 						]
 					},
 					"ability": "int",

@@ -1609,7 +1609,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Circle of the Sea",
+			"name": "Círculo del mar",
 			"shortName": "Sea",
 			"source": "XPHB",
 			"className": "Druida",
@@ -13917,7 +13917,7 @@
 					"duration": {
 						"seconds": 60
 					},
-					"description": "You emit Bright Light in a 60-foot radius and Dim Light for an additional 30 feet. Your enemies in the Bright Light have Disadvantage on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage."
+					"description": "You emit Luz brillante in a 60-foot radius and Luz tenue for an additional 30 feet. Your enemies in the Luz brillante have Disadvantage on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage."
 				}
 			],
 			"migrationVersion": 3
@@ -15425,7 +15425,7 @@
 					"duration": {
 						"seconds": 600
 					},
-					"description": "Your form sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet."
+					"description": "Your form sheds Luz brillante in a 10-foot radius and Luz tenue for an additional 10 feet."
 				}
 			],
 			"migrationVersion": 3
@@ -17218,7 +17218,7 @@
 					"type": "utility",
 					"activation": {
 						"type": "bonus",
-						"condition": "While entirely within Dim Light or Darkness"
+						"condition": "While entirely within Luz tenue or Darkness"
 					},
 					"target": {
 						"affects": {
@@ -17292,7 +17292,7 @@
 					"type": "utility",
 					"activation": {
 						"type": "action",
-						"condition": "While entirely within Dim Light or Darkness"
+						"condition": "While entirely within Luz tenue or Darkness"
 					},
 					"duration": {
 						"units": "minuto",

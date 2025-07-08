@@ -3572,7 +3572,7 @@
 									"page": 64,
 									"id": "101",
 									"entries": [
-										"Plant growth creates {@book difficult terrain|PHB|8|Difficult Terrain}, sinkholes appear, and hedge mazes or icy walls limit movement. Additional regional effects in this category include the following examples:",
+										"Plant growth creates {@book terreno difícil|PHB|8|Difficult Terrain}, sinkholes appear, and hedge mazes or icy walls limit movement. Additional regional effects in this category include the following examples:",
 										"{@b Exposing Terrain}. The terrain within 6 miles of the lair actively works to foil stealth, giving creatures other than the dragon disadvantage on Dexterity ({@skill Stealth}) checks. Leaves change color to contrast with those trying to hide among them, branches move to reveal creatures, fog clears, and so on.",
 										"{@b Smooth Roads}. Difficult terrain within 12 miles of the dragon's lair is not considered difficult, as undergrowth moves out of a traveler's way, slopes are not as steep as they first appeared, and rough ground levels out under a traveler's feet.",
 										"{@b Wilderness Hazards}. Any of the {@book wilderness hazards|DMG|5|Wilderness Hazards} described in the {@book Dungeon Master's Guide|DMG} might manifest near the dragon's lair."
@@ -5299,7 +5299,7 @@
 										[
 											"{@creature Ancient Black Dragon||Ancient}",
 											"19",
-											"{@spell blindness/deafness}, {@spell create or destroy water}, {@spell insect plague}, {@spell plant growth}"
+											"{@spell blindness/deafness}, {@spell create or destroy water}, {@spell plaga de insectos}, {@spell plant growth}"
 										]
 									]
 								}
@@ -5636,7 +5636,7 @@
 												{
 													"type": "item",
 													"name": "Filth Burst",
-													"entry": "The dragon chooses a point on the ground it can see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery filth centered on that point erupts from the ground until initiative count 20 on the next round. Each creature in the cylinder when it appears or that ends its turn there must make a {@dc 15} Constitution saving throw, taking 10 ({@dice 3d6}) poison damage on a failed save, or half as much damage on a successful one. The cylinder is {@book difficult terrain|PHB|8|Difficult Terrain}."
+													"entry": "The dragon chooses a point on the ground it can see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery filth centered on that point erupts from the ground until initiative count 20 on the next round. Each creature in the cylinder when it appears or that ends its turn there must make a {@dc 15} Constitution saving throw, taking 10 ({@dice 3d6}) poison damage on a failed save, or half as much damage on a successful one. The cylinder is {@book terreno difícil|PHB|8|Difficult Terrain}."
 												},
 												{
 													"type": "item",
@@ -8702,12 +8702,12 @@
 										[
 											"{@creature Adult Deep Dragon|FTD|Adult}",
 											"16",
-											"{@spell command}, {@spell dissonant whispers}, {@spell faerie fire}, {@spell water breathing}"
+											"{@spell command}, {@spell dissonant whispers}, {@spell faerie fire}, {@spell respirar bajo el agua}"
 										],
 										[
 											"{@creature Ancient Deep Dragon|FTD|Ancient}",
 											"19",
-											"{@spell command}, {@spell dissonant whispers}, {@spell faerie fire}, {@spell passwall}, {@spell water breathing}"
+											"{@spell command}, {@spell dissonant whispers}, {@spell faerie fire}, {@spell passwall}, {@spell respirar bajo el agua}"
 										]
 									]
 								}
@@ -9508,7 +9508,7 @@
 												{
 													"type": "item",
 													"name": "Diverting Currents",
-													"entry": "Underwater currents push unwanted visitors away from the lair. While swimming in these currents, each foot of movement costs 1 extra foot (2 extra feet in {@book difficult terrain|PHB|8|Difficult Terrain}), even if a creature has a swimming speed."
+													"entry": "Underwater currents push unwanted visitors away from the lair. While swimming in these currents, each foot of movement costs 1 extra foot (2 extra feet in {@book terreno difícil|PHB|8|Difficult Terrain}), even if a creature has a swimming speed."
 												},
 												{
 													"type": "item",
@@ -10396,7 +10396,7 @@
 												{
 													"type": "item",
 													"name": "Grasping Plants",
-													"entry": "The faerie dragon causes roots and vines to temporarily grow around it; until initiative count 20 on the next round, the ground within 20 feet of the dragon is {@book difficult terrain|PHB|8|Difficult Terrain}."
+													"entry": "The faerie dragon causes roots and vines to temporarily grow around it; until initiative count 20 on the next round, the ground within 20 feet of the dragon is {@book terreno difícil|PHB|8|Difficult Terrain}."
 												}
 											]
 										}
@@ -12556,7 +12556,7 @@
 												{
 													"type": "item",
 													"name": "Noxious Smoke",
-													"entry": "A cloud of thick, dark smoke fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is {@quickref Vision and Light|PHB|2||heavily obscured}. A creature other than the dragon that starts its turn in the cloud or enters it for the first time on its turn must succeed on a {@dc 15} Constitution saving throw or be {@condition poisoned} until the end of its turn. The cloud lasts until initiative count 20 on the next round."
+													"entry": "A cloud of thick, dark smoke fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is {@quickref Vision and Light|PHB|2||muy oscuro}. A creature other than the dragon that starts its turn in the cloud or enters it for the first time on its turn must succeed on a {@dc 15} Constitution saving throw or be {@condition poisoned} until the end of its turn. The cloud lasts until initiative count 20 on the next round."
 												},
 												{
 													"type": "item",
@@ -14773,17 +14773,17 @@
 										[
 											"{@creature Young White Dragon||Young}",
 											"12",
-											"{@spell gust of wind}"
+											"{@spell ráfaga de viento}"
 										],
 										[
 											"{@creature Adult White Dragon||Adult}",
 											"14",
-											"{@spell gust of wind}"
+											"{@spell ráfaga de viento}"
 										],
 										[
 											"{@creature Ancient White Dragon||Ancient}",
 											"16",
-											"{@spell gust of wind}, {@spell tormenta de hielo}"
+											"{@spell ráfaga de viento}, {@spell tormenta de hielo}"
 										]
 									]
 								}

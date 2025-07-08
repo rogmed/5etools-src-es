@@ -836,7 +836,7 @@
 				{
 					"name": "Incorporeal Dash",
 					"entries": [
-						"Bol'bara moves up to her speed. She can move through other creatures and objects as if they were {@quickref difficult terrain||3}. She takes 5 ({@damage 1d10}) force damage if she ends her turn inside an object."
+						"Bol'bara moves up to her speed. She can move through other creatures and objects as if they were {@quickref terreno difícil||3}. She takes 5 ({@damage 1d10}) force damage if she ends her turn inside an object."
 					]
 				},
 				{
@@ -2667,7 +2667,7 @@
 							"spells": [
 								"{@spell cure wounds}",
 								"{@spell fog cloud}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -3505,7 +3505,7 @@
 						"1e": [
 							"{@spell bestow curse}",
 							"{@spell fear}",
-							"{@spell thunderwave}"
+							"{@spell ola atronadora}"
 						]
 					},
 					"ability": "cha"
@@ -3908,7 +3908,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell animate dead}",
-								"{@spell conjure animals} (reptiles only)"
+								"{@spell conjurar animales} (reptiles only)"
 							]
 						}
 					},

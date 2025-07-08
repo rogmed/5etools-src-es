@@ -636,31 +636,31 @@
 						"3": [
 							"salpicadura ácida|xphb",
 							"rayo nauseabundo|xphb",
-							"web|xphb"
+							"telaraña|xphb"
 						],
 						"5": [
-							"stinking cloud|xphb"
+							"nube apestosa|xphb"
 						],
 						"7": [
 							"polymorph|xphb"
 						],
 						"9": [
-							"insect plague|xphb"
+							"plaga de insectos|xphb"
 						]
 					}
 				}
 			],
 			"subclassFeatures": [
 				"Círculo de la tierra|Druida|XPHB|Tierra|XPHB|3",
-				"Natural Recovery|Druida|XPHB|Tierra|XPHB|6",
-				"Nature's Ward|Druida|XPHB|Tierra|XPHB|10",
-				"Nature's Sanctuary|Druida|XPHB|Tierra|XPHB|14"
+				"Recuperación natural|Druida|XPHB|Tierra|XPHB|6",
+				"Protección de la naturaleza|Druida|XPHB|Tierra|XPHB|10",
+				"Santuario de la naturaleza|Druida|XPHB|Tierra|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
 		{
-			"name": "Circle of the Moon",
-			"shortName": "Moon",
+			"name": "Círculo de la luna",
+			"shortName": "Luna",
 			"source": "XPHB",
 			"className": "Druida",
 			"classSource": "XPHB",
@@ -671,14 +671,14 @@
 					"prepared": {
 						"3": [
 							"cure wounds|xphb",
-							"moonbeam|xphb",
+							"rayo de luna|xphb",
 							"starry wisp|xphb"
 						],
 						"5": [
-							"conjure animals|xphb"
+							"conjurar animales|xphb"
 						],
 						"7": [
-							"fount of moonlight|xphb"
+							"fuente de luz lunar|xphb"
 						],
 						"9": [
 							"mass cure wounds|xphb"
@@ -687,30 +687,30 @@
 				}
 			],
 			"subclassFeatures": [
-				"Circle of the Moon|Druida|XPHB|Moon|XPHB|3",
-				"Improved Circle Forms|Druida|XPHB|Moon|XPHB|6",
-				"Moonlight Step|Druida|XPHB|Moon|XPHB|10",
-				"Lunar Form|Druida|XPHB|Moon|XPHB|14"
+				"Círculo de la luna|Druida|XPHB|Luna|XPHB|3",
+				"Formas del círculo mejoradas|Druida|XPHB|Luna|XPHB|6",
+				"Paso de luz lunar|Druida|XPHB|Luna|XPHB|10",
+				"Forma lunar|Druida|XPHB|Luna|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
 		{
-			"name": "Circle of the Sea",
-			"shortName": "Sea",
+			"name": "Círculo del mar",
+			"shortName": "Mar",
 			"source": "XPHB",
 			"className": "Druida",
 			"classSource": "XPHB",
-			"page": 87,
+			"page": 100,
 			"edition": "one",
 			"additionalSpells": [
 				{
 					"prepared": {
 						"3": [
 							"fog cloud|xphb",
-							"gust of wind|xphb",
+							"ráfaga de viento|xphb",
 							"ray of frost|xphb",
 							"shatter|xphb",
-							"thunderwave|xphb"
+							"ola atronadora|xphb"
 						],
 						"5": [
 							"relámpago|xphb",
@@ -728,10 +728,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Circle of the Sea|Druida|XPHB|Sea|XPHB|3",
-				"Aquatic Affinity|Druida|XPHB|Sea|XPHB|6",
-				"Stormborn|Druida|XPHB|Sea|XPHB|10",
-				"Oceanic Gift|Druida|XPHB|Sea|XPHB|14"
+				"Círculo del mar|Druida|XPHB|Mar|XPHB|3",
+				"Afinidad acuática|Druida|XPHB|Mar|XPHB|6",
+				"Nacido de la tempestad|Druida|XPHB|Mar|XPHB|10",
+				"Obsequio oceánico|Druida|XPHB|Mar|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
@@ -1349,7 +1349,7 @@
 				"Tras finalizar un descanso largo, elige un tipo de terreno: árido, polar, templado o tropical. Consulta a continuación la tabla que se corresponda con el tipo elegido. Tendrás preparados los conjuros que se mencionan para tu nivel de druida e inferiores.",
 				{
 					"type": "table",
-					"caption": "Terreno árido",
+					"caption": "TERRENO ÁRIDO",
 					"colLabels": [
 						"Nivel de druida",
 						"Conjuros de círculo"
@@ -1379,7 +1379,7 @@
 				},
 				{
 					"type": "table",
-					"caption": "Terreno polar",
+					"caption": "TERRENO POLAR",
 					"colLabels": [
 						"Nivel de druida",
 						"Conjuros de círculo"
@@ -1409,7 +1409,7 @@
 				},
 				{
 					"type": "table",
-					"caption": "Temperate Land",
+					"caption": "TERRENO TEMPLADO",
 					"colLabels": [
 						"Nivel de druida",
 						"Conjuros de círculo"
@@ -1420,26 +1420,26 @@
 					],
 					"rows": [
 						[
-							"3rd",
+							"3",
 							"{@spell Paso brumoso|XPHB}, {@spell Agarre electrizante|XPHB}, {@spell Dormir|XPHB}"
 						],
 						[
-							"5th",
+							"5",
 							"{@spell Relámpago|XPHB}"
 						],
 						[
-							"7th",
+							"7",
 							"{@spell Libertad de movimiento|XPHB}"
 						],
 						[
-							"9th",
+							"9",
 							"{@spell Paso arbóreo|XPHB}"
 						]
 					]
 				},
 				{
 					"type": "table",
-					"caption": "Tropical Land",
+					"caption": "TERRENO TROPICAL",
 					"colLabels": [
 						"Nivel de druida",
 						"Conjuros de círculo"
@@ -1450,27 +1450,27 @@
 					],
 					"rows": [
 						[
-							"3rd",
-							"{@spell Salpicadura ácida|XPHB}, {@spell Rayo nauseabundo|XPHB}, {@spell Web|XPHB}"
+							"3",
+							"{@spell Salpicadura ácida|XPHB}, {@spell Rayo nauseabundo|XPHB}, {@spell Telaraña|XPHB}"
 						],
 						[
-							"5th",
-							"{@spell Stinking Cloud|XPHB}"
+							"5",
+							"{@spell Nube apestosa|XPHB}"
 						],
 						[
-							"7th",
-							"{@spell Polymorph|XPHB}"
+							"7",
+							"{@spell Polimorfar|XPHB}"
 						],
 						[
-							"9th",
-							"{@spell Insect Plague|XPHB}"
+							"9",
+							"{@spell Plaga de insectos|XPHB}"
 						]
 					]
 				}
 			]
 		},
 		{
-			"name": "Natural Recovery",
+			"name": "Recuperación natural",
 			"source": "XPHB",
 			"page": 99,
 			"srd52": true,
@@ -1482,12 +1482,12 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a {@variantrule Descanso largo|XPHB} before you do so again.",
-				"In addition, when you finish a {@variantrule Descanso corto|XPHB}, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a {@variantrule Descanso largo|XPHB}."
+				"Puedes lanzar un conjuro de nivel 1 o superior que tengas preparado por el rasgo Conjuros de círculo sin gastar un espacio de conjuro. Deberás finalizar un descanso largo antes de volver a hacerlo.",
+				"Además, tras finalizar un descanso corto, puedes elegir espacios de conjuro gastados y recuperarlos. La suma de niveles de estos espacios de conjuro debe ser igual o inferior a la mitad de tu nivel de druida (redondeando hacia arriba) y ninguno de los espacios puede ser de nivel 6 o más. Por ejemplo, si eres une druide de nivel 6, puedes recuperar hasta tres niveles en espacios de conjuro: puedes recuperar un espacio de conjuro de nivel 3, un espacio de nivel 2 y otro de nivel 1 o tres espacios de nivel 1. Cuando recuperes espacios de conjuro con este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo."			
 			]
 		},
 		{
-			"name": "Nature's Ward",
+			"name": "Protección de la naturaleza",
 			"source": "XPHB",
 			"page": 99,
 			"srd52": true,
@@ -1499,15 +1499,15 @@
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"You are immune to the {@condition Envenenado|XPHB} condition, and you have {@variantrule Resistance|XPHB} to a damage type associated with your current land choice in the Circle Spells feature, as shown in the {@skill Nature|XPHB}'s Ward table.",
+				"Eres inmune al estado de {@condition envenenado|XPHB} y tienes resistencia a un tipo de daño asociado con tu elección de terreno actual del rasgo Conjuros de círculo, como se muestra en la tabla “Protección de la naturaleza”.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "table",
-							"caption": "Nature's Ward",
+							"caption": "Protección de la naturaleza",
 							"colLabels": [
-								"Land Type",
+								"Tipo de terreno",
 								"Resistencia"
 							],
 							"colStyles": [
@@ -1516,20 +1516,20 @@
 							],
 							"rows": [
 								[
-									"Arid",
-									"Fire"
+									"Árido",
+									"Fuego"
 								],
 								[
 									"Polar",
-									"Cold"
+									"Frío"
 								],
 								[
-									"Temperate",
-									"Lightning"
+									"Templado",
+									"Relámpago"
 								],
 								[
 									"Tropical",
-									"Poison"
+									"Veneno"
 								]
 							]
 						}
@@ -1538,7 +1538,7 @@
 			]
 		},
 		{
-			"name": "Nature's Sanctuary",
+			"name": "Santuario de la naturaleza",
 			"source": "XPHB",
 			"page": 99,
 			"srd52": true,
@@ -1550,90 +1550,51 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend a use of your Forma salvaje and cause spectral trees and vines to appear in a 15-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} on the ground within 120 feet of yourself. They last there for 1 minute or until you have the {@condition Incapacitado|XPHB} condition or die. You and your allies have {@variantrule Cobertura|XPHB|Half Cover} while in that area, and your allies gain the current {@variantrule Resistance|XPHB} of your {@skill Nature|XPHB}'s Ward while there.",
-				"As a {@variantrule Acción adicional|XPHB}, you can move the {@variantrule Cube [Area of Effect]|XPHB|Cube} up to 60 feet to ground within 120 feet of yourself."
+				"Como acción de magia, puedes gastar un uso de tu rasgo Forma salvaje y hacer que aparezcan árboles y enredaderas espectrales en un cubo de 15 pies (4,5 m) de lado sobre el suelo a 120 pies (36 m) o menos de ti. Permanecerán ahí 1 minuto o hasta que tengas el estado de {@condition incapacitado|XPHB} o mueras. Tus aliados y tú tendréis {@variantrule Cobertura|XPHB|cobertura media} mientras estéis en esa zona y tus aliados obtendrán la {@variantrule resistencia|XPHB} actual de tu Protección de la naturaleza mientras estén ahí.",
+				"Como acción adicional, puedes mover el cubo hasta 60 pies (18 m) a una parte del suelo que esté a 120 pies (36 m) o menos de ti."
 			]
 		},
 		{
-			"name": "Circle Forms",
+			"name": "Círculo de la luna",
 			"source": "XPHB",
-			"page": 86,
+			"page": 96,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Moon",
+			"subclassShortName": "Luna",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You can channel lunar magic when you assume a Forma salvaje form, granting you the benefits below.",
-				{
-					"type": "entries",
-					"entries": [
-						{
-							"type": "entries",
-							"name": "Challenge Rating",
-							"entries": [
-								"The maximum {@variantrule Challenge Rating|XPHB} for the form equals your Druid level divided by 3 (round down)."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Armor Class",
-							"entries": [
-								"Until you leave the form, your AC equals 13 plus your Wisdom modifier if that total is higher than the Beast's AC."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Temporary Hit Points",
-							"entries": [
-								"You gain a number of {@variantrule Temporary Hit Points|XPHB} equal to three times your Druid level."
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "Circle of the Moon",
-			"source": "XPHB",
-			"page": 86,
-			"className": "Druida",
-			"classSource": "XPHB",
-			"subclassShortName": "Moon",
-			"subclassSource": "XPHB",
-			"level": 3,
-			"entries": [
-				"{@i Adopt Animal Forms to Guard the Wilds}",
-				"Druids of the Circle of the Moon draw on lunar magic to transform themselves. Their order gathers under the moon to share news and perform rituals.",
-				"Changeable as the moon, a Druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and then crash through undergrowth as a bear to drive off a trespassing monster. The wild is in the Druid's blood.",
+				"{@i Adopta formas de animales para proteger la naturaleza}",
+				"Los druidas del círculo de la luna utilizan la magia lunar para transformarse. Su orden se reúne bajo la luz de la luna para intercambiar noticias y realizar ritos.",
+				"Los druidas de este círculo son tan mutables como la propia luna y podrían acechar bajo la forma de grandes felinos una noche, sobrevolar las copas de los árboles como águilas al día siguiente y luego abrirse paso por el sotobosque convertidos en osos para expulsar a un monstruo invasor. La naturaleza salvaje recorre las venas de estos druidas.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Circle of the Moon Spells|Druida|XPHB|Moon|XPHB|3"
+					"subclassFeature": "Conjuros del círculo de la luna|Druida|XPHB|Luna|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Circle Forms|Druida|XPHB|Moon|XPHB|3"
+					"subclassFeature": "Formas del círculo|Druida|XPHB|Luna|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Circle of the Moon Spells",
+			"name": "Conjuros del círculo de la luna",
 			"source": "XPHB",
-			"page": 86,
+			"page": 97,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Moon",
+			"subclassShortName": "Luna",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"When you reach a Druid level specified in the Circle of the Moon Spells table, you thereafter always have the listed spells prepared.",
-				"In addition, you can cast the spells from this feature while you're in a Forma salvaje form.",
+				"Cuando alcances un nivel de druida especificado en la tabla “Conjuros del círculo de la luna”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
+				"Además, puedes lanzar los conjuros de este rasgo mientras utilizas tu Forma salvaje.",
 				{
 					"type": "table",
-					"caption": "Circle of the Moon Spells",
+					"caption": "CONJUROS DEL CÍRCULO DE LA LUNA",
 					"colLabels": [
 						"Nivel de druida",
-						"Prepared Spells"
+						"Conjuros preparados"
 					],
 					"colStyles": [
 						"col-1 text-center",
@@ -1642,15 +1603,15 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Curar heridas|XPHB}, {@spell Moonbeam|XPHB}, {@spell Voluta estelar|XPHB}"
+							"{@spell Curar heridas|XPHB}, {@spell Rayo de luna|XPHB}, {@spell Voluta estelar|XPHB}"
 						],
 						[
 							"5",
-							"{@spell Conjure Animals|XPHB}"
+							"{@spell Conjurar animales|XPHB}"
 						],
 						[
 							"7",
-							"{@spell Fount of Moonlight|XPHB}"
+							"{@spell Fuente de luz lunar|XPHB}"
 						],
 						[
 							"9",
@@ -1661,32 +1622,71 @@
 			]
 		},
 		{
-			"name": "Improved Circle Forms",
+			"name": "Formas del círculo",
 			"source": "XPHB",
-			"page": 87,
+			"page": 97,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Moon",
+			"subclassShortName": "Luna",
+			"subclassSource": "XPHB",
+			"level": 3,
+			"entries": [
+				"Puedes canalizar la magia lunar cuando usas tu Forma salvaje, lo que te proporciona los siguientes beneficios:",
+				{
+					"type": "entries",
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Valor de desafío",
+							"entries": [
+								"El valor de desafío máximo de la forma es igual a tu nivel de druida dividido entre 3 (redondeando hacia abajo)."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Clase de armadura",
+							"entries": [
+								"Hasta que abandones la forma, tu CA será igual a 13 más tu modificador por Sabiduría si ese total es superior a la CA de la bestia."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Puntos de golpe temporales",
+							"entries": [
+								"Obtienes una cantidad de puntos de golpe temporales igual al triple de tu nivel de druida."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Formas del círculo mejoradas",
+			"source": "XPHB",
+			"page": 97,
+			"className": "Druida",
+			"classSource": "XPHB",
+			"subclassShortName": "Luna",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"While in a Forma salvaje form, you gain the following benefits.",
+				"Mientras utilices tu Forma salvaje, obtienes los siguientes beneficios.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Lunar Radiance",
+							"name": "Resplandor lunar",
 							"entries": [
-								"Each of your attacks in a Forma salvaje form can deal its normal damage type or Radiant damage. You make this choice each time you hit with those attacks."
+								"Todos los ataques que hagas mientras utilices tu Forma salvaje pueden causar su tipo de daño normal o daño radiante. Tomas esta decisión cada vez que aciertes con esos ataques."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Increased Toughness",
+							"name": "Aguante aumentado",
 							"entries": [
-								"You can add your Wisdom modifier to your Constitution saving throws."
+								"Puedes sumar tu modificador por Sabiduría a tus tiradas de salvación de Constitución."
 							]
 						}
 					]
@@ -1694,47 +1694,47 @@
 			]
 		},
 		{
-			"name": "Moonlight Step",
+			"name": "Paso de luz lunar",
 			"source": "XPHB",
-			"page": 87,
+			"page": 97,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Moon",
+			"subclassShortName": "Luna",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"You magically transport yourself, reappearing amid a burst of moonlight. As a {@variantrule Acción adicional|XPHB}, you teleport up to 30 feet to an unoccupied space you can see, and you have {@variantrule Advantage|XPHB} on the next attack roll you make before the end of this turn.",
-				"You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Descanso largo|XPHB}. You can also regain uses by expending a level 2+ spell slot for each use you want to restore (no action required)."
+				"Te transportas mágicamente y reapareces en medio de un destello de luz lunar. Como acción adicional, te teletransportas hasta 30 pies (9 m) a un espacio sin ocupar que puedas ver y tienes ventaja en la siguiente tirada de ataque que hagas antes de que finalice este turno.",
+				"Puedes usar este rasgo una cantidad de veces igual a tu modificador por Sabiduría (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo. También puedes recuperar usos gastando un espacio de conjuro de nivel 2 o superior por cada uso que quieras recuperar (no requiere acción)."
 			]
 		},
 		{
-			"name": "Lunar Form",
+			"name": "Forma lunar",
 			"source": "XPHB",
-			"page": 87,
+			"page": 97,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Moon",
+			"subclassShortName": "Luna",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"The power of the moon suffuses you, granting you the following benefits.",
+				"El poder de la luna te envuelve y te otorga los siguientes beneficios.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Improved Lunar Radiance",
+							"name": "Luz lunar compartida",
 							"entries": [
-								"Once per turn, you can deal an extra {@damage 2d10} Radiant damage to a target you hit with a Forma salvaje form's attack."
+								"Siempre que emplees tu Paso de la luz lunar, podrás teletransportar también a una criatura voluntaria. Esa criatura deberá encontrarse a 10 pies (3 m) o menos de ti y la teletransportarás a un espacio sin ocupar que puedas ver a 10 pies (3 m) o menos de tu espacio de destino."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Shared Moonlight",
+							"name": "Resplandor lunar mejorado",
 							"entries": [
-								"Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you, and you teleport it to an unoccupied space you can see within 10 feet of your destination space."
+								"Una vez por turno, puedes causar {@damage 2d10} de daño radiante adicional a un objetivo al que aciertes con un ataque mientras utilizas tu Forma salvaje."
 							]
 						}
 					]
@@ -1742,44 +1742,44 @@
 			]
 		},
 		{
-			"name": "Circle of the Sea",
+			"name": "Círculo del mar",
 			"source": "XPHB",
-			"page": 87,
+			"page": 100,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Sea",
+			"subclassShortName": "Mar",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Become One with Tides and Storms}",
-				"Druids of the Circle of the Sea draw on the tempestuous forces of oceans and storms. Some view themselves as embodiments of nature's wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.",
+				"{@i Fúndete con las mareas y las tormentas}",
+				"Los druidas del círculo del mar utilizan las fuerzas tempestuosas de los océanos y las tormentas. Algunos se ven a sí mismos como encarnaciones de la ira de la naturaleza que pretenden vengarse de quienes expolian la naturaleza. Otros buscan la unidad mística con la naturaleza armonizándose con el flujo y reflujo de las mareas, siguiendo el curso de las corrientes y olas y escuchando los susurros y rugidos inescrutables de los vientos.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Circle of the Sea Spells|Druida|XPHB|Sea|XPHB|3"
+					"subclassFeature": "Conjuros del círculo del mar|Druida|XPHB|Mar|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Wrath of the Sea|Druida|XPHB|Sea|XPHB|3"
+					"subclassFeature": "Ira de los mares|Druida|XPHB|Mar|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Circle of the Sea Spells",
+			"name": "Conjuros del círculo del mar",
 			"source": "XPHB",
-			"page": 87,
+			"page": 101,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Sea",
+			"subclassShortName": "Mar",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"When you reach a Druid level specified in the Circle of the Sea Spells table, you thereafter always have the listed spells prepared.",
+				"Cuando alcances un nivel de druida especificado en la tabla “Conjuros del círculo del mar”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Circle of the Sea Spells",
+					"caption": "Conjuros del círculo del mar",
 					"colLabels": [
 						"Nivel de druida",
-						"Prepared Spells"
+						"Conjuros preparados"
 					],
 					"colStyles": [
 						"col-1 text-center",
@@ -1787,95 +1787,95 @@
 					],
 					"rows": [
 						[
-							"3rd",
-							"{@spell Nube de oscurecimiento|XPHB}, {@spell Gust of Wind|XPHB}, {@spell Rayo de escarcha|XPHB}, {@spell Hacer añicos|XPHB}, {@spell Thunderwave|XPHB}"
+							"3",
+							"{@spell Nube de oscurecimiento|XPHB}, {@spell Ráfaga de viento|XPHB}, {@spell Rayo de escarcha|XPHB}, {@spell Hacer añicos|XPHB}, {@spell Ola atronadora|XPHB}"
 						],
 						[
-							"5th",
-							"{@spell Relámpago|XPHB}, {@spell Water Breathing|XPHB}"
+							"5",
+							"{@spell Relámpago|XPHB}, {@spell Respirar bajo el agua|XPHB}"
 						],
 						[
-							"7th",
-							"{@spell Control Water|XPHB}, {@spell Tormenta de hielo|XPHB}"
+							"7",
+							"{@spell Controlar agua|XPHB}, {@spell Tormenta de hielo|XPHB}"
 						],
 						[
-							"9th",
-							"{@spell Conjure Elemental|XPHB}, {@spell Inmovilizar monstruo|XPHB}"
+							"9",
+							"{@spell Conjurar elemental|XPHB}, {@spell Inmovilizar monstruo|XPHB}"
 						]
 					]
 				}
 			]
 		},
 		{
-			"name": "Wrath of the Sea",
+			"name": "Ira de los mares",
 			"source": "XPHB",
-			"page": 87,
+			"page": 101,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Sea",
+			"subclassShortName": "Mar",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can expend a use of your Forma salvaje to manifest a 5-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} that takes the form of ocean spray that surrounds you for 10 minutes. It ends early if you dismiss it (no action required), manifest it again, or have the {@condition Incapacitado|XPHB} condition.",
-				"When you manifest the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} and as a {@variantrule Acción adicional|XPHB} on your subsequent turns, you can choose another creature you can see in the {@variantrule Emanation [Area of Effect]|XPHB|Emanation}. The target must succeed on a Constitution saving throw against your spell save DC or take Cold damage and, if the creature is Large or smaller, be pushed up to 15 feet away from you. To determine this damage, roll a number of d6s equal to your Wisdom modifier (minimum of one die)."
+				"Como acción adicional, puedes gastar un uso de tu rasgo Forma salvaje para generar una emanación de 5 pies (1,5 m) que adopta la forma de la espuma de mar y te rodea durante 10 minutos. Terminará antes de tiempo si la disipas (no requiere acción), si la generas de nuevo o si tienes el estado de {@condition incapacitado|XPHB}.",
+				"Cuando generas la emanación y como acción adicional en tus siguientes turnos, puedes elegir a otra criatura que puedas ver en la emanación. El objetivo deberá superar una tirada de salvación de Constitución contra tu CD de salvación de conjuros o sufrirá daño de frío y, si la criatura es Grande o más pequeña, será empujada hasta 15 pies (4,5 m) respecto a ti. Para determinar este daño, tira una cantidad de d6 igual a tu modificador por Sabiduría (un dado como mínimo)."
 			]
 		},
 		{
-			"name": "Aquatic Affinity",
+			"name": "Afinidad acuática",
 			"source": "XPHB",
-			"page": 87,
+			"page": 101,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Sea",
+			"subclassShortName": "Mar",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"The size of the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} created by your Wrath of the Sea increases to 10 feet.",
-				"In addition, you gain a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Speed|XPHB}."
+				"El tamaño de la emanación creada con tu Ira de los mares aumenta a 10 pies (3 m).",
+				"Además, obtienes una velocidad nadando igual a tu velocidad."
 			]
 		},
 		{
-			"name": "Stormborn",
+			"name": "Nacido de la tempestad",
 			"source": "XPHB",
-			"page": 87,
+			"page": 101,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Sea",
+			"subclassShortName": "Mar",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"Your Wrath of the Sea confers two more benefits while active, as detailed below.",
-				{
-					"type": "entries",
-					"name": "Flight",
-					"entries": [
-						"You gain a {@variantrule Fly Speed|XPHB} equal to your {@variantrule Speed|XPHB}."
-					]
-				},
+				"Tu rasgo Ira de los mares otorga dos beneficios más mientras está activo, como se detalla a continuación.",
 				{
 					"type": "entries",
 					"name": "Resistencia",
 					"entries": [
-						"You have {@variantrule Resistance|XPHB} to Cold, Lightning, and Thunder damage."
+						"Tienes {@variantrule resistencia|XPHB} al daño de frío, relámpago y trueno."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Vuelo",
+					"entries": [
+						"Obtienes una velocidad volando igual a tu velocidad."
 					]
 				}
 			]
 		},
 		{
-			"name": "Oceanic Gift",
+			"name": "Obsequio oceánico",
 			"source": "XPHB",
-			"page": 88,
+			"page": 101,
 			"className": "Druida",
 			"classSource": "XPHB",
-			"subclassShortName": "Sea",
+			"subclassShortName": "Mar",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Instead of manifesting the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} of Wrath of the Sea around yourself, you can manifest it around one willing creature within 60 feet of yourself. That creature gains all the benefits of the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} and uses your spell save DC and Wisdom modifier for it.",
-				"In addition, you can manifest the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} around both the other creature and yourself if you expend two uses of your Forma salvaje instead of one when manifesting it."
+				"En vez de generar la emanación del rasgo Ira de los mares alrededor de ti, puedes generarla alrededor de una criatura voluntaria que esté a 60 pies (18 m) o menos de ti. Esa criatura obtiene todos los beneficios de la emanación y utiliza tu CD de salvación de conjuros y modificador por Sabiduría para ella.",
+				"Además, puedes generar la emanación alrededor de ti y de la otra criatura si gastas dos usos de Forma salvaje en vez de uno al manifestarla."
 			]
 		},
 		{
@@ -1969,7 +1969,7 @@
 			},
 			"entries": [
 				"As a {@variantrule Acción adicional|XPHB}, you can expend a use of your Forma salvaje feature to take on a starry form rather than shape-shifting.",
-				"While in your starry form, you retain your game statistics, but your body becomes luminous, your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds {@variantrule Bright Light|XPHB} in a 10-foot radius and {@variantrule Dim Light|XPHB} for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the {@condition Incapacitado|XPHB} condition, or use this feature again.",
+				"While in your starry form, you retain your game statistics, but your body becomes luminous, your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds {@variantrule Luz brillante|XPHB} in a 10-foot radius and {@variantrule Luz tenue|XPHB} for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the {@condition Incapacitado|XPHB} condition, or use this feature again.",
 				"Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form.",
 				{
 					"type": "refSubclassFeature",

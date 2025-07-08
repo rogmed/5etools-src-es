@@ -6026,7 +6026,7 @@
 												],
 												[
 													"19\u201327",
-													"Local plants and animals share a malevolent intelligence. Roll a {@dice d6}. On a 1\u20132, an {@spell insect plague} spell is centered on one random creature in the region. On a 3\u20134, {@dice 1d4} {@creature Swarm of Ravens||swarms of ravens} and {@dice 1d4} {@creature Swarm of Rats||swarms of rats} gather and attack any other creatures in the region. On a 5\u20136, a {@creature treant} (in forested terrain) or a {@creature galeb duhr} (in rockier terrain) attacks."
+													"Local plants and animals share a malevolent intelligence. Roll a {@dice d6}. On a 1\u20132, an {@spell plaga de insectos} spell is centered on one random creature in the region. On a 3\u20134, {@dice 1d4} {@creature Swarm of Ravens||swarms of ravens} and {@dice 1d4} {@creature Swarm of Rats||swarms of rats} gather and attack any other creatures in the region. On a 5\u20136, a {@creature treant} (in forested terrain) or a {@creature galeb duhr} (in rockier terrain) attacks."
 												],
 												[
 													"28\u201336",
@@ -6267,7 +6267,7 @@
 												],
 												[
 													"36\u201345",
-													"The region is choked with wispy webbing, which acts as {@quickref difficult terrain||3}."
+													"The region is choked with wispy webbing, which acts as {@quickref terreno difícil||3}."
 												],
 												[
 													"46\u201350",
@@ -7222,11 +7222,11 @@
 												],
 												[
 													"Toxic gas",
-													"{@spell Cloudkill}, {@spell stinking cloud}"
+													"{@spell Cloudkill}, {@spell nube apestosa}"
 												],
 												[
 													"Thunder",
-													"{@spell Thunderwave}"
+													"{@spell Ola atronadora}"
 												],
 												[
 													"Volcanic lightning",

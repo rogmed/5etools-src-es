@@ -1500,7 +1500,7 @@
 					"daily": {
 						"2e": [
 							"{@spell faerie fire}",
-							"{@spell gust of wind}",
+							"{@spell ráfaga de viento}",
 							"{@spell Imagen múltiple}"
 						]
 					},
@@ -2085,7 +2085,7 @@
 					"daily": {
 						"1e": [
 							"{@spell animal messenger} (rats only)",
-							"{@spell stinking cloud}"
+							"{@spell nube apestosa}"
 						]
 					},
 					"ability": "wis",

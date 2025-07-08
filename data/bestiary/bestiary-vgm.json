@@ -725,7 +725,7 @@
 									"slots": 3,
 									"spells": [
 										"{@spell flaming sphere}",
-										"{@spell moonbeam}",
+										"{@spell rayo de luna}",
 										"{@spell spike growth}"
 									]
 								},
@@ -746,7 +746,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell insect plague}",
+										"{@spell plaga de insectos}",
 										"{@spell paso arbóreo}"
 									]
 								},
@@ -1026,7 +1026,7 @@
 										"slots": 3,
 										"spells": [
 											"{@spell flaming sphere}",
-											"{@spell moonbeam}",
+											"{@spell rayo de luna}",
 											"{@spell spike growth}"
 										]
 									},
@@ -1047,7 +1047,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell insect plague}",
+											"{@spell plaga de insectos}",
 											"{@spell paso arbóreo}"
 										]
 									},
@@ -1369,9 +1369,9 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell meld into stone}",
-								"{@spell water breathing}"
+								"{@spell respirar bajo el agua}"
 							]
 						},
 						"4": {
@@ -2068,7 +2068,7 @@
 								"{@spell healing word}",
 								"{@spell heroism}",
 								"{@spell sleep}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2448,7 +2448,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The hag can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref difficult terrain||3} composed of ice or snow doesn't cost her extra moment."
+						"The hag can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref terreno difícil||3} composed of ice or snow doesn't cost her extra moment."
 					]
 				}
 			],
@@ -2620,7 +2620,7 @@
 									"slots": 3,
 									"spells": [
 										"{@spell flaming sphere}",
-										"{@spell moonbeam}",
+										"{@spell rayo de luna}",
 										"{@spell spike growth}"
 									]
 								},
@@ -2641,7 +2641,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell insect plague}",
+										"{@spell plaga de insectos}",
 										"{@spell paso arbóreo}"
 									]
 								},
@@ -2926,7 +2926,7 @@
 										"slots": 3,
 										"spells": [
 											"{@spell flaming sphere}",
-											"{@spell moonbeam}",
+											"{@spell rayo de luna}",
 											"{@spell spike growth}"
 										]
 									},
@@ -2947,7 +2947,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell insect plague}",
+											"{@spell plaga de insectos}",
 											"{@spell paso arbóreo}"
 										]
 									},
@@ -3673,7 +3673,7 @@
 				{
 					"name": "Oil Puddle",
 					"entries": [
-						"The boggle creates a puddle of oil that is either slippery or sticky (boggle's choice). The puddle is 1 inch deep and covers the ground in the boggle's space. The puddle is {@quickref difficult terrain||3} For all creatures except boggles and lasts for 1 hour.",
+						"The boggle creates a puddle of oil that is either slippery or sticky (boggle's choice). The puddle is 1 inch deep and covers the ground in the boggle's space. The puddle is {@quickref terreno difícil||3} For all creatures except boggles and lasts for 1 hour.",
 						"If the oil is slippery, any creature that enters the puddle's area or starts its turn there must succeed on a {@dc 11} Dexterity saving throw or fall {@condition prone}.",
 						"If the oil is sticky, any creature that enters the puddle's area or starts its turn there must succeed on a {@dc 11} Strength saving throw or be {@condition restrained}. On its turn. a creature can use an action to try to extricate itself from the sticky puddle, ending the effect and moving into the nearest safe unoccupied space with a successful {@dc 11} Strength check."
 					]
@@ -4962,7 +4962,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell fireball}",
-								"{@spell stinking cloud}*"
+								"{@spell nube apestosa}*"
 							]
 						},
 						"4": {
@@ -4976,7 +4976,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell cloudkill}*",
-								"{@spell conjure elemental}*"
+								"{@spell Conjurar elemental}*"
 							]
 						}
 					},
@@ -10242,13 +10242,13 @@
 							"spells": [
 								"{@spell fog cloud}",
 								"{@spell magic missile}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell Melf's acid arrow}",
 								"{@spell scorching ray}"
 							]
@@ -10615,7 +10615,7 @@
 								"{@spell detect magic}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -11887,7 +11887,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell conjure elemental} (as 6th-level spell; {@creature galeb duhr}, {@creature gargoyle}, {@creature earth elemental}, or {@creature xorn} only)",
+							"{@spell Conjurar elemental} (as 6th-level spell; {@creature galeb duhr}, {@creature gargoyle}, {@creature earth elemental}, or {@creature xorn} only)",
 							"{@spell Otto's irresistible dance}"
 						]
 					},
@@ -12080,7 +12080,7 @@
 						"3e": [
 							"{@spell control water}",
 							"{@spell darkness}",
-							"{@spell water breathing}",
+							"{@spell respirar bajo el agua}",
 							"{@spell water walk}"
 						],
 						"1e": [
@@ -16955,7 +16955,7 @@
 				{
 					"name": "Gust",
 					"entries": [
-						"The giant targets a creature it can see within 60 feet of it and creates a magical gust of wind around it. The target must succeed on a {@dc 18} Strength saving throw or be pushed up to 20 feet in any horizontal direction the giant chooses."
+						"The giant targets a creature it can see within 60 feet of it and creates a magical ráfaga de viento around it. The target must succeed on a {@dc 18} Strength saving throw or be pushed up to 20 feet in any horizontal direction the giant chooses."
 					]
 				},
 				{
@@ -19209,7 +19209,7 @@
 								"{@spell magic circle}",
 								"{@spell scorching ray}",
 								"{@spell scrying}",
-								"{@spell stinking cloud}",
+								"{@spell nube apestosa}",
 								"{@spell suggestion}",
 								"{@spell wall of fire}"
 							]

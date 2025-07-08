@@ -950,7 +950,7 @@
 														{
 															"type": "item",
 															"name": "1\u20132:",
-															"entry": "Melting Terrain. For 1 minute, the ground within 20 feet of the creature melts into a mud-like texture, becoming {@book difficult terrain|PHB|8|Difficult Terrain}."
+															"entry": "Melting Terrain. For 1 minute, the ground within 20 feet of the creature melts into a mud-like texture, becoming {@book terreno difícil|PHB|8|Difficult Terrain}."
 														},
 														{
 															"type": "item",

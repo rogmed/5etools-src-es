@@ -3015,7 +3015,7 @@
 							"{@spell speak with animals}",
 							"{@spell stoneskin}",
 							"{@spell paso arbóreo}",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						],
 						"1e": [
 							"{@spell foresight}",
@@ -5931,7 +5931,7 @@
 						"{@spell detect evil and good}",
 						"{@spell dispel magic}",
 						"{@spell hallow}",
-						"{@spell insect plague}",
+						"{@spell plaga de insectos}",
 						"{@spell telekinesis}",
 						"{@spell teleport}",
 						"{@spell wind walk}"

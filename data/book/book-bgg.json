@@ -4418,7 +4418,7 @@
 										{
 											"type": "item",
 											"name": "Oversized Furnishing and Objects",
-											"entry": "Furnishings and other items in a location made for Huge giants are typically three times the size of human-sized equivalents and roughly twenty-seven times the weight. Medium and smaller creatures can clamber over or scuttle under giant-sized furniture, treating it as {@book difficult terrain|PHB|8|Difficult Terrain}. Such creatures can move normally beneath particularly hefty pieces of giant furniture, such as a 12-foot-tall dining table."
+											"entry": "Furnishings and other items in a location made for Huge giants are typically three times the size of human-sized equivalents and roughly twenty-seven times the weight. Medium and smaller creatures can clamber over or scuttle under giant-sized furniture, treating it as {@book terreno difícil|PHB|8|Difficult Terrain}. Such creatures can move normally beneath particularly hefty pieces of giant furniture, such as a 12-foot-tall dining table."
 										},
 										{
 											"type": "item",
@@ -6058,7 +6058,7 @@
 										{
 											"type": "item",
 											"name": "Spellcasting",
-											"entry": "While on the Howling Iceberg, a creature attuned to the shard can cast the {@spell control weather} (to lower the temperature and manipulate wind only), {@spell cono de frío}, {@spell fear}, and {@spell gust of wind} spells (spell save {@dc 17}), requiring no material components. Once the creature uses this property to cast a spell, the creature can't cast that spell with the property again until it finishes a long rest."
+											"entry": "While on the Howling Iceberg, a creature attuned to the shard can cast the {@spell control weather} (to lower the temperature and manipulate wind only), {@spell cono de frío}, {@spell fear}, and {@spell ráfaga de viento} spells (spell save {@dc 17}), requiring no material components. Once the creature uses this property to cast a spell, the creature can't cast that spell with the property again until it finishes a long rest."
 										},
 										{
 											"type": "item",
@@ -6304,7 +6304,7 @@
 										{
 											"type": "item",
 											"name": "Foggy Border",
-											"entry": "The edges of the valley are {@book heavily obscured|PHB|8|Vision and Light} by fog, which thins to {@book lightly obscuring|PHB|8|Vision and Light} mist in the valley itself."
+											"entry": "The edges of the valley are {@book muy oscuro|PHB|8|Vision and Light} by fog, which thins to {@book lightly obscuring|PHB|8|Vision and Light} mist in the valley itself."
 										},
 										{
 											"type": "item",

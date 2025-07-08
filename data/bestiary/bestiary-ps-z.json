@@ -780,7 +780,7 @@
 					"daily": {
 						"3e": [
 							"{@spell control weather}",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha"

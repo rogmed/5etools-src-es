@@ -1801,7 +1801,7 @@ Parser.SP_MISC_TAG_TO_FULL = {
 	"UBA": "Uses Bonus Action",
 	"PS": "Plane Shifting",
 	"OBS": "Obscures Vision",
-	"DFT": "Difficult Terrain",
+	"DFT": "Terreno difícil",
 	"AAD": "Additional Attack Damage",
 	"OBJ": "Affects Objects",
 	"ADV": "Grants Advantage",

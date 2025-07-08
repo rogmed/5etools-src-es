@@ -1000,13 +1000,13 @@
 							"spells": [
 								"{@spell detect magic}",
 								"{@spell faerie fire}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell hold person}",
 								"{@spell lesser restoration}"
 							]
@@ -1168,7 +1168,7 @@
 				{
 					"name": "Entangling Vines",
 					"entries": [
-						"The assassin vine can animate normal vines and roots on the ground in a 15-foot square within 30 feet of it. These plants turn the ground in that area into {@quickref difficult terrain||3}. A creature in that area when the effect begins must succeed on a {@dc 13} Strength saving throw or be {@condition restrained} by entangling vines and roots. A creature {@condition restrained} by the plants can use its action to make a {@dc 13} Strength ({@skill Athletics}) check, freeing itself on a successful check. The effect ends after 1 minute or when the assassin vine dies or uses Entangling Vines again."
+						"The assassin vine can animate normal vines and roots on the ground in a 15-foot square within 30 feet of it. These plants turn the ground in that area into {@quickref terreno difícil||3}. A creature in that area when the effect begins must succeed on a {@dc 13} Strength saving throw or be {@condition restrained} by entangling vines and roots. A creature {@condition restrained} by the plants can use its action to make a {@dc 13} Strength ({@skill Athletics}) check, freeing itself on a successful check. The effect ends after 1 minute or when the assassin vine dies or uses Entangling Vines again."
 					]
 				}
 			],
@@ -5640,7 +5640,7 @@
 								"{@spell detect magic}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -6102,7 +6102,7 @@
 								"{@spell detect magic}",
 								"{@spell expeditious retreat}",
 								"{@spell feather fall}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {

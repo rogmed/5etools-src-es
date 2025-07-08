@@ -1277,7 +1277,7 @@
 								"{@spell entangle}",
 								"{@spell longstrider}",
 								"{@spell speak with animals}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2947,7 +2947,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell Insect Plague}"
+							"{@spell Plaga de insectos}"
 						],
 						"2e": [
 							"{@spell Orden imperiosa}",

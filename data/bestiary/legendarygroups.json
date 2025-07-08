@@ -25,7 +25,7 @@
 				{
 					"type": "list",
 					"items": [
-						"Underground surfaces within 1 mile of the aboleth's lair are slimy and wet and are {@quickref difficult terrain||3}.",
+						"Underground surfaces within 1 mile of the aboleth's lair are slimy and wet and are {@quickref terreno difícil||3}.",
 						"Water sources within 1 mile of the lair are supernaturally fouled. Enemies of the aboleth that drink such water vomit it within minutes.",
 						"As an action, the aboleth can create an illusory image of itself within 1 mile of the lair. The copy can appear at any location the aboleth has seen before or in any location a creature {@condition charmed} by the aboleth can currently see. Once created, the image lasts for as long as the aboleth maintains {@status concentration}, as if {@status concentration||concentrating} on a spell. Although the image is intangible, it looks, sounds, and can move like the aboleth. The aboleth can sense, speak, and use telepathy from the image's position as if present at that position. If the image takes any damage, it disappears."
 					]
@@ -348,7 +348,7 @@
 						{
 							"type": "item",
 							"name": "Diverting Currents",
-							"entry": "Underwater currents push unwanted visitors away from the lair. While swimming in these currents, each foot of movement costs 1 extra foot (2 extra feet in {@quickref difficult terrain||3}), even if a creature has a swimming speed."
+							"entry": "Underwater currents push unwanted visitors away from the lair. While swimming in these currents, each foot of movement costs 1 extra foot (2 extra feet in {@quickref terreno difícil||3}), even if a creature has a swimming speed."
 						},
 						{
 							"type": "item",
@@ -380,7 +380,7 @@
 							{
 								"type": "list",
 								"items": [
-									"The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are heavily obscured. A creature that enters the cloud for the first time on a turn or starts its turn there takes 10 ({@damage 3d6}) acid damage."
+									"The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are muy oscuro. A creature that enters the cloud for the first time on a turn or starts its turn there takes 10 ({@damage 3d6}) acid damage."
 								]
 							}
 						]
@@ -602,7 +602,7 @@
 						{
 							"type": "item",
 							"name": "Insect Swarm",
-							"entry": "Aurnozci creates a 30-foot-radius sphere of stinging wasps centered on a point within 300 feet of itself. The sphere spreads around corners. The sphere remains for 10 minutes or until Aurnozci uses this lair action again. The sphere's area is heavily obscured and is difficult terrain. When the sphere appears, each creature in it must make a {@dc 20} Constitution saving throw, taking 16 ({@damage 3d10}) piercing damage and 16 ({@damage 3d10}) poison damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the sphere's area for the first time on a turn or starts its turn there."
+							"entry": "Aurnozci creates a 30-foot-radius sphere of stinging wasps centered on a point within 300 feet of itself. The sphere spreads around corners. The sphere remains for 10 minutes or until Aurnozci uses this lair action again. The sphere's area is muy oscuro and is difficult terrain. When the sphere appears, each creature in it must make a {@dc 20} Constitution saving throw, taking 16 ({@damage 3d10}) piercing damage and 16 ({@damage 3d10}) poison damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the sphere's area for the first time on a turn or starts its turn there."
 						}
 					]
 				}
@@ -667,7 +667,7 @@
 							"type": "item",
 							"name": "Filth",
 							"entries": [
-								"Within 1 mile of the lair, stinking piles of filth accumulate as if from nowhere. The entire area is covered with garbage and feces and is treated as {@quickref difficult terrain||3}."
+								"Within 1 mile of the lair, stinking piles of filth accumulate as if from nowhere. The entire area is covered with garbage and feces and is treated as {@quickref terreno difícil||3}."
 							]
 						}
 					]
@@ -695,7 +695,7 @@
 				{
 					"type": "list",
 					"items": [
-						"Within 1 mile of Baalzebul's lair, stinking piles of filth accumulate as if from nowhere. The entire area is covered with garbage and feces and is treated as {@quickref difficult terrain||3}.",
+						"Within 1 mile of Baalzebul's lair, stinking piles of filth accumulate as if from nowhere. The entire area is covered with garbage and feces and is treated as {@quickref terreno difícil||3}.",
 						"Within 2 miles of the lair, the air is filled with buzzing flies. Any creature that finishes a short or long rest in this area must succeed on a {@dc 22} Wisdom saving throw or derive no benefit from the rest."
 					]
 				},
@@ -1043,7 +1043,7 @@
 				{
 					"type": "list",
 					"items": [
-						"A 50-foot-square area of ground within 120 feet of the beholder becomes slimy; that area is {@quickref difficult terrain||3} until initiative count 20 on the next round.",
+						"A 50-foot-square area of ground within 120 feet of the beholder becomes slimy; that area is {@quickref terreno difícil||3} until initiative count 20 on the next round.",
 						"Walls within 120 feet of the beholder sprout grasping appendages until initiative count 20 on the round after next. Each creature of the beholder's choice that starts its turn within 10 feet of such a wall must succeed on a {@dc 15} Dexterity saving throw or be {@condition grappled}. Escaping requires a successful {@dc 15} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check.",
 						"An eye opens on a solid surface within 60 feet of the beholder. One random eye ray of the beholder shoots from that eye at a target of the beholder's choice that it can see. The eye then closes and disappears."
 					]
@@ -1282,7 +1282,7 @@
 								{
 									"type": "item",
 									"name": "Filth Burst",
-									"entry": "The dragon chooses a point on the ground it can see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery filth centered on that point erupts from the ground until initiative count 20 on the next round. Each creature in the cylinder when it appears or that ends its turn there must make a {@dc 15} Constitution saving throw, taking 10 ({@damage 3d6}) poison damage on a failed save, or half as much damage on a successful one. The cylinder is {@book difficult terrain|PHB|8|Difficult Terrain}."
+									"entry": "The dragon chooses a point on the ground it can see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery filth centered on that point erupts from the ground until initiative count 20 on the next round. Each creature in the cylinder when it appears or that ends its turn there must make a {@dc 15} Constitution saving throw, taking 10 ({@damage 3d6}) poison damage on a failed save, or half as much damage on a successful one. The cylinder is {@book terreno difícil|PHB|8|Difficult Terrain}."
 								},
 								{
 									"type": "item",
@@ -1356,7 +1356,7 @@
 							"type": "item",
 							"name": "Acrid Haze",
 							"entries": [
-								"Odorous and stifling fog covers the area within 1 mile of the lair, rendering that area {@variantrule Lightly Obscured|XPHB}. Travel for creatures other than the dragon and its allies takes twice the usual time in that area."
+								"Odorous and stifling fog covers the area within 1 mile of the lair, rendering that area {@variantrule Ligeramente oscuro|XPHB}. Travel for creatures other than the dragon and its allies takes twice the usual time in that area."
 							]
 						},
 						{
@@ -1383,7 +1383,7 @@
 						"Puslike fluid erupts in a 20-foot radius centered on a point on the ground the dragon can see within 120 feet of it. That area becomes difficult terrain, and a creature moving through this terrain must succeed on a {@dc 15} Strength saving throw or be grappled (escape {@dc 15}) by the sucking glop and restrained while grappled in this way. Another creature can pull a restrained target free by taking an action and succeeding on a {@dc 15} Strength (",
 						"{@skill Athletics}",
 						") check. The ground dries sufficiently to return to normal on initiative count 20 of the next round.",
-						"Foul gas belches forth in a 20-foot-radius sphere from a point the dragon can see within 120 feet of it. The cloud spreads around corners, and its area is heavily obscured. Each creature within the cloud at the start of its turn must make a {@dc 15} Constitution saving throw against poison. On a failed save, the creature is poisoned. Creatures that don't need to breathe or are immune to poison automatically succeed on this saving throw. This cloud disperses on initiative count 20 of the next round. It disperses early if subjected to intense wind."
+						"Foul gas belches forth in a 20-foot-radius sphere from a point the dragon can see within 120 feet of it. The cloud spreads around corners, and its area is muy oscuro. Each creature within the cloud at the start of its turn must make a {@dc 15} Constitution saving throw against poison. On a failed save, the creature is poisoned. Creatures that don't need to breathe or are immune to poison automatically succeed on this saving throw. This cloud disperses on initiative count 20 of the next round. It disperses early if subjected to intense wind."
 					]
 				}
 			]
@@ -1495,7 +1495,7 @@
 							"type": "item",
 							"name": "Spiteful Storms",
 							"entries": [
-								"Dust devils and thunderstorms rage within 1 mile of the lair. The area is {@variantrule Lightly Obscured|XPHB}."
+								"Dust devils and thunderstorms rage within 1 mile of the lair. The area is {@variantrule Ligeramente oscuro|XPHB}."
 							]
 						}
 					]
@@ -2052,7 +2052,7 @@
 				{
 					"type": "list",
 					"items": [
-						"An area that is a 50-foot cube within 120 feet of the tyrant is filled with spectral eyes and tentacles. To creatures other than the death tyrant, that area is lightly obscured and {@quickref difficult terrain||3} until initiative count 20 on the next round.",
+						"An area that is a 50-foot cube within 120 feet of the tyrant is filled with spectral eyes and tentacles. To creatures other than the death tyrant, that area is lightly obscured and {@quickref terreno difícil||3} until initiative count 20 on the next round.",
 						"Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a {@dc 17} Dexterity saving throw or be {@condition grappled}. Escaping requires a successful {@dc 17} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check.",
 						"A spectral eye opens in the air at a point within 50 feet of the tyrant. One random eye ray of the tyrant shoots from that eye, which is considered to be an ethereal source, at a target of the tyrant's choice. The eye then closes and disappears."
 					]
@@ -2118,7 +2118,7 @@
 						{
 							"type": "item",
 							"name": "Mossy Sludge",
-							"entry": "The dragon conjures sludge-like moss that briefly covers surfaces in the lair. The ceiling, floor, and walls of the lair become {@quickref difficult terrain||3} until initiative count 20 on the next round."
+							"entry": "The dragon conjures sludge-like moss that briefly covers surfaces in the lair. The ceiling, floor, and walls of the lair become {@quickref terreno difícil||3} until initiative count 20 on the next round."
 						},
 						{
 							"type": "item",
@@ -2491,7 +2491,7 @@
 										"type": "item",
 										"name": "Buckle",
 										"entries": [
-											"The area in a 120-foot-radius around Dispater bends and twists, becoming {@quickref difficult terrain||3}. Dispater's Superheat Metal ability is recharged."
+											"The area in a 120-foot-radius around Dispater bends and twists, becoming {@quickref terreno difícil||3}. Dispater's Superheat Metal ability is recharged."
 										]
 									}
 								]
@@ -2532,7 +2532,7 @@
 							"type": "item",
 							"name": "Sapping Mist",
 							"entries": [
-								"The area within 1 mile of the lair is {@variantrule Lightly Obscured|XPHB} by pale fog. Whenever a creature other than the dracolich or one of its allies finishes a {@variantrule Descanso largo|XPHB} in that area, it must succeed on a {@dc 15} Constitution saving throw or gain 1 {@condition Exhaustion|XPHB} level."
+								"The area within 1 mile of the lair is {@variantrule Ligeramente oscuro|XPHB} by pale fog. Whenever a creature other than the dracolich or one of its allies finishes a {@variantrule Descanso largo|XPHB} in that area, it must succeed on a {@dc 15} Constitution saving throw or gain 1 {@condition Exhaustion|XPHB} level."
 							]
 						},
 						{
@@ -2826,7 +2826,7 @@
 						{
 							"type": "item",
 							"name": "Grasping Plants",
-							"entry": "The faerie dragon causes roots and vines to temporarily grow around it; until initiative count 20 on the next round, the ground within 20 feet of the dragon is {@book difficult terrain|PHB|8|Difficult Terrain}."
+							"entry": "The faerie dragon causes roots and vines to temporarily grow around it; until initiative count 20 on the next round, the ground within 20 feet of the dragon is {@book terreno difícil|PHB|8|Difficult Terrain}."
 						}
 					]
 				}
@@ -3530,7 +3530,7 @@
 							"type": "item",
 							"name": "Foretelling Fog",
 							"entries": [
-								"The area within 1 mile of the lair is {@variantrule Lightly Obscured|XPHB} by opalescent fog. While in that area, creatures can't be {@status surprised|XPHB}, as the fog swirls into shapes that warn of danger."
+								"The area within 1 mile of the lair is {@variantrule Ligeramente oscuro|XPHB} by opalescent fog. While in that area, creatures can't be {@status surprised|XPHB}, as the fog swirls into shapes that warn of danger."
 							]
 						}
 					]
@@ -3731,7 +3731,7 @@
 				{
 					"type": "list",
 					"items": [
-						"Grasping roots and vines erupt in a 20-foot radius centered on a point on the ground that the dragon can see within 120 feet of it. That area becomes {@quickref difficult terrain||3}, and each creature there must succeed on a {@dc 15} Strength saving throw or be {@condition restrained} by the roots and vines. A creature can be freed if it or another creature takes an action to make a {@dc 15} Strength check and succeeds. The roots and vines wilt away when the dragon uses this lair action again or when the dragon dies.",
+						"Grasping roots and vines erupt in a 20-foot radius centered on a point on the ground that the dragon can see within 120 feet of it. That area becomes {@quickref terreno difícil||3}, and each creature there must succeed on a {@dc 15} Strength saving throw or be {@condition restrained} by the roots and vines. A creature can be freed if it or another creature takes an action to make a {@dc 15} Strength check and succeeds. The roots and vines wilt away when the dragon uses this lair action again or when the dragon dies.",
 						"A wall of tangled brush bristling with thorns springs into existence on a solid surface within 120 feet of the dragon. The wall is up to 60 feet long, 10 feet high, and 5 feet thick, and it blocks line of sight. When the wall appears, each creature in its area must make a {@dc 15} Dexterity saving throw. A creature that fails the save takes 18 ({@damage 4d8}) piercing damage and is pushed 5 feet out of the wall's space, appearing on whichever side of the wall it wants. A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature travels through the wall, it must spend 4 feet of movement. Furthermore, a creature in the wall's space must make a {@dc 15} Dexterity saving throw once each round it's in contact with the wall, taking 18 ({@damage 4d8}) piercing damage on a failed save, or half as much damage on a successful one. Each 10-foot section of wall has AC 5, 15 hit points, vulnerability to fire damage, resistance to bludgeoning and piercing damage, and immunity to psychic damage. The wall sinks back into the ground when the dragon uses this lair action again or when the dragon dies.",
 						"Magical fog billows around one creature the dragon can see within 120 feet of it. The creature must succeed on a {@dc 15} Wisdom saving throw or be {@condition charmed} by the dragon until initiative count 20 on the next round."
 					]
@@ -3777,7 +3777,7 @@
 						"Rodents and birds within 1 mile of the dragon's lair serve as the dragon's eyes and ears. Deer and other large game are strangely absent, hinting at the presence of an unnaturally hungry predator."
 					]
 				},
-				"If the dragon dies, the rodents and birds lose their supernatural link to it. The thickets remain, but within {@dice 1d10} days, they become mundane plants and normal {@quickref difficult terrain||3}, losing their thorns.",
+				"If the dragon dies, the rodents and birds lose their supernatural link to it. The thickets remain, but within {@dice 1d10} days, they become mundane plants and normal {@quickref terreno difícil||3}, losing their thorns.",
 				{
 					"type": "entries",
 					"name": "Additional Regional Effects",
@@ -4099,7 +4099,7 @@
 					"type": "list",
 					"items": [
 						"Any fires in the lair flare up drastically, quadrupling in size (for example, a fire blazing in a 5-foot by 5-foot area expands to a 10-foot by 10-foot area). Pools or streams of lava or other molten material are also affected. Creatures caught in the area of an expanded fire are subject to the normal damage for entering or being in the fire. Creatures caught by a sudden flood of lava must succeed on a {@dc 20} Strength saving throw or be knocked {@condition prone}, in addition to the normal damage for contact with molten rock.",
-						"A thick cloud of black smoke and burning embers fills a 40-foot-radius sphere within 120 feet of Imix, lasting until initiative count 20 of the next round. Creatures and objects within or beyond the smoke are heavily obscured. A creature that enters the cloud of embers for the first time on a turn or starts its turn there takes 10 ({@damage 3d6}) fire damage.",
+						"A thick cloud of black smoke and burning embers fills a 40-foot-radius sphere within 120 feet of Imix, lasting until initiative count 20 of the next round. Creatures and objects within or beyond the smoke are muy oscuro. A creature that enters the cloud of embers for the first time on a turn or starts its turn there takes 10 ({@damage 3d6}) fire damage.",
 						"A {@item wave} of searing heat fills the lair in a 300-foot radius around Imix for an instant. Each creature other than Imix in the area must succeed on a {@dc 15} Constitution saving throw or take {@damage 1d8} fire damage. Creatures that take fire damage from this effect gain one level of {@condition exhaustion}. In addition, there is a fifty percent chance that any container of fluid held or carried by an affected creature (for example, a magic potion) is destroyed."
 					]
 				}
@@ -4438,7 +4438,7 @@
 				{
 					"type": "list",
 					"items": [
-						"Kyrilla casts {@spell moonbeam} (no components required). While maintaining {@status concentration} on this effect, she can't take other lair actions.",
+						"Kyrilla casts {@spell rayo de luna} (no components required). While maintaining {@status concentration} on this effect, she can't take other lair actions.",
 						"Kyrilla casts {@spell nube de dagas} (no components required), except the daggers are flying snakes and the spell deals piercing damage. While maintaining {@status concentration} on this effect, she can't take other lair actions.",
 						"Pools of liquid within 60 feet of Kyrilla surge and froth, splashing and soaking any creature on the ground within 5 feet of such pools. Creatures that succeed on a {@dc 14} Dexterity saving throw avoid getting liquid in their eyes and mouths. Kyrilla can't use this lair action again until she has used a different one."
 					]
@@ -4559,7 +4559,7 @@
 					"items": [
 						"Poisonous spores fill a 10-foot cube that the lich can see within 120 feet of it. Any creature that enters the cloud for the first time on a turn or starts its turn there must succeed on a {@dc 19} Constitution saving throw or be {@condition poisoned} until the end of its next turn. The cloud lasts for 1 minute or until it is dispersed by a strong wind.",
 						"The lich commands the might of its diseased grove, creating a shambling mound. The shambling mound appears in an unoccupied space within 30 feet of the lich, acts on its own initiative count, and obeys the lich's commands. The shambling mound dies after 1 hour or when the lich uses this lair action again.",
-						"Rotten roots and vines magically erupt in a 20-foot radius centered on a point on the ground that the lich can see within 120 feet of it. The lich is unaffected by the roots and vines. For all other creatures, the area becomes {@quickref difficult terrain||3}, and each creature in the area must succeed on a {@dc 19} Strength saving throw or be {@condition restrained} by the roots. As an action, a creature can try to free itself or another creature within its reach, doing so with a successful {@dc 19} Strength ({@skill Athletics}) check. The roots and vines wilt away when the lich uses this lair action again or when the lich dies."
+						"Rotten roots and vines magically erupt in a 20-foot radius centered on a point on the ground that the lich can see within 120 feet of it. The lich is unaffected by the roots and vines. For all other creatures, the area becomes {@quickref terreno difícil||3}, and each creature in the area must succeed on a {@dc 19} Strength saving throw or be {@condition restrained} by the roots. As an action, a creature can try to free itself or another creature within its reach, doing so with a successful {@dc 19} Strength ({@skill Athletics}) check. The roots and vines wilt away when the lich uses this lair action again or when the lich dies."
 					]
 				}
 			]
@@ -4858,7 +4858,7 @@
 							"name": "Gale",
 							"type": "item",
 							"entries": [
-								"The air within 60 feet of the vessel is filled with wind. Until initiative count 20 on the next round, that area is {@quickref difficult terrain||3}, and when a Medium or smaller creature flies into that area or starts its turn flying there, it must succeed on a {@dc 13} Strength saving throw or be knocked {@condition prone}."
+								"The air within 60 feet of the vessel is filled with wind. Until initiative count 20 on the next round, that area is {@quickref terreno difícil||3}, and when a Medium or smaller creature flies into that area or starts its turn flying there, it must succeed on a {@dc 13} Strength saving throw or be knocked {@condition prone}."
 							]
 						},
 						{
@@ -4914,7 +4914,7 @@
 					"items": [
 						"The ship regains 22 ({@dice 4d10}) hit points.",
 						"A strong wind propels the ship, increasing its speed by 30 feet until initiative count 20 on the next round.",
-						"The air within 60 feet of the ship is filled with howling wind. Until initiative count 20 on the next round, that area is {@quickref difficult terrain||3}, and when a Medium or smaller creature flies into that area or starts its turn flying there, it must succeed on a {@dc 13} Strength saving throw or be knocked {@condition prone}."
+						"The air within 60 feet of the ship is filled with howling wind. Until initiative count 20 on the next round, that area is {@quickref terreno difícil||3}, and when a Medium or smaller creature flies into that area or starts its turn flying there, it must succeed on a {@dc 13} Strength saving throw or be knocked {@condition prone}."
 					]
 				}
 			],
@@ -5313,7 +5313,7 @@
 						{
 							"type": "item",
 							"name": "Stardust",
-							"entry": "Nafas creates a 20-foot-radius sphere of multiversal dust centered on a point anywhere in his lair. The sphere spreads around corners, and its area is heavily obscured. The dust lasts until Nafas disperses it (no action required) or uses this lair action again, and it can't be dispersed by wind."
+							"entry": "Nafas creates a 20-foot-radius sphere of multiversal dust centered on a point anywhere in his lair. The sphere spreads around corners, and its area is muy oscuro. The dust lasts until Nafas disperses it (no action required) or uses this lair action again, and it can't be dispersed by wind."
 						}
 					]
 				}
@@ -5462,7 +5462,7 @@
 					"type": "list",
 					"items": [
 						"A 10-foot-radius area of rocky or earthy ground within 60 feet of Ogrémoch turns to sticky mud. Any creature on the ground in the area must succeed on a {@dc 15} Dexterity saving throw or sink 5 feet into the mud and be {@condition restrained}. A creature can take an action to make a {@dc 15} Strength check, ending the effect on itself or another creature within its reach on a success.",
-						"Crystalline spikes grow from the ground in a 20-foot-radius area within 60 feet of Ogrémoch. The area becomes {@quickref difficult terrain||3}. A creature that moves through the affected area takes {@damage 1d8} piercing damage for every 5 feet it moves there. Creatures that are knocked {@condition prone} in the area also take this damage.",
+						"Crystalline spikes grow from the ground in a 20-foot-radius area within 60 feet of Ogrémoch. The area becomes {@quickref terreno difícil||3}. A creature that moves through the affected area takes {@damage 1d8} piercing damage for every 5 feet it moves there. Creatures that are knocked {@condition prone} in the area also take this damage.",
 						"A violent tremor shakes the lair in a 120-foot-radius around Ogrémoch. Each creature other than Ogrémoch on the ground in the area must succeed on a {@dc 15} Strength or Dexterity saving throw (target's choice) or be knocked {@condition prone}."
 					]
 				}
@@ -5492,7 +5492,7 @@
 					"items": [
 						"Pools of water in the lair surge outward in a grasping tide. Any creature within 20 feet of such a pool must succeed on a {@dc 20} Strength saving throw or be pulled up to 20 feet into the water and knocked {@condition prone}.",
 						"Water within 120 feet of Olhydra becomes murky and opaque until initiative count 20 of the next round. A creature with {@sense darkvision} can't see through the water, and light can't illuminate it.",
-						"A freezing fog fills a 40-foot-radius sphere within 120 feet of Olhydra, lasting until initiative count 20 of the next round. Creatures and objects within or beyond the fog are heavily obscured. A creature that enters the freezing cloud for the first time on a turn or starts its turn there takes 10 ({@damage 3d6}) cold damage."
+						"A freezing fog fills a 40-foot-radius sphere within 120 feet of Olhydra, lasting until initiative count 20 of the next round. Creatures and objects within or beyond the fog are muy oscuro. A creature that enters the freezing cloud for the first time on a turn or starts its turn there takes 10 ({@damage 3d6}) cold damage."
 					]
 				}
 			],
@@ -5711,7 +5711,7 @@
 					"type": "list",
 					"items": [
 						"Pazuzu opens a portal and summons forth {@dice 1d4} {@creature peryton||perytons} or {@creature gargoyle||gargoyles}.",
-						"Pazuzu casts {@spell insect plague} but does not need to concentrate to maintain it. The insects inflict 33 ({@damage 6d10}) piercing damage.",
+						"Pazuzu casts {@spell plaga de insectos} but does not need to concentrate to maintain it. The insects inflict 33 ({@damage 6d10}) piercing damage.",
 						"Pazuzu telepathically speaks to all creatures within 120 ft. of him and offers each what they most desire. Each target must succeed on a {@dc 21} Charisma saving throw or forfeit their next action as they contemplate the decision. A good-aligned target may voluntarily fail the saving throw and forfeit their action to agree to Pazuzu's terms. If so, and if he has the {@spell wish} spell available, he will cast it as long as he sees no immediate negative consequence to his doing so. Pazuzu does not suffer any of the negative effects of casting the {@spell wish} spell."
 					]
 				}
@@ -5885,7 +5885,7 @@
 								{
 									"type": "item",
 									"name": "Noxious Smoke",
-									"entry": "A cloud of thick, dark smoke fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is {@quickref Vision and Light|PHB|2||heavily obscured}. A creature other than the dragon that starts its turn in the cloud or enters it for the first time on its turn must succeed on a {@dc 15} Constitution saving throw or be {@condition poisoned} until the end of its turn. The cloud lasts until initiative count 20 on the next round."
+									"entry": "A cloud of thick, dark smoke fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is {@quickref Vision and Light|PHB|2||muy oscuro}. A creature other than the dragon that starts its turn in the cloud or enters it for the first time on its turn must succeed on a {@dc 15} Constitution saving throw or be {@condition poisoned} until the end of its turn. The cloud lasts until initiative count 20 on the next round."
 								},
 								{
 									"type": "item",
@@ -5961,7 +5961,7 @@
 							"type": "item",
 							"name": "Smoldering Haze",
 							"entries": [
-								"The area within 1 mile of the lair is {@variantrule Lightly Obscured|XPHB} with clouds of ash. Whenever a creature other than the dragon or one of its allies finishes a {@variantrule Descanso largo|XPHB} in that area, that creature must succeed on a {@dc 15} Constitution saving throw or have the {@condition Envenenado|XPHB} condition for 1 hour."
+								"The area within 1 mile of the lair is {@variantrule Ligeramente oscuro|XPHB} with clouds of ash. Whenever a creature other than the dragon or one of its allies finishes a {@variantrule Descanso largo|XPHB} in that area, that creature must succeed on a {@dc 15} Constitution saving throw or have the {@condition Envenenado|XPHB} condition for 1 hour."
 							]
 						}
 					]
@@ -6052,7 +6052,7 @@
 							"type": "entries",
 							"name": "River's Fury",
 							"entries": [
-								"The riverine conjures swampy ground that briefly covers the ground in a 20-foot square the riverine can see within 120 feet of itself. That area becomes {@quickref difficult terrain||3} until initiative count 20 on the next round. Any creature, other than the riverine, that enters the affected area or starts its turn there takes 7 ({@damage 2d6}) cold damage."
+								"The riverine conjures swampy ground that briefly covers the ground in a 20-foot square the riverine can see within 120 feet of itself. That area becomes {@quickref terreno difícil||3} until initiative count 20 on the next round. Any creature, other than the riverine, that enters the affected area or starts its turn there takes 7 ({@damage 2d6}) cold damage."
 							]
 						}
 					]
@@ -6429,7 +6429,7 @@
 				{
 					"type": "list",
 					"items": [
-						"Caverns, tunnels, and pools of water within 120 feet of the sea fury become foggy or murky, to the extent that the area becomes heavily obscured.",
+						"Caverns, tunnels, and pools of water within 120 feet of the sea fury become foggy or murky, to the extent that the area becomes muy oscuro.",
 						"The sea fury conjures a 15-foot cube of water that fills an unoccupied space it can see within 30 feet of it, then moves the water in a straight line up to 60 feet, after which the water disperses. Any creature that comes into contact with the rushing {@item wave} must succeed on a {@dc 16} Strength saving throw or be knocked {@condition prone} by it and pushed 15 feet along its course.",
 						"The sea fury calls forth the spirit of a dead sailor or sea hag that met its end in the lair. This spirit has the statistics of a {@creature specter} and lasts until the sea fury uses another lair action. The specter appears in an unoccupied space within 30 feet of the sea fury and obeys the sea fury's commands."
 					]
@@ -6462,7 +6462,7 @@
 							{
 								"type": "list",
 								"items": [
-									"The hag fills up to four 10-foot cubes of water with ink. The inky areas are heavily obscured for 1 minute, although a steady, strong underwater current disperses the ink on initiative count 10. The hag ignores the obscuring effect of the ink.",
+									"The hag fills up to four 10-foot cubes of water with ink. The inky areas are muy oscuro for 1 minute, although a steady, strong underwater current disperses the ink on initiative count 10. The hag ignores the obscuring effect of the ink.",
 									"The hag chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the {@spell simulacrum} spell). This hideous simulacrum is formed out of seaweed, slime, half-eaten fish, and other garbage, but still generally resembles the creature it is imitating. This simulacrum obeys the hag's commands and is destroyed on initiative count 20 on the next round."
 								]
 							}
@@ -6555,7 +6555,7 @@
 							"type": "item",
 							"name": "Stifling Shadows",
 							"entries": [
-								"Within 1 mile of the lair, effects that normally create {@variantrule Bright Light|XPHB} instead create {@variantrule Dim Light|XPHB}, and creatures there have {@variantrule Advantage|XPHB} on Dexterity ({@skill Stealth|XPHB}) checks."
+								"Within 1 mile of the lair, effects that normally create {@variantrule Luz brillante|XPHB} instead create {@variantrule Luz tenue|XPHB}, and creatures there have {@variantrule Advantage|XPHB} on Dexterity ({@skill Stealth|XPHB}) checks."
 							]
 						}
 					]
@@ -6823,7 +6823,7 @@
 							"type": "item",
 							"name": "Fog",
 							"entries": [
-								"The giant creates a 20-foot-radius sphere of fog (or murky water if within water) centered on a point anywhere in its lair. The sphere spreads around corners, and its area is heavily obscured. The fog lasts until the giant disperses it (no action required), and it can't be dispersed by wind."
+								"The giant creates a 20-foot-radius sphere of fog (or murky water if within water) centered on a point anywhere in its lair. The sphere spreads around corners, and its area is muy oscuro. The fog lasts until the giant disperses it (no action required), and it can't be dispersed by wind."
 							]
 						},
 						{
@@ -6878,7 +6878,7 @@
 					"type": "list",
 					"items": [
 						"The giant creates a thunderclap centered on a point anywhere in its lair. Each creature within 20 feet of that point must succeed on a {@dc 18} Constitution saving throw or be {@condition deafened} until the end of its next turn.",
-						"The giant creates a 20-foot-radius sphere of fog (or murky water within water) centered on a point anywhere in its lair. The sphere spreads around corners, and its area is heavily obscured. The fog lasts until the giant disperses it (no action required), and it can't be dispersed by wind.",
+						"The giant creates a 20-foot-radius sphere of fog (or murky water within water) centered on a point anywhere in its lair. The sphere spreads around corners, and its area is muy oscuro. The fog lasts until the giant disperses it (no action required), and it can't be dispersed by wind.",
 						"The giant creates a 60-foot-long, 10-foot-wide line of strong wind ( or strong current within water) originating from a point anywhere in its lair. Each creature in that line must succeed on a {@dc 18} Strength saving throw or be pushed 15 feet in the direction the wind is blowing. The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in its area. Protected flames, such as those of lanterns, have a {@chance 50} chance of being extinguished."
 					]
 				}
@@ -7299,7 +7299,7 @@
 							"type": "item",
 							"name": "Mists",
 							"entries": [
-								"The area within 1 mile of the lair is {@variantrule Lightly Obscured|XPHB} by a persistent, creeping fog. The vampire and any creatures of its choice are unaffected by the fog."
+								"The area within 1 mile of the lair is {@variantrule Ligeramente oscuro|XPHB} by a persistent, creeping fog. The vampire and any creatures of its choice are unaffected by the fog."
 							]
 						}
 					]
@@ -7376,7 +7376,7 @@
 							"type": "item",
 							"name": "Orb of the Void",
 							"entries": [
-								"The Void briefly overlaps the dragon's lair in a 20-foot-radius sphere of blackness punctuated by deep blue streaks and pinpoints of light. The sphere is centered on a point the dragon can see within 120 feet of the dragon. The sphere spreads around corners, is heavily obscured, and contains no air (creatures must hold their breath). Each creature in the sphere when it appears must make a {@dc 15} Constitution saving throw, taking 10 ({@damage 3d6}) cold damage on a failed save, or half as much damage on a successful one. Any creature that ends its turn in the sphere takes 10 ({@damage 3d6}) cold damage. The sphere lasts until the dragon uses this lair action again or until the dragon dies."
+								"The Void briefly overlaps the dragon's lair in a 20-foot-radius sphere of blackness punctuated by deep blue streaks and pinpoints of light. The sphere is centered on a point the dragon can see within 120 feet of the dragon. The sphere spreads around corners, is muy oscuro, and contains no air (creatures must hold their breath). Each creature in the sphere when it appears must make a {@dc 15} Constitution saving throw, taking 10 ({@damage 3d6}) cold damage on a failed save, or half as much damage on a successful one. Any creature that ends its turn in the sphere takes 10 ({@damage 3d6}) cold damage. The sphere lasts until the dragon uses this lair action again or until the dragon dies."
 							]
 						},
 						{
@@ -7441,7 +7441,7 @@
 				{
 					"type": "list",
 					"items": [
-						"Freezing fog fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The fog spreads around corners, and its area is heavily obscured. Each creature in the fog when it appears must make a {@dc 10} Constitution saving throw, taking 10 ({@damage 3d6}) cold damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the fog takes 10 ({@damage 3d6}) cold damage. A wind of at least 20 miles per hour disperses the fog. The fog otherwise lasts until the dragon uses this lair action again or until the dragon dies.",
+						"Freezing fog fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The fog spreads around corners, and its area is muy oscuro. Each creature in the fog when it appears must make a {@dc 10} Constitution saving throw, taking 10 ({@damage 3d6}) cold damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the fog takes 10 ({@damage 3d6}) cold damage. A wind of at least 20 miles per hour disperses the fog. The fog otherwise lasts until the dragon uses this lair action again or until the dragon dies.",
 						"Jagged ice shards fall from the ceiling, striking up to three creatures underneath that the dragon can see within 120 feet of it. The dragon makes one ranged attack roll ({@hit 7} to hit) against each target. On a hit, the target takes 10 ({@damage 3d6}) piercing damage.",
 						"The dragon creates an opaque wall of ice on a solid surface it can see within 120 feet of it. The wall can be up to 30 feet long, 30 feet high, and 1 foot thick. When the wall appears, each creature within its area is pushed 5 feet out of the wall's space; appearing on whichever side of the wall it wants. Each 10-foot section of the wall has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. The wall disappears when the dragon uses this lair action again or when the dragon dies."
 					]
@@ -7530,7 +7530,7 @@
 							"type": "item",
 							"name": "Glacial Gloom",
 							"entries": [
-								"The area within 1 mile of the lair is {@variantrule Lightly Obscured|XPHB} by chilly fog. Whenever a creature other than the dragon or one of its allies finishes a {@variantrule Descanso largo|XPHB} in that area, that creature must succeed on a {@dc 15} Constitution saving throw or have its {@variantrule Speed|XPHB} reduced by 10 feet for 1 hour."
+								"The area within 1 mile of the lair is {@variantrule Ligeramente oscuro|XPHB} by chilly fog. Whenever a creature other than the dragon or one of its allies finishes a {@variantrule Descanso largo|XPHB} in that area, that creature must succeed on a {@dc 15} Constitution saving throw or have its {@variantrule Speed|XPHB} reduced by 10 feet for 1 hour."
 							]
 						}
 					]
@@ -7879,7 +7879,7 @@
 							"type": "item",
 							"name": "Smoke",
 							"entries": [
-								"The area within 2 miles of the lair, but no closer than 500 feet, is filled with smoke, which causes the area to be heavily obscured. The smoke can't be cleared away."
+								"The area within 2 miles of the lair, but no closer than 500 feet, is filled with smoke, which causes the area to be muy oscuro. The smoke can't be cleared away."
 							]
 						}
 					]
@@ -7908,7 +7908,7 @@
 					"items": [
 						"The area within 9 miles of the lair is filled with screaming voices and the stench of burning meat.",
 						"Once every 60 feet within 1 mile of the lair, 10-foot-high gouts of flame rise from the ground. Any creature or object that touches the flame takes 7 ({@damage 2d6}) fire damage, though it can take this damage no more than once per round.",
-						"The area within 2 miles, but no closer than 500 feet, of the lair is filled with smoke, which causes the area to be heavily obscured. The smoke can't be cleared away."
+						"The area within 2 miles, but no closer than 500 feet, of the lair is filled with smoke, which causes the area to be muy oscuro. The smoke can't be cleared away."
 					]
 				},
 				"If Zariel dies, these effects fade over the course of {@dice 1d10} days."

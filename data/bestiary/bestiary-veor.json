@@ -666,7 +666,7 @@
 				{
 					"name": "Mist Sight",
 					"entries": [
-						"The blazebear can see normally through heavily obscured areas created by mist or fog, including areas created by spells such as Fog Cloud."
+						"The blazebear can see normally through muy oscuro areas created by mist or fog, including areas created by spells such as Fog Cloud."
 					]
 				}
 			],
@@ -4999,7 +4999,7 @@
 					"daily": {
 						"2e": [
 							"{@spell Animate Dead} (as an action)",
-							"{@spell Gust of Wind}",
+							"{@spell Ráfaga de viento}",
 							"{@spell Imagen múltiple}",
 							"{@spell Nondetection}"
 						],

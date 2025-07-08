@@ -153,7 +153,7 @@
 			"hp": "((expectedCr >= 0 && expectedCr <= 4) ? 7 : ((expectedCr >= 5 && expectedCr <= 10) ? 14 : ((expectedCr >= 11 && expectedCr <= 16) ? 21 : ((expectedCr >= 17) ? 28 : 0))))"
 		},
 		{
-			"name": "Web",
+			"name": "Telaraña",
 			"example": "Giant Spider",
 			"effect": "Ranged Weapon Attack that restrains the target on a hit.",
 			"ac": "1"

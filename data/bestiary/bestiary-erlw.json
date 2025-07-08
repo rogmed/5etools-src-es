@@ -2045,7 +2045,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The quori can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The quori can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -3390,7 +3390,7 @@
 						"1e": [
 							"{@spell commune}",
 							"{@spell dominate person}",
-							"{@spell insect plague}",
+							"{@spell plaga de insectos}",
 							"{@spell mass suggestion}",
 							"{@spell raise dead}"
 						]
@@ -4294,7 +4294,7 @@
 							"spells": [
 								"{@spell expeditious retreat}",
 								"{@spell sanctuary}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {

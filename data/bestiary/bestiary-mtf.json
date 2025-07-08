@@ -798,7 +798,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The allip can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The allip can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -2701,7 +2701,7 @@
 								"{@spell expeditious retreat}",
 								"{@spell magic missile}",
 								"{@spell charm person}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -4296,7 +4296,7 @@
 							"style": "list-hang-notitle",
 							"items": [
 								"Archfey patron: {@spell blink}, {@spell dominate beast}, {@spell dominate person}, {@spell faerie fire}, {@spell greater invisibility}, {@spell hunger of Hadar}, {@spell hypnotic pattern}, {@spell phantasmal force}, {@spell seeming}, {@spell sleep}",
-								"Fiend patron: {@spell blindness/deafness}, {@spell burning hands}, {@spell command}, {@spell fire shield}, {@spell fireball}, {@spell flame strike}, {@spell hellish rebuke}, {@spell scorching ray}, {@spell stinking cloud}, {@spell wall of fire}",
+								"Fiend patron: {@spell blindness/deafness}, {@spell burning hands}, {@spell command}, {@spell fire shield}, {@spell fireball}, {@spell flame strike}, {@spell hellish rebuke}, {@spell scorching ray}, {@spell nube apestosa}, {@spell wall of fire}",
 								"Great Old One patron: {@spell clairvoyance}, {@spell detect thoughts}, {@spell dissonant whispers}, {@spell dominate person}, {@spell Evard's black tentacles}, {@spell hunger of Hadar}, {@spell phantasmal force}, {@spell sending}, {@spell Tasha's hideous laughter}, {@spell telekinesis}"
 							]
 						}
@@ -4431,7 +4431,7 @@
 											"{@spell flame strike}",
 											"{@spell hellish rebuke}",
 											"{@spell scorching ray}",
-											"{@spell stinking cloud}",
+											"{@spell nube apestosa}",
 											"{@spell wall of fire}"
 										]
 									}
@@ -5616,7 +5616,7 @@
 							"lower": 1,
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals} (spiders only)",
+								"{@spell conjurar animales} (spiders only)",
 								"{@spell crown of madness}",
 								"{@spell dimension door}",
 								"{@spell dispel magic}",
@@ -5624,7 +5624,7 @@
 								"{@spell fly}",
 								"{@spell giant insect}",
 								"{@spell hold monster}",
-								"{@spell insect plague}",
+								"{@spell plaga de insectos}",
 								"{@spell invisibility}",
 								"{@spell vampiric touch}",
 								"{@spell web}",
@@ -5870,7 +5870,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell invisibility}",
 								"{@spell misty step}",
 								"{@spell shatter}"
@@ -6344,7 +6344,7 @@
 							"spells": [
 								"{@spell contagion}",
 								"{@spell dispel evil and good}",
-								"{@spell insect plague}"
+								"{@spell plaga de insectos}"
 							]
 						},
 						"6": {
@@ -7067,7 +7067,7 @@
 						"1e": [
 							"{@spell counterspell}",
 							"{@spell misty step}",
-							"{@spell stinking cloud}"
+							"{@spell nube apestosa}"
 						]
 					},
 					"ability": "int"
@@ -8406,7 +8406,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The dybbuk can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The dybbuk can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -8719,7 +8719,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The eidolon can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object other than a sacred statue."
+						"The eidolon can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object other than a sacred statue."
 					]
 				},
 				{
@@ -10293,7 +10293,7 @@
 								"{@spell expeditious retreat}",
 								"{@spell magic missile}",
 								"{@spell sleep}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -10661,7 +10661,7 @@
 				{
 					"name": "Teleport",
 					"entries": [
-						"The githyanki magically teleports, along with any equipment it is wearing and carrying, to an unoccupied space it can see within 30 feet of it. It also becomes insubstantial until the start of its next turn. While insubstantial, it can move through other creatures and objects as if they were {@quickref difficult terrain||3}. If it ends its turn inside an object, it takes 16 ({@damage 3d10}) force damage and is moved to the nearest unoccupied space."
+						"The githyanki magically teleports, along with any equipment it is wearing and carrying, to an unoccupied space it can see within 30 feet of it. It also becomes insubstantial until the start of its next turn. While insubstantial, it can move through other creatures and objects as if they were {@quickref terreno difícil||3}. If it ends its turn inside an object, it takes 16 ({@damage 3d10}) force damage and is moved to the nearest unoccupied space."
 					]
 				}
 			],
@@ -14090,7 +14090,7 @@
 						"{@spell darkness}",
 						"{@spell detect magic}",
 						"{@spell dispel magic}",
-						"{@spell gust of wind}"
+						"{@spell ráfaga de viento}"
 					],
 					"daily": {
 						"1": [
@@ -14305,7 +14305,7 @@
 						"{@spell fly}",
 						"{@spell geas}",
 						"{@spell major image}",
-						"{@spell stinking cloud}",
+						"{@spell nube apestosa}",
 						"{@spell suggestion}",
 						"{@spell wall of fire}"
 					],
@@ -14384,9 +14384,9 @@
 			],
 			"legendary": [
 				{
-					"name": "Stinking Cloud",
+					"name": "Nube apestosa",
 					"entries": [
-						"Moloch casts {@spell stinking cloud}."
+						"Moloch casts {@spell nube apestosa}."
 					]
 				},
 				{
@@ -18021,7 +18021,7 @@
 				{
 					"name": "Contamination",
 					"entries": [
-						"The sibriex emits an aura of corruption 30 feet in every direction. Plants that aren't creatures wither in the aura, and the ground in it is {@quickref difficult terrain||3} for other creatures. Any creature that starts its turn in the aura must succeed on a {@dc 20} Constitution saving throw or take 14 ({@damage 4d6}) poison damage. A creature that succeeds on the save is immune to this sibriex's Contamination for 24 hours."
+						"The sibriex emits an aura of corruption 30 feet in every direction. Plants that aren't creatures wither in the aura, and the ground in it is {@quickref terreno difícil||3} for other creatures. Any creature that starts its turn in the aura must succeed on a {@dc 20} Constitution saving throw or take 14 ({@damage 4d6}) poison damage. A creature that succeeds on the save is immune to this sibriex's Contamination for 24 hours."
 					]
 				},
 				{
@@ -18467,7 +18467,7 @@
 							"spells": [
 								"{@spell magic missile}",
 								"{@spell expeditious retreat}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -18898,7 +18898,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The troll can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The troll can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -19778,7 +19778,7 @@
 				{
 					"name": "Out-of-Phase Movement",
 					"entries": [
-						"The seer can move through other creatures and objects as if they were {@quickref difficult terrain||3}. Each creature it moves through takes 5 ({@damage 1d10}) psychic damage; no creature can take this damage more than once per turn. The seer takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The seer can move through other creatures and objects as if they were {@quickref terreno difícil||3}. Each creature it moves through takes 5 ({@damage 1d10}) psychic damage; no creature can take this damage more than once per turn. The seer takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -21771,7 +21771,7 @@
 								"{@spell animal friendship}",
 								"{@spell cure wounds}",
 								"{@spell speak with animals}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -22249,7 +22249,7 @@
 				{
 					"name": "Undertow",
 					"entries": [
-						"As a bonus action when the wastrilith is underwater, it can cause all water within 60 feet of it to be {@quickref difficult terrain||3} for other creatures until the start of its next turn."
+						"As a bonus action when the wastrilith is underwater, it can cause all water within 60 feet of it to be {@quickref terreno difícil||3} for other creatures until the start of its next turn."
 					]
 				}
 			],
@@ -22712,7 +22712,7 @@
 					],
 					"will": [
 						"{@spell fog cloud}",
-						"{@spell gust of wind}"
+						"{@spell ráfaga de viento}"
 					],
 					"daily": {
 						"1e": [
@@ -23470,7 +23470,7 @@
 				{
 					"name": "Earth-Shaking Movement",
 					"entries": [
-						"As a bonus action after moving at least 10 feet on the ground, the zaratan can send a shock wave through the ground in a 120-foot-radius circle centered on itself. That area becomes {@quickref difficult terrain||3} for 1 minute. Each creature on the ground that is {@status concentration||concentrating} must succeed on a {@dc 25} Constitution saving throw or the creature's {@status concentration} is broken.",
+						"As a bonus action after moving at least 10 feet on the ground, the zaratan can send a shock wave through the ground in a 120-foot-radius circle centered on itself. That area becomes {@quickref terreno difícil||3} for 1 minute. Each creature on the ground that is {@status concentration||concentrating} must succeed on a {@dc 25} Constitution saving throw or the creature's {@status concentration} is broken.",
 						"The shock wave deals 100 thunder damage to all structures in contact with the ground in the area. If a creature is near a structure that collapses, the creature might be buried; a creature within half the distance of the structure's height must make a {@dc 25} Dexterity saving throw. On a failed save, the creature takes 17 ({@damage 5d6}) bludgeoning damage, is knocked {@condition prone}, and is trapped in the rubble. A trapped creature is {@condition restrained}, requiring a successful {@dc 20} Strength ({@skill Athletics}) check as an action to escape. Another creature within 5 feet of the buried creature can use its action to clear rubble and grant advantage on the check. If three creatures use their actions in this way, the check is an automatic success. On a successful save, the creature takes half as much damage and doesn't fall {@condition prone} or become trapped."
 					]
 				},

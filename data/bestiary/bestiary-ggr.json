@@ -2065,7 +2065,7 @@
 							"{@spell spike growth}"
 						],
 						"1e": [
-							"{@spell moonbeam}",
+							"{@spell rayo de luna}",
 							"{@spell grasping vine}",
 							"{@spell wall of thorns}"
 						]
@@ -2238,7 +2238,7 @@
 						"3e": [
 							"{@spell scorching ray}",
 							"{@spell shield}",
-							"{@spell thunderwave}"
+							"{@spell ola atronadora}"
 						]
 					},
 					"ability": "int"
@@ -2732,7 +2732,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell cloudkill}",
-								"{@spell insect plague}"
+								"{@spell plaga de insectos}"
 							]
 						},
 						"6": {
@@ -2933,7 +2933,7 @@
 							"spells": [
 								"{@spell cure wounds}",
 								"{@spell faerie fire}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2947,7 +2947,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell dispel magic}",
 								"{@spell plant growth}"
 							]
@@ -2964,7 +2964,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell commune with nature}",
-								"{@spell conjure elemental}",
+								"{@spell Conjurar elemental}",
 								"{@spell scrying}"
 							]
 						},
@@ -4030,7 +4030,7 @@
 						"3e": [
 							"{@spell levitate}",
 							"{@spell relámpago}",
-							"{@spell thunderwave}"
+							"{@spell ola atronadora}"
 						]
 					},
 					"ability": "int"
@@ -4675,7 +4675,7 @@
 					"daily": {
 						"1e": [
 							"{@spell bless}",
-							"{@spell conjure animals}"
+							"{@spell conjurar animales}"
 						]
 					},
 					"ability": "wis"
@@ -5274,7 +5274,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The spirit can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The spirit can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -5709,7 +5709,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell cloudkill}",
-								"{@spell insect plague}"
+								"{@spell plaga de insectos}"
 							]
 						},
 						"6": {
@@ -7187,7 +7187,7 @@
 								"{@spell detect magic}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}",
+								"{@spell ola atronadora}",
 								"{@spell unseen servant}"
 							]
 						},
@@ -7221,7 +7221,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell conjure elemental}",
+								"{@spell Conjurar elemental}",
 								"{@spell polymorph}",
 								"{@spell wall of fire}",
 								"{@spell wall of force}"
@@ -7669,7 +7669,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The ghost can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The ghost can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -8260,7 +8260,7 @@
 								"{@spell dissonant whispers}",
 								"{@spell silent image}",
 								"{@spell Tasha's hideous laughter}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -8661,7 +8661,7 @@
 							"spells": [
 								"{@spell guiding bolt}",
 								"{@spell shield}",
-								"{@spell thunderwave}",
+								"{@spell ola atronadora}",
 								"{@spell witch bolt}"
 							]
 						},
@@ -8801,7 +8801,7 @@
 				{
 					"name": "Ruin Dweller",
 					"entries": [
-						"The stalker has advantage on Dexterity ({@skill Stealth}) checks made to hide in ruins, and its speed is not reduced in {@quickref difficult terrain||3} composed of rubble."
+						"The stalker has advantage on Dexterity ({@skill Stealth}) checks made to hide in ruins, and its speed is not reduced in {@quickref terreno difícil||3} composed of rubble."
 					]
 				},
 				{
@@ -9059,7 +9059,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The horror can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The horror can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -10131,9 +10131,9 @@
 					"daily": {
 						"3e": [
 							"{@spell bless}",
-							"{@spell conjure animals}",
+							"{@spell conjurar animales}",
 							"{@spell giant insect}",
-							"{@spell moonbeam}",
+							"{@spell rayo de luna}",
 							"{@spell plant growth}",
 							"{@spell spike growth}",
 							"{@spell suggestion}"
@@ -10699,7 +10699,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell enlarge/reduce}",
-								"{@spell gust of wind}"
+								"{@spell ráfaga de viento}"
 							]
 						},
 						"3": {
@@ -10721,7 +10721,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell conjure elemental}",
+								"{@spell Conjurar elemental}",
 								"{@spell creation}"
 							]
 						},

@@ -10745,7 +10745,7 @@
 									"name": "Slippery Ice",
 									"page": 110,
 									"entries": [
-										"Slippery ice is {@quickref difficult terrain||3}. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a {@dc 10} Dexterity ({@skill Acrobatics}) check or fall {@condition prone}."
+										"Slippery ice is {@quickref terreno difícil||3}. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a {@dc 10} Dexterity ({@skill Acrobatics}) check or fall {@condition prone}."
 									],
 									"id": "1de"
 								},
@@ -19963,11 +19963,11 @@
 									"rows": [
 										[
 											"1",
-											"A large obstacle such as a horse or cart blocks your way. Make a {@dc 15} Dexterity ({@skill Acrobatics}) check to get past the obstacle. On a failed check, the obstacle counts as 10 feet of {@quickref difficult terrain||3}."
+											"A large obstacle such as a horse or cart blocks your way. Make a {@dc 15} Dexterity ({@skill Acrobatics}) check to get past the obstacle. On a failed check, the obstacle counts as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"2",
-											"A crowd blocks your way. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to make your way through the crowd unimpeded. On a failed check, the crowd counts as 10 feet of {@quickref difficult terrain||3}."
+											"A crowd blocks your way. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to make your way through the crowd unimpeded. On a failed check, the crowd counts as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"3",
@@ -19975,7 +19975,7 @@
 										],
 										[
 											"4",
-											"A maze of barrels, crates, or similar obstacles stands in your way. Make a {@dc 10} Dexterity ({@skill Acrobatics}) or Intelligence check (your choice) to navigate the maze. On a failed check, the maze counts as 10 feet of {@quickref difficult terrain||3}."
+											"A maze of barrels, crates, or similar obstacles stands in your way. Make a {@dc 10} Dexterity ({@skill Acrobatics}) or Intelligence check (your choice) to navigate the maze. On a failed check, the maze counts as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"5",
@@ -19983,15 +19983,15 @@
 										],
 										[
 											"6",
-											"You come upon a pack of dogs fighting over food. Make a {@dc 10} Dexterity ({@skill Acrobatics}) check to get through the pack unimpeded. On a failed check, you are bitten and take {@dice 1d4} piercing damage, and the dogs count as 5 feet of {@quickref difficult terrain||3}."
+											"You come upon a pack of dogs fighting over food. Make a {@dc 10} Dexterity ({@skill Acrobatics}) check to get through the pack unimpeded. On a failed check, you are bitten and take {@dice 1d4} piercing damage, and the dogs count as 5 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"7",
-											"You run into a brawl in progress. Make a {@dc 15} Strength ({@skill Athletics}), Dexterity ({@skill Acrobatics}), or Charisma ({@skill Intimidation}) check (your choice) to get past the brawlers unimpeded. On a failed check, you take {@dice 2d4} bludgeoning damage, and the brawlers count as 10 feet of {@quickref difficult terrain||3}."
+											"You run into a brawl in progress. Make a {@dc 15} Strength ({@skill Athletics}), Dexterity ({@skill Acrobatics}), or Charisma ({@skill Intimidation}) check (your choice) to get past the brawlers unimpeded. On a failed check, you take {@dice 2d4} bludgeoning damage, and the brawlers count as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"8",
-											"A beggar blocks your way. Make a {@dc 10} Strength ({@skill Athletics}), Dexterity ({@skill Acrobatics}), or Charisma ({@skill Intimidation}) check (your choice) to slip past the beggar. You succeed automatically if you toss the beggar a coin. On a failed check, the beggar counts as 5 feet of {@quickref difficult terrain||3}."
+											"A beggar blocks your way. Make a {@dc 10} Strength ({@skill Athletics}), Dexterity ({@skill Acrobatics}), or Charisma ({@skill Intimidation}) check (your choice) to slip past the beggar. You succeed automatically if you toss the beggar a coin. On a failed check, the beggar counts as 5 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"9",
@@ -20021,11 +20021,11 @@
 									"rows": [
 										[
 											"1",
-											"Your path takes you through a rough patch of brush. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to get past the brush. On a failed check, the brush counts as 5 feet of {@quickref difficult terrain||3}."
+											"Your path takes you through a rough patch of brush. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to get past the brush. On a failed check, the brush counts as 5 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"2",
-											"Uneven ground threatens to slow your progress. Make a {@dc 10} Dexterity ({@skill Acrobatics}) check to navigate the area. On a failed check, the ground counts as 10 feet of {@quickref difficult terrain||3}."
+											"Uneven ground threatens to slow your progress. Make a {@dc 10} Dexterity ({@skill Acrobatics}) check to navigate the area. On a failed check, the ground counts as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"3",
@@ -20033,7 +20033,7 @@
 										],
 										[
 											"4",
-											"A stream, ravine, or rock bed blocks your path. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to cross the impediment. On a failed check, the impediment counts as 10 feet of {@quickref difficult terrain||3}."
+											"A stream, ravine, or rock bed blocks your path. Make a {@dc 10} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check (your choice) to cross the impediment. On a failed check, the impediment counts as 10 feet of {@quickref terreno difícil||3}."
 										],
 										[
 											"5",
@@ -21169,7 +21169,7 @@
 									"entries": [
 										"As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.",
 										"Each creature within 20 feet of an exploding fragmentation grenade must make a {@dc 15} Dexterity saving throw, taking {@dice 5d6} piercing damage on a failed save, or half as much damage on a successful one.",
-										"One round after a smoke grenade lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round."
+										"One round after a smoke grenade lands, it emits a cloud of smoke that creates a muy oscuro area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round."
 									],
 									"id": "32f"
 								},
@@ -23456,7 +23456,7 @@
 											"Increase the monster's effective hit points based on the expected challenge rating: 1-4, 7 hp: 5-10, 14 hp: 11-16, 21 hp: 17 or higher, 28 hp."
 										],
 										[
-											"Web",
+											"Telaraña",
 											"{@creature Giant spider}",
 											"Increase the monster's effective AC by 1."
 										],
@@ -26447,7 +26447,7 @@
 										],
 										[
 											"85-88",
-											"{@spell Thunderwave} knocks characters into a pit or spikes"
+											"{@spell Ola atronadora} knocks characters into a pit or spikes"
 										],
 										[
 											"89-91",

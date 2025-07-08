@@ -341,14 +341,14 @@
 			]
 		},
 		{
-			"name": "Bright Light",
+			"name": "Luz brillante",
 			"source": "XPHB",
-			"page": 362,
+			"page": 370,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"Bright Light is normal illumination."
+				"La luz brillante es la iluminación normal."
 			]
 		},
 		{
@@ -478,7 +478,7 @@
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"While you're climbing, each foot of movement costs 1 extra foot (2 extra feet in {@variantrule Difficult Terrain|XPHB|difficult terrain}). You ignore this extra cost if you have a {@variantrule Climb Speed|XPHB} and use it to climb. At the DM's option, climbing a slippery surface or one with few handholds might require a successful {@dc 15} Strength ({@skill Athletics|XPHB}) check."
+				"While you're climbing, each foot of movement costs 1 extra foot (2 extra feet in {@variantrule Terreno difícil|XPHB|difficult terrain}). You ignore this extra cost if you have a {@variantrule Climb Speed|XPHB} and use it to climb. At the DM's option, climbing a slippery surface or one with few handholds might require a successful {@dc 15} Strength ({@skill Athletics|XPHB}) check."
 			]
 		},
 		{
@@ -578,7 +578,7 @@
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in {@variantrule Difficult Terrain|XPHB|difficult terrain})."
+				"While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in {@variantrule Terreno difícil|XPHB|difficult terrain})."
 			]
 		},
 		{
@@ -799,7 +799,7 @@
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"An area of Darkness is {@variantrule Heavily Obscured|XPHB}."
+				"An area of Darkness is {@variantrule Muy oscuro|XPHB}."
 			]
 		},
 		{
@@ -826,24 +826,24 @@
 			]
 		},
 		{
-			"name": "Difficult Terrain",
+			"name": "Terreno difícil",
 			"source": "XPHB",
-			"page": 366,
+			"page": 375,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"If a space is Difficult Terrain, every foot of movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of movement. Difficult Terrain isn't cumulative; either a space is Difficult Terrain or it isn't.",
-				"A space is Difficult Terrain if the space contains any of the following or something similar:",
+				"Si un espacio es terreno difícil, cada metro de movimiento en ese espacio cuesta 1 m adicional. Por ejemplo, si te mueves 1,5 m por terreno difícil, te cuesta 3 m de movimiento. El terreno difícil no es acumulativo; un espacio es terreno difícil o no lo es.",
+				"Un espacio es terreno difícil si contiene algo de lo siguiente u otro elemento similar:",
 				{
 					"type": "list",
 					"items": [
-						"A creature that isn't Tiny or your ally",
-						"Furniture that is sized for creatures of your size or larger",
-						"Heavy snow, ice, rubble, or undergrowth",
-						"Liquid that's between shin- and waist-deep",
-						"A narrow opening sized for a creature one size smaller than you",
-						"A slope of 20 degrees or more"
+						"una criatura que no sea Diminuta o aliada tuya;",
+						"un mueble diseñado para criaturas de tu tamaño o superior;",
+						"escombros, hielo, maleza o nieve espesa;",
+						"líquido que llegue entre las espinillas y la cintura;",
+						"una abertura estrecha en la que quepa una criatura cuyo tamaño sea una categoría inferior al tuyo;",
+						"una pendiente de 20 grados o más."
 					]
 				}
 			]
@@ -860,14 +860,14 @@
 			]
 		},
 		{
-			"name": "Dim Light",
+			"name": "Luz tenue",
 			"source": "XPHB",
-			"page": 366,
+			"page": 370,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"An area with Dim Light is {@variantrule Lightly Obscured|XPHB}."
+				"Una zona con luz tenue está {@variantrule Ligeramente oscuro|XPHB|ligeramente oscura}."
 			]
 		},
 		{
@@ -1032,14 +1032,14 @@
 			]
 		},
 		{
-			"name": "Heavily Obscured",
+			"name": "Muy oscuro",
 			"source": "XPHB",
-			"page": 368,
+			"page": 370,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"You have the {@condition Cegado|XPHB} condition while trying to see something in a Heavily Obscured space."
+				"Tienes el estado de {@condition cegado|XPHB} cuando tratas de ver algo en un espacio muy oscuro."
 			]
 		},
 		{
@@ -1224,14 +1224,14 @@
 			]
 		},
 		{
-			"name": "Lightly Obscured",
+			"name": "Ligeramente oscuro",
 			"source": "XPHB",
 			"page": 370,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"You have {@variantrule Disadvantage|XPHB} on Wisdom ({@skill Perception|XPHB}) checks to see something in a Lightly Obscured space."
+				"Tienes desventaja en las pruebas de Sabiduría ({@skill Percepción|XPHB}) para ver algo en un espacio ligeramente oscuro. Consulta también “{@variantrule Luz tenue|XPHB}”"
 			]
 		},
 		{
@@ -1255,7 +1255,7 @@
 			"ruleType": "C",
 			"entries": [
 				"When you make a Long Jump, you leap horizontally a number of feet up to your Strength score if you move at least 10 feet immediately before the jump. When you make a standing Long Jump, you can leap only half that distance. Either way, each foot you jump costs a foot of movement.",
-				"If you land in {@variantrule Difficult Terrain|XPHB|difficult terrain}, you must succeed on a {@dc 10} Dexterity ({@skill Acrobatics|XPHB}) check or have the {@condition Prone|XPHB} condition.",
+				"If you land in {@variantrule Terreno difícil|XPHB|difficult terrain}, you must succeed on a {@dc 10} Dexterity ({@skill Acrobatics|XPHB}) check or have the {@condition Prone|XPHB} condition.",
 				"This Long Jump rule assumes that the height of the jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a {@dc 10} Strength ({@skill Athletics|XPHB}) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit the obstacle."
 			]
 		},
@@ -1470,7 +1470,7 @@
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"If you have Resistance to a {@variantrule Damage Types|XPHB|damage type}, damage of that type is halved against you (round down). Resistance is applied only once to an instance of damage."
+				"Si tienes resistencia a un {@variantrule Damage Types|XPHB|tipo de daño}, el daño de ese tipo se reduce a la mitad contra ti (redondeando hacia abajo). La resistencia se aplica solo una vez a un efecto de daño."
 			]
 		},
 		{
@@ -1525,7 +1525,7 @@
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"If an effect, such as Wild Shape or the {@spell Polymorph|XPHB} spell, lets you shape-shift, its description specifies what happens to you. Unless that description says otherwise, any ongoing effects on you—{@variantrule Condition|XPHB|conditions}, spells, curses, and the like—carry over from one form to the other. You revert to your true form if you die."
+				"If an effect, such as Wild Shape or the {@spell Polimorfar|XPHB} spell, lets you shape-shift, its description specifies what happens to you. Unless that description says otherwise, any ongoing effects on you—{@variantrule Condition|XPHB|conditions}, spells, curses, and the like—carry over from one form to the other. You revert to your true form if you die."
 			]
 		},
 		{
@@ -1891,7 +1891,7 @@
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"While you're swimming, each foot of movement costs 1 extra foot (2 extra feet in {@variantrule Difficult Terrain|XPHB|difficult terrain}). You ignore this extra cost if you have a {@variantrule Swim Speed|XPHB} and use it to swim. At the DM's option, moving any distance in rough water might require a successful {@dc 15} Strength ({@skill Athletics|XPHB}) check."
+				"While you're swimming, each foot of movement costs 1 extra foot (2 extra feet in {@variantrule Terreno difícil|XPHB|difficult terrain}). You ignore this extra cost if you have a {@variantrule Swim Speed|XPHB} and use it to swim. At the DM's option, moving any distance in rough water might require a successful {@dc 15} Strength ({@skill Athletics|XPHB}) check."
 			]
 		},
 		{

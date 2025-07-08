@@ -3809,7 +3809,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref difficult terrain||3} composed of ice or snow doesn't cost it extra movement."
+						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref terreno difícil||3} composed of ice or snow doesn't cost it extra movement."
 					]
 				},
 				{
@@ -7166,7 +7166,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref difficult terrain||3} composed of ice or snow doesn't cost it extra movement."
+						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref terreno difícil||3} composed of ice or snow doesn't cost it extra movement."
 					]
 				},
 				{
@@ -10356,7 +10356,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The banshee can move through other creatures and objects as if they were {@quickref difficult terrain||3}. She takes 5 ({@damage 1d10}) force damage if she ends her turn inside an object."
+						"The banshee can move through other creatures and objects as if they were {@quickref terreno difícil||3}. She takes 5 ({@damage 1d10}) force damage if she ends her turn inside an object."
 					]
 				}
 			],
@@ -11685,7 +11685,7 @@
 								{
 									"type": "item",
 									"name": "Fear Ray:",
-									"entry": "{@spell gaseous form} (self or willing creature only), {@spell moonbeam}"
+									"entry": "{@spell gaseous form} (self or willing creature only), {@spell rayo de luna}"
 								},
 								{
 									"type": "item",
@@ -18950,7 +18950,7 @@
 							"{@spell tongues}"
 						],
 						"1e": [
-							"{@spell conjure elemental} ({@creature earth elemental} only)",
+							"{@spell Conjurar elemental} ({@creature earth elemental} only)",
 							"{@spell gaseous form}",
 							"{@spell invisibility}",
 							"{@spell phantasmal killer}",
@@ -21158,7 +21158,7 @@
 					"will": [
 						"{@spell detect evil and good}",
 						"{@spell detect magic}",
-						"{@spell thunderwave}"
+						"{@spell ola atronadora}"
 					],
 					"daily": {
 						"3e": [
@@ -21167,7 +21167,7 @@
 							"{@spell wind walk}"
 						],
 						"1e": [
-							"{@spell conjure elemental} ({@creature air elemental} only)",
+							"{@spell Conjurar elemental} ({@creature air elemental} only)",
 							"{@spell creation}",
 							"{@spell gaseous form}",
 							"{@spell invisibility}",
@@ -23062,7 +23062,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals} (2 {@creature giant spider|mm|giant spiders})",
+								"{@spell conjurar animales} (2 {@creature giant spider|mm|giant spiders})",
 								"{@spell dispel magic}"
 							]
 						},
@@ -23076,7 +23076,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell insect plague}",
+								"{@spell plaga de insectos}",
 								"{@spell mass cure wounds}"
 							]
 						}
@@ -23354,7 +23354,7 @@
 								"{@spell entangle}",
 								"{@spell longstrider}",
 								"{@spell speak with animals}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -24484,7 +24484,7 @@
 							"{@spell tongues}"
 						],
 						"1e": [
-							"{@spell conjure elemental} ({@creature fire elemental} only)",
+							"{@spell Conjurar elemental} ({@creature fire elemental} only)",
 							"{@spell gaseous form}",
 							"{@spell invisibility}",
 							"{@spell major image}",
@@ -24962,7 +24962,7 @@
 					"will": [
 						"{@spell greater restoration}",
 						"{@spell pass without trace}",
-						"{@spell water breathing}",
+						"{@spell respirar bajo el agua}",
 						"{@spell water walk}"
 					],
 					"daily": {
@@ -29483,7 +29483,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The ghost can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The ghost can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -31507,7 +31507,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The octopus can breathe only underwater."
 					]
@@ -31523,7 +31523,7 @@
 				{
 					"name": "Ink Cloud (Recharges after a Short or Long Rest)",
 					"entries": [
-						"A 20-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action."
+						"A 20-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is muy oscuro for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action."
 					]
 				}
 			],
@@ -31537,7 +31537,7 @@
 			"traitTags": [
 				"Camouflage",
 				"Hold Breath",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -32124,7 +32124,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The sea horse can breathe only underwater."
 					]
@@ -32147,7 +32147,7 @@
 			},
 			"traitTags": [
 				"Charge",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"damageTags": [
 				"B"
@@ -32255,7 +32255,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The shark can breathe only underwater."
 					]
@@ -32277,7 +32277,7 @@
 				"path": "bestiary/giant-shark.mp3"
 			},
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"
@@ -33140,7 +33140,7 @@
 				{
 					"name": "Aberrant Ground",
 					"entries": [
-						"The ground in a 10-foot radius around the mouther is doughlike {@quickref difficult terrain||3}. Each creature that starts its turn in that area must succeed on a {@dc 10} Strength saving throw or have its speed reduced to 0 until the start of its next turn."
+						"The ground in a 10-foot radius around the mouther is doughlike {@quickref terreno difícil||3}. Each creature that starts its turn in that area must succeed on a {@dc 10} Strength saving throw or have its speed reduced to 0 until the start of its next turn."
 					]
 				},
 				{
@@ -40441,7 +40441,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The shark can breathe only underwater."
 					]
@@ -40463,7 +40463,7 @@
 				"path": "bestiary/hunter-shark.mp3"
 			},
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"
@@ -43034,7 +43034,7 @@
 				{
 					"name": "Libertad de movimiento",
 					"entries": [
-						"The kraken ignores {@quickref difficult terrain||3}, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
+						"The kraken ignores {@quickref terreno difícil||3}, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
 					]
 				},
 				{
@@ -43092,7 +43092,7 @@
 				{
 					"name": "Ink Cloud (Costs 3 Actions)",
 					"entries": [
-						"While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a {@dc 23} Constitution saving throw, taking 16 ({@damage 3d10}) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn."
+						"While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is muy oscuro to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a {@dc 23} Constitution saving throw, taking 16 ({@damage 3d10}) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn."
 					]
 				}
 			],
@@ -44302,7 +44302,7 @@
 								"{@spell detect magic}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -45241,7 +45241,7 @@
 						"3": {
 							"slots": 2,
 							"spells": [
-								"{@spell conjure animals} (reptiles only)",
+								"{@spell conjurar animales} (reptiles only)",
 								"{@spell plant growth}"
 							]
 						}
@@ -46439,11 +46439,11 @@
 					"daily": {
 						"3e": [
 							"{@spell tongues}",
-							"{@spell water breathing}",
+							"{@spell respirar bajo el agua}",
 							"{@spell water walk}"
 						],
 						"1e": [
-							"{@spell conjure elemental} ({@creature water elemental} only)",
+							"{@spell Conjurar elemental} ({@creature water elemental} only)",
 							"{@spell control water}",
 							"{@spell gaseous form}",
 							"{@spell invisibility}",
@@ -49259,7 +49259,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell contagion}",
-								"{@spell insect plague}"
+								"{@spell plaga de insectos}"
 							]
 						},
 						"6": {
@@ -51501,7 +51501,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The octopus can breathe only underwater."
 					]
@@ -51517,7 +51517,7 @@
 				{
 					"name": "Ink Cloud (Recharges after a Short or Long Rest)",
 					"entries": [
-						"A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action."
+						"A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is muy oscuro for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action."
 					]
 				}
 			],
@@ -51529,7 +51529,7 @@
 			"traitTags": [
 				"Camouflage",
 				"Hold Breath",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -54443,7 +54443,7 @@
 						"1e": [
 							"{@spell commune}",
 							"{@spell control weather}",
-							"{@spell insect plague}"
+							"{@spell plaga de insectos}"
 						]
 					},
 					"ability": "cha"
@@ -54947,7 +54947,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The poltergeist can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The poltergeist can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -56537,7 +56537,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The quipper can breathe only underwater."
 					]
@@ -56560,7 +56560,7 @@
 				"path": "bestiary/quipper.mp3"
 			},
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -57400,7 +57400,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The shark can breathe only underwater."
 					]
@@ -57423,7 +57423,7 @@
 			},
 			"traitTags": [
 				"Pack Tactics",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"
@@ -60319,7 +60319,7 @@
 			},
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The sea horse can breathe only underwater."
 					]
@@ -60331,7 +60331,7 @@
 				"path": "bestiary/sea-horse.mp3"
 			},
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"hasToken": true
 		},
@@ -60668,7 +60668,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The demon can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The demon can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -61791,7 +61791,7 @@
 				{
 					"name": "Death Burst",
 					"entries": [
-						"When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius sphere centered on its space. The sphere is heavily obscured. Wind disperses the cloud, which otherwise lasts for 1 minute."
+						"When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius sphere centered on its space. The sphere is muy oscuro. Wind disperses the cloud, which otherwise lasts for 1 minute."
 					]
 				}
 			],
@@ -62480,7 +62480,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The specter can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The specter can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -62933,7 +62933,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell relámpago}",
-								"{@spell water breathing}"
+								"{@spell respirar bajo el agua}"
 							]
 						},
 						"4": {
@@ -64159,7 +64159,7 @@
 					"daily": {
 						"3e": [
 							"{@spell control weather}",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha"
@@ -65202,7 +65202,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The swarm can breathe only underwater."
 					]
@@ -65224,7 +65224,7 @@
 				"path": "bestiary/swarm-of-quippers.mp3"
 			},
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -69068,7 +69068,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell detect thoughts}",
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell Imagen múltiple}"
 							]
 						},
@@ -69835,7 +69835,7 @@
 				{
 					"name": "Entangling Plants {@recharge 5}",
 					"entries": [
-						"Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is {@quickref difficult terrain||3} for nonplant creatures. In addition, each creature of the blight's choice in that area when the plants appear must succeed on a {@dc 12} Strength saving throw or become {@condition restrained}. A creature can use its action to make a {@dc 12} Strength check, freeing itself or another entangled creature within reach on a success."
+						"Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is {@quickref terreno difícil||3} for nonplant creatures. In addition, each creature of the blight's choice in that area when the plants appear must succeed on a {@dc 12} Strength saving throw or become {@condition restrained}. A creature can use its action to make a {@dc 12} Strength check, freeing itself or another entangled creature within reach on a success."
 					]
 				}
 			],
@@ -72608,7 +72608,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The will-o'-wisp can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The will-o'-wisp can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -73386,7 +73386,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The wraith can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The wraith can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -76779,7 +76779,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref difficult terrain||3} composed of ice or snow doesn't cost it extra movement."
+						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@quickref terreno difícil||3} composed of ice or snow doesn't cost it extra movement."
 					]
 				}
 			],

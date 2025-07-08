@@ -192,7 +192,7 @@
 								"{@spell mage armor}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -224,7 +224,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell conjure elemental}",
+								"{@spell Conjurar elemental}",
 								"{@spell mislead}*",
 								"{@spell telekinesis}"
 							]

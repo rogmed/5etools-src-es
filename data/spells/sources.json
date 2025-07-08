@@ -924,7 +924,7 @@
 				}
 			]
 		},
-		"Conjure Animals": {
+		"Conjurar animales": {
 			"class": [
 				{
 					"name": "Druida",
@@ -952,7 +952,7 @@
 				}
 			]
 		},
-		"Conjure Elemental": {
+		"Conjurar elemental": {
 			"class": [
 				{
 					"name": "Druida",
@@ -1056,7 +1056,7 @@
 				}
 			]
 		},
-		"Control Water": {
+		"Controlar agua": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -2280,7 +2280,7 @@
 				}
 			]
 		},
-		"Fount of Moonlight": {
+		"Fuente de luz lunar": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -2592,7 +2592,7 @@
 				}
 			]
 		},
-		"Gust of Wind": {
+		"Ráfaga de viento": {
 			"class": [
 				{
 					"name": "Druida",
@@ -2952,7 +2952,7 @@
 				}
 			]
 		},
-		"Insect Plague": {
+		"Plaga de insectos": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -3696,7 +3696,7 @@
 				}
 			]
 		},
-		"Moonbeam": {
+		"Rayo de luna": {
 			"class": [
 				{
 					"name": "Druida",
@@ -3980,7 +3980,7 @@
 				}
 			]
 		},
-		"Polymorph": {
+		"Polimorfar": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -4900,7 +4900,7 @@
 				}
 			]
 		},
-		"Stinking Cloud": {
+		"Nube apestosa": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -5636,7 +5636,7 @@
 				}
 			]
 		},
-		"Water Breathing": {
+		"Respirar bajo el agua": {
 			"class": [
 				{
 					"name": "Druida",
@@ -5684,7 +5684,7 @@
 				}
 			]
 		},
-		"Web": {
+		"Telaraña": {
 			"class": [
 				{
 					"name": "Hechicero",

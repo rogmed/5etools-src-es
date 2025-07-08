@@ -84,7 +84,7 @@
 					],
 					"daily": {
 						"3": [
-							"{@spell thunderwave} ({@damage 2d8} damage)"
+							"{@spell ola atronadora} ({@damage 2d8} damage)"
 						],
 						"1e": [
 							"{@spell augury}",

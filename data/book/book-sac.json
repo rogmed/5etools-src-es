@@ -1237,7 +1237,7 @@
 											"id": "08b",
 											"entries": [
 												"A creature doesn't provoke an opportunity attack if it is moved without the use of its movement, its action, or its {@book reaction|PHB|9|Reactions}. For example, the effect of the {@spell antipathy/sympathy} spell requires the target to use its movement, meaning that it would provoke opportunity attacks when it does so.",
-												"Similarly, {@spell dissonant whispers} requires the target to move using its {@book reaction|PHB|9|Reactions} (if available), so that activity also provokes opportunity attacks. In contrast, a creature that's pushed by a {@spell gust of wind} spell does not provoke opportunity attacks."
+												"Similarly, {@spell dissonant whispers} requires the target to move using its {@book reaction|PHB|9|Reactions} (if available), so that activity also provokes opportunity attacks. In contrast, a creature that's pushed by a {@spell ráfaga de viento} spell does not provoke opportunity attacks."
 											]
 										}
 									]
@@ -1546,7 +1546,7 @@
 											"id": "0af",
 											"entries": [
 												"The {@condition prone} condition doesn't override the rule that prevents you from moving through an enemy's space, unless that enemy is at least two sizes larger or two sizes smaller than you.",
-												"If you do move through the space of another creature\u2014whether a friend or an enemy\u2014the space is {@quickref difficult terrain||3} for you, and you can't willingly end your move there. See the {@book Player's Handbook|PHB}, ({@i PHB} \"{@book Movement and Position|PHB|9|Movement and Position}\"), for more on movement in combat."
+												"If you do move through the space of another creature\u2014whether a friend or an enemy\u2014the space is {@quickref terreno difícil||3} for you, and you can't willingly end your move there. See the {@book Player's Handbook|PHB}, ({@i PHB} \"{@book Movement and Position|PHB|9|Movement and Position}\"), for more on movement in combat."
 											]
 										},
 										{
@@ -2155,7 +2155,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Is the damage dealt by a beast from conjure animals considered magical?",
+											"name": "Is the damage dealt by a beast from conjurar animales considered magical?",
 											"id": "0ef",
 											"entries": [
 												"The stat block of a conjured creature determines the nature of the creature's damage, unless the spell says otherwise."
@@ -2163,7 +2163,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Can conjure animals summon a swarm?",
+											"name": "Can conjurar animales summon a swarm?",
 											"entries": [
 												"No. Conjure animals summons individual creatures, and swarms are groups of creatures."
 											],
@@ -2452,8 +2452,8 @@
 											"id": "10b",
 											"entries": [
 												"The answer to both questions is no. Here's some elaboration on that answer.",
-												"Some spells and other game features create an area of effect that does something when a creature enters that area for the first time on a turn or when a creature starts its turn in that area. On the turn when you cast such a spell, you're primarily setting up hurt for your foes on later turns. {@spell Moonbeam}, for example, creates a beam of light that can damage a creature who enters the beam or who starts its turn in the beam.",
-												"Here are some spells with the same timing as {@spell moonbeam} for their areas of effect:",
+												"Some spells and other game features create an area of effect that does something when a creature enters that area for the first time on a turn or when a creature starts its turn in that area. On the turn when you cast such a spell, you're primarily setting up hurt for your foes on later turns. {@spell Rayo de luna}, for example, creates a beam of light that can damage a creature who enters the beam or who starts its turn in the beam.",
+												"Here are some spells with the same timing as {@spell rayo de luna} for their areas of effect:",
 												{
 													"type": "list",
 													"items": [
@@ -2462,15 +2462,15 @@
 														"{@spell nube de dagas}",
 														"{@spell Evard's black tentacles}",
 														"{@spell forbiddance}",
-														"{@spell moonbeam}",
+														"{@spell rayo de luna}",
 														"{@spell sleet storm}",
 														"{@spell spirit guardians}"
 													],
 													"columns": 2
 												},
-												"Reading the description of any of those spells, you might wonder whether a creature is considered to be entering the spell's area of effect if the area is created on the creature's space. And if the area of effect can be moved\u2014as the beam of {@spell moonbeam} can\u2014does moving it into a creature's space count as the creature entering the area? Our design intent for such spells is this: a creature enters the area of effect when the creature passes into it. Creating the area of effect on the creature or moving it onto the creature doesn't count. If the creature is still in the area at the start of its turn, it is subjected to the area's effect.",
-												"Entering such an area of effect needn't be voluntary, unless a spell says otherwise. You can, therefore, hurl a creature into the area with a spell like {@spell thunderwave}. We consider that clever play, not an imbalance, so hurl away! Keep in mind, however, that a creature is subjected to such an area of effect only the first time it enters the area on a turn. You can't move a creature in and out of it to damage it over and over again on the same turn.",
-												"In summary, a spell like {@spell moonbeam} affects a creature when the creature passes into the spell's area of effect and when the creature starts its turn there. You're essentially creating a hazard on the battlefield."
+												"Reading the description of any of those spells, you might wonder whether a creature is considered to be entering the spell's area of effect if the area is created on the creature's space. And if the area of effect can be moved\u2014as the beam of {@spell rayo de luna} can\u2014does moving it into a creature's space count as the creature entering the area? Our design intent for such spells is this: a creature enters the area of effect when the creature passes into it. Creating the area of effect on the creature or moving it onto the creature doesn't count. If the creature is still in the area at the start of its turn, it is subjected to the area's effect.",
+												"Entering such an area of effect needn't be voluntary, unless a spell says otherwise. You can, therefore, hurl a creature into the area with a spell like {@spell ola atronadora}. We consider that clever play, not an imbalance, so hurl away! Keep in mind, however, that a creature is subjected to such an area of effect only the first time it enters the area on a turn. You can't move a creature in and out of it to damage it over and over again on the same turn.",
+												"In summary, a spell like {@spell rayo de luna} affects a creature when the creature passes into the spell's area of effect and when the creature starts its turn there. You're essentially creating a hazard on the battlefield."
 											]
 										},
 										{
@@ -2571,7 +2571,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "The stinking cloud spell says that a creature wastes its action on a failed save. So can it still use a move or a bonus action or a reaction?",
+											"name": "The nube apestosa spell says that a creature wastes its action on a failed save. So can it still use a move or a bonus action or a reaction?",
 											"id": "112",
 											"entries": [
 												"Correct. The gas doesn't immobilize a creature or prevent it from acting altogether, but the effect of the spell does limit what it can accomplish while the cloud lingers."

@@ -69,7 +69,7 @@
 							"{@spell tongues}"
 						],
 						"1e": [
-							"{@spell conjure elemental} (earth or fire elemental only)",
+							"{@spell Conjurar elemental} (earth or fire elemental only)",
 							"{@spell invisibility}",
 							"{@spell major image}",
 							"{@spell plane shift}",
@@ -241,7 +241,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell cono de frío}*",
-								"{@spell conjure elemental}*"
+								"{@spell Conjurar elemental}*"
 							]
 						}
 					},

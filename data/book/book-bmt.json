@@ -6616,7 +6616,7 @@
 									"page": 85,
 									"id": "17b",
 									"entries": [
-										"The floor and walls of this chilly room are covered with slick ice, making them {@book difficult terrain|PHB|8|Difficult Terrain}. Any creature unaccustomed to icy environments that moves along the floor or walls must make a {@dc 8} Dexterity saving throw at the end of its turn. On a failed save, the creature has the {@condition prone} condition. This room's ceiling is 30 feet high.",
+										"The floor and walls of this chilly room are covered with slick ice, making them {@book terreno difícil|PHB|8|Difficult Terrain}. Any creature unaccustomed to icy environments that moves along the floor or walls must make a {@dc 8} Dexterity saving throw at the end of its turn. On a failed save, the creature has the {@condition prone} condition. This room's ceiling is 30 feet high.",
 										"This vault holds much of the Moonstalkers' gold and treasure, but not all of it. The bosses spread their wealth across similar vaults in the five cities they can access.",
 										"A {@creature young white dragon} named Rahaskardon prowls this room. The dragon obeys the bosses and Wanewort, guarding the Moonstalkers' treasure against intruders.",
 										{
@@ -8299,7 +8299,7 @@
 										],
 										[
 											"8",
-											"Euryale. Natural vegetation in the region grows poisonous thorns. A creature that enters or ends its turn in {@book difficult terrain|PHB|8|Difficult Terrain} caused by this vegetation must succeed on a {@dc 12} Constitution saving throw or take 7 ({@dice 2d6}) poison damage. If this damage reduces a creature to 0 hit points, the creature instead has 1 hit point and has the {@condition petrificado} condition until that condition is removed by the {@spell Restablecimiento mayor} spell or similar magic."
+											"Euryale. Natural vegetation in the region grows poisonous thorns. A creature that enters or ends its turn in {@book terreno difícil|PHB|8|Difficult Terrain} caused by this vegetation must succeed on a {@dc 12} Constitution saving throw or take 7 ({@dice 2d6}) poison damage. If this damage reduces a creature to 0 hit points, the creature instead has 1 hit point and has the {@condition petrificado} condition until that condition is removed by the {@spell Restablecimiento mayor} spell or similar magic."
 										],
 										[
 											"9",
@@ -8358,7 +8358,7 @@
 												{
 													"type": "item",
 													"name": "Clear Nights",
-													"entry": "The weather around the observatory is always cool and calm. During the day, fog covers the area within 6 miles of the observatory, making the area {@book heavily obscured|PHB|8|Vision and Light}. At dusk, the fog clears, unveiling a cloudless night sky."
+													"entry": "The weather around the observatory is always cool and calm. During the day, fog covers the area within 6 miles of the observatory, making the area {@book muy oscuro|PHB|8|Vision and Light}. At dusk, the fog clears, unveiling a cloudless night sky."
 												},
 												{
 													"type": "item",
@@ -10055,7 +10055,7 @@
 										],
 										[
 											"2nd",
-											"{@spell Moonbeam}, {@spell Protection from Poison}"
+											"{@spell Rayo de luna}, {@spell Protection from Poison}"
 										],
 										[
 											"3rd",
@@ -11629,7 +11629,7 @@
 											"page": 116,
 											"id": "200",
 											"entries": [
-												"The characters can use the drawbridge to cross the moat. They can instead clamber through the moat with more time and effort. No check is required, but it's a grisly detour, and the moat is {@book difficult terrain|PHB|8|Difficult Terrain}."
+												"The characters can use the drawbridge to cross the moat. They can instead clamber through the moat with more time and effort. No check is required, but it's a grisly detour, and the moat is {@book terreno difícil|PHB|8|Difficult Terrain}."
 											]
 										},
 										{
@@ -11868,7 +11868,7 @@
 									"id": "218",
 									"entries": [
 										"Three {@creature Phase Spider||phase spiders} lair in this room and attack any creature that enters.",
-										"This spiderweb-covered library contains hundreds of books in genres ranging from history and religion to speculative fiction. Gremorly added his impressive personal collection to the library, including many rare tomes on necromancy, but most of the books were here when he arrived. The patches of webbing on the floor are {@book difficult terrain|PHB|8|Difficult Terrain}. These webs burn up instantly when touched by flame, but flames could also set the library on fire.",
+										"This spiderweb-covered library contains hundreds of books in genres ranging from history and religion to speculative fiction. Gremorly added his impressive personal collection to the library, including many rare tomes on necromancy, but most of the books were here when he arrived. The patches of webbing on the floor are {@book terreno difícil|PHB|8|Difficult Terrain}. These webs burn up instantly when touched by flame, but flames could also set the library on fire.",
 										{
 											"type": "entries",
 											"name": "Exploring Arcanum",
@@ -15650,7 +15650,7 @@
 							"page": 138,
 							"id": "24f",
 							"entries": [
-								"An umber hulk created this tunnel after freeing itself from a malfunctioning stasis pod in {@book area 5|BMT|16|5: Stasis Pods}. Protruding bits of metal and low ceilings make the tunnel {@book difficult terrain|PHB|8|Difficult Terrain}. To the south, the tunnel slopes upward to the Gilded Labyrinth."
+								"An umber hulk created this tunnel after freeing itself from a malfunctioning stasis pod in {@book area 5|BMT|16|5: Stasis Pods}. Protruding bits of metal and low ceilings make the tunnel {@book terreno difícil|PHB|8|Difficult Terrain}. To the south, the tunnel slopes upward to the Gilded Labyrinth."
 							]
 						},
 						{
@@ -15679,7 +15679,7 @@
 							"id": "252",
 							"entries": [
 								"A closed portcullis divides this area from {@book area 6|BMT|16|6: Maintenance Hall}. The lever in {@book area 16|BMT|16|16: Observation Room} can raise the iron bars.",
-								"This hall was once a trap room featuring a balance beam that spanned a pit of grinding gears (see the {@book Balance and Ruin trap room|BMT|3|Balance and Ruin} in {@book chapter 4|BMT|3}). When a spelljamming ship from {@book area 23|BMT|16|23: Damselfly Bay} crashed into the eastern side of the hall, the trap was destroyed. The nonfunctional gears are {@book difficult terrain|PHB|8|Difficult Terrain}.",
+								"This hall was once a trap room featuring a balance beam that spanned a pit of grinding gears (see the {@book Balance and Ruin trap room|BMT|3|Balance and Ruin} in {@book chapter 4|BMT|3}). When a spelljamming ship from {@book area 23|BMT|16|23: Damselfly Bay} crashed into the eastern side of the hall, the trap was destroyed. The nonfunctional gears are {@book terreno difícil|PHB|8|Difficult Terrain}.",
 								"A secret door is concealed in the northeast corner of this room."
 							]
 						},
@@ -15950,7 +15950,7 @@
 									"page": 141,
 									"id": "26b",
 									"entries": [
-										"Spilled, flammable oil makes a 10-foot square of this room's floor {@book difficult terrain|PHB|8|Difficult Terrain}."
+										"Spilled, flammable oil makes a 10-foot square of this room's floor {@book terreno difícil|PHB|8|Difficult Terrain}."
 									]
 								},
 								{
@@ -16319,7 +16319,7 @@
 										{
 											"type": "item",
 											"name": "Construction",
-											"entry": "The surfaces are composed of cards of various sizes from the {@item Deck of Many Things}. Unless otherwise noted, the cards don't sit flush; the walls, floor, and ceiling are irregular but not {@book difficult terrain|PHB|8|Difficult Terrain}. All the cards except for the Void card are visible throughout the House of Cards. Damaging the cards causes more copies to shuffle out and replace the damaged cards, making it impossible to tunnel through surfaces. Unless otherwise noted, ceilings are 20 feet high in rooms and 10 feet high in corridors."
+											"entry": "The surfaces are composed of cards of various sizes from the {@item Deck of Many Things}. Unless otherwise noted, the cards don't sit flush; the walls, floor, and ceiling are irregular but not {@book terreno difícil|PHB|8|Difficult Terrain}. All the cards except for the Void card are visible throughout the House of Cards. Damaging the cards causes more copies to shuffle out and replace the damaged cards, making it impossible to tunnel through surfaces. Unless otherwise noted, ceilings are 20 feet high in rooms and 10 feet high in corridors."
 										},
 										{
 											"type": "item",
@@ -19706,7 +19706,7 @@
 												"This irregular corridor's floor is uneven and leads to a door displaying the Skull to the east and another showing the back of a card to the west. The Ruin card is repeated on many of the cards that form the walls."
 											]
 										},
-										"The floor of this corridor is {@book difficult terrain|PHB|8|Difficult Terrain}.",
+										"The floor of this corridor is {@book terreno difícil|PHB|8|Difficult Terrain}.",
 										{
 											"type": "entries",
 											"name": "Secret Door",
@@ -20714,7 +20714,7 @@
 												{
 													"type": "item",
 													"name": "Blood-Soaked",
-													"entry": "Scarlet Mire is sodden with gore, rendering it {@book difficult terrain|PHB|8|Difficult Terrain}. Additionally, creatures in Scarlet Mire that aren't Undead have disadvantage on initiative rolls."
+													"entry": "Scarlet Mire is sodden with gore, rendering it {@book terreno difícil|PHB|8|Difficult Terrain}. Additionally, creatures in Scarlet Mire that aren't Undead have disadvantage on initiative rolls."
 												}
 											]
 										},

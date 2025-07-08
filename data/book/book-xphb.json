@@ -1946,8 +1946,8 @@
 									"page": 19,
 									"id": "04e",
 									"entries": [
-										"An area might be Lightly or Heavily Obscured. In a Lightly Obscured area\u2014such as an area with Dim Light, patchy fog, or moderate foliage\u2014you have {@variantrule Disadvantage|XPHB} on Wisdom ({@skill Perception|XPHB}) checks that rely on sight.",
-										"A Heavily Obscured area\u2014such as an area with Darkness, heavy fog, or dense foliage\u2014is opaque. You have the {@condition Cegado|XPHB} condition when trying to see something there."
+										"An area might be Lightly or Muy oscuro. In a Ligeramente oscuro area\u2014such as an area with Luz tenue, patchy fog, or moderate foliage\u2014you have {@variantrule Disadvantage|XPHB} on Wisdom ({@skill Perception|XPHB}) checks that rely on sight.",
+										"A Muy oscuro area\u2014such as an area with Darkness, heavy fog, or dense foliage\u2014is opaque. You have the {@condition Cegado|XPHB} condition when trying to see something there."
 									]
 								},
 								{
@@ -1959,20 +1959,20 @@
 										"The presence or absence of light determines the category of illumination in an area, as defined below.",
 										{
 											"type": "entries",
-											"name": "Bright Light",
+											"name": "Luz brillante",
 											"page": 19,
 											"id": "050",
 											"entries": [
-												"Bright Light lets most creatures see normally. Even gloomy days provide Bright Light, as do torches, lanterns, fires, and other sources of illumination within a specific radius."
+												"Luz brillante lets most creatures see normally. Even gloomy days provide Luz brillante, as do torches, lanterns, fires, and other sources of illumination within a specific radius."
 											]
 										},
 										{
 											"type": "entries",
-											"name": "Dim Light",
+											"name": "Luz tenue",
 											"page": 19,
 											"id": "051",
 											"entries": [
-												"Dim Light, also called shadows, creates a {@variantrule Lightly Obscured|XPHB} area. An area of Dim Light is usually a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light. A full moon might bathe the land in Dim Light."
+												"Luz tenue, also called shadows, creates a {@variantrule Ligeramente oscuro|XPHB} area. An area of Luz tenue is usually a boundary between Luz brillante and surrounding Darkness. The soft light of twilight and dawn also counts as Luz tenue. A full moon might bathe the land in Luz tenue."
 											]
 										},
 										{
@@ -1981,7 +1981,7 @@
 											"page": 19,
 											"id": "052",
 											"entries": [
-												"Darkness creates a {@variantrule Heavily Obscured|XPHB} area. Characters face Darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon, or in an area of magical Darkness."
+												"Darkness creates a {@variantrule Muy oscuro|XPHB} area. Characters face Darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon, or in an area of magical Darkness."
 											]
 										}
 									]
@@ -2725,7 +2725,7 @@
 								"A character's Speed is determined during character creation. A monster's Speed is noted in the monster's stat block. See the {@book rules glossary|XPHB|10|Speed} for more about Speed as well as about special speeds, such as a {@variantrule Climb Speed|XPHB}, {@variantrule Fly Speed|XPHB}, or {@variantrule Swim Speed|XPHB}.",
 								{
 									"type": "entries",
-									"name": "Difficult Terrain",
+									"name": "Terreno difícil",
 									"page": 24,
 									"id": "078",
 									"entries": [
@@ -2870,7 +2870,7 @@
 									"id": "082",
 									"entries": [
 										"During your move, you can pass through the space of an ally, a creature that has the {@condition Incapacitado|XPHB} condition, a Tiny creature, or a creature that is two sizes larger or smaller than you.",
-										"Another creature's space is {@variantrule Difficult Terrain|XPHB} for you unless that creature is Tiny or your ally.",
+										"Another creature's space is {@variantrule Terreno difícil|XPHB} for you unless that creature is Tiny or your ally.",
 										"You can't willingly end a move in a space occupied by another creature. If you somehow end a turn in a space with another creature, you have the {@condition Prone|XPHB} condition unless you are Tiny or are of a larger size than the other creature."
 									]
 								}
@@ -3937,7 +3937,7 @@
 									"name": "(15)\u2014Areas of Effect",
 									"id": "0c0",
 									"entries": [
-										"Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} of the {@spell Thunderwave|XPHB} spell. See the {@book rules glossary|XPHB|10|Area of Effect} for more on areas of effect."
+										"Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} of the {@spell Ola atronadora|XPHB} spell. See the {@book rules glossary|XPHB|10|Area of Effect} for more on areas of effect."
 									]
 								},
 								{
@@ -3945,7 +3945,7 @@
 									"name": "(16)\u2014Saving Throws",
 									"id": "0c1",
 									"entries": [
-										"The skeletons make Constitution saving throws to resist the {@spell Thunderwave|XPHB} spell. When they fail those saves, they take damage and are pushed, as defined in that spell's description."
+										"The skeletons make Constitution saving throws to resist the {@spell Ola atronadora|XPHB} spell. When they fail those saves, they take damage and are pushed, as defined in that spell's description."
 									]
 								},
 								{
@@ -3963,7 +3963,7 @@
 									"page": 31,
 									"id": "0c3",
 									"entries": [
-										"Gareth's Sear Undead is a class feature (see {@book chapter 3|XPHB|3}). As with Mirabella's {@spell Thunderwave|XPHB} spell, Sear Undead forces the skeletons to make a saving throw."
+										"Gareth's Sear Undead is a class feature (see {@book chapter 3|XPHB|3}). As with Mirabella's {@spell Ola atronadora|XPHB} spell, Sear Undead forces the skeletons to make a saving throw."
 									]
 								},
 								{
@@ -6546,7 +6546,7 @@
 											"items": [
 												"{@class Druida|XPHB|Círculo de la tierra|Tierra|XPHB} to draw on the magic of the environment.",
 												"{@class Druida|XPHB|Circle of the Moon|Moon|XPHB} to adopt powerful animal forms.",
-												"{@class Druida|XPHB|Circle of the Sea|Sea|XPHB} to channel tides and storms.",
+												"{@class Druida|XPHB|Círculo del mar|Sea|XPHB} to channel tides and storms.",
 												"{@class Druida|XPHB|Circle of the Stars|Stars|XPHB} to gain powers in a starry form."
 											]
 										}
@@ -10358,7 +10358,7 @@
 									"page": 224,
 									"id": "6bc",
 									"entries": [
-										"For 1 hour, a lit Candle sheds {@variantrule Bright Light|XPHB} in a 5-foot radius and {@variantrule Dim Light|XPHB} for an additional 5 feet."
+										"For 1 hour, a lit Candle sheds {@variantrule Luz brillante|XPHB} in a 5-foot radius and {@variantrule Luz tenue|XPHB} for an additional 5 feet."
 									]
 								},
 								{
@@ -10659,7 +10659,7 @@
 									"page": 226,
 									"id": "6d6",
 									"entries": [
-										"A Lamp burns {@item Aceite|XPHB} as fuel to cast {@variantrule Bright Light|XPHB} in a 15-foot radius and {@variantrule Dim Light|XPHB} for an additional 30 feet."
+										"A Lamp burns {@item Aceite|XPHB} as fuel to cast {@variantrule Luz brillante|XPHB} in a 15-foot radius and {@variantrule Luz tenue|XPHB} for an additional 30 feet."
 									]
 								},
 								{
@@ -10668,7 +10668,7 @@
 									"page": 226,
 									"id": "6d7",
 									"entries": [
-										"A Bullseye Lantern burns {@item Aceite|XPHB} as fuel to cast {@variantrule Bright Light|XPHB} in a 60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone} and {@variantrule Dim Light|XPHB} for an additional 60 feet."
+										"A Bullseye Lantern burns {@item Aceite|XPHB} as fuel to cast {@variantrule Luz brillante|XPHB} in a 60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone} and {@variantrule Luz tenue|XPHB} for an additional 60 feet."
 									]
 								},
 								{
@@ -10688,7 +10688,7 @@
 									"page": 226,
 									"id": "6d8",
 									"entries": [
-										"A Hooded Lantern burns {@item Aceite|XPHB} as fuel to cast {@variantrule Bright Light|XPHB} in a 30-foot radius and {@variantrule Dim Light|XPHB} for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again."
+										"A Hooded Lantern burns {@item Aceite|XPHB} as fuel to cast {@variantrule Luz brillante|XPHB} in a 30-foot radius and {@variantrule Luz tenue|XPHB} for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Luz tenue in a 5-foot radius, or raise it again."
 									]
 								},
 								{
@@ -11007,7 +11007,7 @@
 									"page": 229,
 									"id": "6fb",
 									"entries": [
-										"A Torch burns for 1 hour, casting {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} for an additional 20 feet. When you take the {@action Attack|XPHB} action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage."
+										"A Torch burns for 1 hour, casting {@variantrule Luz brillante|XPHB} in a 20-foot radius and {@variantrule Luz tenue|XPHB} for an additional 20 feet. When you take the {@action Attack|XPHB} action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage."
 									]
 								},
 								{
@@ -12518,7 +12518,7 @@
 											"page": 238,
 											"id": "743",
 											"entries": [
-												"Some spells, such as {@spell Thunderwave|XPHB}, cover an area called an {@variantrule area of effect|XPHB}, which is defined in the {@book rules glossary|XPHB|10|Area of Effect}. The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: {@variantrule Cone [Area of Effect]|XPHB|Cone}, {@variantrule Cube [Area of Effect]|XPHB|Cube}, {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}, {@variantrule Emanation [Area of Effect]|XPHB|Emanation}, {@variantrule Line [Area of Effect]|XPHB|Line}, or {@variantrule Sphere [Area of Effect]|XPHB|Sphere}.",
+												"Some spells, such as {@spell Ola atronadora|XPHB}, cover an area called an {@variantrule area of effect|XPHB}, which is defined in the {@book rules glossary|XPHB|10|Area of Effect}. The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: {@variantrule Cone [Area of Effect]|XPHB|Cone}, {@variantrule Cube [Area of Effect]|XPHB|Cube}, {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}, {@variantrule Emanation [Area of Effect]|XPHB|Emanation}, {@variantrule Line [Area of Effect]|XPHB|Line}, or {@variantrule Sphere [Area of Effect]|XPHB|Sphere}.",
 												{
 													"type": "image",
 													"href": {
@@ -12697,10 +12697,10 @@
 								"{@spell Compulsion|XPHB}",
 								"{@spell Cono de frío|XPHB}",
 								"{@spell Confusion|XPHB}",
-								"{@spell Conjure Animals|XPHB}",
+								"{@spell Conjurar animales|XPHB}",
 								"{@spell Conjure Barrage|XPHB}",
 								"{@spell Conjure Celestial|XPHB}",
-								"{@spell Conjure Elemental|XPHB}",
+								"{@spell Conjurar elemental|XPHB}",
 								"{@spell Conjure Fey|XPHB}",
 								"{@spell Conjure Minor Elementals|XPHB}",
 								"{@spell Conjure Volley|XPHB}",
@@ -12709,7 +12709,7 @@
 								"{@spell Contagion|XPHB}",
 								"{@spell Contingency|XPHB}",
 								"{@spell Continual Flame|XPHB}",
-								"{@spell Control Water|XPHB}",
+								"{@spell Controlar agua|XPHB}",
 								"{@spell Control Weather|XPHB}",
 								"{@spell Cordon of Arrows|XPHB}",
 								"{@spell Contrahechizo|XPHB}",
@@ -12807,7 +12807,7 @@
 								"{@spell Forbiddance|XPHB}",
 								"{@spell Forcecage|XPHB}",
 								"{@spell Foresight|XPHB}",
-								"{@spell Fount of Moonlight|XPHB}",
+								"{@spell Fuente de luz lunar|XPHB}",
 								"{@spell Libertad de movimiento|XPHB}",
 								"{@spell Friends|XPHB}"
 							]
@@ -12834,7 +12834,7 @@
 								"{@spell Guards and Wards|XPHB}",
 								"{@spell Guía|XPHB}",
 								"{@spell Saeta guía|XPHB}",
-								"{@spell Gust of Wind|XPHB}"
+								"{@spell Ráfaga de viento|XPHB}"
 							]
 						},
 						{
@@ -12874,7 +12874,7 @@
 								"{@spell Imprisonment|XPHB}",
 								"{@spell Incendiary Cloud|XPHB}",
 								"{@spell Infligir heridas|XPHB}",
-								"{@spell Insect Plague|XPHB}",
+								"{@spell Plaga de insectos|XPHB}",
 								"{@spell Invisibilidad|XPHB}"
 							]
 						},
@@ -12946,7 +12946,7 @@
 								"{@spell Engañar|XPHB}",
 								"{@spell Paso brumoso|XPHB}",
 								"{@spell Modify Memory|XPHB}",
-								"{@spell Moonbeam|XPHB}",
+								"{@spell Rayo de luna|XPHB}",
 								"{@spell Mordenkainen's Faithful Hound|XPHB}",
 								"{@spell Mordenkainen's Magnificent Mansion|XPHB}",
 								"{@spell Mordenkainen's Private Sanctum|XPHB}",
@@ -12988,7 +12988,7 @@
 								"{@spell Plane Shift|XPHB}",
 								"{@spell Plant Growth|XPHB}",
 								"{@spell Rociada venenosa|XPHB}",
-								"{@spell Polymorph|XPHB}",
+								"{@spell Polimorfar|XPHB}",
 								"{@spell Power Word Fortify|XPHB}",
 								"{@spell Palabra de poder: Sanar|XPHB}",
 								"{@spell Palabra de poder: Matar|XPHB}",
@@ -13065,7 +13065,7 @@
 								"{@spell Staggering Smite|XPHB}",
 								"{@spell Voluta estelar|XPHB}",
 								"{@spell Golpe de viento acerado|XPHB}",
-								"{@spell Stinking Cloud|XPHB}",
+								"{@spell Nube apestosa|XPHB}",
 								"{@spell Stone Shape|XPHB}",
 								"{@spell Stoneskin|XPHB}",
 								"{@spell Storm of Vengeance|XPHB}",
@@ -13102,7 +13102,7 @@
 								"{@spell Látigo de espinas|XPHB}",
 								"{@spell Tronar|XPHB}",
 								"{@spell Thunderous Smite|XPHB}",
-								"{@spell Thunderwave|XPHB}",
+								"{@spell Ola atronadora|XPHB}",
 								"{@spell Time Stop|XPHB}",
 								"{@spell Tañido por los muertos|XPHB}",
 								"{@spell Tongues|XPHB}",
@@ -13144,9 +13144,9 @@
 								"{@spell Muro de piedra|XPHB}",
 								"{@spell Wall of Thorns|XPHB}",
 								"{@spell Warding Bond|XPHB}",
-								"{@spell Water Breathing|XPHB}",
+								"{@spell Respirar bajo el agua|XPHB}",
 								"{@spell Water Walk|XPHB}",
-								"{@spell Web|XPHB}",
+								"{@spell Telaraña|XPHB}",
 								"{@spell Weird|XPHB}",
 								"{@spell Wind Walk|XPHB}",
 								"{@spell Wind Wall|XPHB}",
@@ -13797,7 +13797,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Bright Light"
+							"name": "Luz brillante"
 						},
 						{
 							"type": "statblock",
@@ -14001,7 +14001,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Difficult Terrain"
+							"name": "Terreno difícil"
 						},
 						{
 							"type": "statblock",
@@ -14013,7 +14013,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Dim Light"
+							"name": "Luz tenue"
 						},
 						{
 							"type": "statblock",
@@ -14127,7 +14127,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Heavily Obscured"
+							"name": "Muy oscuro"
 						},
 						{
 							"type": "statblock",
@@ -14241,7 +14241,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Lightly Obscured"
+							"name": "Ligeramente oscuro"
 						},
 						{
 							"type": "statblock",

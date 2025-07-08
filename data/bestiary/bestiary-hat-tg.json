@@ -80,7 +80,7 @@
 							"{@spell cure wounds}",
 							"{@spell entangle}",
 							"{@spell faerie fire}",
-							"{@spell thunderwave}"
+							"{@spell ola atronadora}"
 						]
 					},
 					"ability": "wis",
@@ -826,7 +826,7 @@
 							"{@spell dimension door}",
 							"{@spell mage armor}",
 							"{@spell Otiluke's resilient sphere}",
-							"{@spell thunderwave}"
+							"{@spell ola atronadora}"
 						],
 						"1e": [
 							"{@spell Evard's black tentacles}",

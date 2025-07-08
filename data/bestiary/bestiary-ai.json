@@ -1693,7 +1693,7 @@
 						"3": {
 							"slots": 2,
 							"spells": [
-								"{@spell conjure animals}"
+								"{@spell conjurar animales}"
 							]
 						}
 					},
@@ -3212,14 +3212,14 @@
 							"spells": [
 								"{@spell cure wounds}",
 								"{@spell entangle}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
 								"{@spell flame blade}",
-								"{@spell moonbeam}",
+								"{@spell rayo de luna}",
 								"{@spell pass without trace}"
 							]
 						},

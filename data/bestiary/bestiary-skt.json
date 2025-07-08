@@ -813,7 +813,7 @@
 									"spells": [
 										"{@spell cure wounds}",
 										"{@spell entangle}",
-										"{@spell thunderwave}"
+										"{@spell ola atronadora}"
 									]
 								},
 								"2": {
@@ -821,14 +821,14 @@
 									"spells": [
 										"{@spell animal messenger}",
 										"{@spell barkskin}",
-										"{@spell gust of wind}"
+										"{@spell ráfaga de viento}"
 									]
 								},
 								"3": {
 									"slots": 3,
 									"spells": [
 										"{@spell call lightning}",
-										"{@spell conjure animals}",
+										"{@spell conjurar animales}",
 										"{@spell speak with plants}"
 									]
 								},
@@ -842,7 +842,7 @@
 								"5": {
 									"slots": 1,
 									"spells": [
-										"{@spell conjure elemental}"
+										"{@spell Conjurar elemental}"
 									]
 								}
 							},
@@ -985,7 +985,7 @@
 					"daily": {
 						"2e": [
 							"{@spell arcane lock}",
-							"{@spell gust of wind}",
+							"{@spell ráfaga de viento}",
 							"{@spell invisibility}",
 							"{@spell magic missile}",
 							"{@spell unseen servant}"
@@ -2885,7 +2885,7 @@
 							"{@spell jump}",
 							"{@spell locate animals or plants}",
 							"{@spell locate object}",
-							"{@spell water breathing}",
+							"{@spell respirar bajo el agua}",
 							"{@spell water walk}"
 						]
 					},
@@ -3214,7 +3214,7 @@
 					"daily": {
 						"3e": [
 							"{@spell control weather}",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha"
@@ -4493,7 +4493,7 @@
 					"daily": {
 						"1e": [
 							"{@spell control weather} (cast as 1 action)",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha",
@@ -4779,7 +4779,7 @@
 					"daily": {
 						"1e": [
 							"{@spell control weather} (cast as 1 action)",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha",
@@ -4913,7 +4913,7 @@
 					"daily": {
 						"1e": [
 							"{@spell mage armor}",
-							"{@spell thunderwave}",
+							"{@spell ola atronadora}",
 							"{@spell witch bolt}"
 						]
 					},
@@ -5407,7 +5407,7 @@
 					"daily": {
 						"1e": [
 							"{@spell control weather} (cast as 1 action)",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha",
@@ -6077,7 +6077,7 @@
 				{
 					"name": "Libertad de movimiento",
 					"entries": [
-						"Slarkrethel ignores {@quickref difficult terrain||3}, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
+						"Slarkrethel ignores {@quickref terreno difícil||3}, and magical effects can't reduce its speed or cause it to be {@condition restrained}. It can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
 					]
 				},
 				{
@@ -6135,7 +6135,7 @@
 				{
 					"name": "Ink Cloud (Costs 3 Actions)",
 					"entries": [
-						"While underwater, Slarkrethel expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than Slarkrethel. Each creature other than Slarkrethel that ends its turn there must succeed on a {@dc 23} Constitution saving throw, taking 16 ({@damage 3d10}) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of Slarkrethel's next turn."
+						"While underwater, Slarkrethel expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is muy oscuro to creatures other than Slarkrethel. Each creature other than Slarkrethel that ends its turn there must succeed on a {@dc 23} Constitution saving throw, taking 16 ({@damage 3d10}) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of Slarkrethel's next turn."
 					]
 				}
 			],
@@ -6850,7 +6850,7 @@
 							"{@spell detect magic}",
 							"{@spell entangle}",
 							"{@spell goodberry}",
-							"{@spell gust of wind}",
+							"{@spell ráfaga de viento}",
 							"{@spell pass without trace}",
 							"{@spell speak with animals}"
 						],
@@ -7242,7 +7242,7 @@
 							"daily": {
 								"1e": [
 									"{@spell beast sense} (wolf or dire wolf only)",
-									"{@spell moonbeam}",
+									"{@spell rayo de luna}",
 									"{@spell speak with animals} (wolf or dire wolf only)"
 								]
 							}
@@ -7302,7 +7302,7 @@
 							"mode": "addSpells",
 							"daily": {
 								"1e": [
-									"{@spell gust of wind}",
+									"{@spell ráfaga de viento}",
 									"{@spell witch bolt}"
 								]
 							}
@@ -7415,7 +7415,7 @@
 					"daily": {
 						"1e": [
 							"{@spell control weather} (cast as 1 action)",
-							"{@spell water breathing}"
+							"{@spell respirar bajo el agua}"
 						]
 					},
 					"ability": "cha",
@@ -8019,7 +8019,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell gust of wind}",
+							"{@spell ráfaga de viento}",
 							"{@spell levitate}",
 							"{@spell magic missile}"
 						],

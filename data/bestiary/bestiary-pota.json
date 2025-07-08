@@ -100,14 +100,14 @@
 								"{@spell charm person}",
 								"{@spell feather fall}",
 								"{@spell mage armor}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
 								"{@spell dust devil|xge}",
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell invisibility}"
 							]
 						},
@@ -1411,7 +1411,7 @@
 								"{@spell faerie fire}",
 								"{@spell healing word}",
 								"{@spell jump}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -1425,7 +1425,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dispel magic}",
-								"{@spell stinking cloud}"
+								"{@spell nube apestosa}"
 							]
 						},
 						"4": {
@@ -2328,7 +2328,7 @@
 								"{@spell create or destroy water}",
 								"{@spell cure wounds}",
 								"{@spell fog cloud}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -2949,7 +2949,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dust devil|xge}",
-								"{@spell gust of wind}"
+								"{@spell ráfaga de viento}"
 							]
 						},
 						"3": {
@@ -3092,13 +3092,13 @@
 							"spells": [
 								"{@spell feather fall}",
 								"{@spell jump}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
 							"slots": 2,
 							"spells": [
-								"{@spell gust of wind}"
+								"{@spell ráfaga de viento}"
 							]
 						}
 					},
@@ -3574,7 +3574,7 @@
 				{
 					"name": "Earth Passage",
 					"entries": [
-						"Marlos can move in {@quickref difficult terrain||3} composed of anything made from earth or stone as if it were normal terrain. He can move through solid earth and rock as if it were {@quickref difficult terrain||3}. If he ends his turn there, he is shunted into the nearest space he last occupied."
+						"Marlos can move in {@quickref terreno difícil||3} composed of anything made from earth or stone as if it were normal terrain. He can move through solid earth and rock as if it were {@quickref terreno difícil||3}. If he ends his turn there, he is shunted into the nearest space he last occupied."
 					]
 				},
 				{
@@ -3793,7 +3793,7 @@
 				{
 					"name": "Earth Walk",
 					"entries": [
-						"Moving through {@quickref difficult terrain||3} made of earth or stone costs Miraj no extra movement."
+						"Moving through {@quickref terreno difícil||3} made of earth or stone costs Miraj no extra movement."
 					]
 				}
 			],
@@ -4441,7 +4441,7 @@
 							"spells": [
 								"{@spell fog cloud}",
 								"{@spell mage armor}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -4856,7 +4856,7 @@
 								"{@spell detect magic}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -5321,7 +5321,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell gust of wind}",
+								"{@spell ráfaga de viento}",
 								"{@spell invisibility}"
 							]
 						},
@@ -6151,7 +6151,7 @@
 							"spells": [
 								"{@spell disguise self}",
 								"{@spell dissonant whispers}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -6330,7 +6330,7 @@
 						"Yan-C-Bin's innate spellcasting ability is Charisma (spell save {@dc 20}, {@hit 12} to hit with spell attacks). He can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell gust of wind}",
+						"{@spell ráfaga de viento}",
 						"{@spell invisibility}",
 						"{@spell relámpago}"
 					],

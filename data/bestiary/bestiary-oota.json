@@ -2212,7 +2212,7 @@
 							"mode": "removeArr",
 							"names": [
 								"Hold Breath",
-								"Water Breathing"
+								"Respirar bajo el agua"
 							]
 						}
 					]
@@ -3815,7 +3815,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals} (2 giant spiders)",
+								"{@spell conjurar animales} (2 giant spiders)",
 								"{@spell dispel magic}"
 							]
 						},
@@ -3829,7 +3829,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell insect plague}",
+								"{@spell plaga de insectos}",
 								"{@spell mass cure wounds}"
 							]
 						}
@@ -4440,7 +4440,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell gaseous form}",
-								"{@spell stinking cloud}"
+								"{@spell nube apestosa}"
 							]
 						},
 						"4": {

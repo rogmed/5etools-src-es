@@ -73,8 +73,8 @@
 			]
 		},
 		{
-			"name": "Circle of the Moon",
-			"shortName": "Moon",
+			"name": "Círculo de la luna",
+			"shortName": "Luna",
 			"source": "XPHB",
 			"className": "Druida",
 			"classSource": "XPHB",
@@ -92,8 +92,8 @@
 			]
 		},
 		{
-			"name": "Circle of the Sea",
-			"shortName": "Sea",
+			"name": "Círculo del mar",
+			"shortName": "Mar",
 			"source": "XPHB",
 			"className": "Druida",
 			"classSource": "XPHB",

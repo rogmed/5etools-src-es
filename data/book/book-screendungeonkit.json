@@ -478,7 +478,7 @@
 								[
 									"2",
 									"Crumbling",
-									"Areas within the dungeon section are choked with rubble and have a {@chance 50} chance of being {@quickref difficult terrain||3}. {@quickref Cover||3||Half cover} and hiding places are plentiful."
+									"Areas within the dungeon section are choked with rubble and have a {@chance 50} chance of being {@quickref terreno difícil||3}. {@quickref Cover||3||Half cover} and hiding places are plentiful."
 								],
 								[
 									"3",
@@ -871,8 +871,8 @@
 					"caption": "Light",
 					"colLabels": [
 						"Source",
-						"Bright Light",
-						"Dim Light",
+						"Luz brillante",
+						"Luz tenue",
 						"Duration"
 					],
 					"colStyles": [

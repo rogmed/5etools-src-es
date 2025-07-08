@@ -544,7 +544,7 @@
 					"prepared": {
 						"3": [
 							"Proyectil mágico",
-							"thunderwave"
+							"ola atronadora"
 						],
 						"5": [
 							"Imagen múltiple",
@@ -592,7 +592,7 @@
 					"prepared": {
 						"3": [
 							"escudo",
-							"thunderwave"
+							"ola atronadora"
 						],
 						"5": [
 							"scorching ray",
@@ -1654,7 +1654,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell magic missile}, {@spell thunderwave}"
+							"{@spell magic missile}, {@spell ola atronadora}"
 						],
 						[
 							"5th",
@@ -1837,7 +1837,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell shield}, {@spell thunderwave}"
+							"{@spell shield}, {@spell ola atronadora}"
 						],
 						[
 							"5th",

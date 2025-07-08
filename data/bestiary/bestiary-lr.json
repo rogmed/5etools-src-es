@@ -110,15 +110,15 @@
 								"{@spell darkvision}",
 								"{@spell hold person}",
 								"{@spell lesser restoration}",
-								"{@spell moonbeam}"
+								"{@spell rayo de luna}"
 							]
 						},
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell dispel magic}",
-								"{@spell water breathing}"
+								"{@spell respirar bajo el agua}"
 							]
 						},
 						"4": {
@@ -405,7 +405,7 @@
 								"{@spell create or destroy water}",
 								"{@spell charm person}",
 								"{@spell cure wounds}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -422,10 +422,10 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell dispel magic}",
 								"{@spell tidal wave|XGE}",
-								"{@spell water breathing}*",
+								"{@spell respirar bajo el agua}*",
 								"{@spell water walk}*"
 							]
 						},
@@ -442,7 +442,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell conjure elemental}*",
+								"{@spell Conjurar elemental}*",
 								"{@spell maelstrom|XGE}",
 								"{@spell scrying}*",
 								"{@spell paso arbóreo}"
@@ -815,7 +815,7 @@
 							{
 								"name": "Ink Cloud",
 								"entries": [
-									"While underwater, Whymsee can expel an ink cloud in a 20-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than kraken priests or a kraken. Each creature other than a kraken priest or a kraken that ends its turn there must succeed on a {@dc 14} Constitution saving throw, taking 9 ({@damage 2d8}) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of Whymsee's next turn."
+									"While underwater, Whymsee can expel an ink cloud in a 20-foot radius. The cloud spreads around corners, and that area is muy oscuro to creatures other than kraken priests or a kraken. Each creature other than a kraken priest or a kraken that ends its turn there must succeed on a {@dc 14} Constitution saving throw, taking 9 ({@damage 2d8}) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of Whymsee's next turn."
 								]
 							},
 							{

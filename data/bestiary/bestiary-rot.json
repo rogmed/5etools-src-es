@@ -90,7 +90,7 @@
 					"trait": {
 						"mode": "appendArr",
 						"items": {
-							"name": "Water Breathing",
+							"name": "Respirar bajo el agua",
 							"entries": [
 								"The troll can breathe underwater."
 							]
@@ -108,7 +108,7 @@
 			"traitTags": [
 				"Keen Senses",
 				"Regeneration",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"hasToken": true
 		},
@@ -184,7 +184,7 @@
 								"{@spell charm person}",
 								"{@spell detect magic}",
 								"{@spell shield}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {

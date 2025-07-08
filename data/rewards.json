@@ -654,13 +654,13 @@
 				{
 					"innate": {
 						"_": [
-							"thunderwave"
+							"ola atronadora"
 						]
 					}
 				}
 			],
 			"entries": [
-				"You have immunity to lightning and thunder damage. You can also cast {@spell thunderwave} (save {@dc 15}) at will, without using a spell slot or any components."
+				"You have immunity to lightning and thunder damage. You can also cast {@spell ola atronadora} (save {@dc 15}) at will, without using a spell slot or any components."
 			]
 		},
 		{
@@ -916,7 +916,7 @@
 						"_": {
 							"limited": {
 								"3": [
-									"conjure animals#3"
+									"conjurar animales#3"
 								]
 							}
 						}
@@ -924,7 +924,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell conjure animals} spell (3rd-level version) as an action. Once used three times, the charm vanishes from you."
+				"This charm allows you to cast the {@spell conjurar animales} spell (3rd-level version) as an action. Once used three times, the charm vanishes from you."
 			]
 		},
 		{
@@ -938,7 +938,7 @@
 						"_": {
 							"limited": {
 								"3": [
-									"conjure animals|xphb"
+									"conjurar animales|xphb"
 								]
 							}
 						}
@@ -946,7 +946,7 @@
 				}
 			],
 			"entries": [
-				"This Charm allows you to cast {@spell Conjure Animals|XPHB}. Once used three times, the Charm vanishes from you."
+				"This Charm allows you to cast {@spell Conjurar animales|XPHB}. Once used three times, the Charm vanishes from you."
 			]
 		},
 		{
@@ -1719,8 +1719,8 @@
 				{
 					"type": "list",
 					"items": [
-						"You and your allies within 15 feet of you ignore {@quickref difficult terrain||3} caused by snow or ice.",
-						"You can see through areas heavily obscured by snow to a distance of 60 feet.",
+						"You and your allies within 15 feet of you ignore {@quickref terreno difícil||3} caused by snow or ice.",
+						"You can see through areas muy oscuro by snow to a distance of 60 feet.",
 						"You are immune to the effects of extreme cold, as described in the {@book Dungeon Master's Guide|DMG} (though you gain no protection from cold damage)."
 					]
 				},
@@ -2703,7 +2703,7 @@
 								"1": [
 									"dispel magic",
 									"false life#3",
-									"stinking cloud"
+									"nube apestosa"
 								]
 							}
 						}
@@ -2711,7 +2711,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell dispel magic}, {@spell false life} (3rd-level version), or {@spell stinking cloud} spell. The charm vanishes after you activate it."
+				"When you activate this charm, you can cast the {@spell dispel magic}, {@spell false life} (3rd-level version), or {@spell nube apestosa} spell. The charm vanishes after you activate it."
 			]
 		},
 		{
@@ -2734,7 +2734,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell heroism} or {@spell thunderwave} spell (3rd-level versions). Alternatively, as a reaction when you miss with a weapon attack, you can make another attack against the target you missed. The charm vanishes after you activate it."
+				"When you activate this charm, you can cast the {@spell heroism} or {@spell ola atronadora} spell (3rd-level versions). Alternatively, as a reaction when you miss with a weapon attack, you can make another attack against the target you missed. The charm vanishes after you activate it."
 			]
 		},
 		{
@@ -2744,7 +2744,7 @@
 			"type": "Charm",
 			"entries": [
 				"Habbakuk blesses your travels through the Northern Wastes. This charm grants you advantage on Wisdom ({@skill Survival}) checks made to notice the Wash's waters filling chasms.",
-				"Additionally, while traveling, you and up to 5 other creatures with you ignore {@book difficult terrain|PHB|8|Difficult Terrain} outdoors in the Northern Wastes, allowing you to move at double the pace listed on the Northern Wastes Land Travel table (see the \"{@adventure Into the Wastes|DSotDQ|5|Into the Wastes}\" section earlier in this chapter).",
+				"Additionally, while traveling, you and up to 5 other creatures with you ignore {@book terreno difícil|PHB|8|Difficult Terrain} outdoors in the Northern Wastes, allowing you to move at double the pace listed on the Northern Wastes Land Travel table (see the \"{@adventure Into the Wastes|DSotDQ|5|Into the Wastes}\" section earlier in this chapter).",
 				"This charm vanishes 24 hours after you leave the Northern Wastes."
 			]
 		},
@@ -3799,7 +3799,7 @@
 							"limited": {
 								"1": [
 									"aura of vitality",
-									"conjure animals"
+									"conjurar animales"
 								]
 							}
 						}
@@ -3807,7 +3807,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell aura of vitality} or {@spell conjure animals} spell. Alternatively, as an action, you can give up to three creatures of your choice within 30 feet of you resistance to bludgeoning, piercing, and slashing damage until the end of your next turn. The charm vanishes after you activate it."
+				"When you activate this charm, you can cast the {@spell aura of vitality} or {@spell conjurar animales} spell. Alternatively, as an action, you can give up to three creatures of your choice within 30 feet of you resistance to bludgeoning, piercing, and slashing damage until the end of your next turn. The charm vanishes after you activate it."
 			]
 		},
 		{

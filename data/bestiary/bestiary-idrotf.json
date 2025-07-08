@@ -587,7 +587,7 @@
 				{
 					"name": "Blizzard Veil",
 					"entries": [
-						"Auril creates a magical blizzard in a 30-foot-radius sphere centered on herself. The area within the sphere is heavily obscured, and the sphere moves with Auril. The effect lasts until Auril drops to 0 hit points in this form, until she chooses to end the effect (no action required), or until her {@status concentration} is broken (as if {@status concentration||concentrating} on a spell)."
+						"Auril creates a magical blizzard in a 30-foot-radius sphere centered on herself. The area within the sphere is muy oscuro, and the sphere moves with Auril. The effect lasts until Auril drops to 0 hit points in this form, until she chooses to end the effect (no action required), or until her {@status concentration} is broken (as if {@status concentration||concentrating} on a spell)."
 					]
 				}
 			],
@@ -2207,14 +2207,14 @@
 							"slots": 3,
 							"spells": [
 								"{@spell animal messenger}",
-								"{@spell moonbeam}",
+								"{@spell rayo de luna}",
 								"{@spell pass without trace}"
 							]
 						},
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell conjure animals}",
+								"{@spell conjurar animales}",
 								"{@spell sleet storm}",
 								"{@spell wind wall}"
 							]
@@ -4630,7 +4630,7 @@
 			"cr": "0",
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The trout can breathe only underwater."
 					]
@@ -4651,7 +4651,7 @@
 				}
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -5364,7 +5364,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -5391,7 +5391,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The ghost can move through other creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"The ghost can move through other creatures and objects as if they were {@quickref terreno difícil||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
 					]
 				}
 			],

@@ -52,7 +52,7 @@
 					],
 					"will": [
 						"{@spell Elementalismo|XPHB}",
-						"{@spell Gust of Wind|XPHB}",
+						"{@spell Ráfaga de viento|XPHB}",
 						"{@spell Mage Hand|XPHB}",
 						"{@spell Mensaje|XPHB}"
 					],
@@ -86,7 +86,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The aarakocra makes two Wind Staff attacks, and it can use Spellcasting to cast {@spell Gust of Wind|XPHB}."
+						"The aarakocra makes two Wind Staff attacks, and it can use Spellcasting to cast {@spell Ráfaga de viento|XPHB}."
 					]
 				},
 				{
@@ -1372,7 +1372,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Detectar pensamientos|XPHB}",
-							"{@spell Water Breathing|XPHB}"
+							"{@spell Respirar bajo el agua|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -2639,7 +2639,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@variantrule Difficult Terrain|XPHB} composed of ice or snow doesn't cost it extra movement."
+						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@variantrule Terreno difícil|XPHB} composed of ice or snow doesn't cost it extra movement."
 					]
 				},
 				{
@@ -3646,9 +3646,9 @@
 					"daily": {
 						"1e": [
 							"{@spell Detectar pensamientos|XPHB}",
-							"{@spell Control Water|XPHB}",
+							"{@spell Controlar agua|XPHB}",
 							"{@spell Escudriñar|XPHB}",
-							"{@spell Water Breathing|XPHB}"
+							"{@spell Respirar bajo el agua|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -4925,7 +4925,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@variantrule Difficult Terrain|XPHB} composed of ice or snow doesn't cost it extra movement."
+						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@variantrule Terreno difícil|XPHB} composed of ice or snow doesn't cost it extra movement."
 					]
 				},
 				{
@@ -7318,7 +7318,7 @@
 				{
 					"name": "Illumination",
 					"entries": [
-						"The azer sheds {@variantrule Bright Light|XPHB} in a 10-foot radius and {@variantrule Dim Light|XPHB} for an additional 10 feet."
+						"The azer sheds {@variantrule Luz brillante|XPHB} in a 10-foot radius and {@variantrule Luz tenue|XPHB} for an additional 10 feet."
 					]
 				}
 			],
@@ -7433,7 +7433,7 @@
 				{
 					"name": "Illumination",
 					"entries": [
-						"The azer sheds {@variantrule Bright Light|XPHB} in a 10-foot radius and {@variantrule Dim Light|XPHB} for an additional 10 feet."
+						"The azer sheds {@variantrule Luz brillante|XPHB} in a 10-foot radius and {@variantrule Luz tenue|XPHB} for an additional 10 feet."
 					]
 				}
 			],
@@ -8328,7 +8328,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The banshee can move through other creatures and objects as if they were {@variantrule Difficult Terrain|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
+						"The banshee can move through other creatures and objects as if they were {@variantrule Terreno difícil|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -11185,7 +11185,7 @@
 				{
 					"name": "Illumination",
 					"entries": [
-						"The gorgon sheds {@variantrule Bright Light|XPHB} in a 10-foot radius and {@variantrule Dim Light|XPHB} for an additional 10 feet."
+						"The gorgon sheds {@variantrule Luz brillante|XPHB} in a 10-foot radius and {@variantrule Luz tenue|XPHB} for an additional 10 feet."
 					]
 				}
 			],
@@ -13540,7 +13540,7 @@
 					"name": "Phantasms (Recharge after a Short or Long Rest)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The cloaker casts the {@spell Imagen múltiple|XPHB} spell, requiring no spell components and using Wisdom as the spellcasting ability. The spell ends early if the cloaker starts or ends its turn in {@variantrule Bright Light|XPHB}."
+						"The cloaker casts the {@spell Imagen múltiple|XPHB} spell, requiring no spell components and using Wisdom as the spellcasting ability. The spell ends early if the cloaker starts or ends its turn in {@variantrule Luz brillante|XPHB}."
 					],
 					"will": [
 						"{@spell Imagen múltiple|XPHB}"
@@ -13556,7 +13556,7 @@
 				{
 					"name": "Light Sensitivity",
 					"entries": [
-						"While in {@variantrule Bright Light|XPHB}, the cloaker has {@variantrule Disadvantage|XPHB} on attack rolls."
+						"While in {@variantrule Luz brillante|XPHB}, the cloaker has {@variantrule Disadvantage|XPHB} on attack rolls."
 					]
 				}
 			],
@@ -18325,13 +18325,13 @@
 					"name": "Magic of the Spider Queen {@recharge 5}",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The drider casts {@spell Darkness|XPHB}, {@spell Fuego feérico|XPHB}, or {@spell Web|XPHB}, requiring no Material components and using Wisdom as the spellcasting ability (spell save {@dc 14})."
+						"The drider casts {@spell Darkness|XPHB}, {@spell Fuego feérico|XPHB}, or {@spell Telaraña|XPHB}, requiring no Material components and using Wisdom as the spellcasting ability (spell save {@dc 14})."
 					],
 					"recharge": {
 						"5": [
 							"{@spell Darkness|XPHB}",
 							"{@spell Fuego feérico|XPHB}",
-							"{@spell Web|XPHB}"
+							"{@spell Telaraña|XPHB}"
 						]
 					},
 					"ability": "wis",
@@ -18491,12 +18491,12 @@
 					"daily": {
 						"2e": [
 							"{@spell Enmarañar|XPHB}",
-							"{@spell Thunderwave|XPHB}"
+							"{@spell Ola atronadora|XPHB}"
 						],
 						"1e": [
 							"{@spell Mensajero animal|XPHB}",
 							"{@spell Zancada prodigiosa|XPHB}",
-							"{@spell Moonbeam|XPHB}"
+							"{@spell Rayo de luna|XPHB}"
 						]
 					},
 					"ability": "wis",
@@ -19825,7 +19825,7 @@
 						"{@spell Calmar emociones|XPHB}",
 						"{@spell Restablecimiento mayor|XPHB}",
 						"{@spell Pass without Trace|XPHB}",
-						"{@spell Water Breathing|XPHB}"
+						"{@spell Respirar bajo el agua|XPHB}"
 					],
 					"daily": {
 						"1e": [
@@ -20046,7 +20046,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The empyrean can move through other creatures and objects as if they were {@variantrule Difficult Terrain|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
+						"The empyrean can move through other creatures and objects as if they were {@variantrule Terreno difícil|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -20550,7 +20550,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Hallucinatory Terrain|XPHB}",
-							"{@spell Polymorph|XPHB}"
+							"{@spell Polimorfar|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -21000,7 +21000,7 @@
 				{
 					"name": "Illumination",
 					"entries": [
-						"The elemental sheds {@variantrule Bright Light|XPHB} in a 30-foot radius and {@variantrule Dim Light|XPHB} for an additional 30 feet."
+						"The elemental sheds {@variantrule Luz brillante|XPHB} in a 30-foot radius and {@variantrule Luz tenue|XPHB} for an additional 30 feet."
 					]
 				},
 				{
@@ -21241,7 +21241,7 @@
 				{
 					"name": "Illumination",
 					"entries": [
-						"The flameskull sheds {@variantrule Bright Light|XPHB} in a 15-foot radius and {@variantrule Dim Light|XPHB} for an additional 15 feet."
+						"The flameskull sheds {@variantrule Luz brillante|XPHB} in a 15-foot radius and {@variantrule Luz tenue|XPHB} for an additional 15 feet."
 					]
 				},
 				{
@@ -21373,7 +21373,7 @@
 				{
 					"name": "Illumination",
 					"entries": [
-						"The skeleton sheds {@variantrule Bright Light|XPHB} in a 15-foot radius and {@variantrule Dim Light|XPHB} for an additional 15 feet."
+						"The skeleton sheds {@variantrule Luz brillante|XPHB} in a 15-foot radius and {@variantrule Luz tenue|XPHB} for an additional 15 feet."
 					]
 				}
 			],
@@ -22800,7 +22800,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The ghost can move through other creatures and objects as if they were {@variantrule Difficult Terrain|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
+						"The ghost can move through other creatures and objects as if they were {@variantrule Terreno difícil|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -23943,7 +23943,7 @@
 				{
 					"name": "Illumination",
 					"entries": [
-						"The beetle sheds {@variantrule Bright Light|XPHB} in a 10-foot radius and {@variantrule Dim Light|XPHB} for an additional 10 feet."
+						"The beetle sheds {@variantrule Luz brillante|XPHB} in a 10-foot radius and {@variantrule Luz tenue|XPHB} for an additional 10 feet."
 					]
 				}
 			],
@@ -24357,7 +24357,7 @@
 			"cr": "1",
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The octopus can breathe only underwater. It can hold its breath for 1 hour outside water."
 					]
@@ -24375,7 +24375,7 @@
 				{
 					"name": "Ink Cloud (1/Day)",
 					"entries": [
-						"{@actTrigger} The octopus takes damage while underwater. {@actResponse} The octopus releases ink that fills a 10-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} centered on itself, and the octopus moves up to its {@variantrule Swim Speed|XPHB}. The {@variantrule Cube [Area of Effect]|XPHB|Cube} is {@variantrule Heavily Obscured|XPHB} for 1 minute or until a strong current or similar effect disperses the ink."
+						"{@actTrigger} The octopus takes damage while underwater. {@actResponse} The octopus releases ink that fills a 10-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} centered on itself, and the octopus moves up to its {@variantrule Swim Speed|XPHB}. The {@variantrule Cube [Area of Effect]|XPHB|Cube} is {@variantrule Muy oscuro|XPHB} for 1 minute or until a strong current or similar effect disperses the ink."
 					]
 				}
 			],
@@ -24387,7 +24387,7 @@
 				"path": "bestiary/giant-octopus.mp3"
 			},
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -24737,7 +24737,7 @@
 			"cr": "1/2",
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The seahorse can breathe only underwater."
 					]
@@ -24763,7 +24763,7 @@
 				"underwater"
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"damageTags": [
 				"B"
@@ -24818,7 +24818,7 @@
 			"cr": "5",
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The shark can breathe only underwater."
 					]
@@ -24846,7 +24846,7 @@
 				"path": "bestiary/giant-shark.mp3"
 			},
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"
@@ -25014,7 +25014,7 @@
 			"cr": "6",
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The squid can breathe only underwater."
 					]
@@ -25044,7 +25044,7 @@
 				{
 					"name": "Ink Cloud (1/Day)",
 					"entries": [
-						"{@actTrigger} The squid takes damage while underwater. {@actResponse} The squid releases ink that fills a 15-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} centered on itself, and the squid moves up to its {@variantrule Swim Speed|XPHB}. The {@variantrule Cube [Area of Effect]|XPHB|Cube} is {@variantrule Heavily Obscured|XPHB} for 1 minute or until a strong current or similar effect disperses the ink."
+						"{@actTrigger} The squid takes damage while underwater. {@actResponse} The squid releases ink that fills a 15-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} centered on itself, and the squid moves up to its {@variantrule Swim Speed|XPHB}. The {@variantrule Cube [Area of Effect]|XPHB|Cube} is {@variantrule Muy oscuro|XPHB} for 1 minute or until a strong current or similar effect disperses the ink."
 					]
 				}
 			],
@@ -25052,7 +25052,7 @@
 				"underwater"
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"SD"
@@ -25610,7 +25610,7 @@
 				{
 					"name": "Aberrant Ground",
 					"entries": [
-						"The ground in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the mouther is {@variantrule Difficult Terrain|XPHB}."
+						"The ground in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the mouther is {@variantrule Terreno difícil|XPHB}."
 					]
 				},
 				{
@@ -26933,7 +26933,7 @@
 				{
 					"name": "Hunger of Yeenoghu {@recharge 5}",
 					"entries": [
-						"The gnoll conjures a 30-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} of magical {@variantrule Darkness|XPHB} originating from a point it can see within 60 feet, which lasts for 1 minute or until the gnoll's {@status Concentration|XPHB} ends on it. This area is {@variantrule Difficult Terrain|XPHB}. {@actSave dex} {@dc 14}, any creature that starts its turn in this area or enters it for the first time on a turn. {@actSaveFail} 28 ({@damage 8d6}) Necrotic damage, and the gnoll or a creature of its choice it can see gains 10 {@variantrule Temporary Hit Points|XPHB}. {@actSaveSuccess} Half damage only."
+						"The gnoll conjures a 30-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} of magical {@variantrule Darkness|XPHB} originating from a point it can see within 60 feet, which lasts for 1 minute or until the gnoll's {@status Concentration|XPHB} ends on it. This area is {@variantrule Terreno difícil|XPHB}. {@actSave dex} {@dc 14}, any creature that starts its turn in this area or enters it for the first time on a turn. {@actSaveFail} 28 ({@damage 8d6}) Necrotic damage, and the gnoll or a creature of its choice it can see gains 10 {@variantrule Temporary Hit Points|XPHB}. {@actSaveSuccess} Half damage only."
 					]
 				}
 			],
@@ -31819,7 +31819,7 @@
 			"cr": "2",
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The shark can breathe only underwater."
 					]
@@ -31841,7 +31841,7 @@
 				"path": "bestiary/hunter-shark.mp3"
 			},
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"
@@ -33306,7 +33306,7 @@
 				{
 					"name": "Living Shadow",
 					"entries": [
-						"While in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, the dragon has {@variantrule Resistance|XPHB} to damage that isn't Force, Psychic, or Radiant."
+						"While in {@variantrule Luz tenue|XPHB} or {@variantrule Darkness|XPHB}, the dragon has {@variantrule Resistance|XPHB} to damage that isn't Force, Psychic, or Radiant."
 					]
 				},
 				{
@@ -33340,7 +33340,7 @@
 				{
 					"name": "Shadow Stealth",
 					"entries": [
-						"While in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, the dragon takes the Hide action."
+						"While in {@variantrule Luz tenue|XPHB} or {@variantrule Darkness|XPHB}, the dragon takes the Hide action."
 					]
 				}
 			],
@@ -35873,7 +35873,7 @@
 							"{@spell Disguise Self|XPHB}",
 							"{@spell Ice Knife|XPHB}",
 							"{@spell Mage Armor|XPHB} (included in AC)",
-							"{@spell Thunderwave|XPHB}"
+							"{@spell Ola atronadora|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -36093,7 +36093,7 @@
 				{
 					"name": "Ignited Illumination",
 					"entries": [
-						"The magmin sets itself ablaze or extinguishes its flames. While ablaze, the magmin sheds {@variantrule Bright Light|XPHB} in a 10-foot radius and {@variantrule Dim Light|XPHB} for an additional 10 feet."
+						"The magmin sets itself ablaze or extinguishes its flames. While ablaze, the magmin sheds {@variantrule Luz brillante|XPHB} in a 10-foot radius and {@variantrule Luz tenue|XPHB} for an additional 10 feet."
 					]
 				}
 			],
@@ -36391,7 +36391,7 @@
 				{
 					"name": "Shadow Stealth",
 					"entries": [
-						"While in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, the manes takes the Hide action."
+						"While in {@variantrule Luz tenue|XPHB} or {@variantrule Darkness|XPHB}, the manes takes the Hide action."
 					]
 				}
 			],
@@ -36590,7 +36590,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Control Water|XPHB}",
+							"{@spell Controlar agua|XPHB}",
 							"{@spell Gaseous Form|XPHB}",
 							"{@spell Invisibilidad|XPHB}",
 							"{@spell Plane Shift|XPHB}",
@@ -37223,7 +37223,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Control Water|XPHB}",
+							"{@spell Controlar agua|XPHB}",
 							"{@spell Crear o destruir agua|XPHB}"
 						]
 					},
@@ -39074,7 +39074,7 @@
 						"1e": [
 							"{@spell Animate Dead|XPHB}",
 							"{@spell Harm|XPHB}",
-							"{@spell Insect Plague|XPHB} (level 7 version)"
+							"{@spell Plaga de insectos|XPHB} (level 7 version)"
 						]
 					},
 					"ability": "wis",
@@ -40108,7 +40108,7 @@
 				{
 					"name": "Illumination",
 					"entries": [
-						"The nightmare sheds {@variantrule Bright Light|XPHB} in a 10-foot radius and {@variantrule Dim Light|XPHB} for an additional 10 feet."
+						"The nightmare sheds {@variantrule Luz brillante|XPHB} in a 10-foot radius and {@variantrule Luz tenue|XPHB} for an additional 10 feet."
 					]
 				}
 			],
@@ -40787,7 +40787,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The octopus can breathe only underwater."
 					]
@@ -40805,7 +40805,7 @@
 				{
 					"name": "Ink Cloud (1/Day)",
 					"entries": [
-						"{@actTrigger} A creature ends its turn within 5 feet of the octopus while underwater. {@actResponse} The octopus releases ink that fills a 5-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} centered on itself, and the octopus moves up to its {@variantrule Swim Speed|XPHB}. The {@variantrule Cube [Area of Effect]|XPHB|Cube} is {@variantrule Heavily Obscured|XPHB} for 1 minute or until a strong current or similar effect disperses the ink."
+						"{@actTrigger} A creature ends its turn within 5 feet of the octopus while underwater. {@actResponse} The octopus releases ink that fills a 5-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} centered on itself, and the octopus moves up to its {@variantrule Swim Speed|XPHB}. The {@variantrule Cube [Area of Effect]|XPHB|Cube} is {@variantrule Muy oscuro|XPHB} for 1 minute or until a strong current or similar effect disperses the ink."
 					]
 				}
 			],
@@ -40817,7 +40817,7 @@
 				"path": "bestiary/octopus.mp3"
 			},
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -42444,7 +42444,7 @@
 			"cr": "0",
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The piranha can breathe only underwater."
 					]
@@ -42462,7 +42462,7 @@
 				"underwater"
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -43235,12 +43235,12 @@
 					"name": "Burst of Wonder {@recharge 5}",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The pixie casts {@spell Enmarañar|XPHB}, {@spell Polymorph|XPHB}, or {@spell Risa horrible de Tasha|XPHB}, requiring no Material components and using the same spellcasting ability as Spellcasting."
+						"The pixie casts {@spell Enmarañar|XPHB}, {@spell Polimorfar|XPHB}, or {@spell Risa horrible de Tasha|XPHB}, requiring no Material components and using the same spellcasting ability as Spellcasting."
 					],
 					"recharge": {
 						"5": [
 							"{@spell Enmarañar|XPHB}",
-							"{@spell Polymorph|XPHB}",
+							"{@spell Polimorfar|XPHB}",
 							"{@spell Risa horrible de Tasha|XPHB}"
 						]
 					},
@@ -43748,7 +43748,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The poltergeist can move through other creatures and objects as if they were {@variantrule Difficult Terrain|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
+						"The poltergeist can move through other creatures and objects as if they were {@variantrule Terreno difícil|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -45838,7 +45838,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The shark can breathe only underwater."
 					]
@@ -45861,7 +45861,7 @@
 			},
 			"traitTags": [
 				"Pack Tactics",
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"
@@ -48197,7 +48197,7 @@
 			},
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The seahorse can breathe only underwater."
 					]
@@ -48215,7 +48215,7 @@
 				"underwater"
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"hasToken": true,
 			"hasFluff": true,
@@ -48315,7 +48315,7 @@
 				{
 					"name": "Shadow Stealth",
 					"entries": [
-						"While in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, the shadow takes the Hide action."
+						"While in {@variantrule Luz tenue|XPHB} or {@variantrule Darkness|XPHB}, the shadow takes the Hide action."
 					]
 				}
 			],
@@ -48436,13 +48436,13 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The demon can move through other creatures and objects as if they were {@variantrule Difficult Terrain|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
+						"The demon can move through other creatures and objects as if they were {@variantrule Terreno difícil|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
 					]
 				},
 				{
 					"name": "Light Sensitivity",
 					"entries": [
-						"While in {@variantrule Bright Light|XPHB}, the demon has {@variantrule Disadvantage|XPHB} on ability checks and attack rolls."
+						"While in {@variantrule Luz brillante|XPHB}, the demon has {@variantrule Disadvantage|XPHB} on ability checks and attack rolls."
 					]
 				}
 			],
@@ -48458,7 +48458,7 @@
 				{
 					"name": "Shadow Stealth",
 					"entries": [
-						"While in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, the demon takes the Hide action."
+						"While in {@variantrule Luz tenue|XPHB} or {@variantrule Darkness|XPHB}, the demon takes the Hide action."
 					]
 				}
 			],
@@ -48563,7 +48563,7 @@
 				{
 					"name": "Living Shadow",
 					"entries": [
-						"While in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, the dragon has {@variantrule Resistance|XPHB} to damage that isn't Force, Psychic, or Radiant."
+						"While in {@variantrule Luz tenue|XPHB} or {@variantrule Darkness|XPHB}, the dragon has {@variantrule Resistance|XPHB} to damage that isn't Force, Psychic, or Radiant."
 					]
 				},
 				{
@@ -48597,7 +48597,7 @@
 				{
 					"name": "Shadow Stealth",
 					"entries": [
-						"While in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, the dragon takes the Hide action."
+						"While in {@variantrule Luz tenue|XPHB} or {@variantrule Darkness|XPHB}, the dragon takes the Hide action."
 					]
 				}
 			],
@@ -48941,7 +48941,7 @@
 				{
 					"name": "Shriek",
 					"entries": [
-						"{@actTrigger} A creature or a source of {@variantrule Bright Light|XPHB} moves within 30 feet of the shrieker. {@actResponse} The shrieker emits a shriek audible within 300 feet of itself for 1 minute or until the shrieker dies."
+						"{@actTrigger} A creature or a source of {@variantrule Luz brillante|XPHB} moves within 30 feet of the shrieker. {@actResponse} The shrieker emits a shriek audible within 300 feet of itself for 1 minute or until the shrieker dies."
 					]
 				}
 			],
@@ -49857,7 +49857,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The specter can move through other creatures and objects as if they were {@variantrule Difficult Terrain|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
+						"The specter can move through other creatures and objects as if they were {@variantrule Terreno difícil|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -50850,7 +50850,7 @@
 						"{@spell Detect Magic|XPHB}",
 						"{@spell Mage Hand|XPHB}",
 						"{@spell Ilusión menor|XPHB}",
-						"{@spell Water Breathing|XPHB}"
+						"{@spell Respirar bajo el agua|XPHB}"
 					],
 					"daily": {
 						"2e": [
@@ -52765,7 +52765,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"The swarm can breathe only underwater."
 					]
@@ -52783,7 +52783,7 @@
 				"underwater"
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -55660,7 +55660,7 @@
 				{
 					"name": "Shadow Stealth",
 					"entries": [
-						"While in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, the vampire takes the Hide action."
+						"While in {@variantrule Luz tenue|XPHB} or {@variantrule Darkness|XPHB}, the vampire takes the Hide action."
 					]
 				}
 			],
@@ -58245,7 +58245,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@variantrule Difficult Terrain|XPHB} composed of ice or snow doesn't cost it extra movement."
+						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@variantrule Terreno difícil|XPHB} composed of ice or snow doesn't cost it extra movement."
 					]
 				}
 			],
@@ -58517,13 +58517,13 @@
 				{
 					"name": "Illumination",
 					"entries": [
-						"The wisp sheds {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} for an additional 20 feet."
+						"The wisp sheds {@variantrule Luz brillante|XPHB} in a 20-foot radius and {@variantrule Luz tenue|XPHB} for an additional 20 feet."
 					]
 				},
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The wisp can move through other creatures and objects as if they were {@variantrule Difficult Terrain|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
+						"The wisp can move through other creatures and objects as if they were {@variantrule Terreno difícil|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
 					]
 				}
 			],
@@ -59034,7 +59034,7 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The wraith can move through other creatures and objects as if they were {@variantrule Difficult Terrain|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
+						"The wraith can move through other creatures and objects as if they were {@variantrule Terreno difícil|XPHB}. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
 					]
 				},
 				{
@@ -59501,7 +59501,7 @@
 					"will": [
 						"{@spell Detectar pensamientos|XPHB}",
 						"{@spell Gaseous Form|XPHB} (self only)",
-						"{@spell Web|XPHB}"
+						"{@spell Telaraña|XPHB}"
 					],
 					"daily": {
 						"1": [
@@ -59542,7 +59542,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The yochlol makes two Caustic Lash attacks, and it can use Spellcasting to cast {@spell Web|XPHB} or {@spell Dominate Person|XPHB} if available."
+						"The yochlol makes two Caustic Lash attacks, and it can use Spellcasting to cast {@spell Telaraña|XPHB} or {@spell Dominate Person|XPHB} if available."
 					]
 				},
 				{
@@ -60970,7 +60970,7 @@
 				{
 					"name": "Ice Walk",
 					"entries": [
-						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@variantrule Difficult Terrain|XPHB} composed of ice or snow doesn't cost it extra movement."
+						"The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, {@variantrule Terreno difícil|XPHB} composed of ice or snow doesn't cost it extra movement."
 					]
 				}
 			],

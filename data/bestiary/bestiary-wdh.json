@@ -354,7 +354,7 @@
 					"trait": {
 						"mode": "prependArr",
 						"items": {
-							"name": "Control Water",
+							"name": "Controlar agua",
 							"entries": [
 								"At will, Avi can control the flow and shape of water in a 5-foot cube, or cause the water to freeze for up to 1 hour."
 							]
@@ -1774,7 +1774,7 @@
 								"{@spell entangle}",
 								"{@spell longstrider}",
 								"{@spell speak with animals}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -3601,7 +3601,7 @@
 								"{@spell healing word}",
 								"{@spell heroism}",
 								"{@spell sleep}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -5314,7 +5314,7 @@
 								"{@spell entangle}",
 								"{@spell longstrider}",
 								"{@spell speak with animals}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -6063,7 +6063,7 @@
 					]
 				},
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"Obliteros can breathe only underwater."
 					]
@@ -6078,7 +6078,7 @@
 				}
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"B"
@@ -7793,7 +7793,7 @@
 			"cr": "0",
 			"trait": [
 				{
-					"name": "Water Breathing",
+					"name": "Respirar bajo el agua",
 					"entries": [
 						"Sylgar can breathe only underwater."
 					]
@@ -7808,7 +7808,7 @@
 				}
 			],
 			"traitTags": [
-				"Water Breathing"
+				"Respirar bajo el agua"
 			],
 			"senseTags": [
 				"D"
@@ -8606,7 +8606,7 @@
 								"{@spell detect magic}",
 								"{@spell identify}",
 								"{@spell mage armor}",
-								"{@spell thunderwave}"
+								"{@spell ola atronadora}"
 							]
 						},
 						"2": {
@@ -9023,7 +9023,7 @@
 								"{@spell dominate person}",
 								"{@spell flame strike}",
 								"{@spell modify memory}",
-								"{@spell insect plague}"
+								"{@spell plaga de insectos}"
 							]
 						},
 						"6": {

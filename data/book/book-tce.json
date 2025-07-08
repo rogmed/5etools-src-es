@@ -457,7 +457,7 @@
 												"2nd level: {@spell Auxilio}, {@spell Enlarge/reduce}, {@spell Imagen múltiple}",
 												"3rd level: {@spell Intellect fortress|TCE},* {@spell Mass healing word}, {@spell Slow}",
 												"4th level: {@spell Phantasmal killer}",
-												"5th level: {@spell Rary's telepathic bond} (ritual)",
+												"5th level: {@spell Enlace telepático de Rary} (ritual)",
 												"6th level: {@spell Heroes' feast}",
 												"7th level: {@spell Dream of the blue veil|TCE},* {@spell Prismatic spray}",
 												"8th level: {@spell Antipathy/sympathy}",
@@ -4406,7 +4406,7 @@
 								],
 								[
 									"4th",
-									"{@spell Summon Aberration|TCE}",
+									"{@spell Invocar aberración|TCE}",
 									"Conjuration",
 									"Yes",
 									"No",

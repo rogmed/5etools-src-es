@@ -962,7 +962,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Escudriñar|XPHB}",
-							"{@spell Sending|XPHB}"
+							"{@spell Recado|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -3236,7 +3236,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Escudriñar|XPHB}",
-							"{@spell Sending|XPHB}"
+							"{@spell Recado|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -37952,7 +37952,7 @@
 							"{@spell Bola de fuego|XPHB} (level 5 version)",
 							"{@spell Lightning Bolt|XPHB} (level 5 version)",
 							"{@spell Plane Shift|XPHB} (self only)",
-							"{@spell Sending|XPHB}"
+							"{@spell Recado|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -53537,7 +53537,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Detectar pensamientos|XPHB}",
-							"{@spell Sending|XPHB}",
+							"{@spell Recado|XPHB}",
 							"{@spell Synaptic Static|XPHB}"
 						]
 					},
@@ -55939,14 +55939,14 @@
 			},
 			"spellcasting": [
 				{
-					"name": "Hunger of Hadar {@recharge 5}",
+					"name": "Hambre de Hadar {@recharge 5}",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The vampire casts {@spell Hunger of Hadar|XPHB} (level 5 version), requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 18})."
+						"The vampire casts {@spell Hambre de Hadar|XPHB} (level 5 version), requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 18})."
 					],
 					"recharge": {
 						"5": [
-							"{@spell Hunger of Hadar|XPHB} (level 5 version)"
+							"{@spell Hambre de Hadar|XPHB} (level 5 version)"
 						]
 					},
 					"ability": "cha",

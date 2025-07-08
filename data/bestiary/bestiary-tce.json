@@ -14,13 +14,13 @@
 	},
 	"monster": [
 		{
-			"name": "Aberrant Spirit",
+			"name": "Espíritu aberrante",
 			"source": "TCE",
 			"page": 109,
 			"reprintedAs": [
-				"Aberrant Spirit|XPHB"
+				"Espíritu aberrante|XPHB"
 			],
-			"summonedBySpell": "Summon Aberration|TCE",
+			"summonedBySpell": "Invocar aberración|TCE",
 			"summonedBySpellLevel": 4,
 			"size": [
 				"M"

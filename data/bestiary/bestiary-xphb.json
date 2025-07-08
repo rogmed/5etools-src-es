@@ -1,32 +1,32 @@
 {
 	"monster": [
 		{
-			"name": "Aberrant Spirit",
+			"name": "Espíritu aberrante",
 			"originalname": "",
 			"source": "XPHB",
-			"page": 322,
-			"summonedBySpell": "Summon Aberration|XPHB",
+			"page": 296,
+			"summonedBySpell": "Invocar aberración|XPHB",
 			"summonedBySpellLevel": 4,
 			"size": [
 				"M"
 			],
-			"type": "aberration",
+			"type": "aberración",
 			"alignment": [
 				"N"
 			],
 			"ac": [
 				{
-					"special": "11 + the spell's level"
+					"special": "11 + el nivel del conjuro"
 				}
 			],
 			"hp": {
-				"special": "40 + 10 for each spell level above 4"
+				"special": "40 + 10 por cada nivel del conjuro superior al 4"
 			},
 			"speed": {
 				"walk": 30,
 				"fly": {
 					"number": 30,
-					"condition": "(hover; Beholderkin only)"
+					"condition": "(levitar; solo contemplador)"
 				},
 				"canHover": true
 			},
@@ -37,54 +37,54 @@
 			"sab": 10,
 			"car": 6,
 			"senses": [
-				"darkvision 60 ft."
+				"visión en la oscuridad 60 pies"
 			],
 			"passive": 10,
 			"immune": [
-				"psychic"
+				"psíquico"
 			],
 			"languages": [
-				"Deep Speech",
+				"habla de las profundidades",
 				"entiende los idiomas que conozcas"
 			],
 			"pbNote": "igual a tu bonificador por competencia",
 			"trait": [
 				{
-					"name": "Regeneration (Slaad Only)",
+					"name": "Regeneración (solo slaad)",
 					"entries": [
-						"The spirit regains 5 Hit Points at the start of its turn if it has at least 1 Hit Point."
+						"El espíritu recupera 5 puntos de golpe al principio de su turno si tiene al menos 1."
 					]
 				},
 				{
-					"name": "Whispering Aura (Mind Flayer Only)",
+					"name": "Aura susurrante (solo azotamentes)",
 					"entries": [
-						"At the start of each of the spirit's turns, the spirit emits psionic energy if it doesn't have the {@condition Incapacitated|XPHB} condition. {@actSave wis} DC equals your spell save DC, each creature (other than you) within 5 feet of the spirit. {@actSaveFail} {@damage 2d6} Psychic damage."
+						"Al comienzo de todos los turnos del espíritu, este emite energía psiónica si no tiene el estado de {@condition incapacitado|XPHB}. {@i Tirada de salvación de Sabiduría:} CD igual a tu CD de salvación de conjuros, todas las criaturas (excepto tú) a 5 pies (1,5 m) o menos del espíritu. | {@i Fallo:} {@damage 2d6} de daño psíquico."
 					]
 				}
 			],
 			"action": [
 				{
-					"name": "Multiattack",
+					"name": "Ataque múltiple",
 					"entries": [
-						"The spirit makes a number of attacks equal to half this spell's level (round down)."
+						"El espíritu realiza una cantidad de ataques igual a la mitad del nivel de este conjuro (redondeado hacia abajo)."
 					]
 				},
 				{
-					"name": "Claw (Slaad Only)",
+					"name": "Garra (solo slaad)",
 					"entries": [
-						"{@atkr m} {@hitYourSpellAttack Bonus equals your spell attack modifier}, reach 5 ft. {@h}{@damage 1d10 + 3 + summonSpellLevel} Slashing damage, and the target can't regain Hit Points until the start of the spirit's next turn."
+						"{@i Tirada de ataque cuerpo a cuerpo:} bonificador igual a tu modificador de ataque de conjuros, alcance 5 pies (1,5 m). Acierto: {@damage 1d10 + 3 + summonSpellLevel} de daño cortante y el objetivo no podrá recuperar puntos de golpe hasta el principio del siguiente turno del espíritu."
 					]
 				},
 				{
-					"name": "Eye Ray (Beholderkin Only)",
+					"name": "Golpe psíquico (solo azotamentes)",
 					"entries": [
-						"{@atkr r} {@hitYourSpellAttack Bonus equals your spell attack modifier}, range 150 ft. {@h}{@damage 1d8 + 3 + summonSpellLevel} Psychic damage."
+						"{@i Tirada de ataque cuerpo a cuerpo:} bonificador igual a tu modificador de ataque de conjuros, alcance 5 pies (1,5 m). {@i Acierto:} {@damage 1d8 + 3 + summonSpellLevel} de daño psíquico."
 					]
 				},
 				{
-					"name": "Psychic Slam (Mind Flayer Only)",
+					"name": "Rayo ocular (solo contemplador)",
 					"entries": [
-						"{@atkr m} {@hitYourSpellAttack Bonus equals your spell attack modifier}, reach 5 ft. {@h}{@damage 1d8 + 3 + summonSpellLevel} Psychic damage."
+						"{@i Tirada de ataque a distancia:} bonificador igual a tu modificador de ataque de conjuros, alcance 150 pies (45 m). {@i Acierto:} {@damage 1d8 + 3 + summonSpellLevel} de daño psíquico."
 					]
 				}
 			],
@@ -115,22 +115,22 @@
 			"hasFluffImages": true,
 			"_versions": [
 				{
-					"name": "Aberrant Spirit (Beholderkin)",
+					"name": "Espíritu aberrante (contemplador)",
 					"source": "XPHB",
 					"_mod": {
 						"action": [
 							{
 								"mode": "removeArr",
 								"names": [
-									"Claw (Slaad Only)",
-									"Psychic Slam (Mind Flayer Only)"
+									"Garra (solo slaad)",
+									"Golpe psíquico (solo azotamentes)"
 								]
 							},
 							{
 								"mode": "renameArr",
 								"renames": {
-									"rename": "Eye Ray (Beholderkin Only)",
-									"with": "Eye Ray"
+									"rename": "Rayo ocular (solo contemplador)",
+									"with": "Rayo ocular"
 								}
 							}
 						]
@@ -153,21 +153,21 @@
 					]
 				},
 				{
-					"name": "Aberrant Spirit (Slaad)",
+					"name": "Espíritu aberrante (slaad)",
 					"source": "XPHB",
 					"_mod": {
 						"trait": [
 							{
 								"mode": "removeArr",
 								"names": [
-									"Whispering Aura (Mind Flayer Only)"
+									"Aura susurrante (solo azotamentes)"
 								]
 							},
 							{
 								"mode": "renameArr",
 								"renames": {
-									"rename": "Regeneration (Slaad Only)",
-									"with": "Regeneration"
+									"rename": "Regeneración (solo slaad)",
+									"with": "Regeneración"
 								}
 							}
 						],
@@ -175,15 +175,15 @@
 							{
 								"mode": "removeArr",
 								"names": [
-									"Eye Ray (Beholderkin Only)",
-									"Psychic Slam (Mind Flayer Only)"
+									"Rayo ocular (solo contemplador)",
+									"Golpe psíquico (solo azotamentes)"
 								]
 							},
 							{
 								"mode": "renameArr",
 								"renames": {
-									"rename": "Claw (Slaad Only)",
-									"with": "Claw"
+									"rename": "Garra (solo slaad)",
+									"with": "Garra"
 								}
 							}
 						]
@@ -202,21 +202,21 @@
 					]
 				},
 				{
-					"name": "Aberrant Spirit (Star Spawn)",
+					"name": "Espíritu aberrante (azotamentes)",
 					"source": "XPHB",
 					"_mod": {
 						"trait": [
 							{
 								"mode": "removeArr",
 								"names": [
-									"Regeneration (Slaad Only)"
+									"Regeneración (solo slaad)"
 								]
 							},
 							{
 								"mode": "renameArr",
 								"renames": {
-									"rename": "Whispering Aura (Mind Flayer Only)",
-									"with": "Whispering Aura"
+									"rename": "Aura susurrante (solo azotamentes)",
+									"with": "Aura susurrante"
 								}
 							}
 						],
@@ -224,15 +224,15 @@
 							{
 								"mode": "removeArr",
 								"names": [
-									"Eye Ray (Beholderkin Only)",
-									"Claw (Slaad Only)"
+									"Rayo ocular (solo contemplador)",
+									"Garra (solo slaad)"
 								]
 							},
 							{
 								"mode": "renameArr",
 								"renames": {
-									"rename": "Psychic Slam (Mind Flayer Only)",
-									"with": "Psychic Slam"
+									"rename": "Golpe psíquico (solo azotamentes)",
+									"with": "Golpe psíquico"
 								}
 							}
 						]

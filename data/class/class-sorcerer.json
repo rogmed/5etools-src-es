@@ -599,22 +599,22 @@
 					"prepared": {
 						"3": [
 							"Brazos de Hadar|xphb",
-							"calm emotions|xphb",
-							"detect thoughts|xphb",
-							"dissonant whispers|xphb",
+							"calmar emociones|xphb",
+							"detectar pensamientos|xphb",
+							"susurros discordantes|xphb",
 							"fragmento mental|xphb#c"
 						],
 						"5": [
-							"hunger of hadar|xphb",
-							"sending|xphb"
+							"Hambre de Hadar|xphb",
+							"recado|xphb"
 						],
 						"7": [
-							"evard's black tentacles|xphb",
-							"summon aberration|xphb"
+							"tentáculos negros de Evard|xphb",
+							"Invocar aberración|xphb"
 						],
 						"9": [
-							"rary's telepathic bond|xphb",
-							"telekinesis|xphb"
+							"Enlace telepático de Rary|xphb",
+							"telequinesis|xphb"
 						]
 					}
 				}
@@ -1233,19 +1233,19 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Brazos de Hadar|XPHB}, {@spell Calmar emociones|XPHB}, {@spell Detectar pensamientos|XPHB}, {@spell Susurros discordantes|XPHB}, {@spell Fragmento mental|XPHB}"
+							"{@spell Brazos de Hadar|XPHB}, {@spell Calmar emociones|XPHB}, {@spell Detectar pensamientos|XPHB}, {@spell Fragmento mental|XPHB}, {@spell Susurros discordantes|XPHB}"
 						],
 						[
 							"5",
-							"{@spell Hunger of Hadar|XPHB}, {@spell Sending|XPHB}"
+							"{@spell Hambre de Hadar|XPHB}, {@spell Recado|XPHB}"
 						],
 						[
 							"7",
-							"{@spell Evard's Black Tentacles|XPHB}, {@spell Summon Aberration|XPHB}"
+							"{@spell Invocar aberración|XPHB}, {@spell Tentáculos negros de Evard|XPHB}"
 						],
 						[
 							"9",
-							"{@spell Rary's Telepathic Bond|XPHB}, {@spell Telequinesis|XPHB}"
+							"{@spell Enlace telepático de Rary|XPHB}, {@spell Telequinesis|XPHB}"
 						]
 					]
 				}

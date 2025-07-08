@@ -29151,7 +29151,7 @@
 							"id": "716",
 							"entries": [
 								"On a Bastion turn, a character in their Bastion can issue special orders\u2014called Bastion orders\u2014to one or more of their Bastion's special facilities. A character needn't issue orders to all the special facilities in their Bastion on a given Bastion turn.",
-								"The Maintain order is unusual; it is issued to the whole Bastion rather than to one or more special facilities. If a character isn't in their Bastion on a given Bastion turn, the Bastion acts as though it were issued the Maintain order on that turn unless the owner can communicate with the Bastion hirelings using the {@spell Sending|XPHB} spell or similar magic.",
+								"The Maintain order is unusual; it is issued to the whole Bastion rather than to one or more special facilities. If a character isn't in their Bastion on a given Bastion turn, the Bastion acts as though it were issued the Maintain order on that turn unless the owner can communicate with the Bastion hirelings using the {@spell Recado|XPHB} spell or similar magic.",
 								"The orders are as follows:",
 								{
 									"type": "entries",
@@ -30271,7 +30271,7 @@
 					"page": 357,
 					"id": "7b3",
 					"entries": [
-						"Hadar {@i (HAY-dar or ha-DARR)}, the Dark Hunger, is an ancient stellar entity originating from the {@book Far Realm|XDMG|5|Far Realm} (see {@book chapter 6|XDMG|5|Far Realm}). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar's power (see the {@spell Brazos de Hadar|XPHB} and {@spell Hunger of Hadar|XPHB} spells in the {@book Player's Handbook|XPHB}), and a few Warlocks claim this {@book Elder Evil|XDMG|8|Elder Evils} as their Great Old One patron."
+						"Hadar {@i (HAY-dar or ha-DARR)}, the Dark Hunger, is an ancient stellar entity originating from the {@book Far Realm|XDMG|5|Far Realm} (see {@book chapter 6|XDMG|5|Far Realm}). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar's power (see the {@spell Brazos de Hadar|XPHB} and {@spell Hambre de Hadar|XPHB} spells in the {@book Player's Handbook|XPHB}), and a few Warlocks claim this {@book Elder Evil|XDMG|8|Elder Evils} as their Great Old One patron."
 					]
 				},
 				{

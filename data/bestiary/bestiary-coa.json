@@ -3752,7 +3752,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Evard's Black Tentacles}",
+							"{@spell Tentáculos negros de Evard}",
 							"{@spell Cone of Cold}",
 							"{@spell Confusion}",
 							"{@spell Puerta dimensional}",
@@ -9353,7 +9353,7 @@
 							"{@spell Cone of Cold}",
 							"{@spell Foresight}",
 							"{@spell Stoneskin}",
-							"{@spell Rary's telepathic bond}",
+							"{@spell Enlace telepático de Rary}",
 							"{@spell True Seeing}"
 						]
 					},

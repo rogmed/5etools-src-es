@@ -1,7 +1,7 @@
 {
 	"monsterFluff": [
 		{
-			"name": "Aberrant Spirit",
+			"name": "Espíritu aberrante",
 			"source": "XPHB",
 			"images": [
 				{
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"name": "Beast of the Land",
+			"name": "Bestia de tierra firme",
 			"source": "XPHB",
 			"images": [
 				{
@@ -42,7 +42,7 @@
 			]
 		},
 		{
-			"name": "Beast of the Sea",
+			"name": "Bestia de los mares",
 			"source": "XPHB",
 			"images": [
 				{
@@ -62,7 +62,7 @@
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "bestiary/XPHB/Bestia del cielo.webp"
+						"path": "bestiary/XPHB/Beast of the Sky.webp"
 					}
 				}
 			]

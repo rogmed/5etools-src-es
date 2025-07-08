@@ -5953,7 +5953,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Evard's Black Tentacles",
+			"name": "Tentáculos negros de Evard",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -8814,7 +8814,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Hunger of Hadar",
+			"name": "Hambre de Hadar",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -12067,7 +12067,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Rary's Telepathic Bond",
+			"name": "Enlace telepático de Rary",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -13176,7 +13176,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Sending",
+			"name": "Recado",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -14602,7 +14602,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Summon Aberration",
+			"name": "Invocar aberración",
 			"source": "TCE",
 			"activities": [
 				{
@@ -14636,7 +14636,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Summon Aberration",
+			"name": "Invocar aberración",
 			"source": "XPHB",
 			"activities": [
 				{

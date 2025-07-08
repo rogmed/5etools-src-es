@@ -1868,7 +1868,7 @@
 				}
 			]
 		},
-		"Evard's Black Tentacles": {
+		"Tentáculos negros de Evard": {
 			"class": [
 				{
 					"name": "Mago",
@@ -2816,7 +2816,7 @@
 				}
 			]
 		},
-		"Hunger of Hadar": {
+		"Hambre de Hadar": {
 			"class": [
 				{
 					"name": "Warlock",
@@ -4272,7 +4272,7 @@
 				}
 			]
 		},
-		"Rary's Telepathic Bond": {
+		"Enlace telepático de Rary": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -4548,7 +4548,7 @@
 				}
 			]
 		},
-		"Sending": {
+		"Recado": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -4988,7 +4988,7 @@
 				}
 			]
 		},
-		"Summon Aberration": {
+		"Invocar aberración": {
 			"class": [
 				{
 					"name": "Warlock",

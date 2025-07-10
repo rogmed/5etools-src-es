@@ -8,11 +8,11 @@
 					"type": "section",
 					"name": "Paladín",
 					"source": "XPHB",
-					"page": 108,
+					"page": 157,
 					"entries": [
-						"Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.",
-						"Paladins train to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield: power to heal the injured, smite their foes, and protect the helpless and those who fight at their side.",
-						"Almost by definition, the life of a Paladin is an adventuring life, for every Paladin lives on the front lines of the cosmic struggle against annihilation. Fighters are rare enough among the ranks of a world's armies, but even fewer people can claim the calling of a Paladin. When they do receive the call, these blessed folk turn from their former occupations and take up arms and magic."
+						"Los paladines están unidos por sus juramentos, que les llevan a enfrentarse a las fuerzas de la aniquilación y la corrupción. Ya sea ante el altar de un dios, en un claro sagrado frente a espíritus de la naturaleza o en un momento de desesperación y pesar, con los difuntos como únicos testigos, el juramento de un paladín es un vínculo muy poderoso. Se trata de una fuente de poder que transforma a un combatiente devoto en un campeón bendito.",
+						"Los paladines entrenan para adquirir sus habilidades de combate y llegan a dominar muchas armas y armaduras. A pesar de ello, sus habilidades marciales palidecen en comparación con el poder mágico que poseen; un poder que les permite curar a los heridos, castigar a sus enemigos y proteger a los inocentes y a los que se unen a ellos para luchar.",
+						"Casi por definición, la vida de un paladín es una vida de aventuras, ya que todos ellos se encuentran en primera línea del conflicto cósmico contra la aniquilación. Los guerreros son personas poco frecuentes, incluso entre las filas de los ejércitos del mundo, pero los que siguen el camino del paladín son aún menos numerosos. Cuando sienten la llamada, estos individuos benditos abandonan sus ocupaciones anteriores y se equipan con sus armas y magia."
 					]
 				}
 			],
@@ -32,8 +32,8 @@
 	],
 	"subclassFluff": [
 		{
-			"name": "Oath of Devotion",
-			"shortName": "Devotion",
+			"name": "Juramento de entrega",
+			"shortName": "Entrega",
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
@@ -51,8 +51,8 @@
 			]
 		},
 		{
-			"name": "Oath of Glory",
-			"shortName": "Glory",
+			"name": "Juramento de gloria",
+			"shortName": "Gloria",
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
@@ -70,8 +70,8 @@
 			]
 		},
 		{
-			"name": "Oath of the Ancients",
-			"shortName": "Ancients",
+			"name": "Juramento de los antiguos",
+			"shortName": "Antiguos",
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
@@ -89,8 +89,8 @@
 			]
 		},
 		{
-			"name": "Oath of Vengeance",
-			"shortName": "Vengeance",
+			"name": "Juramento de venganza",
+			"shortName": "Venganza",
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",

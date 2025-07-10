@@ -448,12 +448,12 @@
 	],
 	"subclass": [
 		{
-			"name": "Oath of Devotion",
-			"shortName": "Devotion",
+			"name": "Juramento de entrega",
+			"shortName": "Entrega",
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"page": 113,
+			"page": 161,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
@@ -484,10 +484,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Oath of Devotion|Paladín|XPHB|Devotion|XPHB|3",
-				"Aura of Devotion|Paladín|XPHB|Devotion|XPHB|7",
-				"Smite of Protection|Paladín|XPHB|Devotion|XPHB|15",
-				"Holy Nimbus|Paladín|XPHB|Devotion|XPHB|20"
+				"Juramento de entrega|Paladín|XPHB|Entrega|XPHB|3",
+				"Aura of Entrega|Paladín|XPHB|Entrega|XPHB|7",
+				"Smite of Protection|Paladín|XPHB|Entrega|XPHB|15",
+				"Holy Nimbus|Paladín|XPHB|Entrega|XPHB|20"
 			],
 			"hasFluffImages": true
 		},
@@ -1078,8 +1078,8 @@
 					"type": "table",
 					"caption": "Oath of the Ancients Spells",
 					"colLabels": [
-						"Paladin Level",
-						"Spells"
+						"Nivel de paladín",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1175,58 +1175,58 @@
 			]
 		},
 		{
-			"name": "Oath of Devotion",
+			"name": "Juramento de entrega",
 			"source": "XPHB",
-			"page": 113,
+			"page": 161,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Devotion",
+			"subclassShortName": "Entrega",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Uphold the Ideals of Justice and Order}",
-				"The Oath of Devotion binds Paladins to the ideals of justice and order. These Paladins meet the archetype of the knight in shining armor. They hold themselves to the highest standards of conduct, and some\u2014for better or worse\u2014hold the rest of the world to the same standards.",
-				"Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of personal devotion. Others hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.",
-				"These paladins share the following tenets:",
+				"{@i Defiende los ideales de la justicia y el orden}",
+				"El juramento de entrega vincula al paladín con los ideales de la justicia y el orden. Estos paladines encarnan el ideal del caballero de brillante armadura, se exigen a sí mismos los más altos estándares de conducta y algunos de ellos, para bien o para mal, esperan lo mismo del resto del mundo.",
+				"Muchos de los que pronuncian este juramento veneran a dioses de la ley y la bondad, y emplean los mandamientos de estas deidades como vara de medir de su propia devoción. Otros conciben a los ángeles como el ideal al que aspirar eincorporan imágenes de alas angelicales en sus yelmos o blasones.",
+				"Estos paladines comparten los siguientes principios:",
 				{
 					"type": "list",
 					"items": [
-						"Let your word be your promise.",
-						"Protect the weak and never fear to act.",
-						"Let your honorable deeds be an example."
+						"Que tus palabras sean siempre promesas.",
+						"Protege a los débiles y nunca temas actuar.",
+						"Que tus actos honorables sirvan de ejemplo."
 					]
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Oath of Devotion Spells|Paladín|XPHB|Devotion|XPHB|3"
+					"subclassFeature": "Sacred Weapon|Paladín|XPHB|Entrega|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Sacred Weapon|Paladín|XPHB|Devotion|XPHB|3"
+					"subclassFeature": "Conjuros del juramento de entrega|Paladín|XPHB|Entrega|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Oath of Devotion Spells",
+			"name": "Conjuros del juramento de entrega",
 			"source": "XPHB",
-			"page": 113,
+			"page": 161,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Devotion",
+			"subclassShortName": "Entrega",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Devotion Spells table, you thereafter always have the listed spells prepared.",
+				"La magia de tujuramento garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de paladín especificado en la tabla “Conjuros del juramento de entrega”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Oath of Devotion Spells",
+					"caption": "CONJUROS DEL JURAMENTO DE ENTREGA",
 					"colLabels": [
-						"Paladin Level",
-						"Spells"
+						"Nivel de paladín",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1234,23 +1234,23 @@
 					],
 					"rows": [
 						[
-							"3rd",
+							"3",
 							"{@spell Protection from Evil And Good|XPHB}, {@spell Escudo de fe|XPHB}"
 						],
 						[
-							"5th",
+							"5",
 							"{@spell Auxilio|XPHB}, {@spell Zona de la verdad|XPHB}"
 						],
 						[
-							"9th",
+							"9",
 							"{@spell Beacon of Hope|XPHB}, {@spell Disipar magia|XPHB}"
 						],
 						[
-							"13th",
+							"13",
 							"{@spell Libertad de movimiento|XPHB}, {@spell Guardian of Faith|XPHB}"
 						],
 						[
-							"17th",
+							"17",
 							"{@spell Commune|XPHB}, {@spell Golpe flamígero|XPHB}"
 						]
 					]
@@ -1260,12 +1260,12 @@
 		{
 			"name": "Sacred Weapon",
 			"source": "XPHB",
-			"page": 113,
+			"page": 161,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Devotion",
+			"subclassShortName": "Entrega",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"consumes": {
@@ -1278,14 +1278,14 @@
 			]
 		},
 		{
-			"name": "Aura of Devotion",
+			"name": "Aura of Entrega",
 			"source": "XPHB",
 			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Devotion",
+			"subclassShortName": "Entrega",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
@@ -1301,7 +1301,7 @@
 			"basicRules2024": true,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Devotion",
+			"subclassShortName": "Entrega",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
@@ -1317,7 +1317,7 @@
 			"basicRules2024": true,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Devotion",
+			"subclassShortName": "Entrega",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"header": 2,
@@ -1412,8 +1412,8 @@
 					"type": "table",
 					"caption": "Oath of Glory Spells",
 					"colLabels": [
-						"Paladin Level",
-						"Spells"
+						"Nivel de paladín",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1421,23 +1421,23 @@
 					],
 					"rows": [
 						[
-							"3rd",
+							"3",
 							"{@spell Saeta guía|XPHB}, {@spell Heroísmo|XPHB}"
 						],
 						[
-							"5th",
+							"5",
 							"{@spell Potenciar característica|XPHB}, {@spell Arma mágica|XPHB}"
 						],
 						[
-							"9th",
+							"9",
 							"{@spell Haste|XPHB}, {@spell Protection from Energy|XPHB}"
 						],
 						[
-							"13th",
+							"13",
 							"{@spell Compulsion|XPHB}, {@spell Libertad de movimiento|XPHB}"
 						],
 						[
-							"17th",
+							"17",
 							"{@spell Legend Lore|XPHB}, {@spell Yolande's Regal Presence|XPHB}"
 						]
 					]
@@ -1571,8 +1571,8 @@
 					"type": "table",
 					"caption": "Oath of Vengeance Spells",
 					"colLabels": [
-						"Paladin Level",
-						"Spells"
+						"Nivel de paladín",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-2 text-center",

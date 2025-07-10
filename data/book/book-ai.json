@@ -2113,7 +2113,7 @@
 													"A thick, battle-scarred iron lockbox"
 												],
 												[
-													"Paladin",
+													"Paladín",
 													"A metal case with fine engraving and scrollwork"
 												],
 												[
@@ -2622,7 +2622,7 @@
 												],
 												[
 													"5",
-													"You think you might be addicted to holy water. You just can't stop drinking it long enough to find out for sure."
+													"You think you might be addicted to Agua bendita. You just can't stop drinking it long enough to find out for sure."
 												],
 												[
 													"6",
@@ -5118,7 +5118,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Paladin",
+							"name": "Paladín",
 							"page": 62,
 							"entries": [
 								"{@i My companions did what!? The screams could be heard from how far away}!?",

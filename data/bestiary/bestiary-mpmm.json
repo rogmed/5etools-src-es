@@ -4470,7 +4470,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"paladin"
+					"paladín"
 				]
 			},
 			"alignment": [
@@ -4524,7 +4524,7 @@
 						"2e": [
 							"{@spell command}",
 							"{@spell dispel magic}",
-							"{@spell find steed}"
+							"{@spell hallar corcel}"
 						]
 					},
 					"ability": "cha",

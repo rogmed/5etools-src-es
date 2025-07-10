@@ -4148,7 +4148,7 @@ Renderer.utils = class {
 		static _SCF_TYPE_TO_NAME = {
 			"arcane": "Arcane Focus",
 			"Druida": "Druidic Focus",
-			"holy": "Holy Symbol",
+			"holy": "Símbolo sagrado",
 		};
 		static _getHtml_spellcastingFocus ({v, isListMode, isTextOnly, styleHint}) {
 			if (isListMode) {
@@ -12445,7 +12445,7 @@ Renderer.item = class {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield."
-						: "Un símbolo sagrado puede ser uno de los objetos de la tabla “Símbolos sagrados” y está ornamentado o pintado para canalizar la magia divina. Los {@class Clérigos|XPHB|clérigos} o {@class Paladin|XPHB|paladines} pueden utilizar un símbolo sagrado como canalizador mágico.";
+						: "Un símbolo sagrado puede ser uno de los objetos de la tabla “{@item símbolo sagrado|XPHB|Símbolos sagrados}” y está ornamentado o pintado para canalizar la magia divina. Los {@class Clérigo|XPHB|clérigos} o {@class Paladín|XPHB|paladines} pueden utilizar un símbolo sagrado como canalizador mágico.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 			} else {
@@ -12467,7 +12467,7 @@ Renderer.item = class {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "A holy symbol is a representation of a god or pantheon. A {@class cleric} or {@class paladin} can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield."
-						: "Un símbolo sagrado puede ser uno de los objetos de la tabla “Símbolos sagrados” y está ornamentado o pintado para canalizar la magia divina. Los {@class Clérigos|XPHB|clérigos} o {@class Paladin|XPHB|paladines} pueden utilizar un símbolo sagrado como canalizador mágico.";
+						: "Un símbolo sagrado puede ser uno de los objetos de la tabla “{@item símbolo sagrado|XPHB|Símbolos sagrados}” y está ornamentado o pintado para canalizar la magia divina. Los {@class Clérigo|XPHB|clérigos} o {@class Paladín|XPHB|paladines} pueden utilizar un símbolo sagrado como canalizador mágico.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 			}

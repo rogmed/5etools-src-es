@@ -3859,7 +3859,7 @@
 											"type": "entries",
 											"name": "Lemures",
 											"entries": [
-												"The lowest form of devil, lemures are the twisted and tormented souls of evil and corrupted mortals. A lemure killed in the Nine Hells is only permanently destroyed if it is killed with a blessed weapon or if its shapeless corpse is splashed with holy water before it can return to life."
+												"The lowest form of devil, lemures are the twisted and tormented souls of evil and corrupted mortals. A lemure killed in the Nine Hells is only permanently destroyed if it is killed with a blessed weapon or if its shapeless corpse is splashed with Agua bendita before it can return to life."
 											]
 										},
 										{
@@ -5459,7 +5459,7 @@
 									"name": "Eldritch Rejuvenation",
 									"type": "entries",
 									"entries": [
-										"A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a {@spell dispel magic} or {@spell remove curse} spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous."
+										"A flameskull's shattered fragments reform unless they are splashed with Agua bendita or subjected to a {@spell dispel magic} or {@spell remove curse} spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous."
 									]
 								},
 								{

@@ -2977,7 +2977,7 @@
 							{
 								"name": "Summoned Nature",
 								"entries": [
-									"When a goat-knight steed drops to 0 hit points, it disappears, leaving behind no physical form. The {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} can also dismiss the steed at any time as an action, causing it to disappear. In either case, the same steed is summoned when the {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} casts {@spell find steed}."
+									"When a goat-knight steed drops to 0 hit points, it disappears, leaving behind no physical form. The {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} can also dismiss the steed at any time as an action, causing it to disappear. In either case, the same steed is summoned when the {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} casts {@spell hallar corcel}."
 								]
 							}
 						]
@@ -3770,7 +3770,7 @@
 						"2": {
 							"spells": [
 								"{@spell branding smite}",
-								"{@spell find steed} ({@creature Goat-Knight Steed|TDCSR} only)",
+								"{@spell hallar corcel} ({@creature Goat-Knight Steed|TDCSR} only)",
 								"{@spell lesser restoration}",
 								"{@spell zone of truth}"
 							],

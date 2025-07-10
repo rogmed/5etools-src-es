@@ -734,7 +734,7 @@
 											"Temple window",
 											"{@book Heart's Fire|SatO|2|Heart's Fire}",
 											"{@book Mount Celestia|DMG|2|Mount Celestia}",
-											"Angel feather, holy water"
+											"Angel feather, Agua bendita"
 										],
 										[
 											"37\u201339",
@@ -3508,7 +3508,7 @@
 									"id": "0c7",
 									"entries": [
 										"The chief attraction of the ward is the Great Bazaar, a vast plaza of shops where anything and everything can be found. Boisterous throngs of shoppers crowd its bustling avenues at all hours, doing business with vendors from every corner of the multiverse.",
-										"The Great Bazaar is a cosmopolitan sampling of the planes and the goods they have to offer. Though more scandalous merchandise typically finds its way to the {@book Gatehouse Night Market|SatO|2|Gatehouse Night Market} (see the \"{@book Hive Ward|SatO|2|Hive Ward}\" section), the bazaar has anything a traveler could want, so long as they can find it in the open market's constant commotion. Scents collide in the winding stalls: warm, right-angled bread loaves prepared fresh by modron bakers; spotted mushrooms hocked by bullywug grocers; and perfumed holy water sold by winged Celestials. Vibrant produce dangles from the leafy awnings of living plant stalls, and masterwork armors forged from rare metals bear insignias from blacksmiths on other worlds.",
+										"The Great Bazaar is a cosmopolitan sampling of the planes and the goods they have to offer. Though more scandalous merchandise typically finds its way to the {@book Gatehouse Night Market|SatO|2|Gatehouse Night Market} (see the \"{@book Hive Ward|SatO|2|Hive Ward}\" section), the bazaar has anything a traveler could want, so long as they can find it in the open market's constant commotion. Scents collide in the winding stalls: warm, right-angled bread loaves prepared fresh by modron bakers; spotted mushrooms hocked by bullywug grocers; and perfumed Agua bendita sold by winged Celestials. Vibrant produce dangles from the leafy awnings of living plant stalls, and masterwork armors forged from rare metals bear insignias from blacksmiths on other worlds.",
 										{
 											"type": "entries",
 											"name": "Free League Presence",
@@ -4770,7 +4770,7 @@
 										}
 									]
 								},
-								"Celestials and mortals live in harmony in Excelsior, the gate-town at the foot of Mount Celestia. Flecks of gold and silver sparkle in its radiant streets and towers, which climb ever upward to new heights of good and law. Archons, devout worshipers, and paragons of justice convene in floating citadels atop billowing clouds, and crystal falls of holy water cascade over their wispy edge to blessed fountains below.",
+								"Celestials and mortals live in harmony in Excelsior, the gate-town at the foot of Mount Celestia. Flecks of gold and silver sparkle in its radiant streets and towers, which climb ever upward to new heights of good and law. Archons, devout worshipers, and paragons of justice convene in floating citadels atop billowing clouds, and crystal falls of Agua bendita cascade over their wispy edge to blessed fountains below.",
 								"Excelsior's divinely appointed high chancellor, Forough (lawful good, human {@creature archmage} who can cast cleric spells), looks after the gate-town. The venerable human chancellor is a kind-hearted and patient soul, but beneath her calm exterior pumps the heart of a lion with a thunderous roar. The favored cleric of a deity of light, the Sunweaver, Forough is the voice of a god and can bring its might to bear. Those who mistake her mercy for weakness don't do so twice. She stands resolute against evil invaders alongside the Cinderwings, a squadron of angelic defenders who heed her prayers.",
 								"There's a consequence to Excelsior's bliss. Once one has basked in the light of the Seven Heavens, everywhere else seems comparatively worse. Though archons regularly depart the gate-town on divine errands, Excelsior's privileged mortal residents hesitate to venture past its golden gates, where a dull existence awaits. However, the gate-town isn't a perfect paradise, and some scoundrels test the watchfulness of goodly gods and their servants, regardless of how close to them they dwell.",
 								{

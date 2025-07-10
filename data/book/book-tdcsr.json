@@ -8771,7 +8771,7 @@
 												"{@class cleric|PHB|Cleric: Moon Domain|Moon|TDCSR}",
 												"{@class Druida|PHB|Druid: Circle of the Blighted|Blighted|TDCSR}",
 												"{@class monk|PHB|Monk: Way of the Cobalt Soul|Cobalt Soul|TDCSR}",
-												"{@class paladin|PHB|Paladin: Oath of the Open Sea|Open Sea|TDCSR}",
+												"{@class paladín|PHB|Paladin: Oath of the Open Sea|Open Sea|TDCSR}",
 												"{@class hechicero|PHB|Hechicero: Runechild sorcerous origin|Runechild|TDCSR}",
 												"{@class wizard|PHB|Wizard: Blood Magic arcane tradition|Blood Magic|TDCSR}"
 											]
@@ -9917,10 +9917,10 @@
 						},
 						{
 							"type": "entries",
-							"name": "Paladin",
+							"name": "Paladín",
 							"page": 174,
 							"entries": [
-								"You are an honorable warrior whose devotion to a cause or ideal empowers you with righteous magic. When your paladin character chooses a sacred oath at 3rd level, the {@class paladin|PHB|Oath of the Open Sea|Open Sea|TDCSR} is a new option available in a Tal'Dorei campaign.",
+								"You are an honorable warrior whose devotion to a cause or ideal empowers you with righteous magic. When your paladin character chooses a sacred oath at 3rd level, the {@class paladín|PHB|Oath of the Open Sea|Open Sea|TDCSR} is a new option available in a Tal'Dorei campaign.",
 								{
 									"type": "inset",
 									"name": "Shirkuh Marín",
@@ -9950,7 +9950,7 @@
 									"source": "TDCSR",
 									"name": "Open Sea",
 									"page": 174,
-									"className": "Paladin",
+									"className": "Paladín",
 									"classSource": "PHB",
 									"collapsed": true
 								},
@@ -9959,7 +9959,7 @@
 									"name": "Oath of the Open Sea Spells",
 									"page": 176,
 									"entries": [
-										"Paladins of the {@class paladin|PHB|Oath of the Open Sea|Open Sea|TDCSR} automatically gain two new spells through their {@subclassFeature Oath Spells|Paladin|PHB|Open Sea|TDCSR|3|TDCSR|Oath Spells feature}. These spells can also be learned by druids, rangers, and hechiceros of the appropriate level, at the GM's discretion.",
+										"Paladins of the {@class paladín|PHB|Oath of the Open Sea|Open Sea|TDCSR} automatically gain two new spells through their {@subclassFeature Oath Spells|Paladín|PHB|Open Sea|TDCSR|3|TDCSR|Oath Spells feature}. These spells can also be learned by druids, rangers, and hechiceros of the appropriate level, at the GM's discretion.",
 										"{@note This book adds the following new spells:}",
 										{
 											"type": "list",
@@ -9992,7 +9992,7 @@
 									"name": "Rules Tip: Visibility",
 									"page": 175,
 									"entries": [
-										"Fog and other effects can obscure vision for you, your enemies, and your allies. When you heavily obscure an area using your {@subclassFeature Channel Divinity|Paladin|PHB|Open Sea|TDCSR|3|TDCSR|Marine Layer Channel Divinity} option, all creatures within the area have their vision completely blocked, and creatures outside the area can't see in. Creatures that can't see automatically fail {@quickref ability checks|PHB|2|0} that require sight. Also, attack rolls against creatures that can't see have {@quickref Advantage and Disadvantage|PHB|2|0|advantage}, and their own attack rolls have {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage}.",
+										"Fog and other effects can obscure vision for you, your enemies, and your allies. When you heavily obscure an area using your {@subclassFeature Channel Divinity|Paladín|PHB|Open Sea|TDCSR|3|TDCSR|Marine Layer Channel Divinity} option, all creatures within the area have their vision completely blocked, and creatures outside the area can't see in. Creatures that can't see automatically fail {@quickref ability checks|PHB|2|0} that require sight. Also, attack rolls against creatures that can't see have {@quickref Advantage and Disadvantage|PHB|2|0|advantage}, and their own attack rolls have {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage}.",
 										"Creatures in a lightly obscured area have {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage} only on Wisdom ({@skill Perception}) checks that rely on sight. The rules for when your vision is obscured are described completely in the fifth edition core rules."
 									],
 									"id": "297"

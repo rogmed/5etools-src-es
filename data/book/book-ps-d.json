@@ -556,7 +556,7 @@
 									"name": "{@class Paladin}",
 									"page": 8,
 									"entries": [
-										"Even within the peaceful Church of Serra, some are called to fight. Soldiers (called acolytes and guardians) serve a largely ceremonial function, protecting the cathedrals of Serra. But paladins are more worldly, venturing out across the land in search of evil to defeat. Serran paladins typically swear the {@class Paladin||Oath of Devotion|Devotion}. Those who are devoted to the Four Virtues of art, discourse, freedom, and peace are more apt to swear the {@class Paladin||Oath of the Ancients|Ancients}."
+										"Even within the peaceful Church of Serra, some are called to fight. Soldiers (called acolytes and guardians) serve a largely ceremonial function, protecting the cathedrals of Serra. But paladins are more worldly, venturing out across the land in search of evil to defeat. Serran paladins typically swear the {@class Paladín||Oath of Devotion|Devotion}. Those who are devoted to the Four Virtues of art, discourse, freedom, and peace are more apt to swear the {@class Paladín||Oath of the Ancients|Ancients}."
 									],
 									"id": "018"
 								}

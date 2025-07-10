@@ -7226,7 +7226,7 @@
 							"mode": "addSpells",
 							"daily": {
 								"1e": [
-									"{@spell find steed} (cast as 1 action; elk only)",
+									"{@spell hallar corcel} (cast as 1 action; elk only)",
 									"{@spell haste}"
 								]
 							}

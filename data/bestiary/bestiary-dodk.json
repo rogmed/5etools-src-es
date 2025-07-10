@@ -564,7 +564,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell branding smite}",
-								"{@spell find steed}"
+								"{@spell hallar corcel}"
 							]
 						}
 					},

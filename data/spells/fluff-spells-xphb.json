@@ -127,14 +127,14 @@
 			]
 		},
 		{
-			"name": "Divine Smite",
+			"name": "Castigo divino",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Divine Smite.webp"
+						"path": "spells/XPHB/Castigo divino.webp"
 					},
 					"credit": "Bryan Sola"
 				}

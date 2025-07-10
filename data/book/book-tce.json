@@ -1316,7 +1316,7 @@
 				},
 				{
 					"type": "section",
-					"name": "Paladin",
+					"name": "Paladín",
 					"page": 52,
 					"id": "12d",
 					"entries": [
@@ -1366,8 +1366,8 @@
 										}
 									]
 								},
-								"{@classFeature Channel Divinity: Harness Divine Power|Paladin|PHB|3|TCE} ({@i 3rd-level paladin feature})",
-								"{@classFeature Martial Versatility|Paladin|PHB|4|TCE} ({@i 4th-level paladin feature})"
+								"{@classFeature Channel Divinity: Harness Divine Power|Paladín|PHB|3|TCE} ({@i 3rd-level paladin feature})",
+								"{@classFeature Martial Versatility|Paladín|PHB|4|TCE} ({@i 4th-level paladin feature})"
 							]
 						},
 						{
@@ -1381,8 +1381,8 @@
 									"type": "list",
 									"columns": 2,
 									"items": [
-										"{@class Paladin|phb|Oath of Glory|Glory|TCE}",
-										"{@class Paladin|phb|Oath of the Watchers|Watchers|TCE}"
+										"{@class Paladín|phb|Oath of Glory|Glory|TCE}",
+										"{@class Paladín|phb|Oath of the Watchers|Watchers|TCE}"
 									]
 								}
 							]
@@ -1456,7 +1456,7 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"1st level: {@spell Entangle}, {@spell Searing smite}",
+												"1st level: {@spell Entangle}, {@spell castigo abrasador}",
 												"2nd level: {@spell Auxilio}, {@spell Enhance ability}, {@spell Gust of wind}, {@spell Magic weapon}, {@spell Summon beast|TCE}*",
 												"3rd level: {@spell Elemental weapon}, {@spell Meld into stone}, {@spell Revivir}, {@spell Summon fey|TCE}*",
 												"4th level: {@spell Dominate beast}, {@spell Summon elemental|TCE}*",

@@ -5449,7 +5449,7 @@
 				}
 			],
 			"entries": [
-				"Hasta que el conjuro termine, percibes la ubicación de cualquier aberración, celestial, elemental, feérico, infernal o muerto viviente a 30 pies (9 m) o menos de ti. También percibes si hay un conjuro {@spell Hallow|XPHB} activo en el espacio y su ubicación.",
+				"Hasta que el conjuro termine, percibes la ubicación de cualquier aberración, celestial, elemental, feérico, infernal o muerto viviente a 30 pies (9 m) o menos de ti. También percibes si hay un conjuro {@spell Consagrar|XPHB} activo en el espacio y su ubicación.",
 				"El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo."
 			],
 			"affectsCreatureType": [
@@ -6027,10 +6027,10 @@
 			]
 		},
 		{
-			"name": "Divine Smite",
-			"originalname": "",
+			"name": "Castigo divino",
+			"originalname": "Divine Smite",
 			"source": "XPHB",
-			"page": 265,
+			"page": 255,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -6039,7 +6039,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "Which you take immediately after hitting a target with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a un objetivo con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -6057,14 +6057,14 @@
 				}
 			],
 			"entries": [
-				"The target takes an extra {@damage 2d8} Radiant damage from the attack. The damage increases by {@damage 1d8} if the target is a Fiend or an Undead."
+				"El objetivo sufre {@damage 2d8} de daño radiante adicional del ataque. Este daño aumenta en {@damage 1d8} si el objetivo es un infernal o un muerto viviente."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 2d8|1-9|1d8} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 2d8|1-9|1d8} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -7743,10 +7743,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Find Steed",
-			"originalname": "",
+			"name": "Hallar corcel",
+			"originalname": "Find Steed",
 			"source": "XPHB",
-			"page": 272,
+			"page": 290,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -7774,20 +7774,20 @@
 				}
 			],
 			"entries": [
-				"You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the {@creature Otherworldly Steed|XPHB} stat block. If you already have a steed from this spell, the steed is replaced by the new one.",
-				"The steed resembles a Large, rideable animal of your choice, such as a horse, a camel, a dire wolf, or an elk. Whenever you cast the spell, choose the steed's creature type\u2014Celestial, Fey, or Fiend\u2014which determines certain traits in the stat block.",
+				"Invocas un ser sobrenatural que asume la forma de un corcel fiel en un espacio sin ocupar de tu elección dentro del alcance. La criatura utiliza el perfil del {@creature corcel sobrenatural|XPHB}. Si ya tienes un corcel gracias a este conjuro, se sustituirá por el nuevo.",
+				"El corcel se parece a un animal Grande que puedas montar de tu elección, como un caballo, un alce, un camello o un lobo terrible. Siempre que lances el conjuro, elige el tipo de criatura del corcel (celestial, feérico o infernal), lo que determinará ciertos atributos de su perfil.",
 				{
 					"type": "entries",
-					"name": "Combat",
+					"name": "Combate",
 					"entries": [
-						"The steed is an ally to you and your allies. In combat, it shares your {@variantrule Initiative|XPHB} count, and it functions as a controlled mount while you ride it (as defined in the rules on {@book mounted combat|XPHB|1|Mounted Combat}). If you have the {@condition Incapacitado|XPHB} condition, the steed takes its turn immediately after yours and acts independently, focusing on protecting you."
+						"El corcel se considera un aliado para tus aliados y para ti. En combate, la criatura comparte tu orden de iniciativa y funciona como una montura controlada mientras vayas sobre ella (como se describe en las normas del combate montado). Si tienes el estado de {@condition incapacitado|XPHB}, su turno irá justo después del tuyo, actuará con independencia de ti y se centrará en protegerte."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Disappearance of the Steed",
+					"name": "Desaparición del corcel",
 					"entries": [
-						"The steed disappears if it drops to 0 {@variantrule Hit Points|XPHB} or if you die. When it disappears, it leaves behind anything it was wearing or carrying. If you cast this spell again, you decide whether you summon the steed that disappeared or a different one."
+						"El corcel desaparece si sus puntos de golpe se reducen a 0 o si mueres. Cuando desaparece, deja atrás todo lo que vistiera o llevase. Si vuelves a lanzar este conjuro, decides si invocas al corcel que desapareció u otro distinto."
 					]
 				}
 			],
@@ -9914,10 +9914,10 @@
 			]
 		},
 		{
-			"name": "Hallow",
-			"originalname": "",
+			"name": "Consagrar",
+			"originalname": "Hallow",
 			"source": "XPHB",
-			"page": 283,
+			"page": 261,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -9938,7 +9938,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "incense worth 1,000+ GP, which the spell consumes",
+					"text": "incienso que valga al menos 1000 po, que se consume como parte del conjuro",
 					"cost": 100000,
 					"consume": true
 				}
@@ -9952,91 +9952,91 @@
 				}
 			],
 			"entries": [
-				"You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects.",
+				"Tocas un punto e impregnas una zona a su alrededor con poder sagrado o impío. El área puede tener un radio de hasta 18 m y el conjuro falla si el radio incluye cualquier zona que ya esté bajo el efecto de {@i consagrar}. La zona afectada tiene los siguientes efectos.",
 				{
 					"type": "entries",
-					"name": "Hallowed Ward",
+					"name": "Protección sagrada",
 					"entries": [
-						"Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can't willingly enter the area, and any creature that is possessed by or that has the {@condition Hechizado|XPHB} or {@condition Asustado|XPHB} condition from such creatures isn't possessed, {@condition Hechizado|XPHB}, or {@condition Asustado|XPHB} by them while in the area."
+						"Elige cualquiera de los siguientes tipos de criatura: aberración, celestial, elemental, feérico, infernal o muerto viviente. Las criaturas de los tipos elegidos no podrán entrar en la zona voluntariamente, y cualquier criatura poseída o con los estados de {@condition Asustado|XPHB|asustada} o {@condition Hechizado|XPHB|hechizada} a causa de ellas dejarán de estarlo mientras permanezcan en la zona."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Extra Effect",
+					"name": "Efecto adicional",
 					"entries": [
-						"You bind an extra effect to the area from the list below:",
+						"Vinculas un efecto adicional de la siguiente lista:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
 							"items": [
 								{
 									"type": "item",
-									"name": "Courage",
+									"name": "Coraje",
 									"entries": [
-										"Creatures of any types you choose can't gain the {@condition Asustado|XPHB} condition while in the area."
+										"Las criaturas de cualesquiera tipos que elijas no podrán obtener el estado de {@condition Asustado|XPHB|asustadas} dentro de la zona."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Darkness",
+									"name": "Descanso plácido",
 									"entries": [
-										"{@variantrule Darkness|XPHB} fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can't illuminate the area."
+										"Los cadáveres enterrados en la zona no se pueden convertir en muertos vivientes."
+									]
+								},
+								{
+									"type": "item",
+									"name": "Don de lenguas",
+									"entries": [
+										"Las criaturas de cualesquiera tipos que elijas se pueden comunicar con cualquier otra criatura en la zona, aunque no compartan ningún idioma común."
+									]
+								},
+								{
+									"type": "item",
+									"name": "Intromisión extradimensional",
+									"entries": [
+										"Las criaturas de cualesquiera tipos que elijas no pueden entrar en la zona ni salir de ella usando el teletransporte o el viaje interplanar."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Luz del día",
 									"entries": [
-										"Bright light fills the area. Magical {@variantrule Darkness|XPHB} created by spells of a level lower than this spell can't extinguish the light."
+										"La zona se llena de luz brillante. La oscuridad mágica creada por conjuros de niveles menores que el de este conjuro no pueden extinguir la luz."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Peaceful Rest",
+									"name": "Oscuridad",
 									"entries": [
-										"{@variantrule Dead|XPHB} bodies interred in the area can't be turned into Undead."
-									]
-								},
-								{
-									"type": "item",
-									"name": "Extradimensional Interference",
-									"entries": [
-										"Creatures of any types you choose can't enter or exit the area using teleportation or interplanar travel."
-									]
-								},
-								{
-									"type": "item",
-									"name": "Terror",
-									"entries": [
-										"Creatures of any types you choose have the {@condition Asustado|XPHB} condition while in the area."
+										"La zona se llena de oscuridad. La luz normal y la luz mágica creada por conjuros de niveles menores que el de este conjuro no pueden iluminar la zona."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Resistencia",
 									"entries": [
-										"Creatures of any types you choose have {@variantrule Resistance|XPHB} to one damage type of your choice while in the area."
+										"Las criaturas de cualesquiera tipos que elijas tienen resistencia a un tipo de daño de tu elección dentro de la zona."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Silencio",
 									"entries": [
-										"No sound can emanate from within the area, and no sound can reach into it."
+										"Ningún sonido puede salir de la zona ni penetrar en ella,"
 									]
 								},
 								{
 									"type": "item",
-									"name": "Tongues",
+									"name": "Terror",
 									"entries": [
-										"Creatures of any types you choose can communicate with any other creature in the area even if they don't share a common language."
+										"Las criaturas de cualesquiera tipos que elijas tienen el estado de {@condition Asustado|XPHB|asustadas} dentro de la zona."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Vulnerability",
+									"name": "Vulnerabilidad",
 									"entries": [
-										"Creatures of any types you choose have {@variantrule Vulnerability|XPHB} to one damage type of your choice while in the area."
+										"Las criaturas de cualesquiera tipos que elijas tienen vulnerabilidad a un tipo de daño de tu elección dentro de la zona."
 									]
 								}
 							]
@@ -16721,10 +16721,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Searing Smite",
-			"originalname": "",
+			"name": "Castigo abrasador",
+			"originalname": "Searing Smite",
 			"source": "XPHB",
-			"page": 314,
+			"page": 253,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -16733,7 +16733,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a target with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a un objetivo con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -16755,14 +16755,14 @@
 				}
 			],
 			"entries": [
-				"As you hit the target, it takes an extra {@damage 1d6} Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes {@damage 1d6} Fire damage and then makes a Constitution saving throw. On a failed save, the spell continues. On a successful save, the spell ends."
+				"Al golpear al objetivo, sufre {@damage 1d6} de daño de fuego adicional del ataque. Al principio de cada uno de sus turnos hasta que el conjuro termine, el objetivo sufrirá {@damage 1d6} de daño de fuego y luego hará una tirada de salvación de Constitución. Si la falla, el conjuro seguirá activo. Si la supera, el conjuro terminará."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"All the damage increases by {@scaledamage 1d6|1-9|1d6} for each spell slot level above 1."
+						"Todo el daño aumenta en {@scaledamage 1d6|1-9|1d6} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -20144,7 +20144,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a target with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a un objetivo con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {

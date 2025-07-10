@@ -6857,7 +6857,7 @@
 							"entries": [
 								"Divine magic\u2014which includes the spells cast by Clerics, Druids, Paladins, and Rangers\u2014is mediated through beings and forces that are categorized as divine. These can include gods but also include the primal forces of nature, the beneficent power of ancestral spirits, the sacred weight of a Paladin's oath, and impersonal principles or entities such as Fate or the order of the universe. These beings and forces grant characters the power to wield the magic of their planar domains.",
 								"For game purposes, wielding divine power isn't dependent on the gods' ongoing approval or the strength of a character's devotion. The power is a gift offered to a select few; once given, it can't be rescinded.",
-								"That said, characters' relationships with the divine forces they access to wield their magic, much like Warlocks' relationships with their patrons, are ripe for exploration. A Cleric might accompany every casting of a spell with a litany of complaints directed at the gods. The {@class Paladin|XPHB|Paladin class description} in the {@book Player's Handbook|XPHB} offers some suggestions for how a player might roleplay a situation where their Paladin has broken their oath. You can also decide how NPCs react to a character whose behavior doesn't square with the ideals implied by the Holy Symbol the character wears."
+								"That said, characters' relationships with the divine forces they access to wield their magic, much like Warlocks' relationships with their patrons, are ripe for exploration. A Cleric might accompany every casting of a spell with a litany of complaints directed at the gods. The {@class Paladín|XPHB|Paladin class description} in the {@book Player's Handbook|XPHB} offers some suggestions for how a player might roleplay a situation where their Paladin has broken their oath. You can also decide how NPCs react to a character whose behavior doesn't square with the ideals implied by the Holy Symbol the character wears."
 							]
 						},
 						{
@@ -22561,7 +22561,7 @@
 									"rows": [
 										[
 											"Lunia",
-											"In the Silver Heaven, the holy water of the Silver Sea laps at the base of the celestial mountain under a starry sky."
+											"In the Silver Heaven, the Agua bendita of the Silver Sea laps at the base of the celestial mountain under a starry sky."
 										],
 										[
 											"Mercuria",
@@ -25402,7 +25402,7 @@
 												],
 												[
 													"77\u201380",
-													"While you're attuned to the Artifact, all {@item Holy Water|XPHB} within 10 feet of you is destroyed."
+													"While you're attuned to the Artifact, all {@item Agua bendita|XPHB} within 10 feet of you is destroyed."
 												],
 												[
 													"81\u201384",
@@ -29287,7 +29287,7 @@
 								[
 									"5",
 									"{@facility Sanctuary|XDMG}",
-									"Ability to use a {@item Holy Symbol|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
+									"Ability to use a {@item símbolo sagrado|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
 									"Craft"
 								],
 								[
@@ -29329,7 +29329,7 @@
 								[
 									"9",
 									"{@facility Sacristy|XDMG}",
-									"Ability to use a {@item Holy Symbol|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
+									"Ability to use a {@item símbolo sagrado|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
 									"Craft"
 								],
 								[
@@ -29401,7 +29401,7 @@
 								[
 									"13",
 									"{@facility Reliquary|XDMG}",
-									"Ability to use a {@item Holy Symbol|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
+									"Ability to use a {@item símbolo sagrado|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
 									"Harvest"
 								],
 								[
@@ -29419,7 +29419,7 @@
 								[
 									"17",
 									"{@facility Sanctum|XDMG}",
-									"Ability to use a {@item Holy Symbol|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
+									"Ability to use a {@item símbolo sagrado|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
 									"Empower"
 								],
 								[

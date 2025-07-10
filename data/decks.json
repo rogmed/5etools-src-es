@@ -3687,7 +3687,7 @@
 				"Tempter|Tarokka Deck|CoS",
 				"Warrior|Tarokka Deck|CoS",
 				"Avenger|Tarokka Deck|CoS",
-				"Paladin|Tarokka Deck|CoS",
+				"Paladín|Tarokka Deck|CoS",
 				"Soldier|Tarokka Deck|CoS",
 				"Mercenary|Tarokka Deck|CoS",
 				"Myrmidon|Tarokka Deck|CoS",
@@ -23442,7 +23442,7 @@
 			]
 		},
 		{
-			"name": "Paladin",
+			"name": "Paladín",
 			"source": "CoS",
 			"set": "Tarokka Deck",
 			"page": 243,

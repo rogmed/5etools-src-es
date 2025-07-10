@@ -347,7 +347,7 @@
 				"type": "humanoide",
 				"tags": [
 					"human",
-					"paladin"
+					"paladín"
 				]
 			},
 			"alignment": [
@@ -5406,7 +5406,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"paladin"
+					"paladín"
 				]
 			},
 			"alignment": [

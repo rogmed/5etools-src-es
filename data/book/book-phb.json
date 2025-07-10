@@ -1882,7 +1882,7 @@
 									"{@dice 5d4|5d4|Monk Starting Wealth} gp"
 								],
 								[
-									"Paladin",
+									"Paladín",
 									"{@dice 5d4×10|5d4 × 10|Paladin Starting Wealth} gp"
 								],
 								[
@@ -3449,7 +3449,7 @@
 									"\u2014"
 								],
 								[
-									"{@item Blanket|PHB}",
+									"{@item Manta|PHB}",
 									"5 sp",
 									"3 lb."
 								],
@@ -3610,7 +3610,7 @@
 									"3 lb."
 								],
 								[
-									"{@i {@item Holy symbol|PHB}}",
+									"{@i {@item símbolo sagrado|PHB}}",
 									"",
 									""
 								],
@@ -3618,7 +3618,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Amulet|PHB}",
+										"{@item amuleto|PHB}",
 										"5 gp",
 										"1 lb."
 									]
@@ -3627,7 +3627,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Emblem|PHB}",
+										"{@item Emblema|PHB}",
 										"5 gp",
 										"\u2014"
 									]
@@ -3642,7 +3642,7 @@
 									]
 								},
 								[
-									"{@item Holy water (flask)|PHB}",
+									"{@item Agua bendita (flask)|PHB}",
 									"25 gp",
 									"1 lb."
 								],
@@ -3712,7 +3712,7 @@
 									"25 lb."
 								],
 								[
-									"{@item Lamp|PHB}",
+									"{@item lámpara|PHB}",
 									"5 sp",
 									"1 lb."
 								],
@@ -4092,7 +4092,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Holy Symbol",
+											"name": "Símbolo sagrado",
 											"page": 151,
 											"entries": [
 												"A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred rite. Appendix B lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus, as described in Part 3: The Rules of Magic. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield."
@@ -4101,11 +4101,11 @@
 										},
 										{
 											"type": "entries",
-											"name": "Holy Water",
+											"name": "Agua bendita",
 											"page": 151,
 											"entries": [
 												"As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact.",
-												"In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage. A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot."
+												"In either case, make a ranged attack against a target creature, treating the Agua bendita as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage. A cleric or paladin may create Agua bendita by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot."
 											],
 											"id": "0b0"
 										},
@@ -4120,7 +4120,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Lamp",
+											"name": "Lámpara",
 											"page": 152,
 											"entries": [
 												"A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil."
@@ -4455,7 +4455,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "Priest's Pack (19 gp)",
+									"name": "Paquete de sacerdote (19 gp)",
 									"page": 151,
 									"entries": [
 										"Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin."
@@ -10133,7 +10133,7 @@
 								"{@spell Heroism}",
 								"{@spell Protección contra el bien y el mal}",
 								"{@spell Purificar comida y bebida}",
-								"{@spell Searing Smite}",
+								"{@spell Castigo abrasador}",
 								"{@spell Escudo de fe}",
 								"{@spell Thunderous Smite}",
 								"{@spell Wrathful Smite}"
@@ -10147,7 +10147,7 @@
 							"items": [
 								"{@spell Auxilio}",
 								"{@spell Branding Smite}",
-								"{@spell Find Steed}",
+								"{@spell Hallar corcel}",
 								"{@spell Restablecimiento menor}",
 								"{@spell Localizar objeto}",
 								"{@spell Arma mágica}",
@@ -11119,7 +11119,7 @@
 								"{@spell Feeblemind}",
 								"{@spell Feign Death}",
 								"{@spell Encontrar familiar}",
-								"{@spell Find Steed}",
+								"{@spell Hallar corcel}",
 								"{@spell Find the Path}",
 								"{@spell Find Traps}",
 								"{@spell Finger of Death}",
@@ -11274,7 +11274,7 @@
 								"{@spell Santuario}",
 								"{@spell Rayo abrasador}",
 								"{@spell Escudriñar}",
-								"{@spell Searing Smite}",
+								"{@spell Castigo abrasador}",
 								"{@spell Ver invisibilidad}",
 								"{@spell Seeming}",
 								"{@spell Sending}",

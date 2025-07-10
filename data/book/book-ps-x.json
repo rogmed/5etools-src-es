@@ -144,7 +144,7 @@
 											"name": "{@class Paladin}",
 											"page": 5,
 											"entries": [
-												"Knights of the Sun Empire are drawn to the {@class Paladin||Oath of the Ancients|Ancients} and (increasingly, as vampires and pirates mount incursions into their lands) the {@class Paladin||Oath of Vengeance|Vengeance}. These paladins often use the {@spell find steed} spell to acquire dinosaur mounts (typically a {@creature hadrosaurus|VGM}, described in {@book Volo's Guide to Monsters|VGM})."
+												"Knights of the Sun Empire are drawn to the {@class Paladín||Oath of the Ancients|Ancients} and (increasingly, as vampires and pirates mount incursions into their lands) the {@class Paladín||Oath of Vengeance|Vengeance}. These paladins often use the {@spell hallar corcel} spell to acquire dinosaur mounts (typically a {@creature hadrosaurus|VGM}, described in {@book Volo's Guide to Monsters|VGM})."
 											],
 											"id": "009"
 										},
@@ -561,7 +561,7 @@
 											"name": "{@class Paladin}",
 											"page": 8,
 											"entries": [
-												"Vampire paladins of the Legion of Dusk typically swear the {@class Paladin||Oath of Devotion|Devotion}, though the tenets they follow are appropriate to their particular faith. (If you are using {@book Xanathar's Guide to Everything|XGE}, the {@class Paladin||Oath of Conquest|Conquest|XGE} is even more appropriate.)"
+												"Vampire paladins of the Legion of Dusk typically swear the {@class Paladín||Oath of Devotion|Devotion}, though the tenets they follow are appropriate to their particular faith. (If you are using {@book Xanathar's Guide to Everything|XGE}, the {@class Paladín||Oath of Conquest|Conquest|XGE} is even more appropriate.)"
 											],
 											"id": "01a"
 										}

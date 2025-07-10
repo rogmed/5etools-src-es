@@ -5,7 +5,7 @@
 	"Druida": "class-druid.json",
 	"fighter": "class-fighter.json",
 	"monk": "class-monk.json",
-	"paladin": "class-paladin.json",
+	"paladín": "class-paladin.json",
 	"explorador": "class-ranger.json",
 	"Pícaro": "class-rogue.json",
 	"hechicero": "class-sorcerer.json",

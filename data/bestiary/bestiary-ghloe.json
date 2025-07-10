@@ -5431,13 +5431,13 @@
 				{
 					"name": "Rejuvenation",
 					"entries": [
-						"If the lenchtahg's head survives its demise, the head must be doused in holy water and ritually consecrated in a 1-hour ceremony or be the target of a {@spell dispel evil and good} spell. If it isn't, then the lenchtahg reappears in 6 days, emerging from a fiery explosion in a 20-foot-radius sphere centered on the head. Creatures in that area must make a {@dc 15} Dexterity saving throw, taking 28 {@damage 8d6} damage on a failed saving throw, or half as much damage on a successful one. The head can't rejuvenate in a holy {@spell hallow} spell's area."
+						"If the lenchtahg's head survives its demise, the head must be doused in Agua bendita and ritually consecrated in a 1-hour ceremony or be the target of a {@spell dispel evil and good} spell. If it isn't, then the lenchtahg reappears in 6 days, emerging from a fiery explosion in a 20-foot-radius sphere centered on the head. Creatures in that area must make a {@dc 15} Dexterity saving throw, taking 28 {@damage 8d6} damage on a failed saving throw, or half as much damage on a successful one. The head can't rejuvenate in a holy {@spell hallow} spell's area."
 					]
 				},
 				{
 					"name": "Water Aversion",
 					"entries": [
-						"If drenched in 5 gallons or more of water, or any amount of holy water, the lenchtahg has disadvantage on attack rolls and ability checks until the end of its next turn."
+						"If drenched in 5 gallons or more of water, or any amount of Agua bendita, the lenchtahg has disadvantage on attack rolls and ability checks until the end of its next turn."
 					]
 				}
 			],

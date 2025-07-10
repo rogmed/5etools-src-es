@@ -1156,7 +1156,7 @@
 					"page": 246,
 					"entries": [
 						"Any spell the {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} casts with a range of self also targets the goat.",
-						"When a {@creature Goat-Knight Steed|TDCSR} drops to 0 hit points, it disappears, leaving behind no physical form. The {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} can also dismiss the steed at any time as an action, causing it to disappear. In either case, the same steed is summoned when the {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} casts {@spell find steed}."
+						"When a {@creature Goat-Knight Steed|TDCSR} drops to 0 hit points, it disappears, leaving behind no physical form. The {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} can also dismiss the steed at any time as an action, causing it to disappear. In either case, the same steed is summoned when the {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} casts {@spell hallar corcel}."
 					]
 				}
 			],

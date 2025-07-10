@@ -1310,13 +1310,13 @@
 						},
 						{
 							"type": "entries",
-							"name": "Paladin",
+							"name": "Paladín",
 							"page": 24,
 							"entries": [
 								"The loyalty of a paladin is appreciated most by those guilds that value oaths of service, namely the Azorius Senate, the Boros Legion, and the Selesnya Conclave.",
 								{
 									"type": "table",
-									"caption": "Paladin",
+									"caption": "Paladín",
 									"colStyles": [
 										"col-6",
 										"col-6"
@@ -1327,23 +1327,23 @@
 									],
 									"rows": [
 										[
-											"{@class Paladin||Oath of Conquest|Conquest|XGE}*",
+											"{@class Paladín||Oath of Conquest|Conquest|XGE}*",
 											"Orzhov"
 										],
 										[
-											"{@class Paladin||Oath of Devotion|Devotion}",
+											"{@class Paladín||Oath of Devotion|Devotion}",
 											"Boros"
 										],
 										[
-											"{@class Paladin||Oath of Redemption|Redemption|XGE}*",
+											"{@class Paladín||Oath of Redemption|Redemption|XGE}*",
 											"Selesnya"
 										],
 										[
-											"{@class Paladin||Oath of the Ancients|Ancients}",
+											"{@class Paladín||Oath of the Ancients|Ancients}",
 											"Selesnya"
 										],
 										[
-											"{@class Paladin||Oath of Vengeance|Vengeance}",
+											"{@class Paladín||Oath of Vengeance|Vengeance}",
 											"Azorius"
 										]
 									]

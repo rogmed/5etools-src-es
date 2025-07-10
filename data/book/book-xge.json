@@ -304,14 +304,14 @@
 							"Transforms ki into bursts of fire and searing bolts of light"
 						],
 						[
-							"Paladin",
-							"{@class Paladin|phb|Oath of Conquest|Conquest|xge}",
+							"Paladín",
+							"{@class Paladín|phb|Oath of Conquest|Conquest|xge}",
 							"3rd",
 							"Strikes terror in enemies and crushes the forces of chaos"
 						],
 						[
-							"Paladin",
-							"{@class Paladin|phb|Oath of Redemption|Redemption|xge}",
+							"Paladín",
+							"{@class Paladín|phb|Oath of Redemption|Redemption|xge}",
 							"3rd",
 							"Offers redemption to the worthy and destruction to those who refuse mercy or righteousness"
 						],
@@ -1878,7 +1878,7 @@
 												},
 												{
 													"type": "table",
-													"caption": "Paladin",
+													"caption": "Paladín",
 													"colLabels": [
 														"d6",
 														"I became a paladin because..."
@@ -2884,7 +2884,7 @@
 										],
 										[
 											"59-64",
-											"Paladin"
+											"Paladín"
 										],
 										[
 											"65-70",

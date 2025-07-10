@@ -177,14 +177,14 @@
 			]
 		},
 		{
-			"name": "Otherworldly Steed",
+			"name": "Corcel sobrenatural",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "bestiary/XPHB/Otherworldly Steed.webp"
+						"path": "bestiary/XPHB/Corcel sobrenatural.webp"
 					},
 					"credit": "Nikki Dawes"
 				}

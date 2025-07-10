@@ -6,9 +6,9 @@
 	},
 	"class": [
 		{
-			"name": "Paladin",
+			"name": "Paladín",
 			"source": "XPHB",
-			"page": 108,
+			"page": 156,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
@@ -26,7 +26,7 @@
 				"sab",
 				"car"
 			],
-			"spellcastingAbility": "car",
+			"Lanzamiento de conjurosAbility": "car",
 			"casterProgression": "artificer",
 			"preparedSpellsProgression": [
 				2,
@@ -55,20 +55,20 @@
 				{
 					"prepared": {
 						"2": [
-							"divine smite|xphb"
+							"castigo divino|xphb"
 						],
 						"5": [
-							"find steed|xphb"
+							"hallar corcel|xphb"
 						]
 					}
 				}
 			],
 			"featProgression": [
 				{
-					"name": "Fighting Style",
+					"name": "Estilo de combate",
 					"category": [
-						"FS",
-						"FS:P"
+						"EC",
+						"EC:P"
 					],
 					"progression": {
 						"2": 1
@@ -86,9 +86,9 @@
 			],
 			"startingProficiencies": {
 				"armor": [
-					"light",
-					"medium",
-					"heavy",
+					"ligera",
+					"media",
+					"pesada",
 					"escudo"
 				],
 				"weapons": [
@@ -117,23 +117,23 @@
 					{
 						"A": [
 							{
-								"item": "chain mail|xphb"
+								"item": "cota de malla|xphb"
 							},
 							{
-								"item": "shield|xphb"
+								"item": "escudo|xphb"
 							},
 							{
-								"item": "longsword|xphb"
+								"item": "espada larga|xphb"
 							},
 							{
-								"item": "javelin|xphb",
+								"item": "jabalina|xphb",
 								"quantity": 6
 							},
 							{
-								"item": "holy symbol|xphb"
+								"item": "símbolo sagrado|xphb"
 							},
 							{
-								"item": "priest's pack|xphb"
+								"item": "paquete de sacerdote|xphb"
 							},
 							{
 								"value": 900
@@ -147,14 +147,14 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Cota de malla|XPHB}, {@item Shield|XPHB}, {@item Espada larga|XPHB}, 6 {@item Jabalina|XPHB|Javelins}, {@item Holy Symbol|XPHB}, {@item Priest's Pack|XPHB}, and 9 GP; or (B) 150 GP"
+					"{@i Elige A o B:} (A) {@item cota de malla|XPHB}, {@item escudo|XPHB}, {@item espada larga|XPHB}, 6 {@item jabalina|XPHB|jabalinas}, {@item símbolo sagrado|XPHB}, {@item Paquete de sacerdote|XPHB}, and 9 po; o (B) 150 po"
 				]
 			},
 			"multiclassing": {
 				"proficienciesGained": {
 					"armor": [
-						"light",
-						"medium",
+						"ligera",
+						"media",
 						"escudo"
 					],
 					"weapons": [
@@ -165,8 +165,8 @@
 			"classTableGroups": [
 				{
 					"colLabels": [
-						"Channel Divinity",
-						"{@filter Prepared Spells|spells|level=!0|class=Paladin}"
+						"Canalizar divinidad",
+						"{@filter Conjuros preparados|spells|level=!0|class=paladín}"
 					],
 					"rows": [
 						[
@@ -254,11 +254,11 @@
 				{
 					"title": "Spell Slots per Spell Level",
 					"colLabels": [
-						"{@filter 1st|spells|level=1|class=Paladin}",
-						"{@filter 2nd|spells|level=2|class=Paladin}",
-						"{@filter 3rd|spells|level=3|class=Paladin}",
-						"{@filter 4th|spells|level=4|class=Paladin}",
-						"{@filter 5th|spells|level=5|class=Paladin}"
+						"{@filter 1|spells|level=1|class=paladín}",
+						"{@filter 2|spells|level=2|class=paladín}",
+						"{@filter 3|spells|level=3|class=paladín}",
+						"{@filter 4|spells|level=4|class=paladín}",
+						"{@filter 5|spells|level=5|class=paladín}"
 					],
 					"rowsSpellProgression": [
 						[
@@ -405,43 +405,43 @@
 				}
 			],
 			"classFeatures": [
-				"Lay on Hands|Paladin|XPHB|1",
-				"Spellcasting|Paladin|XPHB|1",
-				"Weapon Mastery|Paladin|XPHB|1",
-				"Fighting Style|Paladin|XPHB|2",
-				"Paladin's Smite|Paladin|XPHB|2",
-				"Channel Divinity|Paladin|XPHB|3",
+				"Imponer las manos|Paladín|XPHB|1",
+				"Lanzamiento de conjuros|Paladín|XPHB|1",
+				"Maestría con armas|Paladín|XPHB|1",
+				"Castigo de paladín|Paladín|XPHB|2",
+				"Estilo de combate|Paladín|XPHB|2",
+				"Canalizar divinidad|Paladín|XPHB|3",
 				{
-					"classFeature": "Paladin Subclass|Paladin|XPHB|3",
+					"classFeature": "Subclase de paladín|Paladín|XPHB|3",
 					"gainSubclassFeature": true
 				},
-				"Mejora de característica|Paladin|XPHB|4",
-				"Extra Attack|Paladin|XPHB|5",
-				"Faithful Steed|Paladin|XPHB|5",
-				"Aura of Protection|Paladin|XPHB|6",
+				"Mejora de característica|Paladín|XPHB|4",
+				"Ataque adicional|Paladín|XPHB|5",
+				"Corcel fiel|Paladín|XPHB|5",
+				"Aura de protección|Paladín|XPHB|6",
 				{
-					"classFeature": "Rasgo de subclase|Paladin|XPHB|7",
+					"classFeature": "Rasgo de subclase|Paladín|XPHB|7",
 					"gainSubclassFeature": true
 				},
-				"Mejora de característica|Paladin|XPHB|8",
-				"Abjure Foes|Paladin|XPHB|9",
-				"Aura of Courage|Paladin|XPHB|10",
-				"Radiant Strikes|Paladin|XPHB|11",
-				"Mejora de característica|Paladin|XPHB|12",
-				"Restoring Touch|Paladin|XPHB|14",
+				"Mejora de característica|Paladín|XPHB|8",
+				"Abjurar de los enemigos|Paladín|XPHB|9",
+				"Aura de coraje|Paladín|XPHB|10",
+				"Golpes radiantes|Paladín|XPHB|11",
+				"Mejora de característica|Paladín|XPHB|12",
+				"Toque reparador|Paladín|XPHB|14",
 				{
-					"classFeature": "Rasgo de subclase|Paladin|XPHB|15",
+					"classFeature": "Rasgo de subclase|Paladín|XPHB|15",
 					"gainSubclassFeature": true
 				},
-				"Mejora de característica|Paladin|XPHB|16",
-				"Aura Expansion|Paladin|XPHB|18",
-				"Don épico|Paladin|XPHB|19",
+				"Mejora de característica|Paladín|XPHB|16",
+				"Expansión de aura|Paladín|XPHB|18",
+				"Don épico|Paladín|XPHB|19",
 				{
-					"classFeature": "Rasgo de subclase|Paladin|XPHB|20",
+					"classFeature": "Rasgo de subclase|Paladín|XPHB|20",
 					"gainSubclassFeature": true
 				}
 			],
-			"subclassTitle": "Paladin Subclass",
+			"subclassTitle": "Subclase de paladín",
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
@@ -451,7 +451,7 @@
 			"name": "Oath of Devotion",
 			"shortName": "Devotion",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"page": 113,
 			"srd52": true,
@@ -484,10 +484,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Oath of Devotion|Paladin|XPHB|Devotion|XPHB|3",
-				"Aura of Devotion|Paladin|XPHB|Devotion|XPHB|7",
-				"Smite of Protection|Paladin|XPHB|Devotion|XPHB|15",
-				"Holy Nimbus|Paladin|XPHB|Devotion|XPHB|20"
+				"Oath of Devotion|Paladín|XPHB|Devotion|XPHB|3",
+				"Aura of Devotion|Paladín|XPHB|Devotion|XPHB|7",
+				"Smite of Protection|Paladín|XPHB|Devotion|XPHB|15",
+				"Holy Nimbus|Paladín|XPHB|Devotion|XPHB|20"
 			],
 			"hasFluffImages": true
 		},
@@ -495,7 +495,7 @@
 			"name": "Oath of Glory",
 			"shortName": "Glory",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"page": 114,
 			"edition": "one",
@@ -526,10 +526,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Oath of Glory|Paladin|XPHB|Glory|XPHB|3",
-				"Aura of Alacrity|Paladin|XPHB|Glory|XPHB|7",
-				"Glorious Defense|Paladin|XPHB|Glory|XPHB|15",
-				"Living Legend|Paladin|XPHB|Glory|XPHB|20"
+				"Oath of Glory|Paladín|XPHB|Glory|XPHB|3",
+				"Aura of Alacrity|Paladín|XPHB|Glory|XPHB|7",
+				"Glorious Defense|Paladín|XPHB|Glory|XPHB|15",
+				"Living Legend|Paladín|XPHB|Glory|XPHB|20"
 			],
 			"hasFluffImages": true
 		},
@@ -537,7 +537,7 @@
 			"name": "Oath of the Ancients",
 			"shortName": "Ancients",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"page": 115,
 			"edition": "one",
@@ -568,10 +568,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Oath of the Ancients|Paladin|XPHB|Ancients|XPHB|3",
-				"Aura of Warding|Paladin|XPHB|Ancients|XPHB|7",
-				"Undying Sentinel|Paladin|XPHB|Ancients|XPHB|15",
-				"Elder Champion|Paladin|XPHB|Ancients|XPHB|20"
+				"Oath of the Ancients|Paladín|XPHB|Ancients|XPHB|3",
+				"Aura of Warding|Paladín|XPHB|Ancients|XPHB|7",
+				"Undying Sentinel|Paladín|XPHB|Ancients|XPHB|15",
+				"Elder Champion|Paladín|XPHB|Ancients|XPHB|20"
 			],
 			"hasFluffImages": true
 		},
@@ -579,7 +579,7 @@
 			"name": "Oath of Vengeance",
 			"shortName": "Vengeance",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"page": 116,
 			"edition": "one",
@@ -610,79 +610,79 @@
 				}
 			],
 			"subclassFeatures": [
-				"Oath of Vengeance|Paladin|XPHB|Vengeance|XPHB|3",
-				"Relentless Avenger|Paladin|XPHB|Vengeance|XPHB|7",
-				"Soul of Vengeance|Paladin|XPHB|Vengeance|XPHB|15",
-				"Avenging Angel|Paladin|XPHB|Vengeance|XPHB|20"
+				"Oath of Vengeance|Paladín|XPHB|Vengeance|XPHB|3",
+				"Relentless Avenger|Paladín|XPHB|Vengeance|XPHB|7",
+				"Soul of Vengeance|Paladín|XPHB|Vengeance|XPHB|15",
+				"Avenging Angel|Paladín|XPHB|Vengeance|XPHB|20"
 			],
 			"hasFluffImages": true
 		}
 	],
 	"classFeature": [
 		{
-			"name": "Lay on Hands",
+			"name": "Imponer las manos",
 			"source": "XPHB",
-			"page": 109,
+			"page": 157,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a {@variantrule Descanso largo|XPHB}. With that pool, you can restore a total number of {@variantrule Hit Points|XPHB} equal to five times your Paladin level.",
-				"As a {@variantrule Acción adicional|XPHB}, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of {@variantrule Hit Points|XPHB} to that creature, up to the maximum amount remaining in the pool.",
-				"You can also expend 5 {@variantrule Hit Points|XPHB} from the pool of healing power to remove the {@condition Envenenado|XPHB} condition from the creature; those points don't also restore {@variantrule Hit Points|XPHB} to the creature."
+				"Tu toque bendito puede curar heridas. Tienes una reserva de poder de curación que se rellena tras finalizar un {@variantrule descanso largo|XPHB}. Puedes recurrir a esta reserva para restaurar tantos puntos de golpe como cinco veces tu nivel de paladín.",
+				"Como acción adicional, puedes tocar a una criatura (que puedes ser tú) y extraer energía de la reserva de curación para hacer que esa criatura recupere una cantidad de puntos de golpe, que como máximo será la cantidad que te quede en dicha reserva.",
+				"También puedes gastar 5 puntos de golpe de la reserva para eliminar el estado de {@condition Envenenado|XPHB|envenenada} de la criatura, pero esos puntos gastados no restaurarán puntos de golpe."
 			]
 		},
 		{
-			"name": "Spellcasting",
+			"name": "Lanzamiento de conjuros",
 			"source": "XPHB",
-			"page": 109,
+			"page": 157,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have learned to cast spells through prayer and meditation. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Paladin spells, which appear in the {@filter Paladin spell list|spells|class=Paladin} later in the class's description.",
+				"Has aprendido a lanzar conjuros gracias a la oración y la meditación. Consulta el capítulo 7 para ver las reglas sobre el lanzamiento de conjuros. La información presentada a continuación detalla cómo usar esas reglas con los {@filter conjuros de paladín|spells|class=paladín}, que encontrarás más adelante en la lista de conjuros de paladín de la descripción de la clase.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Spell Slots",
+							"name": "Espacios de conjuro",
 							"entries": [
-								"The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Descanso largo|XPHB}."
+								"La tabla “Rasgos de paladín” muestra cuántos espacios de conjuro tienes para lanzar tus conjuros de nivel 1 y superiores. Recuperas todos los espacios utilizados tras finalizar un descanso largo."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Prepared Spells of Level 1+",
+							"name": "Conjuros preparados de nivel 1 y superiores",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two {@filter level 1 Paladin spells|spells|class=Paladin|level=1}. {@spell Heroísmo|XPHB} and {@spell Searing Smite|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.",
-								"If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you."
+								"Preparas una serie de conjuros de nivel 1 y superiores, que son los que podrás lanzar con este rasgo. Para empezar, elige dos conjuros de paladín de nivel 1. Se recomiendan {@spell castigo abrasador|XPHB} y {@spell heroísmo|XPHB}.",
+								"El número de conjuros de tu lista aumenta conforme subes de nivel de paladín, como se muestra en la columna “{@filter Conjuros preparados|spells|class=paladín}” de la tabla “Rasgos de paladín”. abandonan sus ocupaciones anteriores y se equipanCuando ese número aumente, elige conjuros de paladín adicionales hasta que el número de conjuros de tu lista coincida con el número de la tabla “Rasgos de paladín”. Estos conjuros deben ser de un nivel para el que tengas espacios de conjuro. Por ejemplo, si eres un paladín de nivel 5, podrías preparar cualquier combinación de seis conjuros de paladín de nivel 1 o 2.",
+								"Si otro rasgo de paladín te proporciona conjuros que siempre tienes preparados, esos conjuros no cuentan para el total que puedes preparar con este rasgo, pero sí que cuentan como conjuros de paladín para ti."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Changing Your Prepared Spells",
+							"name": "Cambiar los conjuros preparados",
 							"entries": [
-								"Whenever you finish a {@variantrule Descanso largo|XPHB}, you can replace one spell on your list with another Paladin spell for which you have spell slots."
+								"Tras finalizar un descanso largo, puedes sustituir un conjuro de tu lista por otro conjuro de paladín para el que tengas espacios de conjuro."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Spellcasting Ability",
+							"name": "Aptitud mágica",
 							"entries": [
-								"Charisma is your spellcasting ability for your Paladin spells."
+								"El Carisma es tu aptitud mágica en lo que respecta a tus conjuros de paladín."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Canalizador mágico",
 							"entries": [
-								"You can use a {@item Holy Symbol|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Paladin spells."
+								"Puedes utilizar un {@item símbolo sagrado|XPHB} como canalizador mágico para tus conjuros de paladín."
 							]
 						}
 					]
@@ -690,30 +690,30 @@
 			]
 		},
 		{
-			"name": "Weapon Mastery",
+			"name": "Maestría con armas",
 			"source": "XPHB",
-			"page": 110,
+			"page": 158,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Your training with weapons allows you to use the {@variantrule propiedades de maestría con armas|XPHB|mastery properties} of two kinds of {@filter weapons|items|type=arma sencilla;arma marcial} of your choice with which you have proficiency, such as {@item Espada larga|XPHB|Longswords} and {@item Jabalina|XPHB|Javelins}.",
-				"Whenever you finish a {@variantrule Descanso largo|XPHB}, you can change the kinds of weapons you chose. For example, you could switch to using the {@variantrule propiedades de maestría con armas|XPHB|mastery properties} of {@item Alabarda|XPHB|Halberds} and {@item Mangual|XPHB|Flails}."
+				"Tu entrenamiento con armas te permite utilizar las {@variantrule propiedades de maestría con armas|XPHB|propiedades de maestría} con dos tipos de {@filter armas|items|type=sencilla;marcial} de tu elección con las que tengas competencia, como {@item Espada larga|XPHB|espadas largas} y {@item Jabalina|XPHB|jabalinas}.",
+				"Tras finalizar un {@variantrule descanso largo|XPHB}, puedes cambiar los tipos de armas elegidas. Por ejemplo, podrías pasar a utilizar las propiedades de maestría con {@item Alabarda|XPHB|alabardas} y {@item Mangual|XPHB|manguales}."
 			]
 		},
 		{
-			"name": "Fighting Style",
+			"name": "Estilo de combate",
 			"source": "XPHB",
-			"page": 110,
+			"page": 158,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You gain a {@filter Dote de Estilo de Combate|feats|category=EC} of your choice. Instead of choosing one of those feats, you can choose the option below.",
+				"Obtienes una {@filter Dote de Estilo de Combate|feats|category=EC} de tu elección (consulta las dotes en el capítulo 5). En lugar de elegir una de esas dotes, puedes elegir la opción presentada a continuación.",
 				{
 					"type": "entries",
 					"entries": [
@@ -726,76 +726,76 @@
 			]
 		},
 		{
-			"name": "Paladin's Smite",
+			"name": "Castigo de paladín",
 			"source": "XPHB",
-			"page": 110,
+			"page": 158,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You always have the {@spell Divine Smite|XPHB} spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a {@variantrule Descanso largo|XPHB} before you can cast it in this way again."
+				"Siempre tienes el conjuro {@spell castigo divino|XPHB} preparado. Además, puedes lanzarlo sin gastar un espacio de conjuro, pero debes finalizar un {@variantrule descanso largo|XPHB} antes de poder volver a lanzarlo de este modo."
 			]
 		},
 		{
-			"name": "Channel Divinity",
+			"name": "Canalizar divinidad",
 			"source": "XPHB",
-			"page": 110,
+			"page": 158,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class's Channel Divinity, you choose which effect from this class to create.",
-				"You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a {@variantrule Descanso corto|XPHB}, and you regain all expended uses when you finish a {@variantrule Descanso largo|XPHB}. You gain an additional use when you reach Paladin level 11.",
-				"If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.",
+				"Puedes canalizar energía divina directamente de los Planos Exteriores para alimentar varios efectos mágicos. Empiezas con uno de esos efectos: Sentidos divinos, que se describe a continuación. Otros rasgos de paladín ofrecen opciones adicionales como efectos de Canalizar divinidad. Cada vez que utilices el rasgo Canalizar divinidad de esta clase, elige qué efecto de esta clase creas.",
+				"Puedes usar el rasgo Canalizar divinidad dos veces. Recuperas uno de los usos gastados tras finalizar un {@variantrule descanso corto|XPHB} y todos tras finalizar un {@variantrule descanso largo|XPHB}. Obtienes un uso adicional cuando alcances el nivel 11 de paladín.",
+				"Si un efecto de Canalizar divinidad requiere una tirada de salvación, la CD será igual a la CD de salvación de conjuros del rasgo Lanzamiento de conjuros de esta clase.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "refClassFeature",
-							"classFeature": "Divine Sense|Paladin|XPHB|3|XPHB"
+							"classFeature": "Sentidos divinos|Paladín|XPHB|3|XPHB"
 						}
 					]
 				}
 			]
 		},
 		{
-			"name": "Divine Sense",
+			"name": "Sentidos divinos",
 			"source": "XPHB",
-			"page": 110,
+			"page": 158,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 3,
 			"consumes": {
-				"name": "Channel Divinity"
+				"name": "Canalizar divinidad"
 			},
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the {@condition Incapacitado|XPHB} condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the {@spell Hallow|XPHB} spell."
+				"Como acción adicional, puedes expandir tu percepción para detectar celestiales, infernales y muertos vivientes. Durante los siguientes 10 minutos o hasta que tengas el estado de {@condition incapacitado|XPHB}, conoces la ubicación de cualquier criatura de esos tipos que se encuentre a 60 pies (18 m) o menos de ti y su tipo de criatura. En el mismo radio, también detectarás la presencia de cualquier lugar u objeto que haya sido consagrado o profanado, como con el conjuro {@spell consagrar|XPHB},"
 			]
 		},
 		{
-			"name": "Paladin Subclass",
+			"name": "Subclase de paladín",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Paladin subclass of your choice. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level or lower.",
+				"Consigues una subclase de paladín de tu elección. Una subclase es una especialización que te proporciona rasgos cuando alcanzas ciertos niveles de paladín. De aquí en adelante, obtienes todos los rasgos de tu subclase que sean de tu nivel de paladín e inferiores.",
 				{
 					"type": "inset",
-					"name": "Breaking Your Oath",
+					"name": "ROMPER TU JURAMENTO",
 					"entries": [
-						"A Paladin tries to hold to the highest standards of conduct, but even the most dedicated are fallible. Sometimes a Paladin transgresses their oath.",
-						"A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.",
-						"If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one."
+						"Los paladines siempre intentan alcanzar los más altos estándares de conducta, pero incluso los más entregados pueden fallar. A veces, un paladín quebranta su juramento.",
+						"Un paladín que rompe sus votos tiende a buscar la absolución. Para ello, y en señal de penitencia, pasa la noche en vela o lleva a cabo un ayuno. Tras finalizar el rito del perdón, el paladín puede hacer borrón y cuenta nueva.",
+						"Si tu paladín rompe su juramento y no se arrepiente, habla con tu DM. Tu paladín probablemente debería buscar una subclase más apropiada o incluso abandonar la clase y adoptar otra."
 					]
 				}
 			]
@@ -803,23 +803,23 @@
 		{
 			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. You gain this feature again at Paladin levels 8, 12, and 16."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. Vuelves a obtener este rasgo en los niveles 8, 12 y 16 de paladín."
 			]
 		},
 		{
-			"name": "Extra Attack",
+			"name": "Ataque adicional",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
@@ -827,54 +827,54 @@
 			]
 		},
 		{
-			"name": "Faithful Steed",
+			"name": "Corcel fiel",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"You can call on the aid of an otherworldly steed. You always have the {@spell Find Steed|XPHB} spell prepared.",
-				"You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a {@variantrule Descanso largo|XPHB}."
+				"Puedes invocar la ayuda de un corcel sobrenatural. Siempre tienes el conjuro {@spell hallar corcel|XPHB} preparado.",
+				"También puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo tras finalizar un {@variantrule descanso largo|XPHB}."
 			]
 		},
 		{
-			"name": "Aura of Protection",
+			"name": "Aura de protección",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You radiate a protective, unseeable aura in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} that originates from you. The aura is inactive while you have the {@condition Incapacitado|XPHB} condition.",
-				"You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1).",
-				"If another Paladin is present, a creature can benefit from only one Aura of Protection at a time; the creature chooses which aura while in them."
+				"Irradias un aura protectora e invisible en una emanación de 10 pies (3 m) que se origina de ti. El aura estará inactiva mientras tengas el estado de {@condition incapacitado|XPHB}.",
+				"Tus aliados dentro del aura y tú obtenéis un bonificador a las tiradas de salvación igual a tu modificador por Carisma (mínimo de +1).",
+				"Si hay otro paladín presente, una criatura solo puede beneficiarse de un Aura de protección a la vez; esa criatura elegirá cuál de ellas mientras esté dentro de ambas."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"You gain a feature from your Paladin Subclass."
+				"Obtienes un rasgo de tu subclase de paladín"
 			]
 		},
 		{
 			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
@@ -882,54 +882,54 @@
 			]
 		},
 		{
-			"name": "Abjure Foes",
+			"name": "Abjurar de los enemigos",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 9,
 			"consumes": {
-				"name": "Channel Divinity"
+				"name": "Canalizar divinidad"
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your {@item Holy Symbol|XPHB} or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the {@condition Asustado|XPHB} condition for 1 minute or until it takes any damage. While {@condition Asustado|XPHB} in this way, a target can do only one of the following on its turns: move, take an action, or take a {@variantrule Acción adicional|XPHB}."
+				"Como acción de magia, puedes gastar uno de los usos de Canalizar divinidad de esta clase para sobrecoger a tus enemigos. Mientras muestras tu {@item símbolo sagrado|XPHB} o arma, puedes hacer objetivo a una cantidad de criaturas que puedas ver a 60 pies (18 m) o menos de ti igual a tu modificador por Carisma (mínimo una criatura). Cada objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition asustado|XPHB} durante 1 minuto o hasta recibir daño. Mientras esté asustado de esta forma, un objetivo solo podrá hacer una de estas opciones en sus turnos: moverse, realizar una acción o realizar una acción adicional."
 			]
 		},
 		{
-			"name": "Aura of Courage",
+			"name": "Aura de coraje",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You and your allies have {@variantrule Immunity|XPHB} to the {@condition Asustado|XPHB} condition while in your Aura of Protection. If a {@condition Asustado|XPHB} ally enters the aura, that condition has no effect on that ally while there."
+				"Tus aliados y tú tenéis inmunidad al estado de {@condition Asustado|XPHB|asustados} mientras estéis dentro de tu Aura de protección. Si un aliado {@condition asustado|XPHB} entra en el aura, ese estado no tendrá efecto en él mientras esté dentro."
 			]
 		},
 		{
-			"name": "Radiant Strikes",
+			"name": "Golpes radiantes",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an {@variantrule Unarmed Strike|XPHB}, the target takes an extra {@damage 1d8} Radiant damage."
+				"Ahora, tus golpes tienen un poder sobrenatural. Cuando aciertes a un objetivo con una tirada de ataque usando un arma cuerpo a cuerpo o un ataque sin armas, el objetivo recibirá {@damage 1d8} de daño radiante adicional."
 			]
 		},
 		{
 			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
@@ -937,38 +937,38 @@
 			]
 		},
 		{
-			"name": "Restoring Touch",
+			"name": "Toque reparador",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: {@condition Cegado|XPHB}, {@condition Hechizado|XPHB}, {@condition Ensordecido|XPHB}, {@condition Asustado|XPHB}, {@condition Paralizado|XPHB}, or {@condition Aturdido|XPHB}. You must expend 5 {@variantrule Hit Points|XPHB} from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore {@variantrule Hit Points|XPHB} to the creature."
+				"Cuando uses Imponer las manos sobre una criatura, también podrás eliminar uno o más de los siguientes estados que la afecten: {@condition asustado|XPHB}, {@condition aturdido|XPHB}, {@condition cegado|XPHB}, {@condition ensordecido|XPHB}, {@condition hechizado|XPHB} o {@condition paralizado|XPHB}. Deberás gastar 5 puntos de golpe de la reserva de curación de Imponer las manos por cada uno de los estados que elimines, pero esos puntos gastados no restaurarán puntos de golpe."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"You gain a feature from your Paladin Subclass."
+				"Obtienes un rasgo de tu subclase de paladín"
 			]
 		},
 		{
 			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
@@ -976,42 +976,42 @@
 			]
 		},
 		{
-			"name": "Aura Expansion",
+			"name": "Expansión de aura",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 18,
 			"entries": [
-				"Your Aura of Protection is now a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation}."
+				"Tu Aura de protección ahora es una emanación de 30 pies (9 m)."
 			]
 		},
 		{
 			"name": "Don épico",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Don de la visión verdadera|XPHB} is recommended."
+				"Obtienes una {@filter dote de don épico|feats|category=DE} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. Se recomienda {@feat Don de la visión verdadera|XPHB}."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 111,
+			"page": 159,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"You gain a feature from your Paladin Subclass."
+				"Obtienes un rasgo de tu subclase de paladín"
 			]
 		}
 	],
@@ -1020,23 +1020,23 @@
 			"name": "Nature's Wrath",
 			"source": "XPHB",
 			"page": 115,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Ancients",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"consumes": {
-				"name": "Channel Divinity"
+				"name": "Canalizar divinidad"
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend one use of your Channel Divinity to conjure spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of yourself must succeed on a Strength saving throw or have the {@condition Apresado|XPHB} condition for 1 minute. A {@condition Apresado|XPHB} creature repeats the save at the end of each of its turns, ending the effect on itself on a success."
+				"As a {@action Magic|XPHB} action, you can expend one use of your Canalizar divinidad to conjure spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of yourself must succeed on a Strength saving throw or have the {@condition Apresado|XPHB} condition for 1 minute. A {@condition Apresado|XPHB} creature repeats the save at the end of each of its turns, ending the effect on itself on a success."
 			]
 		},
 		{
 			"name": "Oath of the Ancients",
 			"source": "XPHB",
 			"page": 115,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Ancients",
 			"subclassSource": "XPHB",
@@ -1055,11 +1055,11 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Oath of the Ancients Spells|Paladin|XPHB|Ancients|XPHB|3"
+					"subclassFeature": "Oath of the Ancients Spells|Paladín|XPHB|Ancients|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Nature's Wrath|Paladin|XPHB|Ancients|XPHB|3"
+					"subclassFeature": "Nature's Wrath|Paladín|XPHB|Ancients|XPHB|3"
 				}
 			]
 		},
@@ -1067,7 +1067,7 @@
 			"name": "Oath of the Ancients Spells",
 			"source": "XPHB",
 			"page": 115,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Ancients",
 			"subclassSource": "XPHB",
@@ -1114,21 +1114,21 @@
 			"name": "Aura of Warding",
 			"source": "XPHB",
 			"page": 116,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Ancients",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have {@variantrule Resistance|XPHB} to Necrotic, Psychic, and Radiant damage while in your Aura of Protection."
+				"Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have {@variantrule Resistance|XPHB} to Necrotic, Psychic, and Radiant damage while in your Aura de protección."
 			]
 		},
 		{
 			"name": "Undying Sentinel",
 			"source": "XPHB",
 			"page": 116,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Ancients",
 			"subclassSource": "XPHB",
@@ -1143,19 +1143,19 @@
 			"name": "Elder Champion",
 			"source": "XPHB",
 			"page": 116,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Ancients",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+				"As a {@variantrule Acción adicional|XPHB}, you can imbue your Aura de protección with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
 				{
 					"type": "entries",
 					"name": "Diminish Defiance",
 					"entries": [
-						"Enemies in the aura have {@variantrule Disadvantage|XPHB} on saving throws against your spells and Channel Divinity options."
+						"Enemies in the aura have {@variantrule Disadvantage|XPHB} on saving throws against your spells and Canalizar divinidad options."
 					]
 				},
 				{
@@ -1180,7 +1180,7 @@
 			"page": 113,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Devotion",
 			"subclassSource": "XPHB",
@@ -1200,11 +1200,11 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Oath of Devotion Spells|Paladin|XPHB|Devotion|XPHB|3"
+					"subclassFeature": "Oath of Devotion Spells|Paladín|XPHB|Devotion|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Sacred Weapon|Paladin|XPHB|Devotion|XPHB|3"
+					"subclassFeature": "Sacred Weapon|Paladín|XPHB|Devotion|XPHB|3"
 				}
 			]
 		},
@@ -1214,7 +1214,7 @@
 			"page": 113,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Devotion",
 			"subclassSource": "XPHB",
@@ -1263,16 +1263,16 @@
 			"page": 113,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Devotion",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"consumes": {
-				"name": "Channel Divinity"
+				"name": "Canalizar divinidad"
 			},
 			"entries": [
-				"When you take the {@action Attack|XPHB} action, you can expend one use of your Channel Divinity to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.",
+				"When you take the {@action Attack|XPHB} action, you can expend one use of your Canalizar divinidad to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.",
 				"The weapon also emits {@variantrule Luz brillante|XPHB} in a 20-foot radius and {@variantrule Luz tenue|XPHB} 20 feet beyond that.",
 				"You can end this effect early (no action required). This effect also ends if you aren't carrying the weapon."
 			]
@@ -1283,14 +1283,14 @@
 			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Devotion",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"You and your allies have {@variantrule Immunity|XPHB} to the {@condition Hechizado|XPHB} condition while in your Aura of Protection. If a {@condition Hechizado|XPHB} ally enters the aura, that condition has no effect on that ally while there."
+				"You and your allies have {@variantrule Immunity|XPHB} to the {@condition Hechizado|XPHB} condition while in your Aura de protección. If a {@condition Hechizado|XPHB} ally enters the aura, that condition has no effect on that ally while there."
 			]
 		},
 		{
@@ -1299,14 +1299,14 @@
 			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Devotion",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Your magical smite now radiates protective energy. Whenever you cast {@spell Divine Smite|XPHB}, you and your allies have {@variantrule Cobertura|XPHB|Half Cover} while in your Aura of Protection. The aura has this benefit until the start of your next turn."
+				"Your magical smite now radiates protective energy. Whenever you cast {@spell Castigo divino|XPHB}, you and your allies have {@variantrule Cobertura|XPHB|Half Cover} while in your Aura de protección. The aura has this benefit until the start of your next turn."
 			]
 		},
 		{
@@ -1315,14 +1315,14 @@
 			"page": 114,
 			"srd52": true,
 			"basicRules2024": true,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Devotion",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+				"As a {@variantrule Acción adicional|XPHB}, you can imbue your Aura de protección with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
 				{
 					"type": "entries",
 					"name": "Holy Ward",
@@ -1350,23 +1350,23 @@
 			"name": "Inspiring Smite",
 			"source": "XPHB",
 			"page": 115,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"consumes": {
-				"name": "Channel Divinity"
+				"name": "Canalizar divinidad"
 			},
 			"entries": [
-				"Immediately after you cast {@spell Divine Smite|XPHB}, you can expend one use of your Channel Divinity and distribute {@variantrule Temporary Hit Points|XPHB} to creatures of your choice within 30 feet of yourself, which can include you. The total number of {@variantrule Temporary Hit Points|XPHB} equals {@dice 2d8} plus your Paladin level, divided among the chosen creatures however you like."
+				"Immediately after you cast {@spell Castigo divino|XPHB}, you can expend one use of your Canalizar divinidad and distribute {@variantrule Temporary Hit Points|XPHB} to creatures of your choice within 30 feet of yourself, which can include you. The total number of {@variantrule Temporary Hit Points|XPHB} equals {@dice 2d8} plus your Paladin level, divided among the chosen creatures however you like."
 			]
 		},
 		{
 			"name": "Oath of Glory",
 			"source": "XPHB",
 			"page": 114,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
 			"subclassSource": "XPHB",
@@ -1385,15 +1385,15 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Oath of Glory Spells|Paladin|XPHB|Glory|XPHB|3"
+					"subclassFeature": "Oath of Glory Spells|Paladín|XPHB|Glory|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Inspiring Smite|Paladin|XPHB|Glory|XPHB|3"
+					"subclassFeature": "Inspiring Smite|Paladín|XPHB|Glory|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Peerless Athlete|Paladin|XPHB|Glory|XPHB|3"
+					"subclassFeature": "Peerless Athlete|Paladín|XPHB|Glory|XPHB|3"
 				}
 			]
 		},
@@ -1401,7 +1401,7 @@
 			"name": "Oath of Glory Spells",
 			"source": "XPHB",
 			"page": 115,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
 			"subclassSource": "XPHB",
@@ -1448,23 +1448,23 @@
 			"name": "Peerless Athlete",
 			"source": "XPHB",
 			"page": 115,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"consumes": {
-				"name": "Channel Divinity"
+				"name": "Canalizar divinidad"
 			},
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have {@variantrule Advantage|XPHB} on Strength ({@skill Athletics|XPHB}) and Dexterity ({@skill Acrobatics|XPHB}) checks, and the distance of your Long and Salto de alturas increases by 10 feet (this extra distance costs movement as normal)."
+				"As a {@variantrule Acción adicional|XPHB}, you can expend one use of your Canalizar divinidad to augment your athleticism. For 1 hour, you have {@variantrule Advantage|XPHB} on Strength ({@skill Athletics|XPHB}) and Dexterity ({@skill Acrobatics|XPHB}) checks, and the distance of your Long and Salto de alturas increases by 10 feet (this extra distance costs movement as normal)."
 			]
 		},
 		{
 			"name": "Aura of Alacrity",
 			"source": "XPHB",
 			"page": 115,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
 			"subclassSource": "XPHB",
@@ -1472,14 +1472,14 @@
 			"header": 2,
 			"entries": [
 				"Your Speed increases by 10 feet.",
-				"In addition, whenever an ally enters your Aura of Protection for the first time on a turn or starts their turn there, the ally's {@variantrule Velocidad|XPHB} increases by 10 feet until the end of their next turn."
+				"In addition, whenever an ally enters your Aura de protección for the first time on a turn or starts their turn there, the ally's {@variantrule Velocidad|XPHB} increases by 10 feet until the end of their next turn."
 			]
 		},
 		{
 			"name": "Glorious Defense",
 			"source": "XPHB",
 			"page": 115,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
 			"subclassSource": "XPHB",
@@ -1494,7 +1494,7 @@
 			"name": "Living Legend",
 			"source": "XPHB",
 			"page": 115,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
 			"subclassSource": "XPHB",
@@ -1529,7 +1529,7 @@
 			"name": "Oath of Vengeance",
 			"source": "XPHB",
 			"page": 116,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Vengeance",
 			"subclassSource": "XPHB",
@@ -1548,11 +1548,11 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Oath of Vengeance Spells|Paladin|XPHB|Vengeance|XPHB|3"
+					"subclassFeature": "Oath of Vengeance Spells|Paladín|XPHB|Vengeance|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Vow of Enmity|Paladin|XPHB|Vengeance|XPHB|3"
+					"subclassFeature": "Vow of Enmity|Paladín|XPHB|Vengeance|XPHB|3"
 				}
 			]
 		},
@@ -1560,7 +1560,7 @@
 			"name": "Oath of Vengeance Spells",
 			"source": "XPHB",
 			"page": 116,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Vengeance",
 			"subclassSource": "XPHB",
@@ -1607,16 +1607,16 @@
 			"name": "Vow of Enmity",
 			"source": "XPHB",
 			"page": 117,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Vengeance",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"consumes": {
-				"name": "Channel Divinity"
+				"name": "Canalizar divinidad"
 			},
 			"entries": [
-				"When you take the {@action Attack|XPHB} action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have {@variantrule Advantage|XPHB} on attack rolls against the creature for 1 minute or until you use this feature again.",
+				"When you take the {@action Attack|XPHB} action, you can expend one use of your Canalizar divinidad to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have {@variantrule Advantage|XPHB} on attack rolls against the creature for 1 minute or until you use this feature again.",
 				"If the creature drops to 0 {@variantrule Hit Points|XPHB} before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required)."
 			]
 		},
@@ -1624,7 +1624,7 @@
 			"name": "Relentless Avenger",
 			"source": "XPHB",
 			"page": 117,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Vengeance",
 			"subclassSource": "XPHB",
@@ -1638,7 +1638,7 @@
 			"name": "Soul of Vengeance",
 			"source": "XPHB",
 			"page": 117,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Vengeance",
 			"subclassSource": "XPHB",
@@ -1652,7 +1652,7 @@
 			"name": "Avenging Angel",
 			"source": "XPHB",
 			"page": 117,
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Vengeance",
 			"subclassSource": "XPHB",
@@ -1671,7 +1671,7 @@
 					"type": "entries",
 					"name": "Frightful Aura",
 					"entries": [
-						"Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the {@condition Asustado|XPHB} condition for 1 minute or until it takes any damage. {@action Attack|XPHB} rolls against the {@condition Asustado|XPHB} creature have {@variantrule Advantage|XPHB}."
+						"Whenever an enemy starts its turn in your Aura de protección, that creature must succeed on a Wisdom saving throw or have the {@condition Asustado|XPHB} condition for 1 minute or until it takes any damage. {@action Attack|XPHB} rolls against the {@condition Asustado|XPHB} creature have {@variantrule Advantage|XPHB}."
 					]
 				}
 			]

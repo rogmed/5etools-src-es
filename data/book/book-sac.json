@@ -457,10 +457,10 @@
 										},
 										{
 											"type": "entries",
-											"name": "If you use Great Weapon Fighting with a feature like Divine Smite or a spell like hex, do you get to reroll any 1 or 2 you roll for the extra damage?",
+											"name": "If you use Great Weapon Fighting with a feature like Castigo divino or a spell like hex, do you get to reroll any 1 or 2 you roll for the extra damage?",
 											"id": "031",
 											"entries": [
-												"The Great Weapon Fighting feature\u2014which is shared by fighters and paladins\u2014is meant to benefit only the damage roll of the weapon used with the feature. For example, if you use a {@item greatsword|PHB} with the feature, you can reroll any 1 or 2 you roll on the weapon's {@dice 2d6}. If you're a paladin and use Divine Smite with the greatsword, Great Weapon Fighting doesn't let you reroll a 1 or 2 that you roll for the damage of Divine Smite."
+												"The Great Weapon Fighting feature\u2014which is shared by fighters and paladins\u2014is meant to benefit only the damage roll of the weapon used with the feature. For example, if you use a {@item greatsword|PHB} with the feature, you can reroll any 1 or 2 you roll on the weapon's {@dice 2d6}. If you're a paladin and use Castigo divino with the greatsword, Great Weapon Fighting doesn't let you reroll a 1 or 2 that you roll for the damage of Castigo divino."
 											]
 										},
 										{
@@ -595,7 +595,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "Paladin",
+									"name": "Paladín",
 									"id": "041",
 									"entries": [
 										{
@@ -608,19 +608,19 @@
 										},
 										{
 											"type": "entries",
-											"name": "Can my paladin use a smite spell along with Divine Smite? As in, I cast wrathful smite, hit, then use Divine Smite on the same attack?",
+											"name": "Can my paladin use a smite spell along with Castigo divino? As in, I cast wrathful smite, hit, then use Castigo divino on the same attack?",
 											"id": "043",
 											"entries": [
-												"Yes, you can use Divine Smite on the same weapon attack that benefits from a smite spell, such as {@spell wrathful smite}\u2014as long as the attack you make after casting the smite spell is a melee weapon attack. Divine Smite doesn't work with any other kind of attack."
+												"Yes, you can use Castigo divino on the same weapon attack that benefits from a smite spell, such as {@spell wrathful smite}\u2014as long as the attack you make after casting the smite spell is a melee weapon attack. Castigo divino doesn't work with any other kind of attack."
 											]
 										},
 										{
 											"type": "entries",
-											"name": "Can a paladin use Divine Smite when they hit using an unarmed strike?",
+											"name": "Can a paladin use Castigo divino when they hit using an unarmed strike?",
 											"entries": [
-												"No. Divine Smite requires a melee attack using a weapon. The rules don't consider unarmed strikes to be weapons.",
-												"Divine Smite does work with a melee weapon attack, and an unarmed strike can be used to make such an attack. But the text of Divine Smite also refers to the \"weapon's damage,\" and an unarmed strike isn't a weapon.",
-												"If a DM decides to override this rule, no imbalance is created. Tying Divine Smite to weapons was a thematic choice on our part\u2014paladins being traditionally associated with weapons. It was not a game balance choice."
+												"No. Castigo divino requires a melee attack using a weapon. The rules don't consider unarmed strikes to be weapons.",
+												"Castigo divino does work with a melee weapon attack, and an unarmed strike can be used to make such an attack. But the text of Castigo divino also refers to the \"weapon's damage,\" and an unarmed strike isn't a weapon.",
+												"If a DM decides to override this rule, no imbalance is created. Tying Castigo divino to weapons was a thematic choice on our part\u2014paladins being traditionally associated with weapons. It was not a game balance choice."
 											],
 											"id": "142"
 										}
@@ -1257,7 +1257,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Does the benefit of the Savage Attacker feat apply to additional effects like the rogue's Sneak Attack or the paladin's Divine Smite?",
+											"name": "Does the benefit of the Savage Attacker feat apply to additional effects like the rogue's Sneak Attack or the paladin's Castigo divino?",
 											"id": "08e",
 											"entries": [
 												"No. The benefit of {@feat Savage Attacker} applies only to rolls of the weapon's damage dice, not to any extra damage that a feature or other ability might grant."
@@ -2045,7 +2045,7 @@
 											"entries": [
 												"If a spell has a material component, you need to handle that {@book component|PHB|10|Components} when you cast the spell. The same rule applies if you're using a spellcasting focus as the material component.",
 												"If a spell has a somatic component, you can use the hand that performs the somatic component to also handle the material component. For example, a wizard who uses an {@item orb|PHB} as a spellcasting focus could hold a {@item quarterstaff|PHB} in one hand and the orb in the other, and he could cast {@spell relámpago} by using the orb as the spell's material component and the orb hand to perform the spell's somatic component.",
-												"Another example: a cleric's {@item holy symbol|PHB} is emblazoned on her {@item shield|PHB}. She likes to wade into melee combat with a {@item mace|PHB} in one hand and a shield in the other. She uses the holy symbol as her spellcasting focus, so she needs to have the shield in hand when she casts a cleric spell that has a material component. If the spell, such as {@spell aid}, also has a somatic component, she can perform that component with the shield hand and keep holding the mace in the other.",
+												"Another example: a cleric's {@item símbolo sagrado|PHB} is emblazoned on her {@item shield|PHB}. She likes to wade into melee combat with a {@item mace|PHB} in one hand and a shield in the other. She uses the holy symbol as her spellcasting focus, so she needs to have the shield in hand when she casts a cleric spell that has a material component. If the spell, such as {@spell aid}, also has a somatic component, she can perform that component with the shield hand and keep holding the mace in the other.",
 												"If the same cleric casts {@spell cure wounds}, she needs to put the {@item mace|PHB} or the {@item shield|PHB} away, because that spell doesn't have a material component but does have a somatic component. She's going to need a free hand to make the spell's gestures. If she had the {@feat War Caster} feat, she could ignore this restriction."
 											]
 										}

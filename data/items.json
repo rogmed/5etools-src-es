@@ -113,13 +113,13 @@
 			]
 		},
 		{
-			"name": "Amulet",
+			"name": "Amuleto",
 			"group": [
-				"Holy Symbol"
+				"Símbolo sagrado"
 			],
 			"originalname": "",
 			"source": "XPHB",
-			"page": 226,
+			"page": 228,
 			"srd52": true,
 			"basicRules2024": true,
 			"type": "SCF|XPHB",
@@ -128,7 +128,7 @@
 			"weight": 1,
 			"value": 500,
 			"entries": [
-				"For an Amulet to be an effective Holy Symbol, it must be worn or held."
+				"Para que un amuleto sea efectivo como símbolo sagrado debes llevarlo puesto o sostenido."
 			]
 		},
 		{
@@ -271,8 +271,8 @@
 			]
 		},
 		{
-			"name": "Blanket",
-			"originalname": "",
+			"name": "Manta",
+			"originalname": "Blanket",
 			"source": "XPHB",
 			"page": 224,
 			"srd52": true,
@@ -282,7 +282,7 @@
 			"weight": 3,
 			"value": 50,
 			"entries": [
-				"While wrapped in a blanket, you have {@variantrule Advantage|XPHB} on saving throws against {@hazard extreme cold|XDMG} (see the {@book Dungeon Master\u0027s Guide|XDMG})."
+				"Mientras te envuelvas en una manta, tendrás ventaja en las tiradas de salvación contra el frío extremo (consulta la Guía del Dungeon Master)."
 			]
 		},
 		{
@@ -931,7 +931,7 @@
 			"weight": 39,
 			"value": 3900,
 			"entries": [
-				"A Diplomat\u0027s Pack contains the following items: {@item Chest|XPHB}, {@item Fine Clothes|XPHB}, {@item Ink|XPHB}, 5 {@item Ink Pen|XPHB|Ink Pens}, {@item Lamp|XPHB}, 2 {@item Map or Scroll Case|XPHB|Map or Scroll Cases}, 4 flasks of {@item Aceite|XPHB}, 5 sheets of {@item Paper|XPHB}, 5 sheets of {@item Parchment|XPHB}, {@item Perfume|XPHB}, and {@item Yesquero|XPHB}."
+				"A Diplomat\u0027s Pack contains the following items: {@item Chest|XPHB}, {@item Fine Clothes|XPHB}, {@item Ink|XPHB}, 5 {@item Ink Pen|XPHB|Ink Pens}, {@item lámpara|XPHB}, 2 {@item Map or Scroll Case|XPHB|Map or Scroll Cases}, 4 flasks of {@item Aceite|XPHB}, 5 sheets of {@item Paper|XPHB}, 5 sheets of {@item Parchment|XPHB}, {@item Perfume|XPHB}, and {@item Yesquero|XPHB}."
 			],
 			"packContents": [
 				"chest|xphb",
@@ -941,7 +941,7 @@
 					"item": "ink pen|xphb",
 					"quantity": 5
 				},
-				"lamp|xphb",
+				"Lámpara|xphb",
 				{
 					"item": "map or scroll case|xphb",
 					"quantity": 2
@@ -1097,9 +1097,9 @@
 			"speed": 40
 		},
 		{
-			"name": "Emblem",
+			"name": "Emblema",
 			"group": [
-				"Holy Symbol"
+				"Símbolo sagrado"
 			],
 			"originalname": "",
 			"source": "XPHB",
@@ -1111,7 +1111,7 @@
 			"rarity": "none",
 			"value": 500,
 			"entries": [
-				"For an Emblem to be an effective Holy Symbol, it must be borne on fabric (such as a tabard or banner) or a {@item Shield|XPHB}."
+				"Para que un emblema sea efectivo como símbolo sagrado, debes mostrarlo en tela (como un tabardo o un estandarte) o en un {@item escudo|XPHB}."
 			]
 		},
 		{
@@ -1447,10 +1447,10 @@
 			]
 		},
 		{
-			"name": "Holy Water",
-			"originalname": "",
+			"name": "Agua bendita",
+			"originalname": "Holy Water",
 			"source": "XPHB",
-			"page": 226,
+			"page": 224,
 			"srd52": true,
 			"basicRules2024": true,
 			"type": "G|XPHB",
@@ -1458,7 +1458,7 @@
 			"weight": 1,
 			"value": 2500,
 			"entries": [
-				"When you take the {@action Attack|XPHB} action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw ({@dc 8} plus your Dexterity modifier and {@variantrule Competencia|XPHB|Proficiency Bonus}) or take {@damage 2d8} Radiant damage if it is a Fiend or an Undead."
+				"Cuando lleves a cabo la acción de atacar, puedes sustituir uno de tus ataques por lanzar un frasco de agua bendita. Haz objetivo a una criatura que puedas ver a 20 pies (6 m) o menos de ti. El objetivo deberá superar una tirada de salvación de Destreza (CD 8 más tu modificador por Destreza y tu bonificador por competencia) o sufrirá {@damage 2d8} de daño radiante si es un infernal o un muerto viviente."
 			],
 			"miscTags": [
 				"CNS"
@@ -1624,7 +1624,7 @@
 							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
-								"{@item Arcane Focus|XPHB}, {@item Holy Symbol|XPHB}"
+								"{@item Arcane Focus|XPHB}, {@item símbolo sagrado|XPHB}"
 							]
 						}
 					]
@@ -1688,7 +1688,7 @@
 			]
 		},
 		{
-			"name": "Lamp",
+			"name": "Lámpara",
 			"originalname": "",
 			"source": "XPHB",
 			"page": 226,
@@ -1699,7 +1699,7 @@
 			"weight": 1,
 			"value": 50,
 			"entries": [
-				"A Lamp burns {@item Aceite|XPHB} as fuel to cast {@variantrule Luz brillante|XPHB} in a 15-foot radius and {@variantrule Luz tenue|XPHB} for an additional 30 feet."
+				"Una lámpara quema {@item aceite|XPHB} como combustible para emitir {@variantrule luz brillante|XPHB} en un radio de 15 pies (4,5 m) y {@variantrule luz tenue|XPHB} 30 pies (9 m) más allá."
 			],
 			"light": [
 				{
@@ -2073,7 +2073,7 @@
 							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
-								"{@item Druidic Focus|XPHB}, {@item Holy Symbol|XPHB}"
+								"{@item Druidic Focus|XPHB}, {@item símbolo sagrado|XPHB}"
 							]
 						}
 					]
@@ -2273,7 +2273,7 @@
 							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
-								"{@item Jug|XPHB}, {@item Lamp|XPHB}"
+								"{@item Jug|XPHB}, {@item lámpara|XPHB}"
 							]
 						}
 					]
@@ -2308,10 +2308,10 @@
 			}
 		},
 		{
-			"name": "Priest\u0027s Pack",
-			"originalname": "",
+			"name": "Paquete de sacerdote",
+			"originalname": "Priest\u0027s Pack",
 			"source": "XPHB",
-			"page": 228,
+			"page": 227,
 			"srd52": true,
 			"basicRules2024": true,
 			"type": "G|XPHB",
@@ -2319,18 +2319,19 @@
 			"weight": 29,
 			"value": 3300,
 			"entries": [
-				"A Priest\u0027s Pack contains the following items: {@item Mochila|XPHB}, {@item Blanket|XPHB}, {@item Holy Water|XPHB}, {@item Lamp|XPHB}, 7 days of {@item Raciones|XPHB}, {@item Robe|XPHB}, and {@item Yesquero|XPHB}."
+				"Un paquete de sacerdote contiene los siguientes objetos:",
+				"{@item agua bendita|XPHB}, {@item lámpara|XPHB}, {@item manta|XPHB}, {@item mochila|XPHB}, {@item raciones|XPHB} para 7 días, {@item túnica|XPHB}, and {@item yesquero|XPHB}."
 			],
 			"packContents": [
 				"mochila|xphb",
-				"blanket|xphb",
-				"holy water|xphb",
-				"lamp|xphb",
+				"manta|xphb",
+				"Agua bendita|xphb",
+				"Lámpara|xphb",
 				{
-					"item": "rations|xphb",
+					"item": "raciones|xphb",
 					"quantity": 7
 				},
-				"robe|xphb",
+				"túnica|xphb",
 				"yesquero|xphb"
 			]
 		},
@@ -2397,9 +2398,9 @@
 			]
 		},
 		{
-			"name": "Reliquary",
+			"name": "Relicario",
 			"group": [
-				"Holy Symbol"
+				"Símbolo sagrado"
 			],
 			"originalname": "",
 			"source": "XPHB",
@@ -2412,7 +2413,7 @@
 			"weight": 2,
 			"value": 500,
 			"entries": [
-				"For a Reliquary to be an effective Holy Symbol, it must be held."
+				"Para que un relicario sea un símbolo sagrado efectivo, se debe sostener."
 			]
 		},
 		{
@@ -2444,8 +2445,8 @@
 			]
 		},
 		{
-			"name": "Robe",
-			"originalname": "",
+			"name": "Túnica",
+			"originalname": "Robe",
 			"source": "XPHB",
 			"page": 228,
 			"srd52": true,
@@ -2455,7 +2456,7 @@
 			"weight": 4,
 			"value": 100,
 			"entries": [
-				"A Robe has vocational or ceremonial significance. Some events and locations admit only people wearing a Robe bearing certain colors or symbols."
+				"Una túnica tiene un significado vocacional y ceremonial. Algunos eventos y lugares admiten solo a gente que vista una túnica con determinados colores o símbolos."
 			]
 		},
 		{
@@ -2546,14 +2547,14 @@
 			"weight": 22,
 			"value": 4000,
 			"entries": [
-				"A Scholar\u0027s Pack contains the following items: {@item Mochila|XPHB}, {@item Book|XPHB}, {@item Ink|XPHB}, {@item Ink Pen|XPHB}, {@item Lamp|XPHB}, 10 flasks of {@item Aceite|XPHB}, 10 sheets of {@item Parchment|XPHB}, and {@item Yesquero|XPHB}."
+				"A Scholar\u0027s Pack contains the following items: {@item Mochila|XPHB}, {@item Book|XPHB}, {@item Ink|XPHB}, {@item Ink Pen|XPHB}, {@item lámpara|XPHB}, 10 flasks of {@item Aceite|XPHB}, 10 sheets of {@item Parchment|XPHB}, and {@item Yesquero|XPHB}."
 			],
 			"packContents": [
 				"mochila|xphb",
 				"book|xphb",
 				"ink|xphb",
 				"ink pen|xphb",
-				"lamp|xphb",
+				"Lámpara|xphb",
 				{
 					"item": "oil|xphb",
 					"quantity": 10
@@ -3427,7 +3428,7 @@
 							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
-								"{@item Armadura acolchada|XPHB}, {@item Basket|XPHB}, {@item Bedroll|XPHB}, {@item Blanket|XPHB}, {@item Fine Clothes|XPHB}, {@item Net|XPHB}, {@item Robe|XPHB}, {@item Cuerda|XPHB}, {@item Sack|XPHB}, {@item String|XPHB}, {@item Tent|XPHB}, {@item Traveler\u0027s Clothes|XPHB}"
+								"{@item Armadura acolchada|XPHB}, {@item Basket|XPHB}, {@item Bedroll|XPHB}, {@item Manta|XPHB}, {@item Fine Clothes|XPHB}, {@item Net|XPHB}, {@item Túnica|XPHB}, {@item Cuerda|XPHB}, {@item Sack|XPHB}, {@item String|XPHB}, {@item Tent|XPHB}, {@item Traveler\u0027s Clothes|XPHB}"
 							]
 						}
 					]
@@ -3576,7 +3577,7 @@
 			]
 		},
 		{
-			"name": "Holy Symbol",
+			"name": "Símbolo sagrado",
 			"originalname": "",
 			"source": "XPHB",
 			"page": 226,
@@ -3584,13 +3585,13 @@
 			"scfType": "holy",
 			"rarity": "none",
 			"focus": [
-				"Cl\u00E9rigo",
-				"Paladin"
+				"Clérigo",
+				"Paladín"
 			],
 			"items": [
-				"Amulet|XPHB",
-				"Emblem|XPHB",
-				"Reliquary|XPHB"
+				"Amuleto|XPHB",
+				"Emblema|XPHB",
+				"Relicario|XPHB"
 			]
 		},
 		{

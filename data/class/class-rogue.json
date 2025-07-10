@@ -780,18 +780,18 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Soulknife",
-			"shortName": "Soulknife",
+			"name": "Rebanaalmas",
+			"shortName": "Rebanaalmas",
 			"source": "XPHB",
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"page": 135,
+			"page": 174,
 			"edition": "one",
 			"subclassTableGroups": [
 				{
 					"subclasses": [
 						{
-							"name": "Soulknife",
+							"name": "Rebanaalmas",
 							"source": "XPHB"
 						}
 					],
@@ -884,10 +884,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Soulknife|Pícaro|XPHB|Soulknife|XPHB|3",
-				"Soul Blades|Pícaro|XPHB|Soulknife |XPHB|9",
-				"Psychic Veil|Pícaro|XPHB|Soulknife|XPHB|13",
-				"Rend Mind|Pícaro|XPHB|Soulknife|XPHB|17"
+				"Rebanaalmas|Pícaro|XPHB|Rebanaalmas|XPHB|3",
+				"Cuchillas del alma|Pícaro|XPHB|Rebanaalmas|XPHB|9",
+				"Velo psíquico|Pícaro|XPHB|Rebanaalmas|XPHB|13",
+				"Desgarro mental|Pícaro|XPHB|Rebanaalmas|XPHB|17"
 			],
 			"hasFluffImages": true
 		},
@@ -1636,46 +1636,46 @@
 			]
 		},
 		{
-			"name": "Soulknife",
+			"name": "Rebanaalmas",
 			"source": "XPHB",
-			"page": 135,
+			"page": 174,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Strike Foes with Psionic Blades}",
-				"A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Rogues discover psionic power within themselves and channel it to do their roguish work. As a Soulknife, your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest your power.",
+				"{@i Golpea a tus enemigos con cuchillas psiónicas}",
+				"Un rebanaalmas ataca empleando la mente, atravesando barreras tanto físicas como psíquicas. Estos pícaros descubren el poder psiónico de su interior y lo canalizan para llevar a cabo sus tareas. Como rebanaalmas, tus capacidades psiónicas podrían haber estado latentes desde la infancia, sin haber revelado todo su potencial hasta que experimentaste la tensión de la aventura. O puede que buscaras una orden de adeptos psíquicos y hayas pasado años aprendiendo a manifestar tu poder.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Power|Pícaro|XPHB|Soulknife|XPHB|3"
+					"subclassFeature": "Cuchillas psíquicas|Pícaro|XPHB|Rebanaalmas|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psychic Blades|Pícaro|XPHB|Soulknife|XPHB|3"
+					"subclassFeature": "Poder psiónico|Pícaro|XPHB|Rebanaalmas|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Psionic Power",
+			"name": "Poder psiónico",
 			"source": "XPHB",
-			"page": 135,
+			"page": 174,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You harbor a wellspring of psionic energy within yourself. It is represented by your Psionic Energy Dice, which fuel certain powers you have from this subclass. The Soulknife Energy Dice table shows the number of these dice you have when you reach certain Rogue levels, and the table shows the die size.",
+				"Albergas una fuente de energía psiónica en tu interior. Esta se representa mediante dados de energía psiónica, que alimentan ciertos poderes que tienes por esta subclase. La tabla “Dados de energía del rebanaalmas” muestra la cantidad de dados que tienes cuando alcanzas ciertos niveles de pícaro y el tamaño del dado.",
 				{
 					"type": "table",
-					"caption": "Soulknife Energy Dice",
+					"caption": "DADOS DE ENERGÍA DEL REBANAALMAS",
 					"colLabels": [
-						"Rogue Level",
-						"Die Size",
-						"Number"
+						"Nivel de pícaro",
+						"Tamaño del dado",
+						"Cantidad"
 					],
 					"colStyles": [
 						"col-4 text-center",
@@ -1715,162 +1715,162 @@
 						]
 					]
 				},
-				"Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend a Psionic Energy Die, as specified in a power's description, and you can't use a power if it requires you to use a die when your Psionic Energy Dice are all expended.",
-				"You regain one of your expended Psionic Energy Dice when you finish a {@variantrule Descanso corto|XPHB}, and you regain all of them when you finish a {@variantrule Descanso largo|XPHB}.",
+				"Cualquier rasgo de esta subclase que emplee dados de energía psiónica utiliza solamente los dados de esta subclase. Algunos de tus poderes gastan un dado de energía psiónica, tal y como se especifica en la correspondiente descripción, por lo que no podrás usar un poder que requiera emplear un dado de energía psiónica si ya los has gastado todos.",
+				"Recuperas uno de tus dados de energía psiónica tras finalizar un descanso corto y todos tras finalizar un descanso largo.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psi-Bolstered Knack|Pícaro|XPHB|Soulknife|XPHB|3"
+					"subclassFeature": "Don psirreforzado|Pícaro|XPHB|Rebanaalmas|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psychic Whispers|Pícaro|XPHB|Soulknife|XPHB|3"
+					"subclassFeature": "Susurros psíquicos|Pícaro|XPHB|Rebanaalmas|XPHB|3"
 				},
-				"The first time you use this power after each {@variantrule Descanso largo|XPHB}, you don't expend the Psionic Energy Die. All other times you use the power, you expend the die."
+				"La primera vez que utilices este poder tras cada descanso largo, no gastarás el dado de energía psiónica. El resto de veces que uses el poder, gastarás el dado."
 			]
 		},
 		{
-			"name": "Psychic Blades",
+			"name": "Cuchillas psíquicas",
 			"source": "XPHB",
-			"page": 136,
+			"page": 174,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can manifest shimmering blades of psychic energy. Whenever you take the {@action Attack|XPHB} action or make an {@action Opportunity Attack|XPHB}, you can manifest a {@item Cuchilla psíquica|XPHB} in your free hand and make the attack with that blade. The magic blade has the following traits:",
+				"Puedes hacer que tu poder se manifieste en forma de resplandecientes cuchillas de energía psíquica. Siempre que uses la acción de atacar o hagas un ataque de oportunidad, podrás hacer que aparezca una {@item Cuchilla psíquica|XPHB} en tu mano libre y realizar el ataque con esa arma. La cuchilla mágica tiene los siguientes atributos:",
 				{
 					"type": "statblock",
 					"tag": "item",
 					"name": "Cuchilla psíquica",
 					"source": "XPHB"
 				},
-				"The blade vanishes immediately after it hits or misses its target, and it leaves no mark if it deals damage.",
-				"After you attack with the blade on your turn, you can make a melee or ranged attack with a second psychic blade as a {@variantrule Acción adicional|XPHB} on the same turn if your other hand is free to create it. The damage die of this bonus attack is {@damage 1d4} instead of {@damage 1d6}."
+				"La cuchilla se desvanecerá inmediatamente después de acertar o fallar contra su objetivo y no dejará ninguna marca aunque le inflija daño.",
+				"Tras atacar con la cuchilla en tu turno, puedes realizar un ataque cuerpo a cuerpo o a distancia con una segunda cuchilla psíquica como acción adicional en el mismo turno si tu otra mano está libre para crearla. El dado de daño de este ataque extra es {@damage 1d4}, en vez de {@damage 1d6}."
 			]
 		},
 		{
-			"name": "Psi-Bolstered Knack",
+			"name": "Don psirreforzado",
 			"source": "XPHB",
-			"page": 135,
+			"page": 174,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"consumes": {
-				"name": "Psionic Energy Die"
+				"name": "Dado de energía psiónica"
 			},
 			"entries": [
-				"If you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy Die and add the number rolled to the check, potentially turning failure into success. The die is expended only if the roll then succeeds."
+				"Si fallas una prueba de característica usando una habilidad o una herramienta en la que seas competente, podrás tirar un dado de energía psiónica y sumar el resultado a la prueba, lo que puede convertir un fallo en un éxito. El dado se gasta solo si la tirada tiene éxito."
 			]
 		},
 		{
-			"name": "Psychic Whispers",
+			"name": "Susurros psíquicos",
 			"source": "XPHB",
-			"page": 135,
+			"page": 174,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"consumes": {
-				"name": "Psionic Energy Die"
+				"name": "Dado de energía psiónica"
 			},
 			"entries": [
-				"You can establish telepathic communication between yourself and others. As a {@action Magic|XPHB} action, choose one or more creatures you can see, up to a number of creatures equal to your {@variantrule Competencia|XPHB|Proficiency Bonus}, and then roll one Psionic Energy Die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can end the telepathic connection at any time (no action required)."
+				"Puedes establecer comunicación telepática con otras criaturas. Como acción de magia, elige una o más criaturas que puedas ver, hasta una cantidad igual a tu bonificador por competencia, y luego tira un dado de energía psiónica. Durante un número de horas igual al resultado, las criaturas elegidas podrán hablar contigo telepáticamente y tú podrás hablar telepáticamente con ellas. Para enviar o recibir un mensaje (no requiere acción), la criatura en cuestión y tú debéis estar a 1,5 km o menos de distancia. Una criatura puede finalizar el enlace telepático en cualquier momento (no requiere acción)."
 			]
 		},
 		{
-			"name": "Homing Strikes",
+			"name": "Golpes teledirigidos",
 			"source": "XPHB",
-			"page": 136,
+			"page": 174,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 9,
 			"header": 2,
 			"consumes": {
-				"name": "Psionic Energy Die"
+				"name": "Dado de energía psiónica"
 			},
 			"entries": [
-				"If you make an attack roll with your {@item Cuchilla psíquica|XPHB} and miss the target, you can roll one Psionic Energy Die and add the number rolled to the attack roll. If this causes the attack to hit, the die is expended."
+				"Si realizas una tirada de ataque con tu {@item cuchilla psíquica|XPHB} y fallas, podrás tirar un dado de energía psiónica y sumar el número obtenido a la tirada de ataque. Si eso hace que el ataque acierte, gastarás el dado."
 			]
 		},
 		{
-			"name": "Psychic Teleportation",
+			"name": "Teletransporte psíquico",
 			"source": "XPHB",
-			"page": 136,
+			"page": 174,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 9,
 			"header": 2,
 			"consumes": {
-				"name": "Psionic Energy Die"
+				"name": "Dado de energía psiónica"
 			},
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you manifest a {@item Cuchilla psíquica|XPHB}, expend one Psionic Energy Die and roll it, and throw the blade at an unoccupied space you can see up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes."
+				"Como acción adicional, manifiestas una {@item cuchilla psíquica|XPHB}, gastas un dado de energía psiónica y lo tiras, y lanzas la cuchilla a un espacio sin ocupar que puedas ver a hasta una cantidad de metros igual a 3 veces el resultado (o resultado x 10 pies). Luego te teletransportarás a ese espacio y la cuchilla desparecerá."
 			]
 		},
 		{
-			"name": "Soul Blades",
+			"name": "Cuchillas del alma",
 			"source": "XPHB",
-			"page": 136,
+			"page": 174,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"You can now use the following powers with your Psychic Blades.",
+				"Ahora puedes usar los siguientes poderes con tus cuchillas psíquicas.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Homing Strikes|Pícaro|XPHB|Soulknife|XPHB|9"
+					"subclassFeature": "Golpes teledirigidos|Pícaro|XPHB|Rebanaalmas|XPHB|9"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psychic Teleportation|Pícaro|XPHB|Soulknife|XPHB|9"
+					"subclassFeature": "Teletransporte psíquico|Pícaro|XPHB|Rebanaalmas|XPHB|9"
 				}
 			]
 		},
 		{
-			"name": "Psychic Veil",
+			"name": "Velo psíquico",
 			"source": "XPHB",
-			"page": 136,
+			"page": 174,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 13,
 			"header": 2,
 			"consumes": {
-				"name": "Psionic Energy Die"
+				"name": "Dado de energía psiónica"
 			},
 			"entries": [
-				"You can weave a veil of psychic static to mask yourself. As a {@action Magic|XPHB} action, you gain the {@condition Invisible|XPHB} condition for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Descanso largo|XPHB} unless you expend a Psionic Energy Die (no action required) to restore your use of it."
+				"Puedes tejer un velo de interferencias psíquicas para enmascararte. Como acción de magia, obtienes el estado de {@condition invisible|XPHB} durante 1 hora o hasta que disipes el efecto (no requiere acción). Esta invisibilidad terminará inmediatamente si infliges daño a una criatura o si obligas a una criatura a realizar una tirada de salvación.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un dado de energía psiónica (no requiere acción) para restablecer su uso."
 			]
 		},
 		{
-			"name": "Rend Mind",
+			"name": "Desgarro mental",
 			"source": "XPHB",
-			"page": 136,
+			"page": 174,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"You can sweep your Psychic Blades through a creature's mind. When you use your Psychic Blades to deal Ataque furtivo damage to a creature, you can force that target to make a Wisdom saving throw ({@dc 8} plus your Dexterity modifier and {@variantrule Competencia|XPHB|Proficiency Bonus}). If the save fails, the target has the {@condition Aturdido|XPHB} condition for 1 minute. The {@condition Aturdido|XPHB} target repeats the save at the end of each of its turns, ending the effect on itself on a success.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Descanso largo|XPHB} unless you expend three Psionic Energy Dice (no action required) to restore your use of it."
+				"Puedes pegar un tajo a la mente de una criatura con tus {@item cuchilla psíquica|XPHB|cuchillas psíquicas}. Cuando uses tus cuchillas psíquicas para infligir daño de Ataque furtivo a una criatura, podrás obligar a ese objetivo a realizar una tirada de salvación de Sabiduría (CD 8 más tu modificador por Destreza y tu bonificador por competencia). Si la falla, el objetivo tendrá el estado de {@condition aturdido|XPHB} durante 1 minuto. El objetivo aturdido repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes tres dados de energía psiónica (no requiere acción) para restablecer su uso."
 			]
 		},
 		{

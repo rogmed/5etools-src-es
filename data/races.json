@@ -1110,7 +1110,7 @@
 												"type": "item",
 												"name": "Frost's Chill",
 												"entries": [
-													"When you hit a target with an attack roll and deal damage to it, you can also deal {@damage 1d6} Cold damage to that target and reduce its {@variantrule Speed|XPHB} by 10 feet until the start of your next turn."
+													"When you hit a target with an attack roll and deal damage to it, you can also deal {@damage 1d6} Cold damage to that target and reduce its {@variantrule Velocidad|XPHB} by 10 feet until the start of your next turn."
 												]
 											}
 										]
@@ -1251,7 +1251,7 @@
 					"type": "entries",
 					"name": "Sigiloso por naturaleza.",
 					"entries": [
-						"Puedes llevar a cabo la acción de {@action Hide|XPHB|esconderte} incluso tras una criatura cuyo tamaño sea, al menos, una categoría superior al tuyo."
+						"Puedes llevar a cabo la acción de {@action Esconderse|XPHB|esconderte} incluso tras una criatura cuyo tamaño sea, al menos, una categoría superior al tuyo."
 					]
 				},
 				{

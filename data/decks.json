@@ -2056,7 +2056,7 @@
 						],
 						[
 							"61-64",
-							"Rogue"
+							"Pícaro"
 						],
 						[
 							"65-68",
@@ -5013,7 +5013,7 @@
 			}
 		},
 		{
-			"name": "Assassin",
+			"name": "Asesino",
 			"source": "DMG",
 			"set": "Deck of Illusions",
 			"page": 161,
@@ -5529,7 +5529,7 @@
 			]
 		},
 		{
-			"name": "Assassin",
+			"name": "Asesino",
 			"source": "XDMG",
 			"set": "Deck of Illusions",
 			"page": 249,
@@ -6883,7 +6883,7 @@
 				"height": 1229
 			},
 			"entries": [
-				"Glowing chains made of magical force appear and wrap around you. You have the {@condition apresado} condition until the chains are destroyed or you are freed. While you have this condition, you can't cast spells, and any magic items you're wearing or carrying have their properties suppressed. You draw no more cards. The chains are immune to damage and can't be dispelled using the {@spell Disipar magia} spell or similar magic. However, a {@spell Disintegrate} spell destroys the chains instantly, freeing you. Another creature can also free you by succeeding on a {@dc 30} Dexterity check using {@item thieves' tools|PHB}."
+				"Glowing chains made of magical force appear and wrap around you. You have the {@condition apresado} condition until the chains are destroyed or you are freed. While you have this condition, you can't cast spells, and any magic items you're wearing or carrying have their properties suppressed. You draw no more cards. The chains are immune to damage and can't be dispelled using the {@spell Disipar magia} spell or similar magic. However, a {@spell Disintegrate} spell destroys the chains instantly, freeing you. Another creature can also free you by succeeding on a {@dc 30} Dexterity check using {@item Herramientas de ladrón|PHB}."
 			]
 		},
 		{
@@ -6928,7 +6928,7 @@
 			]
 		},
 		{
-			"name": "Rogue",
+			"name": "Pícaro",
 			"source": "BMT",
 			"set": "Deck of Many More Things",
 			"page": 59,
@@ -11444,7 +11444,7 @@
 			]
 		},
 		{
-			"name": "Rogue",
+			"name": "Pícaro",
 			"source": "DMTCRG",
 			"set": "Deck of Many More Things",
 			"page": 59,
@@ -15585,7 +15585,7 @@
 			]
 		},
 		{
-			"name": "Rogue",
+			"name": "Pícaro",
 			"source": "BMT",
 			"set": "Deck of Many Things",
 			"page": 14,
@@ -15987,7 +15987,7 @@
 			]
 		},
 		{
-			"name": "Rogue",
+			"name": "Pícaro",
 			"source": "DMG",
 			"set": "Deck of Many Things",
 			"page": 162,
@@ -16437,7 +16437,7 @@
 			]
 		},
 		{
-			"name": "Rogue",
+			"name": "Pícaro",
 			"source": "XDMG",
 			"set": "Deck of Many Things",
 			"page": 250,
@@ -16833,7 +16833,7 @@
 			]
 		},
 		{
-			"name": "Rogue",
+			"name": "Pícaro",
 			"source": "LLK",
 			"set": "Deck of Several Things",
 			"page": 53,
@@ -23521,7 +23521,7 @@
 			]
 		},
 		{
-			"name": "Rogue",
+			"name": "Pícaro",
 			"source": "CoS",
 			"set": "Tarokka Deck",
 			"page": 243,
@@ -23658,7 +23658,7 @@
 			]
 		},
 		{
-			"name": "Thief",
+			"name": "Ladrón",
 			"source": "CoS",
 			"set": "Tarokka Deck",
 			"page": 243,

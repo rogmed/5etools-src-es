@@ -932,7 +932,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Rogue",
+			"name": "Pícaro",
 			"source": "XPHB",
 			"advancement": [
 				{
@@ -1484,10 +1484,10 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Arcane Trickster",
-			"shortName": "Arcane Trickster",
+			"name": "Embaucador arcano",
+			"shortName": "Embaucador arcano",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"advancement": [
 				{
@@ -1870,10 +1870,10 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Soulknife",
-			"shortName": "Soulknife",
+			"name": "Rebanaalmas",
+			"shortName": "Rebanaalmas",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"advancement": [
 				{
@@ -2415,7 +2415,7 @@
 		{
 			"name": "Pericia",
 			"source": "PHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"level": 1,
 			"entryData": {
@@ -2434,7 +2434,7 @@
 		{
 			"name": "Thieves' Cant",
 			"source": "PHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"level": 1,
 			"entryData": {
@@ -2449,7 +2449,7 @@
 		{
 			"name": "Pericia",
 			"source": "PHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"level": 6,
 			"entryData": {
@@ -2468,7 +2468,7 @@
 		{
 			"name": "Reliable Talent",
 			"source": "PHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"level": 11,
 			"effects": [
@@ -2488,7 +2488,7 @@
 		{
 			"name": "Blindsense",
 			"source": "PHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"level": 14,
 			"entryData": {
@@ -2503,7 +2503,7 @@
 		{
 			"name": "Slippery Mind",
 			"source": "PHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"level": 15,
 			"entryData": {
@@ -6141,7 +6141,7 @@
 		{
 			"name": "Pericia",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 1,
 			"entryData": {
@@ -6156,7 +6156,7 @@
 		{
 			"name": "Sneak Attack",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 1,
 			"activities": [
@@ -6209,7 +6209,7 @@
 		{
 			"name": "Thieves' Cant",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 1,
 			"entryData": {
@@ -6224,12 +6224,12 @@
 		{
 			"name": "Cunning Action",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 2,
 			"activities": [
 				{
-					"name": "Dash",
+					"name": "Correr",
 					"type": "utility",
 					"activation": {
 						"type": "bonus"
@@ -6274,7 +6274,7 @@
 		{
 			"name": "Steady Aim",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -6296,7 +6296,7 @@
 		{
 			"name": "Cunning Strike",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 5,
 			"activities": [
@@ -6351,7 +6351,7 @@
 		{
 			"name": "Poison (Cost: 1d6)",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 5,
 			"activities": [
@@ -6404,7 +6404,7 @@
 		{
 			"name": "Trip (Cost: 1d6)",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 5,
 			"activities": [
@@ -6454,7 +6454,7 @@
 		{
 			"name": "Uncanny Dodge",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 5,
 			"activities": [
@@ -6472,7 +6472,7 @@
 		{
 			"name": "Withdraw (Cost: 1d6)",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 5,
 			"activities": [
@@ -6490,7 +6490,7 @@
 		{
 			"name": "Pericia",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 6,
 			"entryData": {
@@ -6505,7 +6505,7 @@
 		{
 			"name": "Reliable Talent",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 7,
 			"effects": [
@@ -6525,7 +6525,7 @@
 		{
 			"name": "Daze (Cost: 2d6)",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 14,
 			"activities": [
@@ -6575,7 +6575,7 @@
 		{
 			"name": "Knock Out (Cost: 6d6)",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 14,
 			"activities": [
@@ -6628,7 +6628,7 @@
 		{
 			"name": "Obscure (Cost: 3d6)",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 14,
 			"activities": [
@@ -6681,7 +6681,7 @@
 		{
 			"name": "Slippery Mind",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 15,
 			"entryData": {
@@ -6697,7 +6697,7 @@
 		{
 			"name": "Don épico",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 19,
 			"isIgnored": true,
@@ -6706,7 +6706,7 @@
 		{
 			"name": "Stroke of Luck",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"level": 20,
 			"activities": [
@@ -10485,9 +10485,9 @@
 		{
 			"name": "Bonus Proficiencies",
 			"source": "PHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "PHB",
 			"level": 3,
 			"entryData": {
@@ -10503,7 +10503,7 @@
 		{
 			"name": "Wails from the Grave",
 			"source": "TCE",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom",
 			"subclassSource": "TCE",
@@ -10528,9 +10528,9 @@
 		{
 			"name": "Psionic Power",
 			"source": "TCE",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "TCE",
 			"level": 3,
 			"entryData": {
@@ -10550,7 +10550,7 @@
 		{
 			"name": "Master of Intrigue",
 			"source": "XGE",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"subclassShortName": "Mastermind",
 			"subclassSource": "XGE",
@@ -10574,7 +10574,7 @@
 		{
 			"name": "Master of Tactics",
 			"source": "XGE",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"subclassShortName": "Mastermind",
 			"subclassSource": "XGE",
@@ -10588,7 +10588,7 @@
 		{
 			"name": "Survivalist",
 			"source": "XGE",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"subclassShortName": "Scout",
 			"subclassSource": "XGE",
@@ -10606,7 +10606,7 @@
 		{
 			"name": "Superior Mobility",
 			"source": "XGE",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"subclassShortName": "Scout",
 			"subclassSource": "XGE",
@@ -19131,9 +19131,9 @@
 		{
 			"name": "Mano de mago Legerdemain",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Arcane Trickster",
+			"subclassShortName": "Embaucador arcano",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -19152,9 +19152,9 @@
 		{
 			"name": "Spell Thief",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Arcane Trickster",
+			"subclassShortName": "Embaucador arcano",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"activities": [
@@ -19212,9 +19212,9 @@
 		{
 			"name": "Assassin's Tools",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entryData": {
@@ -19230,9 +19230,9 @@
 		{
 			"name": "Assassinate",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -19291,9 +19291,9 @@
 		{
 			"name": "Envenom Weapons",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 13,
 			"activities": [
@@ -19337,9 +19337,9 @@
 		{
 			"name": "Death Strike",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"activities": [
@@ -19397,9 +19397,9 @@
 		{
 			"name": "Psi-Bolstered Knack",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"system": {
@@ -19431,7 +19431,7 @@
 								"value": "1",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Rogue|XPHB|Soulknife|XPHB|3"
+									"uid": "Psionic Power|Pícaro|XPHB|Rebanaalmas|XPHB|3"
 								}
 							}
 						]
@@ -19447,9 +19447,9 @@
 		{
 			"name": "Psionic Power",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entryData": {
@@ -19469,9 +19469,9 @@
 		{
 			"name": "Psychic Whispers",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"system": {
@@ -19548,7 +19548,7 @@
 								"value": "1",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Rogue|XPHB|Soulknife|XPHB|3"
+									"uid": "Psionic Power|Pícaro|XPHB|Rebanaalmas|XPHB|3"
 								}
 							}
 						]
@@ -19591,9 +19591,9 @@
 		{
 			"name": "Homing Strikes",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 9,
 			"activities": [
@@ -19611,7 +19611,7 @@
 								"value": "1",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Rogue|XPHB|Soulknife|XPHB|3"
+									"uid": "Psionic Power|Pícaro|XPHB|Rebanaalmas|XPHB|3"
 								}
 							}
 						]
@@ -19627,9 +19627,9 @@
 		{
 			"name": "Psychic Teleportation",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 9,
 			"activities": [
@@ -19646,7 +19646,7 @@
 								"value": "1",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Rogue|XPHB|Soulknife|XPHB|3"
+									"uid": "Psionic Power|Pícaro|XPHB|Rebanaalmas|XPHB|3"
 								}
 							}
 						]
@@ -19674,9 +19674,9 @@
 		{
 			"name": "Psychic Veil",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 13,
 			"activities": [
@@ -19729,7 +19729,7 @@
 								"value": "1",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Rogue|XPHB|Soulknife|XPHB|3"
+									"uid": "Psionic Power|Pícaro|XPHB|Rebanaalmas|XPHB|3"
 								}
 							}
 						]
@@ -19764,9 +19764,9 @@
 		{
 			"name": "Rend Mind",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Soulknife",
+			"subclassShortName": "Rebanaalmas",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"activities": [
@@ -19825,7 +19825,7 @@
 								"value": "3",
 								"target": {
 									"prop": "subclassFeature",
-									"uid": "Psionic Power|Rogue|XPHB|Soulknife|XPHB|3"
+									"uid": "Psionic Power|Pícaro|XPHB|Rebanaalmas|XPHB|3"
 								}
 							}
 						]
@@ -19871,9 +19871,9 @@
 		{
 			"name": "Fast Hands",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Thief",
+			"subclassShortName": "Ladrón",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -19917,9 +19917,9 @@
 		{
 			"name": "Use Magic Device",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Thief",
+			"subclassShortName": "Ladrón",
 			"subclassSource": "XPHB",
 			"level": 13,
 			"effects": [

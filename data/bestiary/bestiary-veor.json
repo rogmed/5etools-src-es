@@ -579,7 +579,7 @@
 			],
 			"bonus": [
 				{
-					"name": "Dash",
+					"name": "Correr",
 					"entries": [
 						"The scout moves up to its speed without provoking opportunity attacks."
 					]

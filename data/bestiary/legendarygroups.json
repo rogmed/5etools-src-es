@@ -7530,7 +7530,7 @@
 							"type": "item",
 							"name": "Glacial Gloom",
 							"entries": [
-								"The area within 1 mile of the lair is {@variantrule Ligeramente oscuro|XPHB} by chilly fog. Whenever a creature other than the dragon or one of its allies finishes a {@variantrule Descanso largo|XPHB} in that area, that creature must succeed on a {@dc 15} Constitution saving throw or have its {@variantrule Speed|XPHB} reduced by 10 feet for 1 hour."
+								"The area within 1 mile of the lair is {@variantrule Ligeramente oscuro|XPHB} by chilly fog. Whenever a creature other than the dragon or one of its allies finishes a {@variantrule Descanso largo|XPHB} in that area, that creature must succeed on a {@dc 15} Constitution saving throw or have its {@variantrule Velocidad|XPHB} reduced by 10 feet for 1 hour."
 							]
 						}
 					]

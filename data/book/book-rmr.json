@@ -740,7 +740,7 @@
 									"page": 9,
 									"id": "029",
 									"entries": [
-										"You might be particularly skilled at a certain kind of task related to an ability check. The character sheets list each character's proficiencies with skills and special tools, and the monster statistics in the adventure book show monsters' proficiencies. If you have proficiency in a skill, such as {@skill Acrobatics} or {@skill Deception}, you add your proficiency bonus to ability checks you make that use that skill. If you have proficiency with a certain tool, such as {@item thieves' tools|PHB}, you add your proficiency bonus to ability checks you make using those tools. You never add your proficiency bonus more than once to the same {@dice d20} roll.",
+										"You might be particularly skilled at a certain kind of task related to an ability check. The character sheets list each character's proficiencies with skills and special tools, and the monster statistics in the adventure book show monsters' proficiencies. If you have proficiency in a skill, such as {@skill Acrobatics} or {@skill Deception}, you add your proficiency bonus to ability checks you make that use that skill. If you have proficiency with a certain tool, such as {@item Herramientas de ladrón|PHB}, you add your proficiency bonus to ability checks you make using those tools. You never add your proficiency bonus more than once to the same {@dice d20} roll.",
 										{
 											"type": "inset",
 											"id": "02a",
@@ -1928,7 +1928,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Dash",
+							"name": "Correr",
 							"page": 22,
 							"id": "074",
 							"entries": [
@@ -3035,7 +3035,7 @@
 								"A journey overland or through a dungeon often requires an adventurer to jump, climb, or swim.",
 								{
 									"type": "entries",
-									"name": "Long Jumps",
+									"name": "Salto de longituds",
 									"page": 33,
 									"id": "0b8",
 									"entries": [
@@ -3046,7 +3046,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "High Jumps",
+									"name": "Salto de alturas",
 									"page": 34,
 									"id": "0b9",
 									"entries": [
@@ -4183,7 +4183,7 @@
 											"7 lb."
 										],
 										[
-											"Bell",
+											"Campana",
 											"1 gp",
 											"\u2014"
 										],
@@ -4198,7 +4198,7 @@
 											"5 lb."
 										],
 										[
-											"Candle",
+											"Vela",
 											"1 cp",
 											"\u2014"
 										],
@@ -4455,7 +4455,7 @@
 									"entries": [
 										{
 											"type": "entries",
-											"name": "Candle",
+											"name": "Vela",
 											"page": 40,
 											"id": "0ed",
 											"entries": [
@@ -4564,7 +4564,7 @@
 											"page": 40,
 											"id": "0f5",
 											"entries": [
-												"A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius."
+												"A Linterna sorda casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius."
 											]
 										},
 										{

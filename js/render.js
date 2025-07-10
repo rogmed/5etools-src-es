@@ -6663,7 +6663,7 @@ Renderer.class = class {
 
 		return styleHint === "classic"
 			? `{@dice ${clsHd.number}d${clsHd.faces}||Hit die}`
-			: `{@dice ${clsHd.number}d${clsHd.faces}|${clsHd.number === 1 ? "" : clsHd.number}D${clsHd.faces}|Hit die}`;
+			: `{@dice ${clsHd.number}d${clsHd.faces}|${clsHd.number}d${clsHd.faces}|Dado de puntos de golpe}`;
 	}
 
 	/**
@@ -6676,8 +6676,8 @@ Renderer.class = class {
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
 
 		return styleHint === "classic"
-			? `${clsHd.number * clsHd.faces} + your Constitution modifier`
-			: `${clsHd.number * clsHd.faces} + Con. modifier`;
+			? `${clsHd.number * clsHd.faces} + tu modificador de constitución`
+			: `${clsHd.number * clsHd.faces} + modificador por Con`;
 	}
 
 	/**
@@ -6692,7 +6692,7 @@ Renderer.class = class {
 
 		return styleHint === "classic"
 			? `${Renderer.get().render(Renderer.class.getHitDiceEntry(clsHd, {styleHint}))} (or ${((clsHd.number * clsHd.faces) / 2 + 1)}) + your Constitution modifier per ${className} level after 1st`
-			: `${Renderer.get().render(Renderer.class.getHitDiceEntry(clsHd, {styleHint}))} + your Con. modifier, or, ${((clsHd.number * clsHd.faces) / 2 + 1)} + your Con. modifier`;
+			: `${Renderer.get().render(Renderer.class.getHitDiceEntry(clsHd, {styleHint}))} + modificador por Con., o, ${((clsHd.number * clsHd.faces) / 2 + 1)} + modificador por Con.`;
 	}
 
 	/* -------------------------------------------- */
@@ -6804,6 +6804,11 @@ Renderer.class = class {
 
 		renderer ||= Renderer.get();
 		styleHint ||= VetoolsConfig.get("styleSwitcher", "style");
+
+		// Usar este return para mostrar puntos de golpe a nivel 1 y a cada nivel adicional en vez de solamente el dado de golpe de la clase.
+		// return `<div><strong>Dado de puntos de golpe:</strong> ${renderer.render(Renderer.class.getHitDiceEntry(cls.hd, {styleHint}))} por nivel de ${cls.name}</div>
+		// <div><strong>Puntos de golpe en nivel 1:</strong> ${Renderer.class.getHitPointsAtFirstLevel(cls.hd, {styleHint})}</div>
+		// <div><strong>Puntos de golpe por nivel de ${cls.name} adicional:</strong> ${Renderer.class.getHitPointsAtHigherLevels(cls.name, cls.hd, {styleHint})}</div>`;
 
 		return `<div><strong>Dado de puntos de golpe:</strong> ${renderer.render(Renderer.class.getHitDiceEntry(cls.hd, {styleHint}))} por nivel de ${cls.name}</div>`;
 	}
@@ -12492,7 +12497,7 @@ Renderer.item = class {
 			});
 
 		// add additional entries based on type (e.g. XGE variants)
-		if (item.type === Parser.ITM_TYP__TOOL || item.type === Parser.ITM_TYP__ARTISAN_TOOL || item.type === Parser.ITM_TYP__INSTRUMENT || item.type === Parser.ITM_TYP__GAMING_SET) { // tools, artisan's tools, instruments, gaming sets
+		if (item.type === Parser.ITM_TYP__TOOL || item.type === Parser.ITM_TYP__ARTISAN_TOOL || item.type === Parser.ITM_TYP__INSTRUMENT || item.type === Parser.ITM_TYP__GAMING_SET) { // tools, Herramientas de artesano, instruments, gaming sets
 			Renderer.item._initFullAdditionalEntries(item);
 			item._fullAdditionalEntries.push({type: "wrapper", wrapped: {type: "hr"}, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type"}});
 			item._fullAdditionalEntries.push({type: "wrapper", wrapped: `{@note See the {@variantrule Tool Proficiencies|XGE} entry for more information.}`, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type"}});
@@ -14482,12 +14487,12 @@ Renderer.generic = class {
 		"three-dragon ante set",
 	];
 	static _FEATURE__TOOL_GROUPS = new Set([
-		"artisan's tools",
+		"Herramientas de artesano",
 		"gaming set",
 		"musical instrument",
 	]);
 	static FEATURE__TOOLS_ALL = [
-		"artisan's tools",
+		"Herramientas de artesano",
 		...this.FEATURE__TOOLS_ARTISANS,
 
 		"disguise kit",
@@ -14686,7 +14691,7 @@ Renderer.generic = class {
 				count: mappedCount,
 			};
 			case "anyArtisansTool": return {
-				name: mappedCount === 1 ? `Any Artisan's Tool` : `Any ${mappedCount} Artisan's Tools`,
+				name: mappedCount === 1 ? `Any Artisan's Tool` : `Any ${mappedCount} Herramientas de artesano`,
 				from: this.FEATURE__TOOLS_ARTISANS
 					.map(it => ({name: it, prop: "toolProficiencies"})),
 				count: mappedCount,

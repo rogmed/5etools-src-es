@@ -6,7 +6,7 @@ Traducción al español de una pequeña parte de https://5e.tools/index.html
 
 ### Progreso PHB24
 
-#### Clases - 75%
+#### Clases - 84%
 #### Trasfondos - 0%
 #### Especies - 100%
 #### Dotes - 100%

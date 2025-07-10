@@ -478,7 +478,7 @@ export class EquipmentBreakdown {
 
 	static _getFilterType (str) {
 		switch (str.toLowerCase().trim()) {
-			case "artisan's tools": return {equipmentType: "toolArtisan"};
+			case "Herramientas de artesano": return {equipmentType: "toolArtisan"};
 			case "gaming set": return {equipmentType: "setGaming"};
 			case "musical instrument": return {equipmentType: "instrumentMusical"};
 
@@ -626,10 +626,10 @@ export class BackgroundSkillToolLanguageTag {
 
 		const entry = Renderer.stripTags(toolProf.entry.toLowerCase())
 			.replace(/one type of gaming set/g, "gaming set")
-			.replace(/one type of artisan's tools/g, "artisan's tools")
+			.replace(/one type of Herramientas de artesano/g, "Herramientas de artesano")
 			.replace(/one type of gaming set/g, "gaming set")
 			.replace(/one type of musical instrument/g, "musical instrument")
-			.replace(/one other set of artisan's tools/g, "artisan's tools")
+			.replace(/one other set of Herramientas de artesano/g, "Herramientas de artesano")
 			.replace(/s' supplies/g, "'s supplies")
 		;
 
@@ -657,9 +657,9 @@ export class BackgroundSkillToolLanguageTag {
 				case "cartographer's tools or navigator's tools":
 					out.choose = {from: ["navigator's tools", "cartographer's tools"]};
 					break;
-				case "disguise kit, and artisan's tools or gaming set":
+				case "disguise kit, and Herramientas de artesano or gaming set":
 					out["disguise kit"] = true;
-					out.choose = {from: ["artisan's tools", "gaming set"]};
+					out.choose = {from: ["Herramientas de artesano", "gaming set"]};
 					break;
 				case "any one musical instrument or gaming set of your choice, likely something native to your homeland":
 					out.choose = {from: ["musical instrument", "gaming set"]};
@@ -667,11 +667,11 @@ export class BackgroundSkillToolLanguageTag {
 				case "your choice of a gaming set or a musical instrument":
 					out.choose = {from: ["musical instrument", "gaming set"]};
 					break;
-				case "musical instrument or artisan's tools":
-					out.choose = {from: ["musical instrument", "artisan's tools"]};
+				case "musical instrument or Herramientas de artesano":
+					out.choose = {from: ["musical instrument", "Herramientas de artesano"]};
 					break;
-				case "one type of artistic artisan's tools and one musical instrument":
-					out["artisan's tools"] = true;
+				case "one type of artistic Herramientas de artesano and one musical instrument":
+					out["Herramientas de artesano"] = true;
 					out["musical instrument"] = true;
 					break;
 				case "choose two from among gaming set, one musical instrument, and thieves' tools":
@@ -680,8 +680,8 @@ export class BackgroundSkillToolLanguageTag {
 						count: 2,
 					};
 					break;
-				case "artisan's tools, or navigator's tools, or an additional language":
-					out.choose = {from: ["artisan's tools", "navigator's tools"]};
+				case "Herramientas de artesano, or navigator's tools, or an additional language":
+					out.choose = {from: ["Herramientas de artesano", "navigator's tools"]};
 					break;
 				case "gaming set or musical instrument":
 					out.choose = {from: ["gaming set", "musical instrument"]};

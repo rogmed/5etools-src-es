@@ -2976,7 +2976,7 @@
 					"type": "entries",
 					"name": "Artista escapista",
 					"entries": [
-						"Como acción adicional, puedes llevar a cabo la acción de {@action Disengage|XPHB|destrabarse}, lo que también pone fin al estado de {@condition agarrado|XPHB} sobre ti."
+						"Como acción adicional, puedes llevar a cabo la acción de {@action Destrabarse|XPHB|destrabarse}, lo que también pone fin al estado de {@condition agarrado|XPHB} sobre ti."
 					]
 				},
 				{

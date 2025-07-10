@@ -14,7 +14,7 @@
 			],
 			"entries": [
 				"Activating some magic items requires a user to do something in particular, such as holding the item and uttering a command word, reading the item if it is a scroll, or drinking it if it is a potion. The description of each item category or individual item details how an item is activated. Certain items use one or more of the following rules related to their activation.",
-				"If an item requires an action to activate, that action isn't a function of the {@action Use an Object} action, so a feature such as the rogue's {@subclassFeature Fast Hands|Rogue||Thief||3} can't be used to activate the item.",
+				"If an item requires an action to activate, that action isn't a function of the {@action Use an Object} action, so a feature such as the rogue's {@subclassFeature Fast Hands|Pícaro||Thief||3} can't be used to activate the item.",
 				{
 					"type": "entries",
 					"name": "Command Word",
@@ -147,7 +147,7 @@
 			]
 		},
 		{
-			"name": "Dash",
+			"name": "Correr",
 			"source": "PHB",
 			"page": 192,
 			"srd": true,
@@ -167,7 +167,7 @@
 			]
 		},
 		{
-			"name": "Dash",
+			"name": "Correr",
 			"source": "XPHB",
 			"page": 365,
 			"srd52": true,
@@ -178,8 +178,8 @@
 				}
 			],
 			"entries": [
-				"When you take the Dash action, you gain extra movement for the current turn. The increase equals your {@variantrule Speed|XPHB} after applying any modifiers. With a {@variantrule Speed|XPHB} of 30 feet, for example, you can move up to 60 feet on your turn if you Dash. If your {@variantrule Speed|XPHB} of 30 feet is reduced to 15 feet, you can move up to 30 feet this turn if you Dash.",
-				"If you have a special speed, such as a {@variantrule Fly Speed|XPHB} or {@variantrule Swim Speed|XPHB}, you can use that speed instead of your {@variantrule Speed|XPHB} when you take this action. You choose which speed to use each time you take it."
+				"Cuando llevas a cabo la acción de correr, consigues movimiento adicional para ese turno. Este aumento es igual a tu velocidad tras aplicar cualquier modificador pertinente. Así, si tu velocidad fuera de 30 pies (9 m), podrías moverte hasta 60 pies (18 m) en un turno en el que corras. Si tu velocidad de 30 pies (9 m) se redujera a 15 pies (4,5 m), podrías moverte hasta 30 pies (9 m) en un turno en el que realizaras la acción de correr.",
+				"Si tienes una velocidad especial, como una velocidad nadando o una velocidad volando, puedes emplearla en lugar de tu velocidad normal cuando llevas a cabo esta acción. Eliges la velocidad que vas a emplear cada vez que realizas la acción. Consulta también “{@variantrule Velocidad|XPHB}”."
 			]
 		},
 		{
@@ -202,13 +202,13 @@
 			]
 		},
 		{
-			"name": "Disengage",
+			"name": "Destrabarse",
 			"source": "PHB",
 			"page": 192,
 			"srd": true,
 			"basicRules": true,
 			"reprintedAs": [
-				"Disengage|XPHB"
+				"Destrabarse|XPHB"
 			],
 			"time": [
 				{
@@ -217,11 +217,11 @@
 				}
 			],
 			"entries": [
-				"If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn."
+				"If you take the Destrabarse action, your movement doesn't provoke opportunity attacks for the rest of the turn."
 			]
 		},
 		{
-			"name": "Disengage",
+			"name": "Destrabarse",
 			"source": "XPHB",
 			"page": 366,
 			"srd52": true,
@@ -232,7 +232,7 @@
 				}
 			],
 			"entries": [
-				"If you take the Disengage action, your movement doesn't provoke {@action Opportunity Attack|XPHB|Opportunity Attacks} for the rest of the current turn."
+				"Si llevas a cabo la acción de destrabarse, tu movimiento no provocará {@action Opportunity Attack|XPHB|ataques de oportunidad} durante el resto del turno actual."
 			]
 		},
 		{
@@ -267,7 +267,7 @@
 			],
 			"entries": [
 				"lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has {@variantrule Disadvantage|XPHB} if you can see the attacker, and you make Dexterity {@variantrule Tirada de salvación|XPHB|saving throws} with {@variantrule Advantage|XPHB}.",
-				"You lose these benefits if you have the {@condition Incapacitado|XPHB} condition or if your {@variantrule Speed|XPHB} is 0."
+				"You lose these benefits if you have the {@condition Incapacitado|XPHB} condition or if your {@variantrule Velocidad|XPHB} is 0."
 			]
 		},
 		{
@@ -476,13 +476,13 @@
 			]
 		},
 		{
-			"name": "Hide",
+			"name": "Esconderse",
 			"source": "PHB",
 			"page": 192,
 			"srd": true,
 			"basicRules": true,
 			"reprintedAs": [
-				"Hide|XPHB"
+				"Esconderse|XPHB"
 			],
 			"time": [
 				{
@@ -495,9 +495,9 @@
 			]
 		},
 		{
-			"name": "Hide",
+			"name": "Esconderse",
 			"source": "XPHB",
-			"page": 368,
+			"page": 367,
 			"srd52": true,
 			"time": [
 				{
@@ -506,9 +506,9 @@
 				}
 			],
 			"entries": [
-				"With the Hide action, you try to conceal yourself. To do so, you must succeed on a {@dc 15} Dexterity ({@skill Stealth|XPHB}) check while you're {@variantrule Muy oscuro|XPHB} or behind {@variantrule Cobertura|XPHB|Three-Quarters Cover or Total Cover}, and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.",
-				"On a successful check, you have the {@condition Invisible|XPHB} condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom ({@skill Perception|XPHB}) check.",
-				"You stop being hidden immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component."
+				"Con la acción de esconderse, tratarás de ocultarte. Para ello, debes superar una prueba de Destreza ({@skill Sigilo|XPHB}) con CD 15 mientras estás en una zona {@variantrule Muy oscuro|XPHB|muy oscura} o detrás de una {@variantrule cobertura|XPHB} tres cuartos o completa, y deberás estar fuera de la línea de visión de cualquier enemigo; si puedes ver a una criatura, sabrás si te puede ver o no.",
+				"Si la superas, tendrás el estado de {@condition invisible|XPHB} mientras permanezcas oculto. Anota el resultado de tu prueba, que es la CD para que una criatura te detecte con una prueba de Sabiduría ({@skill Percepción|XPHB}).",
+				"Dejas de estar oculto inmediatamente después de que ocurra algo de lo siguiente: haces un ruido más alto que un susurro; un enemigo te detecta; haces una tirada de ataque, o lanzas un conjuro con un componente verbal."
 			]
 		},
 		{
@@ -681,7 +681,7 @@
 			"entries": [
 				"In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an opportunity attack.",
 				"You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.",
-				"You can avoid provoking an opportunity attack by taking the {@action Disengage} action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy."
+				"You can avoid provoking an opportunity attack by taking the {@action Destrabarse} action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy."
 			]
 		},
 		{
@@ -807,7 +807,7 @@
 			],
 			"entries": [
 				"You take the Ready action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a {@variantrule Reaction|XPHB} before the start of your next turn.",
-				"First, you decide what perceivable circumstance will trigger your {@variantrule Reaction|XPHB}. Then, you choose the action you will take in response to that trigger, or you choose to move up to your {@variantrule Speed|XPHB} in response to it. Examples include \"If the cultist steps on the trapdoor, I'll pull the lever that opens it,\" and \"If the zombie steps next to me, I move away.\"",
+				"First, you decide what perceivable circumstance will trigger your {@variantrule Reaction|XPHB}. Then, you choose the action you will take in response to that trigger, or you choose to move up to your {@variantrule Velocidad|XPHB} in response to it. Examples include \"If the cultist steps on the trapdoor, I'll pull the lever that opens it,\" and \"If the zombie steps next to me, I move away.\"",
 				"When the trigger occurs, you can either take your {@variantrule Reaction|XPHB} right after the trigger finishes or ignore the trigger.",
 				"When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your {@variantrule Reaction|XPHB} when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires {@status Concentration|XPHB}, which you can maintain up to the start of your next turn. If your {@status Concentration|XPHB} is broken, the spell dissipates without taking effect."
 			]

@@ -753,7 +753,7 @@
 					],
 					"rows": [
 						[
-							"{@item Candle|phb}",
+							"{@item Vela|phb}",
 							"5 ft.",
 							"+ 5 ft.",
 							"1 hour"
@@ -771,7 +771,7 @@
 							"6 hours"
 						],
 						[
-							"{@item Hooded Lantern|phb|Lantern, hooded}",
+							"{@item Linterna sorda|phb|Lantern, hooded}",
 							"30 ft.",
 							"+ 30 ft.",
 							"6 hours"

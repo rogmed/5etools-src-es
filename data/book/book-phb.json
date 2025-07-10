@@ -1890,7 +1890,7 @@
 									"{@dice 5d4×10|5d4 × 10|Ranger Starting Wealth} gp"
 								],
 								[
-									"Rogue",
+									"Pícaro",
 									"{@dice 4d4×10|4d4 × 10|Rogue Starting Wealth} gp"
 								],
 								[
@@ -3424,7 +3424,7 @@
 									"5 lb."
 								],
 								[
-									"{@item Ball bearings (bag of 1,000)|PHB}",
+									"{@item Bolas de metal (bag of 1,000)|PHB}",
 									"1 gp",
 									"2 lb."
 								],
@@ -3444,7 +3444,7 @@
 									"7 lb."
 								],
 								[
-									"{@item Bell|PHB}",
+									"{@item Campana|PHB}",
 									"1 gp",
 									"\u2014"
 								],
@@ -3479,7 +3479,7 @@
 									"2 lb."
 								],
 								[
-									"{@item Candle|PHB}",
+									"{@item Vela|PHB}",
 									"1 cp",
 									"\u2014"
 								],
@@ -3722,7 +3722,7 @@
 									"2 lb."
 								],
 								[
-									"{@item hooded lantern|PHB|Lantern, hooded}",
+									"{@item Linterna sorda|PHB|Lantern, hooded}",
 									"5 gp",
 									"2 lb."
 								],
@@ -3957,7 +3957,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Ball Bearings",
+											"name": "Bolas de metal",
 											"page": 151,
 											"entries": [
 												"As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a {@dc 10} Dexterity saving throw or fall {@condition prone}. A creature moving through the area at half speed doesn't need to make this save."
@@ -3993,7 +3993,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Candle",
+											"name": "Vela",
 											"page": 151,
 											"entries": [
 												"For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet."
@@ -4141,7 +4141,7 @@
 											"name": "Lantern, Hooded",
 											"page": 152,
 											"entries": [
-												"A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius."
+												"A Linterna sorda casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius."
 											],
 											"id": "0b4"
 										},
@@ -4150,7 +4150,7 @@
 											"name": "Lock",
 											"page": 152,
 											"entries": [
-												"A key is provided with the lock. Without the key, a creature proficient with {@item thieves' tools|phb} can pick this lock with a successful {@dc 15} Dexterity check. Your DM may decide that better locks are available for higher prices."
+												"A key is provided with the lock. Without the key, a creature proficient with {@item Herramientas de ladrón|phb} can pick this lock with a successful {@dc 15} Dexterity check. Your DM may decide that better locks are available for higher prices."
 											],
 											"id": "0b5"
 										},
@@ -4168,7 +4168,7 @@
 											"name": "Manacles",
 											"page": 152,
 											"entries": [
-												"These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful {@dc 20} Dexterity check. Breaking them requires a successful {@dc 20} Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with {@item thieves' tools|phb} can pick the manacles' lock with a successful {@dc 15} Dexterity check. Manacles have 15 hit points."
+												"These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful {@dc 20} Dexterity check. Breaking them requires a successful {@dc 20} Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with {@item Herramientas de ladrón|phb} can pick the manacles' lock with a successful {@dc 15} Dexterity check. Manacles have 15 hit points."
 											],
 											"id": "0b7"
 										},
@@ -4410,10 +4410,10 @@
 								"The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.",
 								{
 									"type": "entries",
-									"name": "Burglar's Pack (16 gp)",
+									"name": "Paquete de ladrón (16 gp)",
 									"page": 151,
 									"entries": [
-										"Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it."
+										"Includes a backpack, a bag of 1,000 Bolas de metal, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a Linterna sorda, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it."
 									],
 									"id": "0c9"
 								},
@@ -4494,12 +4494,12 @@
 									"entries": [
 										{
 											"type": "entries",
-											"name": "Artisan's Tools",
+											"name": "Herramientas de artesano",
 											"basicRules": true,
 											"srd": true,
 											"page": 154,
 											"entries": [
-												"These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
+												"These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of Herramientas de artesano lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of Herramientas de artesano requires a separate proficiency."
 											],
 											"id": "0d3"
 										},
@@ -4605,7 +4605,7 @@
 							],
 							"rows": [
 								[
-									"{@i Artisan's tools}",
+									"{@i Herramientas de artesano}",
 									"",
 									""
 								],
@@ -4924,7 +4924,7 @@
 									"2 lb."
 								],
 								[
-									"{@item Thieves' tools|phb}",
+									"{@item Herramientas de ladrón|phb}",
 									"25 gp",
 									"1 lb."
 								],
@@ -5966,7 +5966,7 @@
 										],
 										[
 											"{@class Rogue}",
-											"Light armor, one skill from the class's skill list, {@item thieves' tools|phb}"
+											"Light armor, one skill from the class's skill list, {@item Herramientas de ladrón|phb}"
 										],
 										[
 											"{@class Hechicero}",
@@ -6040,7 +6040,7 @@
 											"name": "Spell Slots",
 											"page": 164,
 											"entries": [
-												"You determine your available spell slots by adding together all your levels in the bard, cleric, druid, hechicero, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.",
+												"You determine your available spell slots by adding together all your levels in the bard, cleric, druid, hechicero, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Embaucador arcano feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.",
 												"If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like {@spell burning hands}, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.",
 												"For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know\u2014and potentially enhance their effects."
 											],
@@ -7452,7 +7452,7 @@
 										"Your Strength determines how far you can jump.",
 										{
 											"type": "entries",
-											"name": "Long Jump",
+											"name": "Salto de longitud",
 											"page": 182,
 											"entries": [
 												"When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.",
@@ -7463,7 +7463,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "High Jump",
+											"name": "Salto de altura",
 											"page": 182,
 											"entries": [
 												"When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your DM might allow you to make a Strength ({@skill Athletics}) check to jump higher than you normally can.",
@@ -7882,7 +7882,7 @@
 											"name": "Crafting",
 											"page": 187,
 											"entries": [
-												"You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with {@item smith's tools|phb} needs a forge in order to craft a sword or suit of armor.",
+												"You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically Herramientas de artesano). You might also need access to special materials or locations necessary to create it. For example, someone proficient with {@item smith's tools|phb} needs a forge in order to craft a sword or suit of armor.",
 												"For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5-gp increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,500 gp) takes 300 days to craft by yourself.",
 												"Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have proficiency with the requisite tools and are working together in the same place. Each character contributes 5 gp worth of effort for every day spent helping to craft the item. For example, three characters with the requisite tool proficiency and the proper facilities can craft a suit of plate armor in 100 days, at a total cost of 750 gp.",
 												"While crafting, you can maintain a modest lifestyle without having to pay 1 gp per day, or a comfortable lifestyle at half the normal cost (see chapter 5 for more information on lifestyle expenses)."
@@ -9479,7 +9479,7 @@
 								"The words within the D&D multiverse are magical places. All existence is suffused with magical power, and potential energy lies untapped in every rock, stream, and living creature, the mute and mindless will of existence, permeating every bit of matter and present in every manifestation of energy throughout the multiverse.",
 								"Mortals can't directly shape this raw magic. Instead, they make use of a fabric of magic, a kind of interface between the will of a spellcaster and the stuff of raw magic. The spellcasters of the Forgotten Realms call it the Weave and recognize its essence as the goddess Mystra, but casters have varied ways of naming and visualizing this interface.",
 								"By any name, without the Weave, raw magic is locked away and inaccessible; the most powerful archmage can't light a candle with magic in an area where the Weave has been torn. But surrounded by the Weave, a spellcaster can shape lightning to blast foes, transport hundreds of miles in the blink of an eye, or even reverse death itself.",
-								"All magic depends on the Weave, though different kinds of magic access it in a variety of ways. The spells of wizards, warlocks, hechiceros, and bards are commonly called {@b arcane magic}. These spells rely on an understanding\u2014learned or intuitive\u2014of the workings of the Weave. The caster plucks directly at the strands of the Weave to create the desired effect. Eldritch knights and arcane tricksters also use arcane magic. The spells of clerics, druids, paladins, and rangers are called {@b divine magic}. These spellcasters' access to the Weave is mediated by divine power\u2014gods, the divine forces of nature, or the sacred weight of a paladin's oath.",
+								"All magic depends on the Weave, though different kinds of magic access it in a variety of ways. The spells of wizards, warlocks, hechiceros, and bards are commonly called {@b arcane magic}. These spells rely on an understanding\u2014learned or intuitive\u2014of the workings of the Weave. The caster plucks directly at the strands of the Weave to create the desired effect. Eldritch knights and Embaucador arcanos also use arcane magic. The spells of clerics, druids, paladins, and rangers are called {@b divine magic}. These spellcasters' access to the Weave is mediated by divine power\u2014gods, the divine forces of nature, or the sacred weight of a paladin's oath.",
 								"Whenever a magic effect is created, the threads of the Weave intertwine, twist, and fold to make the effect possible.",
 								"When characters use divination spells such as {@i detect magic} or {@i identify}, they glimpse the Weave. A spell such as {@i dispel magic} smooths the Weave. Spells such as {@i antimagic field} rearrange the Weave so that magic flows around, rather than through the area affected by the spell. And in places where the Weave is damaged or torn, magic works in unpredictable ways\u2014or not at all."
 							],

@@ -98,7 +98,7 @@
 						{
 							"type": "item",
 							"name": "Competencia con herramientas:",
-							"entry": "Elige competencia con una {@filter herramienta|items|type=artisan's tools;gaming set;instrument;tool}, ya sea una herramienta específica o una elegida de la categoría de herramientas de artesano."
+							"entry": "Elige competencia con una {@filter herramienta|items|type=Herramientas de artesano;gaming set;instrument;tool}, ya sea una herramienta específica o una elegida de la categoría de herramientas de artesano."
 						},
 						{
 							"type": "item",
@@ -169,7 +169,7 @@
 				{
 					"A": [
 						{
-							"item": "artisan's tools|xphb"
+							"item": "Herramientas de artesano|xphb"
 						},
 						{
 							"item": "pouch|xphb",
@@ -212,12 +212,12 @@
 						{
 							"type": "item",
 							"name": "Tool Proficiency:",
-							"entry": "Choose one kind of {@item Artisan's Tools|XPHB}"
+							"entry": "Choose one kind of {@item Herramientas de artesano|XPHB}"
 						},
 						{
 							"type": "item",
 							"name": "Equipment:",
-							"entry": "Choose A or B: (A) {@item Artisan's Tools|XPHB} (same as above), 2 {@item Pouch|XPHB|Pouches}, {@item Traveler's Clothes|XPHB}, 32 GP; or (B) 50 GP"
+							"entry": "Choose A or B: (A) {@item Herramientas de artesano|XPHB} (same as above), 2 {@item Pouch|XPHB|Pouches}, {@item Traveler's Clothes|XPHB}, 32 GP; or (B) 50 GP"
 						}
 					]
 				}
@@ -406,7 +406,7 @@
 				{
 					"A": [
 						{
-							"item": "artisan's tools|xphb"
+							"item": "Herramientas de artesano|xphb"
 						},
 						{
 							"item": "pouch|xphb",
@@ -449,12 +449,12 @@
 						{
 							"type": "item",
 							"name": "Tool Proficiency:",
-							"entry": "Choose one kind of {@item Artisan's Tools|XPHB}"
+							"entry": "Choose one kind of {@item Herramientas de artesano|XPHB}"
 						},
 						{
 							"type": "item",
 							"name": "Equipment:",
-							"entry": "Choose A or B: (A) {@item Artisan's Tools|XPHB} (same as above), 2 {@item Pouch|XPHB|Pouches}, {@item Traveler's Clothes|XPHB}, 32 GP; or (B) 50 GP"
+							"entry": "Choose A or B: (A) {@item Herramientas de artesano|XPHB} (same as above), 2 {@item Pouch|XPHB|Pouches}, {@item Traveler's Clothes|XPHB}, 32 GP; or (B) 50 GP"
 						}
 					]
 				}
@@ -684,12 +684,12 @@
 						{
 							"type": "item",
 							"name": "Tool Proficiency:",
-							"entry": "{@item Thieves' Tools|XPHB}"
+							"entry": "{@item Herramientas de ladrón|XPHB}"
 						},
 						{
 							"type": "item",
 							"name": "Equipment:",
-							"entry": "Choose A or B: (A) {@item Daga|XPHB|2 Daggers}, {@item Thieves' Tools|XPHB}, {@item Palanqueta|XPHB}, {@item Pouch|XPHB|2 Pouches}, {@item Traveler's Clothes|XPHB}, 16 GP; or (B) 50 GP"
+							"entry": "Choose A or B: (A) {@item Daga|XPHB|2 Daggers}, {@item Herramientas de ladrón|XPHB}, {@item Palanqueta|XPHB}, {@item Pouch|XPHB|2 Pouches}, {@item Traveler's Clothes|XPHB}, 16 GP; or (B) 50 GP"
 						}
 					]
 				}
@@ -1009,7 +1009,7 @@
 							"item": "gaming set|xphb"
 						},
 						{
-							"item": "hooded lantern|xphb"
+							"item": "Linterna sorda|xphb"
 						},
 						{
 							"item": "manacles|xphb"
@@ -1059,7 +1059,7 @@
 						{
 							"type": "item",
 							"name": "Equipment:",
-							"entry": "Choose A or B: (A) {@item Lanza|XPHB}, {@item Ballesta ligera|XPHB}, 20 {@item Bolt|XPHB|Bolts}, {@item Gaming Set|XPHB} (same as above), {@item Hooded Lantern|XPHB}, {@item Manacles|XPHB}, {@item Aljaba|XPHB}, {@item Traveler's Clothes|XPHB}, 12 GP; or (B) 50 GP"
+							"entry": "Choose A or B: (A) {@item Lanza|XPHB}, {@item Ballesta ligera|XPHB}, 20 {@item Bolt|XPHB|Bolts}, {@item Gaming Set|XPHB} (same as above), {@item Linterna sorda|XPHB}, {@item Manacles|XPHB}, {@item Aljaba|XPHB}, {@item Traveler's Clothes|XPHB}, 12 GP; or (B) 50 GP"
 						}
 					]
 				}
@@ -2138,12 +2138,12 @@
 						{
 							"type": "item",
 							"name": "Tool Proficiency:",
-							"entry": "{@item Thieves' Tools|XPHB}"
+							"entry": "{@item Herramientas de ladrón|XPHB}"
 						},
 						{
 							"type": "item",
 							"name": "Equipment:",
-							"entry": "Choose A or B: (A) {@item Daga|XPHB|2 Daggers}, {@item Thieves' Tools|XPHB}, {@item Gaming Set|XPHB} (any), {@item Bedroll|XPHB}, {@item Pouch|XPHB|2 Pouches}, {@item Traveler's Clothes|XPHB}, 16 GP; or (B) 50 GP"
+							"entry": "Choose A or B: (A) {@item Daga|XPHB|2 Daggers}, {@item Herramientas de ladrón|XPHB}, {@item Gaming Set|XPHB} (any), {@item Bedroll|XPHB}, {@item Pouch|XPHB|2 Pouches}, {@item Traveler's Clothes|XPHB}, 16 GP; or (B) 50 GP"
 						}
 					]
 				}

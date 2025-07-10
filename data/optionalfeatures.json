@@ -1962,7 +1962,7 @@
 				}
 			],
 			"entries": [
-				"You can breathe underwater, and you gain a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Speed|XPHB}.",
+				"You can breathe underwater, and you gain a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Velocidad|XPHB}.",
 				"You can also cast {@spell Respirar bajo el agua|XPHB} once without expending a spell slot. You regain the ability to cast it in this way again when you finish a {@variantrule Descanso largo|XPHB}."
 			]
 		},

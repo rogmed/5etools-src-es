@@ -9804,7 +9804,7 @@
 												],
 												[
 													"11-14",
-													"Rogue"
+													"Pícaro"
 												],
 												[
 													"15",
@@ -10140,7 +10140,7 @@
 											"name": "Locked Doors",
 											"page": 103,
 											"entries": [
-												"Characters who don't have the key to a locked door can pick the lock with a successful Dexterity check (doing so requires {@item thieves' tools|phb} and proficiency in their use). They can also force the door with a successful Strength check, smash the door to pieces by dealing enough damage to it, or use a knock spell or similar magic. Chapter 8 provides guidelines for setting the DCs and assigning statistics to doors and other objects."
+												"Characters who don't have the key to a locked door can pick the lock with a successful Dexterity check (doing so requires {@item Herramientas de ladrón|phb} and proficiency in their use). They can also force the door with a successful Strength check, smash the door to pieces by dealing enough damage to it, or use a knock spell or similar magic. Chapter 8 provides guidelines for setting the DCs and assigning statistics to doors and other objects."
 											],
 											"id": "1b8"
 										},
@@ -12542,7 +12542,7 @@
 									"page": 120,
 									"entries": [
 										"Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap's presence.",
-										"A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ({@skill Perception}) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ({@skill Perception}) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ({@skill Investigation}) check for a character to deduce what needs to be done, followed by a Dexterity check using {@item thieves' tools|phb} to perform the necessary sabotage.",
+										"A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ({@skill Perception}) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ({@skill Perception}) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ({@skill Investigation}) check for a character to deduce what needs to be done, followed by a Dexterity check using {@item Herramientas de ladrón|phb} to perform the necessary sabotage.",
 										"Any character can attempt an Intelligence ({@skill Arcana}) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, dispel magic has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use dispel magic.",
 										"In most cases, a trap's description is clear enough that you can adjudicate whether a character's actions locate or foil the trap. As with many situations, you shouldn't allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap's description to determine what happens. No trap's design can anticipate every possible action that the characters might attempt.",
 										"You should allow a character to discover a trap without making an ability check if an action would clearly reveal the trap's presence. For example, if a character lifts a rug that conceals a pressure plate, the character has found the trigger and no check is required.",
@@ -18722,7 +18722,7 @@
 									"name": "Critical Success or Failure",
 									"page": 242,
 									"entries": [
-										"Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have any special effect. However, you can choose to take such an exceptional roll into account when adjudicating the outcome. It's up to you to determine how this manifests in the game. An easy approach is to increase the impact of the success or failure. For example, rolling a 1 on a failed attempt to pick a lock might break the {@item thieves' tools|phb} being used, and rolling a 20 on a successful Intelligence ({@skill Investigation}) check might reveal an extra clue."
+										"Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have any special effect. However, you can choose to take such an exceptional roll into account when adjudicating the outcome. It's up to you to determine how this manifests in the game. An easy approach is to increase the impact of the success or failure. For example, rolling a 1 on a failed attempt to pick a lock might break the {@item Herramientas de ladrón|phb} being used, and rolling a 20 on a successful Intelligence ({@skill Investigation}) check might reveal an extra clue."
 									],
 									"id": "2b3"
 								}
@@ -24082,7 +24082,7 @@
 										"Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of spell points instead. You expend a number of spell points to create a spell slot of a given level, and then use that slot to cast a spell. You can't reduce your spell points total to less than 0, and you regain all spent spell points when you finish a long rest.",
 										"Spells of 6th level and higher are particularly taxing to cast. You can use spell points to create one slot of each level of 6th or higher. You can't create another slot of the same level until you finish a long rest.",
 										"The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.",
-										"The Spell Points by Level table applies to {@class bard||bards}, {@class cleric||clerics}, {@class Druida||druids}, {@class hechicero||hechiceros}, and {@class wizard||wizards}. For a {@class paladin} or {@class ranger}, halve the character's level in that class and then consult the table. For a {@class fighter|phb|fighter (Eldritch Knight)|Eldritch Knight} or {@class rogue|phb|rogue (Arcane Trickster)|Arcane Trickster}, divide the character's level in that class by three.",
+										"The Spell Points by Level table applies to {@class bard||bards}, {@class cleric||clerics}, {@class Druida||druids}, {@class hechicero||hechiceros}, and {@class wizard||wizards}. For a {@class paladin} or {@class ranger}, halve the character's level in that class and then consult the table. For a {@class fighter|phb|fighter (Eldritch Knight)|Eldritch Knight} or {@class Pícaro|phb|rogue (Embaucador arcano)|Embaucador arcano}, divide the character's level in that class by three.",
 										"This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.",
 										{
 											"type": "table",
@@ -27920,7 +27920,7 @@
 										],
 										[
 											"24",
-											"Candle"
+											"Vela"
 										],
 										[
 											"25-26",
@@ -28170,7 +28170,7 @@
 										],
 										[
 											"14",
-											"Candle"
+											"Vela"
 										],
 										[
 											"15",

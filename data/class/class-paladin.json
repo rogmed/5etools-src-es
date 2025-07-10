@@ -5261,7 +5261,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have {@variantrule Advantage|XPHB} on Strength ({@skill Athletics|XPHB}) and Dexterity ({@skill Acrobatics|XPHB}) checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal)."
+				"As a {@variantrule Acción adicional|XPHB}, you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have {@variantrule Advantage|XPHB} on Strength ({@skill Athletics|XPHB}) and Dexterity ({@skill Acrobatics|XPHB}) checks, and the distance of your Long and Salto de alturas increases by 10 feet (this extra distance costs movement as normal)."
 			]
 		},
 		{
@@ -5276,7 +5276,7 @@
 			"header": 2,
 			"entries": [
 				"Your Speed increases by 10 feet.",
-				"In addition, whenever an ally enters your Aura of Protection for the first time on a turn or starts their turn there, the ally's {@variantrule Speed|XPHB} increases by 10 feet until the end of their next turn."
+				"In addition, whenever an ally enters your Aura of Protection for the first time on a turn or starts their turn there, the ally's {@variantrule Velocidad|XPHB} increases by 10 feet until the end of their next turn."
 			]
 		},
 		{
@@ -5435,7 +5435,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an {@action Opportunity Attack|XPHB}, you can reduce the creature's {@variantrule Speed|XPHB} to 0 until the end of the current turn. You can then move up to half your {@variantrule Speed|XPHB} as part of the same {@variantrule Reaction|XPHB}. This movement doesn't provoke {@action Opportunity Attack|XPHB|Opportunity Attacks}."
+				"Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an {@action Opportunity Attack|XPHB}, you can reduce the creature's {@variantrule Velocidad|XPHB} to 0 until the end of the current turn. You can then move up to half your {@variantrule Velocidad|XPHB} as part of the same {@variantrule Reaction|XPHB}. This movement doesn't provoke {@action Opportunity Attack|XPHB|Opportunity Attacks}."
 			]
 		},
 		{

@@ -7,7 +7,7 @@
 	"monk": "class-monk.json",
 	"paladin": "class-paladin.json",
 	"explorador": "class-ranger.json",
-	"rogue": "class-rogue.json",
+	"Pícaro": "class-rogue.json",
 	"hechicero": "class-sorcerer.json",
 	"warlock": "class-warlock.json",
 	"wizard": "class-wizard.json"

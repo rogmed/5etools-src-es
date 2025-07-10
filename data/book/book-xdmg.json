@@ -4084,11 +4084,11 @@
 											],
 											"rows": [
 												[
-													"{@action Dash|XPHB}",
+													"{@action Correr|XPHB}",
 													"\"Dispensing with attacks, your foe hurries across the room.\""
 												],
 												[
-													"{@action Disengage|XPHB}",
+													"{@action Destrabarse|XPHB}",
 													"\"Careful not to drop its guard, your foe edges away from you.\""
 												],
 												[
@@ -4109,7 +4109,7 @@
 												]
 											]
 										},
-										"You can combine those narrative descriptions with game rules: \"Dispensing with attacks, your foe hurries across the room, taking the {@action Dash|XPHB} action.\""
+										"You can combine those narrative descriptions with game rules: \"Dispensing with attacks, your foe hurries across the room, taking the {@action Correr|XPHB} action.\""
 									]
 								},
 								{
@@ -4138,7 +4138,7 @@
 									"page": 47,
 									"id": "0d4",
 									"entries": [
-										"When characters do something to change the tactical situation, don't respond by putting things back to the way they were before. For example, if a character takes the {@action Disengage|XPHB} action to move away from a group of monsters, don't respond by having those same monsters chase the character. Move the monsters somewhere else."
+										"When characters do something to change the tactical situation, don't respond by putting things back to the way they were before. For example, if a character takes the {@action Destrabarse|XPHB} action to move away from a group of monsters, don't respond by having those same monsters chase the character. Move the monsters somewhere else."
 									]
 								},
 								{
@@ -4530,14 +4530,14 @@
 							"page": 52,
 							"id": "0f3",
 							"entries": [
-								"Participants in the chase are strongly motivated to take the {@action Dash|XPHB} action every round. Pursuers who stop to cast spells and make attacks run the risk of losing their quarry, and a quarry that doesn't take the Dash action is likely to be caught.",
+								"Participants in the chase are strongly motivated to take the {@action Correr|XPHB} action every round. Pursuers who stop to cast spells and make attacks run the risk of losing their quarry, and a quarry that doesn't take the Dash action is likely to be caught.",
 								{
 									"type": "entries",
 									"name": "Dashing",
 									"page": 52,
 									"id": "0f4",
 									"entries": [
-										"A chase participant can take the {@action Dash|XPHB} action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a {@dc 10} Constitution saving throw at the end of its turn or gain 1 {@condition Cansancio|XPHB} level. A participant drops out of the chase if it has 5 {@condition Cansancio|XPHB} levels. A creature can remove the {@condition Cansancio|XPHB} levels it gained during the chase by finishing a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}."
+										"A chase participant can take the {@action Correr|XPHB} action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a {@dc 10} Constitution saving throw at the end of its turn or gain 1 {@condition Cansancio|XPHB} level. A participant drops out of the chase if it has 5 {@condition Cansancio|XPHB} levels. A creature can remove the {@condition Cansancio|XPHB} levels it gained during the chase by finishing a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}."
 									]
 								},
 								{
@@ -5768,7 +5768,7 @@
 									"page": 64,
 									"id": "144",
 									"entries": [
-										"Characters who don't have the key to a locked door can try to pick the lock using {@item Thieves' Tools|XPHB}. The Lock Complexity table tells you how long it takes to try to pick a lock based on its complexity. At the end of that time, the character picks the lock by making a successful Dexterity ({@skill Sleight of Hand|XPHB}) check using Thieves' Tools. The DC is determined by the lock's quality, as shown in the Lock Quality table.",
+										"Characters who don't have the key to a locked door can try to pick the lock using {@item Herramientas de ladrón|XPHB}. The Lock Complexity table tells you how long it takes to try to pick a lock based on its complexity. At the end of that time, the character picks the lock by making a successful Dexterity ({@skill Sleight of Hand|XPHB}) check using Thieves' Tools. The DC is determined by the lock's quality, as shown in the Lock Quality table.",
 										{
 											"type": "table",
 											"caption": "Lock Complexity",
@@ -6389,7 +6389,7 @@
 								{
 									"type": "list",
 									"items": [
-										"The Frightened creature must take the {@action Dash|XPHB} action on each of its turns and uses its movement to get farther away from the source of its fear.",
+										"The Frightened creature must take the {@action Correr|XPHB} action on each of its turns and uses its movement to get farther away from the source of its fear.",
 										"Attack rolls against the Frightened creature have {@variantrule Advantage|XPHB}.",
 										"The Frightened creature can do only one of the following on each of its turns: move, take an action, or take a Bonus Action."
 									]
@@ -29159,7 +29159,7 @@
 									"page": 336,
 									"id": "717",
 									"entries": [
-										"Hirelings in the special facility craft an item that can be made in that facility. During the time required to craft an item, the facility can't be used to craft anything else, even if a special ability allows the facility to carry out two orders at once. The hirelings have proficiencies with Artisan's Tools as specified in the facility's description."
+										"Hirelings in the special facility craft an item that can be made in that facility. During the time required to craft an item, the facility can't be used to craft anything else, even if a special ability allows the facility to carry out two orders at once. The hirelings have proficiencies with Herramientas de artesano as specified in the facility's description."
 									]
 								},
 								{

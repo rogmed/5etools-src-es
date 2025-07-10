@@ -3966,7 +3966,7 @@
 				{
 					"name": "Claw {@recharge 5}",
 					"entries": [
-						"{@atk mw} {@hit 12} to hit, reach 5 ft., one target. {@h}11 ({@damage 1d8 + 7}) bludgeoning damage, and the target must succeed on a {@dc 16} Dexterity {@quickref saving throws|PHB|2|1|saving throw} or have a magic collar placed upon its neck. While the target wears the collar, it is magically prevented from speaking and cannot cast any spell. A successful {@dc 25} Dexterity check using {@item thieves' tools|PHB} removes the collar."
+						"{@atk mw} {@hit 12} to hit, reach 5 ft., one target. {@h}11 ({@damage 1d8 + 7}) bludgeoning damage, and the target must succeed on a {@dc 16} Dexterity {@quickref saving throws|PHB|2|1|saving throw} or have a magic collar placed upon its neck. While the target wears the collar, it is magically prevented from speaking and cannot cast any spell. A successful {@dc 25} Dexterity check using {@item Herramientas de ladrón|PHB} removes the collar."
 					]
 				},
 				{

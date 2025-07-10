@@ -6728,7 +6728,7 @@
 							"page": 98,
 							"id": "139",
 							"entries": [
-								"A creature with proficiency in appropriate artisan's tools can use the Star Forge to create magic items using those tools and an amount of materials based on the item's rarity. For every 8 hours of work, the creature can make an Intelligence check using its tool proficiency, with a DC set by the item's rarity. On a successful check, the creature makes 100 gp worth of progress. On a failed check, no progress is made. For every 10 by which the check exceeds the DC, the creature makes an additional 100 gp of progress. The item is complete when the progress equals the cost of materials for the item. See the Star Forge Item Creation table for item rarity, cost, and check DC.",
+								"A creature with proficiency in appropriate Herramientas de artesano can use the Star Forge to create magic items using those tools and an amount of materials based on the item's rarity. For every 8 hours of work, the creature can make an Intelligence check using its tool proficiency, with a DC set by the item's rarity. On a successful check, the creature makes 100 gp worth of progress. On a failed check, no progress is made. For every 10 by which the check exceeds the DC, the creature makes an additional 100 gp of progress. The item is complete when the progress equals the cost of materials for the item. See the Star Forge Item Creation table for item rarity, cost, and check DC.",
 								{
 									"type": "table",
 									"caption": "Star Forge Item Creation",

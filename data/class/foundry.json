@@ -10487,7 +10487,7 @@
 			"source": "PHB",
 			"className": "Pícaro",
 			"classSource": "PHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "PHB",
 			"level": 3,
 			"entryData": {
@@ -19214,7 +19214,7 @@
 			"source": "XPHB",
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entryData": {
@@ -19232,7 +19232,7 @@
 			"source": "XPHB",
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -19293,7 +19293,7 @@
 			"source": "XPHB",
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 13,
 			"activities": [
@@ -19339,7 +19339,7 @@
 			"source": "XPHB",
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"activities": [

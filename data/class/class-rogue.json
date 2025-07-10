@@ -8,7 +8,7 @@
 		{
 			"name": "Pícaro",
 			"source": "XPHB",
-			"page": 128,
+			"page": 166,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
@@ -764,18 +764,18 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Assassin",
-			"shortName": "Assassin",
+			"name": "Asesino",
+			"shortName": "Asesino",
 			"source": "XPHB",
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"page": 134,
+			"page": 170,
 			"edition": "one",
 			"subclassFeatures": [
-				"Assassin|Pícaro|XPHB|Assassin|XPHB|3",
-				"Infiltration Expertise|Pícaro|XPHB|Assassin|XPHB|9",
-				"Envenom Weapons|Pícaro|XPHB|Assassin|XPHB|13",
-				"Death Strike|Pícaro|XPHB|Assassin|XPHB|17"
+				"Asesino|Pícaro|XPHB|Asesino|XPHB|3",
+				"Pericia en infiltrarse|Pícaro|XPHB|Asesino|XPHB|9",
+				"Envenenar armas|Pícaro|XPHB|Asesino|XPHB|13",
+				"Golpe mortal|Pícaro|XPHB|Asesino|XPHB|17"
 			],
 			"hasFluffImages": true
 		},
@@ -1508,66 +1508,66 @@
 			]
 		},
 		{
-			"name": "Assassin",
+			"name": "Asesino",
 			"source": "XPHB",
-			"page": 134,
+			"page": 170,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Practice the Grim Art of Death}",
-				"An Assassin's training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.",
+				"{@i Practica el sombrío arte de la muerte}",
+				"El entrenamiento de un asesino se centra en el uso del sigilo, el veneno y los disfraces para eliminar a sus oponentes con una eficacia mortífera. Aunque algunos pícaros que siguen este camino son asesinos a sueldo, espías o cazarrecompensas, las aptitudes de esta subclase son igual de útiles para aventureros que se enfrentan a una gran variedad de monstruos.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Assassinate|Pícaro|XPHB|Assassin|XPHB|3"
+					"subclassFeature": "Asesinar|Pícaro|XPHB|Asesino|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Assassin's Tools|Pícaro|XPHB|Assassin|XPHB|3"
+					"subclassFeature": "Herramientas de asesino|Pícaro|XPHB|Asesino|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Assassin's Tools",
+			"name": "Herramientas de asesino",
 			"source": "XPHB",
-			"page": 134,
+			"page": 170,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a {@item Disguise Kit|XPHB} and a {@item Poisoner's Kit|XPHB}, and you have proficiency with them."
+				"Consigues {@item útiles de envenenador|XPHB} y {@item útiles para disfrazarse|XPHB} y tienes competencia con ellos."
 			]
 		},
 		{
-			"name": "Assassinate",
+			"name": "Asesinar",
 			"source": "XPHB",
-			"page": 134,
+			"page": 170,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You're adept at ambushing a target, granting you the following benefits.",
+				"Se te da muy bien emboscar objetivos, lo que te otorga los siguientes beneficios.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Initiative",
+							"name": "Golpes sorprendentes",
 							"entries": [
-								"You have {@variantrule Advantage|XPHB} on {@variantrule Initiative|XPHB} rolls."
+								"Durante el primer asalto de cada combate, tienes ventaja en las tiradas de ataque contra cualquier criatura que aún no haya jugado un turno. Si tu Ataque furtivo acierta a cualquier objetivo durante ese asalto, el objetivo recibirá un daño adicional del tipo del arma igual a tu nivel de pícaro."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Surprising Strikes",
+							"name": "Iniciativa",
 							"entries": [
-								"During the first round of each combat, you have {@variantrule Advantage|XPHB} on attack rolls against any creature that hasn't taken a turn. If your Ataque furtivo hits any target during that round, the target takes extra damage of the weapon's type equal to your Rogue level."
+								"Tienes ventaja en las tiradas de iniciativa."
 							]
 						}
 					]
@@ -1575,32 +1575,32 @@
 			]
 		},
 		{
-			"name": "Infiltration Expertise",
+			"name": "Pericia en infiltrarse",
 			"source": "XPHB",
-			"page": 134,
+			"page": 170,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"You are expert at the following techniques that aid your infiltrations.",
+				"Eres experto en las siguientes técnicas que te ayudan en tus infiltraciones.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Masterful Mimicry",
+							"name": "Imitación magistral",
 							"entries": [
-								"You can unerringly mimic another person's speech, handwriting, or both if you have spent at least 1 hour studying them."
+								"Puedes imitar a la perfección el habla de otra persona, su caligrafía o ambas si pasas al menos 1 hora estudiándolas."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Roving Aim",
+							"name": "Puntería ambulante",
 							"entries": [
-								"Your {@variantrule Velocidad|XPHB} isn't reduced to 0 by using Puntería certera."
+								"Tu {@variantrule velocidad|XPHB} no se reduce a 0 cuando usas Puntería certera."
 							]
 						}
 					]
@@ -1608,31 +1608,31 @@
 			]
 		},
 		{
-			"name": "Envenom Weapons",
+			"name": "Envenenar armas",
 			"source": "XPHB",
-			"page": 134,
+			"page": 170,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"When you use the Poison option of your Golpe astuto, the target also takes {@damage 2d6} Poison damage whenever it fails the saving throw. This damage ignores {@variantrule Resistance|XPHB} to Poison damage."
+				"Cuando utilizas la opción de veneno de tu Golpe astuto, el objetivo también recibirá {@damage 2d6} de daño de veneno si falla la tirada de salvación. Este daño ignora la resistencia al daño de veneno."
 			]
 		},
 		{
-			"name": "Death Strike",
+			"name": "Golpe mortal",
 			"source": "XPHB",
-			"page": 134,
+			"page": 170,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Assassin",
+			"subclassShortName": "Asesino",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"When you hit with your Ataque furtivo on the first round of a combat, the target must succeed on a Constitution saving throw ({@dc 8} plus your Dexterity modifier and {@variantrule Competencia|XPHB|Proficiency Bonus}), or the attack's damage is doubled against the target."
+				"Cuando aciertes con tu Ataque furtivo en el primer asalto de un combate, el objetivo deberá hacer una tirada de salvación de Constitución (CD 8 más tu modificador por Destreza y tu bonificador por competencia). Si no la supera, se duplicará el daño del ataque contra el objetivo."
 			]
 		},
 		{

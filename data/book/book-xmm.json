@@ -1757,12 +1757,12 @@
 						},
 						{
 							"type": "section",
-							"name": "Assassin",
+							"name": "Asesino",
 							"page": 22,
 							"entries": [
 								{
 									"type": "statblock",
-									"name": "Assassin",
+									"name": "Asesino",
 									"prop": "monsterFluff",
 									"source": "XMM",
 									"data": {
@@ -1783,7 +1783,7 @@
 								},
 								{
 									"type": "statblock",
-									"name": "Assassin",
+									"name": "Asesino",
 									"tag": "creature",
 									"source": "XMM",
 									"style": "narrow"

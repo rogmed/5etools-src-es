@@ -455,12 +455,12 @@
 	],
 	"subclass": [
 		{
-			"name": "Arcane Trickster",
-			"shortName": "Arcane Trickster",
+			"name": "Embaucador arcano",
+			"shortName": "Embaucador arcano",
 			"source": "XPHB",
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"page": 166,
+			"page": 171,
 			"edition": "one",
 			"spellcastingAbility": "int",
 			"casterProgression": "1/3",
@@ -547,12 +547,12 @@
 				{
 					"subclasses": [
 						{
-							"name": "Arcane Trickster",
+							"name": "Embaucador arcano",
 							"source": "XPHB"
 						}
 					],
 					"colLabels": [
-						"{@filter Prepared Spells|spells|subclass=Rogue: Arcane Trickster}"
+						"{@filter Conjuros preparados|spells|subclass=Pícaro: Embaucador arcano}"
 					],
 					"rows": [
 						[
@@ -618,18 +618,18 @@
 					]
 				},
 				{
-					"title": "Spell Slots per Spell Level",
+					"title": "Espacios de conjuro por cada nivel de conjuro",
 					"subclasses": [
 						{
-							"name": "Arcane Trickster",
+							"name": "Embaucador arcano",
 							"source": "XPHB"
 						}
 					],
 					"colLabels": [
-						"{@filter 1st|spells|level=1|subclass=Rogue: Arcane Trickster}",
-						"{@filter 2nd|spells|level=2|subclass=Rogue: Arcane Trickster}",
-						"{@filter 3rd|spells|level=3|subclass=Rogue: Arcane Trickster}",
-						"{@filter 4th|spells|level=4|subclass=Rogue: Arcane Trickster}"
+						"{@filter 1|spells|level=1|subclass=Pícaro: Embaucador arcano}",
+						"{@filter 2|spells|level=2|subclass=Pícaro: Embaucador arcano}",
+						"{@filter 3|spells|level=3|subclass=Pícaro: Embaucador arcano}",
+						"{@filter 4|spells|level=4|subclass=Pícaro: Embaucador arcano}"
 					],
 					"rowsSpellProgression": [
 						[
@@ -756,10 +756,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Arcane Trickster|Pícaro|XPHB|Arcane Trickster|XPHB|3",
-				"Magical Ambush|Pícaro|XPHB|Arcane Trickster|XPHB|9",
-				"Versatile Trickster|Pícaro|XPHB|Arcane Trickster|XPHB|13",
-				"Spell Ladrón|Pícaro|XPHB|Arcane Trickster|XPHB|17"
+				"Embaucador arcano|Pícaro|XPHB|Embaucador arcano|XPHB|3",
+				"Emboscada mágica|Pícaro|XPHB|Embaucador arcano|XPHB|9",
+				"Embaucador versátil|Pícaro|XPHB|Embaucador arcano|XPHB|13",
+				"Ladrón de conjuros|Pícaro|XPHB|Embaucador arcano|XPHB|17"
 			],
 			"hasFluffImages": true
 		},
@@ -1371,140 +1371,140 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Arcane Trickster",
+			"name": "Embaucador arcano",
 			"source": "XPHB",
-			"page": 132,
+			"page": 171,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Arcane Trickster",
+			"subclassShortName": "Embaucador arcano",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Enhance Stealth with Arcane Spells}",
-				"Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.",
+				"{@i Mejora tu sigilo mediante conjuros arcanos}",
+				"Algunos unos pícaros usan conjuros para complementar bien sus pulidas habilidades para el sigilo y su agilidad, aprendiendo trucos mágicos que los ayuden en sus cometidos. Muchos embaucadores arcanos emplean sus talentos como carteristas o ladrones, pero también como bromistas.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Spellcasting|Pícaro|XPHB|Arcane Trickster|XPHB|3"
+					"subclassFeature": "Lanzamiento de conjuros|Pícaro|XPHB|Embaucador arcano|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Mano de mago Legerdemain|Pícaro|XPHB|Arcane Trickster|XPHB|3"
+					"subclassFeature": "Destreza con mano de mago|Pícaro|XPHB|Embaucador arcano|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Mano de mago Legerdemain",
+			"name": "Destreza con mano de mago",
 			"source": "XPHB",
-			"page": 133,
+			"page": 172,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Arcane Trickster",
+			"subclassShortName": "Embaucador arcano",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"When you cast {@spell Mano de mago|XPHB}, you can cast it as a {@variantrule Acción adicional|XPHB}, and you can make the spectral hand {@condition Invisible|XPHB}. You can control the hand as a {@variantrule Acción adicional|XPHB}, and through it, you can make Dexterity ({@skill Sleight of Hand|XPHB}) checks."
+				"Cuando lanzas {@spell mano de mago|XPHB}, puedes hacerlo como acción adicional y de modo que la mano espectral sea {@condition invisible|XPHB}. Puedes controlar la mano como acción adicional y usarla para hacer pruebas de Destreza ({@skill Juego de manos|XPHB})."
 			]
 		},
 		{
-			"name": "Spellcasting",
+			"name": "Lanzamiento de conjuros",
 			"source": "XPHB",
-			"page": 132,
+			"page": 171,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Arcane Trickster",
+			"subclassShortName": "Embaucador arcano",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You have learned to cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules as an Arcane Trickster.",
+				"Has aprendido a lanzar conjuros. Consulta el capítulo 7 para ver las reglas sobre el lanzamiento de conjuros. La información presentada a continuación detalla cómo usar esas reglas como embaucador arcano.",
 				{
 					"type": "entries",
-					"name": "Cantrips",
+					"name": "Trucos",
 					"entries": [
-						"You know three cantrips: {@spell Mano de mago|XPHB} and two other cantrips of your choice from the {@filter Wizard spell list|spells|class=Mago} (see that class's section for its list). {@spell Fragmento mental|XPHB} and {@spell Ilusión menor|XPHB} are recommended.",
-						"Whenever you gain a Rogue level, you can replace one of your cantrips, except {@spell Mano de mago|XPHB}, with another Wizard cantrip of your choice.",
-						"When you reach Rogue level 10, you learn another Wizard cantrip of your choice."
+						"Conoces tres trucos: {@spell mano de mago|XPHB} y otros dos de tu elección de la lista de {@filter conjuros de mago|spells|class=Mago|level=0} (consulta esa clase para ver la lista). Se recomiendan {@spell fragmento mental|XPHB} e {@spell ilusión menor|XPHB}.",
+						"Cada vez que subas un nivel de pícaro, puedes sustituir uno de tus trucos, excepto {@spell mano de mago|XPHB}, por otro truco de mago de tu elección.",
+						"Cuando alcanzas el nivel 10 de pícaro, aprendes otro {@filter truco de mago|spells|class=Mago|level=0} de tu elección."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Spell Slots",
+					"name": "Espacios de conjuro",
 					"entries": [
-						"The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a {@variantrule Descanso largo|XPHB}."
+						"La tabla “Lanzamiento de conjuros del embaucador arcano” muestra cuántos espacios de conjuro tienes para lanzar tus conjuros de {@filter nivel 1 y superiores|spells|class=Mago|level=!0}. Recuperas todos los espacios utilizados tras finalizar un descanso largo."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Prepared Spells of 1st+ Level",
+					"name": "Conjuros preparados de nivel 1 y superiores",
 					"entries": [
-						"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. {@spell Charm Person|XPHB}, {@spell Disguise Self|XPHB}, and {@spell Nube de oscurecimiento|XPHB} are recommended.",
-						"The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Arcane Trickster Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Arcane Trickster Spellcasting table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Wizard spells of level 1 or 2 in any combination."
+						"Preparas una serie de conjuros de {@filter nivel 1 y superiores|spells|class=Mago|level=!0}, que son los que podrás lanzar con este rasgo. Para empezar, elige tres conjuros de mago de nivel 1. Se recomiendan {@spell disfrazarse|XPHB}, {@spell hechizar persona|XPHB} y {@spell nube de oscurecimiento|XPHB}.",
+						"El número de conjuros de tu lista aumenta conforme subes de nivel de pícaro, como se muestra en la columna “{@filter Conjuros preparados|spells|class=Mago|level=!0}” de la tabla “Lanzamiento de conjuros del embaucador arcano”. Cuando ese número aumente, elige conjuros de mago adicionales hasta que el número de conjuros de tu lista coincida con el número de la tabla “Lanzamiento de conjuros del embaucador arcano”. Estos conjuros deben ser de un nivel para el que tengas espacios de conjuro. Por ejemplo, si eres un pícaro de nivel 7, podrías preparar cualquier combinación de cinco conjuros de mago de nivel 1 o 2."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Changing Your Prepared Spells",
+					"name": "Cambiar los conjuros preparados",
 					"entries": [
-						"Whenever you gain a Rogue level, you can replace one spell on your list with another Wizard spell for which you have spell slots."
+						"Cada vez que subas un nivel de pícaro, puedes sustituir un conjuro de tu lista por otro conjuro de mago para el que tengas espacios de conjuro."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Spellcasting Ability",
+					"name": "Aptitud mágica",
 					"entries": [
-						"Intelligence is your spellcasting ability for your Wizard spells."
+						"La Inteligencia es tu aptitud mágica en lo que respecta a tus conjuros de mago."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Canalizador mágico",
 					"entries": [
-						"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Wizard spells."
+						"Puedes utilizar un canalizador arcano como canalizador mágico para tus conjuros de mago."
 					]
 				}
 			]
 		},
 		{
-			"name": "Magical Ambush",
+			"name": "Emboscada mágica",
 			"source": "XPHB",
-			"page": 133,
+			"page": 172,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Arcane Trickster",
+			"subclassShortName": "Embaucador arcano",
 			"subclassSource": "XPHB",
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"If you have the {@condition Invisible|XPHB} condition when you cast a spell on a creature, it has {@variantrule Disadvantage|XPHB} on any saving throw it makes against the spell on the same turn."
+				"Si tienes el estado de {@condition invisible|XPHB} cuando lances un conjuro sobre una criatura, tendrá desventaja en cualquier tirada de salvación que haga contra el conjuro ese mismo turno."
 			]
 		},
 		{
-			"name": "Versatile Trickster",
+			"name": "Embaucador versátil",
 			"source": "XPHB",
-			"page": 133,
+			"page": 172,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Arcane Trickster",
+			"subclassShortName": "Embaucador arcano",
 			"subclassSource": "XPHB",
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"You gain the ability to distract targets with your {@spell Mano de mago|XPHB}. When you use the Trip option of your Golpe astuto on a creature, you can also use that option on another creature within 5 feet of the spectral hand."
+				"Obtienes la capacidad de distraer a los objetivos con tu {@spell mano de mago|XPHB}. Cuando utilizas la opción de {@b tropiezo} de tu Golpe astuto sobre una criatura, también podrás usar esa opción sobre otra criatura a 5 pies (1,5 m) o menos de la mano espectral."
 			]
 		},
 		{
-			"name": "Spell Ladrón",
+			"name": "Ladrón de conjuros",
 			"source": "XPHB",
-			"page": 133,
+			"page": 172,
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Arcane Trickster",
+			"subclassShortName": "Embaucador arcano",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"You gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.",
-				"Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can take a {@variantrule Reaction|XPHB} to force the creature to make an Intelligence saving throw. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least level 1 and of a level you can cast (it doesn't need to be a Wizard spell). For the next 8 hours, you have the spell prepared. The creature can't cast it until the 8 hours have passed.",
-				"Once you steal a spell with this feature, you can't use this feature again until you finish a {@variantrule Descanso largo|XPHB}."
+				"Obtienes la capacidad de robar mágicamente el conocimiento de otro lanzador para usar un conjuro.",
+				"Inmediatamente después de que una criatura lance un conjuro que te haga objetivo o cuya área de efecto te incluya, puedes usar una reacción para obligar a la criatura a hacer una tirada de salvación de Inteligencia. La CD es tu CD de salvación de conjuros. Si la falla, anularás los efectos del conjuro sobre ti y robarás el conocimiento de cómo lanzarlo si es al menos de nivel 1 y de un nivel que puedas lanzar (no tiene por qué ser un conjuro de mago). Durante las siguientes 8 horas, tendrás el conjuro preparado. Además, la criatura no podrá lanzarlo hasta que las 8 horas hayan pasado.",
+				"Una vez robes un conjuro empleando este rasgo, no podrás volver a utilizar el rasgo hasta que finalices un descanso largo."
 			]
 		},
 		{

@@ -6360,7 +6360,7 @@
 													"items": [
 														"All your levels in the Bard, Cleric, Druid, Hechicero, and Wizard classes",
 														"Half your levels (round up) in the Paladin and Ranger classes",
-														"One third of your Fighter or Rogue levels (round down) if you have the Caballero arcano or Arcane Trickster subclass."
+														"One third of your Fighter or Rogue levels (round down) if you have the Caballero arcano or Embaucador arcano subclass."
 													]
 												},
 												"Then look up this total level in the Level column of the Multiclass Spellcaster table. You use the slots for that level to cast spells of an appropriate level from any class whose Spellcasting feature you have.",
@@ -6689,7 +6689,7 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Pícaro|XPHB|Arcane Trickster|Arcane Trickster|XPHB} to enhance stealth with spells.",
+												"{@class Pícaro|XPHB|Embaucador arcano|Embaucador arcano|XPHB} to enhance stealth with spells.",
 												"{@class Pícaro|XPHB|Asesino|asesino|XPHB} to deliver ambushes and poison.",
 												"{@class Pícaro|XPHB|Soulknife|Soulknife|XPHB} to strike foes with psi blades.",
 												"{@class Pícaro|XPHB|Thief|Thief|XPHB} to master infiltration and treasure hunting."

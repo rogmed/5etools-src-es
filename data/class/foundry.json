@@ -1484,8 +1484,8 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Arcane Trickster",
-			"shortName": "Arcane Trickster",
+			"name": "Embaucador arcano",
+			"shortName": "Embaucador arcano",
 			"source": "XPHB",
 			"className": "Pícaro",
 			"classSource": "XPHB",
@@ -19133,7 +19133,7 @@
 			"source": "XPHB",
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Arcane Trickster",
+			"subclassShortName": "Embaucador arcano",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -19154,7 +19154,7 @@
 			"source": "XPHB",
 			"className": "Pícaro",
 			"classSource": "XPHB",
-			"subclassShortName": "Arcane Trickster",
+			"subclassShortName": "Embaucador arcano",
 			"subclassSource": "XPHB",
 			"level": 17,
 			"activities": [

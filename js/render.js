@@ -12492,7 +12492,7 @@ Renderer.item = class {
 			});
 
 		// add additional entries based on type (e.g. XGE variants)
-		if (item.type === Parser.ITM_TYP__TOOL || item.type === Parser.ITM_TYP__ARTISAN_TOOL || item.type === Parser.ITM_TYP__INSTRUMENT || item.type === Parser.ITM_TYP__GAMING_SET) { // tools, artisan's tools, instruments, gaming sets
+		if (item.type === Parser.ITM_TYP__TOOL || item.type === Parser.ITM_TYP__ARTISAN_TOOL || item.type === Parser.ITM_TYP__INSTRUMENT || item.type === Parser.ITM_TYP__GAMING_SET) { // tools, Herramientas de artesano, instruments, gaming sets
 			Renderer.item._initFullAdditionalEntries(item);
 			item._fullAdditionalEntries.push({type: "wrapper", wrapped: {type: "hr"}, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type"}});
 			item._fullAdditionalEntries.push({type: "wrapper", wrapped: `{@note See the {@variantrule Tool Proficiencies|XGE} entry for more information.}`, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type"}});
@@ -14482,12 +14482,12 @@ Renderer.generic = class {
 		"three-dragon ante set",
 	];
 	static _FEATURE__TOOL_GROUPS = new Set([
-		"artisan's tools",
+		"Herramientas de artesano",
 		"gaming set",
 		"musical instrument",
 	]);
 	static FEATURE__TOOLS_ALL = [
-		"artisan's tools",
+		"Herramientas de artesano",
 		...this.FEATURE__TOOLS_ARTISANS,
 
 		"disguise kit",
@@ -14686,7 +14686,7 @@ Renderer.generic = class {
 				count: mappedCount,
 			};
 			case "anyArtisansTool": return {
-				name: mappedCount === 1 ? `Any Artisan's Tool` : `Any ${mappedCount} Artisan's Tools`,
+				name: mappedCount === 1 ? `Any Artisan's Tool` : `Any ${mappedCount} Herramientas de artesano`,
 				from: this.FEATURE__TOOLS_ARTISANS
 					.map(it => ({name: it, prop: "toolProficiencies"})),
 				count: mappedCount,

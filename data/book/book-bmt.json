@@ -468,7 +468,7 @@
 										},
 										{
 											"type": "item",
-											"name": "Rogue",
+											"name": "Pícaro",
 											"entry": "When you hit a target with a weapon attack while holding this card, you can deal an extra {@dice 6d6} force damage to that target. Once this property is used, it can't be used again until the next dawn."
 										},
 										{
@@ -3005,7 +3005,7 @@
 										"roll": {
 											"exact": 14
 										},
-										"entry": "Rogue"
+										"entry": "Pícaro"
 									},
 									"Someone important to you isn't who you think they are."
 								],
@@ -3479,7 +3479,7 @@
 												"roll": {
 													"exact": 14
 												},
-												"entry": "Rogue"
+												"entry": "Pícaro"
 											},
 											"Someone you trust is actually a monster, such as a dragon or a hag, in disguise."
 										],
@@ -3771,7 +3771,7 @@
 										"roll": {
 											"exact": 14
 										},
-										"entry": "Rogue"
+										"entry": "Pícaro"
 									},
 									"A devout individual whom you looked up to revealed themself to be false, a disciple of a power opposed to your beliefs."
 								],
@@ -4177,7 +4177,7 @@
 										"roll": {
 											"exact": 14
 										},
-										"entry": "Rogue"
+										"entry": "Pícaro"
 									},
 									"Tales of your past heroic deeds might be somewhat exaggerated."
 								],
@@ -6728,7 +6728,7 @@
 									"page": 87,
 									"id": "185",
 									"entries": [
-										"The {@creature wereboar} in charge of the armory keeps it stocked with {@item Daga|PHB|daggers}, cloaks, {@item thieves' tools|PHB}, {@item Grappling Hook|PHB|grappling hooks}, and other equipment the Moonstalkers don't want to hide at their homes. The wereboar can usually be found here, maintaining this equipment."
+										"The {@creature wereboar} in charge of the armory keeps it stocked with {@item Daga|PHB|daggers}, cloaks, {@item Herramientas de ladrón|PHB}, {@item Grappling Hook|PHB|grappling hooks}, and other equipment the Moonstalkers don't want to hide at their homes. The wereboar can usually be found here, maintaining this equipment."
 									]
 								},
 								{
@@ -8001,7 +8001,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "Rogue",
+									"name": "Pícaro",
 									"page": 100,
 									"id": "1ba",
 									"entries": [
@@ -10182,7 +10182,7 @@
 														"roll": {
 															"exact": 6
 														},
-														"entry": "Rogue"
+														"entry": "Pícaro"
 													},
 													"\"A foe is hunting you. They seek vengeance and shall arrive soon.\""
 												],
@@ -10265,7 +10265,7 @@
 												},
 												{
 													"type": "item",
-													"name": "Rogue",
+													"name": "Pícaro",
 													"entry": "Someone from the character's past appears, bent on revenge. This could be someone from the character's backstory, someone the character wronged on a previous quest, or a relative of someone the character killed or brought to ruin. This person might seek revenge in combat or through social sabotage."
 												},
 												{

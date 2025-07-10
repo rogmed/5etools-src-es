@@ -97,7 +97,7 @@
 										{
 											"type": "item",
 											"name": "Combat Highlights",
-											"entry": "{@variantrule Armor Class|XPHB}, {@variantrule Hit Points|XPHB}, {@variantrule Speed|XPHB}, and {@variantrule Initiative|XPHB} are provided here."
+											"entry": "{@variantrule Armor Class|XPHB}, {@variantrule Hit Points|XPHB}, {@variantrule Velocidad|XPHB}, and {@variantrule Initiative|XPHB} are provided here."
 										}
 									]
 								},
@@ -481,7 +481,7 @@
 							"name": "Speed",
 							"page": 7,
 							"entries": [
-								"The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: {@variantrule Burrow Speed|XPHB|Burrow}, {@variantrule Climb Speed|XPHB|Climb}, {@variantrule Fly Speed|XPHB|Fly}, {@variantrule Swim Speed|XPHB|Swim}. Rules for {@variantrule Speed|XPHB} and these specials speeds appear in the {@book Player's Handbook|XPHB|1|Movement and Position}."
+								"The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: {@variantrule Burrow Speed|XPHB|Burrow}, {@variantrule Velocidad trepando|XPHB|Climb}, {@variantrule Fly Speed|XPHB|Fly}, {@variantrule Swim Speed|XPHB|Swim}. Rules for {@variantrule Velocidad|XPHB} and these specials speeds appear in the {@book Player's Handbook|XPHB|1|Movement and Position}."
 							],
 							"id": "012"
 						},

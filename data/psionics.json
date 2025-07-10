@@ -173,7 +173,7 @@
 								"min": 2,
 								"max": 2
 							},
-							"name": "Climbing",
+							"name": "Trepar",
 							"entries": [
 								"You grow tiny hooked claws that give you gain a climbing speed equal to your walking speed."
 							]

@@ -1761,7 +1761,7 @@
 			"cr": "5",
 			"trait": [
 				{
-					"name": "Climbing",
+					"name": "Trepar",
 					"entries": [
 						"The gladiator can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 					]

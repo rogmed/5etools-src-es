@@ -812,7 +812,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon can move up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon can move up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -1218,13 +1218,13 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				},
 				{
 					"name": "Scorching Sands",
 					"entries": [
-						"{@actSave dex} {@dc 16}, one creature the dragon can see within 120 feet. {@actSaveFail} 27 ({@damage 6d8}) Fire damage, and the target's {@variantrule Speed|XPHB} is halved until the end of its next turn. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
+						"{@actSave dex} {@dc 16}, one creature the dragon can see within 120 feet. {@actSaveFail} 27 ({@damage 6d8}) Fire damage, and the target's {@variantrule Velocidad|XPHB} is halved until the end of its next turn. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
 					]
 				}
 			],
@@ -1430,7 +1430,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				},
 				{
@@ -1624,7 +1624,7 @@
 				{
 					"name": "Slowing Breath",
 					"entries": [
-						"{@actSave con} {@dc 18}, each creature in a 60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target can't take Reactions; its {@variantrule Speed|XPHB} is halved; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. This effect lasts until the end of its next turn."
+						"{@actSave con} {@dc 18}, each creature in a 60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target can't take Reactions; its {@variantrule Velocidad|XPHB} is halved; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. This effect lasts until the end of its next turn."
 					]
 				}
 			],
@@ -1645,7 +1645,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -1857,7 +1857,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -2071,7 +2071,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -2270,7 +2270,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -2477,7 +2477,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -2674,13 +2674,13 @@
 				{
 					"name": "Freezing Burst",
 					"entries": [
-						"{@actSave con} {@dc 14}, each creature in a 30-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point the dragon can see within 120 feet. {@actSaveFail} 7 ({@damage 2d6}) Cold damage, and the target's {@variantrule Speed|XPHB} is 0 until the end of the target's next turn. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
+						"{@actSave con} {@dc 14}, each creature in a 30-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point the dragon can see within 120 feet. {@actSaveFail} 7 ({@damage 2d6}) Cold damage, and the target's {@variantrule Velocidad|XPHB} is 0 until the end of the target's next turn. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
 					]
 				},
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -3086,7 +3086,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -3492,13 +3492,13 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				},
 				{
 					"name": "Scorching Sands",
 					"entries": [
-						"{@actSave dex} {@dc 20}, one creature the dragon can see within 120 feet. {@actSaveFail} 36 ({@damage 8d8}) Fire damage, and the target's {@variantrule Speed|XPHB} is halved until the end of its next turn. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
+						"{@actSave dex} {@dc 20}, one creature the dragon can see within 120 feet. {@actSaveFail} 36 ({@damage 8d8}) Fire damage, and the target's {@variantrule Velocidad|XPHB} is halved until the end of its next turn. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
 					]
 				}
 			],
@@ -3706,7 +3706,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				},
 				{
@@ -3903,7 +3903,7 @@
 				{
 					"name": "Slowing Breath",
 					"entries": [
-						"{@actSave con} {@dc 22}, each creature in a 90-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target can't take Reactions; its {@variantrule Speed|XPHB} is halved; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. This effect lasts until the end of its next turn."
+						"{@actSave con} {@dc 22}, each creature in a 90-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target can't take Reactions; its {@variantrule Velocidad|XPHB} is halved; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. This effect lasts until the end of its next turn."
 					]
 				}
 			],
@@ -3924,7 +3924,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -4137,7 +4137,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -4352,7 +4352,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -4553,7 +4553,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -4762,7 +4762,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -4960,13 +4960,13 @@
 				{
 					"name": "Freezing Burst",
 					"entries": [
-						"{@actSave con} {@dc 20}, each creature in a 30-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point the dragon can see within 120 feet. {@actSaveFail} 14 ({@damage 4d6}) Cold damage, and the target's {@variantrule Speed|XPHB} is 0 until the end of the target's next turn. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
+						"{@actSave con} {@dc 20}, each creature in a 30-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point the dragon can see within 120 feet. {@actSaveFail} 14 ({@damage 4d6}) Cold damage, and the target's {@variantrule Velocidad|XPHB} is 0 until the end of the target's next turn. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
 					]
 				},
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -5238,7 +5238,7 @@
 				{
 					"name": "Feral Strike",
 					"entries": [
-						"The animal lord moves up to its {@variantrule Speed|XPHB} without provoking Opportunity Attacks, and it makes one Rend attack."
+						"The animal lord moves up to its {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks, and it makes one Rend attack."
 					]
 				},
 				{
@@ -9256,7 +9256,7 @@
 									"type": "item",
 									"name": "4: Slowing Ray",
 									"entries": [
-										"{@actSave con} {@dc 16}. {@actSaveFail} 18 ({@damage 4d8}) Necrotic damage. Until the end of the target's next turn, the target's {@variantrule Speed|XPHB} is halved; the target can't take Reactions; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. {@actSaveSuccess} Half damage only."
+										"{@actSave con} {@dc 16}. {@actSaveFail} 18 ({@damage 4d8}) Necrotic damage. Until the end of the target's next turn, the target's {@variantrule Velocidad|XPHB} is halved; the target can't take Reactions; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. {@actSaveSuccess} Half damage only."
 									]
 								},
 								{
@@ -9716,7 +9716,7 @@
 				{
 					"name": "Javelin",
 					"entries": [
-						"{@atkr m,r} {@hit 7}, reach 5 ft. or range 30/120 ft. {@h}18 ({@damage 4d6 + 4}) Piercing damage, and the target's {@variantrule Speed|XPHB} decreases by 5 feet until the start of the berserker's next turn."
+						"{@atkr m,r} {@hit 7}, reach 5 ft. or range 30/120 ft. {@h}18 ({@damage 4d6 + 4}) Piercing damage, and the target's {@variantrule Velocidad|XPHB} decreases by 5 feet until the start of the berserker's next turn."
 					]
 				}
 			],
@@ -9724,7 +9724,7 @@
 				{
 					"name": "Frenzied Rush",
 					"entries": [
-						"Each ally within 30 feet of the berserker can take a {@variantrule Reaction|XPHB} to move up to half the ally's {@variantrule Speed|XPHB} without provoking Opportunity Attacks. The berserker can also move up to half its {@variantrule Speed|XPHB} without provoking Opportunity Attacks."
+						"Each ally within 30 feet of the berserker can take a {@variantrule Reaction|XPHB} to move up to half the ally's {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks. The berserker can also move up to half its {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks."
 					]
 				}
 			],
@@ -10279,7 +10279,7 @@
 				{
 					"name": "Engulf",
 					"entries": [
-						"The blob moves up to its {@variantrule Speed|XPHB} and can move through the spaces of Huge or smaller creatures and objects. {@actSave str} {@dc 23}, each creature or object whose space the blob enters for the first time during this move. {@actSaveFail} The target is engulfed. While engulfed, a target has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects outside the blob, and when the blob moves, the engulfed target moves with it. A nonmagical object is destroyed after spending 1 minute engulfed.",
+						"The blob moves up to its {@variantrule Velocidad|XPHB} and can move through the spaces of Huge or smaller creatures and objects. {@actSave str} {@dc 23}, each creature or object whose space the blob enters for the first time during this move. {@actSaveFail} The target is engulfed. While engulfed, a target has {@variantrule Cobertura|XPHB|Total Cover} against attacks and other effects outside the blob, and when the blob moves, the engulfed target moves with it. A nonmagical object is destroyed after spending 1 minute engulfed.",
 						"While engulfed, a creature takes 21 ({@damage 6d6}) Force damage at the start of each of its turns, is suffocating, has the {@condition Restrained|XPHB} condition, and repeats the save at the end of each of its turns. An engulfed creature that is reduced to 0 {@variantrule Hit Points|XPHB} dissolves into ash, which is ejected into the Astral Sea. {@actSaveSuccess} The target escapes and enters the nearest unoccupied space."
 					]
 				},
@@ -11205,7 +11205,7 @@
 				{
 					"name": "Smelting Charge {@recharge 5}",
 					"entries": [
-						"The gorgon moves up to its {@variantrule Speed|XPHB} without provoking Opportunity Attacks and can move through the spaces of Medium or smaller creatures. Each time the gorgon enters a creature's space for the first time during this move, that target is subjected to the following effect. {@actSave dex} {@dc 16}. {@actSaveFail} 13 ({@damage 2d8 + 4}) Piercing damage plus 13 ({@damage 3d8}) Fire damage, and the target is pulled into the gorgon's space and has the {@condition Grappled|XPHB} condition (escape {@dc 14}); if the gorgon already has a creature {@condition Grappled|XPHB}, the target has the {@condition Prone|XPHB} condition instead. Until the grapple ends, the target has the {@condition Restrained|XPHB} condition. When the gorgon moves, the {@condition Grappled|XPHB} target moves with it, costing no extra movement."
+						"The gorgon moves up to its {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks and can move through the spaces of Medium or smaller creatures. Each time the gorgon enters a creature's space for the first time during this move, that target is subjected to the following effect. {@actSave dex} {@dc 16}. {@actSaveFail} 13 ({@damage 2d8 + 4}) Piercing damage plus 13 ({@damage 3d8}) Fire damage, and the target is pulled into the gorgon's space and has the {@condition Grappled|XPHB} condition (escape {@dc 14}); if the gorgon already has a creature {@condition Grappled|XPHB}, the target has the {@condition Prone|XPHB} condition instead. Until the grapple ends, the target has the {@condition Restrained|XPHB} condition. When the gorgon moves, the {@condition Grappled|XPHB} target moves with it, costing no extra movement."
 					]
 				}
 			],
@@ -12638,7 +12638,7 @@
 				{
 					"name": "Trampling Charge {@recharge 5}",
 					"entries": [
-						"The centaur moves up to its {@variantrule Speed|XPHB} without provoking Opportunity Attacks and can move through the spaces of Medium or smaller creatures. Each creature whose space the centaur enters is targeted once by the following effect. {@actSave str} {@dc 14}. {@actSaveFail} 7 ({@damage 1d6 + 4}) Bludgeoning damage, and the target has the {@condition Prone|XPHB} condition."
+						"The centaur moves up to its {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks and can move through the spaces of Medium or smaller creatures. Each creature whose space the centaur enters is targeted once by the following effect. {@actSave str} {@dc 14}. {@actSaveFail} 7 ({@damage 1d6 + 4}) Bludgeoning damage, and the target has the {@condition Prone|XPHB} condition."
 					]
 				}
 			],
@@ -12762,7 +12762,7 @@
 				{
 					"name": "Entangling Trail {@recharge 5}",
 					"entries": [
-						"The centaur moves up to its {@variantrule Speed|XPHB} without provoking Opportunity Attacks. Each creature within 5 feet of the centaur as it moves is targeted once by the following effect. {@actSave str} {@dc 15}. {@actSaveFail} 11 ({@damage 2d6 + 4}) Bludgeoning damage, and the target has the {@condition Restrained|XPHB} condition until the end of its next turn."
+						"The centaur moves up to its {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks. Each creature within 5 feet of the centaur as it moves is targeted once by the following effect. {@actSave str} {@dc 15}. {@actSaveFail} 11 ({@damage 2d6 + 4}) Bludgeoning damage, and the target has the {@condition Restrained|XPHB} condition until the end of its next turn."
 					]
 				}
 			],
@@ -14096,7 +14096,7 @@
 				{
 					"name": "Stomp",
 					"entries": [
-						"The colossus moves up to half its {@variantrule Speed|XPHB} without provoking Opportunity Attacks, and it can make one Slam attack at any point during that move."
+						"The colossus moves up to half its {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks, and it can make one Slam attack at any point during that move."
 					]
 				}
 			],
@@ -14391,7 +14391,7 @@
 				{
 					"name": "Slowing Breath",
 					"entries": [
-						"{@actSave con} {@dc 11}, each creature in a 15-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target can't take Reactions; its {@variantrule Speed|XPHB} is halved; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. This effect lasts until the end of its next turn."
+						"{@actSave con} {@dc 11}, each creature in a 15-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target can't take Reactions; its {@variantrule Velocidad|XPHB} is halved; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. This effect lasts until the end of its next turn."
 					]
 				}
 			],
@@ -15655,7 +15655,7 @@
 					"name": "Crush",
 					"entries": [
 						"{@atkr m} {@hit 5}, reach 5 ft. {@h}6 ({@damage 1d6 + 3}) Bludgeoning damage, and the darkmantle attaches to the target. If the target is a Medium or smaller creature and the darkmantle had {@variantrule Advantage|XPHB} on the attack roll, it covers the target, which has the {@condition Blinded|XPHB} condition and is suffocating while the darkmantle is attached in this way.",
-						"While attached to a target, the darkmantle can attack only the target but has {@variantrule Advantage|XPHB} on its attack rolls. Its {@variantrule Speed|XPHB} becomes 0, it can't benefit from any bonus to its {@variantrule Speed|XPHB}, and it moves with the target.",
+						"While attached to a target, the darkmantle can attack only the target but has {@variantrule Advantage|XPHB} on its attack rolls. Its {@variantrule Velocidad|XPHB} becomes 0, it can't benefit from any bonus to its {@variantrule Velocidad|XPHB}, and it moves with the target.",
 						"A creature can take an action to try to detach the darkmantle from itself, doing so with a successful {@dc 13} Strength ({@skill Athletics|XPHB}) check. On its turn, the darkmantle can detach itself by using 5 feet of movement."
 					]
 				},
@@ -16052,7 +16052,7 @@
 				{
 					"name": "Lunge",
 					"entries": [
-						"The death knight moves up to half its {@variantrule Speed|XPHB}, and it makes one Dread Blade attack."
+						"The death knight moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Dread Blade attack."
 					]
 				}
 			],
@@ -16580,7 +16580,7 @@
 									"type": "item",
 									"name": "4: Slowing Ray",
 									"entries": [
-										"{@actSave con} {@dc 17}. {@actSaveFail} 18 ({@damage 4d8}) Necrotic damage. Until the end of the target's next turn, the target can't take Reactions; its {@variantrule Speed|XPHB} is halved; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. {@actSaveSuccess} Half damage only."
+										"{@actSave con} {@dc 17}. {@actSaveFail} 18 ({@damage 4d8}) Necrotic damage. Until the end of the target's next turn, the target can't take Reactions; its {@variantrule Velocidad|XPHB} is halved; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. {@actSaveSuccess} Half damage only."
 									]
 								},
 								{
@@ -17907,7 +17907,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dracolich moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dracolich moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				},
 				{
@@ -19374,7 +19374,7 @@
 									"type": "item",
 									"name": "2: Freezing Waves",
 									"entries": [
-										"{@actSave str} {@dc 23}, each creature in a 90-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 22 ({@damage 5d8}) Bludgeoning damage plus 22 ({@damage 5d8}) Cold damage, and the target has the {@condition Prone|XPHB} condition. {@actSaveSuccess} Half damage only. {@actSaveSuccessOrFail} The target's {@variantrule Speed|XPHB} is reduced to 0 until the end of its next turn."
+										"{@actSave str} {@dc 23}, each creature in a 90-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 22 ({@damage 5d8}) Bludgeoning damage plus 22 ({@damage 5d8}) Cold damage, and the target has the {@condition Prone|XPHB} condition. {@actSaveSuccess} Half damage only. {@actSaveSuccessOrFail} The target's {@variantrule Velocidad|XPHB} is reduced to 0 until the end of its next turn."
 									]
 								},
 								{
@@ -19406,7 +19406,7 @@
 				{
 					"name": "Rumbling Movement",
 					"entries": [
-						"The cataclysm moves up to its {@variantrule Speed|XPHB}, {@variantrule Fly Speed|XPHB}, or {@variantrule Swim Speed|XPHB} without provoking Opportunity Attacks. Each creature within 5 feet of the cataclysm as it moves is targeted once by the following effect. {@actSave con} {@dc 23}. {@actSaveFail} The target has the {@condition Prone|XPHB} condition. {@actSaveSuccessOrFail} The cataclysm can't take this action again until the start of its next turn."
+						"The cataclysm moves up to its {@variantrule Velocidad|XPHB}, {@variantrule Fly Speed|XPHB}, or {@variantrule Swim Speed|XPHB} without provoking Opportunity Attacks. Each creature within 5 feet of the cataclysm as it moves is targeted once by the following effect. {@actSave con} {@dc 23}. {@actSaveFail} The target has the {@condition Prone|XPHB} condition. {@actSaveSuccessOrFail} The cataclysm can't take this action again until the start of its next turn."
 					]
 				}
 			],
@@ -21917,7 +21917,7 @@
 				{
 					"name": "Standing Leap",
 					"entries": [
-						"The frog's {@variantrule Long Jump|XPHB} is up to 10 feet and its {@variantrule High Jump|XPHB} is up to 5 feet with or without a running start."
+						"The frog's {@variantrule Salto de longitud|XPHB} is up to 10 feet and its {@variantrule Salto de altura|XPHB} is up to 5 feet with or without a running start."
 					]
 				}
 			],
@@ -22019,7 +22019,7 @@
 				{
 					"name": "Great Bow",
 					"entries": [
-						"{@atkr r} {@hit 9}, range 150/600 ft. {@h}17 ({@damage 2d10 + 6}) Piercing damage plus 7 ({@damage 2d6}) Cold damage, and the target's {@variantrule Speed|XPHB} decreases by 10 feet until the end of its next turn."
+						"{@atkr r} {@hit 9}, range 150/600 ft. {@h}17 ({@damage 2d10 + 6}) Piercing damage plus 7 ({@damage 2d6}) Cold damage, and the target's {@variantrule Velocidad|XPHB} decreases by 10 feet until the end of its next turn."
 					]
 				}
 			],
@@ -22428,7 +22428,7 @@
 				{
 					"name": "Engulf",
 					"entries": [
-						"The cube moves up to its {@variantrule Speed|XPHB} without provoking Opportunity Attacks. The cube can move through the spaces of Large or smaller creatures if it has room inside itself to contain them (see the Ooze {@variantrule Cube [Area of Effect]|XPHB|Cube} trait). {@actSave dex} {@dc 12}, each creature whose space the cube enters for the first time during this move. {@actSaveFail} 10 ({@damage 3d6}) Acid damage, and the target is engulfed. An engulfed target is suffocating, can't cast spells with a Verbal component, has the {@condition Restrained|XPHB} condition, and takes 10 ({@damage 3d6}) Acid damage at the start of each of the cube's turns. When the cube moves, the engulfed target moves with it. An engulfed target can try to escape by taking an action to make a {@dc 12} Strength ({@skill Athletics|XPHB}) check. On a successful check, the target escapes and enters the nearest unoccupied space. {@actSaveSuccess} Half damage, and the target moves to an unoccupied space within 5 feet of the cube. If there is no unoccupied space, the target fails the save instead."
+						"The cube moves up to its {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks. The cube can move through the spaces of Large or smaller creatures if it has room inside itself to contain them (see the Ooze {@variantrule Cube [Area of Effect]|XPHB|Cube} trait). {@actSave dex} {@dc 12}, each creature whose space the cube enters for the first time during this move. {@actSaveFail} 10 ({@damage 3d6}) Acid damage, and the target is engulfed. An engulfed target is suffocating, can't cast spells with a Verbal component, has the {@condition Restrained|XPHB} condition, and takes 10 ({@damage 3d6}) Acid damage at the start of each of the cube's turns. When the cube moves, the engulfed target moves with it. An engulfed target can try to escape by taking an action to make a {@dc 12} Strength ({@skill Athletics|XPHB}) check. On a successful check, the target escapes and enters the nearest unoccupied space. {@actSaveSuccess} Half damage, and the target moves to an unoccupied space within 5 feet of the cube. If there is no unoccupied space, the target fails the save instead."
 					]
 				}
 			],
@@ -22826,7 +22826,7 @@
 				{
 					"name": "Possession {@recharge}",
 					"entries": [
-						"{@actSave cha} {@dc 13}, one Humanoid the ghost can see within 5 feet. {@actSaveFail} The target is possessed by the ghost; the ghost disappears, and the target has the {@condition Incapacitated|XPHB} condition and loses control of its body. The ghost now controls the body, but the target retains awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that specifically target Undead. The ghost's game statistics are the same, except it uses the possessed target's {@variantrule Speed|XPHB}, as well as the target's Strength, Dexterity, and Constitution modifiers.",
+						"{@actSave cha} {@dc 13}, one Humanoid the ghost can see within 5 feet. {@actSaveFail} The target is possessed by the ghost; the ghost disappears, and the target has the {@condition Incapacitated|XPHB} condition and loses control of its body. The ghost now controls the body, but the target retains awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that specifically target Undead. The ghost's game statistics are the same, except it uses the possessed target's {@variantrule Velocidad|XPHB}, as well as the target's Strength, Dexterity, and Constitution modifiers.",
 						"The possession lasts until the body drops to 0 {@variantrule Hit Points|XPHB} or the ghost leaves as a {@variantrule Acción adicional|XPHB}. When the possession ends, the ghost appears in an unoccupied space within 5 feet of the target, and the target is immune to this ghost's {@variantrule Possession|XPHB} for 24 hours. {@actSaveSuccess} The target is immune to this ghost's {@variantrule Possession|XPHB} for 24 hours."
 					]
 				}
@@ -24028,7 +24028,7 @@
 				{
 					"name": "Standing Leap",
 					"entries": [
-						"The frog's {@variantrule Long Jump|XPHB} is up to 20 feet and its {@variantrule High Jump|XPHB} is up to 10 feet with or without a running start."
+						"The frog's {@variantrule Salto de longitud|XPHB} is up to 20 feet and its {@variantrule Salto de altura|XPHB} is up to 10 feet with or without a running start."
 					]
 				}
 			],
@@ -24208,7 +24208,7 @@
 				{
 					"name": "Rampage (1/Day)",
 					"entries": [
-						"Immediately after dealing damage to a creature that was already {@variantrule Maltrecho|XPHB}, the hyena can move up to half its {@variantrule Speed|XPHB}, and it makes one Bite attack."
+						"Immediately after dealing damage to a creature that was already {@variantrule Maltrecho|XPHB}, the hyena can move up to half its {@variantrule Velocidad|XPHB}, and it makes one Bite attack."
 					]
 				}
 			],
@@ -25121,7 +25121,7 @@
 				{
 					"name": "Standing Leap",
 					"entries": [
-						"The toad's {@variantrule Long Jump|XPHB} is up to 20 feet and its {@variantrule High Jump|XPHB} is up to 10 feet with or without a running start."
+						"The toad's {@variantrule Salto de longitud|XPHB} is up to 20 feet and its {@variantrule Salto de altura|XPHB} is up to 10 feet with or without a running start."
 					]
 				}
 			],
@@ -26941,7 +26941,7 @@
 				{
 					"name": "Rampage (2/Day)",
 					"entries": [
-						"Immediately after dealing damage to a creature that is already {@variantrule Maltrecho|XPHB}, the gnoll moves up to half its {@variantrule Speed|XPHB}, and it makes one Abyssal Strike attack."
+						"Immediately after dealing damage to a creature that is already {@variantrule Maltrecho|XPHB}, the gnoll moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Abyssal Strike attack."
 					]
 				}
 			],
@@ -27050,7 +27050,7 @@
 				{
 					"name": "Rampage (2/Day)",
 					"entries": [
-						"Immediately after dealing damage to a creature that is already {@variantrule Maltrecho|XPHB}, the gnoll moves up to half its {@variantrule Speed|XPHB}, and it makes one Bite attack."
+						"Immediately after dealing damage to a creature that is already {@variantrule Maltrecho|XPHB}, the gnoll moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Bite attack."
 					]
 				}
 			],
@@ -27163,7 +27163,7 @@
 				{
 					"name": "Rampage (2/Day)",
 					"entries": [
-						"Immediately after dealing damage to a creature that is already {@variantrule Maltrecho|XPHB}, the gnoll moves up to half its {@variantrule Speed|XPHB}, and it makes one Bone Whip attack."
+						"Immediately after dealing damage to a creature that is already {@variantrule Maltrecho|XPHB}, the gnoll moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Bone Whip attack."
 					]
 				}
 			],
@@ -27261,7 +27261,7 @@
 				{
 					"name": "Rampage (1/Day)",
 					"entries": [
-						"Immediately after dealing damage to a creature that is already {@variantrule Maltrecho|XPHB}, the gnoll moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"Immediately after dealing damage to a creature that is already {@variantrule Maltrecho|XPHB}, the gnoll moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				}
 			],
@@ -28213,7 +28213,7 @@
 				{
 					"name": "Charge",
 					"entries": [
-						"The goristro moves up to half its {@variantrule Speed|XPHB} straight toward an enemy it can see."
+						"The goristro moves up to half its {@variantrule Velocidad|XPHB} straight toward an enemy it can see."
 					]
 				}
 			],
@@ -31277,7 +31277,7 @@
 				{
 					"name": "Javelin",
 					"entries": [
-						"{@atkr m,r} {@hit 6}, reach 5 ft. or range 30/120 ft. {@h}11 ({@damage 2d6 + 4}) Piercing damage, and the target's {@variantrule Speed|XPHB} decreases by 10 feet until the start of the hobgoblin's next turn."
+						"{@atkr m,r} {@hit 6}, reach 5 ft. or range 30/120 ft. {@h}11 ({@damage 2d6 + 4}) Piercing damage, and the target's {@variantrule Velocidad|XPHB} decreases by 10 feet until the start of the hobgoblin's next turn."
 					]
 				},
 				{
@@ -32160,7 +32160,7 @@
 				{
 					"name": "Ice Spear",
 					"entries": [
-						"{@atkr m,r} {@hit 10}, reach 5 ft. or range 30/120 ft. {@h}14 ({@damage 2d8 + 5}) Piercing damage plus 10 ({@damage 3d6}) Cold damage. Until the end of its next turn, the target can't take a {@variantrule Acción adicional|XPHB} or {@variantrule Reaction|XPHB}, its {@variantrule Speed|XPHB} decreases by 10 feet, and it can move or take one action on its turn, not both. {@hom}The spear magically returns to the devil's hand immediately after a ranged attack."
+						"{@atkr m,r} {@hit 10}, reach 5 ft. or range 30/120 ft. {@h}14 ({@damage 2d8 + 5}) Piercing damage plus 10 ({@damage 3d6}) Cold damage. Until the end of its next turn, the target can't take a {@variantrule Acción adicional|XPHB} or {@variantrule Reaction|XPHB}, its {@variantrule Velocidad|XPHB} decreases by 10 feet, and it can move or take one action on its turn, not both. {@hom}The spear magically returns to the devil's hand immediately after a ranged attack."
 					]
 				},
 				{
@@ -32456,7 +32456,7 @@
 				{
 					"name": "Shape-Shift",
 					"entries": [
-						"The imp shape-shifts to resemble a rat ({@variantrule Speed|XPHB} 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.), or it returns to its true form. Its statistics are the same in each form, except for its {@variantrule Speed|XPHB}. Any equipment it is wearing or carrying isn't transformed."
+						"The imp shape-shifts to resemble a rat ({@variantrule Velocidad|XPHB} 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.), or it returns to its true form. Its statistics are the same in each form, except for its {@variantrule Velocidad|XPHB}. Any equipment it is wearing or carrying isn't transformed."
 					]
 				}
 			],
@@ -33937,7 +33937,7 @@
 				{
 					"name": "Toxic Ink",
 					"entries": [
-						"{@actSave con} {@dc 23}, each creature in a 15-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the kraken while it is underwater. {@actSaveFail} The target has the {@condition Blinded|XPHB} and {@condition Envenenado|XPHB} conditions until the end of the kraken's next turn. The kraken then moves up to its {@variantrule Speed|XPHB}. {@actSaveSuccessOrFail} The kraken can't take this action again until the start of its next turn."
+						"{@actSave con} {@dc 23}, each creature in a 15-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the kraken while it is underwater. {@actSaveFail} The target has the {@condition Blinded|XPHB} and {@condition Envenenado|XPHB} conditions until the end of the kraken's next turn. The kraken then moves up to its {@variantrule Velocidad|XPHB}. {@actSaveSuccessOrFail} The kraken can't take this action again until the start of its next turn."
 					]
 				}
 			],
@@ -34582,7 +34582,7 @@
 				{
 					"name": "Icy Bite",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}9 ({@damage 2d6 + 2}) Cold damage, and the target's {@variantrule Speed|XPHB} decreases by 5 feet until the start of the ghoul's next turn."
+						"{@atkr m} {@hit 4}, reach 5 ft. {@h}9 ({@damage 2d6 + 2}) Cold damage, and the target's {@variantrule Velocidad|XPHB} decreases by 5 feet until the start of the ghoul's next turn."
 					]
 				},
 				{
@@ -35254,7 +35254,7 @@
 				{
 					"name": "Running Leap",
 					"entries": [
-						"With a 10-foot running start, the lion can {@variantrule Long Jump|XPHB} up to 25 feet."
+						"With a 10-foot running start, the lion can {@variantrule Salto de longitud|XPHB} up to 25 feet."
 					]
 				}
 			],
@@ -35594,7 +35594,7 @@
 				{
 					"name": "Charge",
 					"entries": [
-						"The lizardfolk moves up to its {@variantrule Speed|XPHB} or {@variantrule Swim Speed|XPHB} straight toward an enemy it can see."
+						"The lizardfolk moves up to its {@variantrule Velocidad|XPHB} or {@variantrule Swim Speed|XPHB} straight toward an enemy it can see."
 					]
 				}
 			],
@@ -37131,7 +37131,7 @@
 				{
 					"name": "Ocean Spear",
 					"entries": [
-						"{@atkr m,r} {@hit 2}, reach 5 ft. or range 20/60 ft. {@h}3 ({@damage 1d6}) Piercing damage plus 2 ({@damage 1d4}) Cold damage. If the target is a creature, its {@variantrule Speed|XPHB} decreases by 10 feet until the end of its next turn. {@hom}The spear magically returns to the merfolk's hand immediately after a ranged attack."
+						"{@atkr m,r} {@hit 2}, reach 5 ft. or range 20/60 ft. {@h}3 ({@damage 1d6}) Piercing damage plus 2 ({@damage 1d4}) Cold damage. If the target is a creature, its {@variantrule Velocidad|XPHB} decreases by 10 feet until the end of its next turn. {@hom}The spear magically returns to the merfolk's hand immediately after a ranged attack."
 					]
 				}
 			],
@@ -45042,7 +45042,7 @@
 				{
 					"name": "Shape-Shift",
 					"entries": [
-						"The quasit shape-shifts to resemble a bat ({@variantrule Speed|XPHB} 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft., Swim 40 ft.), or it returns to its true form. Its game statistics are the same in each form, except for its {@variantrule Speed|XPHB}. Any equipment it is wearing or carrying isn't transformed."
+						"The quasit shape-shifts to resemble a bat ({@variantrule Velocidad|XPHB} 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft., Swim 40 ft.), or it returns to its true form. Its game statistics are the same in each form, except for its {@variantrule Velocidad|XPHB}. Any equipment it is wearing or carrying isn't transformed."
 					]
 				}
 			],
@@ -45743,7 +45743,7 @@
 					"name": "Injecting Claw",
 					"entries": [
 						"{@atkr m} {@hit 6}, reach 10 ft. {@h}10 ({@damage 2d6 + 3}) Piercing damage. If the target is a Humanoid not cursed by a slaad, it is subjected to the following effect. {@actSave con} {@dc 14}. {@actSaveFail} The target is cursed unawares, and a minuscule slaad egg is implanted in it. Removing the curse destroys the egg.",
-						"Over {@dice 2d4 × 10} days, the egg gestates. In the final 24 hours, the cursed target feels unwell; its {@variantrule Speed|XPHB} is halved, and it has {@variantrule Disadvantage|XPHB} on {@variantrule Prueba con d20|XPHB|Prueba con d20s}. At the end of this time, the egg turns into a Slaad Tadpole, which chews out of the host and kills it."
+						"Over {@dice 2d4 × 10} days, the egg gestates. In the final 24 hours, the cursed target feels unwell; its {@variantrule Velocidad|XPHB} is halved, and it has {@variantrule Disadvantage|XPHB} on {@variantrule Prueba con d20|XPHB|Prueba con d20s}. At the end of this time, the egg turns into a Slaad Tadpole, which chews out of the host and kills it."
 					]
 				}
 			],
@@ -46606,7 +46606,7 @@
 				{
 					"name": "Running Leap",
 					"entries": [
-						"With a 10-foot running start, the tiger can {@variantrule Long Jump|XPHB} up to 25 feet."
+						"With a 10-foot running start, the tiger can {@variantrule Salto de longitud|XPHB} up to 25 feet."
 					]
 				}
 			],
@@ -46751,7 +46751,7 @@
 				{
 					"name": "Fiendish Blood",
 					"entries": [
-						"{@actTrigger} The sahuagin takes Piercing or Slashing damage. {@actResponse d}{@actSave con} {@dc 14}, each creature of the sahuagin's choice in a 5-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the sahuagin. {@actSaveFail} 10 ({@damage 3d6}) Acid damage, and the target is cursed until it finishes a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}. While cursed, the target can't benefit from the {@condition Invisible|XPHB} condition, its {@variantrule Speed|XPHB} decreases by 10 feet, and all Fiends within 120 feet of the target can sense its location regardless of interposing obstacles."
+						"{@actTrigger} The sahuagin takes Piercing or Slashing damage. {@actResponse d}{@actSave con} {@dc 14}, each creature of the sahuagin's choice in a 5-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the sahuagin. {@actSaveFail} 10 ({@damage 3d6}) Acid damage, and the target is cursed until it finishes a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}. While cursed, the target can't benefit from the {@condition Invisible|XPHB} condition, its {@variantrule Velocidad|XPHB} decreases by 10 feet, and all Fiends within 120 feet of the target can sense its location regardless of interposing obstacles."
 					]
 				}
 			],
@@ -47348,7 +47348,7 @@
 				{
 					"name": "Blazing Movement",
 					"entries": [
-						"The salamander moves up to its {@variantrule Speed|XPHB} without provoking Opportunity Attacks. During this movement, fire fills a 5-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the salamander. When the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} enters a creature's space, that creature takes 7 ({@damage 2d6}) Fire damage. A creature can take this damage only once per turn."
+						"The salamander moves up to its {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks. During this movement, fire fills a 5-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the salamander. When the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} enters a creature's space, that creature takes 7 ({@damage 2d6}) Fire damage. A creature can take this damage only once per turn."
 					]
 				}
 			],
@@ -48606,7 +48606,7 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"The dragon moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Rend attack."
 					]
 				},
 				{
@@ -51367,7 +51367,7 @@
 				{
 					"name": "Steam Breath {@recharge}",
 					"entries": [
-						"{@actSave con} {@dc 10}, each creature in a 15-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 5 ({@damage 2d4}) Fire damage, and the target's {@variantrule Speed|XPHB} decreases by 10 feet until the end of the mephit's next turn. {@actSaveSuccess} Half damage only. {@actSaveSuccessOrFail} Being underwater doesn't grant {@variantrule Resistance|XPHB} to this Fire damage."
+						"{@actSave con} {@dc 10}, each creature in a 15-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 5 ({@damage 2d4}) Fire damage, and the target's {@variantrule Velocidad|XPHB} decreases by 10 feet until the end of the mephit's next turn. {@actSaveSuccess} Half damage only. {@actSaveSuccessOrFail} Being underwater doesn't grant {@variantrule Resistance|XPHB} to this Fire damage."
 					]
 				}
 			],
@@ -52447,7 +52447,7 @@
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"If the swarm has a {@variantrule Climb Speed|XPHB}, the swarm can climb difficult surfaces, including along ceilings, without needing to make an ability check."
+						"If the swarm has a {@variantrule Velocidad trepando|XPHB}, the swarm can climb difficult surfaces, including along ceilings, without needing to make an ability check."
 					]
 				},
 				{
@@ -53318,13 +53318,13 @@
 				{
 					"name": "Onslaught",
 					"entries": [
-						"The tarrasque moves up to half its {@variantrule Speed|XPHB}, and it makes one Claw or Tail attack."
+						"The tarrasque moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Claw or Tail attack."
 					]
 				},
 				{
 					"name": "World-Shaking Movement",
 					"entries": [
-						"The tarrasque moves up to its {@variantrule Speed|XPHB}. At the end of this movement, the tarrasque creates an instantaneous shock wave in a 60-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from itself. Creatures in that area lose {@status Concentration|XPHB} and, if Medium or smaller, have the {@condition Prone|XPHB} condition. The tarrasque can't take this action again until the start of its next turn."
+						"The tarrasque moves up to its {@variantrule Velocidad|XPHB}. At the end of this movement, the tarrasque creates an instantaneous shock wave in a 60-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from itself. Creatures in that area lose {@status Concentration|XPHB} and, if Medium or smaller, have the {@condition Prone|XPHB} condition. The tarrasque can't take this action again until the start of its next turn."
 					]
 				}
 			],
@@ -54342,7 +54342,7 @@
 				{
 					"name": "Charge",
 					"entries": [
-						"The troll moves up to half its {@variantrule Speed|XPHB} straight toward an enemy it can see."
+						"The troll moves up to half its {@variantrule Velocidad|XPHB} straight toward an enemy it can see."
 					]
 				}
 			],
@@ -55112,7 +55112,7 @@
 				{
 					"name": "Charging Horn",
 					"entries": [
-						"The unicorn moves up to half its {@variantrule Speed|XPHB} without provoking Opportunity Attacks, and it makes one Radiant Horn attack."
+						"The unicorn moves up to half its {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks, and it makes one Radiant Horn attack."
 					]
 				},
 				{
@@ -55354,8 +55354,8 @@
 				{
 					"name": "Shape-Shift",
 					"entries": [
-						"If the vampire isn't in sunlight or running water, it shape-shifts into a Tiny bat ({@variantrule Speed|XPHB} 5 ft., {@variantrule Fly Speed|XPHB} 30 ft.) or a Medium cloud of mist ({@variantrule Speed|XPHB} 5 ft., {@variantrule Fly Speed|XPHB} 20 ft. [hover]), or it returns to its vampire form. Anything it is wearing transforms with it.",
-						"While in bat form, the vampire can't speak. Its game statistics, other than its size and {@variantrule Speed|XPHB}, are unchanged.",
+						"If the vampire isn't in sunlight or running water, it shape-shifts into a Tiny bat ({@variantrule Velocidad|XPHB} 5 ft., {@variantrule Fly Speed|XPHB} 30 ft.) or a Medium cloud of mist ({@variantrule Velocidad|XPHB} 5 ft., {@variantrule Fly Speed|XPHB} 20 ft. [hover]), or it returns to its vampire form. Anything it is wearing transforms with it.",
+						"While in bat form, the vampire can't speak. Its game statistics, other than its size and {@variantrule Velocidad|XPHB}, are unchanged.",
 						"While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless and can enter an enemy's space and stop there. If air can pass through a space, the mist can do so, but it can't pass through liquid. It has {@variantrule Resistance|XPHB} to all damage, except the damage it takes from sunlight."
 					]
 				}
@@ -55365,7 +55365,7 @@
 				{
 					"name": "Deathless Strike",
 					"entries": [
-						"The vampire moves up to half its {@variantrule Speed|XPHB}, and it makes one Grave Strike attack."
+						"The vampire moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Grave Strike attack."
 					]
 				}
 			],
@@ -56060,7 +56060,7 @@
 				{
 					"name": "Umbral Strike",
 					"entries": [
-						"The vampire moves up to half its {@variantrule Speed|XPHB}, and it makes one Grave Strike or Sickening Ray attack."
+						"The vampire moves up to half its {@variantrule Velocidad|XPHB}, and it makes one Grave Strike or Sickening Ray attack."
 					]
 				}
 			],
@@ -56929,7 +56929,7 @@
 									"type": "item",
 									"name": "Maneuver",
 									"entries": [
-										"One ally who can see or hear the warrior can take a {@variantrule Reaction|XPHB} to move up to half the ally's {@variantrule Speed|XPHB} without provoking Opportunity Attacks."
+										"One ally who can see or hear the warrior can take a {@variantrule Reaction|XPHB} to move up to half the ally's {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks."
 									]
 								}
 							]
@@ -56939,7 +56939,7 @@
 				{
 					"name": "Longbow",
 					"entries": [
-						"{@atkr r} {@hit 9}, range 150/600 ft. {@h}18 ({@damage 3d8 + 5}) Piercing damage, and the target's {@variantrule Speed|XPHB} decreases by 10 feet until the end of the target's next turn."
+						"{@atkr r} {@hit 9}, range 150/600 ft. {@h}18 ({@damage 3d8 + 5}) Piercing damage, and the target's {@variantrule Velocidad|XPHB} decreases by 10 feet until the end of the target's next turn."
 					]
 				}
 			],
@@ -56947,7 +56947,7 @@
 				{
 					"name": "Tactical Charge",
 					"entries": [
-						"The warrior moves up to half its {@variantrule Speed|XPHB} straight toward an enemy it can see without provoking Opportunity Attacks."
+						"The warrior moves up to half its {@variantrule Velocidad|XPHB} straight toward an enemy it can see without provoking Opportunity Attacks."
 					]
 				}
 			],
@@ -57228,7 +57228,7 @@
 				{
 					"name": "Freeze",
 					"entries": [
-						"If the elemental takes Cold damage, its {@variantrule Speed|XPHB} decreases by 20 feet until the end of its next turn."
+						"If the elemental takes Cold damage, its {@variantrule Velocidad|XPHB} decreases by 20 feet until the end of its next turn."
 					]
 				},
 				{
@@ -57980,7 +57980,7 @@
 				{
 					"name": "Prowl (Tiger or Hybrid Form Only)",
 					"entries": [
-						"The weretiger moves up to its {@variantrule Speed|XPHB} without provoking Opportunity Attacks. At the end of this movement, the weretiger can take the Hide action."
+						"The weretiger moves up to its {@variantrule Velocidad|XPHB} without provoking Opportunity Attacks. At the end of this movement, the weretiger can take the Hide action."
 					]
 				},
 				{
@@ -59267,7 +59267,7 @@
 				{
 					"name": "Charge",
 					"entries": [
-						"The xorn moves up to its {@variantrule Speed|XPHB} or {@variantrule Burrow Speed|XPHB} straight toward an enemy it can sense."
+						"The xorn moves up to its {@variantrule Velocidad|XPHB} or {@variantrule Burrow Speed|XPHB} straight toward an enemy it can sense."
 					]
 				}
 			],
@@ -60246,7 +60246,7 @@
 				{
 					"name": "Slowing Breath",
 					"entries": [
-						"{@actSave con} {@dc 14}, each creature in a 30-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target can't take Reactions; its {@variantrule Speed|XPHB} is halved; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. This effect lasts until the end of its next turn."
+						"{@actSave con} {@dc 14}, each creature in a 30-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target can't take Reactions; its {@variantrule Velocidad|XPHB} is halved; and it can take either an action or a {@variantrule Acción adicional|XPHB} on its turn, not both. This effect lasts until the end of its next turn."
 					]
 				}
 			],

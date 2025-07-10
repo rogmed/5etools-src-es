@@ -39,10 +39,10 @@
 					"items": [
 						"{@action Attack|XPHB}",
 						"{@action Dodge|XPHB}",
-						"{@action Dash|XPHB}",
+						"{@action Correr|XPHB}",
 						"{@action Help|XPHB}",
-						"{@action Disengage|XPHB}",
-						"{@action Hide|XPHB}",
+						"{@action Destrabarse|XPHB}",
+						"{@action Esconderse|XPHB}",
 						"{@action Influence|XPHB}",
 						"{@action Magic|XPHB}",
 						"{@action Ready|XPHB}",
@@ -460,25 +460,26 @@
 			]
 		},
 		{
-			"name": "Climb Speed",
+			"name": "Velocidad trepando",
 			"source": "XPHB",
-			"page": 363,
+			"page": 377,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"A Climb Speed can be used in place of {@variantrule Speed|XPHB} to traverse a vertical surface without expending the extra movement normally associated with climbing."
+				"Una velocidad trepando se puede utilizar en lugar de la velocidad para recorrer una superficie vertical sin gastar el movimiento adicional que normalmente se asocia a {@variantrule trepar|XPHB}."
 			]
 		},
 		{
-			"name": "Climbing",
+			"name": "Trepar",
 			"source": "XPHB",
-			"page": 363,
+			"page": 375,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"While you're climbing, each foot of movement costs 1 extra foot (2 extra feet in {@variantrule Terreno difícil|XPHB|difficult terrain}). You ignore this extra cost if you have a {@variantrule Climb Speed|XPHB} and use it to climb. At the DM's option, climbing a slippery surface or one with few handholds might require a successful {@dc 15} Strength ({@skill Athletics|XPHB}) check."
+				"Cuando trepas, cada metro de movimiento te cuesta 1 m adicional (2 m adicionales en {@variantrule terreno difícil|XPHB}). Ignoras este coste adicional si tienes una velocidad trepando y la usas para trepar.",
+				"A discreción de cada DM, trepar por una superficie resbaladiza o con pocos agarres podría requerir superar una prueba de Fuerza ({@skill Atletismo|XPHB}) con CD 15."
 			]
 		},
 		{
@@ -1055,15 +1056,15 @@
 			]
 		},
 		{
-			"name": "High Jump",
+			"name": "Salto de altura",
 			"source": "XPHB",
-			"page": 368,
+			"page": 374,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"When you make a High Jump, you leap into the air a number of feet equal to 3 plus your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing High Jump, you can jump only half that distance. Either way, each foot of the jump costs a foot of movement.",
-				"You can extend your arms half your height above yourself during the jump. Thus, you can reach a distance equal to the height of the jump plus 1½ times your height."
+				"Cuando hagas un salto de altura, ascenderás una distancia de 3 pies (90 cm) + 1 pie (30 cm) x tu modificador por Fuerza (como mínimo 0 m) si te mueves al menos 10 pies (3 m) a pie antes de saltar. Si saltas sin coger carrerilla, solo podrás ascender la mitad de esa distancia. En cualquier caso, cada metro que saltes te costará un metro de tu movimiento.",
+				"Mientras saltas, puedes estirar los brazos una distancia equivalente a la mitad de tu altura por encima de ti. De esta forma, podrás alcanzar con las manos una distancia igual a la de la altura del salto más una vez y media tu altura."
 			]
 		},
 		{
@@ -1201,14 +1202,14 @@
 			]
 		},
 		{
-			"name": "Jumping",
+			"name": "Saltar",
 			"source": "XPHB",
-			"page": 370,
+			"page": 374,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"When you jump, you make either a {@variantrule Long Jump|XPHB} (horizontal) or a {@variantrule High Jump|XPHB} (vertical)."
+				"Cuando saltas, puedes hacer un {@variantrule salto de longitud|XPHB} (horizontal) o un {@variantrule salto de altura|XPHB} (vertical)."
 			]
 		},
 		{
@@ -1247,16 +1248,16 @@
 			]
 		},
 		{
-			"name": "Long Jump",
+			"name": "Salto de longitud",
 			"source": "XPHB",
-			"page": 370,
+			"page": 374,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"When you make a Long Jump, you leap horizontally a number of feet up to your Strength score if you move at least 10 feet immediately before the jump. When you make a standing Long Jump, you can leap only half that distance. Either way, each foot you jump costs a foot of movement.",
-				"If you land in {@variantrule Terreno difícil|XPHB|difficult terrain}, you must succeed on a {@dc 10} Dexterity ({@skill Acrobatics|XPHB}) check or have the {@condition Prone|XPHB} condition.",
-				"This Long Jump rule assumes that the height of the jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a {@dc 10} Strength ({@skill Athletics|XPHB}) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit the obstacle."
+				"Cuando hagas un salto de longitud, avanzarás horizontalmente una distancia de hasta 1 pie (30 cm) x tu puntuación de Fuerza si recorres al menos 10 pies (3 m) antes de saltar. Si saltas sin coger carrerilla, solo podrás recorrer la mitad de esa distancia. En cualquier caso, cada metro que saltes te costará 1 m de tu movimiento.",
+				"Si aterrizas en {@variantrule terreno difícil|XPHB}, deberás superar una prueba de Destreza ({@skill Acrobacias|XPHB}) con CD 10 o tendrás el estado de {@condition derribado|XPHB}.",
+				"La regla de los saltos de longitud da por supuesto que la altura del salto no influye, como cuando se salta para cruzar un río o una grieta. Si tu DM lo cree conveniente, deberás superar una prueba de Fuerza ({@skill Atletismo|XPHB}) con CD 10 para superar un obstáculo de una altura no superior a la cuarta parte de la distancia del salto, como puede ser un seto o un muro bajo. De lo contrario, chocarás contra el obstáculo."
 			]
 		},
 		{
@@ -1631,29 +1632,29 @@
 			]
 		},
 		{
-			"name": "Speed",
+			"name": "Velocidad",
 			"source": "XPHB",
 			"page": 374,
 			"srd52": true,
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"A creature has a Speed, which is the distance in feet the creature can cover when it moves on its turn.",
+				"Las criaturas tienen una velocidad, que es la distancia en metros que pueden recorrer cuando se mueven en su turno. Consulta también “{@variantrule Arrastrarse|XPHB}”, “{@variantrule Nadar|XPHB}”, “{@variantrule Trepar|XPHB}”, “{@variantrule Saltar|XPHB}” y “{@variantrule Volar|XPHB}”",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Special Speeds",
+							"name": "Velocidades especiales",
 							"entries": [
-								"Some creatures have special speeds, such as a Burrow Speed, {@variantrule Climb Speed|XPHB}, {@variantrule Fly Speed|XPHB}, or {@variantrule Swim Speed|XPHB}, each of which is defined in this glossary. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a {@variantrule Fly Speed|XPHB} of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more."
+								"Algunas criaturas tienen velocidades especiales, como una {@variantrule velocidad excavando|XPHB}, {@variantrule velocidad nadando|XPHB}, {@variantrule velocidad trepando|XPHB} o {@variantrule velocidad volando|XPHB}, todas ellas definidas en este glosario. Si tienes más de una velocidad, elige cuál vas a usar al moverte. Podrás alternar entre las velocidades durante el movimiento. Cada vez que lo hagas, resta la distancia que ya te hayas movido a la nueva velocidad. Lo que quede será lo que aún te puedas mover. Si te quedan 0 metros o menos, no podrás usar la nueva velocidad durante el movimiento actual. Por ejemplo, si tienes una velocidad caminando de 9 m y una velocidad volando de 12 m, entonces podrías volar 3 m, caminar 3 m y levantar el vuelo para recorrer otros 6 m más."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Changes to Your Speeds",
+							"name": "Cambios en tus velocidades",
 							"entries": [
-								"If an effect increases or decreases your Speed for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your Speed is reduced to 0 and you have a {@variantrule Climb Speed|XPHB}, your {@variantrule Climb Speed|XPHB} is also reduced to 0. Similarly, if your Speed is halved and you have a {@variantrule Fly Speed|XPHB}, your {@variantrule Fly Speed|XPHB} is also halved."
+								"Si un efecto aumenta o reduce tu velocidad durante un tiempo, cualquier velocidad especial que tengas aumentará o se reducirá en la misma cantidad durante el mismo periodo de tiempo. Por ejemplo, si tu velocidad se reduce a 0 y tienes una velocidad trepando, tu velocidad trepando también se reducirá a 0. De igual forma, si tu velocidad se reduce a la mitad y tienes una velocidad volando, tu velocidad volando también se reducirá a la mitad."
 							]
 						}
 					]

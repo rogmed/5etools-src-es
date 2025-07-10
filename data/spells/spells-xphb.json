@@ -228,7 +228,7 @@
 					"type": "entries",
 					"name": "Aquatic Adaptation",
 					"entries": [
-						"You sprout gills and grow webs between your fingers. You can breathe underwater and gain a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Speed|XPHB}."
+						"You sprout gills and grow webs between your fingers. You can breathe underwater and gain a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Velocidad|XPHB}."
 					]
 				},
 				{
@@ -4089,7 +4089,7 @@
 			],
 			"entries": [
 				"You conjure nature spirits that flit around you in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} for the duration. Whenever the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} enters the space of a creature you can see and whenever a creature you can see enters the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} or ends its turn there, you can force that creature to make a Wisdom saving throw. The creature takes {@damage 5d8} Force damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.",
-				"In addition, you can take the {@action Disengage|XPHB} action as a {@variantrule Acción adicional|XPHB} for the spell's duration."
+				"In addition, you can take the {@action Destrabarse|XPHB} action as a {@variantrule Acción adicional|XPHB} for the spell's duration."
 			],
 			"entriesHigherLevel": [
 				{
@@ -6494,7 +6494,7 @@
 				}
 			],
 			"entries": [
-				"You target a creature you know on the same plane of existence. You or a willing creature you touch enters a trance state to act as a dream messenger. While in the trance, the messenger is {@condition Incapacitado|XPHB} and has a {@variantrule Speed|XPHB} of 0.",
+				"You target a creature you know on the same plane of existence. You or a willing creature you touch enters a trance state to act as a dream messenger. While in the trance, the messenger is {@condition Incapacitado|XPHB} and has a {@variantrule Velocidad|XPHB} of 0.",
 				"If the target is asleep, the messenger appears in the target's dreams and can converse with the target as long as it remains asleep, through the spell's duration. The messenger can also shape the dream's environment, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the spell. The target recalls the dream perfectly upon waking.",
 				"If the target is awake when you cast the spell, the messenger knows it and can either end the trance (and the spell) or wait for the target to sleep, at which point the messenger enters its dreams.",
 				"You can make the messenger terrifying to the target. If you do so, the messenger can deliver a message of no more than ten words, and then the target makes a Wisdom saving throw. On a failed save, the target gains no benefit from its rest, and it takes {@damage 3d6} Psychic damage when it wakes up."
@@ -7341,7 +7341,7 @@
 					"type": "entries",
 					"name": "Panicked",
 					"entries": [
-						"The target has the {@condition Asustado|XPHB} condition. On each of its turns, the {@condition Asustado|XPHB} target must take the {@action Dash|XPHB} action and move away from you by the safest and shortest route available. If the target moves to a space at least 60 feet away from you where it can't see you, this effect ends."
+						"The target has the {@condition Asustado|XPHB} condition. On each of its turns, the {@condition Asustado|XPHB} target must take the {@action Correr|XPHB} action and move away from you by the safest and shortest route available. If the target moves to a space at least 60 feet away from you where it can't see you, this effect ends."
 					]
 				},
 				{
@@ -7400,7 +7400,7 @@
 			"entries": [
 				"You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, or clothes from flax or wool.",
 				"Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} or eight connected 5-foot Cubes) given a sufficient quantity of material. If you're working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a 5-foot {@variantrule Cube [Area of Effect]|XPHB|Cube}). The quality of any fabricated objects is based on the quality of the raw materials.",
-				"Creatures and magic items can't be created by this spell. You also can't use it to create items that require a high degree of skill\u2014such as weapons and armor\u2014unless you have proficiency with the type of {@item Artisan's Tools|XPHB} used to craft such objects."
+				"Creatures and magic items can't be created by this spell. You also can't use it to create items that require a high degree of skill\u2014such as weapons and armor\u2014unless you have proficiency with the type of {@item Herramientas de artesano|XPHB} used to craft such objects."
 			],
 			"miscTags": [
 				"OBJ",
@@ -7637,7 +7637,7 @@
 			},
 			"entries": [
 				"You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.",
-				"For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the {@condition Cegado|XPHB} and {@condition Incapacitado|XPHB} conditions, and its {@variantrule Speed|XPHB} is 0.",
+				"For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the {@condition Cegado|XPHB} and {@condition Incapacitado|XPHB} conditions, and its {@variantrule Velocidad|XPHB} is 0.",
 				"The target also has {@variantrule Resistance|XPHB} to all damage except Psychic damage, and it has {@variantrule Immunity|XPHB} to the {@condition Envenenado|XPHB} condition."
 			],
 			"damageResist": [
@@ -8389,7 +8389,7 @@
 				}
 			],
 			"entries": [
-				"You attempt to turn one creature that you can see within range into stone. The target makes a Constitution saving throw. On a failed save, it has the {@condition Apresado|XPHB} condition for the duration. On a successful save, its {@variantrule Speed|XPHB} is 0 until the start of your next turn. Constructs automatically succeed on the save.",
+				"You attempt to turn one creature that you can see within range into stone. The target makes a Constitution saving throw. On a failed save, it has the {@condition Apresado|XPHB} condition for the duration. On a successful save, its {@variantrule Velocidad|XPHB} is 0 until the start of your next turn. Constructs automatically succeed on the save.",
 				"A {@condition Apresado|XPHB} target makes another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and has the {@condition Petrificado|XPHB} condition for the duration. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.",
 				"If you maintain your {@status Concentration|XPHB} on this spell for the entire possible duration, the target is {@condition Petrificado|XPHB} until the condition is ended by {@spell Restablecimiento mayor|XPHB} or similar magic."
 			],
@@ -10212,8 +10212,8 @@
 				}
 			],
 			"entries": [
-				"Choose a willing creature that you can see within range. Until the spell ends, the target's {@variantrule Speed|XPHB} is doubled, it gains a +2 bonus to {@variantrule Armor Class|XPHB}, it has {@variantrule Advantage|XPHB} on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the {@action Attack|XPHB} (one attack only), {@action Dash|XPHB}, {@action Disengage|XPHB}, {@action Hide|XPHB}, or {@action Utilize|XPHB} action.",
-				"When the spell ends, the target is {@condition Incapacitado|XPHB} and has a {@variantrule Speed|XPHB} of 0 until the end of its next turn, as a wave of lethargy washes over it."
+				"Choose a willing creature that you can see within range. Until the spell ends, the target's {@variantrule Velocidad|XPHB} is doubled, it gains a +2 bonus to {@variantrule Armor Class|XPHB}, it has {@variantrule Advantage|XPHB} on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the {@action Attack|XPHB} (one attack only), {@action Correr|XPHB}, {@action Destrabarse|XPHB}, {@action Esconderse|XPHB}, or {@action Utilize|XPHB} action.",
+				"When the spell ends, the target is {@condition Incapacitado|XPHB} and has a {@variantrule Velocidad|XPHB} of 0 until the end of its next turn, as a wave of lethargy washes over it."
 			],
 			"conditionInflict": [
 				"incapacitated"
@@ -10976,7 +10976,7 @@
 				}
 			],
 			"entries": [
-				"You create a twisting pattern of colors in a 30-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. While {@condition Hechizado|XPHB}, the creature has the {@condition Incapacitado|XPHB} condition and a {@variantrule Speed|XPHB} of 0.",
+				"You create a twisting pattern of colors in a 30-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. While {@condition Hechizado|XPHB}, the creature has the {@condition Incapacitado|XPHB} condition and a {@variantrule Velocidad|XPHB} of 0.",
 				"The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor."
 			],
 			"conditionInflict": [
@@ -12476,7 +12476,7 @@
 			"entries": [
 				"Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or take Reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid's body.",
 				"You can attempt to possess any Humanoid within 100 feet of you that you can see (creatures warded by a {@spell Protección contra el bien y el mal|XPHB} or {@spell Magic Circle|XPHB} spell can't be possessed). The target makes a Charisma saving throw. On a failed save, your soul enters the target's body, and the target's soul becomes trapped in the container. On a successful save, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.",
-				"Once you possess a creature's body, you control it. Your {@variantrule Hit Points|XPHB}, {@variantrule Hit Point Dice|XPHB}, Strength, Dexterity, Constitution, {@variantrule Speed|XPHB}, and senses are replaced by the creature's. You otherwise keep your game statistics.",
+				"Once you possess a creature's body, you control it. Your {@variantrule Hit Points|XPHB}, {@variantrule Hit Point Dice|XPHB}, Strength, Dexterity, Constitution, {@variantrule Velocidad|XPHB}, and senses are replaced by the creature's. You otherwise keep your game statistics.",
 				"Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move and it is {@condition Incapacitado|XPHB}.",
 				"While possessing a body, you can take a {@action Magic|XPHB} action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you make a Charisma saving throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.",
 				"If the container is destroyed or the spell ends, your soul returns to your body. If your body is more than 100 feet away from you or if your body is dead, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies.",
@@ -14207,7 +14207,7 @@
 			"entries": [
 				"A shimmering sphere encloses a Large or smaller creature or object within range. An unwilling creature must succeed on a Dexterity saving throw or be enclosed for the duration.",
 				"Nothing\u2014not physical objects, energy, or other spell effects\u2014can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.",
-				"The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can take an action to push against the sphere's walls and thus roll the sphere at up to half the creature's {@variantrule Speed|XPHB}. Similarly, the globe can be picked up and moved by other creatures.",
+				"The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can take an action to push against the sphere's walls and thus roll the sphere at up to half the creature's {@variantrule Velocidad|XPHB}. Similarly, the globe can be picked up and moved by other creatures.",
 				"A {@spell Disintegrate|XPHB} spell targeting the globe destroys it without harming anything inside."
 			],
 			"damageImmune": [
@@ -14534,7 +14534,7 @@
 			},
 			"entries": [
 				"A Large, quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, and it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed.",
-				"For the duration, you or a creature you choose can ride the steed. The steed uses the {@creature Riding Horse|XMM} stat block, except it has a {@variantrule Speed|XPHB} of 100 feet and can travel 13 miles in an hour. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends early if the steed takes any damage."
+				"For the duration, you or a creature you choose can ride the steed. The steed uses the {@creature Riding Horse|XMM} stat block, except it has a {@variantrule Velocidad|XPHB} of 100 feet and can travel 13 miles in an hour. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends early if the steed takes any damage."
 			],
 			"miscTags": [
 				"SMN"
@@ -15025,7 +15025,7 @@
 				}
 			],
 			"entries": [
-				"You overwhelm the mind of one creature you can see within range. If the target has 150 {@variantrule Hit Points|XPHB} or fewer, it has the {@condition Aturdido|XPHB} condition. Otherwise, its {@variantrule Speed|XPHB} is 0 until the start of your next turn.",
+				"You overwhelm the mind of one creature you can see within range. If the target has 150 {@variantrule Hit Points|XPHB} or fewer, it has the {@condition Aturdido|XPHB} condition. Otherwise, its {@variantrule Velocidad|XPHB} is 0 until the start of your next turn.",
 				"The {@condition Aturdido|XPHB} target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success."
 			],
 			"conditionInflict": [
@@ -17642,7 +17642,7 @@
 			],
 			"entries": [
 				"You alter time around up to six creatures of your choice in a 40-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.",
-				"An affected target's {@variantrule Speed|XPHB} is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't take Reactions. On its turns, it can take either an action or a {@variantrule Acción adicional|XPHB}, not both, and it can make only one attack if it takes the {@action Attack|XPHB} action. If it casts a spell with a Somatic component, there is a {@chance 25|||The spell fails!|The spell does not fail.} chance the spell fails as a result of the target making the spell's gestures too slowly.",
+				"An affected target's {@variantrule Velocidad|XPHB} is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't take Reactions. On its turns, it can take either an action or a {@variantrule Acción adicional|XPHB}, not both, and it can make only one attack if it takes the {@action Attack|XPHB} action. If it casts a spell with a Somatic component, there is a {@chance 25|||The spell fails!|The spell does not fail.} chance the spell fails as a result of the target making the spell's gestures too slowly.",
 				"An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success."
 			],
 			"savingThrow": [
@@ -17966,7 +17966,7 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and along ceilings, while leaving its hands free. The target also gains a {@variantrule Climb Speed|XPHB} equal to its {@variantrule Speed|XPHB}."
+				"Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and along ceilings, while leaving its hands free. The target also gains a {@variantrule Velocidad trepando|XPHB} equal to its {@variantrule Velocidad|XPHB}."
 			],
 			"entriesHigherLevel": [
 				{
@@ -21588,7 +21588,7 @@
 				}
 			],
 			"entries": [
-				"You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a {@variantrule Fly Speed|XPHB} of 300 feet and can hover; it has {@variantrule Immunity|XPHB} to the {@condition Prone|XPHB} condition; and it has {@variantrule Resistance|XPHB} to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the {@action Dash|XPHB} action or a {@action Magic|XPHB} action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the {@condition Aturdido|XPHB} condition. Until the spell ends, the target can revert to cloud form, which also requires a {@action Magic|XPHB} action followed by a 1-minute transformation.",
+				"You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a {@variantrule Fly Speed|XPHB} of 300 feet and can hover; it has {@variantrule Immunity|XPHB} to the {@condition Prone|XPHB} condition; and it has {@variantrule Resistance|XPHB} to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the {@action Correr|XPHB} action or a {@action Magic|XPHB} action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the {@condition Aturdido|XPHB} condition. Until the spell ends, the target can revert to cloud form, which also requires a {@action Magic|XPHB} action followed by a 1-minute transformation.",
 				"If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance."
 			],
 			"conditionInflict": [

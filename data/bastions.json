@@ -395,7 +395,7 @@
 								[
 									"Decorative",
 									"Aesthetically pleasing garden full of flowers and topiaries.",
-									"Ten exquisite floral bouquets (worth 5 GP each), ten vials of {@item Perfume|XPHB}, or ten {@item Candle|XPHB|Candles}"
+									"Ten exquisite floral bouquets (worth 5 GP each), ten vials of {@item Perfume|XPHB}, or ten {@item Vela|XPHB|Candles}"
 								],
 								[
 									"Food",
@@ -410,7 +410,7 @@
 								[
 									"Poison",
 									"Garden stocked with plants and fungi from which poisons and antitoxin can be extracted",
-									"Plants that are used to create either two vials of {@item Antitoxin|XPHB} or one vial of {@item Basic Poison|XPHB}"
+									"Plants that are used to create either two vials of {@item Antitoxin|XPHB} or one vial of {@item Veneno básico|XPHB}"
 								]
 							]
 						}
@@ -1642,9 +1642,9 @@
 				"This Workshop is a creative space where useful items can be crafted.",
 				{
 					"type": "entries",
-					"name": "Artisan's Tools",
+					"name": "Herramientas de artesano",
 					"entries": [
-						"The Workshop comes equipped with six different kinds of Artisan's Tools, chosen from the following list:",
+						"The Workshop comes equipped with six different kinds of Herramientas de artesano, chosen from the following list:",
 						{
 							"type": "list",
 							"columns": 3,
@@ -1698,7 +1698,7 @@
 					"type": "entries",
 					"name": "Enlarging the Facility",
 					"entries": [
-						"You can enlarge your Workshop to a Vast facility by spending 2,000 GP. If you do so, the Workshop gains two additional hirelings and three additional Artisan's Tools (chosen from the list above)."
+						"You can enlarge your Workshop to a Vast facility by spending 2,000 GP. If you do so, the Workshop gains two additional hirelings and three additional Herramientas de artesano (chosen from the list above)."
 					]
 				}
 			]

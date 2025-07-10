@@ -2299,8 +2299,8 @@
 				{
 					"name": "Screen",
 					"headers": [
-						"Long Jump",
-						"High Jump",
+						"Salto de longitud",
+						"Salto de altura",
 						"Suffocating",
 						"Concentration",
 						"Cansancio",
@@ -2548,7 +2548,7 @@
 						"Monje",
 						"Paladin",
 						"Explorador",
-						"Rogue",
+						"Pícaro",
 						"Hechicero",
 						"Warlock",
 						"Mago",
@@ -4941,7 +4941,7 @@
 					]
 				},
 				{
-					"name": "Rogue",
+					"name": "Pícaro",
 					"ordinal": {
 						"type": "chapter",
 						"identifier": 6
@@ -5642,7 +5642,7 @@
 						"Prisoner",
 						"Puzzle",
 						"Ring",
-						"Rogue",
+						"Pícaro",
 						"Ruin",
 						"Sage",
 						"Escudo",

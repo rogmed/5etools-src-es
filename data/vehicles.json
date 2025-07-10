@@ -146,7 +146,7 @@
 						[
 							"1",
 							"Legs extend, allowing the apparatus to walk and swim.",
-							"Legs retract, reducing the apparatus's {@variantrule Speed|XPHB} and {@variantrule Swim Speed|XPHB} to 0 and making it unable to benefit from bonuses to speed."
+							"Legs retract, reducing the apparatus's {@variantrule Velocidad|XPHB} and {@variantrule Swim Speed|XPHB} to 0 and making it unable to benefit from bonuses to speed."
 						],
 						[
 							"2",

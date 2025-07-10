@@ -334,7 +334,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Long Jump",
+					"name": "Salto de longitud",
 					"entries": [
 						"Move 10+ feet, and jump a number of feet up to your Strength score. When you make a standing long jump, you can leap only half that distance."
 					],
@@ -342,7 +342,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "High Jump",
+					"name": "Salto de altura",
 					"entries": [
 						"Move 10+ feet, and jump a number of feet equal to 3 + your Strength modifier. When you make a standing high jump, you can jump only half that distance."
 					],
@@ -883,7 +883,7 @@
 					],
 					"rows": [
 						[
-							"{@item Candle|phb}",
+							"{@item Vela|phb}",
 							"5 ft.",
 							"+ 5 ft.",
 							"1 hour"
@@ -901,7 +901,7 @@
 							"6 hours"
 						],
 						[
-							"{@item Hooded Lantern|phb|Lantern, hooded}",
+							"{@item Linterna sorda|phb|Lantern, hooded}",
 							"30 ft.",
 							"+ 30 ft.",
 							"6 hours"

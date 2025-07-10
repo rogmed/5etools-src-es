@@ -2121,7 +2121,7 @@
 													"A fur-lined bindle"
 												],
 												[
-													"Rogue",
+													"Pícaro",
 													"A nondescript coin pouch"
 												],
 												[
@@ -2313,7 +2313,7 @@
 									"name": "Proficiencies and Starting Equipment",
 									"page": 27,
 									"entries": [
-										"As a rank 1 loremonger, you gain one of the following proficiencies of your choice: artisan's tools (choose type), {@item navigator's tools|PHB}, vehicles (land), or vehicles (water).",
+										"As a rank 1 loremonger, you gain one of the following proficiencies of your choice: Herramientas de artesano (choose type), {@item navigator's tools|PHB}, vehicles (land), or vehicles (water).",
 										"Head office also grants you the use of an appropriate tool kit if you chose a tool proficiency, as well as ink and an ink pen."
 									],
 									"id": "073"
@@ -4635,7 +4635,7 @@
 												],
 												[
 													"6",
-													"You have a belt pouch specially made to release ball bearings or caltrops in the thick of the fight, forcing your enemies to avoid those hazards while fending off your blows."
+													"You have a belt pouch specially made to release Bolas de metal or caltrops in the thick of the fight, forcing your enemies to avoid those hazards while fending off your blows."
 												]
 											]
 										}
@@ -5541,7 +5541,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Rogue",
+							"name": "Pícaro",
 							"page": 65,
 							"entries": [
 								"{@i I know you went through all those documents pretty quickly. And now you're probably asking yourself, \"Wait... did I sign six addenda or only five?\" So you've got to ask yourself one question. \"Do I feel properly contractually represented?\" Well? Do you, punk}?",
@@ -5746,7 +5746,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "Thief",
+									"name": "Ladrón",
 									"page": 67,
 									"entries": [
 										"For most people, to be called a thief is among the gravest of insults. For an Acquisitions Incorporated rogue, it's a compliment. You're able to look out for yourself in combat, but are smart enough to instead style yourself as the expert who gets out of trouble just as easily as the rest of the party gets into it. Whether you're picking locks at speed on the way out of a noble's estate or mastering the operation of a strange magic device before it burns your headquarters to the ground, your fellow franchise members always know how lucky they are to have you around. And with your special skills, you'll be able to make sure they show their appreciation financially\u2014whether they know it or not."

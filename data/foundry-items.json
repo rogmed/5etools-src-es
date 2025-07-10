@@ -180,11 +180,11 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Ball Bearings",
+			"name": "Bolas de metal",
 			"source": "XPHB",
 			"activities": [
 				{
-					"name": "Spill Ball Bearings",
+					"name": "Spill Bolas de metal",
 					"type": "save",
 					"activation": {
 						"type": "action",
@@ -227,7 +227,7 @@
 					]
 				},
 				{
-					"name": "Recover Ball Bearings",
+					"name": "Recover Bolas de metal",
 					"type": "utility",
 					"activation": {
 						"type": "minuto",
@@ -284,7 +284,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Basic Poison",
+			"name": "Veneno básico",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -495,7 +495,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Candle",
+			"name": "Vela",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -770,7 +770,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Hooded Lantern",
+			"name": "Linterna sorda",
 			"source": "XPHB",
 			"activities": [
 				{

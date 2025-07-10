@@ -1467,11 +1467,11 @@
 									"Attack with a weapon or an {@variantrule Unarmed Strike|XPHB}."
 								],
 								[
-									"{@action Dash|XPHB}",
-									"For the rest of the turn, give yourself extra movement equal to your {@variantrule Speed|XPHB}."
+									"{@action Correr|XPHB}",
+									"For the rest of the turn, give yourself extra movement equal to your {@variantrule Velocidad|XPHB}."
 								],
 								[
-									"{@action Disengage|XPHB}",
+									"{@action Destrabarse|XPHB}",
 									"Your movement doesn't provoke {@action Opportunity Attack|XPHB} for the rest of the turn."
 								],
 								[
@@ -1483,7 +1483,7 @@
 									"Help another creature's ability check or attack roll, or administer first aid."
 								],
 								[
-									"{@action Hide|XPHB}",
+									"{@action Esconderse|XPHB}",
 									"Make a Dexterity ({@skill Stealth|XPHB}) check."
 								],
 								[
@@ -1919,7 +1919,7 @@
 							"page": 19,
 							"id": "04c",
 							"entries": [
-								"As adventurers explore, their equipment can help them in many ways. For example, they can reach out-of-the-way places with a Ladder, perceive things they wouldn't otherwise notice with a Torch or another light source, bypass locked doors and containers with {@item Thieves' Tools|XPHB}, and create obstacles for pursuers with {@item Abrojos|XPHB}.",
+								"As adventurers explore, their equipment can help them in many ways. For example, they can reach out-of-the-way places with a Ladder, perceive things they wouldn't otherwise notice with a Torch or another light source, bypass locked doors and containers with {@item Herramientas de ladrón|XPHB}, and create obstacles for pursuers with {@item Abrojos|XPHB}.",
 								"See {@book chapter 6|XPHB|6} for rules on many items that are useful on adventures. The items in that chapter's \"{@book Tools|XPHB|6|Tools}\" and \"{@book Adventuring Gear|XPHB|6|Adventuring Gear}\" sections are especially useful. The weapons in that chapter can also be used for more than battle; you could use a {@item Bastón|XPHB}, for example, to push a sinister-looking button that you're reluctant to touch."
 							]
 						},
@@ -2014,7 +2014,7 @@
 							"page": 19,
 							"id": "054",
 							"entries": [
-								"Adventurers and monsters often hide, whether to spy on one another, sneak past a guardian, or set an ambush. The Dungeon Master decides when circumstances are appropriate for hiding. When you try to hide, you take the {@action Hide|XPHB} action."
+								"Adventurers and monsters often hide, whether to spy on one another, sneak past a guardian, or set an ambush. The Dungeon Master decides when circumstances are appropriate for hiding. When you try to hide, you take the {@action Esconderse|XPHB} action."
 							]
 						},
 						{
@@ -2657,7 +2657,7 @@
 									"page": 23,
 									"id": "072",
 									"entries": [
-										"On your turn, you can move a distance up to your {@variantrule Speed|XPHB} and take one action. You decide whether to move first or take your action first.",
+										"On your turn, you can move a distance up to your {@variantrule Velocidad|XPHB} and take one action. You decide whether to move first or take your action first.",
 										"The main actions you can take are listed in \"{@book Actions|XPHB|1|Actions}\" earlier in this chapter. A character's features and a monster's stat block also provide action options. \"{@book Movement and Position|XPHB|1|Movement and Position}\" later in this chapter gives the rules for movement.",
 										{
 											"type": "entries",
@@ -2719,10 +2719,10 @@
 									"width": 1700,
 									"height": 1136
 								},
-								"On your turn, you can move a distance equal to your {@variantrule Speed|XPHB} or less. Or you can decide not to move.",
+								"On your turn, you can move a distance equal to your {@variantrule Velocidad|XPHB} or less. Or you can decide not to move.",
 								"Your movement can include {@variantrule climbing|XPHB}, {@variantrule crawling|XPHB}, {@variantrule jumping|XPHB}, and {@variantrule swimming|XPHB} (each explained in the {@book rules glossary|XPHB|10}). These different modes of movement can be combined with your regular movement, or they can constitute your entire move.",
 								"However you're moving with your Speed, you deduct the distance of each part of your move from it until it is used up or until you are done moving, whichever comes first.",
-								"A character's Speed is determined during character creation. A monster's Speed is noted in the monster's stat block. See the {@book rules glossary|XPHB|10|Speed} for more about Speed as well as about special speeds, such as a {@variantrule Climb Speed|XPHB}, {@variantrule Fly Speed|XPHB}, or {@variantrule Swim Speed|XPHB}.",
+								"A character's Speed is determined during character creation. A monster's Speed is noted in the monster's stat block. See the {@book rules glossary|XPHB|10|Speed} for more about Speed as well as about special speeds, such as a {@variantrule Velocidad trepando|XPHB}, {@variantrule Fly Speed|XPHB}, or {@variantrule Swim Speed|XPHB}.",
 								{
 									"type": "entries",
 									"name": "Terreno difícil",
@@ -3017,7 +3017,7 @@
 											"page": 26,
 											"id": "08c",
 											"entries": [
-												"You can avoid provoking an Opportunity Attack by taking the {@action Disengage|XPHB} action. You also don't provoke an Opportunity Attack when you {@variantrule Teleportation|XPHB|Teleport} or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy."
+												"You can avoid provoking an Opportunity Attack by taking the {@action Destrabarse|XPHB} action. You also don't provoke an Opportunity Attack when you {@variantrule Teleportation|XPHB|Teleport} or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy."
 											]
 										},
 										{
@@ -3057,7 +3057,7 @@
 									"page": 26,
 									"id": "08f",
 									"entries": [
-										"During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your {@variantrule Speed|XPHB} (round down). For example, if your Speed is 30 feet, you spend 15 feet of movement to mount a horse."
+										"During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your {@variantrule Velocidad|XPHB} (round down). For example, if your Speed is 30 feet, you spend 15 feet of movement to mount a horse."
 									]
 								},
 								{
@@ -3067,7 +3067,7 @@
 									"id": "090",
 									"entries": [
 										"You can control a mount only if it has been trained to accept a rider. Domesticated horses, mules, and similar creatures have such training.",
-										"The {@variantrule Initiative|XPHB} of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: {@action Dash|XPHB}, {@action Disengage|XPHB}, and {@action Dodge|XPHB}. A controlled mount can move and act even on the turn that you mount it.",
+										"The {@variantrule Initiative|XPHB} of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: {@action Correr|XPHB}, {@action Destrabarse|XPHB}, and {@action Dodge|XPHB}. A controlled mount can move and act even on the turn that you mount it.",
 										"In contrast, an independent mount\u2014one that lets you ride but ignores your control\u2014retains its place in the Initiative order and moves and acts as it likes."
 									]
 								},
@@ -3780,7 +3780,7 @@
 									"page": 30,
 									"id": "0be",
 									"entries": [
-										"Auro's Sneak Attack lets him deal extra damage to the skeletons, and his Cunning Action lets him {@action Disengage|XPHB} as a Bonus Action. These are examples of class features (described in {@book chapter 3|XPHB|3}) that let characters bend the rules."
+										"Auro's Sneak Attack lets him deal extra damage to the skeletons, and his Cunning Action lets him {@action Destrabarse|XPHB} as a Bonus Action. These are examples of class features (described in {@book chapter 3|XPHB|3}) that let characters bend the rules."
 									]
 								},
 								{
@@ -4150,7 +4150,7 @@
 											"Average"
 										],
 										[
-											"{@class Rogue|XPHB}",
+											"{@class Pícaro|XPHB}",
 											"Stealth",
 											"Destreza",
 											"Low"
@@ -4181,7 +4181,7 @@
 									"page": 36,
 									"id": "0cb",
 									"entries": [
-										"The classic D&D party comprises a {@class Cleric|XPHB}, {@class Guerrero|XPHB}, {@class Rogue|XPHB}, and {@class Mago|XPHB}. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:",
+										"The classic D&D party comprises a {@class Cleric|XPHB}, {@class Guerrero|XPHB}, {@class Pícaro|XPHB}, and {@class Mago|XPHB}. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -4364,7 +4364,7 @@
 									"id": "0d6",
 									"entries": [
 										"Choose a species for your character. The following species options are detailed in {@book chapter 4|XPHB|4}: {@race Aasimar|XPHB}, {@race Dracónido|XPHB}, {@race Enano|XPHB}, {@race Elf|XPHB}, {@race Gnomo|XPHB}, {@race Goliath|XPHB}, {@race Halfling|XPHB}, {@race Human|XPHB}, {@race Orc|XPHB}, and {@race Tiefling|XPHB}. Once you've chosen a species, write it on your character sheet. Then record your species' traits.",
-										"Your character's {@variantrule size|XPHB} and {@variantrule Speed|XPHB} are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size)."
+										"Your character's {@variantrule size|XPHB} and {@variantrule Velocidad|XPHB} are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size)."
 									]
 								},
 								{
@@ -4767,7 +4767,7 @@
 													"10"
 												],
 												[
-													"{@class Rogue|XPHB}",
+													"{@class Pícaro|XPHB}",
 													"12",
 													"15",
 													"13",
@@ -5508,7 +5508,7 @@
 															"10 + Con. modifier"
 														],
 														[
-															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Rogue|XPHB}, or {@class Warlock|XPHB}",
+															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Pícaro|XPHB}, or {@class Warlock|XPHB}",
 															"8 + Con. modifier"
 														],
 														[
@@ -5818,7 +5818,7 @@
 															"6 + Con. modifier"
 														],
 														[
-															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Rogue|XPHB}, or {@class Warlock|XPHB}",
+															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Pícaro|XPHB}, or {@class Warlock|XPHB}",
 															"5 + Con. modifier"
 														],
 														[
@@ -6681,7 +6681,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "{@class Rogue|XPHB}",
+									"name": "{@class Pícaro|XPHB}",
 									"page": 128,
 									"entries": [
 										"Launch deadly Sneak Attacks while avoiding harm through stealth. Then embody the...",
@@ -6689,10 +6689,10 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Rogue|XPHB|Arcane Trickster|Arcane Trickster|XPHB} to enhance stealth with spells.",
-												"{@class Rogue|XPHB|Assassin|Assassin|XPHB} to deliver ambushes and poison.",
-												"{@class Rogue|XPHB|Soulknife|Soulknife|XPHB} to strike foes with psi blades.",
-												"{@class Rogue|XPHB|Thief|Thief|XPHB} to master infiltration and treasure hunting."
+												"{@class Pícaro|XPHB|Arcane Trickster|Arcane Trickster|XPHB} to enhance stealth with spells.",
+												"{@class Pícaro|XPHB|Assassin|Assassin|XPHB} to deliver ambushes and poison.",
+												"{@class Pícaro|XPHB|Soulknife|Soulknife|XPHB} to strike foes with psi blades.",
+												"{@class Pícaro|XPHB|Thief|Thief|XPHB} to master infiltration and treasure hunting."
 											]
 										}
 									],
@@ -6866,7 +6866,7 @@
 											"page": 177,
 											"id": "49c",
 											"entries": [
-												"Each background gives a character proficiency with one tool\u2014either a specific tool or one chosen from the Artisan's Tools category. Tools are detailed in {@book chapter 6|XPHB|6|Tools}."
+												"Each background gives a character proficiency with one tool\u2014either a specific tool or one chosen from the Herramientas de artesano category. Tools are detailed in {@book chapter 6|XPHB|6|Tools}."
 											]
 										},
 										{
@@ -8779,11 +8779,11 @@
 						},
 						{
 							"type": "entries",
-							"name": "Artisan's Tools",
+							"name": "Herramientas de artesano",
 							"page": 220,
 							"id": "65e",
 							"entries": [
-								"Artisan's Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.",
+								"Herramientas de artesano are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.",
 								{
 									"type": "entries",
 									"name": "Alchemist's Supplies (50 GP)",
@@ -9254,7 +9254,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, {@item Ball Bearings|XPHB}, {@item Bucket|XPHB}, {@item Abrojos|XPHB}, {@item Chain|XPHB}, {@item Palanqueta|XPHB}, {@item Firearm Bullets (10)|XPHB|Firearm Bullets}, {@item Grappling Hook|XPHB}, {@item Iron Pot|XPHB}, {@item Iron Spikes|XPHB}, {@item Sling Bullet|XPHB|Sling Bullets}"
+													"entry": "Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, {@item Bolas de metal|XPHB}, {@item Bucket|XPHB}, {@item Abrojos|XPHB}, {@item Chain|XPHB}, {@item Palanqueta|XPHB}, {@item Firearm Bullets (10)|XPHB|Firearm Bullets}, {@item Grappling Hook|XPHB}, {@item Iron Pot|XPHB}, {@item Iron Spikes|XPHB}, {@item Sling Bullet|XPHB|Sling Bullets}"
 												}
 											]
 										}
@@ -9288,7 +9288,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "{@item Mosquete|XPHB}, {@item Pistola|XPHB}, {@item Bell|XPHB}, {@item Bullseye Lantern|XPHB}, {@item Flask|XPHB}, {@item Hooded Lantern|XPHB}, {@item Hunting Trap|XPHB|Hunter's Trap}, {@item Lock|XPHB}, {@item Manacles|XPHB}, {@item Mirror|XPHB}, {@item Shovel|XPHB}, {@item Signal Whistle|XPHB}, {@item Yesquero|XPHB}"
+													"entry": "{@item Mosquete|XPHB}, {@item Pistola|XPHB}, {@item Campana|XPHB}, {@item Bullseye Lantern|XPHB}, {@item Flask|XPHB}, {@item Linterna sorda|XPHB}, {@item Hunting Trap|XPHB|Hunter's Trap}, {@item Lock|XPHB}, {@item Manacles|XPHB}, {@item Mirror|XPHB}, {@item Shovel|XPHB}, {@item Signal Whistle|XPHB}, {@item Yesquero|XPHB}"
 												}
 											]
 										}
@@ -9496,7 +9496,7 @@
 												{
 													"type": "item",
 													"name": "Craft:",
-													"entry": "{@item Antitoxin|XPHB}, {@item Candle|XPHB}, {@item Healer's Kit|XPHB}, {@item Potion of Healing|XDMG}"
+													"entry": "{@item Antitoxin|XPHB}, {@item Vela|XPHB}, {@item Healer's Kit|XPHB}, {@item Potion of Healing|XDMG}"
 												}
 											]
 										}
@@ -9598,7 +9598,7 @@
 													"name": "Craft:",
 													"type": "item",
 													"entries": [
-														"{@item Basic Poison|XPHB}"
+														"{@item Veneno básico|XPHB}"
 													]
 												}
 											]
@@ -9705,7 +9705,7 @@
 									"2 GP"
 								],
 								[
-									"{@item Ball Bearings|XPHB}",
+									"{@item Bolas de metal|XPHB}",
 									"2 lb.",
 									"1 GP"
 								],
@@ -9725,7 +9725,7 @@
 									"1 GP"
 								],
 								[
-									"{@item Bell|XPHB}",
+									"{@item Campana|XPHB}",
 									"\u2014",
 									"1 GP"
 								],
@@ -9755,7 +9755,7 @@
 									"5 CP"
 								],
 								[
-									"{@item Burglar's Pack|XPHB}",
+									"{@item Paquete de ladrón|XPHB}",
 									"42 lb.",
 									"16 GP"
 								],
@@ -9765,7 +9765,7 @@
 									"1 GP"
 								],
 								[
-									"{@item Candle|XPHB}",
+									"{@item Vela|XPHB}",
 									"\u2014",
 									"1 CP"
 								],
@@ -9905,7 +9905,7 @@
 									"10 GP"
 								],
 								[
-									"{@item Hooded Lantern|XPHB|Lantern, Hooded}",
+									"{@item Linterna sorda|XPHB|Lantern, Hooded}",
 									"2 lb.",
 									"5 GP"
 								],
@@ -9960,7 +9960,7 @@
 									"5 GP"
 								],
 								[
-									"{@item Basic Poison|XPHB|Poison, Basic}",
+									"{@item Veneno básico|XPHB|Poison, Basic}",
 									"\u2014",
 									"100 GP"
 								],
@@ -10246,11 +10246,11 @@
 								},
 								{
 									"type": "entries",
-									"name": "Ball Bearings (1 GP)",
+									"name": "Bolas de metal (1 GP)",
 									"page": 224,
 									"id": "6b0",
 									"entries": [
-										"As a {@action Utilize|XPHB} action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a {@dc 10} Dexterity saving throw or have the {@condition Prone|XPHB} condition. It takes 10 minutes to recover the Ball Bearings."
+										"As a {@action Utilize|XPHB} action, you can spill Bolas de metal from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a {@dc 10} Dexterity saving throw or have the {@condition Prone|XPHB} condition. It takes 10 minutes to recover the Bolas de metal."
 									]
 								},
 								{
@@ -10336,11 +10336,11 @@
 								},
 								{
 									"type": "entries",
-									"name": "Burglar's Pack (16 GP)",
+									"name": "Paquete de ladrón (16 GP)",
 									"page": 224,
 									"id": "6ba",
 									"entries": [
-										"A Burglar's Pack contains the following items: {@item Mochila|XPHB}, {@item Ball Bearings|XPHB}, {@item Bell|XPHB}, 10 {@item Candle|XPHB|Candles}, {@item Palanqueta|XPHB}, {@item Hooded Lantern|XPHB}, 7 flasks of {@item Aceite|XPHB}, 5 days of {@item Raciones|XPHB}, {@item Cuerda|XPHB}, {@item Yesquero|XPHB}, and {@item Cantimplora|XPHB}."
+										"A Paquete de ladrón contains the following items: {@item Mochila|XPHB}, {@item Bolas de metal|XPHB}, {@item Campana|XPHB}, 10 {@item Vela|XPHB|Candles}, {@item Palanqueta|XPHB}, {@item Linterna sorda|XPHB}, 7 flasks of {@item Aceite|XPHB}, 5 days of {@item Raciones|XPHB}, {@item Cuerda|XPHB}, {@item Yesquero|XPHB}, and {@item Cantimplora|XPHB}."
 									]
 								},
 								{
@@ -10517,7 +10517,7 @@
 									"page": 225,
 									"id": "6ca",
 									"entries": [
-										"An Entertainer's Pack contains the following items: {@item Mochila|XPHB}, {@item Bedroll|XPHB}, {@item Bell|XPHB}, {@item Bullseye Lantern|XPHB}, 3 {@item Costume|XPHB|Costumes}, {@item Mirror|XPHB}, 8 flasks of {@item Aceite|XPHB}, 9 days of {@item Raciones|XPHB}, {@item Yesquero|XPHB}, and {@item Cantimplora|XPHB}."
+										"An Entertainer's Pack contains the following items: {@item Mochila|XPHB}, {@item Bedroll|XPHB}, {@item Campana|XPHB}, {@item Bullseye Lantern|XPHB}, 3 {@item Costume|XPHB|Costumes}, {@item Mirror|XPHB}, 8 flasks of {@item Aceite|XPHB}, 9 days of {@item Raciones|XPHB}, {@item Yesquero|XPHB}, and {@item Cantimplora|XPHB}."
 									]
 								},
 								{
@@ -10688,7 +10688,7 @@
 									"page": 226,
 									"id": "6d8",
 									"entries": [
-										"A Hooded Lantern burns {@item Aceite|XPHB} as fuel to cast {@variantrule Luz brillante|XPHB} in a 30-foot radius and {@variantrule Luz tenue|XPHB} for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Luz tenue in a 5-foot radius, or raise it again."
+										"A Linterna sorda burns {@item Aceite|XPHB} as fuel to cast {@variantrule Luz brillante|XPHB} in a 30-foot radius and {@variantrule Luz tenue|XPHB} for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Luz tenue in a 5-foot radius, or raise it again."
 									]
 								},
 								{
@@ -10697,7 +10697,7 @@
 									"page": 226,
 									"id": "6d9",
 									"entries": [
-										"A Lock comes with a key. Without the key, a creature can use {@item Thieves' Tools|XPHB} to pick this Lock with a successful {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check."
+										"A Lock comes with a key. Without the key, a creature can use {@item Herramientas de ladrón|XPHB} to pick this Lock with a successful {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check."
 									]
 								},
 								{
@@ -10716,7 +10716,7 @@
 									"id": "6db",
 									"entries": [
 										"As a {@action Utilize|XPHB} action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the {@condition Agarrado|XPHB}, {@condition Incapacitado|XPHB}, or {@condition Apresado|XPHB} condition if you succeed on a {@dc 13} Dexterity ({@skill Sleight of Hand|XPHB}) check. While bound, a creature has {@variantrule Disadvantage|XPHB} on attack rolls, and the creature is {@condition Apresado|XPHB} if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful {@dc 20} Dexterity ({@skill Sleight of Hand|XPHB}) check as an action. Bursting them requires a successful {@dc 25} Strength ({@skill Athletics|XPHB}) check as an action.",
-										"Each set of Manacles comes with a key. Without the key, a creature can use {@item Thieves' Tools|XPHB} to pick the Manacles' lock with a successful {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check."
+										"Each set of Manacles comes with a key. Without the key, a creature can use {@item Herramientas de ladrón|XPHB} to pick the Manacles' lock with a successful {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check."
 									]
 								},
 								{
@@ -10816,7 +10816,7 @@
 									"page": 227,
 									"id": "6e6",
 									"entries": [
-										"As a Bonus Action, you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition takes an extra {@dice 1d4} Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first."
+										"As a Bonus Action, you can use a vial of Veneno básico to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition takes an extra {@dice 1d4} Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first."
 									]
 								},
 								{
@@ -10825,7 +10825,7 @@
 									"page": 228,
 									"id": "6e7",
 									"entries": [
-										"A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ({@skill Athletics|XPHB}) check as part of a {@variantrule High Jump|XPHB|High} or {@variantrule Long Jump|XPHB}, you can use the Pole to vault, giving yourself {@variantrule Advantage|XPHB} on the check."
+										"A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ({@skill Athletics|XPHB}) check as part of a {@variantrule Salto de altura|XPHB|High} or {@variantrule Salto de longitud|XPHB}, you can use the Pole to vault, giving yourself {@variantrule Advantage|XPHB} on the check."
 									]
 								},
 								{
@@ -10998,7 +10998,7 @@
 									"page": 229,
 									"id": "6fa",
 									"entries": [
-										"A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a {@item Candle|XPHB}, {@item Lamp|XPHB}, Lantern, or {@item Antorcha|XPHB}\u2014or anything else with exposed fuel\u2014takes a Bonus Action. Lighting any other fire takes 1 minute."
+										"A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a {@item Vela|XPHB}, {@item Lamp|XPHB}, Lantern, or {@item Antorcha|XPHB}\u2014or anything else with exposed fuel\u2014takes a Bonus Action. Lighting any other fire takes 1 minute."
 									]
 								},
 								{
@@ -13851,13 +13851,13 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Climbing"
+							"name": "Trepar"
 						},
 						{
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Climb Speed"
+							"name": "Velocidad trepando"
 						},
 						{
 							"type": "statblock",
@@ -13971,7 +13971,7 @@
 							"type": "statblock",
 							"tag": "action",
 							"source": "XPHB",
-							"name": "Dash"
+							"name": "Correr"
 						},
 						{
 							"type": "statblock",
@@ -14151,7 +14151,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "High Jump"
+							"name": "Salto de altura"
 						},
 						{
 							"type": "statblock",
@@ -14253,7 +14253,7 @@
 							"type": "statblock",
 							"tag": "variantrule",
 							"source": "XPHB",
-							"name": "Long Jump"
+							"name": "Salto de longitud"
 						},
 						{
 							"type": "statblock",

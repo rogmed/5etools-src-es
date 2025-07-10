@@ -74,21 +74,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Intelligence"
+								"Inteligencia"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Identify a substance ({@dc 15}), or start a fire ({@dc 15})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Acid|XPHB}, {@item Alchemist\u0027s Fire|XPHB}, {@item Component Pouch|XPHB}, {@item Aceite|XPHB}, {@item Paper|XPHB}, {@item Perfume|XPHB}"
@@ -150,7 +150,7 @@
 		},
 		{
 			"name": "Mochila",
-			"originalname": "Backpack",
+			"originalname": "mochila",
 			"source": "XPHB",
 			"page": 224,
 			"srd52": true,
@@ -169,8 +169,8 @@
 			}
 		},
 		{
-			"name": "Ball Bearings",
-			"originalname": "",
+			"name": "Bolas de metal",
+			"originalname": "Ball Bearings",
 			"source": "XPHB",
 			"page": 224,
 			"srd52": true,
@@ -180,7 +180,7 @@
 			"weight": 2,
 			"value": 100,
 			"entries": [
-				"As a {@action Utilize|XPHB} action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a {@dc 10} Dexterity saving throw or have the {@condition Prone|XPHB} condition. It takes 10 minutes to recover the Ball Bearings."
+				"Como acción de utilizar, puedes verter las bolas de metal de su bolsa. Se esparcirán para cubrir una zona cuadrada y plana de 10 pies (3 m) de lado a 3 m o menos de ti. Las criaturas que entren en esta zona por primera vez en un turno deberán superar una tirada de salvación de Destreza con CD 10 o tendrán el estado de {@condition derribado|XPHB|derribadas}. Se tarda 10 minutos en recuperar las bolas de metal."
 			]
 		},
 		{
@@ -204,10 +204,10 @@
 			}
 		},
 		{
-			"name": "Basic Poison",
-			"originalname": "",
+			"name": "Veneno básico",
+			"originalname": "Basic Poison",
 			"source": "XPHB",
-			"page": 227,
+			"page": 229,
 			"srd52": true,
 			"basicRules2024": true,
 			"type": "G|XPHB",
@@ -215,7 +215,7 @@
 			"value": 10000,
 			"poison": true,
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition takes an extra {@damage 1d4} Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first."
+				"Como {@variantrule acción adicional|XPHB}, puedes usar un vial de veneno básico para impregnar un arma o hasta tres unidades de munición. Las criaturas que sufran daño cortante o perforante por el arma o munición envenenadas recibirán {@damage 1d4} de daño de veneno adicional. Una vez aplicado, el veneno mantiene su efectividad durante 1 minuto o hasta que inflija su daño, lo que ocurra primero."
 			],
 			"miscTags": [
 				"CNS"
@@ -257,8 +257,8 @@
 			]
 		},
 		{
-			"name": "Bell",
-			"originalname": "",
+			"name": "Campana",
+			"originalname": "campana",
 			"source": "XPHB",
 			"page": 224,
 			"srd52": true,
@@ -267,7 +267,7 @@
 			"rarity": "none",
 			"value": 100,
 			"entries": [
-				"When rung as a {@action Utilize|XPHB} action, a Bell produces a sound that can be heard up to 60 feet away."
+				"Al tañer una campana como acción de utilizar, producirá un sonido audible a 60 pies (18 m) de distancia."
 			]
 		},
 		{
@@ -346,21 +346,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Intelligence"
+								"Inteligencia"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Detect poisoned drink ({@dc 15}), or identify alcohol ({@dc 10})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Antitoxin|XPHB}"
@@ -413,8 +413,8 @@
 			]
 		},
 		{
-			"name": "Burglar\u0027s Pack",
-			"originalname": "",
+			"name": "Paquete de ladrón",
+			"originalname": "Burglar's pack",
 			"source": "XPHB",
 			"page": 224,
 			"srd52": true,
@@ -424,29 +424,29 @@
 			"weight": 47.5,
 			"value": 1600,
 			"entries": [
-				"A Burglar\u0027s Pack contains the following items: {@item Mochila|XPHB}, {@item Ball Bearings|XPHB}, {@item Bell|XPHB}, 10 {@item Candle|XPHB|Candles}, {@item Palanqueta|XPHB}, {@item Hooded Lantern|XPHB}, 7 flasks of {@item Aceite|XPHB}, 5 days of {@item Raciones|XPHB}, {@item Cuerda|XPHB}, {@item Yesquero|XPHB}, and {@item Cantimplora|XPHB}."
+				"Un paquete de ladrón contiene los siguientes objetos: {@item bolas de metal|XPHB}, {@item campana|XPHB}, {@item cantimplora|XPHB}, {@item cuerda|XPHB}, 7 frascos de {@item aceite|XPHB}, {@item linterna sorda|XPHB}, {@item mochila|XPHB}, {@item palanqueta|XPHB}, {@item raciones|XPHB} para 5 días, 10 {@item Vela|XPHB|velas} y {@item yesquero|XPHB}."
 			],
 			"packContents": [
-				"backpack|xphb",
-				"ball bearings|xphb",
-				"bell|xphb",
+				"mochila|xphb",
+				"Bolas de metal|xphb",
+				"campana|xphb",
 				{
-					"item": "candle|xphb",
+					"item": "vela|xphb",
 					"quantity": 10
 				},
-				"crowbar|xphb",
-				"hooded lantern|xphb",
+				"palanqueta|xphb",
+				"Linterna sorda|xphb",
 				{
-					"item": "oil|xphb",
+					"item": "aceite|xphb",
 					"quantity": 7
 				},
 				{
-					"item": "rations|xphb",
+					"item": "raciones|xphb",
 					"quantity": 5
 				},
-				"rope|xphb",
-				"tinderbox|xphb",
-				"waterskin|xphb"
+				"cuerda|xphb",
+				"yesquero|xphb",
+				"cantimplora|xphb"
 			]
 		},
 		{
@@ -466,21 +466,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Dexterity"
+								"Destreza"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Write text with impressive flourishes that guard against forgery ({@dc 15})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Ink|XPHB}, {@item Spell Scroll|XDMG}"
@@ -519,17 +519,17 @@
 			"speed": 50
 		},
 		{
-			"name": "Candle",
-			"originalname": "",
+			"name": "Vela",
+			"originalname": "Candle",
 			"source": "XPHB",
-			"page": 224,
+			"page": 229,
 			"srd52": true,
 			"basicRules2024": true,
 			"type": "G|XPHB",
 			"rarity": "none",
 			"value": 1,
 			"entries": [
-				"For 1 hour, a lit Candle sheds {@variantrule Luz brillante|XPHB} in a 5-foot radius and {@variantrule Luz tenue|XPHB} for an additional 5 feet."
+				"Durante 1 hora, una vela encendida emite {@variantrule luz brillante|XPHB} en un radio de 5 pies (1,5 m) y {@variantrule luz tenue|XPHB} 1,5 m más allá."
 			],
 			"light": [
 				{
@@ -558,21 +558,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Strength"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Seal or pry open a door or container ({@dc 20})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Garrote|XPHB}, {@item Garrote grande|XPHB}, {@item Bastón|XPHB}, {@item Barrel|XPHB}, {@item Chest|XPHB}, {@item Ladder|XPHB}, {@item Pole|XPHB}, {@item Portable Ram|XPHB}, {@item Antorcha|XPHB}"
@@ -623,21 +623,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Wisdom"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Draft a map of a small area ({@dc 15})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Map|XPHB}"
@@ -740,21 +740,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Dexterity"
+								"Destreza"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Modify footwear to give {@variantrule Advantage|XPHB} on the wearer\u0027s next Dexterity ({@skill Acrobatics|XPHB}) check ({@dc 10})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Climber\u0027s Kit|XPHB}"
@@ -810,21 +810,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Wisdom"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Improve food\u0027s flavor ({@dc 10}), or detect spoiled or poisoned food ({@dc 15})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Raciones|XPHB}"
@@ -873,7 +873,7 @@
 		},
 		{
 			"name": "Palanqueta",
-			"originalname": "Crowbar",
+			"originalname": "palanqueta",
 			"source": "XPHB",
 			"page": 226,
 			"srd52": true,
@@ -902,14 +902,14 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Wisdom"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Discern whether someone is cheating ({@dc 10}), or win the game ({@dc 20})"
@@ -959,7 +959,7 @@
 					"quantity": 5
 				},
 				"perfume|xphb",
-				"tinderbox|xphb"
+				"yesquero|xphb"
 			]
 		},
 		{
@@ -979,21 +979,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Charisma"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Apply makeup ({@dc 10})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Costume|XPHB}"
@@ -1031,14 +1031,14 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Wisdom"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Discern whether someone is cheating ({@dc 10}), or win the game ({@dc 20})"
@@ -1063,9 +1063,9 @@
 				"Un paquete de explorador de mazmorras contiene los siguientes objetos: {@item Abrojos|XPHB}, 10 {@item Antorcha|XPHB|Antorchas}, {@item Cantimplora|XPHB}, {@item Cuerda|XPHB}, 2 frascos de {@item Aceite|XPHB}, {@item Mochila|XPHB}, {@item Palanqueta|XPHB}, {@item Raciones|XPHB} para 10 días y {@item Yesquero|XPHB}."
 			],
 			"packContents": [
-				"backpack|xphb",
+				"mochila|xphb",
 				"caltrops|xphb",
-				"crowbar|xphb",
+				"palanqueta|xphb",
 				{
 					"item": "oil|xphb",
 					"quantity": 2
@@ -1074,13 +1074,13 @@
 					"item": "rations|xphb",
 					"quantity": 10
 				},
-				"rope|xphb",
-				"tinderbox|xphb",
+				"cuerda|xphb",
+				"yesquero|xphb",
 				{
 					"item": "torch|xphb",
 					"quantity": 10
 				},
-				"waterskin|xphb"
+				"cantimplora|xphb"
 			]
 		},
 		{
@@ -1126,12 +1126,12 @@
 			"weight": 58.5,
 			"value": 4000,
 			"entries": [
-				"An Entertainer\u0027s Pack contains the following items: {@item Mochila|XPHB}, {@item Bedroll|XPHB}, {@item Bell|XPHB}, {@item Bullseye Lantern|XPHB}, 3 {@item Costume|XPHB|Costumes}, {@item Mirror|XPHB}, 8 flasks of {@item Aceite|XPHB}, 9 days of {@item Raciones|XPHB}, {@item Yesquero|XPHB}, and {@item Cantimplora|XPHB}."
+				"An Entertainer\u0027s Pack contains the following items: {@item Mochila|XPHB}, {@item Bedroll|XPHB}, {@item Campana|XPHB}, {@item Bullseye Lantern|XPHB}, 3 {@item Costume|XPHB|Costumes}, {@item Mirror|XPHB}, 8 flasks of {@item Aceite|XPHB}, 9 days of {@item Raciones|XPHB}, {@item Yesquero|XPHB}, and {@item Cantimplora|XPHB}."
 			],
 			"packContents": [
-				"backpack|xphb",
+				"mochila|xphb",
 				"bedroll|xphb",
-				"bell|xphb",
+				"campana|xphb",
 				"bullseye lantern|xphb",
 				{
 					"item": "costume|xphb",
@@ -1146,8 +1146,8 @@
 					"item": "rations|xphb",
 					"quantity": 9
 				},
-				"tinderbox|xphb",
-				"waterskin|xphb"
+				"yesquero|xphb",
+				"cantimplora|xphb"
 			]
 		},
 		{
@@ -1180,7 +1180,7 @@
 				"An Explorer\u0027s Pack contains the following items: {@item Mochila|XPHB}, {@item Bedroll|XPHB}, 2 flasks of {@item Aceite|XPHB}, 10 days of {@item Raciones|XPHB}, {@item Cuerda|XPHB}, {@item Yesquero|XPHB}, 10 {@item Antorcha|XPHB|Torches}, and {@item Cantimplora|XPHB}."
 			],
 			"packContents": [
-				"backpack|xphb",
+				"mochila|xphb",
 				"bedroll|xphb",
 				{
 					"item": "oil|xphb",
@@ -1191,12 +1191,12 @@
 					"quantity": 10
 				},
 				"rope|xphb",
-				"tinderbox|xphb",
+				"yesquero|xphb",
 				{
 					"item": "torch|xphb",
 					"quantity": 10
 				},
-				"waterskin|xphb"
+				"cantimplora|xphb"
 			]
 		},
 		{
@@ -1277,14 +1277,14 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Dexterity"
+								"Destreza"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Mimic 10 or fewer words of someone else\u0027s handwriting ({@dc 15}), or duplicate a wax seal ({@dc 20})"
@@ -1351,21 +1351,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Intelligence"
+								"Inteligencia"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Discern what a glass object held in the past 24 hours ({@dc 15})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Glass Bottle|XPHB}, {@item Magnifying Glass|XPHB}, {@item Spyglass|XPHB}, {@item Vial|XPHB}"
@@ -1422,24 +1422,24 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Intelligence"
+								"Inteligencia"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Identify a plant ({@dc 10})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
-								"{@item Antitoxin|XPHB}, {@item Candle|XPHB}, {@item Healer\u0027s Kit|XPHB}, {@item Potion of Healing|XDMG}"
+								"{@item Antitoxin|XPHB}, {@item Vela|XPHB}, {@item Healer\u0027s Kit|XPHB}, {@item Potion of Healing|XDMG}"
 							]
 						}
 					]
@@ -1465,7 +1465,7 @@
 			]
 		},
 		{
-			"name": "Hooded Lantern",
+			"name": "Linterna sorda",
 			"originalname": "",
 			"source": "XPHB",
 			"page": 226,
@@ -1476,7 +1476,7 @@
 			"weight": 2,
 			"value": 500,
 			"entries": [
-				"A Hooded Lantern burns Oil as fuel to cast {@variantrule Luz brillante|XPHB} in a 30-foot radius and {@variantrule Luz tenue|XPHB} for an additional 30 feet. As a {@variantrule Acción adicional|XPHB}, you can lower the hood, reducing the light to {@variantrule Luz tenue|XPHB} in a 5-foot radius, or raise it again."
+				"Una linterna sorda quema aceite como combustible para emitir {@variantrule luz brillante|XPHB} en un radio de 30 pies (9 m) y {@variantrule luz tenue|XPHB} 9 m más allá. Como acción adicional, puedes cubrir la abertura con la tapa y hacer que solo emita {@variantrule luz tenue|XPHB} en un radio de 5 pies (1,5 m), o abrirla de nuevo."
 			],
 			"light": [
 				{
@@ -1500,7 +1500,7 @@
 			"weight": 25,
 			"value": 500,
 			"entries": [
-				"As a {@action Utilize|XPHB} action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a {@dc 13} Dexterity saving throw or take {@damage 1d4} Piercing damage and have its {@variantrule Speed|XPHB} reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet). A creature can use its action to make a {@dc 13} Strength ({@skill Athletics|XPHB}) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature."
+				"As a {@action Utilize|XPHB} action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a {@dc 13} Dexterity saving throw or take {@damage 1d4} Piercing damage and have its {@variantrule Velocidad|XPHB} reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet). A creature can use its action to make a {@dc 13} Strength ({@skill Athletics|XPHB}) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature."
 			]
 		},
 		{
@@ -1607,21 +1607,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Intelligence"
+								"Inteligencia"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Discern a gem\u0027s value ({@dc 15})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Arcane Focus|XPHB}, {@item Holy Symbol|XPHB}"
@@ -1726,21 +1726,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Dexterity"
+								"Destreza"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Add a design to a leather item ({@dc 10})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Honda|XPHB}, {@item Látigo|XPHB}, {@item Armadura de pieles|XPHB}, {@item Armadura de cuero|XPHB}, {@item Armadura de cuero tachonado|XPHB}, {@item Mochila|XPHB}, {@item Crossbow Bolt Case|XPHB}, {@item Map or Scroll Case|XPHB}, {@item Parchment|XPHB}, {@item Pouch|XPHB}, {@item Aljaba|XPHB}, {@item Cantimplora|XPHB}"
@@ -1762,7 +1762,7 @@
 			"weight": 1,
 			"value": 1000,
 			"entries": [
-				"A Lock comes with a key. Without the key, a creature can use {@item Thieves\u0027 Tools|XPHB} to pick this Lock with a successful {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check."
+				"A Lock comes with a key. Without the key, a creature can use {@item Herramientas de ladrón|XPHB} to pick this Lock with a successful {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check."
 			]
 		},
 		{
@@ -1813,7 +1813,7 @@
 			"value": 200,
 			"entries": [
 				"As a {@action Utilize|XPHB} action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the {@condition Agarrado|XPHB}, {@condition Incapacitado|XPHB}, or {@condition Apresado|XPHB} condition if you succeed on a {@dc 13} Dexterity ({@skill Sleight of Hand|XPHB}) check. While bound, a creature has {@variantrule Disadvantage|XPHB} on attack rolls, and the creature is {@condition Apresado|XPHB} if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful {@dc 20} Dexterity ({@skill Sleight of Hand|XPHB}) check as an action. Bursting them requires a successful {@dc 25} Strength ({@skill Athletics|XPHB}) check as an action.",
-				"Each set of Manacles comes with a key. Without the key, a creature can use {@item Thieves\u0027 Tools|XPHB} to pick the Manacles\u0027 lock with a successful {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check."
+				"Each set of Manacles comes with a key. Without the key, a creature can use {@item Herramientas de ladrón|XPHB} to pick the Manacles\u0027 lock with a successful {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check."
 			]
 		},
 		{
@@ -1869,21 +1869,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Strength"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Chisel a symbol or hole in stone ({@dc 10})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Block and Tackle|XPHB}"
@@ -1966,14 +1966,14 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Wisdom"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Plot a course ({@dc 10}), or determine position by stargazing ({@dc 15})"
@@ -2056,21 +2056,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Wisdom"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Paint a recognizable image of something you\u0027ve seen ({@dc 10})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Druidic Focus|XPHB}, {@item Holy Symbol|XPHB}"
@@ -2138,14 +2138,14 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Wisdom"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Discern whether someone is cheating ({@dc 10}), or win the game ({@dc 20})"
@@ -2156,8 +2156,8 @@
 			]
 		},
 		{
-			"name": "Poisoner\u0027s Kit",
-			"originalname": "",
+			"name": "Útiles de envenenador",
+			"originalname": "Poisoner\u0027s Kit",
 			"source": "XPHB",
 			"page": 221,
 			"srd52": true,
@@ -2172,24 +2172,24 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Intelligence"
+								"Inteligencia"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
-								"Detect a poisoned object ({@dc 10})"
+								"detectar un objeto envenenado (CD 10)"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
-								"{@item Basic Poison|XPHB}"
+								"{@item veneno básico|XPHB}"
 							]
 						}
 					]
@@ -2208,7 +2208,7 @@
 			"weight": 7,
 			"value": 5,
 			"entries": [
-				"A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ({@skill Athletics|XPHB}) check as part of a High or {@variantrule Long Jump|XPHB}, you can use the Pole to vault, giving yourself {@variantrule Advantage|XPHB} on the check."
+				"A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ({@skill Athletics|XPHB}) check as part of a High or {@variantrule Salto de longitud|XPHB}, you can use the Pole to vault, giving yourself {@variantrule Advantage|XPHB} on the check."
 			]
 		},
 		{
@@ -2256,21 +2256,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Intelligence"
+								"Inteligencia"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Discern what a ceramic object held in the past 24 hours ({@dc 15})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Jug|XPHB}, {@item Lamp|XPHB}"
@@ -2322,7 +2322,7 @@
 				"A Priest\u0027s Pack contains the following items: {@item Mochila|XPHB}, {@item Blanket|XPHB}, {@item Holy Water|XPHB}, {@item Lamp|XPHB}, 7 days of {@item Raciones|XPHB}, {@item Robe|XPHB}, and {@item Yesquero|XPHB}."
 			],
 			"packContents": [
-				"backpack|xphb",
+				"mochila|xphb",
 				"blanket|xphb",
 				"holy water|xphb",
 				"lamp|xphb",
@@ -2331,7 +2331,7 @@
 					"quantity": 7
 				},
 				"robe|xphb",
-				"tinderbox|xphb"
+				"yesquero|xphb"
 			]
 		},
 		{
@@ -2549,7 +2549,7 @@
 				"A Scholar\u0027s Pack contains the following items: {@item Mochila|XPHB}, {@item Book|XPHB}, {@item Ink|XPHB}, {@item Ink Pen|XPHB}, {@item Lamp|XPHB}, 10 flasks of {@item Aceite|XPHB}, 10 sheets of {@item Parchment|XPHB}, and {@item Yesquero|XPHB}."
 			],
 			"packContents": [
-				"backpack|xphb",
+				"mochila|xphb",
 				"book|xphb",
 				"ink|xphb",
 				"ink pen|xphb",
@@ -2562,7 +2562,7 @@
 					"item": "parchment|xphb",
 					"quantity": 10
 				},
-				"tinderbox|xphb"
+				"yesquero|xphb"
 			]
 		},
 		{
@@ -2623,24 +2623,24 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Strength"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Pry open a door or container ({@dc 20})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
-								"Any Melee weapon (except {@item Garrote|XPHB}, {@item Garrote grande|XPHB}, {@item Bastón|XPHB}, and {@item Látigo|XPHB}), Medium armor (except {@item Armadura de pieles|XPHB|Hide}), Heavy armor, {@item Ball Bearings|XPHB}, {@item Bucket|XPHB}, {@item Abrojos|XPHB}, {@item Chain|XPHB}, {@item Palanqueta|XPHB}, {@item Firearm Bullets (10)|XPHB|Firearm Bullets}, {@item Grappling Hook|XPHB}, {@item Iron Pot|XPHB}, {@item Iron Spikes|XPHB}, {@item Sling Bullets (20)|XPHB|Sling Bullets}"
+								"Any Melee weapon (except {@item Garrote|XPHB}, {@item Garrote grande|XPHB}, {@item Bastón|XPHB}, and {@item Látigo|XPHB}), Medium armor (except {@item Armadura de pieles|XPHB|Hide}), Heavy armor, {@item Bolas de metal|XPHB}, {@item Bucket|XPHB}, {@item Abrojos|XPHB}, {@item Chain|XPHB}, {@item Palanqueta|XPHB}, {@item Firearm Bullets (10)|XPHB|Firearm Bullets}, {@item Grappling Hook|XPHB}, {@item Iron Pot|XPHB}, {@item Iron Spikes|XPHB}, {@item Sling Bullets (20)|XPHB|Sling Bullets}"
 							]
 						}
 					]
@@ -2717,7 +2717,7 @@
 			]
 		},
 		{
-			"name": "Thieves\u0027 Tools",
+			"name": "Herramientas de ladrón",
 			"originalname": "",
 			"source": "XPHB",
 			"page": 221,
@@ -2733,17 +2733,17 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Dexterity"
+								"Destreza"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
-								"Pick a lock ({@dc 15}), or disarm a trap ({@dc 15})"
+								"forzar una cerradura (CD 15) o desarmar una trampa (CD 15)"
 							]
 						}
 					]
@@ -2765,14 +2765,14 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
 								"Wisdom"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Discern whether someone is cheating ({@dc 10}), or win the game ({@dc 20})"
@@ -2814,24 +2814,24 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Dexterity"
+								"Destreza"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Assemble a Tiny item composed of scrap, which falls apart in 1 minute ({@dc 20})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
-								"{@item Mosquete|XPHB}, {@item Pistola|XPHB}, {@item Bell|XPHB}, {@item Bullseye Lantern|XPHB}, {@item Flask|XPHB}, {@item Hooded Lantern|XPHB}, {@item Hunting Trap|XPHB}, {@item Lock|XPHB}, {@item Manacles|XPHB}, {@item Mirror|XPHB}, {@item Shovel|XPHB}, {@item Signal Whistle|XPHB}, {@item Yesquero|XPHB}"
+								"{@item Mosquete|XPHB}, {@item Pistola|XPHB}, {@item Campana|XPHB}, {@item Bullseye Lantern|XPHB}, {@item Flask|XPHB}, {@item Linterna sorda|XPHB}, {@item Hunting Trap|XPHB}, {@item Lock|XPHB}, {@item Manacles|XPHB}, {@item Mirror|XPHB}, {@item Shovel|XPHB}, {@item Signal Whistle|XPHB}, {@item Yesquero|XPHB}"
 							]
 						}
 					]
@@ -3069,7 +3069,7 @@
 						],
 						[
 							"43",
-							"A silver bell without a clapper"
+							"A silver campana without a clapper"
 						],
 						[
 							"44",
@@ -3410,21 +3410,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Dexterity"
+								"Destreza"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Mend a tear in clothing ({@dc 10}), or sew a Tiny design ({@dc 10})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Armadura acolchada|XPHB}, {@item Basket|XPHB}, {@item Bedroll|XPHB}, {@item Blanket|XPHB}, {@item Fine Clothes|XPHB}, {@item Net|XPHB}, {@item Robe|XPHB}, {@item Cuerda|XPHB}, {@item Sack|XPHB}, {@item String|XPHB}, {@item Tent|XPHB}, {@item Traveler\u0027s Clothes|XPHB}"
@@ -3451,21 +3451,21 @@
 					"style": "list-hang-notitle",
 					"items": [
 						{
-							"name": "Ability:",
+							"name": "Característica:",
 							"type": "item",
 							"entries": [
-								"Dexterity"
+								"Destreza"
 							]
 						},
 						{
-							"name": "Utilize:",
+							"name": "Utilizar:",
 							"type": "item",
 							"entries": [
 								"Carve a pattern in wood ({@dc 10})"
 							]
 						},
 						{
-							"name": "Craft:",
+							"name": "Fabricar:",
 							"type": "item",
 							"entries": [
 								"{@item Garrote|XPHB}, {@item Garrote grande|XPHB}, {@item Bastón|XPHB}, Ranged weapons (except {@item Pistola|XPHB}, {@item Mosquete|XPHB}, and  {@item Honda|XPHB}), {@item Arcane Focus|XPHB}, {@item Flechas (20)|XPHB|Arrows}, {@item Bolts (20)|XPHB|Bolts}, {@item Druidic Focus|XPHB}, {@item Ink Pen|XPHB}, {@item Needles (50)|XPHB|Needles}"
@@ -3515,7 +3515,7 @@
 			]
 		},
 		{
-			"name": "Artisan\u0027s Tools",
+			"name": "Herramientas de artesano",
 			"originalname": "",
 			"source": "XPHB",
 			"page": 220,

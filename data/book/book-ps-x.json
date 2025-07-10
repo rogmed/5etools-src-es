@@ -764,7 +764,7 @@
 											"name": "{@class Rogue}",
 											"page": 9,
 											"entries": [
-												"Scoundrels, {@class Rogue||swashbucklers|Swashbuckler|XGE}, {@class Rogue||thieves|thief}, and killers make up the majority of the Brazen Coalition."
+												"Scoundrels, {@class Pícaro||swashbucklers|Swashbuckler|XGE}, {@class Pícaro||thieves|thief}, and killers make up the majority of the Brazen Coalition."
 											],
 											"id": "025"
 										},

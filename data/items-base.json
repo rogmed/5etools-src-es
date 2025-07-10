@@ -2087,15 +2087,15 @@
 			}
 		},
 		{
-			"name": "Artisan\u0027s Tools",
+			"name": "Herramientas de artesano",
 			"abbreviation": "AT",
 			"originalname": "",
 			"source": "XPHB",
 			"page": 220,
 			"basicRules2024": true,
 			"entries": [
-				"Artisan\u0027s Tools are each focused on crafting items and pursuing a trade. Each type of Artisan\u0027s Tools tools requires a separate proficiency.",
-				"If you have proficiency with a tool, add your {@variantrule Competencia|XPHB|Proficiency Bonus} to any ability check you make that uses the tool. If you have proficiency in a skill that\u0027s used with that check, you have {@variantrule Advantage|XPHB} on the check too."
+				"Las herramientas de artesano se centran en la fabricación de objetos y en el ejercicio de un oficio. Cada una de estas herramientas requiere su propia competencia.",
+				"Si eres competente con una herramienta, suma tu {@variantrule competencia|XPHB|bonificador por competencia} a cualquier prueba de característica que hagas que emplee esa herramienta. Además, si eres competente en una habilidad que se utilice en esa prueba, también tendrás ventaja al hacerla."
 			]
 		},
 		{
@@ -2122,7 +2122,7 @@
 			"page": 221,
 			"basicRules2024": true,
 			"entries": [
-				"If you have proficiency with a tool, add your {@variantrule Competencia|XPHB|Proficiency Bonus} to any ability check you make that uses the tool. If you have proficiency in a skill that\u0027s used with that check, you have {@variantrule Advantage|XPHB} on the check too."
+				"Si eres competente con una herramienta, suma tu {@variantrule competencia|XPHB|bonificador por competencia} a cualquier prueba de característica que hagas que emplee esa herramienta. Además, si eres competente en una habilidad que se utilice en esa prueba, también tendrás ventaja al hacerla."
 			]
 		},
 		{
@@ -2141,7 +2141,7 @@
 			"page": 221,
 			"basicRules2024": true,
 			"entries": [
-				"If you have proficiency with a tool, add your {@variantrule Competencia|XPHB|Proficiency Bonus} to any ability check you make that uses the tool. If you have proficiency in a skill that\u0027s used with that check, you have {@variantrule Advantage|XPHB} on the check too."
+				"Si eres competente con una herramienta, suma tu {@variantrule competencia|XPHB|bonificador por competencia} a cualquier prueba de característica que hagas que emplee esa herramienta. Además, si eres competente en una habilidad que se utilice en esa prueba, también tendrás ventaja al hacerla."
 			]
 		},
 		{
@@ -2278,7 +2278,7 @@
 			"page": 220,
 			"basicRules2024": true,
 			"entries": [
-				"If you have proficiency with a tool, add your {@variantrule Competencia|XPHB|Proficiency Bonus} to any ability check you make that uses the tool. If you have proficiency in a skill that\u0027s used with that check, you have {@variantrule Advantage|XPHB} on the check too."
+				"Si eres competente con una herramienta, suma tu {@variantrule competencia|XPHB|bonificador por competencia} a cualquier prueba de característica que hagas que emplee esa herramienta. Además, si eres competente en una habilidad que se utilice en esa prueba, también tendrás ventaja al hacerla."
 			]
 		},
 		{

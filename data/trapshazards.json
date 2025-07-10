@@ -68,7 +68,7 @@
 				"A creature that steps on the bear trap triggers it."
 			],
 			"countermeasures": [
-				"A successful {@dc 10} Wisdom ({@skill Perception}) check reveals the trap. A successful {@dc 10} Dexterity check using {@item thieves' tools|phb} disables it."
+				"A successful {@dc 10} Wisdom ({@skill Perception}) check reveals the trap. A successful {@dc 10} Dexterity check using {@item Herramientas de ladrón|phb} disables it."
 			],
 			"entries": [
 				"A bear trap resembles a set of iron jaws that springs shut when stepped on, clamping down on a creature's leg. The trap is spiked in the ground, leaving the victim immobilized."
@@ -85,7 +85,7 @@
 			"trapHazType": "MECH",
 			"entries": [
 				"This trap uses a trip wire to collapse the supports keeping an unstable section of a ceiling in place.",
-				"The trip wire is 3 inches off the ground and stretches between two support beams. The DC to spot the trip wire is 10. A successful {@dc 15} Dexterity check using {@item thieves' tools|phb} disables the trip wire harmlessly. A character without {@item thieves' tools|phb} can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.",
+				"The trip wire is 3 inches off the ground and stretches between two support beams. The DC to spot the trip wire is 10. A successful {@dc 15} Dexterity check using {@item Herramientas de ladrón|phb} disables the trip wire harmlessly. A character without {@item Herramientas de ladrón|phb} can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.",
 				"Anyone who inspects the beams can easily determine that they are merely wedged in place. As an action, a character can knock over a beam, causing the trap to trigger.",
 				"The ceiling above the trip wire is in bad repair, and anyone who can see it can tell that it's in danger of collapse.",
 				"When the trap is triggered, the unstable ceiling collapses. Any creature in the area beneath the unstable section must succeed on a {@dc 15} Dexterity saving throw, taking 22 ({@damage 4d10}) bludgeoning damage on a failed save, or half as much damage on a successful one. Once the trap is triggered, the floor of the area is filled with rubble and becomes {@quickref terreno difícil||3}."
@@ -178,7 +178,7 @@
 				"A creature that walks through the trip wire triggers the trap."
 			],
 			"countermeasures": [
-				"A successful {@dc 15} Wisdom ({@skill Perception}) check reveals the trip wire. A successful {@dc 15} Dexterity check using {@item thieves' tools|phb} disables the trip wire, and a check with a total of 5 or lower triggers the trap."
+				"A successful {@dc 15} Wisdom ({@skill Perception}) check reveals the trip wire. A successful {@dc 15} Dexterity check using {@item Herramientas de ladrón|phb} disables the trip wire, and a check with a total of 5 or lower triggers the trap."
 			],
 			"entries": [
 				"The crossbow trap is a favorite of kobolds and other creatures that rely on traps to defend their lairs. It consists of a trip wire strung across a hallway and connected to a pair of hidden heavy crossbows. The crossbows are aimed to fire down the hallway at anyone who disturbs the trip wire."
@@ -288,7 +288,7 @@
 					"type": "entries",
 					"name": "Set the Trap",
 					"entries": [
-						"A creature that has {@item Thieves' Tools|XPHB} and all the trap's components (including a Net) can try to set a falling net trap, doing so with a successful {@dc 13} Dexterity ({@skill Sleight of Hand|XPHB}) check. Each attempt to set this trap takes 10 minutes."
+						"A creature that has {@item Herramientas de ladrón|XPHB} and all the trap's components (including a Net) can try to set a falling net trap, doing so with a successful {@dc 13} Dexterity ({@skill Sleight of Hand|XPHB}) check. Each attempt to set this trap takes 10 minutes."
 					]
 				},
 				{
@@ -318,7 +318,7 @@
 				"A creature that steps on the pressure plate triggers the trap."
 			],
 			"countermeasures": [
-				"A successful {@dc 20} Wisdom ({@skill Perception}) check reveals the pressure plate. A successful {@dc 20} Dexterity check using {@item thieves' tools|phb} disables it, and a check with a total of 5 or lower triggers the trap."
+				"A successful {@dc 20} Wisdom ({@skill Perception}) check reveals the pressure plate. A successful {@dc 20} Dexterity check using {@item Herramientas de ladrón|phb} disables it, and a check with a total of 5 or lower triggers the trap."
 			],
 			"entries": [
 				"Some folk who build dungeons, such as mad wizards in search of new victims, have no intention of allowing their visitors to make an easy escape. A falling portcullis trap can be especially devious if it causes a portcullis to drop some distance away from the pressure plate that activates the trap. Although the trap is deep in the dungeon, the portcullis closes off the dungeon entrance, which is hundreds of feet away, meaning that adventurers don't know they are trapped until they decide to head for the exit."
@@ -467,7 +467,7 @@
 					"type": "entries",
 					"name": "Escape",
 					"entries": [
-						"A creature needs a Climb Speed, climbing gear, or magic such as {@spell Spider Climb|XPHB} to scale the pit's smooth walls. (You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.)"
+						"A creature needs a Velocidad trepando, climbing gear, or magic such as {@spell Spider Climb|XPHB} to scale the pit's smooth walls. (You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.)"
 					]
 				},
 				{
@@ -636,7 +636,7 @@
 						{
 							"type": "itemSub",
 							"name": "Shut off the main power cable",
-							"entry": "On the wall near the power matrix is a mizzium-reinforced metal casing that holds the main power breaker for the matrix. It can be spotted with a successful {@dc 10} Wisdom ({@skill Perception}) check if someone is looking for something else notable in the lab. This is securely locked, requiring two successful {@dc 20} Dexterity checks with {@item thieves' tools|phb}, two successful {@dc 16} Intelligence ({@skill Arcana}) checks, or 20 points of damage with a magic weapon to break open. Once opened, a switch can be thrown to shut down the matrix, disabling all elements of the trap."
+							"entry": "On the wall near the power matrix is a mizzium-reinforced metal casing that holds the main power breaker for the matrix. It can be spotted with a successful {@dc 10} Wisdom ({@skill Perception}) check if someone is looking for something else notable in the lab. This is securely locked, requiring two successful {@dc 20} Dexterity checks with {@item Herramientas de ladrón|phb}, two successful {@dc 16} Intelligence ({@skill Arcana}) checks, or 20 points of damage with a magic weapon to break open. Once opened, a switch can be thrown to shut down the matrix, disabling all elements of the trap."
 						}
 					]
 				}
@@ -673,7 +673,7 @@
 				"A trip wire strung across a hallway is rigged to a large net. If the trip wire is broken, the net falls on intruders. An iron bell is also rigged to the trip wire. It rings when the trap activates, alerting nearby guards."
 			],
 			"countermeasures": [
-				"A successful {@dc 15} Wisdom ({@skill Perception}) check reveals the trip wire and the net. A successful {@dc 15} Dexterity check using {@item thieves' tools|phb} disables the trip wire without causing the net to drop or the bell to ring; failing the check causes the trap to activate."
+				"A successful {@dc 15} Wisdom ({@skill Perception}) check reveals the trip wire and the net. A successful {@dc 15} Dexterity check using {@item Herramientas de ladrón|phb} disables the trip wire without causing the net to drop or the bell to ring; failing the check causes the trap to activate."
 			],
 			"entries": [
 				"Goblins, with their propensity to enslave their enemies, prefer traps that leave intruders intact so the victims can be put to work in the mines or elsewhere."
@@ -780,7 +780,7 @@
 						{
 							"type": "itemSub",
 							"name": "Dexterity check using thieves' tools, {@dc 15}",
-							"entry": "Creatures can use {@item thieves' tools|phb} in the area attacked by the blades to foil their mechanism. A successful check reduces the Whirling Blades attack bonus by 2."
+							"entry": "Creatures can use {@item Herramientas de ladrón|phb} in the area attacked by the blades to foil their mechanism. A successful check reduces the Whirling Blades attack bonus by 2."
 						},
 						{
 							"type": "item",
@@ -897,7 +897,7 @@
 				"A poisoned needle is hidden within a treasure chest's lock, or in something else that a creature might open. Opening the chest without the proper key causes the needle to spring out, delivering a dose of poison.",
 				"When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11 ({@damage 2d10}) poison damage, and must succeed on a {@dc 15} Constitution saving throw or be {@condition poisoned} for 1 hour.",
 				"A successful {@dc 20} Intelligence ({@skill Investigation}) check allows a character to deduce the trap's presence from alterations made to the lock to accommodate the needle.",
-				"A successful {@dc 15} Dexterity check using {@item thieves' tools|phb} disarms the trap, removing the needle from the lock. Unsuccessfully attempting to pick the lock triggers the trap."
+				"A successful {@dc 15} Dexterity check using {@item Herramientas de ladrón|phb} disarms the trap, removing the needle from the lock. Unsuccessfully attempting to pick the lock triggers the trap."
 			]
 		},
 		{
@@ -918,7 +918,7 @@
 				"Anyone attempting to pick or open the lock triggers the trap."
 			],
 			"countermeasures": [
-				"A successful {@dc 20} Wisdom ({@skill Perception}) check reveals the needle, but only if a character inspects the lock. A successful {@dc 20} Dexterity check using {@item thieves' tools|phb} disables the needle, and a check with a total of 10 or lower triggers the trap."
+				"A successful {@dc 20} Wisdom ({@skill Perception}) check reveals the needle, but only if a character inspects the lock. A successful {@dc 20} Dexterity check using {@item Herramientas de ladrón|phb} disables the needle, and a check with a total of 10 or lower triggers the trap."
 			],
 			"entries": [
 				"A tiny, poisoned needle hidden in a lock is a good way to discourage thieves from plundering a hoard. Such a trap is usually put in a chest or in the door to a treasure chamber."
@@ -1245,7 +1245,7 @@
 				"When the lever is pulled, the trap activates."
 			],
 			"countermeasures": [
-				"The lever isn't hidden. A successful {@dc 15} Wisdom ({@skill Perception}) check involving the surfaces in the trap's area of effect reveals scrape marks and bloodstains on the walls and floor. A successful {@dc 15} Dexterity check using {@item thieves' tools|phb} disables the lever."
+				"The lever isn't hidden. A successful {@dc 15} Wisdom ({@skill Perception}) check involving the surfaces in the trap's area of effect reveals scrape marks and bloodstains on the walls and floor. A successful {@dc 15} Dexterity check using {@item Herramientas de ladrón|phb} disables the lever."
 			],
 			"entries": [
 				"This trap uses moving blades that sweep down through a chamber, threatening anyone nearby. Typically, a scything blade trap is activated by manipulating a lever or some other simple device. Kobolds especially like this kind of trap, since it can take down bigger creatures."
@@ -1392,7 +1392,7 @@
 					"type": "entries",
 					"name": "Escape",
 					"entries": [
-						"A creature needs a Climb Speed, climbing gear, or magic such as a {@spell Spider Climb|XPHB} spell to scale the pit's smooth walls. You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds."
+						"A creature needs a Velocidad trepando, climbing gear, or magic such as a {@spell Spider Climb|XPHB} spell to scale the pit's smooth walls. You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds."
 					]
 				},
 				{

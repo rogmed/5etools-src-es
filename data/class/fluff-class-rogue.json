@@ -1,11 +1,11 @@
 {
 	"classFluff": [
 		{
-			"name": "Rogue",
+			"name": "Pícaro",
 			"source": "PHB",
 			"entries": [
 				{
-					"name": "Rogue",
+					"name": "Pícaro",
 					"type": "section",
 					"entries": [
 						"Signaling for her companions to wait, a halfling creeps forward through the dungeon hall. She presses an ear to the door, then pulls out a set of tools and picks the lock in the blink of an eye. Then she disappears into the shadows as her fighter friend moves forward to kick the door open.",
@@ -316,12 +316,12 @@
 			]
 		},
 		{
-			"name": "Rogue",
+			"name": "Pícaro",
 			"source": "XPHB",
 			"entries": [
 				{
 					"type": "section",
-					"name": "Rogue",
+					"name": "Pícaro",
 					"source": "XPHB",
 					"page": 128,
 					"entries": [
@@ -380,7 +380,7 @@
 			"name": "Mastermind",
 			"shortName": "Mastermind",
 			"source": "XGE",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"entries": [
 				{
@@ -396,7 +396,7 @@
 			"name": "Swashbuckler",
 			"shortName": "Swashbuckler",
 			"source": "XGE",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"entries": [
 				{
@@ -412,7 +412,7 @@
 			"name": "Phantom",
 			"shortName": "Phantom",
 			"source": "TCE",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"images": [
 				{
@@ -430,7 +430,7 @@
 			"name": "Soulknife",
 			"shortName": "Soulknife",
 			"source": "TCE",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "PHB",
 			"images": [
 				{
@@ -448,7 +448,7 @@
 			"name": "Arcane Trickster",
 			"shortName": "Arcane Trickster",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"images": [
 				{
@@ -467,7 +467,7 @@
 			"name": "Assassin",
 			"shortName": "Assassin",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"images": [
 				{
@@ -486,7 +486,7 @@
 			"name": "Soulknife",
 			"shortName": "Soulknife",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"images": [
 				{
@@ -502,10 +502,10 @@
 			]
 		},
 		{
-			"name": "Thief",
-			"shortName": "Thief",
+			"name": "Ladrón",
+			"shortName": "Ladrón",
 			"source": "XPHB",
-			"className": "Rogue",
+			"className": "Pícaro",
 			"classSource": "XPHB",
 			"images": [
 				{

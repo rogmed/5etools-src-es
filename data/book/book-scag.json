@@ -7633,8 +7633,8 @@
 						{
 							"type": "list",
 							"items": [
-								"{@class rogue|phb|Mastermind|Mastermind|xge}",
-								"{@class rogue|phb|Swashbuckler|Swashbuckler|xge}"
+								"{@class Pícaro|phb|Mastermind|Mastermind|xge}",
+								"{@class Pícaro|phb|Swashbuckler|Swashbuckler|xge}"
 							]
 						}
 					],

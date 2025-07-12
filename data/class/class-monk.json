@@ -1186,7 +1186,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Elemental Strikes",
+							"name": "Golpes elementales",
 							"entries": [
 								"Siempre que aciertes con tu ataque sin armas, puedes hacer que cause el tipo de daño que quieras entre ácido, frío, fuego, relámpago o trueno en vez de su tipo de daño normal. Cuando inflijas uno de estos tipos con él, también puedes obligar al objetivo a hacer una tirada de salvación de Fuerza. Si la falla, puedes mover al objetivo hasta 10 pies (3 m) hacia ti o en dirección contraria, ya que la energía elemental se arremolina a su alrededor."
 							]

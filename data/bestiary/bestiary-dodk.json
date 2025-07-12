@@ -2050,7 +2050,7 @@
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell commune with nature}",
+								"{@spell comunión with nature}",
 								"{@spell cono de frío}",
 								"{@spell greater restoration}"
 							]
@@ -3135,7 +3135,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell beacon of hope}",
+								"{@spell señal de esperanza}",
 								"{@spell dispel magic}"
 							]
 						},
@@ -3906,7 +3906,7 @@
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell commune}",
+								"{@spell comunión}",
 								"{@spell flame strike}",
 								"{@spell greater restoration}",
 								"{@spell scrying}"

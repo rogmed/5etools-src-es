@@ -396,7 +396,7 @@
 				}
 			]
 		},
-		"Beacon of Hope": {
+		"Señal de esperanza": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -832,7 +832,7 @@
 				}
 			]
 		},
-		"Commune": {
+		"Comunión": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -840,7 +840,7 @@
 				}
 			]
 		},
-		"Commune with Nature": {
+		"Comunión with Nature": {
 			"class": [
 				{
 					"name": "Druida",
@@ -2548,7 +2548,7 @@
 				}
 			]
 		},
-		"Guardian of Faith": {
+		"Guardián de la fe": {
 			"class": [
 				{
 					"name": "Clérigo",

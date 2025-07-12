@@ -2001,7 +2001,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell commune} (as an action)",
+							"{@spell comunión} (as an action)",
 							"{@spell wall of force}"
 						]
 					},
@@ -41253,7 +41253,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell commune} (as an action)"
+							"{@spell comunión} (as an action)"
 						],
 						"3e": [
 							"{@spell sending}",

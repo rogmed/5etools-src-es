@@ -17038,7 +17038,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Commune|XPHB}",
+							"{@spell Comunión|XPHB}",
 							"{@spell Raise Dead|XPHB}"
 						]
 					},
@@ -19829,7 +19829,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Commune|XPHB}",
+							"{@spell Comunión|XPHB}",
 							"{@spell Dispel Evil and Good|XPHB}",
 							"{@spell Plane Shift|XPHB}"
 						]
@@ -43398,7 +43398,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Commune|XPHB}",
+							"{@spell Comunión|XPHB}",
 							"{@spell Control Weather|XPHB}",
 							"{@spell Dispel Evil and Good|XPHB}",
 							"{@spell Raise Dead|XPHB}"
@@ -49478,7 +49478,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Commune|XPHB}",
+							"{@spell Comunión|XPHB}",
 							"{@spell Control Weather|XPHB}",
 							"{@spell Dispel Evil and Good|XPHB}",
 							"{@spell Resurrection|XPHB}"

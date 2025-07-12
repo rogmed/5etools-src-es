@@ -2454,7 +2454,7 @@
 														{
 															"type": "item",
 															"name": "Selesnya",
-															"entry": "\"I almost envy the naiveté that leads them to retreat into their little communes and pretend they've built a just society.\""
+															"entry": "\"I almost envy the naiveté that leads them to retreat into their little comunións and pretend they've built a just society.\""
 														},
 														{
 															"type": "item",
@@ -4189,7 +4189,7 @@
 							"name": "Inside the Conclave",
 							"page": 84,
 							"entries": [
-								"The Selesnya Conclave is organized into enclaves called vernadi, which are communes built around central trees. The vernadi are smaller versions of the guildhall, the great city-tree Vitu-Ghazi. A dryad, called a voda, is called forth from that central tree to be the leader of the community, connecting the vernadi and its devotees to the Worldsoul and uniting them with the will of the entire conclave.",
+								"The Selesnya Conclave is organized into enclaves called vernadi, which are comunións built around central trees. The vernadi are smaller versions of the guildhall, the great city-tree Vitu-Ghazi. A dryad, called a voda, is called forth from that central tree to be the leader of the community, connecting the vernadi and its devotees to the Worldsoul and uniting them with the will of the entire conclave.",
 								"A voda is accessible to all the guild members in her care. You have regular contact with your voda, who knows your name and has a good idea of your interests, goals, and strengths. And since your voda is mystically linked to the guildmaster, {@creature Trostani|GGR}, through communion with the Worldsoul, it's safe to assume that {@creature Trostani|GGR} knows who you are as well.",
 								"In addition to the voda, military and religious leaders in each vernadi regularly communicate with its members. Ordinary members of the conclave spend a few hours every day training with a military instructor and studying with a religious teacher.",
 								{
@@ -9569,7 +9569,7 @@
 							"name": "Vernadi Center",
 							"page": 153,
 							"entries": [
-								"The basic unit of the Conclave's organization is the vernadi\u2014a community centered on a large tree and led by the voda of the enclave, a dryad whose spirit is linked to that tree. From the outside, a vernadi might resemble a peaceful commune, and thus seem to be an easy target for theft or assault. But its temple gardens are protected by soldiers and archers, and even the seemingly serene initiates have some military training.",
+								"The basic unit of the Conclave's organization is the vernadi\u2014a community centered on a large tree and led by the voda of the enclave, a dryad whose spirit is linked to that tree. From the outside, a vernadi might resemble a peaceful comunión, and thus seem to be an easy target for theft or assault. But its temple gardens are protected by soldiers and archers, and even the seemingly serene initiates have some military training.",
 								{
 									"type": "entries",
 									"name": "Vernadi Center Adventures",
@@ -14009,7 +14009,7 @@
 							"page": 251,
 							"entries": [
 								"The Selesnya guildmaster is an amalgamation of three dryads in body, will, and soul. Each dryad's body extends from a central trunk, so while they possess independent minds, they share a single name\u2014{@creature Trostani|GGR}\u2014and a single life force. Usually {@creature Trostani|GGR} communicates the will of the Worldsoul with one voice, but she retains three distinct personalities that embody the three parts of the Selesnyan ideal: order, life, and harmony. In the midst of increasing tensions on Ravnica, the three personalities have recently been at odds over how best to navigate the conclave through such difficult times.",
-								"{@creature Trostani|GGR} spends most of her time in the towering tree of Vitu-Ghazi, the Selesnya guildhall. There she communes with Mat'Selesnya and with the dryads who lead individual Selesnya communities across Ravnica.",
+								"{@creature Trostani|GGR} spends most of her time in the towering tree of Vitu-Ghazi, the Selesnya guildhall. There she comunións with Mat'Selesnya and with the dryads who lead individual Selesnya communities across Ravnica.",
 								{
 									"type": "entries",
 									"name": "Trostani's Traits",

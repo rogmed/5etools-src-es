@@ -1114,7 +1114,7 @@
 							"revivify"
 						],
 						"s4": [
-							"guardian of faith",
+							"guardián de la fe",
 							"wall of fire"
 						],
 						"s5": [
@@ -1658,7 +1658,7 @@
 							"revivify|xphb"
 						],
 						"7": [
-							"guardian of faith|xphb",
+							"guardián de la fe|xphb",
 							"wall of fire|xphb"
 						],
 						"9": [
@@ -3710,7 +3710,7 @@
 								],
 								[
 									"4th",
-									"{@spell guardian of faith}, {@spell wall of fire}"
+									"{@spell guardián de la fe}, {@spell wall of fire}"
 								],
 								[
 									"5th",
@@ -4357,7 +4357,7 @@
 						],
 						[
 							"7",
-							"{@spell Guardian of Faith|XPHB}, {@spell Muro de Fuego|XPHB}"
+							"{@spell Guardián de la fe|XPHB}, {@spell Muro de Fuego|XPHB}"
 						],
 						[
 							"9",

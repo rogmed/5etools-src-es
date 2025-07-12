@@ -9796,7 +9796,7 @@
 							"columns": 4,
 							"items": [
 								"{@spell Animate Dead}",
-								"{@spell Beacon of Hope}",
+								"{@spell Señal de esperanza}",
 								"{@spell Bestow Curse}",
 								"{@spell Clairvoyance}",
 								"{@spell Create Food and Water}",
@@ -9828,7 +9828,7 @@
 								"{@spell Guarda contra la muerte}",
 								"{@spell Divination}",
 								"{@spell Libertad de movimiento}",
-								"{@spell Guardian of Faith}",
+								"{@spell Guardián de la fe}",
 								"{@spell Locate Creature}",
 								"{@spell Stone Shape}"
 							]
@@ -9839,7 +9839,7 @@
 							"name": "5th Level",
 							"columns": 4,
 							"items": [
-								"{@spell Commune}",
+								"{@spell Comunión}",
 								"{@spell Contagion}",
 								"{@spell Dispel Evil and Good}",
 								"{@spell Golpe flamígero}",
@@ -10038,7 +10038,7 @@
 							"items": [
 								"{@spell Antilife Shell}",
 								"{@spell Awaken}",
-								"{@spell Commune with Nature}",
+								"{@spell Comunión with Nature}",
 								"{@spell Conjurar elemental}",
 								"{@spell Contagion}",
 								"{@spell Geas}",
@@ -10288,7 +10288,7 @@
 							"name": "5th Level",
 							"columns": 4,
 							"items": [
-								"{@spell Commune with Nature}",
+								"{@spell Comunión with Nature}",
 								"{@spell Conjure Volley}",
 								"{@spell Swift Quiver}",
 								"{@spell Paso arbóreo}"
@@ -11014,7 +11014,7 @@
 								"{@spell Banishing Smite}",
 								"{@spell Banishment}",
 								"{@spell Barkskin}",
-								"{@spell Beacon of Hope}",
+								"{@spell Señal de esperanza}",
 								"{@spell Beast Sense}",
 								"{@spell Bestow Curse}",
 								"{@spell Bigby's Hand}",
@@ -11042,8 +11042,8 @@
 								"{@spell Cloudkill}",
 								"{@spell Color Spray}",
 								"{@spell Orden imperiosa}",
-								"{@spell Commune}",
-								"{@spell Commune with Nature}",
+								"{@spell Comunión}",
+								"{@spell Comunión with Nature}",
 								"{@spell Compelled Duel}",
 								"{@spell Comprehend Languages}",
 								"{@spell Compulsion}",
@@ -11151,7 +11151,7 @@
 								"{@spell Grease}",
 								"{@spell Invisibilidad mejorada}",
 								"{@spell Restablecimiento mayor}",
-								"{@spell Guardian of Faith}",
+								"{@spell Guardián de la fe}",
 								"{@spell Guards and Wards}",
 								"{@spell Guía}",
 								"{@spell Saeta guía}",

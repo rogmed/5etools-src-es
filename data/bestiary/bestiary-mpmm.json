@@ -1845,7 +1845,7 @@
 							"{@spell paso arbóreo}"
 						],
 						"1e": [
-							"{@spell commune with nature} (as an action)",
+							"{@spell comunión with nature} (as an action)",
 							"{@spell mass cure wounds}"
 						]
 					},
@@ -22367,7 +22367,7 @@
 						"The korred casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell commune with nature} (as an action)",
+						"{@spell comunión with nature} (as an action)",
 						"{@spell meld into stone}",
 						"{@spell stone shape}"
 					],
@@ -36934,7 +36934,7 @@
 							"{@spell command}",
 							"{@spell dispel magic}",
 							"{@spell flame strike}",
-							"{@spell guardian of faith}",
+							"{@spell guardián de la fe}",
 							"{@spell hold person}",
 							"{@spell lesser restoration}",
 							"{@spell revivify}"

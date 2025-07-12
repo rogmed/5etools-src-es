@@ -10036,7 +10036,7 @@ Renderer.monster = class {
 				blue: ["create or destroy water", "major image"],
 				red: ["bane", "heat metal", "hypnotic pattern", "suggestion"],
 				gold: ["bless", "cure wounds", "slow", "suggestion", "zone of truth"],
-				silver: ["beacon of hope", "calm emotions", "hold person", "zone of truth"],
+				silver: ["señal de esperanza", "calm emotions", "hold person", "zone of truth"],
 				deep: ["command", "dissonant whispers", "faerie fire", "respirar bajo el agua"],
 			},
 			4: {
@@ -10050,8 +10050,8 @@ Renderer.monster = class {
 				red: ["bane", "dominate person", "heat metal", "hypnotic pattern", "suggestion"],
 				green: ["invisibilidad", "plant growth", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "speak with animals"],
-				gold: ["bless", "commune", "cure wounds", "geas", "slow", "suggestion", "zone of truth"],
-				silver: ["beacon of hope", "calm emotions", "hold person", "polimorfar", "zone of truth"],
+				gold: ["bless", "comunión", "cure wounds", "geas", "slow", "suggestion", "zone of truth"],
+				silver: ["señal de esperanza", "calm emotions", "hold person", "polimorfar", "zone of truth"],
 			},
 			6: {
 				white: ["ráfaga de viento", "tormenta de hielo"],
@@ -10065,10 +10065,10 @@ Renderer.monster = class {
 				green: ["invisibilidad", "mass suggestion", "plant growth", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "heroes' feast", "speak with animals"],
 				copper: ["lesser restoration", "move earth", "phantasmal force", "stone shape"],
-				silver: ["beacon of hope", "calm emotions", "hold person", "polimorfar", "teleport", "zone of truth"],
+				silver: ["señal de esperanza", "calm emotions", "hold person", "polimorfar", "teleport", "zone of truth"],
 			},
 			8: {
-				gold: ["bless", "commune", "cure wounds", "geas", "plane shift", "slow", "suggestion", "word of recall", "zone of truth"],
+				gold: ["bless", "comunión", "cure wounds", "geas", "plane shift", "slow", "suggestion", "word of recall", "zone of truth"],
 			},
 		};
 

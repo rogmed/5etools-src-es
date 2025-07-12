@@ -20729,7 +20729,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell commune}",
+							"{@spell comunión}",
 							"{@spell raise dead}"
 						]
 					},
@@ -24967,7 +24967,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell commune}",
+							"{@spell comunión}",
 							"{@spell dispel evil and good}",
 							"{@spell earthquake}",
 							"{@spell fire storm}",
@@ -49252,7 +49252,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell divination}",
-								"{@spell guardian of faith}"
+								"{@spell guardián de la fe}"
 							]
 						},
 						"5": {
@@ -54441,7 +54441,7 @@
 							"{@spell raise dead}"
 						],
 						"1e": [
-							"{@spell commune}",
+							"{@spell comunión}",
 							"{@spell control weather}",
 							"{@spell plaga de insectos}"
 						]
@@ -61980,7 +61980,7 @@
 							"{@spell resurrection}"
 						],
 						"1e": [
-							"{@spell commune}",
+							"{@spell comunión}",
 							"{@spell control weather}"
 						]
 					},

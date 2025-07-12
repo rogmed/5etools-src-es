@@ -3529,7 +3529,7 @@
 								[
 									"9th",
 									"55 ({@dice 10d8 + 10})",
-									"Proficiency Bonus. Hrigg's proficiency bonus increases by 1, so increase the following numbers by 1: his spell save DC and the bonus to hit of his spell attacks, the bonuses in the Saving Throws and Skills entries, and the bonuses to hit of his weapon attacks. Spellcasting. Hrigg gains two 3rd-level spell slots. He also learns a 3rd-level spell: {@spell beacon of hope}."
+									"Proficiency Bonus. Hrigg's proficiency bonus increases by 1, so increase the following numbers by 1: his spell save DC and the bonus to hit of his spell attacks, the bonuses in the Saving Throws and Skills entries, and the bonuses to hit of his weapon attacks. Spellcasting. Hrigg gains two 3rd-level spell slots. He also learns a 3rd-level spell: {@spell señal de esperanza}."
 								],
 								[
 									"10th",
@@ -3648,7 +3648,7 @@
 								"3": {
 									"slots": 2,
 									"spells": [
-										"{@spell beacon of hope}"
+										"{@spell señal de esperanza}"
 									]
 								}
 							},
@@ -3729,7 +3729,7 @@
 								"3": {
 									"slots": 3,
 									"spells": [
-										"{@spell beacon of hope}",
+										"{@spell señal de esperanza}",
 										"{@spell spirit guardians}"
 									]
 								}
@@ -4205,7 +4205,7 @@
 								"3": {
 									"slots": 2,
 									"spells": [
-										"{@spell beacon of hope}"
+										"{@spell señal de esperanza}"
 									]
 								}
 							},

@@ -3388,7 +3388,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell commune}",
+							"{@spell comunión}",
 							"{@spell dominate person}",
 							"{@spell plaga de insectos}",
 							"{@spell mass suggestion}",
@@ -4724,7 +4724,7 @@
 							"spells": [
 								"{@spell banishment}",
 								"{@spell divination}",
-								"{@spell guardian of faith}"
+								"{@spell guardián de la fe}"
 							]
 						},
 						"5": {

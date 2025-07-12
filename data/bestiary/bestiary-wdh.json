@@ -2741,7 +2741,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell beacon of hope}",
+								"{@spell señal de esperanza}",
 								"{@spell crusader's mantle}",
 								"{@spell dispel magic}",
 								"{@spell revivify}",
@@ -2754,7 +2754,7 @@
 							"spells": [
 								"{@spell banishment}",
 								"{@spell freedom of movement}",
-								"{@spell guardian of faith}",
+								"{@spell guardián de la fe}",
 								"{@spell stoneskin}"
 							]
 						},

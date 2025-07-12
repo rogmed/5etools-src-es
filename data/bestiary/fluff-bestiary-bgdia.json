@@ -459,7 +459,7 @@
 									"type": "entries",
 									"name": "Nests",
 									"entries": [
-										"Hellwasps spew a golden bile similar to amber, which they use to craft enormous nests riddled with chambers and passages. The hellwasps use these nests as communal shelters and food storage. A typical nest is large enough to support a commune of {@dice 1d10 + 10} hellwasps, with each hellwasp having an equal voice and role in the society."
+										"Hellwasps spew a golden bile similar to amber, which they use to craft enormous nests riddled with chambers and passages. The hellwasps use these nests as communal shelters and food storage. A typical nest is large enough to support a comunión of {@dice 1d10 + 10} hellwasps, with each hellwasp having an equal voice and role in the society."
 									]
 								},
 								{

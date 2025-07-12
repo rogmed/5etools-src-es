@@ -6866,7 +6866,7 @@
 							"page": 75,
 							"id": "185",
 							"entries": [
-								"The {@spell Commune|XPHB} spell allows its caster to ask a deity (or an agent of the god) yes-or-no questions and receive correct information, and other spells of the Divination school have similar effects. As the {@i Commune} spell description states, gods aren't necessarily omniscient. But they are tremendously knowledgeable, particularly with regard to their particular areas of influence. A sea god can be reasonably expected to know anything that has happened in or on a sea, for example, and a martial god knows details about wars. Gods can reliably predict the future, at least in the short term (hence their ability to answer spells such as {@spell Augury|XPHB} and {@spell Divination|XPHB}). And some gods might be unwilling to reveal their ignorance, choosing to give an unclear answer rather than admit that they don't know the truth."
+								"The {@spell Comunión|XPHB} spell allows its caster to ask a deity (or an agent of the god) yes-or-no questions and receive correct information, and other spells of the Divination school have similar effects. As the {@i Comunión} spell description states, gods aren't necessarily omniscient. But they are tremendously knowledgeable, particularly with regard to their particular areas of influence. A sea god can be reasonably expected to know anything that has happened in or on a sea, for example, and a martial god knows details about wars. Gods can reliably predict the future, at least in the short term (hence their ability to answer spells such as {@spell Augury|XPHB} and {@spell Divination|XPHB}). And some gods might be unwilling to reveal their ignorance, choosing to give an unclear answer rather than admit that they don't know the truth."
 							]
 						},
 						{
@@ -20824,7 +20824,7 @@
 										],
 										[
 											"4",
-											"A god has stopped answering prayers and won't respond to any {@spell Commune|XPHB} spell."
+											"A god has stopped answering prayers and won't respond to any {@spell Comunión|XPHB} spell."
 										],
 										[
 											"5",

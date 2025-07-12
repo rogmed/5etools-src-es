@@ -4843,7 +4843,7 @@
 										{
 											"type": "item",
 											"name": "Dreaming Intuition",
-											"entry": "The creature casts either the {@spell commune} or the {@spell divination} spell as it sleeps, requiring no additional casting time, action, or spell components. The spells tap into a collective reservoir of dreams, and the answers come as dream imagery. This reservoir can answer the caster's questions if the subject has ever been dreamed of."
+											"entry": "The creature casts either the {@spell comunión} or the {@spell divination} spell as it sleeps, requiring no additional casting time, action, or spell components. The spells tap into a collective reservoir of dreams, and the answers come as dream imagery. This reservoir can answer the caster's questions if the subject has ever been dreamed of."
 										}
 									]
 								},
@@ -5184,7 +5184,7 @@
 					"page": 78,
 					"id": "0e7",
 					"entries": [
-						"The coral-covered ruins of a storm giant retreat cling to the ocean floor at the edge of an undersea trench. Storm giants once used this place as a haven to contemplate omens, to refine experimental magic, and to commune with the ocean. Its peace shattered when death giants from the Shadowfell found a lightless river that led into the trench and killed the retreat's original inhabitants.",
+						"The coral-covered ruins of a storm giant retreat cling to the ocean floor at the edge of an undersea trench. Storm giants once used this place as a haven to contemplate omens, to refine experimental magic, and to comunión with the ocean. Its peace shattered when death giants from the Shadowfell found a lightless river that led into the trench and killed the retreat's original inhabitants.",
 						"Portions of the retreat still hold foul air, but most areas have been flooded by the cold deep. The retreat's runic circle still channels elemental power from a portal to the Plane of Water deep in the trench, and crystalline archives hold lost knowledge of the giants who built them.",
 						{
 							"type": "entries",
@@ -5279,7 +5279,7 @@
 										{
 											"type": "item",
 											"name": "Lightning Archive",
-											"entry": "A creature touching an archive can use an action to access the stored knowledge. Roll a {@dice d10}. On a 1 or 2, the archive surges with lightning. Each creature in the room must make a {@dc 15} Dexterity saving throw, taking 22 ({@dice 4d10}) lightning damage on a failed save, or half as much on a successful one. If the {@dice d10} roll was 3 or higher, the creature can query the archive as by a {@spell commune} spell. Once a creature uses the archive successfully, that creature can't do so again for 24 hours."
+											"entry": "A creature touching an archive can use an action to access the stored knowledge. Roll a {@dice d10}. On a 1 or 2, the archive surges with lightning. Each creature in the room must make a {@dc 15} Dexterity saving throw, taking 22 ({@dice 4d10}) lightning damage on a failed save, or half as much on a successful one. If the {@dice d10} roll was 3 or higher, the creature can query the archive as by a {@spell comunión} spell. Once a creature uses the archive successfully, that creature can't do so again for 24 hours."
 										},
 										{
 											"type": "item",
@@ -6620,7 +6620,7 @@
 									"page": 96,
 									"id": "132",
 									"entries": [
-										"{@creature Goliath giant-kin|BGG} escort a nervous {@creature stone giant rockspeaker|BGG} (both in {@book chapter 6|BGG|6}) who needs to commune with his dreams within the crystal sand fortress at night. While he does, creatures from the {@book Fiendish Incursion Encounters|BGG|3|Fiendish Incursion Encounters} and {@book Elemental Earth Encounters|BGG|3|Elemental Earth Encounters} tables in {@book chapter 3|BGG|3} manifest from the sand and attack."
+										"{@creature Goliath giant-kin|BGG} escort a nervous {@creature stone giant rockspeaker|BGG} (both in {@book chapter 6|BGG|6}) who needs to comunión with his dreams within the crystal sand fortress at night. While he does, creatures from the {@book Fiendish Incursion Encounters|BGG|3|Fiendish Incursion Encounters} and {@book Elemental Earth Encounters|BGG|3|Elemental Earth Encounters} tables in {@book chapter 3|BGG|3} manifest from the sand and attack."
 									]
 								},
 								{

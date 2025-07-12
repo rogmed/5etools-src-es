@@ -5709,7 +5709,7 @@
 									"name": "3rd Level",
 									"style": "list-hang",
 									"items": [
-										"Beacon of Hope {@comicNote JERRY SPELL}",
+										"Señal de esperanza {@comicNote JERRY SPELL}",
 										"Disipar magia {@comicNote JERRY SPELL}",
 										"Palabra de curación en masa {@comicNote YES}",
 										"Protection from Energy {@comicNote JERRY SPELL}",
@@ -5817,7 +5817,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Beacon of Hope",
+							"name": "Señal de esperanza",
 							"page": 50,
 							"collapsed": true
 						},

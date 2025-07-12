@@ -4904,7 +4904,7 @@
 											"rows": [
 												[
 													"1",
-													"A myconid community dwells in tunnels near a {@creature Young Amethyst Dragon|FTD|young amethyst dragon's} lair, and its members telepathically commune with the dragon and any visitors in the lair from time to time."
+													"A myconid community dwells in tunnels near a {@creature Young Amethyst Dragon|FTD|young amethyst dragon's} lair, and its members telepathically comunión with the dragon and any visitors in the lair from time to time."
 												],
 												[
 													"2",
@@ -10638,12 +10638,12 @@
 										[
 											"{@creature Adult Gold Dragon||Adult}",
 											"21",
-											"{@spell bless}, {@spell commune}, {@spell cure wounds}, {@spell geas},* {@spell slow}, {@spell suggestion}, {@spell zone of truth}"
+											"{@spell bless}, {@spell comunión}, {@spell cure wounds}, {@spell geas},* {@spell slow}, {@spell suggestion}, {@spell zone of truth}"
 										],
 										[
 											"{@creature Ancient Gold Dragon||Ancient}",
 											"24",
-											"{@spell bless}, {@spell commune},* {@spell cure wounds}, {@spell geas},* {@spell plane shift} (+16 to hit), {@spell slow}, {@spell suggestion}, {@spell word of recall}, {@spell zone of truth}"
+											"{@spell bless}, {@spell comunión},* {@spell cure wounds}, {@spell geas},* {@spell plane shift} (+16 to hit), {@spell slow}, {@spell suggestion}, {@spell word of recall}, {@spell zone of truth}"
 										]
 									],
 									"footnotes": [
@@ -13738,17 +13738,17 @@
 										[
 											"{@creature Young Silver Dragon||Young}",
 											"16",
-											"{@spell beacon of hope}, {@spell calm emotions}, {@spell hold person}, {@spell zone of truth}"
+											"{@spell señal de esperanza}, {@spell calm emotions}, {@spell hold person}, {@spell zone of truth}"
 										],
 										[
 											"{@creature Adult Silver Dragon||Adult}",
 											"18",
-											"{@spell beacon of hope}, {@spell calm emotions}, {@spell hold person}, {@spell polymorph}, {@spell zone of truth}"
+											"{@spell señal de esperanza}, {@spell calm emotions}, {@spell hold person}, {@spell polymorph}, {@spell zone of truth}"
 										],
 										[
 											"{@creature Ancient Silver Dragon||Ancient}",
 											"21",
-											"{@spell beacon of hope}, {@spell calm emotions}, {@spell hold person}, {@spell polymorph}, {@spell teleport}, {@spell zone of truth}"
+											"{@spell señal de esperanza}, {@spell calm emotions}, {@spell hold person}, {@spell polymorph}, {@spell teleport}, {@spell zone of truth}"
 										]
 									]
 								}

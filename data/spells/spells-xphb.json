@@ -1558,10 +1558,10 @@
 			]
 		},
 		{
-			"name": "Beacon of Hope",
-			"originalname": "",
+			"name": "Señal de esperanza",
+			"originalname": "Beacon of Hope",
 			"source": "XPHB",
-			"page": 245,
+			"page": 332,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -1594,7 +1594,7 @@
 				}
 			],
 			"entries": [
-				"Choose any number of creatures within range. For the duration, each target has {@variantrule Advantage|XPHB} on Wisdom saving throws and Death Saving Throws and regains the maximum number of {@variantrule Hit Points|XPHB} possible from any healing."
+				"Elige cualquier cantidad de criaturas dentro del alcance. Hasta que el conjuro termine, todos los objetivos tienen ventaja en sus tiradas de salvación de Sabiduría y sus tiradas de salvación contra muerte, y también recuperan la cantidad máxima posible de puntos de golpe en cualquier curación."
 			],
 			"miscTags": [
 				"ADV",
@@ -3225,10 +3225,10 @@
 			]
 		},
 		{
-			"name": "Commune",
-			"originalname": "",
+			"name": "Comunión",
+			"originalname": "Commune",
 			"source": "XPHB",
-			"page": 251,
+			"page": 258,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -3248,7 +3248,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "incense"
+				"m": "incienso"
 			},
 			"duration": [
 				{
@@ -3263,13 +3263,13 @@
 				"ritual": true
 			},
 			"entries": [
-				"You contact a deity or a divine proxy and ask up to three questions that can be answered with yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.",
-				"Divine beings aren't necessarily omniscient, so you might receive \"unclear\" as an answer if a question pertains to information that lies beyond the deity's knowledge. In a case where a one-word answer could be misleading or contrary to the deity's interests, the DM might offer a short phrase as an answer instead.",
-				"If you cast the spell more than once before finishing a {@variantrule Descanso largo|XPHB}, there is a cumulative {@chance 25|||No answer!|Answer} chance for each casting after the first that you get no answer."
+				"Te pones en contacto con una deidad o con un representante divino y le haces hasta tres preguntas que se puedan responder con sí o no. Tienes que realizar las preguntas antes de que el conjuro termine y recibirás una respuesta correcta a cada una de ellas.",
+				"Los seres divinos no tienen por qué ser omniscientes, por lo que si la deidad no tiene información sobre lo que le preguntas, puede responderte “ambiguo”. En caso de que una respuesta de una sola palabra pudiera inducir a error o ser contraria a los intereses de la deidad, tu DM podría ofrecer en su lugar una frase corta.",
+				"Si lanzas el conjuro más de una vez antes de finalizar un descanso largo, hay una posibilidad acumulativa del 25 % por cada lanzamiento después del primero de que no recibas ninguna respuesta."
 			]
 		},
 		{
-			"name": "Commune with Nature",
+			"name": "Comunión with Nature",
 			"originalname": "",
 			"source": "XPHB",
 			"page": 252,
@@ -3306,7 +3306,7 @@
 				"ritual": true
 			},
 			"entries": [
-				"You commune with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in castles and settlements.",
+				"You comunión with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in castles and settlements.",
 				"Choose three of the following facts; you learn those facts as they pertain to the spell's area:",
 				{
 					"type": "list",
@@ -9571,10 +9571,10 @@
 			]
 		},
 		{
-			"name": "Guardian of Faith",
-			"originalname": "",
+			"name": "Guardián de la fe",
+			"originalname": "Guardian of Faith",
 			"source": "XPHB",
-			"page": 281,
+			"page": 289,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -9605,8 +9605,8 @@
 				}
 			],
 			"entries": [
-				"A Large spectral guardian appears and hovers for the duration in an unoccupied space that you can see within range. The guardian occupies that space and is invulnerable, and it appears in a form appropriate for your deity or pantheon.",
-				"Any enemy that moves to a space within 10 feet of the guardian for the first time on a turn or starts its turn there makes a Dexterity saving throw, taking 20 Radiant damage on a failed save or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage."
+				"Un guardián espectral Grande aparece en un espacio sin ocupar que puedas ver dentro del alcance y levita sobre él hasta que termine el conjuro. El guardián ocupa ese espacio, es invulnerable y se muestra en una forma adecuada para tu deidad o panteón.",
+				"Cualquier enemigo que entre en un espacio a 10 pies (3 m) o menos del guardián por primera vez en un turno o empiece su turno allí hará una tirada de salvación de Destreza; sufrirá 20 de daño radiante si la falla o la mitad de daño si la supera. El guardián se desvanece cuando ha causado un total de 60 de daño."
 			],
 			"damageInflict": [
 				"radiant"

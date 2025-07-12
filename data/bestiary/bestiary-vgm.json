@@ -1386,7 +1386,7 @@
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell commune with nature}",
+								"{@spell comunión with nature}",
 								"{@spell mass cure wounds}",
 								"{@spell paso arbóreo}"
 							]
@@ -11137,7 +11137,7 @@
 							"spells": [
 								"{@spell banishment}",
 								"{@spell freedom of movement}",
-								"{@spell guardian of faith}"
+								"{@spell guardián de la fe}"
 							]
 						},
 						"5": {
@@ -11881,7 +11881,7 @@
 						"The korred's innate spellcasting ability is Wisdom (save {@dc 13}). It can innately cast the following spells, requiring no components:"
 					],
 					"will": [
-						"{@spell commune with nature}",
+						"{@spell comunión with nature}",
 						"{@spell meld into stone}",
 						"{@spell stone shape}"
 					],
@@ -18810,7 +18810,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell beacon of hope}",
+								"{@spell señal de esperanza}",
 								"{@spell crusader's mantle}",
 								"{@spell dispel magic}",
 								"{@spell revivify}",
@@ -18823,7 +18823,7 @@
 							"spells": [
 								"{@spell banishment}",
 								"{@spell freedom of movement}",
-								"{@spell guardian of faith}",
+								"{@spell guardián de la fe}",
 								"{@spell stoneskin}"
 							]
 						},

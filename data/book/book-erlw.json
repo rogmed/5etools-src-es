@@ -9391,7 +9391,7 @@
 							]
 						},
 						"A pillar of argent fire marks the point of Tira's sacrifice, the center of the modern church. This pillar, located in Flamekeep, is a manifestation of the Silver Flame, not the source of its power.",
-						"The church's templars stand ready to protect the innocent from supernatural threats, battling undead, fiends, and aberrations. Friars and ministers fight evil by doing good, performing acts of compassion and charity across Khorvaire. In contrast to the Sovereign Host, the church maintains a defined structure and creed. Archbishops monitor regions; cardinals lead the church; and the ultimate authority is the Keeper of the Flame, who maintains the font in Flamekeep and communes with Tira Miron.",
+						"The church's templars stand ready to protect the innocent from supernatural threats, battling undead, fiends, and aberrations. Friars and ministers fight evil by doing good, performing acts of compassion and charity across Khorvaire. In contrast to the Sovereign Host, the church maintains a defined structure and creed. Archbishops monitor regions; cardinals lead the church; and the ultimate authority is the Keeper of the Flame, who maintains the font in Flamekeep and comunións with Tira Miron.",
 						"The Last War had a serious impact on the church. Leaders still respected the Keeper's authority over spiritual matters, but the war wasn't about good or evil. Templars of all nations still joined together to fight demons, but if no supernatural threat was present, they fought for their own nations. This division allowed cracks to form in the foundation. In Breland, some priests fell prey to greed or forged ties to criminal organizations. In Aundair, a zealous faction known as the Pure Flame advocates using violence rather than compassion as the primary tool for rooting out evil. And in Thrane, the church has become the ruling body. While still driven by Tira's principles of redemption and sacrifice, the intrusion of politics means that some come to the faith seeking power rather than purely to do good.",
 						"In creating a follower of the Silver Flame, decide whether you are bound to the church or simply inspired by its principles. As a paladin, are you part of the templar order, or were you a farmer called to action by the Voice of the Silver Flame?",
 						"The Silver Flame is centered in Thrane, but it has a strong presence in Breland and Aundair, and followers across Khorvaire. Members of the Pure Flame sect treat some species\u2014notably shifters and changelings\u2014with suspicion, but the faith holds that people of all races should stand together.",
@@ -9616,7 +9616,7 @@
 						"The bond between ancestor and living elf is holy. Your ancestor doesn't speak to you or control your actions. But as a Tairnadal, you believe that they are with you\u2014that your instincts and your reflexes are the ancestor moving through you, telling you what to do. The closer you follow the path, the more guidance they provide, helping you create new legends.",
 						"The folk of Khorvaire see your people as mercenaries and conquerors. But you don't care about gold or personal glory. All you want is to let your ancestors live again, and that means you need to perform deeds worthy of champions. That drives you now: seeking out adventures that will add to the legends of your patron.",
 						"You and your DM should develop the identity of your ancestor. How did they fight? What were some of their legendary deeds? Did they have a distinctive weapon or favor a particular kind of magic? Equally important is your relationship with the ancestor. Are you proud of your ancestor and excited to live as they did, or is your duty a burden?",
-						"Since the rise of Valenar, half-elves and even some humans have sought to be inducted into the faith. But so far the Keepers of the Past have declared that only elves can be revenants. Beyond the blood connection to the ancestor, an elf communes with their ancestor during trance, and half-elves can't enter this state. The Keepers say it can't be done, but perhaps you'll be the one to prove them wrong.",
+						"Since the rise of Valenar, half-elves and even some humans have sought to be inducted into the faith. But so far the Keepers of the Past have declared that only elves can be revenants. Beyond the blood connection to the ancestor, an elf comunións with their ancestor during trance, and half-elves can't enter this state. The Keepers say it can't be done, but perhaps you'll be the one to prove them wrong.",
 						{
 							"type": "entries",
 							"name": "Symbol",
@@ -13837,7 +13837,7 @@
 							"page": 197,
 							"id": "3b1",
 							"entries": [
-								"Agents of the Dreaming Dark are insidious villains that can appear anywhere, in almost any context. They receive orders from a cabal of powerful quori. The leader of the organization, known as the Devourer of Dreams, communes with the nightmare spirit of Dal Quor itself. The Dark's chief agent in Eberron is a {@creature kalaraq quori|ERLW} (see {@book chapter 6|ERLW|13}) named Tirashana, who has planted mind seeds\u2014mental copies of herself\u2014across Khorvaire.",
+								"Agents of the Dreaming Dark are insidious villains that can appear anywhere, in almost any context. They receive orders from a cabal of powerful quori. The leader of the organization, known as the Devourer of Dreams, comunións with the nightmare spirit of Dal Quor itself. The Dark's chief agent in Eberron is a {@creature kalaraq quori|ERLW} (see {@book chapter 6|ERLW|13}) named Tirashana, who has planted mind seeds\u2014mental copies of herself\u2014across Khorvaire.",
 								"The Dreaming Dark has Inspired agents and {@creature kalaraq quori|ERLW} mind seeds (see {@book chapter 6|ERLW|13}) scattered across Khorvaire, hidden within the membership of dragonmarked houses, noble families, and other driving forces. Because Dreaming Dark agents can communicate and coordinate with one another in dreams, they never have to risk losing their cover to receive assignments or transmit information.",
 								{
 									"type": "table",
@@ -16907,7 +16907,7 @@
 										],
 										[
 											"3",
-											"An eladrin commune that holds powerful esoteric knowledge is nestled in the depths of a forest inhabited by large numbers of {@creature Pixie||pixies}."
+											"An eladrin comunión that holds powerful esoteric knowledge is nestled in the depths of a forest inhabited by large numbers of {@creature Pixie||pixies}."
 										],
 										[
 											"4",

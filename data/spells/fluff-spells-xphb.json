@@ -225,14 +225,14 @@
 			]
 		},
 		{
-			"name": "Guardian of Faith",
+			"name": "Guardián de la fe",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Guardian of Faith.webp"
+						"path": "spells/XPHB/Guardián de la fe.webp"
 					},
 					"credit": "Rina Nordsol"
 				}

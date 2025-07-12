@@ -469,15 +469,15 @@
 							"zone of truth|xphb"
 						],
 						"9": [
-							"beacon of hope|xphb",
+							"señal de esperanza|xphb",
 							"dispel magic|xphb"
 						],
 						"13": [
 							"freedom of movement|xphb",
-							"guardian of faith|xphb"
+							"guardián de la fe|xphb"
 						],
 						"17": [
-							"commune|xphb",
+							"comunión|xphb",
 							"flame strike|xphb"
 						]
 					}
@@ -485,9 +485,9 @@
 			],
 			"subclassFeatures": [
 				"Juramento de entrega|Paladín|XPHB|Entrega|XPHB|3",
-				"Aura of Entrega|Paladín|XPHB|Entrega|XPHB|7",
-				"Smite of Protection|Paladín|XPHB|Entrega|XPHB|15",
-				"Holy Nimbus|Paladín|XPHB|Entrega|XPHB|20"
+				"Aura de Entrega|Paladín|XPHB|Entrega|XPHB|7",
+				"Castigo proteccióñ|Paladín|XPHB|Entrega|XPHB|15",
+				"Halo sagrado|Paladín|XPHB|Entrega|XPHB|20"
 			],
 			"hasFluffImages": true
 		},
@@ -497,7 +497,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"page": 114,
+			"page": 162,
 			"edition": "one",
 			"additionalSpells": [
 				{
@@ -561,7 +561,7 @@
 							"stoneskin|xphb"
 						],
 						"17": [
-							"commune with nature|xphb",
+							"comunión with nature|xphb",
 							"paso arbóreo|xphb"
 						]
 					}
@@ -1104,7 +1104,7 @@
 						],
 						[
 							"17th",
-							"{@spell Commune with Nature|XPHB}, {@spell Paso arbóreo|XPHB}"
+							"{@spell Comunión with Nature|XPHB}, {@spell Paso arbóreo|XPHB}"
 						]
 					]
 				}
@@ -1200,7 +1200,7 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Sacred Weapon|Paladín|XPHB|Entrega|XPHB|3"
+					"subclassFeature": "Arma sagrada|Paladín|XPHB|Entrega|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
@@ -1235,7 +1235,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Protection from Evil And Good|XPHB}, {@spell Escudo de fe|XPHB}"
+							"{@spell Protección contra el bien y el mal|XPHB}, {@spell Escudo de fe|XPHB}"
 						],
 						[
 							"5",
@@ -1243,22 +1243,22 @@
 						],
 						[
 							"9",
-							"{@spell Beacon of Hope|XPHB}, {@spell Disipar magia|XPHB}"
+							"{@spell Señal de esperanza|XPHB}, {@spell Disipar magia|XPHB}"
 						],
 						[
 							"13",
-							"{@spell Libertad de movimiento|XPHB}, {@spell Guardian of Faith|XPHB}"
+							"{@spell Libertad de movimiento|XPHB}, {@spell Guardián de la fe|XPHB}"
 						],
 						[
 							"17",
-							"{@spell Commune|XPHB}, {@spell Golpe flamígero|XPHB}"
+							"{@spell Comunión|XPHB}, {@spell Golpe flamígero|XPHB}"
 						]
 					]
 				}
 			]
 		},
 		{
-			"name": "Sacred Weapon",
+			"name": "Arma sagrada",
 			"source": "XPHB",
 			"page": 161,
 			"srd52": true,
@@ -1272,15 +1272,15 @@
 				"name": "Canalizar divinidad"
 			},
 			"entries": [
-				"When you take the {@action Attack|XPHB} action, you can expend one use of your Canalizar divinidad to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.",
-				"The weapon also emits {@variantrule Luz brillante|XPHB} in a 20-foot radius and {@variantrule Luz tenue|XPHB} 20 feet beyond that.",
-				"You can end this effect early (no action required). This effect also ends if you aren't carrying the weapon."
+				"Cuando realizas la acción de atacar, puedes gastar uno de los usos de Canalizar divinidad para imbuir de energía positiva un arma cuerpo a cuerpo que sostengas. Durante 10 minutos o hasta que vuelvas a usar este rasgo, sumas tu modificador por Carisma a las tiradas de ataque que hagas con esa arma (mínimo de +1), y cada vez que aciertes con ella, haces que inflija su tipo de daño normal o daño radiante.",
+				"El arma también emite luz brillante en un radio de 20 pies (6 m) y luz tenue 20 pies (6 m) más allá.",
+				"Puedes poner fin a este efecto antes (no requiere acción). El efecto también terminará si no llevas el arma contigo."
 			]
 		},
 		{
-			"name": "Aura of Entrega",
+			"name": "Aura de Entrega",
 			"source": "XPHB",
-			"page": 114,
+			"page": 162,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Paladín",
@@ -1290,13 +1290,13 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"You and your allies have {@variantrule Immunity|XPHB} to the {@condition Hechizado|XPHB} condition while in your Aura de protección. If a {@condition Hechizado|XPHB} ally enters the aura, that condition has no effect on that ally while there."
+				"Tus aliados y tú tenéis inmunidad al estado de {@condition Hechizado|XPHB|hechizados} mientras estéis dentro de tu Aura de protección. Si un aliado hechizado entra en el aura, ese estado no tendrá efecto en él mientras esté dentro."
 			]
 		},
 		{
-			"name": "Smite of Protection",
+			"name": "Castigo proteccióñ",
 			"source": "XPHB",
-			"page": 114,
+			"page": 162,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Paladín",
@@ -1306,13 +1306,13 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Your magical smite now radiates protective energy. Whenever you cast {@spell Castigo divino|XPHB}, you and your allies have {@variantrule Cobertura|XPHB|Half Cover} while in your Aura de protección. The aura has this benefit until the start of your next turn."
+				"Tu castigo mágico ahora irradia energía protectora. Siempre que lances {@i {@spell castigo divino|XPHB}}, tus aliados y tú tenéis {@variantrule Cobertura|XPHB|cobertura media} mientras estéis dentro de tu Aura de protección. El aura tiene este beneficio hasta el principio de tu siguiente turno."
 			]
 		},
 		{
-			"name": "Holy Nimbus",
+			"name": "Halo sagrado",
 			"source": "XPHB",
-			"page": 114,
+			"page": 162,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Paladín",
@@ -1322,26 +1322,26 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can imbue your Aura de protección with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+				"Como {@variantrule acción adicional|XPHB}, puedes imbuir de poder divino tu Aura de protección, lo que otorga los beneficios indicados a continuación durante 10 minutos o hasta que les pongas fin (no requiere acción). Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un {@variantrule descanso largo|XPHB}. También puedes restablecer su uso gastando un espacio de conjuro de nivel 5 (no requiere acción).",
 				{
 					"type": "entries",
-					"name": "Holy Ward",
+					"name": "Daño radiante",
 					"entries": [
-						"You have {@variantrule Advantage|XPHB} on any saving throw you are forced to make by a Fiend or an Undead."
+						"Siempre que un enemigo comience su turno dentro del aura, esa criatura recibirá una cantidad de daño radiante igual a tu modificador por Carisma más tu bonificador por competencia."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Radiant Damage",
+					"name": "Luz solar",
 					"entries": [
-						"Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your {@variantrule Competencia|XPHB|Proficiency Bonus}."
+						"El aura está llena de {@variantrule luz brillante|XPHB} del sol."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Sunlight",
+					"name": "Protección sagrada",
 					"entries": [
-						"The aura is filled with {@variantrule Luz brillante|XPHB} that is sunlight."
+						"Tienes ventaja en las tiradas de salvación que te obliguen a hacer infernales o muertos vivientes."
 					]
 				}
 			]
@@ -1365,7 +1365,7 @@
 		{
 			"name": "Oath of Glory",
 			"source": "XPHB",
-			"page": 114,
+			"page": 162,
 			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",

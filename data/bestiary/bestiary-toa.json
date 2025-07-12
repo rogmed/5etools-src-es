@@ -3112,7 +3112,7 @@
 						"The King of Feathers's innate spellcasting ability is Wisdom. It can innately cast the following spell, requiring no material components:"
 					],
 					"will": [
-						"{@spell misty step}"
+						"{@spell paso brumoso}"
 					],
 					"ability": "wis"
 				}
@@ -4081,7 +4081,7 @@
 							"spells": [
 								"{@spell blindness/deafness}",
 								"{@spell hold person}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -6307,7 +6307,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell invisibility}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -6818,7 +6818,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dominate beast}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {

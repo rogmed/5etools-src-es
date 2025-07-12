@@ -818,7 +818,7 @@
 						],
 						"s3": [
 							"blink",
-							"plant growth"
+							"crecimiento vegetal"
 						],
 						"s4": [
 							"dominate beast",
@@ -1594,13 +1594,13 @@
 						"3": [
 							"calm emotions|xphb",
 							"faerie fire|xphb",
-							"misty step|xphb",
+							"paso brumoso|xphb",
 							"phantasmal force|xphb",
 							"dormir|xphb"
 						],
 						"5": [
 							"blink|xphb",
-							"plant growth|xphb"
+							"crecimiento vegetal|xphb"
 						],
 						"7": [
 							"dominate beast|xphb",
@@ -1615,7 +1615,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"misty step|xphb"
+									"paso brumoso|xphb"
 								]
 							}
 						}
@@ -2649,7 +2649,7 @@
 								],
 								[
 									"3rd",
-									"{@spell blink}, {@spell plant growth}"
+									"{@spell blink}, {@spell crecimiento vegetal}"
 								],
 								[
 									"4th",
@@ -4190,7 +4190,7 @@
 						],
 						[
 							"5",
-							"{@spell Blink|XPHB}, {@spell Plant Growth|XPHB}"
+							"{@spell Blink|XPHB}, {@spell Crecimiento vegetal|XPHB}"
 						],
 						[
 							"7",

@@ -1212,7 +1212,7 @@
 							"{@spell calm emotions}",
 							"{@spell lesser restoration}",
 							"{@spell remove curse}",
-							"{@spell protection from energy}"
+							"{@spell protección contra energía}"
 						]
 					},
 					"ability": "wis",

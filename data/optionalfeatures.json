@@ -1509,7 +1509,7 @@
 						"_": {
 							"resource": {
 								"5": [
-									"stoneskin"
+									"piel pétrea"
 								]
 							}
 						}
@@ -1519,7 +1519,7 @@
 				}
 			],
 			"entries": [
-				"You can spend 5 ki points to cast {@spell stoneskin}, targeting yourself."
+				"You can spend 5 ki points to cast {@spell piel pétrea}, targeting yourself."
 			]
 		},
 		{

@@ -796,7 +796,7 @@
 								"{@spell counterspell}",
 								"{@spell dispel magic}",
 								"{@spell haste}",
-								"{@spell protection from energy}"
+								"{@spell protección contra energía}"
 							]
 						},
 						"4": {
@@ -2061,7 +2061,7 @@
 						"3e": [
 							"{@spell dispel magic}",
 							"{@spell entangle}",
-							"{@spell plant growth}",
+							"{@spell crecimiento vegetal}",
 							"{@spell spike growth}"
 						],
 						"1e": [
@@ -2361,7 +2361,7 @@
 						"1e": [
 							"{@spell counterspell}",
 							"{@spell dispel magic}",
-							"{@spell protection from energy}"
+							"{@spell protección contra energía}"
 						]
 					},
 					"ability": "int"
@@ -2949,7 +2949,7 @@
 							"spells": [
 								"{@spell conjurar animales}",
 								"{@spell dispel magic}",
-								"{@spell plant growth}"
+								"{@spell crecimiento vegetal}"
 							]
 						},
 						"4": {
@@ -2963,7 +2963,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell comunión with nature}",
+								"{@spell comunión con la naturaleza}",
 								"{@spell Conjurar elemental}",
 								"{@spell scrying}"
 							]
@@ -4025,7 +4025,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell stoneskin}"
+							"{@spell piel pétrea}"
 						],
 						"3e": [
 							"{@spell levitate}",
@@ -4427,7 +4427,7 @@
 							"spells": [
 								"{@spell animate dead}",
 								"{@spell dispel magic}",
-								"{@spell plant growth}"
+								"{@spell crecimiento vegetal}"
 							]
 						},
 						"4": {
@@ -5693,7 +5693,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell animate dead}",
-								"{@spell plant growth}",
+								"{@spell crecimiento vegetal}",
 								"{@spell vampiric touch}"
 							]
 						},
@@ -6247,7 +6247,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell locate creature}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						}
 					},
@@ -7649,7 +7649,7 @@
 								{
 									"type": "item",
 									"name": "Vuliev: Teleportation",
-									"entry": "Vuliev's Innate Spellcasting trait includes {@spell misty step}, which he can cast at will."
+									"entry": "Vuliev's Innate Spellcasting trait includes {@spell paso brumoso}, which he can cast at will."
 								},
 								{
 									"type": "item",
@@ -10134,7 +10134,7 @@
 							"{@spell conjurar animales}",
 							"{@spell giant insect}",
 							"{@spell rayo de luna}",
-							"{@spell plant growth}",
+							"{@spell crecimiento vegetal}",
 							"{@spell spike growth}",
 							"{@spell suggestion}"
 						],
@@ -10344,7 +10344,7 @@
 						"1e": [
 							"{@spell expeditious retreat}",
 							"{@spell fog cloud}",
-							"{@spell misty step}"
+							"{@spell paso brumoso}"
 						]
 					},
 					"ability": "int"

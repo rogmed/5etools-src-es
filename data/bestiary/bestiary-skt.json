@@ -702,7 +702,7 @@
 							"{@spell legend lore} (cast as 1 action)",
 							"{@spell locate creature}",
 							"{@spell pass without trace}",
-							"{@spell protection from energy}",
+							"{@spell protección contra energía}",
 							"{@spell true seeing}"
 						]
 					},
@@ -960,7 +960,7 @@
 						"3e": [
 							"{@spell feather fall}",
 							"{@spell fly}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell telekinesis}"
 						],
 						"1e": [
@@ -1484,7 +1484,7 @@
 							"{@spell stone shape}"
 						],
 						"1e": [
-							"{@spell stoneskin}",
+							"{@spell piel pétrea}",
 							"{@spell time stop}"
 						]
 					},
@@ -6402,7 +6402,7 @@
 							"{@spell stone shape}"
 						],
 						"1e": [
-							"{@spell stoneskin}",
+							"{@spell piel pétrea}",
 							"{@spell time stop}"
 						]
 					},
@@ -6855,7 +6855,7 @@
 							"{@spell speak with animals}"
 						],
 						"1e": [
-							"{@spell comunión with nature} (cast as 1 action)",
+							"{@spell comunión con la naturaleza} (cast as 1 action)",
 							"{@spell conjure woodland beings}",
 							"{@spell hallucinatory terrain} (cast as 1 action)"
 						]
@@ -7636,7 +7636,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell bestow curse}",
-								"{@spell protection from energy}",
+								"{@spell protección contra energía}",
 								"{@spell sending}"
 							]
 						},
@@ -7996,7 +7996,7 @@
 						"3e": [
 							"{@spell feather fall}",
 							"{@spell fly}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell telekinesis}"
 						],
 						"1e": [
@@ -8030,7 +8030,7 @@
 							"{@spell mass suggestion}",
 							"{@spell nondetection}",
 							"{@spell Otiluke's resilient sphere}",
-							"{@spell protection from energy}",
+							"{@spell protección contra energía}",
 							"{@spell tongues}"
 						]
 					},

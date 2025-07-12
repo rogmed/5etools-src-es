@@ -11115,7 +11115,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Plant Growth",
+			"name": "Crecimiento vegetal",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -11695,7 +11695,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Protection from Energy",
+			"name": "Protección contra energía",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -14325,7 +14325,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Stoneskin",
+			"name": "Piel pétrea",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -14335,14 +14335,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "stoneskin"
+							"foundryId": "piel pétrea"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "stoneskin",
+					"foundryId": "piel pétrea",
 					"duration": {
 						"seconds": 3600
 					},

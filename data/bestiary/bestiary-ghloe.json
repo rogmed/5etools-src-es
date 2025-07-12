@@ -2076,7 +2076,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell detect thoughts}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -4397,7 +4397,7 @@
 						"3e": [
 							"{@spell hold person}",
 							"{@spell invisibility}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell silence}"
 						],
 						"1e": [
@@ -4697,7 +4697,7 @@
 							"{@spell blight}",
 							"{@spell disintegrate}",
 							"{@spell haste}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell shield}",
 							"{@spell slow}",
 							"{@spell see invisibility}"
@@ -5921,7 +5921,7 @@
 								"{@spell detect thoughts}",
 								"{@spell invisibility}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -9037,7 +9037,7 @@
 						],
 						"3e": [
 							"{@spell counterspell}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell shield}"
 						]
 					},
@@ -11145,7 +11145,7 @@
 							"spells": [
 								"{@spell conjurar animales}",
 								"{@spell dispel magic}",
-								"{@spell plant growth}"
+								"{@spell crecimiento vegetal}"
 							]
 						},
 						"4": {
@@ -11158,7 +11158,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell comunión with nature}",
+								"{@spell comunión con la naturaleza}",
 								"{@spell paso arbóreo}"
 							]
 						},

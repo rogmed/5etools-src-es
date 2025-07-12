@@ -201,7 +201,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell invisibility}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell scorching ray}"
 							]
 						},
@@ -386,7 +386,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell ráfaga de viento}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell shatter}"
 							]
 						},
@@ -940,7 +940,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell magic weapon}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						}
 					},
@@ -1849,7 +1849,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell plant growth}",
+								"{@spell crecimiento vegetal}",
 								"{@spell water walk}"
 							]
 						}

@@ -8596,7 +8596,7 @@
 						"piercing",
 						"slashing"
 					],
-					"note": "(from stoneskin)",
+					"note": "(from piel pétrea)",
 					"cond": true,
 					"preNote": "nonmagical"
 				}
@@ -8640,7 +8640,7 @@
 							"spells": [
 								"{@spell detect thoughts}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -8656,7 +8656,7 @@
 							"spells": [
 								"{@spell banishment}",
 								"{@spell fire shield}",
-								"{@spell stoneskin}*"
+								"{@spell piel pétrea}*"
 							]
 						},
 						"5": {
@@ -11700,7 +11700,7 @@
 								{
 									"type": "item",
 									"name": "Sleep Ray:",
-									"entry": "{@spell blindness/deafness}, {@spell misty step} (self or willing creature only)"
+									"entry": "{@spell blindness/deafness}, {@spell paso brumoso} (self or willing creature only)"
 								},
 								{
 									"type": "item",
@@ -16983,7 +16983,7 @@
 						"3e": [
 							"{@spell feather fall}",
 							"{@spell fly}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell telekinesis}"
 						],
 						"1e": [
@@ -22828,7 +22828,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell alter self}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell web}"
 							]
 						},
@@ -33296,7 +33296,7 @@
 					"daily": {
 						"3e": [
 							"{@spell jump}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell nondetection} (self only)",
 							"{@spell tongues}"
 						],
@@ -33441,7 +33441,7 @@
 					"daily": {
 						"3e": [
 							"{@spell jump}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell nondetection} (self only)"
 						]
 					},
@@ -45242,7 +45242,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell conjurar animales} (reptiles only)",
-								"{@spell plant growth}"
+								"{@spell crecimiento vegetal}"
 							]
 						}
 					},
@@ -45527,7 +45527,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},

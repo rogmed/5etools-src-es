@@ -1049,7 +1049,7 @@
 										{
 											"type": "item",
 											"name": "Sleep Ray:",
-											"entry": "{@spell blindness/deafness}, {@spell misty step} (self or willing creature only) "
+											"entry": "{@spell blindness/deafness}, {@spell paso brumoso} (self or willing creature only) "
 										},
 										{
 											"type": "item",
@@ -4838,7 +4838,7 @@
 													"items": [
 														"1st level (4 slots): {@spell entangle}, {@spell speak with animals}",
 														"2nd level (3 slots): {@spell flaming sphere}, {@spell rayo de luna}, {@spell spike growth}",
-														"3rd level (3 slots): {@spell call lightning}, {@spell plant growth}",
+														"3rd level (3 slots): {@spell call lightning}, {@spell crecimiento vegetal}",
 														"4th level (3 slots): {@spell dominate beast}, {@spell grasping vine}",
 														"5th level (2 slots): {@spell plaga de insectos}, {@spell paso arbóreo}",
 														"6th level (1 slot): {@spell wall of thorns}"

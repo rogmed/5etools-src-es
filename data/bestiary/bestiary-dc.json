@@ -361,7 +361,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell protection from energy}",
+								"{@spell protección contra energía}",
 								"{@spell revivify}"
 							]
 						},

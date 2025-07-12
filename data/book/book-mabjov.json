@@ -3311,7 +3311,7 @@
 														{
 															"type": "item",
 															"name": "Classes:",
-															"entry": "Barbarians, Clerics (Knowledge Domain), Druids, Monks, Paladins (Oath of the Ancients) Rangers"
+															"entry": "Barbarians, Clerics (Knowledge Domain), Druids, Monks, Paladins (Juramento de los antiguos) Rangers"
 														}
 													]
 												}
@@ -4052,7 +4052,7 @@
 														{
 															"type": "item",
 															"name": "Classes:",
-															"entry": "Barbarians, Clerics ({@skill Nature} Domain), Druids, Monks, Paladins (Oath of the Ancients), Rangers"
+															"entry": "Barbarians, Clerics ({@skill Nature} Domain), Druids, Monks, Paladins (Juramento de los antiguos), Rangers"
 														}
 													]
 												}

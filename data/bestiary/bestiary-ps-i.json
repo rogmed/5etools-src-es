@@ -1168,7 +1168,7 @@
 								"2": {
 									"slots": 3,
 									"spells": [
-										"{@spell misty step}",
+										"{@spell paso brumoso}",
 										"{@spell suggestion}"
 									]
 								},
@@ -1342,7 +1342,7 @@
 								"2": {
 									"slots": 3,
 									"spells": [
-										"{@spell misty step}",
+										"{@spell paso brumoso}",
 										"{@spell suggestion}"
 									]
 								},

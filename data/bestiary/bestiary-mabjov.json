@@ -1986,7 +1986,7 @@
 							"{@spell bane}",
 							"{@spell fear}",
 							"{@spell hold monster}",
-							"{@spell misty step}"
+							"{@spell paso brumoso}"
 						],
 						"1e": [
 							"{@spell dimension door}",
@@ -2847,7 +2847,7 @@
 							"{@spell fireball}",
 							"{@spell relámpago}",
 							"{@spell Imagen múltiple}",
-							"{@spell misty step}"
+							"{@spell paso brumoso}"
 						],
 						"1e": [
 							"{@spell chain lightning}",
@@ -3013,7 +3013,7 @@
 							"{@spell entangle}",
 							"{@spell locate creature}",
 							"{@spell speak with animals}",
-							"{@spell stoneskin}",
+							"{@spell piel pétrea}",
 							"{@spell paso arbóreo}",
 							"{@spell respirar bajo el agua}"
 						],
@@ -3919,14 +3919,14 @@
 					"daily": {
 						"2e": [
 							"{@spell animal messenger}",
-							"{@spell comunión with nature} (as an action)",
+							"{@spell comunión con la naturaleza} (as an action)",
 							"{@spell entangle}",
 							"{@spell speak with animals}"
 						],
 						"1e": [
 							"{@spell heal}",
 							"{@spell heroes' feast}",
-							"{@spell stoneskin}"
+							"{@spell piel pétrea}"
 						]
 					},
 					"ability": "wis",
@@ -4865,7 +4865,7 @@
 							"{@spell daylight}",
 							"{@spell faerie fire}",
 							"{@spell fear}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell plane shift}"
 						]
 					},
@@ -6590,7 +6590,7 @@
 							"{@spell detect magic}",
 							"{@spell mage armor}",
 							"{@spell magic missile}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell suggestion}"
 						],
 						"1e": [
@@ -9362,7 +9362,7 @@
 						"2e": [
 							"{@spell detect magic}",
 							"{@spell Tasha's hideous laughter}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell shield}",
 							"{@spell suggestion}"
 						],

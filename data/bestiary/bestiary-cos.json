@@ -256,7 +256,7 @@
 							"spells": [
 								"{@spell crown of madness}",
 								"{@spell enlarge/reduce}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -1868,7 +1868,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -3142,7 +3142,7 @@
 							"{@spell nondetection}"
 						],
 						"3": [
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell phantom steed}"
 						]
 					},
@@ -3688,7 +3688,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -3704,7 +3704,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell greater invisibility}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -4420,7 +4420,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell web}"
 							]
 						},
@@ -4437,7 +4437,7 @@
 							"spells": [
 								"{@spell Mordenkainen's faithful hound}",
 								"{@spell polymorph}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {

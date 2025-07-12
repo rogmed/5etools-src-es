@@ -9313,7 +9313,7 @@
 						"piercing",
 						"slashing"
 					],
-					"note": "from nonmagical attacks (from Stoneskin)",
+					"note": "from nonmagical attacks (from Piel pétrea)",
 					"cond": true
 				},
 				{
@@ -9352,7 +9352,7 @@
 						"1": [
 							"{@spell Cono de frío}",
 							"{@spell Foresight}",
-							"{@spell Stoneskin}",
+							"{@spell Piel pétrea}",
 							"{@spell Enlace telepático de Rary}",
 							"{@spell True Seeing}"
 						]

@@ -2709,7 +2709,7 @@
 							"spells": [
 								"{@spell darkness}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -4580,7 +4580,7 @@
 						"1e": [
 							"{@spell fear}",
 							"{@spell hold person}",
-							"{@spell misty step}"
+							"{@spell paso brumoso}"
 						]
 					},
 					"ability": "cha"
@@ -5872,7 +5872,7 @@
 							"spells": [
 								"{@spell ráfaga de viento}",
 								"{@spell invisibility}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell shatter}"
 							]
 						},
@@ -7066,7 +7066,7 @@
 					"daily": {
 						"1e": [
 							"{@spell counterspell}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell nube apestosa}"
 						]
 					},
@@ -10262,7 +10262,7 @@
 					"daily": {
 						"3e": [
 							"{@spell jump}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell nondetection} (self only)"
 						],
 						"1e": [
@@ -10458,7 +10458,7 @@
 						"3e": [
 							"{@spell blur}",
 							"{@spell jump}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell nondetection} (self only)"
 						],
 						"1e": [
@@ -10610,7 +10610,7 @@
 						"3e": [
 							"{@spell jump}",
 							"{@spell levitate} (self only)",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell nondetection} (self only)"
 						],
 						"1e": [
@@ -23982,7 +23982,7 @@
 							"{@spell dispel magic}",
 							"{@spell golpe apresador}",
 							"{@spell entangle}",
-							"{@spell plant growth}"
+							"{@spell crecimiento vegetal}"
 						],
 						"1e": [
 							"{@spell etherealness}",

@@ -1845,7 +1845,7 @@
 							"{@spell paso arbóreo}"
 						],
 						"1e": [
-							"{@spell comunión with nature} (as an action)",
+							"{@spell comunión con la naturaleza} (as an action)",
 							"{@spell mass cure wounds}"
 						]
 					},
@@ -19428,7 +19428,7 @@
 					],
 					"daily": {
 						"2": [
-							"{@spell plant growth}"
+							"{@spell crecimiento vegetal}"
 						],
 						"3e": [
 							"{@spell cure wounds}",
@@ -22367,7 +22367,7 @@
 						"The korred casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell comunión with nature} (as an action)",
+						"{@spell comunión con la naturaleza} (as an action)",
 						"{@spell meld into stone}",
 						"{@spell stone shape}"
 					],
@@ -41071,7 +41071,7 @@
 						"3e": [
 							"{@spell dispel magic}",
 							"{@spell entangle}",
-							"{@spell plant growth}"
+							"{@spell crecimiento vegetal}"
 						],
 						"1e": [
 							"{@spell etherealness}",

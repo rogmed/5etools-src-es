@@ -840,7 +840,7 @@
 				}
 			]
 		},
-		"Comunión with Nature": {
+		"Comunión con la naturaleza": {
 			"class": [
 				{
 					"name": "Druida",
@@ -3940,7 +3940,7 @@
 				}
 			]
 		},
-		"Plant Growth": {
+		"Crecimiento vegetal": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -4160,7 +4160,7 @@
 				}
 			]
 		},
-		"Protection from Energy": {
+		"Protección contra energía": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -4936,7 +4936,7 @@
 				}
 			]
 		},
-		"Stoneskin": {
+		"Piel pétrea": {
 			"class": [
 				{
 					"name": "Druida",

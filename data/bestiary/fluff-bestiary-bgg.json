@@ -1313,7 +1313,7 @@
 					"entries": [
 						"Grinning cats are mischievous Fey who delight in pestering and misleading travelers. They resemble oversized domestic cats with long, needlelike claws, but they're distinguished by the wide, toothy smiles that give them their name.",
 						"Grinning cats often dwell in or near giants' enclaves. They spend much of their time invisible, lounging on tree branches until prey\u2014or a potential conversation partner\u2014wanders by. While trading riddles or witticisms, a cat often decides to reveal its grin, its tail, or sometimes its whole head to confuse or intimidate the creature it's talking to.",
-						"A grinning cat can be persuaded to bestow one of its whiskers as a gift. A creature holding a whisker can use it to cast the misty step spell once, then the whisker turns to smoke and is destroyed. If a grinning cat is slain, {@dice 2d12} of its whiskers can be retrieved for this purpose.",
+						"A grinning cat can be persuaded to bestow one of its whiskers as a gift. A creature holding a whisker can use it to cast the paso brumoso spell once, then the whisker turns to smoke and is destroyed. If a grinning cat is slain, {@dice 2d12} of its whiskers can be retrieved for this purpose.",
 						{
 							"type": "quote",
 							"entries": [

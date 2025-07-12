@@ -3269,10 +3269,10 @@
 			]
 		},
 		{
-			"name": "Comunión with Nature",
-			"originalname": "",
+			"name": "Comunión con la naturaleza",
+			"originalname": "Comunión with Nature",
 			"source": "XPHB",
-			"page": 252,
+			"page": 258,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -3306,19 +3306,19 @@
 				"ritual": true
 			},
 			"entries": [
-				"You comunión with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in castles and settlements.",
-				"Choose three of the following facts; you learn those facts as they pertain to the spell's area:",
+				"Comulgas con espíritus de la naturaleza y obtienes información sobre la zona circundante. En exteriores, el conjuro te proporciona información de la zona a 3 millas (4,5 km) a tu alrededor. En cavernas y otros entornos naturales subterráneos, el radio se ve limitado a 300 pies (90 m). El conjuro no funciona en lugares en los que la naturaleza ha sido sustituida por construcciones, como castillos y asentamientos.",
+				"Elige tres de los siguientes hechos, que aprenderás según corresponda a la zona del conjuro:",
 				{
 					"type": "list",
 					"items": [
-						"Locations of settlements",
-						"Locations of portals to other planes of existence",
-						"Location of one {@variantrule Challenge Rating|XPHB} 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead",
-						"The most prevalent kind of plant, mineral, or Beast (you choose which to learn)",
-						"Locations of bodies of water"
+						"Ubicaciones de asentamientos.",
+						"Ubicaciones de portales a otros planos de existencia.",
+						"La ubicación de una criatura con un valor de desafío de 10 o más (a elección de tu DM) que sea celestial, elemental, feérico, infernal o muerto viviente.",
+						"El tipo de planta, mineral o bestia más frecuente (tú decides cuál).",
+						"Ubicaciones de masas de agua."
 					]
 				},
-				"For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns."
+				"Por ejemplo, podrías determinar el paradero de un monstruo poderoso en la zona y la ubicación de masas de agua y de cualquier pueblo cercano."
 			]
 		},
 		{
@@ -13992,7 +13992,7 @@
 				"Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square's elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete. Because the terrain's transformation occurs slowly, creatures in the area can't usually be trapped or injured by the ground's movement.",
 				"At the end of every 10 minutes you spend {@status Concentration|XPHB|Concentrating} on the spell, you can choose a new area of terrain to affect within range.",
 				"This spell can't manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse.",
-				"Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it."
+				"Similarly, this spell doesn't directly affect crecimiento vegetal. The moved earth carries any plants along with it."
 			],
 			"areaTags": [
 				"Q"
@@ -14696,10 +14696,10 @@
 			]
 		},
 		{
-			"name": "Plant Growth",
-			"originalname": "",
+			"name": "Crecimiento vegetal",
+			"originalname": "Plant Growth",
 			"source": "XPHB",
-			"page": 305,
+			"page": 266,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -14708,12 +14708,12 @@
 				{
 					"number": 1,
 					"unit": "acción",
-					"note": "Overgrowth"
+					"note": "sobrecrecimiento"
 				},
 				{
 					"number": 8,
 					"unit": "hora",
-					"note": "Enrichment"
+					"note": "fertilización"
 				}
 			],
 			"range": {
@@ -14733,19 +14733,19 @@
 				}
 			],
 			"entries": [
-				"This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below.",
+				"Este conjuro infunde vitalidad en las plantas. El tiempo de lanzamiento que uses determina si el conjuro tiene un efecto de sobrecrecimiento o de enriquecimiento, descritos a continuación.",
 				{
 					"type": "entries",
-					"name": "Overgrowth",
+					"name": "Sobrecrecimiento",
 					"entries": [
-						"Choose a point within range. All normal plants in a 100-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on that point become thick and overgrown. A creature moving through that area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected."
+						"Elige un punto dentro del alcance. Todas las plantas en una esfera de 100 pies (30 m) de radio centrada en ese punto se volverán gruesas y frondosas. Una criatura que atraviese esa área deberá gastar 4 m de movimiento por cada metro que se mueva. Puedes excluir una o más zonas de cualquier tamaño dentro del área del conjuro para que no se vean afectadas."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Enrichment",
+					"name": "Fertilización",
 					"entries": [
-						"All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year."
+						"Todas las plantas en un radio de media milla (750 m) centrado en un punto dentro del alcance estarán fertilizadas durante 365 días y producirán el doble de comida al recolectarlas. Solo podrán beneficiarse de un {@i crecimiento vegetal} cada año."
 					]
 				}
 			],
@@ -15560,10 +15560,10 @@
 			]
 		},
 		{
-			"name": "Protection from Energy",
-			"originalname": "",
+			"name": "Protección contra energía",
+			"originalname": "Protection from Energy",
 			"source": "XPHB",
-			"page": 309,
+			"page": 322,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -15595,7 +15595,7 @@
 				}
 			],
 			"entries": [
-				"For the duration, the willing creature you touch has {@variantrule Resistance|XPHB} to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder."
+				"Hasta que termine el conjuro, una criatura voluntaria a la que toques tendrá resistencia a un tipo de daño de tu elección: ácido, frío, fuego, relámpago o trueno."
 			],
 			"damageResist": [
 				"acid",
@@ -17918,7 +17918,7 @@
 			],
 			"entries": [
 				"You imbue plants in an immobile 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.",
-				"You can also turn {@variantrule Terreno difícil|XPHB} caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into {@variantrule Terreno difícil|XPHB} that lasts for the duration.",
+				"You can also turn {@variantrule Terreno difícil|XPHB} caused by crecimiento vegetal (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into {@variantrule Terreno difícil|XPHB} that lasts for the duration.",
 				"The spell doesn't enable plants to uproot themselves and move about, but they can move their branches, tendrils, and stalks for you.",
 				"If a Plant creature is in the area, you can communicate with it as if you shared a common language."
 			],
@@ -18419,10 +18419,10 @@
 			]
 		},
 		{
-			"name": "Stoneskin",
-			"originalname": "",
+			"name": "Piel pétrea",
+			"originalname": "Stoneskin",
 			"source": "XPHB",
-			"page": 321,
+			"page": 319,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -18443,7 +18443,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "diamond dust worth 100+ GP, which the spell consumes",
+					"text": "polvo de diamante que valga al menos 100 po y que se consume como parte del conjuro",
 					"cost": 10000,
 					"consume": true
 				}
@@ -18459,7 +18459,7 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, one willing creature you touch has {@variantrule Resistance|XPHB} to Bludgeoning, Piercing, and Slashing damage."
+				"Hasta que el conjuro termine, una criatura voluntaria a la que toques tiene resistencia al daño contundente, cortante y perforante."
 			],
 			"damageResist": [
 				"bludgeoning",

@@ -6633,7 +6633,7 @@
 											"items": [
 												"{@class Paladín|XPHB|Oath of Devotion|Devotion|XPHB} to emulate the angels of justice.",
 												"{@class Paladín|XPHB|Oath of Glory|Glory|XPHB} to reach the heights of heroism.",
-												"{@class Paladín|XPHB|Oath of the Ancients|Ancients|XPHB} to preserve life, joy, and nature.",
+												"{@class Paladín|XPHB|Juramento de los antiguos|Antiguos|XPHB} to preserve life, joy, and nature.",
 												"{@class Paladín|XPHB|Oath of Vengeance|Vengeance|XPHB} to hunt down evildoers."
 											]
 										}
@@ -12691,7 +12691,7 @@
 								"{@spell Color Spray|XPHB}",
 								"{@spell Orden imperiosa|XPHB}",
 								"{@spell Comunión|XPHB}",
-								"{@spell Comunión with Nature|XPHB}",
+								"{@spell Comunión con la naturaleza|XPHB}",
 								"{@spell Compelled Duel|XPHB}",
 								"{@spell Comprehend Languages|XPHB}",
 								"{@spell Compulsion|XPHB}",
@@ -12986,7 +12986,7 @@
 								"{@spell Planar Ally|XPHB}",
 								"{@spell Planar Binding|XPHB}",
 								"{@spell Plane Shift|XPHB}",
-								"{@spell Plant Growth|XPHB}",
+								"{@spell Crecimiento vegetal|XPHB}",
 								"{@spell Rociada venenosa|XPHB}",
 								"{@spell Polimorfar|XPHB}",
 								"{@spell Power Word Fortify|XPHB}",
@@ -13000,7 +13000,7 @@
 								"{@spell Crear llama|XPHB}",
 								"{@spell Programmed Illusion|XPHB}",
 								"{@spell Project Image|XPHB}",
-								"{@spell Protection from Energy|XPHB}",
+								"{@spell Protección contra energía|XPHB}",
 								"{@spell Protección contra el bien y el mal|XPHB}",
 								"{@spell Protection from Poison|XPHB}",
 								"{@spell Purificar comida y bebida|XPHB}"
@@ -13067,7 +13067,7 @@
 								"{@spell Golpe de viento acerado|XPHB}",
 								"{@spell Nube apestosa|XPHB}",
 								"{@spell Stone Shape|XPHB}",
-								"{@spell Stoneskin|XPHB}",
+								"{@spell Piel pétrea|XPHB}",
 								"{@spell Storm of Vengeance|XPHB}",
 								"{@spell Sugestión|XPHB}",
 								"{@spell Invocar aberración|XPHB}",

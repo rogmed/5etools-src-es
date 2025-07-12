@@ -647,7 +647,7 @@
 						],
 						"5": [
 							"dispel magic|xphb",
-							"protection from energy|xphb"
+							"protección contra energía|xphb"
 						],
 						"7": [
 							"freedom of movement|xphb",
@@ -1412,7 +1412,7 @@
 						],
 						[
 							"5",
-							"{@spell Disipar magia|XPHB}, {@spell Protection From Energy|XPHB}"
+							"{@spell Disipar magia|XPHB}, {@spell protección contra energía|XPHB}"
 						],
 						[
 							"7",

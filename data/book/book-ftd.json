@@ -3572,7 +3572,7 @@
 									"page": 64,
 									"id": "101",
 									"entries": [
-										"Plant growth creates {@book terreno difícil|PHB|8|Difficult Terrain}, sinkholes appear, and hedge mazes or icy walls limit movement. Additional regional effects in this category include the following examples:",
+										"crecimiento vegetal creates {@book terreno difícil|PHB|8|Difficult Terrain}, sinkholes appear, and hedge mazes or icy walls limit movement. Additional regional effects in this category include the following examples:",
 										"{@b Exposing Terrain}. The terrain within 6 miles of the lair actively works to foil stealth, giving creatures other than the dragon disadvantage on Dexterity ({@skill Stealth}) checks. Leaves change color to contrast with those trying to hide among them, branches move to reveal creatures, fog clears, and so on.",
 										"{@b Smooth Roads}. Difficult terrain within 12 miles of the dragon's lair is not considered difficult, as undergrowth moves out of a traveler's way, slopes are not as steep as they first appeared, and rough ground levels out under a traveler's feet.",
 										"{@b Wilderness Hazards}. Any of the {@book wilderness hazards|DMG|5|Wilderness Hazards} described in the {@book Dungeon Master's Guide|DMG} might manifest near the dragon's lair."
@@ -3845,7 +3845,7 @@
 										"{@b Dragon Dreams}. Creatures sleeping near the treasure dream of the dragon.",
 										"{@b Personality Shift}. Characters wielding items from the hoard develop personality traits evocative of the dragon's traits.",
 										"{@b Seek Return}. Sentient items from the hoard want to return to the dragon's lair and cause characters to accidentally stray in that direction.",
-										"{@b Verdant Influence}. If coins from the hoard are placed in soil, they encourage lush plant growth."
+										"{@b Verdant Influence}. If coins from the hoard are placed in soil, they encourage lush crecimiento vegetal."
 									]
 								},
 								{
@@ -5294,12 +5294,12 @@
 										[
 											"{@creature Adult Black Dragon||Adult}",
 											"16",
-											"{@spell blindness/deafness}, {@spell create or destroy water}, {@spell plant growth}"
+											"{@spell blindness/deafness}, {@spell create or destroy water}, {@spell crecimiento vegetal}"
 										],
 										[
 											"{@creature Ancient Black Dragon||Ancient}",
 											"19",
-											"{@spell blindness/deafness}, {@spell create or destroy water}, {@spell plaga de insectos}, {@spell plant growth}"
+											"{@spell blindness/deafness}, {@spell create or destroy water}, {@spell plaga de insectos}, {@spell crecimiento vegetal}"
 										]
 									]
 								}
@@ -11249,12 +11249,12 @@
 										[
 											"{@creature Adult Green Dragon||Adult}",
 											"16",
-											"{@spell invisibility}, {@spell plant growth}, {@spell speak with animals}"
+											"{@spell invisibility}, {@spell crecimiento vegetal}, {@spell speak with animals}"
 										],
 										[
 											"{@creature Ancient Green Dragon||Ancient}",
 											"19",
-											"{@spell invisibility}, {@spell mass suggestion}, {@spell plant growth}, {@spell speak with animals}"
+											"{@spell invisibility}, {@spell mass suggestion}, {@spell crecimiento vegetal}, {@spell speak with animals}"
 										]
 									]
 								}
@@ -13185,7 +13185,7 @@
 							"id": "1db",
 							"entries": [
 								"Use the Shadow Dragon Personality Traits and Shadow Dragon Ideals tables to inspire your portrayal of distinctive shadow dragon characters.",
-								"If you use the variant rule in the {@book Monster Manual|MM} for making a dragon a spellcaster, shadow dragons typically have the spellcasting ability of their original forms. Over time, some shadow dragons might replace one or more of their innate spells with spells more appropriate to their tenebrous nature, such as {@spell darkness}, {@spell fog cloud}, {@spell misty step}, or {@spell nondetection}.",
+								"If you use the variant rule in the {@book Monster Manual|MM} for making a dragon a spellcaster, shadow dragons typically have the spellcasting ability of their original forms. Over time, some shadow dragons might replace one or more of their innate spells with spells more appropriate to their tenebrous nature, such as {@spell darkness}, {@spell fog cloud}, {@spell paso brumoso}, or {@spell nondetection}.",
 								{
 									"type": "table",
 									"caption": "Shadow Dragon Personality Traits",

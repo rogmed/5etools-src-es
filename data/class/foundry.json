@@ -9988,7 +9988,7 @@
 			"source": "PHB",
 			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "PHB",
 			"level": 3,
 			"system": {
@@ -10013,7 +10013,7 @@
 			"source": "PHB",
 			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "PHB",
 			"level": 3,
 			"activities": [
@@ -17341,7 +17341,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -17410,7 +17410,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"activities": [
@@ -17466,7 +17466,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"activities": [
@@ -17507,7 +17507,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"activities": [
@@ -20870,7 +20870,7 @@
 						"max": "max(1,@abilities.cha.mod)"
 					},
 					"spell": {
-						"uuid": "@spell[misty step|xphb]",
+						"uuid": "@spell[paso brumoso|xphb]",
 						"level": 2,
 						"properties": [
 							"vocal",
@@ -20966,7 +20966,7 @@
 						"condition": "After taking damage"
 					},
 					"spell": {
-						"uuid": "@spell[misty step|xphb]",
+						"uuid": "@spell[paso brumoso|xphb]",
 						"level": 2,
 						"properties": [
 							"vocal",

@@ -1989,7 +1989,7 @@
 						"slashing"
 					],
 					"preNote": "nonmagical",
-					"note": "(from stoneskin)",
+					"note": "(from piel pétrea)",
 					"cond": true
 				}
 			],
@@ -2050,7 +2050,7 @@
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell comunión with nature}",
+								"{@spell comunión con la naturaleza}",
 								"{@spell cono de frío}",
 								"{@spell greater restoration}"
 							]
@@ -3493,7 +3493,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell freedom of movement}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -4406,7 +4406,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell invisibility}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell web}"
 							]
 						},
@@ -4957,7 +4957,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell see invisibility}"
 							]
 						},
@@ -6177,7 +6177,7 @@
 							"{@spell conjurar animales} (giant rats only)",
 							"{@spell faerie fire}",
 							"{@spell invisibility}",
-							"{@spell misty step}"
+							"{@spell paso brumoso}"
 						]
 					},
 					"ability": "cha"

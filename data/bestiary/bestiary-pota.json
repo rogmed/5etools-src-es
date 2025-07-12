@@ -340,7 +340,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell scorching ray}"
 							]
 						},
@@ -3453,7 +3453,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -3770,7 +3770,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell polymorph}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -4448,7 +4448,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -4601,7 +4601,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell crown of madness}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -5179,7 +5179,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell hold person}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -5489,7 +5489,7 @@
 						"4": {
 							"slots": 1,
 							"spells": [
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						}
 					},
@@ -5628,7 +5628,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell levitate}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -5819,7 +5819,7 @@
 							"spells": [
 								"{@spell darkness}",
 								"{@spell detect thoughts}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell scorching ray}"
 							]
 						},

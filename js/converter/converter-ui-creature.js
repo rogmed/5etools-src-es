@@ -71,7 +71,7 @@ At will: charm person, detect magic, dispel magic, fabricate (Mammon can create 
 Spellcasting. Mammon is a 6th level spellcaster. His spellcasting ability is Intelligence (spell save DC 13; +5 to hit with spell attacks). He has the following wizard spells prepared:
 Cantrips (at will): fire bolt, light, mano de mago, prestidigitación
 1st level (4 slots): mage armor, magic missile, shield
-2nd level (3 slots): misty step, suggestion
+2nd level (3 slots): paso brumoso, suggestion
 3rd level (3 slots): fly, relámpago
 Legendary Resistance (3/day). If Mammon fails a saving throw, he can choose to succeed instead.
 Magic Resistance. Mammon has advantage on saving throws against spells and other magical effects.

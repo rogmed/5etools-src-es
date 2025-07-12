@@ -262,7 +262,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell confusion}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -2389,7 +2389,7 @@
 						"3": {
 							"slots": 2,
 							"spells": [
-								"{@spell protection from energy}",
+								"{@spell protección contra energía}",
 								"{@spell remove curse}",
 								"{@spell sending}"
 							]
@@ -2755,7 +2755,7 @@
 								"{@spell banishment}",
 								"{@spell freedom of movement}",
 								"{@spell guardián de la fe}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -3443,7 +3443,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -3933,7 +3933,7 @@
 							"spells": [
 								"{@spell detect thoughts}",
 								"{@spell invisibility}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -4364,7 +4364,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -4631,7 +4631,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -4813,7 +4813,7 @@
 							"spells": [
 								"{@spell detect thoughts}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -5029,7 +5029,7 @@
 							"spells": [
 								"{@spell detect thoughts}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -6525,7 +6525,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -6569,7 +6569,7 @@
 				{
 					"name": "Arcane Ward",
 					"entries": [
-						"Remallia has a magical ward that has 30 hit points. Whenever she takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, Remallia takes any remaining damage. When Remallia casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. This applies to any of the following spells she casts: {@spell alarm}, {@spell mage armor}, {@spell shield}, {@spell arcane lock}, {@spell counterspell}, {@spell dispel magic}, {@spell banishment}, {@spell stoneskin}, {@spell globe of invulnerability} and {@spell symbol}."
+						"Remallia has a magical ward that has 30 hit points. Whenever she takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, Remallia takes any remaining damage. When Remallia casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. This applies to any of the following spells she casts: {@spell alarm}, {@spell mage armor}, {@spell shield}, {@spell arcane lock}, {@spell counterspell}, {@spell dispel magic}, {@spell banishment}, {@spell piel pétrea}, {@spell globe of invulnerability} and {@spell symbol}."
 					]
 				}
 			],
@@ -6826,7 +6826,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -7288,7 +7288,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -8613,7 +8613,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell invisibility}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell web}"
 							]
 						},
@@ -8630,7 +8630,7 @@
 							"spells": [
 								"{@spell banishment}",
 								"{@spell fire shield}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -9004,7 +9004,7 @@
 								"{@spell clairvoyance}",
 								"{@spell dispel magic}",
 								"{@spell magic circle}",
-								"{@spell protection from energy}"
+								"{@spell protección contra energía}"
 							]
 						},
 						"4": {

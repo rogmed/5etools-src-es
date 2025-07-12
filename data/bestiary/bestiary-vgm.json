@@ -108,7 +108,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}*",
-								"{@spell stoneskin}*"
+								"{@spell piel pétrea}*"
 							]
 						},
 						"5": {
@@ -733,7 +733,7 @@
 									"slots": 3,
 									"spells": [
 										"{@spell call lightning}",
-										"{@spell plant growth}"
+										"{@spell crecimiento vegetal}"
 									]
 								},
 								"4": {
@@ -1034,7 +1034,7 @@
 										"slots": 3,
 										"spells": [
 											"{@spell call lightning}",
-											"{@spell plant growth}"
+											"{@spell crecimiento vegetal}"
 										]
 									},
 									"4": {
@@ -1379,14 +1379,14 @@
 							"spells": [
 								"{@spell dominate beast}",
 								"{@spell locate creature}",
-								"{@spell stoneskin}",
+								"{@spell piel pétrea}",
 								"{@spell wall of fire}"
 							]
 						},
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell comunión with nature}",
+								"{@spell comunión con la naturaleza}",
 								"{@spell mass cure wounds}",
 								"{@spell paso arbóreo}"
 							]
@@ -2628,7 +2628,7 @@
 									"slots": 3,
 									"spells": [
 										"{@spell call lightning}",
-										"{@spell plant growth}"
+										"{@spell crecimiento vegetal}"
 									]
 								},
 								"4": {
@@ -2934,7 +2934,7 @@
 										"slots": 3,
 										"spells": [
 											"{@spell call lightning}",
-											"{@spell plant growth}"
+											"{@spell crecimiento vegetal}"
 										]
 									},
 									"4": {
@@ -4738,7 +4738,7 @@
 						"3e": [
 							"{@spell feather fall}",
 							"{@spell fly}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell telekinesis}"
 						],
 						"1e": [
@@ -4954,7 +4954,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell nube de dagas}*",
-								"{@spell misty step}*",
+								"{@spell paso brumoso}*",
 								"{@spell web}*"
 							]
 						},
@@ -4969,7 +4969,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell Evard's black tentacles}*",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -6226,7 +6226,7 @@
 							"spells": [
 								"{@spell arcane eye}*",
 								"{@spell tormenta de hielo}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -6882,7 +6882,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dominate beast}*",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -7047,7 +7047,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell shatter}*"
 							]
 						},
@@ -7063,7 +7063,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell tormenta de hielo}*",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -9849,7 +9849,7 @@
 						"3": {
 							"slots": 2,
 							"spells": [
-								"{@spell plant growth}"
+								"{@spell crecimiento vegetal}"
 							]
 						}
 					},
@@ -11881,7 +11881,7 @@
 						"The korred's innate spellcasting ability is Wisdom (save {@dc 13}). It can innately cast the following spells, requiring no components:"
 					],
 					"will": [
-						"{@spell comunión with nature}",
+						"{@spell comunión con la naturaleza}",
 						"{@spell meld into stone}",
 						"{@spell stone shape}"
 					],
@@ -13675,7 +13675,7 @@
 							"spells": [
 								"{@spell blight}*",
 								"{@spell dimension door}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -17859,7 +17859,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell polymorph}*",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -18824,7 +18824,7 @@
 								"{@spell banishment}",
 								"{@spell freedom of movement}",
 								"{@spell guardián de la fe}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -19009,7 +19009,7 @@
 								"{@spell faerie fire}",
 								"{@spell fear}",
 								"{@spell hold monster}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell phantasmal force}",
 								"{@spell seeming}",
 								"{@spell sleep}"
@@ -21830,7 +21830,7 @@
 								"{@spell counterspell}",
 								"{@spell hellish rebuke}",
 								"{@spell invisibility}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell unseen servant}",
 								"{@spell vampiric touch}"
 							]

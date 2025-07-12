@@ -1371,7 +1371,7 @@
 								"{@spell dissonant whispers}",
 								"{@spell fly}",
 								"{@spell hex}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell sending}",
 								"{@spell shatter}"
 							]
@@ -2017,7 +2017,7 @@
 								"{@spell death ward}",
 								"{@spell freedom of movement}",
 								"{@spell locate creature}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -3228,7 +3228,7 @@
 							"spells": [
 								"{@spell call lightning}",
 								"{@spell dispel magic}",
-								"{@spell plant growth}"
+								"{@spell crecimiento vegetal}"
 							]
 						},
 						"4": {

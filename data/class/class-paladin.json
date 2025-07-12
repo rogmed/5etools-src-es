@@ -512,7 +512,7 @@
 						],
 						"9": [
 							"haste|xphb",
-							"protection from energy|xphb"
+							"protección contra energía|xphb"
 						],
 						"13": [
 							"compulsion|xphb",
@@ -534,12 +534,12 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Oath of the Ancients",
-			"shortName": "Ancients",
+			"name": "Juramento de los antiguos",
+			"shortName": "Antiguos",
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"page": 115,
+			"page": 163,
 			"edition": "one",
 			"additionalSpells": [
 				{
@@ -549,29 +549,29 @@
 							"hablar con los animales|xphb"
 						],
 						"5": [
-							"misty step|xphb",
+							"paso brumoso|xphb",
 							"rayo de luna|xphb"
 						],
 						"9": [
-							"plant growth|xphb",
-							"protection from energy|xphb"
+							"crecimiento vegetal|xphb",
+							"protección contra energía|xphb"
 						],
 						"13": [
 							"tormenta de hielo|xphb",
-							"stoneskin|xphb"
+							"piel pétrea|xphb"
 						],
 						"17": [
-							"comunión with nature|xphb",
+							"comunión con la naturaleza|xphb",
 							"paso arbóreo|xphb"
 						]
 					}
 				}
 			],
 			"subclassFeatures": [
-				"Oath of the Ancients|Paladín|XPHB|Ancients|XPHB|3",
-				"Aura of Warding|Paladín|XPHB|Ancients|XPHB|7",
-				"Undying Sentinel|Paladín|XPHB|Ancients|XPHB|15",
-				"Elder Champion|Paladín|XPHB|Ancients|XPHB|20"
+				"Juramento de los antiguos|Paladín|XPHB|Antiguos|XPHB|3",
+				"Aura de salvaguarda|Paladín|XPHB|Antiguos|XPHB|7",
+				"Centinela imperecedero|Paladín|XPHB|Antiguos|XPHB|15",
+				"Campeón ancestral|Paladín|XPHB|Antiguos|XPHB|20"
 			],
 			"hasFluffImages": true
 		},
@@ -581,7 +581,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"page": 116,
+			"page": 164,
 			"edition": "one",
 			"additionalSpells": [
 				{
@@ -592,11 +592,11 @@
 						],
 						"5": [
 							"hold person|xphb",
-							"misty step|xphb"
+							"paso brumoso|xphb"
 						],
 						"9": [
 							"haste|xphb",
-							"protection from energy|xphb"
+							"protección contra energía|xphb"
 						],
 						"13": [
 							"banishment|xphb",
@@ -1017,66 +1017,50 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Nature's Wrath",
+			"name": "Juramento de los antiguos",
 			"source": "XPHB",
-			"page": 115,
+			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
-			"subclassSource": "XPHB",
-			"level": 3,
-			"consumes": {
-				"name": "Canalizar divinidad"
-			},
-			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend one use of your Canalizar divinidad to conjure spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of yourself must succeed on a Strength saving throw or have the {@condition Apresado|XPHB} condition for 1 minute. A {@condition Apresado|XPHB} creature repeats the save at the end of each of its turns, ending the effect on itself on a success."
-			]
-		},
-		{
-			"name": "Oath of the Ancients",
-			"source": "XPHB",
-			"page": 115,
-			"className": "Paladín",
-			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Preserve Life and Light in the World}",
-				"The Oath of the Ancients is as old as the first elves. Paladins who swear this oath cherish the light; they love the beautiful and life-giving things of the world more than any principles of honor, courage, and justice. They often adorn their armor and clothing with images of growing things\u2014leaves, antlers, or flowers\u2014to reflect their commitment to preserving life and light.",
-				"These paladins share the following tenets:",
+				"{@i Preserva la vida y la luz en el mundo}",
+				"El juramento de los antiguos es tan arcaico como los primeros elfos. Los paladines que pronuncian este juramento valoran la luz y aman las cosas bellas y revitalizantes del mundo más que cualquier principio de honor, valentía y justicia. A menudo adornan su armadura y sus prendas con imágenes que representan seres capaces de crecer, como hojas, astas o flores, para así reflejar su compromiso con el cuidado de la vida y la luz.",
+				"Estos paladines comparten los siguientes principios:",
 				{
 					"type": "list",
 					"items": [
-						"Kindle the light of hope.",
-						"Shelter life.",
-						"Delight in art and laughter."
+						"Prende la luz de la esperanza.",
+						"Cobija la vida.",
+						"Deléitate con el arte y la risa."
 					]
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Oath of the Ancients Spells|Paladín|XPHB|Ancients|XPHB|3"
+					"subclassFeature": "Conjuros del juramento de los antiguos|Paladín|XPHB|Antiguos|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Nature's Wrath|Paladín|XPHB|Ancients|XPHB|3"
+					"subclassFeature": "Ira de la naturaleza|Paladín|XPHB|Antiguos|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Oath of the Ancients Spells",
+			"name": "Conjuros del juramento de los antiguos",
 			"source": "XPHB",
-			"page": 115,
+			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of the Ancients Spells table, you thereafter always have the listed spells prepared.",
+				"The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Conjuros del juramento de los antiguos table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
-					"caption": "Oath of the Ancients Spells",
+					"caption": "Conjuros del juramento de los antiguos",
 					"colLabels": [
 						"Nivel de paladín",
 						"Conjuros"
@@ -1087,89 +1071,105 @@
 					],
 					"rows": [
 						[
-							"3rd",
+							"3",
 							"{@spell Golpe apresador|XPHB}, {@spell Hablar con los animales|XPHB}"
 						],
 						[
-							"5th",
+							"5",
 							"{@spell Paso brumoso|XPHB}, {@spell Rayo de luna|XPHB}"
 						],
 						[
-							"9th",
-							"{@spell Plant Growth|XPHB}, {@spell Protection from Energy|XPHB}"
+							"9",
+							"{@spell Crecimiento vegetal|XPHB}, {@spell Protección contra energía|XPHB}"
 						],
 						[
-							"13th",
-							"{@spell Tormenta de hielo|XPHB}, {@spell Stoneskin|XPHB}"
+							"13",
+							"{@spell Tormenta de hielo|XPHB}, {@spell Piel pétrea|XPHB}"
 						],
 						[
-							"17th",
-							"{@spell Comunión with Nature|XPHB}, {@spell Paso arbóreo|XPHB}"
+							"17",
+							"{@spell Comunión con la naturaleza|XPHB}, {@spell Paso arbóreo|XPHB}"
 						]
 					]
 				}
 			]
 		},
 		{
-			"name": "Aura of Warding",
+			"name": "Ira de la naturaleza",
 			"source": "XPHB",
-			"page": 116,
+			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
+			"subclassSource": "XPHB",
+			"level": 3,
+			"consumes": {
+				"name": "Canalizar divinidad"
+			},
+			"entries": [
+				"Como acción de magia, puedes gastar uno de los usos de Canalizar divinidad para invocar enredaderas espectrales alrededor de las criaturas cercanas. Todas las criaturas de tu elección que puedas ver a 15 pies (4,5 m) o menos de ti deberán superar una tirada de salvación de Fuerza o tendrán el estado de {@condition Apresado|XPHB|apresadas} durante 1 minuto. Una criatura apresada repetirá la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto."
+			]
+		},
+		{
+			"name": "Aura de salvaguarda",
+			"source": "XPHB",
+			"page": 164,
+			"className": "Paladín",
+			"classSource": "XPHB",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have {@variantrule Resistance|XPHB} to Necrotic, Psychic, and Radiant damage while in your Aura de protección."
+				"La magia ancestral recae sobre ti con tanta fuerza que forma una protección sobrenatural con energía de más allá del Plano Material. Tus aliados y tú tenéis resistencia al daño necrótico, psíquico y radiante mientras estéis dentro de tu Aura de protección."
 			]
 		},
 		{
-			"name": "Undying Sentinel",
+			"name": "Centinela imperecedero",
 			"source": "XPHB",
-			"page": 116,
+			"page": 164,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When you are reduced to 0 {@variantrule Hit Points|XPHB} and not killed outright, you can drop to 1 {@variantrule Hit Points|XPHB|Hit Point} instead, and you regain a number of {@variantrule Hit Points|XPHB} equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a {@variantrule Descanso largo|XPHB}.",
-				"Additionally, you can't be aged magically, and you cease visibly aging."
+				"Cuando tus puntos de golpe se reducen a 0 pero no mueres inmediatamente, puedes quedarte con 1 punto de golpe y recuperas una cantidad de ellos igual a tres veces tu nivel de paladín. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un {@variantrule descanso largo|XPHB}.",
+				"Además, no podrás envejecer por medios mágicos y dejarás de hacerlo de forma visible."
 			]
 		},
 		{
-			"name": "Elder Champion",
+			"name": "Campeón ancestral",
 			"source": "XPHB",
-			"page": 116,
+			"page": 164,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can imbue your Aura de protección with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+				"Como acción adicional, puedes imbuir tu Aura de protección de un poder primordial, lo que otorga los beneficios indicados a continuación durante 1 minuto o hasta que les pongas fin (no requiere acción). Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un {@variantrule descanso largo|XPHB}. También puedes restablecer su uso gastando un espacio de conjuro de nivel 5 (no requiere acción).",
 				{
 					"type": "entries",
-					"name": "Diminish Defiance",
+					"name": "Conjuros veloces",
 					"entries": [
-						"Enemies in the aura have {@variantrule Disadvantage|XPHB} on saving throws against your spells and Canalizar divinidad options."
+						"Siempre que lances un conjuro que tenga un tiempo de lanzamiento de una acción, puedes lanzarlo usando una acción adicional en su lugar."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Regeneration",
+					"name": "Mermar la oposición",
 					"entries": [
-						"At the start of each of your turns, you regain 10 {@variantrule Hit Points|XPHB}."
+						"Los enemigos dentro del aura tendrán desventaja en las tiradas de salvación contra tus conjuros y opciones de Canalizar divinidad."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Swift Spells",
+					"name": "Regeneración",
 					"entries": [
-						"Whenever you cast a spell that has a casting time of an action, you can cast it using a {@variantrule Acción adicional|XPHB} instead."
+						"Al principio de cada uno de tus turnos, recuperas 10 puntos de golpe."
 					]
 				}
 			]
@@ -1349,7 +1349,7 @@
 		{
 			"name": "Inspiring Smite",
 			"source": "XPHB",
-			"page": 115,
+			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
@@ -1400,7 +1400,7 @@
 		{
 			"name": "Oath of Glory Spells",
 			"source": "XPHB",
-			"page": 115,
+			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
@@ -1430,7 +1430,7 @@
 						],
 						[
 							"9",
-							"{@spell Haste|XPHB}, {@spell Protection from Energy|XPHB}"
+							"{@spell Haste|XPHB}, {@spell Protección contra energía|XPHB}"
 						],
 						[
 							"13",
@@ -1447,7 +1447,7 @@
 		{
 			"name": "Peerless Athlete",
 			"source": "XPHB",
-			"page": 115,
+			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
@@ -1463,7 +1463,7 @@
 		{
 			"name": "Aura of Alacrity",
 			"source": "XPHB",
-			"page": 115,
+			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
@@ -1478,7 +1478,7 @@
 		{
 			"name": "Glorious Defense",
 			"source": "XPHB",
-			"page": 115,
+			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
@@ -1493,7 +1493,7 @@
 		{
 			"name": "Living Legend",
 			"source": "XPHB",
-			"page": 115,
+			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Glory",
@@ -1528,7 +1528,7 @@
 		{
 			"name": "Oath of Vengeance",
 			"source": "XPHB",
-			"page": 116,
+			"page": 164,
 			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Vengeance",
@@ -1559,7 +1559,7 @@
 		{
 			"name": "Oath of Vengeance Spells",
 			"source": "XPHB",
-			"page": 116,
+			"page": 164,
 			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Vengeance",
@@ -1580,23 +1580,23 @@
 					],
 					"rows": [
 						[
-							"3rd",
+							"3",
 							"{@spell Perdición|XPHB}, {@spell Marca del cazador|XPHB}"
 						],
 						[
-							"5th",
+							"5",
 							"{@spell Inmovilizar persona|XPHB}, {@spell Paso brumoso|XPHB}"
 						],
 						[
-							"9th",
-							"{@spell Haste|XPHB}, {@spell Protection from Energy|XPHB}"
+							"9",
+							"{@spell Haste|XPHB}, {@spell Protección contra energía|XPHB}"
 						],
 						[
-							"13th",
+							"13",
 							"{@spell Banishment|XPHB}, {@spell Puerta dimensional|XPHB}"
 						],
 						[
-							"17th",
+							"17",
 							"{@spell Inmovilizar monstruo|XPHB}, {@spell Escudriñar|XPHB}"
 						]
 					]

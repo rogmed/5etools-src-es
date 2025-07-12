@@ -1180,7 +1180,7 @@
 						],
 						[
 							"{@class Druid}",
-							"A priest of the Old Faith, wielding the powers of nature\u2014moonlight and plant growth, fire and lightning\u2014and adapting animal forms",
+							"A priest of the Old Faith, wielding the powers of nature\u2014moonlight and crecimiento vegetal, fire and lightning\u2014and adapting animal forms",
 							"d8",
 							"Wisdom",
 							"Intelligence & Wisdom",
@@ -9613,7 +9613,7 @@
 								"{@spell Leomund's Tiny Hut}",
 								"{@spell Major Image}",
 								"{@spell Nondetection}",
-								"{@spell Plant Growth}",
+								"{@spell Crecimiento vegetal}",
 								"{@spell Sending}",
 								"{@spell Speak with Dead}",
 								"{@spell Speak with Plants}",
@@ -9807,7 +9807,7 @@
 								"{@spell Magic Circle}",
 								"{@spell Palabra de curación en masa}",
 								"{@spell Meld into Stone}",
-								"{@spell Protection from Energy}",
+								"{@spell Protección contra energía}",
 								"{@spell Remove Curse}",
 								"{@spell Revivir}",
 								"{@spell Sending}",
@@ -9997,8 +9997,8 @@
 								"{@spell Disipar magia}",
 								"{@spell Feign Death}",
 								"{@spell Meld into Stone}",
-								"{@spell Plant Growth}",
-								"{@spell Protection from Energy}",
+								"{@spell Crecimiento vegetal}",
+								"{@spell Protección contra energía}",
 								"{@spell Tormenta de aguanieve}",
 								"{@spell Speak with Plants}",
 								"{@spell Respirar bajo el agua}",
@@ -10026,7 +10026,7 @@
 								"{@spell Locate Creature}",
 								"{@spell Polymorph}",
 								"{@spell Stone Shape}",
-								"{@spell Stoneskin}",
+								"{@spell Piel pétrea}",
 								"{@spell Muro de Fuego}"
 							]
 						},
@@ -10038,7 +10038,7 @@
 							"items": [
 								"{@spell Antilife Shell}",
 								"{@spell Awaken}",
-								"{@spell Comunión with Nature}",
+								"{@spell Comunión con la naturaleza}",
 								"{@spell Conjurar elemental}",
 								"{@spell Contagion}",
 								"{@spell Geas}",
@@ -10261,8 +10261,8 @@
 								"{@spell Luz del día}",
 								"{@spell Lightning Arrow}",
 								"{@spell Nondetection}",
-								"{@spell Plant Growth}",
-								"{@spell Protection from Energy}",
+								"{@spell Crecimiento vegetal}",
+								"{@spell Protección contra energía}",
 								"{@spell Speak with Plants}",
 								"{@spell Respirar bajo el agua}",
 								"{@spell Water Walk}",
@@ -10279,7 +10279,7 @@
 								"{@spell Libertad de movimiento}",
 								"{@spell Grasping Vine}",
 								"{@spell Locate Creature}",
-								"{@spell Stoneskin}"
+								"{@spell Piel pétrea}"
 							]
 						},
 						{
@@ -10288,7 +10288,7 @@
 							"name": "5th Level",
 							"columns": 4,
 							"items": [
-								"{@spell Comunión with Nature}",
+								"{@spell Comunión con la naturaleza}",
 								"{@spell Conjure Volley}",
 								"{@spell Swift Quiver}",
 								"{@spell Paso arbóreo}"
@@ -10404,7 +10404,7 @@
 								"{@spell Hypnotic Pattern}",
 								"{@spell Relámpago}",
 								"{@spell Major Image}",
-								"{@spell Protection from Energy}",
+								"{@spell Protección contra energía}",
 								"{@spell Tormenta de aguanieve}",
 								"{@spell Slow}",
 								"{@spell Nube apestosa}",
@@ -10427,7 +10427,7 @@
 								"{@spell Invisibilidad mejorada}",
 								"{@spell Tormenta de hielo}",
 								"{@spell Polymorph}",
-								"{@spell Stoneskin}",
+								"{@spell Piel pétrea}",
 								"{@spell Muro de Fuego}"
 							]
 						},
@@ -10808,7 +10808,7 @@
 								"{@spell Major Image}",
 								"{@spell Nondetection}",
 								"{@spell Phantom Steed}",
-								"{@spell Protection from Energy}",
+								"{@spell Protección contra energía}",
 								"{@spell Remove Curse}",
 								"{@spell Sending}",
 								"{@spell Tormenta de aguanieve}",
@@ -10846,7 +10846,7 @@
 								"{@spell Phantasmal Killer}",
 								"{@spell Polymorph}",
 								"{@spell Stone Shape}",
-								"{@spell Stoneskin}",
+								"{@spell Piel pétrea}",
 								"{@spell Muro de Fuego}"
 							]
 						},
@@ -11043,7 +11043,7 @@
 								"{@spell Color Spray}",
 								"{@spell Orden imperiosa}",
 								"{@spell Comunión}",
-								"{@spell Comunión with Nature}",
+								"{@spell Comunión con la naturaleza}",
 								"{@spell Compelled Duel}",
 								"{@spell Comprehend Languages}",
 								"{@spell Compulsion}",
@@ -11240,7 +11240,7 @@
 								"{@spell Planar Ally}",
 								"{@spell Planar Binding}",
 								"{@spell Plane Shift}",
-								"{@spell Plant Growth}",
+								"{@spell Crecimiento vegetal}",
 								"{@spell Rociada venenosa}",
 								"{@spell Polymorph}",
 								"{@spell Palabra de poder: Sanar}",
@@ -11253,7 +11253,7 @@
 								"{@spell Crear llama}",
 								"{@spell Programmed Illusion}",
 								"{@spell Project Image}",
-								"{@spell Protection from Energy}",
+								"{@spell Protección contra energía}",
 								"{@spell Protección contra el bien y el mal}",
 								"{@spell Protection from Poison}",
 								"{@spell Purificar comida y bebida}",
@@ -11302,7 +11302,7 @@
 								"{@spell Staggering Smite}",
 								"{@spell Nube apestosa}",
 								"{@spell Stone Shape}",
-								"{@spell Stoneskin}",
+								"{@spell Piel pétrea}",
 								"{@spell Storm of Vengeance}",
 								"{@spell Suggestion}",
 								"{@spell Sunbeam}",

@@ -183,7 +183,7 @@
 						"2": {
 							"spells": [
 								"{@spell hold person}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							],
 							"slots": 3
 						}

@@ -524,7 +524,7 @@
 							"{@spell alarm}",
 							"{@spell detect magic}",
 							"{@spell gaseous form}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell passwall}",
 							"{@spell see invisibility}"
 						]
@@ -655,7 +655,7 @@
 							"spells": [
 								"{@spell detect thoughts}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -671,7 +671,7 @@
 							"spells": [
 								"{@spell polymorph}",
 								"{@spell fire shield}",
-								"{@spell stoneskin}*"
+								"{@spell piel pétrea}*"
 							]
 						},
 						"5": {
@@ -1082,7 +1082,7 @@
 							"spells": [
 								"{@spell detect thoughts}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -1098,7 +1098,7 @@
 							"spells": [
 								"{@spell phantasmal killer}",
 								"{@spell fire shield}",
-								"{@spell stoneskin}*"
+								"{@spell piel pétrea}*"
 							]
 						},
 						"5": {
@@ -4235,7 +4235,7 @@
 				{
 					"name": "Greater Magic (Costs 2 Actions)",
 					"entries": [
-						"The behir casts {@spell invisibility} or {@spell misty step}, requiring no components."
+						"The behir casts {@spell invisibility} or {@spell paso brumoso}, requiring no components."
 					]
 				}
 			],
@@ -5149,7 +5149,7 @@
 							"spells": [
 								"{@spell blur}",
 								"{@spell detect thoughts}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell shatter}"
 							]
 						},

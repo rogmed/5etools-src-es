@@ -126,7 +126,7 @@
 					"will": [
 						"{@spell chromatic orb} (cold orb only; see \"Actions\" below)",
 						"{@spell detect magic}",
-						"{@spell misty step}"
+						"{@spell paso brumoso}"
 					],
 					"daily": {
 						"2e": [
@@ -3448,7 +3448,7 @@
 							"{@spell faerie fire}",
 							"{@spell invisibility} (self only)",
 							"{@spell polymorph}",
-							"{@spell stoneskin} (self only)"
+							"{@spell piel pétrea} (self only)"
 						]
 					},
 					"ability": "wis"
@@ -5866,10 +5866,10 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Sephek can innately cast {@spell misty step} up to three times per day, requiring no components. His innate spellcasting ability is Charisma."
+						"Sephek can innately cast {@spell paso brumoso} up to three times per day, requiring no components. His innate spellcasting ability is Charisma."
 					],
 					"will": [
-						"{@spell misty step}"
+						"{@spell paso brumoso}"
 					],
 					"ability": "cha",
 					"hidden": [

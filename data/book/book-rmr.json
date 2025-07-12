@@ -5712,7 +5712,7 @@
 										"Señal de esperanza {@comicNote JERRY SPELL}",
 										"Disipar magia {@comicNote JERRY SPELL}",
 										"Palabra de curación en masa {@comicNote YES}",
-										"Protection from Energy {@comicNote JERRY SPELL}",
+										"Protección contra energía {@comicNote JERRY SPELL}",
 										"Revivir {@comicNote OK}",
 										"Espíritus guardianes {@comicNote OK}"
 									]
@@ -5780,7 +5780,7 @@
 										"Fireball {@comicNote Oh Hell YES}",
 										"Fly {@comicNote YES}",
 										"Relámpago {@comicNote YES, Big Zap}",
-										"Protection from Energy {@comicNote JERRY SPELL}"
+										"Protección contra energía {@comicNote JERRY SPELL}"
 									]
 								}
 							]
@@ -6289,7 +6289,7 @@
 							"type": "statblock",
 							"tag": "spell",
 							"source": "PHB",
-							"name": "Protection from Energy",
+							"name": "Protección contra energía",
 							"page": 58,
 							"collapsed": true
 						},

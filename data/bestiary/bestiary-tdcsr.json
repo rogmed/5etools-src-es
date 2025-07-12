@@ -286,7 +286,7 @@
 							"spells": [
 								"{@spell daylight}",
 								"{@spell dispel magic}",
-								"{@spell protection from energy}"
+								"{@spell protección contra energía}"
 							]
 						},
 						"4": {
@@ -4676,7 +4676,7 @@
 							"spells": [
 								"{@spell glyph of warding}",
 								"{@spell mass healing word}",
-								"{@spell protection from energy}",
+								"{@spell protección contra energía}",
 								"{@spell revivify}",
 								"{@spell speak with dead}"
 							]

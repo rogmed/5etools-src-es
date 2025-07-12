@@ -9981,14 +9981,14 @@ Renderer.monster = class {
 				green: ["Rayo nauseabundo", "charm person", "detect thoughts", "invisibilidad", "suggestion"],
 				white: ["ice knife|XGE", "Snilloc's snowball swarm|XGE"],
 				brass: ["see invisibility", "magic mouth", "blindness/deafness", "Dormir", "detect thoughts"],
-				bronze: ["ráfaga de viento", "misty step", "locate object", "contorno borroso", "witch bolt", "ola atronadora", "escudo"],
+				bronze: ["ráfaga de viento", "paso brumoso", "locate object", "contorno borroso", "witch bolt", "ola atronadora", "escudo"],
 				copper: ["knock", "Dormir", "detect thoughts", "blindness/deafness", "tasha's hideous laughter"],
 			},
 			3: {
 				blue: ["wall of sand|XGE", "thunder step|XGE", "relámpago", "blink", "Proyectil mágico", "slow"],
 				red: ["fireball", "scorching ray", "haste", "erupting earth|XGE", "Aganazzar's scorcher|XGE"],
 				gold: ["slow", "fireball", "dispel magic", "counterspell", "Aganazzar's scorcher|XGE", "escudo"],
-				silver: ["sleet storm", "protection from energy", "catnap|XGE", "locate object", "identify", "Leomund's tiny hut"],
+				silver: ["sleet storm", "protección contra energía", "catnap|XGE", "locate object", "identify", "Leomund's tiny hut"],
 			},
 			4: {
 				black: ["vitriolic sphere|XGE", "sickening radiance|XGE", "Evard's black tentacles", "marchitar", "hunger of Hadar"],
@@ -10040,7 +10040,7 @@ Renderer.monster = class {
 				deep: ["command", "dissonant whispers", "faerie fire", "respirar bajo el agua"],
 			},
 			4: {
-				black: ["blindness/deafness", "create or destroy water", "plant growth"],
+				black: ["blindness/deafness", "create or destroy water", "crecimiento vegetal"],
 				white: ["ráfaga de viento"],
 				brass: ["create or destroy water", "speak with animals", "suggestion"],
 				copper: ["lesser restoration", "phantasmal force", "stone shape"],
@@ -10048,7 +10048,7 @@ Renderer.monster = class {
 			5: {
 				blue: ["arcane eye", "create or destroy water", "major image"],
 				red: ["bane", "dominate person", "heat metal", "hypnotic pattern", "suggestion"],
-				green: ["invisibilidad", "plant growth", "speak with animals"],
+				green: ["invisibilidad", "crecimiento vegetal", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "speak with animals"],
 				gold: ["bless", "comunión", "cure wounds", "geas", "slow", "suggestion", "zone of truth"],
 				silver: ["señal de esperanza", "calm emotions", "hold person", "polimorfar", "zone of truth"],
@@ -10059,10 +10059,10 @@ Renderer.monster = class {
 				deep: ["command", "dissonant whispers", "faerie fire", "passwall", "respirar bajo el agua"],
 			},
 			7: {
-				black: ["blindness/deafness", "create or destroy water", "plaga de insectos", "plant growth"],
+				black: ["blindness/deafness", "create or destroy water", "plaga de insectos", "crecimiento vegetal"],
 				blue: ["arcane eye", "create or destroy water", "major image", "project image"],
 				red: ["bane", "dominate person", "heat metal", "hypnotic pattern", "power word stun", "suggestion"],
-				green: ["invisibilidad", "mass suggestion", "plant growth", "speak with animals"],
+				green: ["invisibilidad", "mass suggestion", "crecimiento vegetal", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "heroes' feast", "speak with animals"],
 				copper: ["lesser restoration", "move earth", "phantasmal force", "stone shape"],
 				silver: ["señal de esperanza", "calm emotions", "hold person", "polimorfar", "teleport", "zone of truth"],

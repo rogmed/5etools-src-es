@@ -414,7 +414,7 @@
 								"{@spell darkvision}",
 								"{@spell hold person}",
 								"{@spell Imagen múltiple}*",
-								"{@spell misty step}*",
+								"{@spell paso brumoso}*",
 								"{@spell pass without trace}",
 								"{@spell protection from poison}"
 							]
@@ -708,7 +708,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell hold person}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {

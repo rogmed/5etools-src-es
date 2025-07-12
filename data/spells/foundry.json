@@ -1465,7 +1465,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Banishment",
+			"name": "Destierro",
 			"source": "XPHB",
 			"system": {
 				"target.affects.count": "@item.level - 3"
@@ -1489,14 +1489,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "banishment"
+							"foundryId": "destierro"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "banishment",
+					"foundryId": "destierro",
 					"name": "Banished",
 					"duration": {
 						"seconds": 60
@@ -8131,7 +8131,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Haste",
+			"name": "Acelerar",
 			"source": "XPHB",
 			"activities": [
 				{

@@ -492,8 +492,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Oath of Glory",
-			"shortName": "Glory",
+			"name": "Juramento de gloria",
+			"shortName": "Gloria",
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
@@ -511,7 +511,7 @@
 							"magic weapon|xphb"
 						],
 						"9": [
-							"haste|xphb",
+							"acelerar|xphb",
 							"protección contra energía|xphb"
 						],
 						"13": [
@@ -526,10 +526,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Oath of Glory|Paladín|XPHB|Glory|XPHB|3",
-				"Aura of Alacrity|Paladín|XPHB|Glory|XPHB|7",
-				"Glorious Defense|Paladín|XPHB|Glory|XPHB|15",
-				"Living Legend|Paladín|XPHB|Glory|XPHB|20"
+				"Juramento de gloria|Paladín|XPHB|Gloria|XPHB|3",
+				"Aura of Alacrity|Paladín|XPHB|Gloria|XPHB|7",
+				"Glorious Defense|Paladín|XPHB|Gloria|XPHB|15",
+				"Living Legend|Paladín|XPHB|Gloria|XPHB|20"
 			],
 			"hasFluffImages": true
 		},
@@ -576,8 +576,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Oath of Vengeance",
-			"shortName": "Vengeance",
+			"name": "Juramento de venganza",
+			"shortName": "Venganza",
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
@@ -595,11 +595,11 @@
 							"paso brumoso|xphb"
 						],
 						"9": [
-							"haste|xphb",
+							"acelerar|xphb",
 							"protección contra energía|xphb"
 						],
 						"13": [
-							"banishment|xphb",
+							"destierro|xphb",
 							"dimension door|xphb"
 						],
 						"17": [
@@ -610,10 +610,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Oath of Vengeance|Paladín|XPHB|Vengeance|XPHB|3",
-				"Relentless Avenger|Paladín|XPHB|Vengeance|XPHB|7",
-				"Soul of Vengeance|Paladín|XPHB|Vengeance|XPHB|15",
-				"Avenging Angel|Paladín|XPHB|Vengeance|XPHB|20"
+				"Juramento de venganza|Paladín|XPHB|Venganza|XPHB|3",
+				"Vengador implacable|Paladín|XPHB|Venganza|XPHB|7",
+				"Espíritu vengativo|Paladín|XPHB|Venganza|XPHB|15",
+				"Ángel vengativo|Paladín|XPHB|Venganza|XPHB|20"
 			],
 			"hasFluffImages": true
 		}
@@ -1352,7 +1352,7 @@
 			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"consumes": {
@@ -1363,17 +1363,17 @@
 			]
 		},
 		{
-			"name": "Oath of Glory",
+			"name": "Juramento de gloria",
 			"source": "XPHB",
 			"page": 162,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
 				"{@i Strive for the Heights of Heroism}",
-				"Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they're all ready when destiny calls.",
+				"Paladins who take the Juramento de gloria believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they're all ready when destiny calls.",
 				"These paladins share the following tenets:",
 				{
 					"type": "list",
@@ -1385,32 +1385,32 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Oath of Glory Spells|Paladín|XPHB|Glory|XPHB|3"
+					"subclassFeature": "Juramento de gloria Spells|Paladín|XPHB|Gloria|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Inspiring Smite|Paladín|XPHB|Glory|XPHB|3"
+					"subclassFeature": "Inspiring Smite|Paladín|XPHB|Gloria|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Peerless Athlete|Paladín|XPHB|Glory|XPHB|3"
+					"subclassFeature": "Peerless Athlete|Paladín|XPHB|Gloria|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Oath of Glory Spells",
+			"name": "Juramento de gloria Spells",
 			"source": "XPHB",
 			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Glory Spells table, you thereafter always have the listed spells prepared.",
+				"The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Juramento de gloria Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
-					"caption": "Oath of Glory Spells",
+					"caption": "Juramento de gloria Spells",
 					"colLabels": [
 						"Nivel de paladín",
 						"Conjuros"
@@ -1430,7 +1430,7 @@
 						],
 						[
 							"9",
-							"{@spell Haste|XPHB}, {@spell Protección contra energía|XPHB}"
+							"{@spell Acelerar|XPHB}, {@spell Protección contra energía|XPHB}"
 						],
 						[
 							"13",
@@ -1450,7 +1450,7 @@
 			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"consumes": {
@@ -1466,7 +1466,7 @@
 			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
@@ -1481,7 +1481,7 @@
 			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
@@ -1496,7 +1496,7 @@
 			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"header": 2,
@@ -1526,50 +1526,50 @@
 			]
 		},
 		{
-			"name": "Oath of Vengeance",
+			"name": "Juramento de venganza",
 			"source": "XPHB",
 			"page": 164,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Punish Evildoers at Any Cost}",
-				"The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves' guild grows too violent, when a dragon rampages through the countryside\u2014at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.",
-				"These paladins share the following tenets:",
+				"{@i Castiga a los malhechores a toda costa}",
+				"El juramento de venganza es el propósito solemne de castigar a quienes han cometido actos de gran maldad. Cuando las fuerzas del mal masacran a aldeanos indefensos, un tirano desafía la voluntad de los dioses, un gremio de ladrones se torna excesivamente violento o un dragón arrasa los campos de cultivo, surgen paladines que pronuncian el juramento de venganza, decididos a enderezar aquello que se ha torcido.",
+				"Estos paladines comparten los siguientes principios:",
 				{
 					"type": "list",
 					"items": [
-						"Show the wicked no mercy.",
-						"Fight injustice and its causes.",
-						"Aid those harmed by injustice."
+						"No muestres piedad por los malvados.",
+						"Lucha contra la iniquidad y sus causas.",
+						"Ayuda alos perjudicados por las injusticias."
 					]
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Oath of Vengeance Spells|Paladín|XPHB|Vengeance|XPHB|3"
+					"subclassFeature": "Conjuros del juramento de venganza|Paladín|XPHB|Venganza|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Vow of Enmity|Paladín|XPHB|Vengeance|XPHB|3"
+					"subclassFeature": "Voto de enemistad|Paladín|XPHB|Venganza|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Oath of Vengeance Spells",
+			"name": "Conjuros del juramento de venganza",
 			"source": "XPHB",
 			"page": 164,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Vengeance Spells table, you thereafter always have the listed spells prepared.",
+				"La magia de tu juramento garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de paladín especificado en la tabla “Conjuros del juramento de venganza”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Oath of Vengeance Spells",
+					"caption": "CONJUROS DEL JURAMENTO DE VENGANZA",
 					"colLabels": [
 						"Nivel de paladín",
 						"Conjuros"
@@ -1589,11 +1589,11 @@
 						],
 						[
 							"9",
-							"{@spell Haste|XPHB}, {@spell Protección contra energía|XPHB}"
+							"{@spell Acelerar|XPHB}, {@spell Protección contra energía|XPHB}"
 						],
 						[
 							"13",
-							"{@spell Banishment|XPHB}, {@spell Puerta dimensional|XPHB}"
+							"{@spell Destierro|XPHB}, {@spell Puerta dimensional|XPHB}"
 						],
 						[
 							"17",
@@ -1604,74 +1604,74 @@
 			]
 		},
 		{
-			"name": "Vow of Enmity",
+			"name": "Voto de enemistad",
 			"source": "XPHB",
-			"page": 117,
+			"page": 165,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"consumes": {
 				"name": "Canalizar divinidad"
 			},
 			"entries": [
-				"When you take the {@action Attack|XPHB} action, you can expend one use of your Canalizar divinidad to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have {@variantrule Advantage|XPHB} on attack rolls against the creature for 1 minute or until you use this feature again.",
-				"If the creature drops to 0 {@variantrule Hit Points|XPHB} before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required)."
+				"Cuando realizas la acción de atacar, puedes gastar uno de los usos de Canalizar divinidad para murmurar un voto de enemistad contra una criatura que puedas ver a 30 pies (9 m) o menos de ti. Tienes ventaja en las tiradas de ataque contra esa criatura durante 1 minuto o hasta que vuelvas a usar este rasgo.",
+				"Si los puntos de golpe de la criatura se reducen a 0 antes de que termine el voto, podrás transferirlo a una criatura distinta a 30 pies (9 m) o menos de ti (no requiere acción)."
 			]
 		},
 		{
-			"name": "Relentless Avenger",
+			"name": "Vengador implacable",
 			"source": "XPHB",
-			"page": 117,
+			"page": 165,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an {@action Opportunity Attack|XPHB}, you can reduce the creature's {@variantrule Velocidad|XPHB} to 0 until the end of the current turn. You can then move up to half your {@variantrule Velocidad|XPHB} as part of the same {@variantrule Reaction|XPHB}. This movement doesn't provoke {@action Opportunity Attack|XPHB|Opportunity Attacks}."
+				"Tu concentración sobrenatural te permite impedir la retirada de un enemigo. Cuando aciertes un ataque de oportunidad contra una criatura, puedes reducir su velocidad a 0 hasta el final del turno actual. A continuación, puedes moverte hasta la mitad de tu velocidad como parte de la misma reacción. Este movimiento no provoca ataques de oportunidad."
 			]
 		},
 		{
-			"name": "Soul of Vengeance",
+			"name": "Espíritu vengativo",
 			"source": "XPHB",
-			"page": 117,
+			"page": 165,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a {@variantrule Reaction|XPHB} to make a melee attack against that creature if it's within range."
+				"Inmediatamente después de que una criatura bajo los efectos de tu Voto de enemistad acierte o falle una tirada de ataque, podrás llevar a cabo una reacción para realizar un ataque cuerpo a cuerpo contra esa criatura si se encuentra dentro del alcance."
 			]
 		},
 		{
-			"name": "Avenging Angel",
+			"name": "Ángel vengativo",
 			"source": "XPHB",
-			"page": 117,
+			"page": 165,
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+				"Como acción adicional, obtienes los beneficios presentados a continuación durante 10 minutos o hasta que les pongas fin (no requiere acción). Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo. También puedes restablecer su uso gastando un espacio de conjuro de nivel 5 (no requiere acción).",
 				{
 					"type": "entries",
-					"name": "Flight",
+					"name": "Aura aterradora",
 					"entries": [
-						"You sprout spectral wings on your back, have a {@variantrule Fly Speed|XPHB} of 60 feet, and can hover."
+						"Siempre que un enemigo comience su turno dentro de tu Aura de protección, esa criatura deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition Asustado|XPHB|asustada} durante 1 minuto o hasta recibir daño. Las tiradas de ataque contra las criaturas asustadas tienen ventaja."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Frightful Aura",
+					"name": "Vuelo",
 					"entries": [
-						"Whenever an enemy starts its turn in your Aura de protección, that creature must succeed on a Wisdom saving throw or have the {@condition Asustado|XPHB} condition for 1 minute or until it takes any damage. {@action Attack|XPHB} rolls against the {@condition Asustado|XPHB} creature have {@variantrule Advantage|XPHB}."
+						"Te crecen unas alas espectrales en la espalda, tienes una velocidad volando de 60 pies (18 m) y puedes levitar."
 					]
 				}
 			]

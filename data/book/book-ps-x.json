@@ -144,7 +144,7 @@
 											"name": "{@class Paladin}",
 											"page": 5,
 											"entries": [
-												"Knights of the Sun Empire are drawn to the {@class Paladín||Juramento de los antiguos|Antiguos} and (increasingly, as vampires and pirates mount incursions into their lands) the {@class Paladín||Oath of Vengeance|Vengeance}. These paladins often use the {@spell hallar corcel} spell to acquire dinosaur mounts (typically a {@creature hadrosaurus|VGM}, described in {@book Volo's Guide to Monsters|VGM})."
+												"Knights of the Sun Empire are drawn to the {@class Paladín||Juramento de los antiguos|Antiguos} and (increasingly, as vampires and pirates mount incursions into their lands) the {@class Paladín||Juramento de venganza|Vengeance}. These paladins often use the {@spell hallar corcel} spell to acquire dinosaur mounts (typically a {@creature hadrosaurus|VGM}, described in {@book Volo's Guide to Monsters|VGM})."
 											],
 											"id": "009"
 										},

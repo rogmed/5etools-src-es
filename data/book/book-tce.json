@@ -243,7 +243,7 @@
 								{
 									"type": "list",
 									"items": [
-										"An Oath of Devotion paladin failed to stop a demonic horde from ravaging her homeland. After spending a night in sorrowful prayer, she rises the next morning with the features of the Oath of Vengeance, ready to hunt down the horde.",
+										"An Oath of Devotion paladin failed to stop a demonic horde from ravaging her homeland. After spending a night in sorrowful prayer, she rises the next morning with the features of the Juramento de venganza, ready to hunt down the horde.",
 										"A wizard lies down for a nap beneath an oak tree whose roots reach into the Feywild. In his dreams, he faces visions of multiple possible futures. When he awakens, his subclass features have been replaced by those of the School of Divination.",
 										"A cleric of the Dominio de la guerra has spent years in conflict with the enemies of her temple. But one day, she wanders into a sun-dappled glade, where her god once shed a tear of mercy over the world's suffering. Drinking from the glade's brook, the cleric is filled with such compassion for all people that she now bears the powers of the Dominio de la vida, ready to heal rather than make war."
 									]
@@ -1376,12 +1376,12 @@
 							"page": 53,
 							"id": "137",
 							"entries": [
-								"At 3rd level, a paladin gains the Sacred Oath feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Oath of Glory and Oath of the Watchers.",
+								"At 3rd level, a paladin gains the Sacred Oath feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Juramento de gloria and Oath of the Watchers.",
 								{
 									"type": "list",
 									"columns": 2,
 									"items": [
-										"{@class Paladín|phb|Oath of Glory|Glory|TCE}",
+										"{@class Paladín|phb|Juramento de gloria|Gloria|TCE}",
 										"{@class Paladín|phb|Oath of the Watchers|Watchers|TCE}"
 									]
 								}

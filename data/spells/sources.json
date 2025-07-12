@@ -360,7 +360,7 @@
 				}
 			]
 		},
-		"Banishment": {
+		"Destierro": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -2656,7 +2656,7 @@
 				}
 			]
 		},
-		"Haste": {
+		"Acelerar": {
 			"class": [
 				{
 					"name": "Hechicero",

@@ -8354,7 +8354,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Vengeance",
+					"name": "Venganza",
 					"entries": [
 						"When Tiberius Inuus is hit by an attack he can utter an oath of vengeance against the creature that made the attack. He gains advantage on attack rolls against that creature for 1 minute or until it drops to 0 hit points or falls {@condition unconscious}."
 					]

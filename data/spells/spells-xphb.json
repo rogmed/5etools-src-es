@@ -1449,10 +1449,10 @@
 			]
 		},
 		{
-			"name": "Banishment",
-			"originalname": "",
+			"name": "Destierro",
+			"originalname": "Banishment",
 			"source": "XPHB",
-			"page": 245,
+			"page": 269,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -1486,15 +1486,15 @@
 				}
 			],
 			"entries": [
-				"One creature that you can see within range must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the {@condition Incapacitado|XPHB} condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.",
-				"If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, the target doesn't return if the spell lasts for 1 minute. The target is instead transported to a random location on a plane (DM's choice) associated with its creature type."
+				"Una criatura que puedas ver dentro del alcance deberá superar una tirada de salvación de Carisma o se teletransportará a un semiplano inofensivo hasta que termine el conjuro. Mientras permanezca allí, tendrá el estado de {@condition incapacitado|XPHB}. Cuando el conjuro termine, el objetivo reaparecerá en el espacio que abandonó o en el espacio sin ocupar más cercano si dicho espacio está ocupado.",
+				"Si el conjuro dura 1 minuto y el objetivo es una aberración, un celestial, un elemental, un feérico o un infernal, no regresará. En vez de ello, se teletransportará a un lugar aleatorio de un plano (a elección de tu DM) relacionado con su tipo de criatura."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You can target one additional creature for each spell slot level above 4."
+						"Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 4 que tenga el espacio."
 					]
 				}
 			],
@@ -2559,7 +2559,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You can target one additional creature for each spell slot level above 4."
+						"Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 4 que tenga el espacio."
 					]
 				}
 			],
@@ -10175,10 +10175,10 @@
 			]
 		},
 		{
-			"name": "Haste",
-			"originalname": "",
+			"name": "Acelerar",
+			"originalname": "Haste",
 			"source": "XPHB",
-			"page": 284,
+			"page": 239,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -10199,7 +10199,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a shaving of licorice root"
+				"m": "un viruta de raíz de regaliz"
 			},
 			"duration": [
 				{
@@ -10212,8 +10212,8 @@
 				}
 			],
 			"entries": [
-				"Choose a willing creature that you can see within range. Until the spell ends, the target's {@variantrule Velocidad|XPHB} is doubled, it gains a +2 bonus to {@variantrule Armor Class|XPHB}, it has {@variantrule Advantage|XPHB} on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the {@action Attack|XPHB} (one attack only), {@action Correr|XPHB}, {@action Destrabarse|XPHB}, {@action Esconderse|XPHB}, or {@action Utilize|XPHB} action.",
-				"When the spell ends, the target is {@condition Incapacitado|XPHB} and has a {@variantrule Velocidad|XPHB} of 0 until the end of its next turn, as a wave of lethargy washes over it."
+				"Elige a una criatura voluntaria que puedas ver dentro del alcance. Hasta que el conjuro termine, la velocidad del objetivo se duplica, gana un bonificador de +2 a su clase de armadura, tiene ventaja en tiradas de salvación de Destreza y consigue una segunda acción en cada uno de sus turnos. Solo puede utilizar esta acción para llevar a cabo una acción de atacar (solo un ataque), correr, destrabarse, esconderse o utilizar.",
+				"Cuando el conjuro termine, el objetivo tendrá el estado de {@condition incapacitado|XPHB} y una velocidad de 0 hasta el final de su siguiente turno, debido a una ola de somnolencia que lo afecta."
 			],
 			"conditionInflict": [
 				"incapacitated"

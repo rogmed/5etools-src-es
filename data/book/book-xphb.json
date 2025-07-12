@@ -6632,9 +6632,9 @@
 											"style": "list-hang-notitle",
 											"items": [
 												"{@class Paladín|XPHB|Oath of Devotion|Devotion|XPHB} to emulate the angels of justice.",
-												"{@class Paladín|XPHB|Oath of Glory|Glory|XPHB} to reach the heights of heroism.",
+												"{@class Paladín|XPHB|Juramento de gloria|Gloria|XPHB} to reach the heights of heroism.",
 												"{@class Paladín|XPHB|Juramento de los antiguos|Antiguos|XPHB} to preserve life, joy, and nature.",
-												"{@class Paladín|XPHB|Oath of Vengeance|Vengeance|XPHB} to hunt down evildoers."
+												"{@class Paladín|XPHB|Juramento de venganza|Venganza|XPHB} to hunt down evildoers."
 											]
 										}
 									],
@@ -12652,7 +12652,7 @@
 							"items": [
 								"{@spell Perdición|XPHB}",
 								"{@spell Banishing Smite|XPHB}",
-								"{@spell Banishment|XPHB}",
+								"{@spell Destierro|XPHB}",
 								"{@spell Barkskin|XPHB}",
 								"{@spell Señal de esperanza|XPHB}",
 								"{@spell Beast Sense|XPHB}",
@@ -12846,7 +12846,7 @@
 								"{@spell Consagrar|XPHB}",
 								"{@spell Hallucinatory Terrain|XPHB}",
 								"{@spell Harm|XPHB}",
-								"{@spell Haste|XPHB}",
+								"{@spell Acelerar|XPHB}",
 								"{@spell Heal|XPHB}",
 								"{@spell Palabra de curación|XPHB}",
 								"{@spell Calentar metal|XPHB}",

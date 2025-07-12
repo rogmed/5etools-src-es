@@ -10105,7 +10105,7 @@
 			"source": "PHB",
 			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "PHB",
 			"level": 3,
 			"system": {
@@ -10119,7 +10119,7 @@
 			"source": "PHB",
 			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "PHB",
 			"level": 3,
 			"system": {
@@ -10181,7 +10181,7 @@
 			"source": "TCE",
 			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "TCE",
 			"level": 3,
 			"activities": [
@@ -10205,7 +10205,7 @@
 			"source": "TCE",
 			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "TCE",
 			"level": 15,
 			"system": {
@@ -17746,7 +17746,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -17798,7 +17798,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"effects": [
@@ -17821,7 +17821,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"system": {
@@ -17868,7 +17868,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"activities": [
@@ -17942,7 +17942,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -18002,7 +18002,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"activities": [
@@ -18061,7 +18061,7 @@
 			"source": "XPHB",
 			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"activities": [

@@ -1501,14 +1501,14 @@
 						},
 						{
 							"type": "entries",
-							"name": "Warlock",
+							"name": "Brujo",
 							"page": 25,
 							"entries": [
 								"In a handful of guilds, service to a powerful individual is common among warlocks. Warlocks are most often found in the Cult of Rakdos and the Selesnya Conclave.",
 								"Members of any guild who delve too deeply into forbidden secrets\u2014perhaps at the behest of their guilds' leaders, or sometimes in defiance of them\u2014might unearth lore regarding the \"old gods\" of Ravnica. These mysterious beings, called the Nephilim, grant warlocks the mysterious and maddening powers of the Great Old One.",
 								{
 									"type": "table",
-									"caption": "Warlock",
+									"caption": "Brujo",
 									"colStyles": [
 										"col-6",
 										"col-6"
@@ -1519,19 +1519,19 @@
 									],
 									"rows": [
 										[
-											"{@class Warlock||The Archfey|Archfey}",
+											"{@class Brujo||The Archfey|Archfey}",
 											"Selesnya"
 										],
 										[
-											"{@class Warlock||The Celestial|Celestial|XGE}*",
+											"{@class Brujo||The Celestial|Celestial|XGE}*",
 											"Boros"
 										],
 										[
-											"{@class Warlock||The Fiend|Fiend}",
+											"{@class Brujo||The Fiend|Fiend}",
 											"{@creature Rakdos|GGR}"
 										],
 										[
-											"{@class Warlock||The Great Old One|Great Old One}",
+											"{@class Brujo||The Great Old One|Great Old One}",
 											"Any"
 										]
 									],

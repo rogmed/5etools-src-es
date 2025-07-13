@@ -2179,7 +2179,7 @@ globalThis.Renderer = function () {
 
 			// LINKS ///////////////////////////////////////////////////////////////////////////////////////////
 			case "@filter": {
-				// format: {@filter Warlock Spells|spells|level=1;2|class=Warlock}
+				// format: {@filter Warlock Spells|spells|level=1;2|class=Brujo}
 				const [displayText, page, ...filters] = Renderer.splitTagByPipe(text);
 
 				const filterSubhashMeta = Renderer.getFilterSubhashes(filters);
@@ -3049,7 +3049,7 @@ Renderer._AbilityData = function ({asText, asTextShort, asCollection, areNegativ
 };
 
 /**
- * @param filters String of the form `"level=1;2|class=Warlock"`
+ * @param filters String of the form `"level=1;2|class=Brujo"`
  * @param namespace Filter namespace to use
  */
 Renderer.getFilterSubhashes = function (filters, namespace = null) {
@@ -10148,7 +10148,7 @@ Renderer.monster = class {
 				source: Parser.SRC_FTD,
 				entries: [
 					`${Renderer.monster.dragonCasterVariant.getSpellcasterDetailsPart(meta)}`,
-					`A suggested spell list is shown below, but you can also choose spells to reflect the dragon's character. A dragon who innately casts {@filter druid|spells|class=druid} spells feels different from one who casts {@filter warlock|spells|class=warlock} spells. You can also give a dragon spells of a higher level than this rule allows, but such a tweak might increase the dragon's challenge rating\u2014especially if those spells deal damage or impose conditions on targets.`,
+					`A suggested spell list is shown below, but you can also choose spells to reflect the dragon's character. A dragon who innately casts {@filter druid|spells|class=druid} spells feels different from one who casts {@filter warlock|spells|class=Brujo} spells. You can also give a dragon spells of a higher level than this rule allows, but such a tweak might increase the dragon's challenge rating\u2014especially if those spells deal damage or impose conditions on targets.`,
 					{
 						type: "list",
 						items: exampleSpellsFtd.map(it => `{@spell ${it}}`),
@@ -12431,7 +12431,7 @@ Renderer.item = class {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los brujos, hechiceros o magos pueden utilizar estos objetos como canalizadores mágicos."
-						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Warlock|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
+						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Brujo|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 				if (item.scfType === "Druida") {
@@ -12453,7 +12453,7 @@ Renderer.item = class {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los brujos, hechiceros o magos pueden utilizar estos objetos como canalizadores mágicos."
-						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Warlock|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
+						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Brujo|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 				if (item.scfType === "Druida") {

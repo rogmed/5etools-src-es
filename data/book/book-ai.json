@@ -2129,7 +2129,7 @@
 													"A battered leather satchel, prone to spitting out multicolored sparks at the seams"
 												],
 												[
-													"Warlock",
+													"Brujo",
 													"A patchwork monster-leather satchel with a \"purely decorative\" fanged mouth."
 												],
 												[
@@ -5958,7 +5958,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Warlock",
+							"name": "Brujo",
 							"page": 68,
 							"entries": [
 								"{@i No, you don't understand. My magic exists outside of any known reality. I wield the power of an entity that dwells beyond space and time. Clearly, none of the profits created by that magic are taxable in this realm}.",

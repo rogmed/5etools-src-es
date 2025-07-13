@@ -3720,7 +3720,7 @@
 				"type": "humanoide",
 				"tags": [
 					"gith",
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -5479,7 +5479,7 @@
 			"type": {
 				"type": "aberration",
 				"tags": [
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [

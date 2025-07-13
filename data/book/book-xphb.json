@@ -4162,7 +4162,7 @@
 											"High"
 										],
 										[
-											"{@class Warlock|XPHB}",
+											"{@class Brujo|XPHB}",
 											"Occult lore",
 											"Carisma",
 											"High"
@@ -4204,7 +4204,7 @@
 												{
 													"type": "item",
 													"name": "Wizard:",
-													"entry": "Replace with {@class Bardo|XPHB}, {@class Hechicero|XPHB}, or {@class Warlock|XPHB}"
+													"entry": "Replace with {@class Bardo|XPHB}, {@class Hechicero|XPHB}, or {@class Brujo|XPHB}"
 												}
 											]
 										}
@@ -4785,7 +4785,7 @@
 													"15"
 												],
 												[
-													"{@class Warlock|XPHB}",
+													"{@class Brujo|XPHB}",
 													"8",
 													"14",
 													"13",
@@ -5508,7 +5508,7 @@
 															"10 + Con. modifier"
 														],
 														[
-															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Pícaro|XPHB}, or {@class Warlock|XPHB}",
+															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Pícaro|XPHB}, or {@class Brujo|XPHB}",
 															"8 + Con. modifier"
 														],
 														[
@@ -5818,7 +5818,7 @@
 															"6 + Con. modifier"
 														],
 														[
-															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Pícaro|XPHB}, or {@class Warlock|XPHB}",
+															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Pícaro|XPHB}, or {@class Brujo|XPHB}",
 															"5 + Con. modifier"
 														],
 														[
@@ -6739,7 +6739,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "{@class Warlock|XPHB}",
+									"name": "{@class Brujo|XPHB}",
 									"page": 152,
 									"entries": [
 										"Cast spells derived from occult knowledge. Then form a pact with the...",
@@ -6747,10 +6747,10 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Warlock|XPHB|Archfey Patron|Archfey|XPHB} to teleport and wield fey magic.",
-												"{@class Warlock|XPHB|Celestial Patron|Celestial|XPHB} to heal with heavenly magic.",
-												"{@class Warlock|XPHB|Fiend Patron|Fiend|XPHB} to call on sinister powers.",
-												"{@class Warlock|XPHB|Great Old One Patron|Great Old One|XPHB} to delve into forbidden lore."
+												"{@class Brujo|XPHB|Archfey Patron|Archfey|XPHB} to teleport and wield fey magic.",
+												"{@class Brujo|XPHB|Celestial Patron|Celestial|XPHB} to heal with heavenly magic.",
+												"{@class Brujo|XPHB|Fiend Patron|Fiend|XPHB} to call on sinister powers.",
+												"{@class Brujo|XPHB|Great Old One Patron|Great Old One|XPHB} to delve into forbidden lore."
 											]
 										}
 									],
@@ -12153,7 +12153,7 @@
 											"One"
 										],
 										[
-											"{@class Warlock|XPHB}",
+											"{@class Brujo|XPHB}",
 											"Gain a level",
 											"One"
 										],

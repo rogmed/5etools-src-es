@@ -2265,7 +2265,7 @@
 				"type": "humanoide",
 				"tags": [
 					"bullywug",
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -2578,7 +2578,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -2703,7 +2703,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -5990,7 +5990,7 @@
 				"type": "humanoide",
 				"tags": [
 					"human",
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [

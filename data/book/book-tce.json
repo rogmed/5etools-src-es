@@ -1734,7 +1734,7 @@
 				},
 				{
 					"type": "section",
-					"name": "Warlock",
+					"name": "Brujo",
 					"page": 70,
 					"id": "19d",
 					"entries": [
@@ -1780,7 +1780,7 @@
 										"{@optfeature Pact of the Talisman|TCE}"
 									]
 								},
-								"{@classFeature Eldritch Versatility|Warlock|PHB|4|TCE} ({@i 4th-level warlock feature})",
+								"{@classFeature Eldritch Versatility|Brujo|PHB|4|TCE} ({@i 4th-level warlock feature})",
 								{
 									"type": "entries",
 									"name": "Eldritch Invocation Options",
@@ -1817,8 +1817,8 @@
 									"type": "list",
 									"columns": 2,
 									"items": [
-										"{@class Warlock|phb|The Fathomless|Fathomless|TCE}",
-										"{@class Warlock|phb|The Genie|Genie|TCE}"
+										"{@class Brujo|phb|The Fathomless|Fathomless|TCE}",
+										"{@class Brujo|phb|The Genie|Genie|TCE}"
 									]
 								}
 							]

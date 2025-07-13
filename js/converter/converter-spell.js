@@ -596,8 +596,8 @@ export class ConverterSpell extends ConverterBase {
 					case "rangers": tgt.push({"name": "Explorador", "source": "PHB"}); break;
 					case "hechicero":
 					case "hechiceros": tgt.push({"name": "Hechicero", "source": "PHB"}); break;
-					case "warlock":
-					case "warlocks": tgt.push({"name": "Warlock", "source": "PHB"}); break;
+					case "brujo":
+					case "warlocks": tgt.push({"name": "Brujo", "source": "PHB"}); break;
 					case "wizard":
 					case "wizards": tgt.push({"name": "Mago", "source": "PHB"}); break;
 					default: options.cbWarning(`${stats.name ? `(${stats.name}) ` : ""}Class "${lowerPt}" requires manual conversion`); break;

@@ -1208,7 +1208,7 @@
 				"type": "humanoide",
 				"tags": [
 					"minotaur",
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -3246,7 +3246,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -3642,7 +3642,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [

@@ -1507,9 +1507,9 @@
 						"2e": [
 							"{@spell bane}",
 							"{@spell fear}",
-							"{@spell freedom of movement}",
+							"{@spell libertad de movimiento}",
 							"{@spell greater restoration}",
-							"{@spell hold monster}",
+							"{@spell inmovilizar monstruo}",
 							"{@spell revivify}"
 						]
 					},

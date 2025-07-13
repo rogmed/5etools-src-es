@@ -442,7 +442,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"compulsion"
+									"compulsión"
 								]
 							}
 						}
@@ -450,7 +450,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell compulsion} once using a warlock spell slot. You can't do so again until you finish a long rest."
+				"You can cast {@spell compulsión} once using a warlock spell slot. You can't do so again until you finish a long rest."
 			]
 		},
 		{
@@ -724,7 +724,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"hold monster"
+									"inmovilizar monstruo"
 								]
 							}
 						}
@@ -732,7 +732,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell hold monster} at will\u2014targeting a celestial, fiend, or elemental\u2014without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again."
+				"You can cast {@spell inmovilizar monstruo} at will\u2014targeting a celestial, fiend, or elemental\u2014without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again."
 			]
 		},
 		{
@@ -761,7 +761,7 @@
 						"_": {
 							"resource": {
 								"3": [
-									"hold person"
+									"inmovilizar persona"
 								]
 							}
 						}
@@ -771,7 +771,7 @@
 				}
 			],
 			"entries": [
-				"You can spend 3 ki points to cast {@spell hold person}."
+				"You can spend 3 ki points to cast {@spell inmovilizar persona}."
 			]
 		},
 		{
@@ -1479,7 +1479,7 @@
 				}
 			],
 			"entries": [
-				"This magic weapon grants a +1 bonus to attack and damage rolls made with it.",
+				"This arma mágica grants a +1 bonus to attack and damage rolls made with it.",
 				"The bonus increases to +2 when you reach 10th level in this class."
 			]
 		},
@@ -2313,7 +2313,7 @@
 			],
 			"entries": [
 				"You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.",
-				"In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.",
+				"In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a arma mágica that already has a bonus to those rolls.",
 				"Finally, the weapon you conjure can be a {@item shortbow|phb}, {@item longbow|phb}, {@item light crossbow|phb}, or {@item heavy crossbow|phb}."
 			]
 		},
@@ -3124,7 +3124,7 @@
 			"entries": [
 				"You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.",
 				"Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.",
-				"You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks."
+				"You can transform one arma mágica into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks."
 			]
 		},
 		{
@@ -3137,7 +3137,7 @@
 				"EI"
 			],
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can conjure a pact weapon in your hand\u2014a Simple or Martial Melee weapon of your choice with which you bond\u2014or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a {@variantrule Spellcasting Focus|XPHB}.",
+				"As a {@variantrule Acción adicional|XPHB}, you can conjure a pact weapon in your hand\u2014a Simple or Martial Melee weapon of your choice with which you bond\u2014or create a bond with a arma mágica you touch; you can't bond with a arma mágica if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a {@variantrule Spellcasting Focus|XPHB}.",
 				"Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.",
 				"Your bond with the weapon ends if you use this feature's {@variantrule Acción adicional|XPHB} again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends."
 			]
@@ -3530,7 +3530,7 @@
 				}
 			],
 			"entries": [
-				"This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.",
+				"This arma mágica grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.",
 				"The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be {@condition blinded} until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains {@dice 1d4} expended charges daily at dawn."
 			]
 		},
@@ -3628,7 +3628,7 @@
 				}
 			],
 			"entries": [
-				"This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.",
+				"This arma mágica grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.",
 				"If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target."
 			]
 		},
@@ -4060,7 +4060,7 @@
 				}
 			],
 			"entries": [
-				"This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack."
+				"This arma mágica grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack."
 			]
 		},
 		{
@@ -4771,7 +4771,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"freedom of movement"
+									"libertad de movimiento"
 								]
 							}
 						}
@@ -4779,7 +4779,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell freedom of movement} once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest."
+				"You can cast {@spell libertad de movimiento} once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest."
 			]
 		},
 		{

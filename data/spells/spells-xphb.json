@@ -3411,10 +3411,10 @@
 			]
 		},
 		{
-			"name": "Compulsion",
-			"originalname": "",
+			"name": "Compulsión",
+			"originalname": "Compulsion",
 			"source": "XPHB",
-			"page": 252,
+			"page": 258,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -3447,8 +3447,8 @@
 				}
 			],
 			"entries": [
-				"Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition until the spell ends.",
-				"For the duration, you can take a {@variantrule Acción adicional|XPHB} to designate a direction that is horizontal to you. Each {@condition Hechizado|XPHB} target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success."
+				"Todas las criaturas de tu elección que puedas ver dentro del alcance deberán superar una tirada de salvación de Sabiduría o tendrán el estado de {@condition Hechizado|XPHB|hechizadas} hasta que el conjuro termine.",
+				"Mientras dure, puedes usar una acción adicional para designar una dirección horizontal respecto a ti. Cada criatura {@condition Hechizado|XPHB|hechizada} deberá usar todo el movimiento que pueda para avanzar en esa dirección por la ruta más segura durante su próximo turno. Tras moverse de este modo, un objetivo repite la tirada de salvación y, si tiene éxito, se librará del conjuro."
 			],
 			"conditionInflict": [
 				"charmed"
@@ -6742,7 +6742,7 @@
 				}
 			],
 			"entries": [
-				"A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra {@damage 1d4} damage of the chosen type when it hits."
+				"A nonmagical weapon you touch becomes a arma mágica. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra {@damage 1d4} damage of the chosen type when it hits."
 			],
 			"entriesHigherLevel": [
 				{
@@ -11698,10 +11698,10 @@
 			]
 		},
 		{
-			"name": "Legend Lore",
-			"originalname": "",
+			"name": "Conocer las leyendas",
+			"originalname": "Legend Lore",
 			"source": "XPHB",
-			"page": 290,
+			"page": 261,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -11722,7 +11722,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each",
+					"text": "incienso que valga al menos 250 po, que se consume como parte del conjuro, y cuatro tiras de marfil que valgan al menos 50 po",
 					"cost": 25000,
 					"consume": true
 				}
@@ -11733,9 +11733,9 @@
 				}
 			],
 			"entries": [
-				"Name or describe a famous person, place, or object. The spell brings to your mind a brief summary of the significant lore about that famous thing, as described by the DM.",
-				"The lore might consist of important details, amusing revelations, or even secret lore that has never been widely known. The more information you already know about the thing, the more precise and detailed the information you receive is. That information is accurate but might be couched in figurative language or poetry, as determined by the DM.",
-				"If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails."
+				"Nombra o describe a una persona, un lugar o un objeto famosos. El conjuro traerá a tu mente un breve resumen de la información relevante sobre lo nombrado, que describe tu DM.",
+				"Esta información pueden ser detalles importantes, revelaciones simpáticas o incluso conocimiento secreto que no es de dominio público. Cuanta más información tengas ya sobre esa cosa, más precisa y detallada será la que consigas. La información será cierta, pero puede estar disimulada bajo un lenguaje metafórico o poético, a discreción de tu DM.",
+				"Si lo que has nombrado no es famoso, en su lugar escucharás una musiquilla triste tocada con un trombón y el conjuro fallará."
 			],
 			"miscTags": [
 				"OBJ"
@@ -14574,7 +14574,7 @@
 			],
 			"entries": [
 				"You beseech an otherworldly entity for aid. The being must be known to you: a god, a demon prince, or some other being of cosmic power. That entity sends a {@filter Celestial|bestiary|type=celestial|miscellaneous=!swarm}, an {@filter Elemental|bestiary|type=elemental|miscellaneous=!swarm}, or a {@filter Fiend|bestiary|type=fiend|miscellaneous=!swarm} loyal to it to aid you, making the creature appear in an unoccupied space within range. If you know a specific creature's name, you can speak that name when you cast this spell to request that creature, though you might get a different creature anyway (DM's choice).",
-				"When the creature appears, it is under no compulsion to behave a particular way. You can ask it to perform a service in exchange for payment, but it isn't obliged to do so. The requested task could range from simple (fly us across the chasm, or help us fight a battle) to complex (spy on our enemies, or protect us during our foray into the dungeon). You must be able to communicate with the creature to bargain for its services.",
+				"When the creature appears, it is under no compulsión to behave a particular way. You can ask it to perform a service in exchange for payment, but it isn't obliged to do so. The requested task could range from simple (fly us across the chasm, or help us fight a battle) to complex (spy on our enemies, or protect us during our foray into the dungeon). You must be able to communicate with the creature to bargain for its services.",
 				"Payment can take a variety of forms. A Celestial might require a sizable donation of gold or magic items to an allied temple, while a Fiend might demand a living sacrifice or a gift of treasure. Some creatures might exchange their service for a quest undertaken by you.",
 				"A task that can be measured in minutes requires a payment worth 100 GP per minute. A task measured in hours requires 1,000 GP per hour. And a task measured in days (up to 10 days) requires 10,000 GP per day. The DM can adjust these payments based on the circumstances under which you cast the spell. If the task is aligned with the creature's ethos, the payment might be halved or even waived. Nonhazardous tasks typically require only half the suggested payment, while especially dangerous tasks might require a greater gift. Creatures rarely accept tasks that seem suicidal.",
 				"After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane."
@@ -17863,7 +17863,7 @@
 			],
 			"entries": [
 				"You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days.",
-				"Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events."
+				"Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsión to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events."
 			],
 			"affectsCreatureType": [
 				"aberration",
@@ -21988,10 +21988,10 @@
 			]
 		},
 		{
-			"name": "Yolande's Regal Presence",
-			"originalname": "",
+			"name": "Presencia regia de Yolande",
+			"originalname": "Yolande's Regal Presence",
 			"source": "XPHB",
-			"page": 343,
+			"page": 321,
 			"level": 5,
 			"school": "E",
 			"time": [
@@ -22010,7 +22010,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a miniature tiara"
+				"m": "una tiara en miniatura"
 			},
 			"duration": [
 				{
@@ -22023,7 +22023,7 @@
 				}
 			],
 			"entries": [
-				"You surround yourself with unearthly majesty in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation}. Whenever the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} enters the space of a creature you can see and whenever a creature you can see enters the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} or ends its turn there, you can force that creature to make a Wisdom saving throw. On a failed save, the target takes {@damage 4d6} Psychic damage and has the {@condition Prone|XPHB} condition, and you can push it up to 10 feet away. On a successful save, the target takes half as much damage only. A creature makes this save only once per turn."
+				"Te rodeas de una majestuosidad sobrenatural en una emanación de 10 pies (3 m). Siempre que la emanación entre en el espacio de una criatura que puedas ver y siempre que una criatura que puedas ver entre en la emanación o termine su turno allí, puedes obligar a la criatura a hacer una tirada de salvación de Sabiduría. Si la falla, el objetivo sufrirá {@damage 4d6} de daño psíquico, tendrá el estado de {@condition derribado|XPHB} y podrás empujarlo hasta 10 pies (3 m) respecto a ti. Si la supera, solo sufrirá la mitad de ese daño. Una criatura solo hace esta tirada una vez por turno."
 			],
 			"damageInflict": [
 				"psychic"

@@ -521,7 +521,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Holga carries a darksteel greataxe, a magic weapon that grants her resistance to lightning damage while she carries it (included above)."
+						"Holga carries a darksteel greataxe, a arma mágica that grants her resistance to lightning damage while she carries it (included above)."
 					]
 				},
 				{
@@ -823,7 +823,7 @@
 						"2e": [
 							"{@spell bestow curse}",
 							"{@spell Bigby's hand}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell mage armor}",
 							"{@spell Otiluke's resilient sphere}",
 							"{@spell ola atronadora}"

@@ -643,14 +643,14 @@
 							"aid|xphb",
 							"alarm|xphb",
 							"lesser restoration|xphb",
-							"protection from evil and good|xphb"
+							"protección contra el bien y el mal|xphb"
 						],
 						"5": [
 							"dispel magic|xphb",
 							"protección contra energía|xphb"
 						],
 						"7": [
-							"freedom of movement|xphb",
+							"libertad de movimiento|xphb",
 							"summon construct|xphb"
 						],
 						"9": [
@@ -696,7 +696,7 @@
 							"charm monster|xphb"
 						],
 						"9": [
-							"legend lore|xphb",
+							"conocer las leyendas|xphb",
 							"summon dragon|xphb"
 						]
 					}
@@ -1627,7 +1627,7 @@
 						],
 						[
 							"9",
-							"{@spell Legend Lore|XPHB}, {@spell Summon Dragon|XPHB}"
+							"{@spell Conocer las leyendas|XPHB}, {@spell Summon Dragon|XPHB}"
 						]
 					]
 				}

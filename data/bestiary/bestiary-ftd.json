@@ -93,7 +93,7 @@
 							"{@spell blink}",
 							"{@spell control water}",
 							"{@spell dispel magic}",
-							"{@spell protection from evil and good}",
+							"{@spell protección contra el bien y el mal}",
 							"{@spell sending}"
 						]
 					},
@@ -1610,7 +1610,7 @@
 					"daily": {
 						"1e": [
 							"{@spell dissonant whispers}",
-							"{@spell hold monster}",
+							"{@spell inmovilizar monstruo}",
 							"{@spell meld into stone}",
 							"{@spell telekinesis}"
 						]
@@ -2248,7 +2248,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell protection from evil and good}",
+							"{@spell protección contra el bien y el mal}",
 							"{@spell Tenser's floating disk}",
 							"{@spell unseen servant}"
 						]
@@ -2800,10 +2800,10 @@
 							"{@spell blink}",
 							"{@spell control water}",
 							"{@spell dispel magic}",
-							"{@spell freedom of movement}",
+							"{@spell libertad de movimiento}",
 							"{@spell globe of invulnerability}",
 							"{@spell plane shift}",
-							"{@spell protection from evil and good}",
+							"{@spell protección contra el bien y el mal}",
 							"{@spell sending}"
 						]
 					},
@@ -4607,7 +4607,7 @@
 					"daily": {
 						"1e": [
 							"{@spell dissonant whispers}",
-							"{@spell hold monster}",
+							"{@spell inmovilizar monstruo}",
 							"{@spell meld into stone}",
 							"{@spell telekinesis}",
 							"{@spell teleport}"
@@ -8825,7 +8825,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell disguise self}",
 							"{@spell sending}"
 						]
@@ -9382,7 +9382,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell enhance ability}",
+							"{@spell potenciar característica}",
 							"{@spell flame strike}",
 							"{@spell mass cure wounds}",
 							"{@spell revivify}",
@@ -16124,7 +16124,7 @@
 						"1e": [
 							"{@spell blink}",
 							"{@spell dispel magic}",
-							"{@spell protection from evil and good}",
+							"{@spell protección contra el bien y el mal}",
 							"{@spell sending}"
 						]
 					},
@@ -17513,7 +17513,7 @@
 					"daily": {
 						"1e": [
 							"{@spell dissonant whispers}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell meld into stone}"
 						]
 					},

@@ -59,7 +59,7 @@
 					"_": {
 						"mode": "addSpells",
 						"will": [
-							"{@spell protection from evil and good}"
+							"{@spell protección contra el bien y el mal}"
 						],
 						"daily": {
 							"1e": [
@@ -253,7 +253,7 @@
 					"_": {
 						"mode": "addSpells",
 						"will": [
-							"{@spell protection from evil and good}"
+							"{@spell protección contra el bien y el mal}"
 						],
 						"daily": {
 							"1e": [
@@ -1120,7 +1120,7 @@
 									"slots": 4,
 									"spells": [
 										"{@spell cure wounds}",
-										"{@spell guiding bolt}",
+										"{@spell saeta guía}",
 										"{@spell sanctuary}"
 									]
 								},
@@ -1287,7 +1287,7 @@
 									"slots": 4,
 									"spells": [
 										"{@spell cure wounds}",
-										"{@spell guiding bolt}",
+										"{@spell saeta guía}",
 										"{@spell sanctuary}"
 									]
 								},

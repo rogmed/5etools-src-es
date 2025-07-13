@@ -2424,7 +2424,7 @@
 									"name": "Waiting Servants",
 									"type": "entries",
 									"entries": [
-										"Although the aboleths' ancient empire fell long ago, the psychic bonds between them and their created servants remain intact. Chuuls that come into contact with aboleths immediately assume their old roles. Such chuuls redirect their compulsions to the service of the aboleths' sinister purposes."
+										"Although the aboleths' ancient empire fell long ago, the psychic bonds between them and their created servants remain intact. Chuuls that come into contact with aboleths immediately assume their old roles. Such chuuls redirect their compulsións to the service of the aboleths' sinister purposes."
 									]
 								}
 							]
@@ -3103,7 +3103,7 @@
 									"type": "inset",
 									"name": "Lord Soth",
 									"entries": [
-										"Lord Soth began his fall from grace with an act of heroism, saving an elf named Isolde from an ogre. Soth and Isolde fell in love, but Soth was already married. He had a servant dispose of his wife and was charged with murder, but fled with Isolde. When his castle fell under siege, he prayed for guidance and was told that he must atone for his misdeeds by completing a quest, but growing fears about Isolde's fidelity caused him to abandon his quest. Because his mission was not accomplished, a great cataclysm swept the land. When Isolde gave birth to a son, Soth refused to believe that the child was his and slew them both. All were incinerated in a fire that swept through the castle, yet Soth would find no rest in death, becoming a death knight."
+										"Lord Soth began his fall from grace with an act of heroísmo, saving an elf named Isolde from an ogre. Soth and Isolde fell in love, but Soth was already married. He had a servant dispose of his wife and was charged with murder, but fled with Isolde. When his castle fell under siege, he prayed for guidance and was told that he must atone for his misdeeds by completing a quest, but growing fears about Isolde's fidelity caused him to abandon his quest. Because his mission was not accomplished, a great cataclysm swept the land. When Isolde gave birth to a son, Soth refused to believe that the child was his and slew them both. All were incinerated in a fire that swept through the castle, yet Soth would find no rest in death, becoming a death knight."
 									]
 								}
 							]
@@ -4497,7 +4497,7 @@
 															"type": "inset",
 															"name": "Variant: Drow Magic Armor and Weapons",
 															"entries": [
-																"Drow often wear magic armor and carry magic weapons that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.",
+																"Drow often wear magic armor and carry arma mágicas that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.",
 																{
 																	"type": "list",
 																	"items": [
@@ -7872,7 +7872,7 @@
 															"style": "list-no-bullets",
 															"items": [
 																"1st level (4 slots): {@spell identify}, {@spell rayo nauseabundo}",
-																"2nd level (3 slots): {@spell hold person}, {@spell locate object}",
+																"2nd level (3 slots): {@spell inmovilizar persona}, {@spell locate object}",
 																"3rd level (3 slots): {@spell bestow curse}, {@spell counterspell}, {@spell relámpago}",
 																"4th level (3 slots): {@spell phantasmal killer}, {@spell polymorph}",
 																"5th level (2 slots): {@spell contact other plane}, {@spell scrying}",

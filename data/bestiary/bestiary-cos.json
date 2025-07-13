@@ -1293,7 +1293,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell protection from evil and good}",
+								"{@spell protección contra el bien y el mal}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -1366,7 +1366,7 @@
 				{
 					"name": "Evil Eye (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Ezmerelda targets one creature that she can see within 10 feet of her and casts one of the following spells on the target (save {@dc 14}), requiring neither somatic nor material components to do so: animal friendship, charm person, or hold person. If the target succeeds on the initial saving throw, Ezmerelda is {@condition blinded} until the end of her next turn. Once a target succeeds on a saving throw against this effect, it is immune to the Evil Eye power of all Vistani for 24 hours."
+						"Ezmerelda targets one creature that she can see within 10 feet of her and casts one of the following spells on the target (save {@dc 14}), requiring neither somatic nor material components to do so: animal friendship, charm person, or inmovilizar persona. If the target succeeds on the initial saving throw, Ezmerelda is {@condition blinded} until the end of her next turn. Once a target succeeds on a saving throw against this effect, it is immune to the Evil Eye power of all Vistani for 24 hours."
 					]
 				}
 			],
@@ -1818,7 +1818,7 @@
 							{
 								"name": "Special Equipment",
 								"entries": [
-									"Kasimir wears a {@item ring of warmth} and carries a spellbook containing all the spells he has prepared plus the following spells: {@spell arcane lock}, {@spell comprehend languages}, {@spell hold person}, {@spell identify}, {@spell locate object}, {@spell nondetection}, {@spell polymorph}, {@spell protection from evil and good}, and {@spell wall of stone}."
+									"Kasimir wears a {@item ring of warmth} and carries a spellbook containing all the spells he has prepared plus the following spells: {@spell arcane lock}, {@spell comprehend languages}, {@spell inmovilizar persona}, {@spell identify}, {@spell locate object}, {@spell nondetection}, {@spell polymorph}, {@spell protección contra el bien y el mal}, and {@spell wall of stone}."
 								]
 							}
 						]
@@ -2050,7 +2050,7 @@
 							"spells": [
 								"{@spell augury}",
 								"{@spell gentle repose}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -2265,7 +2265,7 @@
 								"{@spell bane}",
 								"{@spell command}",
 								"{@spell detect evil and good}",
-								"{@spell protection from evil and good}"
+								"{@spell protección contra el bien y el mal}"
 							]
 						},
 						"2": {
@@ -2288,7 +2288,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell divination}",
-								"{@spell freedom of movement}",
+								"{@spell libertad de movimiento}",
 								"{@spell guardián de la fe}"
 							]
 						},
@@ -2340,7 +2340,7 @@
 				{
 					"name": "Evil Eye (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Madam Eva targets one creature that she can see within 10 feet of her and casts one of the following spells on the target (save {@dc 17}), requiring neither somatic nor material components to do so: {@spell animal friendship}, {@spell charm person}, or {@spell hold person}. If the target succeeds on the initial saving throw, Madam Eva is {@condition blinded} until the end of her next turn. Once a target succeeds on a saving throw against this effect, it is immune to the Evil Eye power of all Vistani for 24 hours."
+						"Madam Eva targets one creature that she can see within 10 feet of her and casts one of the following spells on the target (save {@dc 17}), requiring neither somatic nor material components to do so: {@spell animal friendship}, {@spell charm person}, or {@spell inmovilizar persona}. If the target succeeds on the initial saving throw, Madam Eva is {@condition blinded} until the end of her next turn. Once a target succeeds on a saving throw against this effect, it is immune to the Evil Eye power of all Vistani for 24 hours."
 					]
 				}
 			],
@@ -3138,7 +3138,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell magic weapon}",
+							"{@spell arma mágica}",
 							"{@spell nondetection}"
 						],
 						"3": [
@@ -3311,7 +3311,7 @@
 							"spells": [
 								"{@spell cure wounds}",
 								"{@spell detect evil and good}",
-								"{@spell protection from evil and good}",
+								"{@spell protección contra el bien y el mal}",
 								"{@spell sanctuary}"
 							]
 						},
@@ -3335,7 +3335,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell death ward}",
-								"{@spell freedom of movement}"
+								"{@spell libertad de movimiento}"
 							]
 						},
 						"5": {
@@ -3558,7 +3558,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell branding smite}",
-								"{@spell magic weapon}"
+								"{@spell arma mágica}"
 							]
 						},
 						"3": {

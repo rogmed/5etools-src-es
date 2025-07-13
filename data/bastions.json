@@ -88,7 +88,7 @@
 					"type": "entries",
 					"name": "Research: Helpful Lore",
 					"entries": [
-						"When you issue the {@book Research|XDMG|7|Research} order to this facility, you commission the facility's hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the {@spell Legend Lore|XPHB} spell, then shares this knowledge with you the next time you speak with them."
+						"When you issue the {@book Research|XDMG|7|Research} order to this facility, you commission the facility's hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the {@spell Conocer las leyendas|XPHB} spell, then shares this knowledge with you the next time you speak with them."
 					]
 				},
 				{

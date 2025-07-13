@@ -1503,7 +1503,7 @@
 						{
 							"key": "system.description.value",
 							"mode": "ADD",
-							"value": "<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it.</p> <p>The bonus increases to +2 when you reach 10th level in this class.</p> <p><strong>Foundry Note</strong></p> <p>The increase is handled automatically by the Active Effect.</p> "
+							"value": "<p>This arma mágica grants a +1 bonus to attack and damage rolls made with it.</p> <p>The bonus increases to +2 when you reach 10th level in this class.</p> <p><strong>Foundry Note</strong></p> <p>The increase is handled automatically by the Active Effect.</p> "
 						},
 						{
 							"key": "system.properties",
@@ -1530,7 +1530,7 @@
 						{
 							"key": "system.description.value",
 							"mode": "ADD",
-							"value": "<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it.</p> <p>The bonus increases to +2 when you reach 10th level in this class.</p> <p><strong>Foundry Note</strong></p> <p>The increase is handled automatically by the Active Effect.</p> "
+							"value": "<p>This arma mágica grants a +1 bonus to attack and damage rolls made with it.</p> <p>The bonus increases to +2 when you reach 10th level in this class.</p> <p><strong>Foundry Note</strong></p> <p>The increase is handled automatically by the Active Effect.</p> "
 						},
 						{
 							"key": "system.properties",
@@ -3762,7 +3762,7 @@
 						{
 							"key": "system.description.value",
 							"mode": "ADD",
-							"value": "<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.</p> <p>The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.</p> <p><strong>Foundry Note</strong></p> <p>This infusion adds the bonus to attack and damage rolls and the charges but they are not automatically consumed nor are you prompted on each use. This is to enable quick use of the weapon's normal abilities. The chat card includes an option to consume the charge if needed.</p> <p>This infusion also grants the [[/item Radiant Weapon Reaction]] item for handling its charges and saving throw. When the infusion is removed the reaction item will be as well.</p> "
+							"value": "<p>This arma mágica grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.</p> <p>The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.</p> <p><strong>Foundry Note</strong></p> <p>This infusion adds the bonus to attack and damage rolls and the charges but they are not automatically consumed nor are you prompted on each use. This is to enable quick use of the weapon's normal abilities. The chat card includes an option to consume the charge if needed.</p> <p>This infusion also grants the [[/item Radiant Weapon Reaction]] item for handling its charges and saving throw. When the infusion is removed the reaction item will be as well.</p> "
 						},
 						{
 							"key": "system.activation.type",
@@ -3896,7 +3896,7 @@
 						{
 							"key": "system.description.value",
 							"mode": "ADD",
-							"value": "<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.</p> <p>If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.</p>"
+							"value": "<p>This arma mágica grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.</p> <p>If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.</p>"
 						},
 						{
 							"key": "system.properties",
@@ -4626,7 +4626,7 @@
 						{
 							"key": "system.description.value",
 							"mode": "ADD",
-							"value": "<p>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.</p>"
+							"value": "<p>This arma mágica grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.</p>"
 						},
 						{
 							"key": "system.properties",

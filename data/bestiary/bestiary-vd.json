@@ -108,7 +108,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell invisibility}",
 							"{@spell scrying} (as an action)"
 						],

@@ -33,7 +33,7 @@
 								"\u00A0",
 								"Scowling, all-wise Annam spoke to his daughter:",
 								"\"Mighty are my sons in strength,",
-								"And Hiatea, your half sister, her heroism showed",
+								"And Hiatea, your half sister, her heroísmo showed",
 								"In slaying a many-headed monster.",
 								"What such deeds have you done?\"",
 								"\u00A0",
@@ -1505,7 +1505,7 @@
 								],
 								[
 									"2",
-									"The characters acquire a broken magic weapon that only a renowned fire giant smith can repair."
+									"The characters acquire a broken arma mágica that only a renowned fire giant smith can repair."
 								],
 								[
 									"3",
@@ -4718,7 +4718,7 @@
 										{
 											"type": "item",
 											"name": "Ordning's Path",
-											"entry": "A creature who spends 8 hours meditating in the grotto on the nature of order and the rightful course of history can cast one of the following spells at the end of that time (no additional casting time or spell components required): {@spell legend lore}, {@spell greater restoration}, or {@spell remove curse} (cast at 9th level). The spellcasting ability for the spell is the creature's choice of Intelligence, Wisdom, or Charisma. After casting the spell, the creature gains 2 levels of {@condition cansancio}."
+											"entry": "A creature who spends 8 hours meditating in the grotto on the nature of order and the rightful course of history can cast one of the following spells at the end of that time (no additional casting time or spell components required): {@spell conocer las leyendas}, {@spell greater restoration}, or {@spell remove curse} (cast at 9th level). The spellcasting ability for the spell is the creature's choice of Intelligence, Wisdom, or Charisma. After casting the spell, the creature gains 2 levels of {@condition cansancio}."
 										}
 									]
 								}
@@ -6213,7 +6213,7 @@
 										{
 											"type": "item",
 											"name": "Psychic Well",
-											"entry": "A creature can try to harness the psychic power of the well by gazing into it for 1 minute while remaining within 10 feet of the well. At the end of the minute, the creature must make a {@dc 15} Intelligence saving throw. On a failed save, the creature takes 22 ({@dice 4d10}) psychic damage and gains 1 level of {@condition cansancio}. On a successful save, the creature gains a psychic gift of its choice: either the ability to cast the {@spell dimension door} spell requiring no spell components, or the use of a {@creature Mind Flayer||mind flayer's} Mind Blast action. The psychic gift fades when the creature uses it, or if it tries to harness the well again. While this psychic gift is available, the creature also gains telepathy to a range of 30 feet (as described in the {@book Monster Manual|MM}). Once a creature attempts to harness the power of the well, the creature can't do so again until it finishes a long rest."
+											"entry": "A creature can try to harness the psychic power of the well by gazing into it for 1 minute while remaining within 10 feet of the well. At the end of the minute, the creature must make a {@dc 15} Intelligence saving throw. On a failed save, the creature takes 22 ({@dice 4d10}) psychic damage and gains 1 level of {@condition cansancio}. On a successful save, the creature gains a psychic gift of its choice: either the ability to cast the {@spell puerta dimensional} spell requiring no spell components, or the use of a {@creature Mind Flayer||mind flayer's} Mind Blast action. The psychic gift fades when the creature uses it, or if it tries to harness the well again. While this psychic gift is available, the creature also gains telepathy to a range of 30 feet (as described in the {@book Monster Manual|MM}). Once a creature attempts to harness the power of the well, the creature can't do so again until it finishes a long rest."
 										},
 										{
 											"type": "item",
@@ -6377,7 +6377,7 @@
 									"page": 92,
 									"id": "124",
 									"entries": [
-										"The guardian of the vale (appearing as an {@creature androsphinx}) demands a golden apple from {@book Grolantor's Larder|BGG|4|Grolantor's Larder} (in this chapter) in exchange for safe passage to a destination of the characters' choice. At the larder, a {@creature hill giant avalancher|BGG} (see {@book chapter 6|BGG|6|Hill Giant Avalancher}) hoards three golden apples, which act as {@item Potion of Heroism||potions of heroism}, and leads a band from the {@book Hill Giant Encounters table|BGG|3|Hill Giant Encounters} in {@book chapter 3|BGG|3}."
+										"The guardian of the vale (appearing as an {@creature androsphinx}) demands a golden apple from {@book Grolantor's Larder|BGG|4|Grolantor's Larder} (in this chapter) in exchange for safe passage to a destination of the characters' choice. At the larder, a {@creature hill giant avalancher|BGG} (see {@book chapter 6|BGG|6|Hill Giant Avalancher}) hoards three golden apples, which act as {@item Potion of Heroism||potions of heroísmo}, and leads a band from the {@book Hill Giant Encounters table|BGG|3|Hill Giant Encounters} in {@book chapter 3|BGG|3}."
 									]
 								},
 								{

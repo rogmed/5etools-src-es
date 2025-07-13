@@ -15259,7 +15259,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell Legend Lore|XPHB}"
+							"{@spell Conocer las leyendas|XPHB}"
 						],
 						"2e": [
 							"{@spell Ojo arcano|XPHB}",
@@ -49986,7 +49986,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Disipar magia|XPHB}",
-							"{@spell Legend Lore|XPHB}",
+							"{@spell Conocer las leyendas|XPHB}",
 							"{@spell Localizar objeto|XPHB}",
 							"{@spell Plane Shift|XPHB}",
 							"{@spell Remove Curse|XPHB}",

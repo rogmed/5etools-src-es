@@ -2308,12 +2308,12 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell cure wounds}",
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell dispel magic}",
 								"{@spell flame strike}",
 								"{@spell fly}",
 								"{@spell greater restoration}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell plaga de insectos}",
 								"{@spell lesser restoration}",
 								"{@spell suggestion}",
@@ -2573,7 +2573,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell detect thoughts}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell see invisibility}",
 								"{@spell wrack|GHLoE} *"
 							]
@@ -4395,7 +4395,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell invisibility}",
 							"{@spell paso brumoso}",
 							"{@spell silence}"
@@ -4705,7 +4705,7 @@
 						"1e": [
 							"{@spell eyebite}",
 							"{@spell foresight} *",
-							"{@spell freedom of movement}",
+							"{@spell libertad de movimiento}",
 							"{@spell power word stun}",
 							"{@spell teleport}",
 							"{@spell time stop}",
@@ -5937,7 +5937,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blight}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {
@@ -6605,7 +6605,7 @@
 				{
 					"name": "Creeping Corruption",
 					"entries": [
-						"Creatures within 30 ft. that the Malikirian imp can see must make a {@dc 12} Charisma saving throw at the start of their turn. On a failure, the creature acts in accordance with its most selfish, venal, and ruthless impulses to the best of its ability. After 24 hours, the creature must make another Charisma saving throw, ending the compulsion on a success. Failure indicates the compulsion lasts indefinitely until the affected is subject to remove curse or similar magic. Creatures that cannot be {@condition charmed} are immune to this effect."
+						"Creatures within 30 ft. that the Malikirian imp can see must make a {@dc 12} Charisma saving throw at the start of their turn. On a failure, the creature acts in accordance with its most selfish, venal, and ruthless impulses to the best of its ability. After 24 hours, the creature must make another Charisma saving throw, ending the compulsión on a success. Failure indicates the compulsión lasts indefinitely until the affected is subject to remove curse or similar magic. Creatures that cannot be {@condition charmed} are immune to this effect."
 					]
 				},
 				{
@@ -11136,7 +11136,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell lesser restoration}"
 							]
 						},
@@ -11151,7 +11151,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell freedom of movement}",
+								"{@spell libertad de movimiento}",
 								"{@spell tormenta de hielo}"
 							]
 						},

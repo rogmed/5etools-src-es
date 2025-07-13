@@ -639,7 +639,7 @@
 				{
 					"prepared": {
 						"3": [
-							"heroism",
+							"heroísmo",
 							"escudo"
 						],
 						"5": [
@@ -2061,7 +2061,7 @@
 					"type": "list",
 					"items": [
 						"You gain proficiency with {@filter arma marcials|items|type=arma marcial}.",
-						"When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls."
+						"When you attack with a arma mágica, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls."
 					]
 				}
 			]
@@ -2098,7 +2098,7 @@
 					"rows": [
 						[
 							"3rd",
-							"{@spell heroism}, {@spell shield}"
+							"{@spell heroísmo}, {@spell shield}"
 						],
 						[
 							"5th",
@@ -2200,7 +2200,7 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"At 9th level, you learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:",
+				"At 9th level, you learn new ways to channel arcane energy to harm or heal. When either you hit a target with a arma mágica attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:",
 				{
 					"type": "list",
 					"items": [

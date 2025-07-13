@@ -1025,7 +1025,7 @@
 					"daily": {
 						"1e": [
 							"{@spell command}",
-							"{@spell hold person}"
+							"{@spell inmovilizar persona}"
 						]
 					},
 					"ability": "int"

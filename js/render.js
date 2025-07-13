@@ -9997,18 +9997,18 @@ Renderer.monster = class {
 				copper: ["polimorfar", "greater invisibility", "confusion", "nube apestosa", "major image", "charm monster|XGE"],
 			},
 			5: {
-				blue: ["telekinesis", "hold monster", "dimension door", "muro de piedra", "wall of force"],
-				green: ["cloudkill", "charm monster|XGE", "modify memory", "mislead", "hallucinatory terrain", "dimension door"],
+				blue: ["telekinesis", "inmovilizar monstruo", "puerta dimensional", "muro de piedra", "wall of force"],
+				green: ["cloudkill", "charm monster|XGE", "modify memory", "mislead", "hallucinatory terrain", "puerta dimensional"],
 				bronze: ["steel wind strike|XGE", "control winds|XGE", "watery sphere|XGE", "storm sphere|XGE", "tidal wave|XGE"],
-				gold: ["hold monster", "immolation|XGE", "wall of fire", "greater invisibility", "dimension door"],
+				gold: ["inmovilizar monstruo", "immolation|XGE", "wall of fire", "greater invisibility", "puerta dimensional"],
 				silver: ["cono de frío", "tormenta de hielo", "teleportation circle", "skill empowerment|XGE", "creation", "Mordenkainen's private sanctum"],
 			},
 			6: {
 				white: ["cono de frío", "wall of ice"],
-				brass: ["scrying", "Enlace telepático de Rary", "Otto's irresistible dance", "legend lore", "hold monster", "dream"],
+				brass: ["scrying", "Enlace telepático de Rary", "Otto's irresistible dance", "conocer las leyendas", "inmovilizar monstruo", "dream"],
 			},
 			7: {
-				black: ["power word pain|XGE", "finger of death", "disintegrate", "hold monster"],
+				black: ["power word pain|XGE", "finger of death", "disintegrate", "inmovilizar monstruo"],
 				blue: ["chain lightning", "forcecage", "teleport", "etherealness"],
 				green: ["project image", "mirage arcane", "prismatic spray", "teleport"],
 				bronze: ["whirlwind|XGE", "chain lightning", "scatter|XGE", "teleport", "disintegrate", "relámpago"],
@@ -10036,7 +10036,7 @@ Renderer.monster = class {
 				blue: ["create or destroy water", "major image"],
 				red: ["bane", "heat metal", "hypnotic pattern", "suggestion"],
 				gold: ["bless", "cure wounds", "slow", "suggestion", "zone of truth"],
-				silver: ["señal de esperanza", "calm emotions", "hold person", "zone of truth"],
+				silver: ["señal de esperanza", "calm emotions", "inmovilizar persona", "zone of truth"],
 				deep: ["command", "dissonant whispers", "faerie fire", "respirar bajo el agua"],
 			},
 			4: {
@@ -10051,7 +10051,7 @@ Renderer.monster = class {
 				green: ["invisibilidad", "crecimiento vegetal", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "speak with animals"],
 				gold: ["bless", "comunión", "cure wounds", "geas", "slow", "suggestion", "zone of truth"],
-				silver: ["señal de esperanza", "calm emotions", "hold person", "polimorfar", "zone of truth"],
+				silver: ["señal de esperanza", "calm emotions", "inmovilizar persona", "polimorfar", "zone of truth"],
 			},
 			6: {
 				white: ["ráfaga de viento", "tormenta de hielo"],
@@ -10065,7 +10065,7 @@ Renderer.monster = class {
 				green: ["invisibilidad", "mass suggestion", "crecimiento vegetal", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "heroes' feast", "speak with animals"],
 				copper: ["lesser restoration", "move earth", "phantasmal force", "stone shape"],
-				silver: ["señal de esperanza", "calm emotions", "hold person", "polimorfar", "teleport", "zone of truth"],
+				silver: ["señal de esperanza", "calm emotions", "inmovilizar persona", "polimorfar", "teleport", "zone of truth"],
 			},
 			8: {
 				gold: ["bless", "comunión", "cure wounds", "geas", "plane shift", "slow", "suggestion", "word of recall", "zone of truth"],

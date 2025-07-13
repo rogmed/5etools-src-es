@@ -681,7 +681,7 @@
 										"type": "internal",
 										"path": "book/FTD/011-02-004.a-magic-weapon.webp"
 									},
-									"title": "A magic weapon recovered from a dragon's hoard carries some of the dragon's magic",
+									"title": "A arma mágica recovered from a dragon's hoard carries some of the dragon's magic",
 									"width": 850,
 									"height": 1090,
 									"credit": "Kieran Yanner"
@@ -10260,7 +10260,7 @@
 										],
 										[
 											"8",
-											"A faerie dragon has been magically compelled to work as an invisible assassin and is desperate for someone to break the compulsion."
+											"A faerie dragon has been magically compelled to work as an invisible assassin and is desperate for someone to break the compulsión."
 										]
 									]
 								},
@@ -10426,7 +10426,7 @@
 												{
 													"type": "item",
 													"name": "Compulsory Offering",
-													"entry": "The first time a creature comes within 1 mile of the faerie dragon's lair, the creature must succeed on a {@dc 15} Wisdom saving throw or feel an overwhelming compulsion to leave an offering worth at least 5 gp stashed in an out-of-the-way place. The dragon immediately senses the location of this gift. A creature can be affected only once by this compulsion."
+													"entry": "The first time a creature comes within 1 mile of the faerie dragon's lair, the creature must succeed on a {@dc 15} Wisdom saving throw or feel an overwhelming compulsión to leave an offering worth at least 5 gp stashed in an out-of-the-way place. The dragon immediately senses the location of this gift. A creature can be affected only once by this compulsión."
 												},
 												{
 													"type": "item",
@@ -13738,17 +13738,17 @@
 										[
 											"{@creature Young Silver Dragon||Young}",
 											"16",
-											"{@spell señal de esperanza}, {@spell calm emotions}, {@spell hold person}, {@spell zone of truth}"
+											"{@spell señal de esperanza}, {@spell calm emotions}, {@spell inmovilizar persona}, {@spell zone of truth}"
 										],
 										[
 											"{@creature Adult Silver Dragon||Adult}",
 											"18",
-											"{@spell señal de esperanza}, {@spell calm emotions}, {@spell hold person}, {@spell polymorph}, {@spell zone of truth}"
+											"{@spell señal de esperanza}, {@spell calm emotions}, {@spell inmovilizar persona}, {@spell polymorph}, {@spell zone of truth}"
 										],
 										[
 											"{@creature Ancient Silver Dragon||Ancient}",
 											"21",
-											"{@spell señal de esperanza}, {@spell calm emotions}, {@spell hold person}, {@spell polymorph}, {@spell teleport}, {@spell zone of truth}"
+											"{@spell señal de esperanza}, {@spell calm emotions}, {@spell inmovilizar persona}, {@spell polymorph}, {@spell teleport}, {@spell zone of truth}"
 										]
 									]
 								}

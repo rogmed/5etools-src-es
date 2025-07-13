@@ -824,12 +824,12 @@
 										},
 										{
 											"type": "entries",
-											"name": "If a warlock uses Pact of the Blade to bond with a magic weapon, does that weapon have to be a melee weapon, and can the warlock change the weapon's form?",
+											"name": "If a warlock uses Pact of the Blade to bond with a arma mágica, does that weapon have to be a melee weapon, and can the warlock change the weapon's form?",
 											"id": "05a",
 											"entries": [
 												"The warlock's Pact of the Blade feature lets you create a melee weapon out of nothing. Whenever you do so, you determine the weapon's form, choosing from the melee weapon options in the {@book Weapons table|PHB|5|Weapons} in the {@book Player's Handbook|PHB}. For example, you can create a {@item greataxe|PHB}, and then use the feature again to create a {@item javelin|PHB}, which causes the greataxe to disappear.",
-												"You can also use Pact of the Blade to bond with a magic weapon, turning it into your pact weapon. This magic weapon doesn't have to be a melee weapon, so you could use the feature on a {@item +1 longbow}, for instance. Once the bond is formed, the magic weapon appears whenever you call your pact weapon to you, and you can't change the magic weapon's form when it appears. For example, if you bond with a {@item Flame Tongue Longsword||flame tongue (longsword)} and send the weapon to an extradimensional space, the weapon comes back as a longsword when you summon it. You don't get to turn it into a club. Similarly, if you bond with a {@item dagger of venom}, you can't summon it as a maul; it's always a dagger.",
-												"The feature allows the conjuring forth of a melee weapon, yet we allow more versatility when it comes to magic weapons. We didn't want a narrow focus in this feature to make a warlock unhappy when a variety of magic weapons appear in a campaign. Does this versatility extend outside the melee theme of the feature? It sure does, but we're willing to occasionally bend a design concept if doing so is likely to increase a player's happiness."
+												"You can also use Pact of the Blade to bond with a arma mágica, turning it into your pact weapon. This arma mágica doesn't have to be a melee weapon, so you could use the feature on a {@item +1 longbow}, for instance. Once the bond is formed, the arma mágica appears whenever you call your pact weapon to you, and you can't change the arma mágica's form when it appears. For example, if you bond with a {@item Flame Tongue Longsword||flame tongue (longsword)} and send the weapon to an extradimensional space, the weapon comes back as a longsword when you summon it. You don't get to turn it into a club. Similarly, if you bond with a {@item dagger of venom}, you can't summon it as a maul; it's always a dagger.",
+												"The feature allows the conjuring forth of a melee weapon, yet we allow more versatility when it comes to arma mágicas. We didn't want a narrow focus in this feature to make a warlock unhappy when a variety of arma mágicas appear in a campaign. Does this versatility extend outside the melee theme of the feature? It sure does, but we're willing to occasionally bend a design concept if doing so is likely to increase a player's happiness."
 											]
 										},
 										{
@@ -1967,7 +1967,7 @@
 												{
 													"type": "list",
 													"items": [
-														"The warlock's Chains of Carceri feature lets a warlock cast {@spell hold monster} without using a spell slot. That casting of {@spell hold monster} is, therefore, 5th level, which is the lowest possible level for that spell.",
+														"The warlock's Chains of Carceri feature lets a warlock cast {@spell inmovilizar monstruo} without using a spell slot. That casting of {@spell inmovilizar monstruo} is, therefore, 5th level, which is the lowest possible level for that spell.",
 														"The warlock's Thief of Five Fates feature lets a warlock cast {@spell bane} using a spell slot, which means the spell is 1st level or higher, depending on the slot that the warlock expends to cast it.",
 														"The monk's Disciple of the Elements feature lets the monk spend ki points, rather than a spell slot, to increase the level of a spell."
 													]
@@ -2233,7 +2233,7 @@
 											"name": "Can you use dispel magic to dispel a magical effect like a vampire's Charm ability or a druid's Wild Shape?",
 											"id": "0f4",
 											"entries": [
-												"{@spell Dispel magic} has a particular purpose: to break other spells. It has no effect on a vampire's Charm ability or any other magical effect that isn't a spell. It also does nothing to the properties of a magic item. It can, however, end a spell cast from a magic item or from another source. Spells\u2014they're what {@spell dispel magic} is about. For example, if you cast {@spell dispel magic} on a {@item staff of power}, the spell fails to disrupt the staff's magical properties, but if the staff's wielder casts {@spell hold monster} from the staff, {@spell dispel magic} can end that spell if cast on the target of {@spell hold monster}.",
+												"{@spell Dispel magic} has a particular purpose: to break other spells. It has no effect on a vampire's Charm ability or any other magical effect that isn't a spell. It also does nothing to the properties of a magic item. It can, however, end a spell cast from a magic item or from another source. Spells\u2014they're what {@spell dispel magic} is about. For example, if you cast {@spell dispel magic} on a {@item staff of power}, the spell fails to disrupt the staff's magical properties, but if the staff's wielder casts {@spell inmovilizar monstruo} from the staff, {@spell dispel magic} can end that spell if cast on the target of {@spell inmovilizar monstruo}.",
 												"There are abilities and other spells that can end or suspend magical effects that aren't spells. For example, the {@spell greater restoration} spell can end a charm effect of any sort on a target (such as a {@creature Vampire||vampire's} Charm or a {@creature Dryad||dryad's} Fey Charm), and a paladin's Aura of Devotion can prevent or suspend such an effect.",
 												"Three of the most versatile spells for ending certain magical effects are {@spell lesser restoration}, {@spell greater restoration}, and {@spell remove curse}."
 											]
@@ -2254,7 +2254,7 @@
 											"id": "0f6",
 											"entries": [
 												"The easiest way to stop a spell is to cast {@spell counterspell} on its caster while it's being cast. If successful, {@spell counterspell} interrupts the other spell's casting, and that spell fails to take effect. {@spell Contrahechizo} works against any spell, regardless of a spell's casting time or duration.",
-												"With the {@action Ready} action, dispel magic can be cast in response to another spell being cast, yet {@spell dispel magic} can't substitute for {@spell counterspell}. The main reason is that {@spell dispel magic} removes a spell that is already on a target, whether that target is a creature, an object, or some other phenomenon. {@spell Dispel magic} can't dispel something in advance. If a spell isn't already present on a target, {@spell dispel magic} does nothing to that target. The best that a readied {@spell dispel magic} can do is dispel a spell immediately after the spell has been cast to prevent it from having any effect after the action used to cast it. For example, on your turn you could say something like this: \"I ready {@spell dispel magic}, and if the high priest casts a spell on anyone, I cast {@spell dispel magic} on the target if the spell takes hold.\" If the high priest then cast {@spell hold person} on your companion who fails the save against it, you could unleash your readied {@spell dispel magic} and end {@spell hold person}."
+												"With the {@action Ready} action, dispel magic can be cast in response to another spell being cast, yet {@spell dispel magic} can't substitute for {@spell counterspell}. The main reason is that {@spell dispel magic} removes a spell that is already on a target, whether that target is a creature, an object, or some other phenomenon. {@spell Dispel magic} can't dispel something in advance. If a spell isn't already present on a target, {@spell dispel magic} does nothing to that target. The best that a readied {@spell dispel magic} can do is dispel a spell immediately after the spell has been cast to prevent it from having any effect after the action used to cast it. For example, on your turn you could say something like this: \"I ready {@spell dispel magic}, and if the high priest casts a spell on anyone, I cast {@spell dispel magic} on the target if the spell takes hold.\" If the high priest then cast {@spell inmovilizar persona} on your companion who fails the save against it, you could unleash your readied {@spell dispel magic} and end {@spell inmovilizar persona}."
 											]
 										},
 										{
@@ -2358,7 +2358,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Do the temporary hit points from heroism accumulate each round?",
+											"name": "Do the temporary hit points from heroísmo accumulate each round?",
 											"id": "101",
 											"entries": [
 												"Temporary hit points aren't cumulative. The spell would tell you if you were meant to add together the temporary hit points it provides. At the start of each of your turns, the spell, effectively, refreshes the number of temporary hit points you have from it; if you lost some or all of the temporary hit points, the spell gives them back to you."
@@ -2366,10 +2366,10 @@
 										},
 										{
 											"type": "entries",
-											"name": "If the heroism spell is cast on a character that is already frightened, does it remove the frightened effect?",
+											"name": "If the heroísmo spell is cast on a character that is already frightened, does it remove the frightened effect?",
 											"id": "102",
 											"entries": [
-												"The {@spell heroism} spell would suppress a frightening effect that was already on its target. When the spell ends, the target's immunity goes away and the frightening effect resumes if it has not expired or been removed."
+												"The {@spell heroísmo} spell would suppress a frightening effect that was already on its target. When the spell ends, the target's immunity goes away and the frightening effect resumes if it has not expired or been removed."
 											]
 										},
 										{
@@ -2805,7 +2805,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Is a vampire affected by hold person or calm emotions?",
+											"name": "Is a vampire affected by inmovilizar persona or calm emotions?",
 											"id": "12a",
 											"entries": [
 												"Many spells affect not just any creatures, but only certain types, as specified in the spell. {@spell Hold person} and {@spell calm emotions} work only on humanoids, and a {@creature vampire} is not a humanoid."
@@ -2908,11 +2908,11 @@
 										},
 										{
 											"type": "entries",
-											"name": "Do magic weapons give you a bonus to attack and damage rolls?",
+											"name": "Do arma mágicas give you a bonus to attack and damage rolls?",
 											"id": "134",
 											"entries": [
-												"A magic weapon gives you a bonus to attack rolls and damage rolls only if its description says it does. Every magic weapon can bypass resistances and immunities to damage from nonmagical attacks, but only certain magic weapons are more accurate and damaging than their nonmagical counterparts. For example, a {@item +1 longsword} and a {@item giant slayer} both give you a +1 bonus to attack rolls and damage rolls, whereas neither a {@item flame tongue} nor a {@item frost brand} provides such a bonus. All four weapons, however, can bypass an {@creature Earth Elemental||earth elemental's} resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.",
-												"In short, a bonus to attack rolls and damage rolls is considered a special property of a magic weapon, not something that all magic weapons provide automatically."
+												"A arma mágica gives you a bonus to attack rolls and damage rolls only if its description says it does. Every arma mágica can bypass resistances and immunities to damage from nonmagical attacks, but only certain arma mágicas are more accurate and damaging than their nonmagical counterparts. For example, a {@item +1 longsword} and a {@item giant slayer} both give you a +1 bonus to attack rolls and damage rolls, whereas neither a {@item flame tongue} nor a {@item frost brand} provides such a bonus. All four weapons, however, can bypass an {@creature Earth Elemental||earth elemental's} resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.",
+												"In short, a bonus to attack rolls and damage rolls is considered a special property of a arma mágica, not something that all arma mágicas provide automatically."
 											]
 										},
 										{
@@ -2925,10 +2925,10 @@
 										},
 										{
 											"type": "entries",
-											"name": "Are magic weapons with the thrown property (javelins and the like) assumed to return to their owner after being thrown?",
+											"name": "Are arma mágicas with the thrown property (javelins and the like) assumed to return to their owner after being thrown?",
 											"id": "136",
 											"entries": [
-												"If a magic weapon returns to you after you throw it, its description says so, as in the {@item dwarven thrower}."
+												"If a arma mágica returns to you after you throw it, its description says so, as in the {@item dwarven thrower}."
 											]
 										},
 										{

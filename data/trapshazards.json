@@ -636,7 +636,7 @@
 						{
 							"type": "itemSub",
 							"name": "Shut off the main power cable",
-							"entry": "On the wall near the power matrix is a mizzium-reinforced metal casing that holds the main power breaker for the matrix. It can be spotted with a successful {@dc 10} Wisdom ({@skill Perception}) check if someone is looking for something else notable in the lab. This is securely locked, requiring two successful {@dc 20} Dexterity checks with {@item Herramientas de ladrón|phb}, two successful {@dc 16} Intelligence ({@skill Arcana}) checks, or 20 points of damage with a magic weapon to break open. Once opened, a switch can be thrown to shut down the matrix, disabling all elements of the trap."
+							"entry": "On the wall near the power matrix is a mizzium-reinforced metal casing that holds the main power breaker for the matrix. It can be spotted with a successful {@dc 10} Wisdom ({@skill Perception}) check if someone is looking for something else notable in the lab. This is securely locked, requiring two successful {@dc 20} Dexterity checks with {@item Herramientas de ladrón|phb}, two successful {@dc 16} Intelligence ({@skill Arcana}) checks, or 20 points of damage with a arma mágica to break open. Once opened, a switch can be thrown to shut down the matrix, disabling all elements of the trap."
 						}
 					]
 				}

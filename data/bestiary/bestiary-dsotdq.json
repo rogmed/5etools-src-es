@@ -1064,7 +1064,7 @@
 							"{@spell dominate person}"
 						],
 						"2e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell disguise self}",
 							"{@spell sending}"
 						]
@@ -6861,7 +6861,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell mage armor}"
 						],
 						"1e": [
@@ -7034,7 +7034,7 @@
 						],
 						"2e": [
 							"{@spell dispel magic}",
-							"{@spell hold person} (cast at 3rd level)"
+							"{@spell inmovilizar persona} (cast at 3rd level)"
 						]
 					},
 					"ability": "cha",
@@ -7929,7 +7929,7 @@
 								[
 									"7th",
 									"44 ({@dice 8d6 + 16})",
-									"Spellcasting. Tem gains one 2nd-level spell slot. She also learns another 2nd-level spell: {@spell enhance ability}."
+									"Spellcasting. Tem gains one 2nd-level spell slot. She also learns another 2nd-level spell: {@spell potenciar característica}."
 								],
 								[
 									"8th",
@@ -8045,7 +8045,7 @@
 								"2": {
 									"slots": 1,
 									"spells": [
-										"{@spell enhance ability}"
+										"{@spell potenciar característica}"
 									]
 								}
 							},
@@ -8126,7 +8126,7 @@
 								"2": {
 									"slots": 1,
 									"spells": [
-										"{@spell enhance ability}"
+										"{@spell potenciar característica}"
 									]
 								},
 								"3": {
@@ -8472,7 +8472,7 @@
 								"2": {
 									"slots": 1,
 									"spells": [
-										"{@spell enhance ability}"
+										"{@spell potenciar característica}"
 									]
 								}
 							},
@@ -8552,7 +8552,7 @@
 								"2": {
 									"slots": 1,
 									"spells": [
-										"{@spell enhance ability}"
+										"{@spell potenciar característica}"
 									]
 								}
 							},
@@ -8632,7 +8632,7 @@
 								"2": {
 									"slots": 1,
 									"spells": [
-										"{@spell enhance ability}"
+										"{@spell potenciar característica}"
 									]
 								}
 							},

@@ -6632,7 +6632,7 @@
 											"style": "list-hang-notitle",
 											"items": [
 												"{@class Paladín|XPHB|Oath of Devotion|Devotion|XPHB} to emulate the angels of justice.",
-												"{@class Paladín|XPHB|Juramento de gloria|Gloria|XPHB} to reach the heights of heroism.",
+												"{@class Paladín|XPHB|Juramento de gloria|Gloria|XPHB} to reach the heights of heroísmo.",
 												"{@class Paladín|XPHB|Juramento de los antiguos|Antiguos|XPHB} to preserve life, joy, and nature.",
 												"{@class Paladín|XPHB|Juramento de venganza|Venganza|XPHB} to hunt down evildoers."
 											]
@@ -12694,7 +12694,7 @@
 								"{@spell Comunión con la naturaleza|XPHB}",
 								"{@spell Compelled Duel|XPHB}",
 								"{@spell Comprehend Languages|XPHB}",
-								"{@spell Compulsion|XPHB}",
+								"{@spell Compulsión|XPHB}",
 								"{@spell Cono de frío|XPHB}",
 								"{@spell Confusion|XPHB}",
 								"{@spell Conjurar animales|XPHB}",
@@ -12900,7 +12900,7 @@
 							"style": "list-hang-notitle",
 							"columns": 3,
 							"items": [
-								"{@spell Legend Lore|XPHB}",
+								"{@spell Conocer las leyendas|XPHB}",
 								"{@spell Leomund's Secret Chest|XPHB}",
 								"{@spell Leomund's Tiny Hut|XPHB}",
 								"{@spell Restablecimiento menor|XPHB}",
@@ -13162,7 +13162,7 @@
 							"style": "list-hang-notitle",
 							"columns": 3,
 							"items": [
-								"{@spell Yolande's Regal Presence|XPHB}"
+								"{@spell Presencia regia de Yolande|XPHB}"
 							]
 						},
 						{

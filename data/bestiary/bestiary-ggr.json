@@ -787,7 +787,7 @@
 								"{@spell alter self}",
 								"{@spell darkvision}",
 								"{@spell enlarge/reduce}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -812,7 +812,7 @@
 							"spells": [
 								"{@spell cono de frío}",
 								"{@spell creation}",
-								"{@spell hold monster}"
+								"{@spell inmovilizar monstruo}"
 							]
 						},
 						"6": {
@@ -2956,7 +2956,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dominate beast}",
-								"{@spell freedom of movement}",
+								"{@spell libertad de movimiento}",
 								"{@spell wall of fire}"
 							]
 						},
@@ -3248,9 +3248,9 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell healing word}",
-								"{@spell heroism}",
+								"{@spell heroísmo}",
 								"{@spell shield of faith}"
 							]
 						},
@@ -3420,7 +3420,7 @@
 					"daily": {
 						"3e": [
 							"{@spell compelled duel}",
-							"{@spell guiding bolt} (as a 5th-level spell)"
+							"{@spell saeta guía} (as a 5th-level spell)"
 						],
 						"1e": [
 							"{@spell daylight}",
@@ -3570,7 +3570,7 @@
 						"1e": [
 							"{@spell banishment}",
 							"{@spell cono de frío}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell fireball}",
 							"{@spell tormenta de hielo}"
 						]
@@ -5424,7 +5424,7 @@
 								"{@spell arcane lock}",
 								"{@spell augury}",
 								"{@spell calm emotions}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell silence}",
 								"{@spell zone of truth}"
 							]
@@ -6232,7 +6232,7 @@
 							"spells": [
 								"{@spell arcane lock}",
 								"{@spell detect thoughts}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -6371,7 +6371,7 @@
 					"will": [
 						"{@spell detect thoughts}",
 						"{@spell encode thoughts|GGR} (see chapter 2)",
-						"{@spell freedom of movement}",
+						"{@spell libertad de movimiento}",
 						"{@spell vicious mockery} ({@damage 4d4} psychic damage)"
 					],
 					"daily": {
@@ -6745,7 +6745,7 @@
 					"daily": {
 						"3e": [
 							"{@spell charm person}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell Imagen múltiple}",
 							"{@spell sleep}"
 						],
@@ -7197,7 +7197,7 @@
 								"{@spell blur}",
 								"{@spell enlarge/reduce}",
 								"{@spell flaming sphere}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell scorching ray}"
 							]
 						},
@@ -7214,7 +7214,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell confusion}",
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell fabricate}"
 							]
 						},
@@ -8659,7 +8659,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell shield}",
 								"{@spell ola atronadora}",
 								"{@spell witch bolt}"
@@ -9757,7 +9757,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell calm emotions}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell suggestion}"
 							]
 						},

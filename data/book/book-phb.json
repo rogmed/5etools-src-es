@@ -1677,7 +1677,7 @@
 									"name": "Bonds",
 									"page": 124,
 									"entries": [
-										"Create one bond for your character. Bonds represent a character's connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroism, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character's motivations and goals.",
+										"Create one bond for your character. Bonds represent a character's connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroísmo, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character's motivations and goals.",
 										"Bonds might answer any of these questions: Whom do you care most about? To what place do you feel a special connection? What is your most treasured possession?",
 										"Your bonds might be tied to your class, your background, your race, or some other aspect of your character's history or personality. You might also gain new bonds over the course of your adventures."
 									],
@@ -1688,7 +1688,7 @@
 									"name": "Flaws",
 									"page": 124,
 									"entries": [
-										"Finally, choose a flaw for your character. Your character's flaw represents some vice, compulsion, fear, or weakness\u2014in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests. More significant than negative personality traits, a flaw might answer any of these questions: What enrages you? What's the one person, concept, or event that you are terrified of? What are your vices?"
+										"Finally, choose a flaw for your character. Your character's flaw represents some vice, compulsión, fear, or weakness\u2014in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests. More significant than negative personality traits, a flaw might answer any of these questions: What enrages you? What's the one person, concept, or event that you are terrified of? What are your vices?"
 									],
 									"id": "051"
 								},
@@ -9627,7 +9627,7 @@
 							"name": "4th Level",
 							"columns": 4,
 							"items": [
-								"{@spell Compulsion}",
+								"{@spell Compulsión}",
 								"{@spell Confusion}",
 								"{@spell Puerta dimensional}",
 								"{@spell Libertad de movimiento}",
@@ -9650,7 +9650,7 @@
 								"{@spell Geas}",
 								"{@spell Restablecimiento mayor}",
 								"{@spell Inmovilizar monstruo}",
-								"{@spell Legend Lore}",
+								"{@spell Conocer las leyendas}",
 								"{@spell Curar heridas en masa}",
 								"{@spell Mislead}",
 								"{@spell Modify Memory}",
@@ -9847,7 +9847,7 @@
 								"{@spell Restablecimiento mayor}",
 								"{@spell Hallow}",
 								"{@spell Plaga de insectos}",
-								"{@spell Legend Lore}",
+								"{@spell Conocer las leyendas}",
 								"{@spell Curar heridas en masa}",
 								"{@spell Planar Binding}",
 								"{@spell Raise Dead}",
@@ -10867,7 +10867,7 @@
 								"{@spell Dream}",
 								"{@spell Geas}",
 								"{@spell Inmovilizar monstruo}",
-								"{@spell Legend Lore}",
+								"{@spell Conocer las leyendas}",
 								"{@spell Mislead}",
 								"{@spell Modify Memory}",
 								"{@spell Passwall}",
@@ -11046,7 +11046,7 @@
 								"{@spell Comunión con la naturaleza}",
 								"{@spell Compelled Duel}",
 								"{@spell Comprehend Languages}",
-								"{@spell Compulsion}",
+								"{@spell Compulsión}",
 								"{@spell Cono de frío}",
 								"{@spell Confusion}",
 								"{@spell Conjurar animales}",
@@ -11184,7 +11184,7 @@
 								"{@spell Invisibility}",
 								"{@spell Jump}",
 								"{@spell Knock}",
-								"{@spell Legend Lore}",
+								"{@spell Conocer las leyendas}",
 								"{@spell Leomund's Secret Chest}",
 								"{@spell Leomund's Tiny Hut}",
 								"{@spell Restablecimiento menor}",

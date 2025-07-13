@@ -105,7 +105,7 @@
 						"_": {
 							"limited": {
 								"1": [
-									"hold person#3",
+									"inmovilizar persona#3",
 									"command",
 									"counterspell"
 								]
@@ -115,7 +115,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell hold person} (3rd-level version), {@spell command}, or {@spell counterspell} spell. The charm vanishes after you activate it."
+				"When you activate this charm, you can cast the {@spell inmovilizar persona} (3rd-level version), {@spell command}, or {@spell counterspell} spell. The charm vanishes after you activate it."
 			]
 		},
 		{
@@ -709,7 +709,7 @@
 								"1": [
 									"crusader's mantle",
 									"haste",
-									"guiding bolt"
+									"saeta guía"
 								]
 							}
 						}
@@ -717,7 +717,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell crusader's mantle} or {@spell haste} spell. Alternatively, you can cast the {@spell guiding bolt} spell, and if it hits, you regain a number of hit points equal to the damage it deals. The charm vanishes after you activate it."
+				"When you activate this charm, you can cast the {@spell crusader's mantle} or {@spell haste} spell. Alternatively, you can cast the {@spell saeta guía} spell, and if it hits, you regain a number of hit points equal to the damage it deals. The charm vanishes after you activate it."
 			]
 		},
 		{
@@ -1160,7 +1160,7 @@
 			],
 			"type": "Charm",
 			"entries": [
-				"This charm allows you to give yourself the benefit of a {@item potion of heroism} as an action. Once you do so, the charm vanishes from you."
+				"This charm allows you to give yourself the benefit of a {@item potion of heroísmo} as an action. Once you do so, the charm vanishes from you."
 			]
 		},
 		{
@@ -1738,7 +1738,7 @@
 						"_": {
 							"limited": {
 								"3": [
-									"enhance ability"
+									"potenciar característica"
 								]
 							}
 						}
@@ -2725,7 +2725,7 @@
 						"_": {
 							"limited": {
 								"1": [
-									"heroism",
+									"heroísmo",
 									"thunderwave#3"
 								]
 							}
@@ -2734,7 +2734,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell heroism} or {@spell ola atronadora} spell (3rd-level versions). Alternatively, as a reaction when you miss with a weapon attack, you can make another attack against the target you missed. The charm vanishes after you activate it."
+				"When you activate this charm, you can cast the {@spell heroísmo} or {@spell ola atronadora} spell (3rd-level versions). Alternatively, as a reaction when you miss with a weapon attack, you can make another attack against the target you missed. The charm vanishes after you activate it."
 			]
 		},
 		{
@@ -3865,7 +3865,7 @@
 						"_": {
 							"limited": {
 								"1": [
-									"enhance ability#3",
+									"potenciar característica#3",
 									"enlarge/reduce",
 									"gaseous form"
 								]
@@ -3875,7 +3875,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell enhance ability} (3rd-level version), {@spell enlarge/reduce}, or {@spell gaseous form} spell. The charm vanishes after you activate it."
+				"When you activate this charm, you can cast the {@spell potenciar característica} (3rd-level version), {@spell enlarge/reduce}, or {@spell gaseous form} spell. The charm vanishes after you activate it."
 			]
 		},
 		{

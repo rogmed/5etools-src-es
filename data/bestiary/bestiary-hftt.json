@@ -182,7 +182,7 @@
 						},
 						"2": {
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell paso brumoso}"
 							],
 							"slots": 3

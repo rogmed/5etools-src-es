@@ -3107,8 +3107,8 @@
 					"daily": {
 						"1e": [
 							"{@spell detect thoughts}",
-							"{@spell dimension door}",
-							"{@spell hold monster}"
+							"{@spell puerta dimensional}",
+							"{@spell inmovilizar monstruo}"
 						]
 					},
 					"ability": "cha",

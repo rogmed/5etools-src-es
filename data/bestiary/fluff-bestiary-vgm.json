@@ -500,7 +500,7 @@
 								{
 									"name": "Unhallowed Fragments",
 									"entries": [
-										"A bodak retains vague impressions of its past life. It seeks out both its former allies and its former enemies to destroy them, as its warped soul seeks to erase anything connected to its former life. Minions of Orcus are the one exception to this compulsion; a bodak recognizes them as kindred souls and spares them from its wrath. Anyone who knew the individual before its transformation into a bodak can recognize mannerisms or other subtle clues to its original identity."
+										"A bodak retains vague impressions of its past life. It seeks out both its former allies and its former enemies to destroy them, as its warped soul seeks to erase anything connected to its former life. Minions of Orcus are the one exception to this compulsión; a bodak recognizes them as kindred souls and spares them from its wrath. Anyone who knew the individual before its transformation into a bodak can recognize mannerisms or other subtle clues to its original identity."
 									],
 									"type": "entries"
 								},
@@ -3887,7 +3887,7 @@
 											"name": "Nilbogism",
 											"entries": [
 												"A nilbog is an invisible spirit that possesses only goblins. Bereft of a host, the spirit has a flying speed of 30 feet and can't speak or be attacked. The only action it can take is to attempt to possess a goblin within 5 feet of it.",
-												"A goblin targeted by the spirit must succeed on a {@dc 15} Charisma saving throw or become possessed. While possessed by the spirit, the goblin's alignment becomes chaotic evil, its Charisma becomes 15 (unless it was already higher), and it gains the nilbog's Innate Spellcasting and Nilbogism traits, as well as its Reversal of Fortune reaction. If the save succeeds, the spirit can't possess that goblin for 24 hours. If its host is killed or the possession is ended by a spell such as hallow, magic circle, or protection from evil and good, the spirit searches for another goblin to possess. The spirit can leave its host at any time, but it won't do so willingly unless it knows there's another potential host nearby. A goblin stripped of its nilbog spirit reverts to its normal statistics and loses the traits it gained while possessed."
+												"A goblin targeted by the spirit must succeed on a {@dc 15} Charisma saving throw or become possessed. While possessed by the spirit, the goblin's alignment becomes chaotic evil, its Charisma becomes 15 (unless it was already higher), and it gains the nilbog's Innate Spellcasting and Nilbogism traits, as well as its Reversal of Fortune reaction. If the save succeeds, the spirit can't possess that goblin for 24 hours. If its host is killed or the possession is ended by a spell such as hallow, magic circle, or protección contra el bien y el mal, the spirit searches for another goblin to possess. The spirit can leave its host at any time, but it won't do so willingly unless it knows there's another potential host nearby. A goblin stripped of its nilbog spirit reverts to its normal statistics and loses the traits it gained while possessed."
 											]
 										},
 										{
@@ -5492,7 +5492,7 @@
 									"name": "Sound of Looming Death",
 									"entries": [
 										"Yeth hounds make a ghastly baying sound that can be heard all around. Creatures that can see a hound when it bays are filled with supernatural fear and usually flee in terror. When a victim tries to run away, a hound delights in chasing after it and tormenting it before bringing the hunt to a close.",
-										"Those that stand their ground and fight back discover that mundane weapons partially pass through the hound as if it was made of fog, but magic weapons and silvered weapons can strike true."
+										"Those that stand their ground and fight back discover that mundane weapons partially pass through the hound as if it was made of fog, but arma mágicas and silvered weapons can strike true."
 									],
 									"type": "entries"
 								},

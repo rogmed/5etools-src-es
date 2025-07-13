@@ -1381,8 +1381,8 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
-								"{@spell magic weapon}"
+								"{@spell inmovilizar persona}",
+								"{@spell arma mágica}"
 							]
 						},
 						"3": {
@@ -1595,7 +1595,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blight}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {
@@ -1949,14 +1949,14 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell shield of faith}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell silence}",
 								"{@spell spiritual weapon}"
 							]
@@ -3410,7 +3410,7 @@
 							"4": [
 								{
 									"replace": "{@spell banishment}",
-									"with": "{@spell dimension door}"
+									"with": "{@spell puerta dimensional}"
 								}
 							]
 						}

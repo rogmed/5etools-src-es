@@ -191,7 +191,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell nube de dagas}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell see invisibility}"
 							]
 						},

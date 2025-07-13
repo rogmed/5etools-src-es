@@ -227,7 +227,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}*",
+								"{@spell inmovilizar persona}*",
 								"{@spell invisibility}",
 								"{@spell suggestion}*"
 							]
@@ -250,7 +250,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell hold monster}*"
+								"{@spell inmovilizar monstruo}*"
 							]
 						}
 					},

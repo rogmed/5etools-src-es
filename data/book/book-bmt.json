@@ -374,7 +374,7 @@
 							"entries": [
 								"The {@item Deck of Many Things} has the power to transform anyone who draws from it, but to trigger its effects, the individual handling the cards must state their desire to draw from it, as well as the number of cards they intend to draw. Otherwise, the deck's magical powers lie dormant. Anyone who identifies a deck learns this about the deck in the process, per the rules for {@book identifying magic items|DMG|7|Identifying a Magic Item}.",
 								"This means that under normal circumstances, characters can handle a {@item Deck of Many Things} safely. A character who finds a deck can look at it, spread the cards out, and otherwise manipulate the cards without triggering their effects. This is why folk are able to use decks as divinatory tools, placing cards before themselves to gain insight into the future or personal dilemmas without triggering the cards' effects.",
-								"But accidents do happen. A curious stranger who spots a deck, face down, might reach out to draw the topmost card without realizing the import of their actions, spurring an adventure that draws the characters' attention. While the decks aren't sapient and have no thoughts or goals of their own, many people report feeling a compulsion to draw from decks whenever they are near."
+								"But accidents do happen. A curious stranger who spots a deck, face down, might reach out to draw the topmost card without realizing the import of their actions, spurring an adventure that draws the characters' attention. While the decks aren't sapient and have no thoughts or goals of their own, many people report feeling a compulsión to draw from decks whenever they are near."
 							]
 						},
 						{
@@ -4119,7 +4119,7 @@
 										},
 										"entry": "Gem"
 									},
-									"You seek a fabled magic weapon or magic suit of armor. You won't rest until you find it."
+									"You seek a fabled arma mágica or magic suit of armor. You won't rest until you find it."
 								],
 								[
 									{
@@ -20118,7 +20118,7 @@
 							"id": "2db",
 							"entries": [
 								"Most members of the Grim Harrow are souls slain by the {@creature avatar of death|DMG} (as summoned by a {@item Deck of Many Things}). However, not all such souls are deemed worthy of joining the group.",
-								"Upon dying at the hands of the avatar, souls appear in the Gardens of Decay, a demiplane detailed later in this chapter. The souls are permanently bound to this demiplane and take on the form of evil Undead such as {@creature Shadow||shadows} or {@creature Ghoul||ghouls}. Many of these creatures wander the demiplane, pursuing their cruel compulsions.",
+								"Upon dying at the hands of the avatar, souls appear in the Gardens of Decay, a demiplane detailed later in this chapter. The souls are permanently bound to this demiplane and take on the form of evil Undead such as {@creature Shadow||shadows} or {@creature Ghoul||ghouls}. Many of these creatures wander the demiplane, pursuing their cruel compulsións.",
 								"New arrivals are spotted by the grim champions or their lieutenants, who seek out potential hunters and coerce them into service through temptation or the threat of violence. The ideal candidate for the Grim Harrow is intelligent enough to pursue leads, powerful enough to claim the deck from anyone who resists, and obedient enough to do what the grim champions tell it. But this combination is rare, so the grim champions must often settle for imperfect servants.",
 								"The most common recruits to the Grim Harrow are {@creature Revenant||revenants}, {@creature Specter||specters}, {@creature Wight||wights}, and {@creature Wraith||wraiths}. {@creature Ghost||Ghosts} and {@creature Mummy||mummies} are also counted among the group's members, and the lieutenants of the grim champions are typically {@creature Death Knight||death knights}, {@creature Lich||liches}, and {@creature Vampire||vampires}. If you have access to {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM}, {@filter sword wraiths|bestiary|source=MPMM|search=sword wraith} and {@filter deathlocks|bestiary|source=MPMM|search=deathlock} make excellent additions to the Grim Harrow."
 							]

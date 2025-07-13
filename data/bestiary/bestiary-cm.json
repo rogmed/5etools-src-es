@@ -280,7 +280,7 @@
 							"{@spell detect magic}",
 							"{@spell dispel magic}",
 							"{@spell faerie fire}",
-							"{@spell hold monster}"
+							"{@spell inmovilizar monstruo}"
 						],
 						"1e": [
 							"{@spell mind blank}",
@@ -760,7 +760,7 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The ghost regains 10 hit points at the start of its turn. If the ghost takes radiant damage or damage from a magic weapon, this trait doesn't function at the start of the ghost's next turn. The ghost dies only if it starts its turn with 0 hit points and doesn't regenerate."
+						"The ghost regains 10 hit points at the start of its turn. If the ghost takes radiant damage or damage from a arma mágica, this trait doesn't function at the start of the ghost's next turn. The ghost dies only if it starts its turn with 0 hit points and doesn't regenerate."
 					]
 				}
 			],
@@ -1230,14 +1230,14 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell shield of faith}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell silence}",
 								"{@spell spiritual weapon}"
 							]
@@ -2631,11 +2631,11 @@
 							"{@spell banishment}",
 							"{@spell contact other plane}",
 							"{@spell Drawmij's instant summons}",
-							"{@spell legend lore}",
+							"{@spell conocer las leyendas}",
 							"{@spell locate creature}",
 							"{@spell planar binding}",
 							"{@spell polymorph}",
-							"{@spell protection from evil and good}",
+							"{@spell protección contra el bien y el mal}",
 							"{@spell scrying}",
 							"{@spell sending}",
 							"{@spell true seeing}"
@@ -2815,7 +2815,7 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"Miirym regains 40 hit points at the start of her turn. If Miirym takes damage from a magic weapon or a spell, this trait doesn't function at the start of Miirym's next turn. Miirym dies only if she starts her turn with 0 hit points and doesn't regenerate."
+						"Miirym regains 40 hit points at the start of her turn. If Miirym takes damage from a arma mágica or a spell, this trait doesn't function at the start of Miirym's next turn. Miirym dies only if she starts her turn with 0 hit points and doesn't regenerate."
 					]
 				},
 				{
@@ -3439,7 +3439,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon}"
 							]
 						}
@@ -4452,14 +4452,14 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell shield of faith}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell silence}",
 								"{@spell spiritual weapon}"
 							]
@@ -4475,7 +4475,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell divination}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {

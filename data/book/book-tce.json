@@ -653,7 +653,7 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"1st level: {@spell Protection from evil and good}",
+												"1st level: {@spell protección contra el bien y el mal}",
 												"2nd level: {@spell Augury}, (ritual) {@spell Continual flame}, {@spell Enlarge/reduce}, {@spell Summon beast|TCE}*",
 												"3rd level: {@spell Aura of vitality}, {@spell Elemental weapon}, {@spell Revivir}, {@spell Summon fey|TCE}*",
 												"4th level: {@spell Divination}, (ritual) {@spell Fire shield}, {@spell Summon elemental|TCE}*",
@@ -5299,7 +5299,7 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Why fight if a lively chat is possible? If things get out of hand, just show yourself out with a dimension door."
+								"Why fight if a lively chat is possible? If things get out of hand, just show yourself out with a puerta dimensional."
 							],
 							"by": "Tasha"
 						},
@@ -6623,7 +6623,7 @@
 												],
 												[
 													"51\u201355",
-													"{@filter simple or arma marcial|items|source=phb|category=basic|type=arma marcial;arma sencilla}s in the region that are nonmagical crackle with power. For 1 hour, they become magic weapons that grant a +1 bonus to attack and damage rolls made with them."
+													"{@filter simple or arma marcial|items|source=phb|category=basic|type=arma marcial;arma sencilla}s in the region that are nonmagical crackle with power. For 1 hour, they become arma mágicas that grant a +1 bonus to attack and damage rolls made with them."
 												],
 												[
 													"56\u201360",

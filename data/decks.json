@@ -6617,7 +6617,7 @@
 				"height": 1228
 			},
 			"entries": [
-				"A rare or rarer magic weapon with which you are proficient appears in your hands. The DM chooses the weapon."
+				"A rare or rarer arma mágica with which you are proficient appears in your hands. The DM chooses the weapon."
 			]
 		},
 		{
@@ -9995,7 +9995,7 @@
 								{
 									"type": "item",
 									"name": "Treasure",
-									"entry": "A treasure celebrating or commemorating an oath (such as a wedding ring), or magic weapons or armor associated with knights or paladins."
+									"entry": "A treasure celebrating or commemorating an oath (such as a wedding ring), or arma mágicas or armor associated with knights or paladins."
 								},
 								{
 									"type": "item",
@@ -10088,7 +10088,7 @@
 								{
 									"type": "item",
 									"name": "Treasure",
-									"entry": "A treasure made at great cost, or a magic weapon."
+									"entry": "A treasure made at great cost, or a arma mágica."
 								},
 								{
 									"type": "item",
@@ -15945,7 +15945,7 @@
 				"height": 959
 			},
 			"entries": [
-				"A rare or rarer magic weapon with which you are proficient appears in your hands. The DM chooses the weapon."
+				"A rare or rarer arma mágica with which you are proficient appears in your hands. The DM chooses the weapon."
 			]
 		},
 		{
@@ -16373,7 +16373,7 @@
 				"credit": "Tinnel Lovitt"
 			},
 			"entries": [
-				"A Rare or rarer magic weapon with which you are proficient appears on your person. The DM chooses the weapon."
+				"A Rare or rarer arma mágica with which you are proficient appears on your person. The DM chooses the weapon."
 			]
 		},
 		{
@@ -16793,7 +16793,7 @@
 				"height": 959
 			},
 			"entries": [
-				"A common or uncommon magic weapon with which you are proficient, or a {@item spell scroll} featuring a spell of a level you can cast, appears in your hands. The DM chooses the weapon or spell, which you possess for the duration of this adventure."
+				"A common or uncommon arma mágica with which you are proficient, or a {@item spell scroll} featuring a spell of a level you can cast, appears in your hands. The DM chooses the weapon or spell, which you possess for the duration of this adventure."
 			]
 		},
 		{
@@ -17275,7 +17275,7 @@
 				"height": 2233
 			},
 			"entries": [
-				"An uncommon magic weapon you're proficient with appears in your hands. The DM chooses the weapon."
+				"An uncommon arma mágica you're proficient with appears in your hands. The DM chooses the weapon."
 			]
 		},
 		{
@@ -17717,7 +17717,7 @@
 						{
 							"type": "list",
 							"items": [
-								"The effects of the {@spell freedom of movement} spell",
+								"The effects of the {@spell libertad de movimiento} spell",
 								"The ability to cast the {@spell knock} spell at will, requiring no components"
 							]
 						}

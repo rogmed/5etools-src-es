@@ -3310,11 +3310,11 @@
 													],
 													"rows": [
 														[
-															"{@spell Comprehend languages}, {@spell detect magic}, {@spell disguise self}, {@spell feather fall}, {@spell illusory script}, {@spell protection from evil and good}, {@spell shield}, {@spell Tenser's floating disk}",
+															"{@spell Comprehend languages}, {@spell detect magic}, {@spell disguise self}, {@spell feather fall}, {@spell illusory script}, {@spell protección contra el bien y el mal}, {@spell shield}, {@spell Tenser's floating disk}",
 															"25 gp"
 														],
 														[
-															"{@spell Arcane lock}, {@spell darkvision}, {@spell detect thoughts}, {@spell hold person}, {@spell invisibility}, {@spell knock}, {@spell Nystul's magic aura}, {@spell warp sense|SatO}*",
+															"{@spell Arcane lock}, {@spell darkvision}, {@spell detect thoughts}, {@spell inmovilizar persona}, {@spell invisibility}, {@spell knock}, {@spell Nystul's magic aura}, {@spell warp sense|SatO}*",
 															"75 gp"
 														],
 														[
@@ -3326,7 +3326,7 @@
 															"300 gp"
 														],
 														[
-															"{@spell Contact other plane}, {@spell legend lore}, {@spell planar binding}, {@spell Enlace telepático de Rary}",
+															"{@spell Contact other plane}, {@spell conocer las leyendas}, {@spell planar binding}, {@spell Enlace telepático de Rary}",
 															"750 gp"
 														]
 													]
@@ -6057,7 +6057,7 @@
 												],
 												[
 													"4",
-													"The {@creature ghost} of a fallen warrior asks the party to investigate why their name isn't on the {@book Final Procession|SatO|3|Final Procession}. The culprit is a petty Crown General who took credit for the warrior's heroism."
+													"The {@creature ghost} of a fallen warrior asks the party to investigate why their name isn't on the {@book Final Procession|SatO|3|Final Procession}. The culprit is a petty Crown General who took credit for the warrior's heroísmo."
 												]
 											]
 										}

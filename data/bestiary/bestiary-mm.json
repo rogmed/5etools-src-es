@@ -7512,7 +7512,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}",
-								"{@spell freedom of movement}"
+								"{@spell libertad de movimiento}"
 							]
 						},
 						"5": {
@@ -8321,14 +8321,14 @@
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {
 							"slots": 2,
 							"spells": [
 								"{@spell contact other plane}",
-								"{@spell hold monster}"
+								"{@spell inmovilizar monstruo}"
 							]
 						},
 						"6": {
@@ -13601,7 +13601,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell calm emotions}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -13747,7 +13747,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell detect thoughts}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -18430,7 +18430,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon}"
 							]
 						}
@@ -19472,8 +19472,8 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
-								"{@spell magic weapon}"
+								"{@spell inmovilizar persona}",
+								"{@spell arma mágica}"
 							]
 						},
 						"3": {
@@ -20419,7 +20419,7 @@
 						"piercing",
 						"slashing"
 					],
-					"note": "from magic weapons",
+					"note": "from arma mágicas",
 					"cond": true
 				}
 			],
@@ -22078,9 +22078,9 @@
 							"items": [
 								"Cantrips (at will): {@spell poison spray}, {@spell thaumaturgy}",
 								"1st level (4 slots): {@spell bane}, {@spell detect magic}, {@spell sanctuary}",
-								"2nd level (3 slots): {@spell hold person}, {@spell silence}",
+								"2nd level (3 slots): {@spell inmovilizar persona}, {@spell silence}",
 								"3rd level (3 slots): {@spell clairvoyance}, {@spell dispel magic}",
-								"4th level (2 slots): {@spell divination}, {@spell freedom of movement}"
+								"4th level (2 slots): {@spell divination}, {@spell libertad de movimiento}"
 							]
 						}
 					]
@@ -22162,7 +22162,7 @@
 								"2": {
 									"slots": 3,
 									"spells": [
-										"{@spell hold person}",
+										"{@spell inmovilizar persona}",
 										"{@spell silence}"
 									]
 								},
@@ -22177,7 +22177,7 @@
 									"slots": 2,
 									"spells": [
 										"{@spell divination}",
-										"{@spell freedom of movement}"
+										"{@spell libertad de movimiento}"
 									]
 								}
 							},
@@ -22333,7 +22333,7 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Drow often wear magic armor and carry magic weapons that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.",
+								"Drow often wear magic armor and carry arma mágicas that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.",
 								"A {@creature drow} wearing a {@item +1 chain shirt} and carrying a {@item +1 shortsword} has AC 16 and a +1 bonus on attack and damage rolls with shortsword attacks."
 							]
 						}
@@ -22586,7 +22586,7 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Drow often wear magic armor and carry magic weapons that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.",
+								"Drow often wear magic armor and carry arma mágicas that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.",
 								"A {@creature drow elite warrior} wearing {@item +2 Studded Leather Armor||+2 studded leather} and carrying a {@item +2 shortsword} has AC 20 and a +2 bonus on attack and damage rolls with shortsword attacks."
 							]
 						}
@@ -23070,7 +23070,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell divination}",
-								"{@spell freedom of movement}"
+								"{@spell libertad de movimiento}"
 							]
 						},
 						"5": {
@@ -23126,7 +23126,7 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Drow often wear magic armor and carry magic weapons that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.",
+								"Drow often wear magic armor and carry arma mágicas that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.",
 								"A {@creature drow priestess of Lolth} wearing {@item +3 scale mail} has AC 19."
 							]
 						}
@@ -33318,7 +33318,7 @@
 				{
 					"name": "Silver Greatsword",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d6 + 6}) slashing damage plus 10 ({@damage 3d6}) psychic damage. This is a magic weapon attack. On a critical hit against a target in an astral body (as with the {@spell astral projection} spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage."
+						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d6 + 6}) slashing damage plus 10 ({@damage 3d6}) psychic damage. This is a arma mágica attack. On a critical hit against a target in an astral body (as with the {@spell astral projection} spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage."
 					]
 				}
 			],
@@ -33586,7 +33586,7 @@
 				{
 					"name": "Unarmed Strike",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning damage plus 9 ({@damage 2d8}) psychic damage. This is a magic weapon attack."
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning damage plus 9 ({@damage 2d8}) psychic damage. This is a arma mágica attack."
 					]
 				}
 			],
@@ -33721,7 +33721,7 @@
 				{
 					"name": "Unarmed Strike",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning damage plus 13 ({@damage 3d8}) psychic damage. This is a magic weapon attack."
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning damage plus 13 ({@damage 3d8}) psychic damage. This is a arma mágica attack."
 					]
 				}
 			],
@@ -36416,7 +36416,7 @@
 								"2": {
 									"slots": 3,
 									"spells": [
-										"{@spell hold person}",
+										"{@spell inmovilizar persona}",
 										"{@spell locate object}"
 									]
 								},
@@ -36537,7 +36537,7 @@
 									"2": {
 										"slots": 3,
 										"spells": [
-											"{@spell hold person}",
+											"{@spell inmovilizar persona}",
 											"{@spell locate object}"
 										]
 									},
@@ -37784,7 +37784,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell calm emotions}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -37798,7 +37798,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}",
-								"{@spell freedom of movement}"
+								"{@spell libertad de movimiento}"
 							]
 						},
 						"5": {
@@ -38028,7 +38028,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell legend lore}"
+								"{@spell conocer las leyendas}"
 							]
 						}
 					},
@@ -41642,8 +41642,8 @@
 				{
 					"name": "Body Thief",
 					"entries": [
-						"The intellect devourer initiates an Intelligence contest with an {@condition incapacitated} humanoid within 5 feet of it that isn't protected by {@spell protection from evil and good}. If it wins the contest, the intellect devourer magically consumes the target's brain, teleports into the target's skull, and takes control of the target's body. While inside a creature, the intellect devourer has {@quickref Cover||3||total cover} against attacks and other effects originating outside its host. The intellect devourer retains its Intelligence, Wisdom, and Charisma scores, as well as its understanding of Deep Speech, its telepathy, and its traits. It otherwise adopts the target's statistics. It knows everything the creature knew, including spells and languages.",
-						"If the host body dies, the intellect devourer must leave it. A {@spell protection from evil and good} spell cast on the body drives the intellect devourer out. The intellect devourer is also forced out if the target regains its devoured brain by means of a {@spell wish}. By spending 5 feet of its movement, the intellect devourer can voluntarily leave the body, teleporting to the nearest unoccupied space within 5 feet of it. The body then dies, unless its brain is restored within 1 round."
+						"The intellect devourer initiates an Intelligence contest with an {@condition incapacitated} humanoid within 5 feet of it that isn't protected by {@spell protección contra el bien y el mal}. If it wins the contest, the intellect devourer magically consumes the target's brain, teleports into the target's skull, and takes control of the target's body. While inside a creature, the intellect devourer has {@quickref Cover||3||total cover} against attacks and other effects originating outside its host. The intellect devourer retains its Intelligence, Wisdom, and Charisma scores, as well as its understanding of Deep Speech, its telepathy, and its traits. It otherwise adopts the target's statistics. It knows everything the creature knew, including spells and languages.",
+						"If the host body dies, the intellect devourer must leave it. A {@spell protección contra el bien y el mal} spell cast on the body drives the intellect devourer out. The intellect devourer is also forced out if the target regains its devoured brain by means of a {@spell wish}. By spending 5 feet of its movement, the intellect devourer can voluntarily leave the body, teleporting to the nearest unoccupied space within 5 feet of it. The body then dies, unless its brain is restored within 1 round."
 					]
 				}
 			],
@@ -43427,7 +43427,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon}"
 							]
 						},
@@ -44327,7 +44327,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blight}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {
@@ -49229,14 +49229,14 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell shield of faith}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell silence}",
 								"{@spell spiritual weapon}"
 							]
@@ -50352,7 +50352,7 @@
 				{
 					"name": "Nightmare Haunting (1/Day)",
 					"entries": [
-						"While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A {@spell protection from evil and good} spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 ({@dice 1d10}). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the  {@spell greater restoration} spell or similar magic."
+						"While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A {@spell protección contra el bien y el mal} spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 ({@dice 1d10}). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the  {@spell greater restoration} spell or similar magic."
 					]
 				}
 			],
@@ -50384,7 +50384,7 @@
 								"2": {
 									"slots": 3,
 									"spells": [
-										"{@spell hold person}",
+										"{@spell inmovilizar persona}",
 										"{@spell locate object}"
 									]
 								},
@@ -50506,7 +50506,7 @@
 									"2": {
 										"slots": 3,
 										"spells": [
-											"{@spell hold person}",
+											"{@spell inmovilizar persona}",
 											"{@spell locate object}"
 										]
 									},
@@ -54041,7 +54041,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell hold monster}",
+							"{@spell inmovilizar monstruo}",
 							"{@spell wall of fire}"
 						]
 					},
@@ -55245,7 +55245,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell cure wounds}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell sanctuary}"
 							]
 						},
@@ -56659,7 +56659,7 @@
 					"vulnerable": [
 						"piercing"
 					],
-					"note": "from magic weapons wielded by good creatures",
+					"note": "from arma mágicas wielded by good creatures",
 					"cond": true
 				}
 			],
@@ -59078,13 +59078,13 @@
 							"spells": [
 								"{@spell bless}",
 								"{@spell detect magic}",
-								"{@spell guiding bolt}"
+								"{@spell saeta guía}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon} (trident)"
 							]
 						},
@@ -60120,7 +60120,7 @@
 								"2": {
 									"slots": 3,
 									"spells": [
-										"{@spell hold person}",
+										"{@spell inmovilizar persona}",
 										"{@spell locate object}"
 									]
 								},
@@ -60235,7 +60235,7 @@
 									"2": {
 										"slots": 3,
 										"spells": [
-											"{@spell hold person}",
+											"{@spell inmovilizar persona}",
 											"{@spell locate object}"
 										]
 									},
@@ -62926,7 +62926,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell detect thoughts}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -62940,7 +62940,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blight}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {
@@ -66126,7 +66126,7 @@
 								],
 								"2e": [
 									"{@spell blur}",
-									"{@spell magic weapon}"
+									"{@spell arma mágica}"
 								]
 							},
 							"ability": "wis"
@@ -66216,7 +66216,7 @@
 								],
 								"2e": [
 									"{@spell blur}",
-									"{@spell magic weapon}"
+									"{@spell arma mágica}"
 								]
 							},
 							"ability": "wis"
@@ -67949,7 +67949,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell fear}",
 							"{@spell wall of fire}"
 						],

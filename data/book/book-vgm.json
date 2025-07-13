@@ -2241,7 +2241,7 @@
 									"page": 28,
 									"entries": [
 										"Frost giants dominate wild creatures both as evidence of their strength and to use them as hunting companions. They don't, however, have much grasp of animal husbandry, so their \"pets\" are bullied and beaten into submission more than they're trained. When a frost giant commands a beast to attack, it's less a command than an acknowledgment to the creature that the giant won't beat it for satisfying its hunger. A creature that proves willful or that resists \"training\" is fated to end up on the giant's dinner table.",
-										"The roster of creatures in a frost giant lair can include polar bears, winter wolves, and mammoths, but the giants' most prized living possessions are remorhazes. Adult remorhazes are untrainable by anything short of powerful magical compulsion, but one taken as an egg can be trained as it is raised. In fact, remorhaz hatchlings are surprisingly pliant to the frost giants' manner of teaching by bullying."
+										"The roster of creatures in a frost giant lair can include polar bears, winter wolves, and mammoths, but the giants' most prized living possessions are remorhazes. Adult remorhazes are untrainable by anything short of powerful magical compulsión, but one taken as an egg can be trained as it is raised. In fact, remorhaz hatchlings are surprisingly pliant to the frost giants' manner of teaching by bullying."
 									],
 									"id": "05c"
 								}
@@ -4861,7 +4861,7 @@
 														"2nd level (3 slots): {@spell augury}, {@spell detect thoughts}",
 														"3rd level (3 slots): {@spell clairvoyance}, {@spell dispel magic}, {@spell nondetection}",
 														"4th level (3 slots): {@spell arcane eye}, {@spell locate creature}",
-														"5th level (2 slots): {@spell geas}, {@spell legend lore}",
+														"5th level (2 slots): {@spell geas}, {@spell conocer las leyendas}",
 														"6th level (1 slot): {@spell true seeing}"
 													]
 												}
@@ -6669,7 +6669,7 @@
 									"page": 81,
 									"entries": [
 										"{@i Weapon (any sword), rare (requires attunement by a specific individual)}",
-										"Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra {@dice 2d6} psychic damage to any target it hits."
+										"Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a arma mágica that deals an extra {@dice 2d6} psychic damage to any target it hits."
 									],
 									"id": "146"
 								},
@@ -6689,7 +6689,7 @@
 									"page": 81,
 									"entries": [
 										"{@i Weapon (whip), rare (requires attunement by a mind flayer)}",
-										"In the hands of a creature other than a mind flayer, a mind lash functions as a normal whip. In the hands of an illithid, this magic weapon strips away a creature's will to survive as it also strips away flesh, dealing an extra {@dice 2d4} psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a {@dc 15} Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+										"In the hands of a creature other than a mind flayer, a mind lash functions as a normal whip. In the hands of an illithid, this arma mágica strips away a creature's will to survive as it also strips away flesh, dealing an extra {@dice 2d4} psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a {@dc 15} Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 									],
 									"id": "148"
 								},
@@ -7760,7 +7760,7 @@
 									"name": "Yuan-ti Broodguards",
 									"page": 95,
 									"entries": [
-										"The devolved creatures known as broodguards are created by feeding humanoids a special elixir, which gives them scaly skin and a compulsion to follow orders. Because their minds are crippled by their transformation, broodguards are less useful than slaves for many tasks, but because of their unwavering loyalty they make capable guardians for yuan-ti eggs.",
+										"The devolved creatures known as broodguards are created by feeding humanoids a special elixir, which gives them scaly skin and a compulsión to follow orders. Because their minds are crippled by their transformation, broodguards are less useful than slaves for many tasks, but because of their unwavering loyalty they make capable guardians for yuan-ti eggs.",
 										"Broodguards are technically slaves, but because of their loyalty and the expense of the potion that creates them, they have slightly higher status than common slaves-meaning that a pureblood is more likely to give a suicidal order to a slave than to a broodguard."
 									],
 									"id": "182"

@@ -701,14 +701,14 @@
 			]
 		},
 		{
-			"name": "Yolande's Regal Presence",
+			"name": "Presencia regia de Yolande",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Yolande's Regal Presence.webp"
+						"path": "spells/XPHB/Presencia regia de Yolande.webp"
 					},
 					"credit": "April Prime"
 				}

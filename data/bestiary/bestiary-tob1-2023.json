@@ -1996,7 +1996,7 @@
 					"will": [
 						"{@spell bless}",
 						"{@spell detect magic}",
-						"{@spell dimension door}",
+						"{@spell puerta dimensional}",
 						"{@spell dispel magic}"
 					],
 					"daily": {
@@ -5984,7 +5984,7 @@
 						"2e": [
 							"{@spell darkness} (black night horseman only)",
 							"{@spell daylight} (bright day and red sun horsemen only)",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell fire shield}"
 						]
 					},
@@ -6415,7 +6415,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell enhance ability} (only Cat's Grace)"
+							"{@spell potenciar característica} (only Cat's Grace)"
 						],
 						"3e": [
 							"{@spell charm person}",
@@ -7830,7 +7830,7 @@
 			"cr": "8",
 			"trait": [
 				{
-					"name": "Carnivorous Compulsion",
+					"name": "Carnivorous Compulsión",
 					"entries": [
 						"At the start of each of its turns, if the blemmyes can see an {@condition incapacitated} creature, the blemmyes must succeed on a {@dc 11} Wisdom saving throw or spend its next turn moving toward and attacking that creature."
 					]
@@ -9952,7 +9952,7 @@
 							"{@spell plane shift} (self only)"
 						],
 						"3e": [
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell protection from poison}",
 							"{@spell heal}"
 						]
@@ -10737,7 +10737,7 @@
 					"daily": {
 						"1e": [
 							"{@spell haste}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell invisibility}",
 							"{@spell phantasmal killer}"
 						]
@@ -10927,7 +10927,7 @@
 					"daily": {
 						"1e": [
 							"{@spell detect poison and disease}",
-							"{@spell dimension door}"
+							"{@spell puerta dimensional}"
 						]
 					},
 					"ability": "cha",
@@ -13002,7 +13002,7 @@
 					"daily": {
 						"1e": [
 							"{@spell blur}",
-							"{@spell heroism}",
+							"{@spell heroísmo}",
 							"{@spell suggestion}"
 						]
 					},
@@ -15156,7 +15156,7 @@
 				{
 					"name": "Call of the Archimandrite (1/Day)",
 					"entries": [
-						"With a ringing shout, the archimandrite magically calls {@dice 1d4} reef sharks or 1 swarm of quippers, provided the archimandrite is at least partially submerged in a body of water that can contain the creatures. The called creatures arrive in {@dice 1d4} rounds, acting as allies of the archimandrite and obeying its spoken commands. The creatures remain for 1 hour, until the archimandrite dies, or until the archimandrite dismisses them as a bonus action. Each deep one within 1 mile of the archimandrite can hear this call, though these deep ones are under no magical compulsion to make their way toward the archimandrite."
+						"With a ringing shout, the archimandrite magically calls {@dice 1d4} reef sharks or 1 swarm of quippers, provided the archimandrite is at least partially submerged in a body of water that can contain the creatures. The called creatures arrive in {@dice 1d4} rounds, acting as allies of the archimandrite and obeying its spoken commands. The creatures remain for 1 hour, until the archimandrite dies, or until the archimandrite dismisses them as a bonus action. Each deep one within 1 mile of the archimandrite can hear this call, though these deep ones are under no magical compulsión to make their way toward the archimandrite."
 					]
 				}
 			],
@@ -16109,7 +16109,7 @@
 					],
 					"will": [
 						"{@spell dispel magic}",
-						"{@spell hold monster}",
+						"{@spell inmovilizar monstruo}",
 						"{@spell wall of fire}"
 					],
 					"daily": {
@@ -17032,7 +17032,7 @@
 					"daily": {
 						"3e": [
 							"{@spell command}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell invisibility}"
 						],
 						"1e": [
@@ -20645,7 +20645,7 @@
 				{
 					"name": "Bind",
 					"entries": [
-						"The emerald eye chooses a creature it can see within 30 feet of it that has an Intelligence of 6 or higher. The target must succeed on a {@dc 13} Charisma saving throw or the eye psychically binds itself to the target. If the target succeeds on the saving throw by 5 or more, it knows the eye attempted to bind to it. Otherwise, the target is unaware of the attempt. While bound to the emerald eye, the creature has resistance to psychic damage, but it has disadvantage on saving throws against the eye's Compulsion. The eye can be bound to only one target at a time. If it binds to another, the effect on the previous target ends."
+						"The emerald eye chooses a creature it can see within 30 feet of it that has an Intelligence of 6 or higher. The target must succeed on a {@dc 13} Charisma saving throw or the eye psychically binds itself to the target. If the target succeeds on the saving throw by 5 or more, it knows the eye attempted to bind to it. Otherwise, the target is unaware of the attempt. While bound to the emerald eye, the creature has resistance to psychic damage, but it has disadvantage on saving throws against the eye's Compulsión. The eye can be bound to only one target at a time. If it binds to another, the effect on the previous target ends."
 					]
 				},
 				{
@@ -20753,13 +20753,13 @@
 					"daily": {
 						"3e": [
 							"{@spell detect thoughts}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell silence}",
 							"{@spell slow}"
 						],
 						"1e": [
 							"{@spell divination}",
-							"{@spell freedom of movement}"
+							"{@spell libertad de movimiento}"
 						]
 					},
 					"ability": "wis",
@@ -33985,7 +33985,7 @@
 					"daily": {
 						"3e": [
 							"{@spell darkness}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell silence}"
 						],
 						"1e": [
@@ -36429,7 +36429,7 @@
 							"{@spell invisibility}"
 						],
 						"1e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell dominate person}"
 						]
 					},
@@ -38405,7 +38405,7 @@
 				{
 					"name": "Oasis Appearance",
 					"entries": [
-						"While the oozasis remains motionless and partially submerged on the surface of sand or soil, it is indistinguishable from a small oasis or pond. The oozasis's body provides enough water for plants to grow around it, provided the oozasis remains in the area for an extended period of time. A creature that eats a fruit from a plant growing in the oozasis's water is affected by the Waters of Unfathomable Compulsion trait as if it drank the water."
+						"While the oozasis remains motionless and partially submerged on the surface of sand or soil, it is indistinguishable from a small oasis or pond. The oozasis's body provides enough water for plants to grow around it, provided the oozasis remains in the area for an extended period of time. A creature that eats a fruit from a plant growing in the oozasis's water is affected by the Waters of Unfathomable Compulsión trait as if it drank the water."
 					]
 				},
 				{
@@ -38415,7 +38415,7 @@
 					]
 				},
 				{
-					"name": "Waters of Unfathomable Compulsion",
+					"name": "Waters of Unfathomable Compulsión",
 					"entries": [
 						"A creature that drinks the water of an oozasis experiences a cryptic dream the next time it sleeps. When it wakes, it must succeed on a {@dc 16} Wisdom saving throw or be affected by the {@spell geas} spell for 30 days. While under the geas, the affected creature must perform a specific, seemingly minor task that furthers the decades-long goals of the oozasis. Such a task could be planting a white rose in a specific garden, rescuing the next endangered young animal the target encounters, or standing in a specific spot at a certain time each day for three days."
 					]
@@ -38581,7 +38581,7 @@
 						],
 						"1e": [
 							"{@spell contact other plane} (as an action)",
-							"{@spell legend lore} (as an action)"
+							"{@spell conocer las leyendas} (as an action)"
 						]
 					},
 					"ability": "cha",
@@ -42224,7 +42224,7 @@
 					"daily": {
 						"1": [
 							"{@spell control water}",
-							"{@spell freedom of movement}"
+							"{@spell libertad de movimiento}"
 						],
 						"3": [
 							"{@spell cure wounds}",
@@ -43177,7 +43177,7 @@
 							"{@spell control weather} (as an action)"
 						],
 						"3e": [
-							"{@spell freedom of movement}",
+							"{@spell libertad de movimiento}",
 							"{@spell control water}"
 						]
 					},
@@ -43786,7 +43786,7 @@
 			],
 			"trait": [
 				{
-					"name": "Counting Compulsion",
+					"name": "Counting Compulsión",
 					"entries": [
 						"If a creature uses an action to point out an ordered group of objects that the rubezahl can see, such as a pile of gravel, the demon is compelled to count the entire group. Until the end of its next turn, the rubezahl has disadvantage on attack rolls and ability checks, and it can't take reactions. Once it has counted a given group of objects, it can't be compelled to count those objects again."
 					]
@@ -45748,7 +45748,7 @@
 						],
 						"1e": [
 							"{@spell dispel magic}",
-							"{@spell hold person}"
+							"{@spell inmovilizar persona}"
 						]
 					},
 					"ability": "cha",
@@ -47019,14 +47019,14 @@
 							"{@spell confusion}",
 							"{@spell dominate person}",
 							"{@spell greater invisibility}",
-							"{@spell hold monster}",
+							"{@spell inmovilizar monstruo}",
 							"{@spell phantasmal killer}"
 						],
 						"3": [
 							"{@spell charm person}",
 							"{@spell enthrall}",
 							"{@spell fear}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell hypnotic pattern}"
 						]
 					},

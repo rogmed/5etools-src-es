@@ -1113,7 +1113,7 @@
 						"mode": "removeSpells",
 						"daily": {
 							"3e": [
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell fear}"
 							],
 							"1e": [

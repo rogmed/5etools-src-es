@@ -354,14 +354,14 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell wall of fire}"
 							]
 						},
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell hold monster}"
+								"{@spell inmovilizar monstruo}"
 							]
 						}
 					},
@@ -898,7 +898,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blur}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -2335,7 +2335,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell darkvision}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell protection from poison}"
 							]
 						},
@@ -4881,7 +4881,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blight}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {
@@ -5178,7 +5178,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell paso brumoso}"
 							]
 						},
@@ -6174,7 +6174,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell confusion}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						}
 					},

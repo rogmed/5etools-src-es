@@ -1675,7 +1675,7 @@
 						"2": {
 							"slots": 2,
 							"spells": [
-								"{@spell enhance ability}",
+								"{@spell potenciar característica}",
 								"{@spell spiritual weapon}"
 							]
 						}
@@ -2385,7 +2385,7 @@
 								"{@spell cure wounds}",
 								"{@spell divine favor}",
 								"{@spell inflict wounds}",
-								"{@spell protection from evil and good}",
+								"{@spell protección contra el bien y el mal}",
 								"{@spell shield of faith}"
 							]
 						},
@@ -2393,8 +2393,8 @@
 							"slots": 3,
 							"spells": [
 								"{@spell continual flame}",
-								"{@spell hold person}",
-								"{@spell magic weapon}",
+								"{@spell inmovilizar persona}",
+								"{@spell arma mágica}",
 								"{@spell spiritual weapon}"
 							]
 						},
@@ -2845,7 +2845,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell silence}"
 							]
 						},
@@ -3501,7 +3501,7 @@
 								"{@spell armor of Agathys}",
 								"{@spell charm person}",
 								"{@spell hex}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell ray of enfeeblement}",
 								"{@spell spider climb}"
 							]
@@ -3823,7 +3823,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell divination}",
-								"{@spell freedom of movement}"
+								"{@spell libertad de movimiento}"
 							]
 						},
 						"5": {
@@ -4919,7 +4919,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell silence}"
 							]
 						},

@@ -699,7 +699,7 @@
 						],
 						"1e": [
 							"{@spell blight}",
-							"{@spell legend lore} (cast as 1 action)",
+							"{@spell conocer las leyendas} (cast as 1 action)",
 							"{@spell locate creature}",
 							"{@spell pass without trace}",
 							"{@spell protección contra energía}",
@@ -835,7 +835,7 @@
 								"4": {
 									"slots": 3,
 									"spells": [
-										"{@spell freedom of movement}",
+										"{@spell libertad de movimiento}",
 										"{@spell grasping vine}"
 									]
 								},
@@ -1889,7 +1889,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell cure wounds}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell sanctuary}"
 							]
 						},
@@ -7211,8 +7211,8 @@
 							"mode": "addSpells",
 							"daily": {
 								"1e": [
-									"{@spell enhance ability} (bear's endurance only)",
-									"{@spell heroism}"
+									"{@spell potenciar característica} (bear's endurance only)",
+									"{@spell heroísmo}"
 								]
 							}
 						}
@@ -7287,7 +7287,7 @@
 							"mode": "addSpells",
 							"daily": {
 								"1e": [
-									"{@spell enhance ability} (cat's grace only)",
+									"{@spell potenciar característica} (cat's grace only)",
 									"{@spell jump}"
 								]
 							}
@@ -7317,7 +7317,7 @@
 							"mode": "addSpells",
 							"daily": {
 								"1e": [
-									"{@spell enhance ability} (bull's strength only)",
+									"{@spell potenciar característica} (bull's strength only)",
 									"{@spell pass without trace}"
 								]
 							}
@@ -7628,7 +7628,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell augury}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon}"
 							]
 						},

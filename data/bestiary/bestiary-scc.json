@@ -2017,7 +2017,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell locate object}",
 							"{@spell mage armor}",
 							"{@spell stone shape}"
@@ -3586,7 +3586,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell enlarge/reduce}",
 							"{@spell mage armor}",
 							"{@spell crecimiento vegetal}"
@@ -3714,7 +3714,7 @@
 					"daily": {
 						"1e": [
 							"{@spell creation} (as an action)",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell mage armor}",
 							"{@spell crecimiento vegetal}",
 							"{@spell polymorph}"

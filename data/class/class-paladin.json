@@ -252,7 +252,7 @@
 					]
 				},
 				{
-					"title": "Spell Slots per Spell Level",
+					"title": "Espacios de conjuro por cada nivel de conjuro",
 					"colLabels": [
 						"{@filter 1|spells|level=1|class=paladín}",
 						"{@filter 2|spells|level=2|class=paladín}",
@@ -461,24 +461,24 @@
 				{
 					"prepared": {
 						"3": [
-							"protection from evil and good|xphb",
-							"shield of faith|xphb"
+							"protección contra el bien y el mal|xphb",
+							"escudo de fe|xphb"
 						],
 						"5": [
-							"aid|xphb",
-							"zone of truth|xphb"
+							"auxilio|xphb",
+							"zona de la verdad|xphb"
 						],
 						"9": [
 							"señal de esperanza|xphb",
-							"dispel magic|xphb"
+							"disipar magia|xphb"
 						],
 						"13": [
-							"freedom of movement|xphb",
+							"libertad de movimiento|xphb",
 							"guardián de la fe|xphb"
 						],
 						"17": [
 							"comunión|xphb",
-							"flame strike|xphb"
+							"golpe flamígero|xphb"
 						]
 					}
 				}
@@ -503,33 +503,33 @@
 				{
 					"prepared": {
 						"3": [
-							"guiding bolt|xphb",
-							"heroism|xphb"
+							"saeta guía|xphb",
+							"heroísmo|xphb"
 						],
 						"5": [
-							"enhance ability|xphb",
-							"magic weapon|xphb"
+							"potenciar característica|xphb",
+							"arma mágica|xphb"
 						],
 						"9": [
 							"acelerar|xphb",
 							"protección contra energía|xphb"
 						],
 						"13": [
-							"compulsion|xphb",
-							"freedom of movement|xphb"
+							"compulsión|xphb",
+							"libertad de movimiento|xphb"
 						],
 						"17": [
-							"legend lore|xphb",
-							"yolande's regal presence|xphb"
+							"conocer las leyendas|xphb",
+							"presencia regia de yolande|xphb"
 						]
 					}
 				}
 			],
 			"subclassFeatures": [
 				"Juramento de gloria|Paladín|XPHB|Gloria|XPHB|3",
-				"Aura of Alacrity|Paladín|XPHB|Gloria|XPHB|7",
-				"Glorious Defense|Paladín|XPHB|Gloria|XPHB|15",
-				"Living Legend|Paladín|XPHB|Gloria|XPHB|20"
+				"Aura de celeridad|Paladín|XPHB|Gloria|XPHB|7",
+				"Defensa gloriosa|Paladín|XPHB|Gloria|XPHB|15",
+				"Leyenda viviente|Paladín|XPHB|Gloria|XPHB|20"
 			],
 			"hasFluffImages": true
 		},
@@ -587,11 +587,11 @@
 				{
 					"prepared": {
 						"3": [
-							"bane|xphb",
+							"perdición|xphb",
 							"marca del cazador|xphb"
 						],
 						"5": [
-							"hold person|xphb",
+							"inmovilizar persona|xphb",
 							"paso brumoso|xphb"
 						],
 						"9": [
@@ -600,11 +600,11 @@
 						],
 						"13": [
 							"destierro|xphb",
-							"dimension door|xphb"
+							"puerta dimensional|xphb"
 						],
 						"17": [
-							"hold monster|xphb",
-							"scrying|xphb"
+							"inmovilizar monstruo|xphb",
+							"escudriñar|xphb"
 						]
 					}
 				}
@@ -1347,7 +1347,42 @@
 			]
 		},
 		{
-			"name": "Inspiring Smite",
+			"name": "Juramento de gloria",
+			"source": "XPHB",
+			"page": 162,
+			"className": "Paladín",
+			"classSource": "XPHB",
+			"subclassShortName": "Gloria",
+			"subclassSource": "XPHB",
+			"level": 3,
+			"entries": [
+				"{@i Esfuérzate por alcanzar la cima del heroísmo}",
+				"Los paladines que pronuncian el juramento de gloria creen que ellos y sus compañeros están destinados a alcanzar la gloria mediante actos de heroísmo. Entrenan con diligencia y levantan los ánimos de sus compañeros para que estén preparados cuando toque responder a la llamada del destino.",
+				"Estos paladines comparten los siguientes principios:",
+				{
+					"type": "list",
+					"items": [
+						"Esfuérzate para que te conozcan por tus gestas.",
+						"Afronta las dificultades con valentía.",
+						"Inspira a los demás para que busquen la gloria."
+					]
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Atleta sin parangón|Paladín|XPHB|Gloria|XPHB|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Castigo inspirador|Paladín|XPHB|Gloria|XPHB|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Conjuros del juramento de gloria|Paladín|XPHB|Gloria|XPHB|3"
+				}
+			]
+		},
+		{
+			"name": "Atleta sin parangón",
 			"source": "XPHB",
 			"page": 163,
 			"className": "Paladín",
@@ -1359,46 +1394,27 @@
 				"name": "Canalizar divinidad"
 			},
 			"entries": [
-				"Immediately after you cast {@spell Castigo divino|XPHB}, you can expend one use of your Canalizar divinidad and distribute {@variantrule Temporary Hit Points|XPHB} to creatures of your choice within 30 feet of yourself, which can include you. The total number of {@variantrule Temporary Hit Points|XPHB} equals {@dice 2d8} plus your Paladin level, divided among the chosen creatures however you like."
+				"Como acción adicional, puedes gastar uno de los usos de Canalizar divinidad para potenciar tus capacidades atléticas. Durante 1 hora, tendrás ventaja en las pruebas de Fuerza ({@skill Atletismo|XPHB}) y Destreza ({@skill Acrobacias|XPHB}) y la distancia de tus {@variantrule salto de longitud|XPHB|saltos de longitud} y de {@variantrule salto de altura|XPHB|altura} aumentará en 10 pies (3 m) (para esta distancia adicional, tendrás que gastar movimiento del modo habitual)."
 			]
 		},
 		{
-			"name": "Juramento de gloria",
+			"name": "Castigo inspirador",
 			"source": "XPHB",
-			"page": 162,
+			"page": 163,
 			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 3,
+			"consumes": {
+				"name": "Canalizar divinidad"
+			},
 			"entries": [
-				"{@i Strive for the Heights of Heroism}",
-				"Paladins who take the Juramento de gloria believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they're all ready when destiny calls.",
-				"These paladins share the following tenets:",
-				{
-					"type": "list",
-					"items": [
-						"Endeavor to be known by your deeds.",
-						"Face hardships with courage.",
-						"Inspire others to strive for glory."
-					]
-				},
-				{
-					"type": "refSubclassFeature",
-					"subclassFeature": "Juramento de gloria Spells|Paladín|XPHB|Gloria|XPHB|3"
-				},
-				{
-					"type": "refSubclassFeature",
-					"subclassFeature": "Inspiring Smite|Paladín|XPHB|Gloria|XPHB|3"
-				},
-				{
-					"type": "refSubclassFeature",
-					"subclassFeature": "Peerless Athlete|Paladín|XPHB|Gloria|XPHB|3"
-				}
+				"Inmediatamente después de que lances {@i {@spell castigo divino|XPHB}}, puedes gastar uno de los usos de Canalizar divinidad y distribuir puntos de golpe temporales entre criaturas de tu elección (que puede incluirte a ti) que estén a 30 pies (9 m) o menos de ti. La cantidad total de puntos de golpe temporales es igual a {@dice 2d8} más tu nivel de paladín, repartidos como tú quieras entre las criaturas elegidas."
 			]
 		},
 		{
-			"name": "Juramento de gloria Spells",
+			"name": "Conjuros del juramento de gloria",
 			"source": "XPHB",
 			"page": 163,
 			"className": "Paladín",
@@ -1407,10 +1423,10 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Juramento de gloria Spells table, you thereafter always have the listed spells prepared.",
+				"La magia de tu juramento garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de paladín especificado en la tabla “Conjuros del juramento de gloria”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Juramento de gloria Spells",
+					"caption": "CONJUROS DEL JURAMENTO DE GLORIA",
 					"colLabels": [
 						"Nivel de paladín",
 						"Conjuros"
@@ -1434,34 +1450,18 @@
 						],
 						[
 							"13",
-							"{@spell Compulsion|XPHB}, {@spell Libertad de movimiento|XPHB}"
+							"{@spell Compulsión|XPHB}, {@spell Libertad de movimiento|XPHB}"
 						],
 						[
 							"17",
-							"{@spell Legend Lore|XPHB}, {@spell Yolande's Regal Presence|XPHB}"
+							"{@spell Conocer las leyendas|XPHB}, {@spell Presencia regia de Yolande|XPHB}"
 						]
 					]
 				}
 			]
 		},
 		{
-			"name": "Peerless Athlete",
-			"source": "XPHB",
-			"page": 163,
-			"className": "Paladín",
-			"classSource": "XPHB",
-			"subclassShortName": "Gloria",
-			"subclassSource": "XPHB",
-			"level": 3,
-			"consumes": {
-				"name": "Canalizar divinidad"
-			},
-			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can expend one use of your Canalizar divinidad to augment your athleticism. For 1 hour, you have {@variantrule Advantage|XPHB} on Strength ({@skill Athletics|XPHB}) and Dexterity ({@skill Acrobatics|XPHB}) checks, and the distance of your Long and Salto de alturas increases by 10 feet (this extra distance costs movement as normal)."
-			]
-		},
-		{
-			"name": "Aura of Alacrity",
+			"name": "Aura de celeridad",
 			"source": "XPHB",
 			"page": 163,
 			"className": "Paladín",
@@ -1471,12 +1471,12 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Your Speed increases by 10 feet.",
-				"In addition, whenever an ally enters your Aura de protección for the first time on a turn or starts their turn there, the ally's {@variantrule Velocidad|XPHB} increases by 10 feet until the end of their next turn."
+				"Tu velocidad aumenta en 10 pies (3 m).",
+				"Además, siempre que un aliado entre en tu Aura de protección por primera vez en un turno o comience su turno dentro de ella, la velocidad de ese aliado aumentará en 10 pies (3 m) hasta el final de su próximo turno."
 			]
 		},
 		{
-			"name": "Glorious Defense",
+			"name": "Defensa gloriosa",
 			"source": "XPHB",
 			"page": 163,
 			"className": "Paladín",
@@ -1486,12 +1486,12 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a {@variantrule Reaction|XPHB} to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one attack with a weapon against the attacker as part of this {@variantrule Reaction|XPHB} if the attacker is within your weapon's range.",
-				"You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Descanso largo|XPHB}."
+				"Puedes convertir la defensa en un ataque súbito. Si una tirada de ataque os acierta a tio a otra criatura que puedas ver a 10 pies (3 m) o menos de ti, puedes llevar a cabo una reacción para sumar un bonificador a la CA del objetivo contra ese ataque, lo que podría hacer que falle. El bonificador es igual a tu modificador por Carisma (mínimo de +1). Si el ataque falla, como parte de esta reacción podrás hacer un ataque con un arma contra el atacante si está en el alcance de tu arma.",
+				"Puedes usar este rasgo una cantidad de veces igual a tu modificador por Carisma (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo."
 			]
 		},
 		{
-			"name": "Living Legend",
+			"name": "Leyenda viviente",
 			"source": "XPHB",
 			"page": 163,
 			"className": "Paladín",
@@ -1501,26 +1501,26 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"You can empower yourself with the legends\u2014whether true or exaggerated\u2014of your great deeds. As a {@variantrule Acción adicional|XPHB}, you gain the benefits below for 10 minutes. Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+				"Puedes fortalecerte con las leyendas (ya sean veraces o exageradas) de tus grandes hazañas. Como acción adicional, obtienes los beneficios presentados a continuación durante 10 minutos. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo. También puedes restablecer su uso gastando un espacio de conjuro de nivel 5 (no requiere acción).",
 				{
 					"type": "entries",
-					"name": "Charismatic",
+					"name": "Carismático",
 					"entries": [
-						"You are blessed with an otherworldly presence and have {@variantrule Advantage|XPHB} on all Charisma checks."
+						"Estás bendecido por una presencia sobrenatural y tienes ventaja en todas las pruebas de Carisma."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Saving Throw Reroll",
+					"name": "Golpe certero",
 					"entries": [
-						"If you fail a saving throw, you can take a {@variantrule Reaction|XPHB} to reroll it. You must use this new roll."
+						"Una vez en cada uno de tus turnos, si fallas una tirada de ataque con un arma, puedes hacer que el ataque acierte."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Unerring Strike",
+					"name": "Repetir tiradas de salvación",
 					"entries": [
-						"Once on each of your turns when you make an attack roll with a weapon and miss, you can cause that attack to hit instead."
+						"Si fallas una tirada de salvación, puedes llevar a cabo una reacción para repetirla. Deberás usar el resultado de la nueva tirada."
 					]
 				}
 			]

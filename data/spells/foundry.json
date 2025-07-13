@@ -2641,7 +2641,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Compulsion",
+			"name": "Compulsión",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -2662,14 +2662,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "compulsion"
+							"foundryId": "compulsión"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "compulsion",
+					"foundryId": "compulsión",
 					"name": "Charmed",
 					"duration": {
 						"seconds": 60
@@ -8487,14 +8487,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "heroism"
+							"foundryId": "heroísmo"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "heroism",
+					"foundryId": "heroísmo",
 					"name": "Bravery",
 					"duration": {
 						"seconds": 60
@@ -9905,7 +9905,7 @@
 							}
 						}
 					},
-					"description": "Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls."
+					"description": "Until the spell ends, that weapon becomes a arma mágica with a +1 bonus to attack rolls and damage rolls."
 				},
 				{
 					"foundryId": "magicWeapon1",
@@ -9941,7 +9941,7 @@
 							}
 						}
 					},
-					"description": "Until the spell ends, that weapon becomes a magic weapon with a +2 bonus to attack rolls and damage rolls."
+					"description": "Until the spell ends, that weapon becomes a arma mágica with a +2 bonus to attack rolls and damage rolls."
 				},
 				{
 					"foundryId": "magicWeapon2",
@@ -9976,7 +9976,7 @@
 							}
 						}
 					},
-					"description": "Until the spell ends, that weapon becomes a magic weapon with a +3 bonus to attack rolls and damage rolls."
+					"description": "Until the spell ends, that weapon becomes a arma mágica with a +3 bonus to attack rolls and damage rolls."
 				}
 			],
 			"migrationVersion": 3
@@ -17770,7 +17770,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Yolande's Regal Presence",
+			"name": "Presencia regia de Yolande",
 			"source": "XPHB",
 			"activities": [
 				{

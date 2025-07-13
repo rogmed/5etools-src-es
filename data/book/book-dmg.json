@@ -2692,7 +2692,7 @@
 							"page": 37,
 							"entries": [
 								"By the time they reach this tier, adventurers have mastered the basics of their class features, though they continue to improve throughout these levels. They have found their place in the world and have begun to involve themselves in the dangers that surround them.",
-								"Dedicated spellcasters learn 3rd-level spells at the start of this tier. Suddenly characters can fly, damage large numbers of foes with {@spell fireball} and {@spell relámpago} spells, and even breathe underwater. They master 5th-level spells by the end of the tier, and spells such as {@spell teleportation circle}, {@spell scrying}, {@spell flame strike}, {@spell legend lore}, and {@spell raise dead} can have a significant impact on their adventures. They start acquiring more permanent magic items (uncommon and rare ones) as well, which will serve them for the rest of their careers.",
+								"Dedicated spellcasters learn 3rd-level spells at the start of this tier. Suddenly characters can fly, damage large numbers of foes with {@spell fireball} and {@spell relámpago} spells, and even breathe underwater. They master 5th-level spells by the end of the tier, and spells such as {@spell teleportation circle}, {@spell scrying}, {@spell flame strike}, {@spell conocer las leyendas}, and {@spell raise dead} can have a significant impact on their adventures. They start acquiring more permanent magic items (uncommon and rare ones) as well, which will serve them for the rest of their careers.",
 								"The fate of a region might depend on the adventures that characters of levels 5 to 10 undertake. These adventurers venture into fearsome wilds and ancient ruins, where they confront savage giants, ferocious hydras, fearless golems, evil yuan-ti, scheming devils, bloodthirsty demons, crafty mind flayers, and drow assassins. They might have a chance of defeating a young dragon that has established a lair but not yet extended its reach far into the surrounding territory."
 							],
 							"id": "09a"
@@ -2844,7 +2844,7 @@
 							"page": 40,
 							"entries": [
 								"The corrupt vizier schemes with the baron's oldest daughter to assassinate the baron. A hobgoblin army sends doppelganger spies to infiltrate the city before the invasion. At the embassy ball, the spy in the royal court makes contact with his employer.",
-								"Political intrigue, espionage, sabotage, and similar cloak-and-dagger activities can provide the basis for an exciting D&D campaign. In this kind of game, the characters might care more about skill training and making contacts than about attack spells and magic weapons. Roleplaying and social interaction take on greater importance than combat, and the party might go for several sessions without seeing a monster.",
+								"Political intrigue, espionage, sabotage, and similar cloak-and-dagger activities can provide the basis for an exciting D&D campaign. In this kind of game, the characters might care more about skill training and making contacts than about attack spells and arma mágicas. Roleplaying and social interaction take on greater importance than combat, and the party might go for several sessions without seeing a monster.",
 								"Again, make sure your players know ahead of time that you want to run this kind of campaign. Otherwise, a player might create a defense-focused dwarf paladin, only to find he is out of place among half-elf diplomats and tiefling spies.",
 								"The Brimstone Angels novels by Erin M. Evans focus on intrigue in the Forgotten Realms setting, from the backstabbing politics of the Nine Hells to the contested succession of Cormyrean royalty."
 							],
@@ -2855,7 +2855,7 @@
 							"name": "Mystery",
 							"page": 40,
 							"entries": [
-								"Who stole three legendary magic weapons and hid them away in a remote dungeon, leaving a cryptic clue to their location? Who placed the duke into a magical slumber, and what can be done to awaken him? Who murdered the guildmaster, and how did the killer get into the guild's locked vault?",
+								"Who stole three legendary arma mágicas and hid them away in a remote dungeon, leaving a cryptic clue to their location? Who placed the duke into a magical slumber, and what can be done to awaken him? Who murdered the guildmaster, and how did the killer get into the guild's locked vault?",
 								"A mystery-themed campaign puts the characters in the role of investigators, perhaps traveling from town to town to crack tough cases the local authorities can't handle. Such a campaign emphasizes puzzles and problem-solving in addition to combat prowess.",
 								"A larger mystery might even set the stage for the whole campaign. Why did someone kill the characters' mentor, setting them on the path of adventure? Who really controls the Cult of the Red Hand? In this case, the characters might uncover clues to the greater mystery only once in a while; individual adventures might be at best tangentially related to that theme. A diet of nothing but puzzles can become frustrating, so be sure to mix up the kinds of encounters you present.",
 								"Novels in various D&D settings have explored the mystery genre with a fantasy twist. In particular, {@i Murder in Cormyr} (by Chet Williamson), {@i Murder in Halruaa} (by Richard S. Meyers), and {@i Spellstorm} (by Ed Greenwood) are mysteries set in the Forgotten Realms. {@i Murder in Tarsis} (by John Maddox Roberts) takes the same approach in the Dragonlance setting."
@@ -5984,7 +5984,7 @@
 									"page": 78,
 									"entries": [
 										"Depending on the scenario, you might want to track the party's influence with different NPCs or factions, or even track influence separately for each character.",
-										"One way to handle influence is to treat it like inspiration. A character gains influence in a certain situation only if you grant it, and bringing influence into play requires spending it. Characters can gain influence by doing favors for NPCs, advancing the cause of an organization, or demonstrating their power and heroism, at your discretion. As with inspiration, a character can choose to spend influence to gain advantage on a roll relevant to that influence.",
+										"One way to handle influence is to treat it like inspiration. A character gains influence in a certain situation only if you grant it, and bringing influence into play requires spending it. Characters can gain influence by doing favors for NPCs, advancing the cause of an organization, or demonstrating their power and heroísmo, at your discretion. As with inspiration, a character can choose to spend influence to gain advantage on a roll relevant to that influence.",
 										"Another way to handle influence is to treat it like renown (see chapter 1), allowing characters to gain renown at court and within various key factions."
 									],
 									"id": "14a"
@@ -6360,7 +6360,7 @@
 										],
 										[
 											"10",
-											"The adventurers are under magical compulsion (such as a geas spell) to complete their goal."
+											"The adventurers are under magical compulsión (such as a geas spell) to complete their goal."
 										]
 									]
 								}
@@ -8303,7 +8303,7 @@
 									"page": 93,
 									"entries": [
 										"Keep track of an NPC's loyalty score in secret so that the players won't know for sure whether an NPC party member is loyal or disloyal (even if the NPC is currently under a player's control).",
-										"An NPC's loyalty score increases by {@dice 1d4} if other party members help the NPC achieve a goal tied to its bond. Likewise, an NPC's loyalty score increases by {@dice 1d4} if the NPC is treated particularly well (for example, given a magic weapon as a gift) or rescued by another party member. An NPC's loyalty score can never be raised above its maximum.",
+										"An NPC's loyalty score increases by {@dice 1d4} if other party members help the NPC achieve a goal tied to its bond. Likewise, an NPC's loyalty score increases by {@dice 1d4} if the NPC is treated particularly well (for example, given a arma mágica as a gift) or rescued by another party member. An NPC's loyalty score can never be raised above its maximum.",
 										"When other party members act in a manner that runs counter to the NPC's alignment or bond, reduce the NPC's loyalty score by {@dice 1d4}. Reduce the NPC's loyalty score by {@dice 2d4} if the character is abused, misled, or endangered by other party members for purely selfish reasons.",
 										"An NPC whose loyalty score drops to 0 is no longer loyal to the party and might part ways with them. A loyalty score can never drop below 0.",
 										"An NPC with a loyalty score of 10 or higher risks life and limb to help fellow party members. If the NPC's loyalty score is between 1 and 10, its loyalty is tenuous. An NPC whose loyalty drops to 0 no longer acts in the party's best interests. The disloyal NPC either leaves the party (attacking characters who attempt to intervene) or works in secret to bring about the party's downfall."
@@ -15087,8 +15087,8 @@
 									"name": "Weapons",
 									"page": 140,
 									"entries": [
-										"Whether crafted for some fell purpose or forged to serve the highest ideals of chivalry, magic weapons are coveted by many adventurers.",
-										"Some magic weapons specify the type of weapon they are in their descriptions, such as a longsword or longbow. If a magic weapon doesn't specify its weapon type, you may choose the type or determine it randomly. If a magic weapon has the ammunition property, ammunition fired from it is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage."
+										"Whether crafted for some fell purpose or forged to serve the highest ideals of chivalry, arma mágicas are coveted by many adventurers.",
+										"Some arma mágicas specify the type of weapon they are in their descriptions, such as a longsword or longbow. If a arma mágica doesn't specify its weapon type, you may choose the type or determine it randomly. If a arma mágica has the ammunition property, ammunition fired from it is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage."
 									],
 									"id": "25b"
 								},
@@ -15755,7 +15755,7 @@
 										],
 										[
 											"53-57",
-											"{@item Potion of heroism}"
+											"{@item Potion of heroísmo}"
 										],
 										[
 											"58-62",
@@ -17956,8 +17956,8 @@
 									"page": 229,
 									"entries": [
 										"Although they are often fashioned from gold and other precious materials, medals have an even greater symbolic value to those who award and receive them.",
-										"Medals are typically awarded by powerful political figures for acts of heroism, and wearing a medal is usually enough to earn the respect of those who understand its significance.",
-										"Different acts of heroism can warrant different kinds of medals. The King of Breland (in the Eberron campaign setting) might award a Royal Badge of Valor (shaped like a shield and made of ruby and electrum) to adventurers for defending Brelish citizens, while the Golden Bear of Breland (a medal made of gold and shaped in a likeness of a bear's head, with gems for eyes) might be reserved for adventurers who prove their allegiance to the Brelish Crown by uncovering and defeating a plot to end the Treaty of Thronehold and reignite the Last War.",
+										"Medals are typically awarded by powerful political figures for acts of heroísmo, and wearing a medal is usually enough to earn the respect of those who understand its significance.",
+										"Different acts of heroísmo can warrant different kinds of medals. The King of Breland (in the Eberron campaign setting) might award a Royal Badge of Valor (shaped like a shield and made of ruby and electrum) to adventurers for defending Brelish citizens, while the Golden Bear of Breland (a medal made of gold and shaped in a likeness of a bear's head, with gems for eyes) might be reserved for adventurers who prove their allegiance to the Brelish Crown by uncovering and defeating a plot to end the Treaty of Thronehold and reignite the Last War.",
 										"A medal doesn't offer a specific in-game benefit to one who wears it, but it can affect dealings with NPCs. For example, a character who proudly displays the Golden Bear of Breland will be regarded as a hero of the people within the kingdom of Breland. Outside Breland, the medal carries far less weight, except among allies of Breland's king."
 									],
 									"id": "27e"
@@ -18659,7 +18659,7 @@
 									"name": "Ignoring Inspiration",
 									"page": 241,
 									"entries": [
-										"Inspiration might not work for your campaign. Some DMs feel it adds a layer of metagame thinking, and others feel that heroism, roleplaying, and other parts of the game are their own rewards that don't need incentives like inspiration.",
+										"Inspiration might not work for your campaign. Some DMs feel it adds a layer of metagame thinking, and others feel that heroísmo, roleplaying, and other parts of the game are their own rewards that don't need incentives like inspiration.",
 										"If you choose to ignore inspiration, you're telling the players that your campaign is one where you let the dice fall where they may. It's a good option for gritty campaigns or ones where the DM focuses on playing an impartial role as a rules arbiter."
 									],
 									"id": "2ae"

@@ -1872,7 +1872,7 @@
 					"daily": {
 						"1e": [
 							"{@spell charm person}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell magic missile}"
 						]
 					},
@@ -2354,7 +2354,7 @@
 						"1e": [
 							"{@spell dispel magic}",
 							"{@spell haste}",
-							"{@spell protection from evil and good}",
+							"{@spell protección contra el bien y el mal}",
 							"{@spell sending}"
 						]
 					},

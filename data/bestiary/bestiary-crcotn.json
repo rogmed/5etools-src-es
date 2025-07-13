@@ -1790,10 +1790,10 @@
 					"daily": {
 						"1e": [
 							"{@spell animal friendship}",
-							"{@spell freedom of movement}",
+							"{@spell libertad de movimiento}",
 							"{@spell goodberry}",
 							"{@spell pass without trace}",
-							"{@spell protection from energy}"
+							"{@spell protección contra energía}"
 						]
 					},
 					"ability": "wis",
@@ -4079,7 +4079,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon}"
 							]
 						}
@@ -4912,7 +4912,7 @@
 							"{@spell invisibility}"
 						],
 						"1e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell zone of truth}"
 						]
 					},
@@ -5435,7 +5435,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell dimension door}"
+							"{@spell puerta dimensional}"
 						],
 						"2e": [
 							"{@spell charm person}",

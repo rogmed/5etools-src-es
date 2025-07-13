@@ -5306,9 +5306,9 @@
 							"{@spell Foresight}"
 						],
 						"2e": [
-							"{@spell Commune}",
+							"{@spell Comunión}",
 							"{@spell Heal}",
-							"{@spell Legend Lore}",
+							"{@spell Conocer las leyendas}",
 							"{@spell Raise Dead}",
 							"{@spell Escudriñar}"
 						]
@@ -7084,11 +7084,11 @@
 					"daily": {
 						"1e": [
 							"{@spell Aura of Purity}",
-							"{@spell Compelled Duel}",
+							"{@spell Duelo forzado}",
 							"{@spell Manto del cruzado}",
 							"{@spell Guarda contra la muerte}",
 							"{@spell Dispel Evil and Good}",
-							"{@spell Find Steed}",
+							"{@spell Hallar corcel}",
 							"{@spell Restablecimiento menor}",
 							"{@spell Remove Curse}",
 							"{@spell Revivir}",
@@ -9313,7 +9313,7 @@
 						"piercing",
 						"slashing"
 					],
-					"note": "from nonmagical attacks (from Stoneskin)",
+					"note": "from nonmagical attacks (from Piel pétrea)",
 					"cond": true
 				},
 				{
@@ -9352,7 +9352,7 @@
 						"1": [
 							"{@spell Cono de frío}",
 							"{@spell Foresight}",
-							"{@spell Stoneskin}",
+							"{@spell Piel pétrea}",
 							"{@spell Enlace telepático de Rary}",
 							"{@spell True Seeing}"
 						]

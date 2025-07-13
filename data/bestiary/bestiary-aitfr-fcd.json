@@ -156,7 +156,7 @@
 						"piercing",
 						"slashing"
 					],
-					"note": "(from stoneskin)",
+					"note": "(from piel pétrea)",
 					"preNote": "nonmagical",
 					"cond": true
 				}
@@ -218,7 +218,7 @@
 								"{@spell banishment}",
 								"{@spell hallucinatory terrain}*",
 								"{@spell phantasmal killer}*",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {

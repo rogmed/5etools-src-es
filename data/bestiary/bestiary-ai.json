@@ -345,7 +345,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell charm person}",
-								"{@spell heroism}",
+								"{@spell heroísmo}",
 								"{@spell illusory script}",
 								"{@spell sleep}",
 								"{@spell unseen servant}"
@@ -833,9 +833,9 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell compelled duel}",
+								"{@spell duelo forzado}",
 								"{@spell cure wounds}",
-								"{@spell wrathful smite}"
+								"{@spell castigo furioso}"
 							]
 						},
 						"2": {
@@ -1371,7 +1371,7 @@
 								"{@spell dissonant whispers}",
 								"{@spell fly}",
 								"{@spell hex}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell sending}",
 								"{@spell shatter}"
 							]
@@ -1987,16 +1987,16 @@
 							"spells": [
 								"{@spell bless}",
 								"{@spell command}",
-								"{@spell divine favor}",
+								"{@spell favor divino}",
 								"{@spell shield of faith}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell enhance ability}",
-								"{@spell hold person}",
-								"{@spell magic weapon}",
+								"{@spell potenciar característica}",
+								"{@spell inmovilizar persona}",
+								"{@spell arma mágica}",
 								"{@spell silence}",
 								"{@spell spiritual weapon}"
 							]
@@ -2004,7 +2004,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell beacon of hope}",
+								"{@spell señal de esperanza}",
 								"{@spell crusader's mantle}",
 								"{@spell dispel magic}",
 								"{@spell mass healing word}",
@@ -2015,9 +2015,9 @@
 							"slots": 3,
 							"spells": [
 								"{@spell death ward}",
-								"{@spell freedom of movement}",
+								"{@spell libertad de movimiento}",
 								"{@spell locate creature}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -2025,9 +2025,9 @@
 							"spells": [
 								"{@spell dispel evil and good}",
 								"{@spell flame strike}",
-								"{@spell hold monster}",
+								"{@spell inmovilizar monstruo}",
 								"{@spell greater restoration}",
-								"{@spell legend lore}"
+								"{@spell conocer las leyendas}"
 							]
 						}
 					},
@@ -2334,13 +2334,13 @@
 							"spells": [
 								"{@spell bane}",
 								"{@spell cure wounds}",
-								"{@spell guiding bolt}"
+								"{@spell saeta guía}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon}"
 							]
 						}
@@ -2597,7 +2597,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell cure wounds}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell sanctuary}"
 							]
 						},
@@ -3228,14 +3228,14 @@
 							"spells": [
 								"{@spell call lightning}",
 								"{@spell dispel magic}",
-								"{@spell plant growth}"
+								"{@spell crecimiento vegetal}"
 							]
 						},
 						"4": {
 							"slots": 1,
 							"spells": [
 								"{@spell blight}",
-								"{@spell freedom of movement}"
+								"{@spell libertad de movimiento}"
 							]
 						}
 					},

@@ -126,7 +126,7 @@
 					"will": [
 						"{@spell chromatic orb} (cold orb only; see \"Actions\" below)",
 						"{@spell detect magic}",
-						"{@spell misty step}"
+						"{@spell paso brumoso}"
 					],
 					"daily": {
 						"2e": [
@@ -2694,7 +2694,7 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn."
+						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from Agua bendita, this trait doesn't function at the start of the vampire's next turn."
 					]
 				},
 				{
@@ -3448,7 +3448,7 @@
 							"{@spell faerie fire}",
 							"{@spell invisibility} (self only)",
 							"{@spell polymorph}",
-							"{@spell stoneskin} (self only)"
+							"{@spell piel pétrea} (self only)"
 						]
 					},
 					"ability": "wis"
@@ -4735,7 +4735,7 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of its next turn."
+						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from Agua bendita, this trait doesn't function at the start of its next turn."
 					]
 				},
 				{
@@ -5866,10 +5866,10 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Sephek can innately cast {@spell misty step} up to three times per day, requiring no components. His innate spellcasting ability is Charisma."
+						"Sephek can innately cast {@spell paso brumoso} up to three times per day, requiring no components. His innate spellcasting ability is Charisma."
 					],
 					"will": [
-						"{@spell misty step}"
+						"{@spell paso brumoso}"
 					],
 					"ability": "cha",
 					"hidden": [
@@ -6754,7 +6754,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell darkvision}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell ray of enfeeblement}"
 							]
 						},
@@ -6896,7 +6896,7 @@
 						"1e": [
 							"{@spell animal messenger}",
 							"{@spell fog cloud}",
-							"{@spell freedom of movement}",
+							"{@spell libertad de movimiento}",
 							"{@spell pass without trace}",
 							"{@spell silence}",
 							"{@spell water walk}"
@@ -7196,7 +7196,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell suggestion}"
 						]
 					},

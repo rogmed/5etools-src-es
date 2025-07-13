@@ -361,7 +361,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell protection from energy}",
+								"{@spell protección contra energía}",
 								"{@spell revivify}"
 							]
 						},
@@ -538,7 +538,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell cono de frío}",
-								"{@spell hold monster}"
+								"{@spell inmovilizar monstruo}"
 							]
 						},
 						"6": {

@@ -671,7 +671,7 @@
 					"daily": {
 						"1e": [
 							"{@spell command}",
-							"{@spell hold person}"
+							"{@spell inmovilizar persona}"
 						]
 					},
 					"ability": "cha",
@@ -1212,7 +1212,7 @@
 							"{@spell calm emotions}",
 							"{@spell lesser restoration}",
 							"{@spell remove curse}",
-							"{@spell protection from energy}"
+							"{@spell protección contra energía}"
 						]
 					},
 					"ability": "wis",
@@ -2021,7 +2021,7 @@
 					"daily": {
 						"1e": [
 							"{@spell plane shift} (self only)",
-							"{@spell protection from evil and good}"
+							"{@spell protección contra el bien y el mal}"
 						]
 					},
 					"ability": "int",
@@ -4036,7 +4036,7 @@
 					"daily": {
 						"1e": [
 							"{@spell bane}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell web}"
 						]
 					},
@@ -4179,7 +4179,7 @@
 					"daily": {
 						"1e": [
 							"{@spell plane shift} (self only)",
-							"{@spell protection from evil and good}"
+							"{@spell protección contra el bien y el mal}"
 						]
 					},
 					"ability": "int",
@@ -5592,7 +5592,7 @@
 					"daily": {
 						"1e": [
 							"{@spell plane shift} (self only)",
-							"{@spell protection from evil and good}"
+							"{@spell protección contra el bien y el mal}"
 						]
 					},
 					"ability": "int",
@@ -5753,7 +5753,7 @@
 					"daily": {
 						"1e": [
 							"{@spell plane shift} (self only)",
-							"{@spell protection from evil and good}"
+							"{@spell protección contra el bien y el mal}"
 						]
 					},
 					"ability": "int",
@@ -6213,7 +6213,7 @@
 					"daily": {
 						"1e": [
 							"{@spell plane shift} (self only)",
-							"{@spell protection from evil and good}",
+							"{@spell protección contra el bien y el mal}",
 							"{@spell sending}"
 						]
 					},
@@ -6615,7 +6615,7 @@
 					"daily": {
 						"2e": [
 							"{@spell detect thoughts}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell suggestion}"
 						],
 						"1e": [
@@ -7629,7 +7629,7 @@
 						"1e": [
 							"{@spell aid}",
 							"{@spell continual flame}",
-							"{@spell protection from evil and good}",
+							"{@spell protección contra el bien y el mal}",
 							"{@spell scrying} (as an action)"
 						]
 					},

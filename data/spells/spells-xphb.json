@@ -1413,7 +1413,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -1449,10 +1449,10 @@
 			]
 		},
 		{
-			"name": "Banishment",
-			"originalname": "",
+			"name": "Destierro",
+			"originalname": "Banishment",
 			"source": "XPHB",
-			"page": 245,
+			"page": 269,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -1486,15 +1486,15 @@
 				}
 			],
 			"entries": [
-				"One creature that you can see within range must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the {@condition Incapacitado|XPHB} condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.",
-				"If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, the target doesn't return if the spell lasts for 1 minute. The target is instead transported to a random location on a plane (DM's choice) associated with its creature type."
+				"Una criatura que puedas ver dentro del alcance deberá superar una tirada de salvación de Carisma o se teletransportará a un semiplano inofensivo hasta que termine el conjuro. Mientras permanezca allí, tendrá el estado de {@condition incapacitado|XPHB}. Cuando el conjuro termine, el objetivo reaparecerá en el espacio que abandonó o en el espacio sin ocupar más cercano si dicho espacio está ocupado.",
+				"Si el conjuro dura 1 minuto y el objetivo es una aberración, un celestial, un elemental, un feérico o un infernal, no regresará. En vez de ello, se teletransportará a un lugar aleatorio de un plano (a elección de tu DM) relacionado con su tipo de criatura."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You can target one additional creature for each spell slot level above 4."
+						"Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 4 que tenga el espacio."
 					]
 				}
 			],
@@ -1558,10 +1558,10 @@
 			]
 		},
 		{
-			"name": "Beacon of Hope",
-			"originalname": "",
+			"name": "Señal de esperanza",
+			"originalname": "Beacon of Hope",
 			"source": "XPHB",
-			"page": 245,
+			"page": 332,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -1594,7 +1594,7 @@
 				}
 			],
 			"entries": [
-				"Choose any number of creatures within range. For the duration, each target has {@variantrule Advantage|XPHB} on Wisdom saving throws and Death Saving Throws and regains the maximum number of {@variantrule Hit Points|XPHB} possible from any healing."
+				"Elige cualquier cantidad de criaturas dentro del alcance. Hasta que el conjuro termine, todos los objetivos tienen ventaja en sus tiradas de salvación de Sabiduría y sus tiradas de salvación contra muerte, y también recuperan la cantidad máxima posible de puntos de golpe en cualquier curación."
 			],
 			"miscTags": [
 				"ADV",
@@ -2090,7 +2090,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -2559,7 +2559,7 @@
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"You can target one additional creature for each spell slot level above 4."
+						"Puedes hacer objetivo a una criatura adicional por cada nivel por encima de 4 que tenga el espacio."
 					]
 				}
 			],
@@ -3225,10 +3225,10 @@
 			]
 		},
 		{
-			"name": "Commune",
-			"originalname": "",
+			"name": "Comunión",
+			"originalname": "Commune",
 			"source": "XPHB",
-			"page": 251,
+			"page": 258,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -3248,7 +3248,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "incense"
+				"m": "incienso"
 			},
 			"duration": [
 				{
@@ -3263,16 +3263,16 @@
 				"ritual": true
 			},
 			"entries": [
-				"You contact a deity or a divine proxy and ask up to three questions that can be answered with yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.",
-				"Divine beings aren't necessarily omniscient, so you might receive \"unclear\" as an answer if a question pertains to information that lies beyond the deity's knowledge. In a case where a one-word answer could be misleading or contrary to the deity's interests, the DM might offer a short phrase as an answer instead.",
-				"If you cast the spell more than once before finishing a {@variantrule Descanso largo|XPHB}, there is a cumulative {@chance 25|||No answer!|Answer} chance for each casting after the first that you get no answer."
+				"Te pones en contacto con una deidad o con un representante divino y le haces hasta tres preguntas que se puedan responder con sí o no. Tienes que realizar las preguntas antes de que el conjuro termine y recibirás una respuesta correcta a cada una de ellas.",
+				"Los seres divinos no tienen por qué ser omniscientes, por lo que si la deidad no tiene información sobre lo que le preguntas, puede responderte “ambiguo”. En caso de que una respuesta de una sola palabra pudiera inducir a error o ser contraria a los intereses de la deidad, tu DM podría ofrecer en su lugar una frase corta.",
+				"Si lanzas el conjuro más de una vez antes de finalizar un descanso largo, hay una posibilidad acumulativa del 25 % por cada lanzamiento después del primero de que no recibas ninguna respuesta."
 			]
 		},
 		{
-			"name": "Commune with Nature",
-			"originalname": "",
+			"name": "Comunión con la naturaleza",
+			"originalname": "Comunión with Nature",
 			"source": "XPHB",
-			"page": 252,
+			"page": 258,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -3306,26 +3306,26 @@
 				"ritual": true
 			},
 			"entries": [
-				"You commune with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in castles and settlements.",
-				"Choose three of the following facts; you learn those facts as they pertain to the spell's area:",
+				"Comulgas con espíritus de la naturaleza y obtienes información sobre la zona circundante. En exteriores, el conjuro te proporciona información de la zona a 3 millas (4,5 km) a tu alrededor. En cavernas y otros entornos naturales subterráneos, el radio se ve limitado a 300 pies (90 m). El conjuro no funciona en lugares en los que la naturaleza ha sido sustituida por construcciones, como castillos y asentamientos.",
+				"Elige tres de los siguientes hechos, que aprenderás según corresponda a la zona del conjuro:",
 				{
 					"type": "list",
 					"items": [
-						"Locations of settlements",
-						"Locations of portals to other planes of existence",
-						"Location of one {@variantrule Challenge Rating|XPHB} 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead",
-						"The most prevalent kind of plant, mineral, or Beast (you choose which to learn)",
-						"Locations of bodies of water"
+						"Ubicaciones de asentamientos.",
+						"Ubicaciones de portales a otros planos de existencia.",
+						"La ubicación de una criatura con un valor de desafío de 10 o más (a elección de tu DM) que sea celestial, elemental, feérico, infernal o muerto viviente.",
+						"El tipo de planta, mineral o bestia más frecuente (tú decides cuál).",
+						"Ubicaciones de masas de agua."
 					]
 				},
-				"For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns."
+				"Por ejemplo, podrías determinar el paradero de un monstruo poderoso en la zona y la ubicación de masas de agua y de cualquier pueblo cercano."
 			]
 		},
 		{
-			"name": "Compelled Duel",
-			"originalname": "",
+			"name": "Duelo forzado",
+			"originalname": "Compelled Duel",
 			"source": "XPHB",
-			"page": 252,
+			"page": 274,
 			"level": 1,
 			"school": "E",
 			"time": [
@@ -3355,8 +3355,8 @@
 				}
 			],
 			"entries": [
-				"You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has {@variantrule Disadvantage|XPHB} on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.",
-				"The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target."
+				"Intentas forzar a una criatura a batirse en duelo, Una criatura que puedas ver dentro del alcance realiza una tirada de salvación de Sabiduría. Si la falla, el objetivo tendrá desventaja en las tiradas de ataque contra criaturas que no seas tú y no podrá moverse voluntariamente a ningún espacio que se encuentre a más de 30 pies (9 m) de ti.",
+				"El conjuro termina si haces una tirada de ataque contra una criatura distinta al objetivo, si lanzas un conjuro contra un enemigo distinto a él, si uno de tus aliados hace daño al objetivo o si terminas tu turno a más de 30 pies (9 m) de él."
 			],
 			"savingThrow": [
 				"sabiduría"
@@ -3411,10 +3411,10 @@
 			]
 		},
 		{
-			"name": "Compulsion",
-			"originalname": "",
+			"name": "Compulsión",
+			"originalname": "Compulsion",
 			"source": "XPHB",
-			"page": 252,
+			"page": 258,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -3447,8 +3447,8 @@
 				}
 			],
 			"entries": [
-				"Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition until the spell ends.",
-				"For the duration, you can take a {@variantrule Acción adicional|XPHB} to designate a direction that is horizontal to you. Each {@condition Hechizado|XPHB} target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success."
+				"Todas las criaturas de tu elección que puedas ver dentro del alcance deberán superar una tirada de salvación de Sabiduría o tendrán el estado de {@condition Hechizado|XPHB|hechizadas} hasta que el conjuro termine.",
+				"Mientras dure, puedes usar una acción adicional para designar una dirección horizontal respecto a ti. Cada criatura {@condition Hechizado|XPHB|hechizada} deberá usar todo el movimiento que pueda para avanzar en esa dirección por la ruta más segura durante su próximo turno. Tras moverse de este modo, un objetivo repite la tirada de salvación y, si tiene éxito, se librará del conjuro."
 			],
 			"conditionInflict": [
 				"charmed"
@@ -5449,7 +5449,7 @@
 				}
 			],
 			"entries": [
-				"Hasta que el conjuro termine, percibes la ubicación de cualquier aberración, celestial, elemental, feérico, infernal o muerto viviente a 30 pies (9 m) o menos de ti. También percibes si hay un conjuro {@spell Hallow|XPHB} activo en el espacio y su ubicación.",
+				"Hasta que el conjuro termine, percibes la ubicación de cualquier aberración, celestial, elemental, feérico, infernal o muerto viviente a 30 pies (9 m) o menos de ti. También percibes si hay un conjuro {@spell Consagrar|XPHB} activo en el espacio y su ubicación.",
 				"El conjuro no puede atravesar 30 cm de piedra, tierra o madera, 2,5 cm de metal o una lámina fina de plomo."
 			],
 			"affectsCreatureType": [
@@ -5983,10 +5983,10 @@
 			]
 		},
 		{
-			"name": "Divine Favor",
-			"originalname": "",
+			"name": "Favor divino",
+			"originalname": "favor divino",
 			"source": "XPHB",
-			"page": 265,
+			"page": 283,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -6017,7 +6017,7 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, your attacks with weapons deal an extra {@damage 1d4} Radiant damage on a hit."
+				"Hasta que el conjuro termine, tus ataques con armas infligen {@damage 1d4} de daño radiante adicional si aciertan."
 			],
 			"damageInflict": [
 				"radiant"
@@ -6027,10 +6027,10 @@
 			]
 		},
 		{
-			"name": "Divine Smite",
-			"originalname": "",
+			"name": "Castigo divino",
+			"originalname": "Divine Smite",
 			"source": "XPHB",
-			"page": 265,
+			"page": 255,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -6039,7 +6039,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "Which you take immediately after hitting a target with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a un objetivo con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -6057,14 +6057,14 @@
 				}
 			],
 			"entries": [
-				"The target takes an extra {@damage 2d8} Radiant damage from the attack. The damage increases by {@damage 1d8} if the target is a Fiend or an Undead."
+				"El objetivo sufre {@damage 2d8} de daño radiante adicional del ataque. Este daño aumenta en {@damage 1d8} si el objetivo es un infernal o un muerto viviente."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 2d8|1-9|1d8} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 2d8|1-9|1d8} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -6742,7 +6742,7 @@
 				}
 			],
 			"entries": [
-				"A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra {@damage 1d4} damage of the chosen type when it hits."
+				"A nonmagical weapon you touch becomes a arma mágica. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra {@damage 1d4} damage of the chosen type when it hits."
 			],
 			"entriesHigherLevel": [
 				{
@@ -7743,10 +7743,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Find Steed",
-			"originalname": "",
+			"name": "Hallar corcel",
+			"originalname": "Find Steed",
 			"source": "XPHB",
-			"page": 272,
+			"page": 290,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -7774,20 +7774,20 @@
 				}
 			],
 			"entries": [
-				"You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the {@creature Otherworldly Steed|XPHB} stat block. If you already have a steed from this spell, the steed is replaced by the new one.",
-				"The steed resembles a Large, rideable animal of your choice, such as a horse, a camel, a dire wolf, or an elk. Whenever you cast the spell, choose the steed's creature type\u2014Celestial, Fey, or Fiend\u2014which determines certain traits in the stat block.",
+				"Invocas un ser sobrenatural que asume la forma de un corcel fiel en un espacio sin ocupar de tu elección dentro del alcance. La criatura utiliza el perfil del {@creature corcel sobrenatural|XPHB}. Si ya tienes un corcel gracias a este conjuro, se sustituirá por el nuevo.",
+				"El corcel se parece a un animal Grande que puedas montar de tu elección, como un caballo, un alce, un camello o un lobo terrible. Siempre que lances el conjuro, elige el tipo de criatura del corcel (celestial, feérico o infernal), lo que determinará ciertos atributos de su perfil.",
 				{
 					"type": "entries",
-					"name": "Combat",
+					"name": "Combate",
 					"entries": [
-						"The steed is an ally to you and your allies. In combat, it shares your {@variantrule Initiative|XPHB} count, and it functions as a controlled mount while you ride it (as defined in the rules on {@book mounted combat|XPHB|1|Mounted Combat}). If you have the {@condition Incapacitado|XPHB} condition, the steed takes its turn immediately after yours and acts independently, focusing on protecting you."
+						"El corcel se considera un aliado para tus aliados y para ti. En combate, la criatura comparte tu orden de iniciativa y funciona como una montura controlada mientras vayas sobre ella (como se describe en las normas del combate montado). Si tienes el estado de {@condition incapacitado|XPHB}, su turno irá justo después del tuyo, actuará con independencia de ti y se centrará en protegerte."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Disappearance of the Steed",
+					"name": "Desaparición del corcel",
 					"entries": [
-						"The steed disappears if it drops to 0 {@variantrule Hit Points|XPHB} or if you die. When it disappears, it leaves behind anything it was wearing or carrying. If you cast this spell again, you decide whether you summon the steed that disappeared or a different one."
+						"El corcel desaparece si sus puntos de golpe se reducen a 0 o si mueres. Cuando desaparece, deja atrás todo lo que vistiera o llevase. Si vuelves a lanzar este conjuro, decides si invocas al corcel que desapareció u otro distinto."
 					]
 				}
 			],
@@ -9571,10 +9571,10 @@
 			]
 		},
 		{
-			"name": "Guardian of Faith",
-			"originalname": "",
+			"name": "Guardián de la fe",
+			"originalname": "Guardian of Faith",
 			"source": "XPHB",
-			"page": 281,
+			"page": 289,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -9605,8 +9605,8 @@
 				}
 			],
 			"entries": [
-				"A Large spectral guardian appears and hovers for the duration in an unoccupied space that you can see within range. The guardian occupies that space and is invulnerable, and it appears in a form appropriate for your deity or pantheon.",
-				"Any enemy that moves to a space within 10 feet of the guardian for the first time on a turn or starts its turn there makes a Dexterity saving throw, taking 20 Radiant damage on a failed save or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage."
+				"Un guardián espectral Grande aparece en un espacio sin ocupar que puedas ver dentro del alcance y levita sobre él hasta que termine el conjuro. El guardián ocupa ese espacio, es invulnerable y se muestra en una forma adecuada para tu deidad o panteón.",
+				"Cualquier enemigo que entre en un espacio a 10 pies (3 m) o menos del guardián por primera vez en un turno o empiece su turno allí hará una tirada de salvación de Destreza; sufrirá 20 de daño radiante si la falla o la mitad de daño si la supera. El guardián se desvanece cuando ha causado un total de 60 de daño."
 			],
 			"damageInflict": [
 				"radiant"
@@ -9914,10 +9914,10 @@
 			]
 		},
 		{
-			"name": "Hallow",
-			"originalname": "",
+			"name": "Consagrar",
+			"originalname": "Hallow",
 			"source": "XPHB",
-			"page": 283,
+			"page": 261,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -9938,7 +9938,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "incense worth 1,000+ GP, which the spell consumes",
+					"text": "incienso que valga al menos 1000 po, que se consume como parte del conjuro",
 					"cost": 100000,
 					"consume": true
 				}
@@ -9952,91 +9952,91 @@
 				}
 			],
 			"entries": [
-				"You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects.",
+				"Tocas un punto e impregnas una zona a su alrededor con poder sagrado o impío. El área puede tener un radio de hasta 18 m y el conjuro falla si el radio incluye cualquier zona que ya esté bajo el efecto de {@i consagrar}. La zona afectada tiene los siguientes efectos.",
 				{
 					"type": "entries",
-					"name": "Hallowed Ward",
+					"name": "Protección sagrada",
 					"entries": [
-						"Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can't willingly enter the area, and any creature that is possessed by or that has the {@condition Hechizado|XPHB} or {@condition Asustado|XPHB} condition from such creatures isn't possessed, {@condition Hechizado|XPHB}, or {@condition Asustado|XPHB} by them while in the area."
+						"Elige cualquiera de los siguientes tipos de criatura: aberración, celestial, elemental, feérico, infernal o muerto viviente. Las criaturas de los tipos elegidos no podrán entrar en la zona voluntariamente, y cualquier criatura poseída o con los estados de {@condition Asustado|XPHB|asustada} o {@condition Hechizado|XPHB|hechizada} a causa de ellas dejarán de estarlo mientras permanezcan en la zona."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Extra Effect",
+					"name": "Efecto adicional",
 					"entries": [
-						"You bind an extra effect to the area from the list below:",
+						"Vinculas un efecto adicional de la siguiente lista:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
 							"items": [
 								{
 									"type": "item",
-									"name": "Courage",
+									"name": "Coraje",
 									"entries": [
-										"Creatures of any types you choose can't gain the {@condition Asustado|XPHB} condition while in the area."
+										"Las criaturas de cualesquiera tipos que elijas no podrán obtener el estado de {@condition Asustado|XPHB|asustadas} dentro de la zona."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Darkness",
+									"name": "Descanso plácido",
 									"entries": [
-										"{@variantrule Darkness|XPHB} fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can't illuminate the area."
+										"Los cadáveres enterrados en la zona no se pueden convertir en muertos vivientes."
+									]
+								},
+								{
+									"type": "item",
+									"name": "Don de lenguas",
+									"entries": [
+										"Las criaturas de cualesquiera tipos que elijas se pueden comunicar con cualquier otra criatura en la zona, aunque no compartan ningún idioma común."
+									]
+								},
+								{
+									"type": "item",
+									"name": "Intromisión extradimensional",
+									"entries": [
+										"Las criaturas de cualesquiera tipos que elijas no pueden entrar en la zona ni salir de ella usando el teletransporte o el viaje interplanar."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Luz del día",
 									"entries": [
-										"Bright light fills the area. Magical {@variantrule Darkness|XPHB} created by spells of a level lower than this spell can't extinguish the light."
+										"La zona se llena de luz brillante. La oscuridad mágica creada por conjuros de niveles menores que el de este conjuro no pueden extinguir la luz."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Peaceful Rest",
+									"name": "Oscuridad",
 									"entries": [
-										"{@variantrule Dead|XPHB} bodies interred in the area can't be turned into Undead."
-									]
-								},
-								{
-									"type": "item",
-									"name": "Extradimensional Interference",
-									"entries": [
-										"Creatures of any types you choose can't enter or exit the area using teleportation or interplanar travel."
-									]
-								},
-								{
-									"type": "item",
-									"name": "Terror",
-									"entries": [
-										"Creatures of any types you choose have the {@condition Asustado|XPHB} condition while in the area."
+										"La zona se llena de oscuridad. La luz normal y la luz mágica creada por conjuros de niveles menores que el de este conjuro no pueden iluminar la zona."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Resistencia",
 									"entries": [
-										"Creatures of any types you choose have {@variantrule Resistance|XPHB} to one damage type of your choice while in the area."
+										"Las criaturas de cualesquiera tipos que elijas tienen resistencia a un tipo de daño de tu elección dentro de la zona."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Silencio",
 									"entries": [
-										"No sound can emanate from within the area, and no sound can reach into it."
+										"Ningún sonido puede salir de la zona ni penetrar en ella,"
 									]
 								},
 								{
 									"type": "item",
-									"name": "Tongues",
+									"name": "Terror",
 									"entries": [
-										"Creatures of any types you choose can communicate with any other creature in the area even if they don't share a common language."
+										"Las criaturas de cualesquiera tipos que elijas tienen el estado de {@condition Asustado|XPHB|asustadas} dentro de la zona."
 									]
 								},
 								{
 									"type": "item",
-									"name": "Vulnerability",
+									"name": "Vulnerabilidad",
 									"entries": [
-										"Creatures of any types you choose have {@variantrule Vulnerability|XPHB} to one damage type of your choice while in the area."
+										"Las criaturas de cualesquiera tipos que elijas tienen vulnerabilidad a un tipo de daño de tu elección dentro de la zona."
 									]
 								}
 							]
@@ -10175,10 +10175,10 @@
 			]
 		},
 		{
-			"name": "Haste",
-			"originalname": "",
+			"name": "Acelerar",
+			"originalname": "Haste",
 			"source": "XPHB",
-			"page": 284,
+			"page": 239,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -10199,7 +10199,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a shaving of licorice root"
+				"m": "un viruta de raíz de regaliz"
 			},
 			"duration": [
 				{
@@ -10212,8 +10212,8 @@
 				}
 			],
 			"entries": [
-				"Choose a willing creature that you can see within range. Until the spell ends, the target's {@variantrule Velocidad|XPHB} is doubled, it gains a +2 bonus to {@variantrule Armor Class|XPHB}, it has {@variantrule Advantage|XPHB} on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the {@action Attack|XPHB} (one attack only), {@action Correr|XPHB}, {@action Destrabarse|XPHB}, {@action Esconderse|XPHB}, or {@action Utilize|XPHB} action.",
-				"When the spell ends, the target is {@condition Incapacitado|XPHB} and has a {@variantrule Velocidad|XPHB} of 0 until the end of its next turn, as a wave of lethargy washes over it."
+				"Elige a una criatura voluntaria que puedas ver dentro del alcance. Hasta que el conjuro termine, la velocidad del objetivo se duplica, gana un bonificador de +2 a su clase de armadura, tiene ventaja en tiradas de salvación de Destreza y consigue una segunda acción en cada uno de sus turnos. Solo puede utilizar esta acción para llevar a cabo una acción de atacar (solo un ataque), correr, destrabarse, esconderse o utilizar.",
+				"Cuando el conjuro termine, el objetivo tendrá el estado de {@condition incapacitado|XPHB} y una velocidad de 0 hasta el final de su siguiente turno, debido a una ola de somnolencia que lo afecta."
 			],
 			"conditionInflict": [
 				"incapacitated"
@@ -10692,7 +10692,7 @@
 		},
 		{
 			"name": "Inmovilizar persona",
-			"originalname": "",
+			"originalname": "Hold person",
 			"source": "XPHB",
 			"page": 294,
 			"srd52": true,
@@ -11698,10 +11698,10 @@
 			]
 		},
 		{
-			"name": "Legend Lore",
-			"originalname": "",
+			"name": "Conocer las leyendas",
+			"originalname": "Legend Lore",
 			"source": "XPHB",
-			"page": 290,
+			"page": 261,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -11722,7 +11722,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each",
+					"text": "incienso que valga al menos 250 po, que se consume como parte del conjuro, y cuatro tiras de marfil que valgan al menos 50 po",
 					"cost": 25000,
 					"consume": true
 				}
@@ -11733,9 +11733,9 @@
 				}
 			],
 			"entries": [
-				"Name or describe a famous person, place, or object. The spell brings to your mind a brief summary of the significant lore about that famous thing, as described by the DM.",
-				"The lore might consist of important details, amusing revelations, or even secret lore that has never been widely known. The more information you already know about the thing, the more precise and detailed the information you receive is. That information is accurate but might be couched in figurative language or poetry, as determined by the DM.",
-				"If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails."
+				"Nombra o describe a una persona, un lugar o un objeto famosos. El conjuro traerá a tu mente un breve resumen de la información relevante sobre lo nombrado, que describe tu DM.",
+				"Esta información pueden ser detalles importantes, revelaciones simpáticas o incluso conocimiento secreto que no es de dominio público. Cuanta más información tengas ya sobre esa cosa, más precisa y detallada será la que consigas. La información será cierta, pero puede estar disimulada bajo un lenguaje metafórico o poético, a discreción de tu DM.",
+				"Si lo que has nombrado no es famoso, en su lugar escucharás una musiquilla triste tocada con un trombón y el conjuro fallará."
 			],
 			"miscTags": [
 				"OBJ"
@@ -13992,7 +13992,7 @@
 				"Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square's elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete. Because the terrain's transformation occurs slowly, creatures in the area can't usually be trapped or injured by the ground's movement.",
 				"At the end of every 10 minutes you spend {@status Concentration|XPHB|Concentrating} on the spell, you can choose a new area of terrain to affect within range.",
 				"This spell can't manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse.",
-				"Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it."
+				"Similarly, this spell doesn't directly affect crecimiento vegetal. The moved earth carries any plants along with it."
 			],
 			"areaTags": [
 				"Q"
@@ -14574,7 +14574,7 @@
 			],
 			"entries": [
 				"You beseech an otherworldly entity for aid. The being must be known to you: a god, a demon prince, or some other being of cosmic power. That entity sends a {@filter Celestial|bestiary|type=celestial|miscellaneous=!swarm}, an {@filter Elemental|bestiary|type=elemental|miscellaneous=!swarm}, or a {@filter Fiend|bestiary|type=fiend|miscellaneous=!swarm} loyal to it to aid you, making the creature appear in an unoccupied space within range. If you know a specific creature's name, you can speak that name when you cast this spell to request that creature, though you might get a different creature anyway (DM's choice).",
-				"When the creature appears, it is under no compulsion to behave a particular way. You can ask it to perform a service in exchange for payment, but it isn't obliged to do so. The requested task could range from simple (fly us across the chasm, or help us fight a battle) to complex (spy on our enemies, or protect us during our foray into the dungeon). You must be able to communicate with the creature to bargain for its services.",
+				"When the creature appears, it is under no compulsión to behave a particular way. You can ask it to perform a service in exchange for payment, but it isn't obliged to do so. The requested task could range from simple (fly us across the chasm, or help us fight a battle) to complex (spy on our enemies, or protect us during our foray into the dungeon). You must be able to communicate with the creature to bargain for its services.",
 				"Payment can take a variety of forms. A Celestial might require a sizable donation of gold or magic items to an allied temple, while a Fiend might demand a living sacrifice or a gift of treasure. Some creatures might exchange their service for a quest undertaken by you.",
 				"A task that can be measured in minutes requires a payment worth 100 GP per minute. A task measured in hours requires 1,000 GP per hour. And a task measured in days (up to 10 days) requires 10,000 GP per day. The DM can adjust these payments based on the circumstances under which you cast the spell. If the task is aligned with the creature's ethos, the payment might be halved or even waived. Nonhazardous tasks typically require only half the suggested payment, while especially dangerous tasks might require a greater gift. Creatures rarely accept tasks that seem suicidal.",
 				"After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane."
@@ -14696,10 +14696,10 @@
 			]
 		},
 		{
-			"name": "Plant Growth",
-			"originalname": "",
+			"name": "Crecimiento vegetal",
+			"originalname": "Plant Growth",
 			"source": "XPHB",
-			"page": 305,
+			"page": 266,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -14708,12 +14708,12 @@
 				{
 					"number": 1,
 					"unit": "acción",
-					"note": "Overgrowth"
+					"note": "sobrecrecimiento"
 				},
 				{
 					"number": 8,
 					"unit": "hora",
-					"note": "Enrichment"
+					"note": "fertilización"
 				}
 			],
 			"range": {
@@ -14733,19 +14733,19 @@
 				}
 			],
 			"entries": [
-				"This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below.",
+				"Este conjuro infunde vitalidad en las plantas. El tiempo de lanzamiento que uses determina si el conjuro tiene un efecto de sobrecrecimiento o de enriquecimiento, descritos a continuación.",
 				{
 					"type": "entries",
-					"name": "Overgrowth",
+					"name": "Sobrecrecimiento",
 					"entries": [
-						"Choose a point within range. All normal plants in a 100-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on that point become thick and overgrown. A creature moving through that area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected."
+						"Elige un punto dentro del alcance. Todas las plantas en una esfera de 100 pies (30 m) de radio centrada en ese punto se volverán gruesas y frondosas. Una criatura que atraviese esa área deberá gastar 4 m de movimiento por cada metro que se mueva. Puedes excluir una o más zonas de cualquier tamaño dentro del área del conjuro para que no se vean afectadas."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Enrichment",
+					"name": "Fertilización",
 					"entries": [
-						"All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year."
+						"Todas las plantas en un radio de media milla (750 m) centrado en un punto dentro del alcance estarán fertilizadas durante 365 días y producirán el doble de comida al recolectarlas. Solo podrán beneficiarse de un {@i crecimiento vegetal} cada año."
 					]
 				}
 			],
@@ -15560,10 +15560,10 @@
 			]
 		},
 		{
-			"name": "Protection from Energy",
-			"originalname": "",
+			"name": "Protección contra energía",
+			"originalname": "Protection from Energy",
 			"source": "XPHB",
-			"page": 309,
+			"page": 322,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -15595,7 +15595,7 @@
 				}
 			],
 			"entries": [
-				"For the duration, the willing creature you touch has {@variantrule Resistance|XPHB} to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder."
+				"Hasta que termine el conjuro, una criatura voluntaria a la que toques tendrá resistencia a un tipo de daño de tu elección: ácido, frío, fuego, relámpago o trueno."
 			],
 			"damageResist": [
 				"acid",
@@ -16721,10 +16721,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Searing Smite",
-			"originalname": "",
+			"name": "Castigo abrasador",
+			"originalname": "Searing Smite",
 			"source": "XPHB",
-			"page": 314,
+			"page": 253,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -16733,7 +16733,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a target with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a un objetivo con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -16755,14 +16755,14 @@
 				}
 			],
 			"entries": [
-				"As you hit the target, it takes an extra {@damage 1d6} Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes {@damage 1d6} Fire damage and then makes a Constitution saving throw. On a failed save, the spell continues. On a successful save, the spell ends."
+				"Al golpear al objetivo, sufre {@damage 1d6} de daño de fuego adicional del ataque. Al principio de cada uno de sus turnos hasta que el conjuro termine, el objetivo sufrirá {@damage 1d6} de daño de fuego y luego hará una tirada de salvación de Constitución. Si la falla, el conjuro seguirá activo. Si la supera, el conjuro terminará."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"All the damage increases by {@scaledamage 1d6|1-9|1d6} for each spell slot level above 1."
+						"Todo el daño aumenta en {@scaledamage 1d6|1-9|1d6} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -17232,7 +17232,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -17863,7 +17863,7 @@
 			],
 			"entries": [
 				"You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days.",
-				"Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events."
+				"Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsión to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events."
 			],
 			"affectsCreatureType": [
 				"aberration",
@@ -17918,7 +17918,7 @@
 			],
 			"entries": [
 				"You imbue plants in an immobile 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.",
-				"You can also turn {@variantrule Terreno difícil|XPHB} caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into {@variantrule Terreno difícil|XPHB} that lasts for the duration.",
+				"You can also turn {@variantrule Terreno difícil|XPHB} caused by crecimiento vegetal (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into {@variantrule Terreno difícil|XPHB} that lasts for the duration.",
 				"The spell doesn't enable plants to uproot themselves and move about, but they can move their branches, tendrils, and stalks for you.",
 				"If a Plant creature is in the area, you can communicate with it as if you shared a common language."
 			],
@@ -18170,7 +18170,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -18419,10 +18419,10 @@
 			]
 		},
 		{
-			"name": "Stoneskin",
-			"originalname": "",
+			"name": "Piel pétrea",
+			"originalname": "Stoneskin",
 			"source": "XPHB",
-			"page": 321,
+			"page": 319,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -18443,7 +18443,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "diamond dust worth 100+ GP, which the spell consumes",
+					"text": "polvo de diamante que valga al menos 100 po y que se consume como parte del conjuro",
 					"cost": 10000,
 					"consume": true
 				}
@@ -18459,7 +18459,7 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, one willing creature you touch has {@variantrule Resistance|XPHB} to Bludgeoning, Piercing, and Slashing damage."
+				"Hasta que el conjuro termine, una criatura voluntaria a la que toques tiene resistencia al daño contundente, cortante y perforante."
 			],
 			"damageResist": [
 				"bludgeoning",
@@ -20134,17 +20134,17 @@
 			]
 		},
 		{
-			"name": "Thunderous Smite",
-			"originalname": "",
+			"name": "Castigo atronador",
+			"originalname": "Thunderous Smite",
 			"source": "XPHB",
-			"page": 334,
+			"page": 254,
 			"level": 1,
 			"school": "V",
 			"time": [
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a target with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a un objetivo con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -20162,14 +20162,14 @@
 				}
 			],
 			"entries": [
-				"Your strike rings with thunder that is audible within 300 feet of you, and the target takes an extra {@damage 2d6} Thunder damage from the attack. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and have the {@condition Prone|XPHB} condition."
+				"Tu golpe resuena con un trueno audible a 300 pies (90 m) de ti y el objetivo sufre {@damage 2d6} de daño de trueno adicional del ataque. Además, si el objetivo es una criatura, deberá superar una tirada de salvación de Fuerza o la empujarás 10 pies (3 m) respecto a ti y tendrá el estado de {@condition derribado|XPHB|derribada}."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 2d6|1-9|1d6} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 2d6|1-9|1d6} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -21931,17 +21931,17 @@
 			]
 		},
 		{
-			"name": "Wrathful Smite",
-			"originalname": "",
+			"name": "castigo furioso",
+			"originalname": "Wrathful Smite",
 			"source": "XPHB",
-			"page": 343,
+			"page": 255,
 			"level": 1,
 			"school": "N",
 			"time": [
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -21963,14 +21963,14 @@
 				}
 			],
 			"entries": [
-				"The target takes an extra {@damage 1d6} Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the {@condition Asustado|XPHB} condition until the spell ends. At the end of each of its turns, the {@condition Asustado|XPHB} target repeats the save, ending the spell on itself on a success."
+				"El objetivo sufrirá {@damage 1d6} de daño necrótico adicional del ataque y deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition asustado|XPHB} hasta que el conjuro termine. Al final de cada uno de sus turnos, el objetivo asustado repite la tirada de salvación y, si tiene éxito, se librará del conjuro."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 1d6|1-9|1d6} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 1d6|1-9|1d6} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -21988,10 +21988,10 @@
 			]
 		},
 		{
-			"name": "Yolande's Regal Presence",
-			"originalname": "",
+			"name": "Presencia regia de Yolande",
+			"originalname": "Yolande's Regal Presence",
 			"source": "XPHB",
-			"page": 343,
+			"page": 321,
 			"level": 5,
 			"school": "E",
 			"time": [
@@ -22010,7 +22010,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a miniature tiara"
+				"m": "una tiara en miniatura"
 			},
 			"duration": [
 				{
@@ -22023,7 +22023,7 @@
 				}
 			],
 			"entries": [
-				"You surround yourself with unearthly majesty in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation}. Whenever the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} enters the space of a creature you can see and whenever a creature you can see enters the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} or ends its turn there, you can force that creature to make a Wisdom saving throw. On a failed save, the target takes {@damage 4d6} Psychic damage and has the {@condition Prone|XPHB} condition, and you can push it up to 10 feet away. On a successful save, the target takes half as much damage only. A creature makes this save only once per turn."
+				"Te rodeas de una majestuosidad sobrenatural en una emanación de 10 pies (3 m). Siempre que la emanación entre en el espacio de una criatura que puedas ver y siempre que una criatura que puedas ver entre en la emanación o termine su turno allí, puedes obligar a la criatura a hacer una tirada de salvación de Sabiduría. Si la falla, el objetivo sufrirá {@damage 4d6} de daño psíquico, tendrá el estado de {@condition derribado|XPHB} y podrás empujarlo hasta 10 pies (3 m) respecto a ti. Si la supera, solo sufrirá la mitad de ese daño. Una criatura solo hace esta tirada una vez por turno."
 			],
 			"damageInflict": [
 				"psychic"

@@ -1118,7 +1118,7 @@
 					]
 				},
 				{
-					"name": "Whispers of Compulsion",
+					"name": "Whispers of Compulsión",
 					"entries": [
 						"The allip chooses up to three creatures it can see within 60 feet of it. Each target must succeed on a {@dc 14} Wisdom saving throw, or it takes 12 ({@damage 2d8 + 3}) psychic damage and must use its reaction to make a melee weapon attack against one creature of the allip's choice that the allip can see. Constructs and Undead are immune to this effect."
 					]
@@ -1845,7 +1845,7 @@
 							"{@spell paso arbóreo}"
 						],
 						"1e": [
-							"{@spell commune with nature} (as an action)",
+							"{@spell comunión con la naturaleza} (as an action)",
 							"{@spell mass cure wounds}"
 						]
 					},
@@ -2526,7 +2526,7 @@
 						"The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 16}):"
 					],
 					"will": [
-						"{@spell hold person}"
+						"{@spell inmovilizar persona}"
 					],
 					"daily": {
 						"2e": [
@@ -3834,7 +3834,7 @@
 					"daily": {
 						"1e": [
 							"{@spell charm person}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell suggestion}"
 						]
 					},
@@ -4158,7 +4158,7 @@
 						"While holding or riding the graystaff, the hag casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 14}):"
 					],
 					"will": [
-						"{@spell hold person}"
+						"{@spell inmovilizar persona}"
 					],
 					"daily": {
 						"1e": [
@@ -4470,7 +4470,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"paladin"
+					"paladín"
 				]
 			},
 			"alignment": [
@@ -4524,7 +4524,7 @@
 						"2e": [
 							"{@spell command}",
 							"{@spell dispel magic}",
-							"{@spell find steed}"
+							"{@spell hallar corcel}"
 						]
 					},
 					"ability": "cha",
@@ -6505,7 +6505,7 @@
 					"daily": {
 						"1e": [
 							"{@spell bane}",
-							"{@spell hold person}"
+							"{@spell inmovilizar persona}"
 						]
 					},
 					"ability": "wis",
@@ -8384,7 +8384,7 @@
 					"daily": {
 						"1e": [
 							"{@spell darkness}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell dispel magic}",
 							"{@spell fly}",
 							"{@spell invisibility}"
@@ -8569,7 +8569,7 @@
 					"daily": {
 						"1e": [
 							"{@spell fear}",
-							"{@spell hold person}"
+							"{@spell inmovilizar persona}"
 						]
 					},
 					"ability": "cha",
@@ -10872,7 +10872,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell fireball}",
 							"{@spell invisibility}"
 						],
@@ -11465,7 +11465,7 @@
 							"{@spell banishment}",
 							"{@spell blade barrier}",
 							"{@spell cure wounds}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell plane shift}",
 							"{@spell silence}"
 						],
@@ -13225,7 +13225,7 @@
 						"The dybbuk casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 12}):"
 					],
 					"will": [
-						"{@spell dimension door}"
+						"{@spell puerta dimensional}"
 					],
 					"daily": {
 						"3": [
@@ -13915,7 +13915,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell dominate person}",
 							"{@spell hypnotic pattern}",
 							"{@spell telekinesis}"
@@ -14290,7 +14290,7 @@
 						"2e": [
 							"{@spell charm person}",
 							"{@spell mage armor}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell invisibility}",
 							"{@spell suggestion}",
 							"{@spell tongues}"
@@ -17109,7 +17109,7 @@
 							"{@spell nondetection} (self only)"
 						],
 						"1e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell plane shift}",
 							"{@spell telekinesis}"
 						]
@@ -19428,7 +19428,7 @@
 					],
 					"daily": {
 						"2": [
-							"{@spell plant growth}"
+							"{@spell crecimiento vegetal}"
 						],
 						"3e": [
 							"{@spell cure wounds}",
@@ -20834,7 +20834,7 @@
 					"will": [
 						"{@spell alter self} (can become Medium when changing his appearance)",
 						"{@spell detect magic}",
-						"{@spell hold monster}",
+						"{@spell inmovilizar monstruo}",
 						"{@spell invisibility} (self only)",
 						"{@spell relámpago}",
 						"{@spell suggestion}",
@@ -21693,7 +21693,7 @@
 							"{@spell create food and water}",
 							"{@spell greater restoration}",
 							"{@spell plane shift}",
-							"{@spell protection from evil and good}",
+							"{@spell protección contra el bien y el mal}",
 							"{@spell revivify}",
 							"{@spell wind walk}"
 						]
@@ -22367,7 +22367,7 @@
 						"The korred casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell commune with nature} (as an action)",
+						"{@spell comunión con la naturaleza} (as an action)",
 						"{@spell meld into stone}",
 						"{@spell stone shape}"
 					],
@@ -25531,7 +25531,7 @@
 					"daily": {
 						"3e": [
 							"{@spell darkness}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell dispel magic}",
 							"{@spell relámpago}",
 							"{@spell sending}"
@@ -26021,7 +26021,7 @@
 						"2e": [
 							"{@spell fireball}",
 							"{@spell fly}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell suggestion}",
 							"{@spell wall of fire}"
 						],
@@ -26375,7 +26375,7 @@
 					"daily": {
 						"2e": [
 							"{@spell bestow curse}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell mage armor}",
 							"{@spell web}"
 						],
@@ -26778,8 +26778,8 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell dimension door}",
-							"{@spell hold person}",
+							"{@spell puerta dimensional}",
+							"{@spell inmovilizar persona}",
 							"{@spell hunger of Hadar}"
 						]
 					},
@@ -28084,7 +28084,7 @@
 						"{@spell darkness}",
 						"{@spell detect magic}",
 						"{@spell dispel magic}",
-						"{@spell hold monster}",
+						"{@spell inmovilizar monstruo}",
 						"{@spell invisibility} (self only)"
 					],
 					"daily": {
@@ -31156,7 +31156,7 @@
 					"will": [
 						"{@spell command}",
 						"{@spell dispel magic}",
-						"{@spell hold monster}"
+						"{@spell inmovilizar monstruo}"
 					],
 					"daily": {
 						"1": [
@@ -31631,7 +31631,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell fear}"
 						],
 						"1e": [
@@ -33204,7 +33204,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell dimension door} (self only)",
+							"{@spell puerta dimensional} (self only)",
 							"{@spell plane shift} (self only)"
 						]
 					},
@@ -35534,7 +35534,7 @@
 					"daily": {
 						"2e": [
 							"{@spell cure wounds}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell speak with animals}",
 							"{@spell ola atronadora}"
 						]
@@ -35684,7 +35684,7 @@
 					"daily": {
 						"2e": [
 							"{@spell fireball}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell knock}",
 							"{@spell mage armor}",
 							"{@spell polymorph}",
@@ -36934,8 +36934,8 @@
 							"{@spell command}",
 							"{@spell dispel magic}",
 							"{@spell flame strike}",
-							"{@spell guardian of faith}",
-							"{@spell hold person}",
+							"{@spell guardián de la fe}",
+							"{@spell inmovilizar persona}",
 							"{@spell lesser restoration}",
 							"{@spell revivify}"
 						]
@@ -37101,8 +37101,8 @@
 					"daily": {
 						"1e": [
 							"{@spell charm person}",
-							"{@spell dimension door}",
-							"{@spell hold monster}"
+							"{@spell puerta dimensional}",
+							"{@spell inmovilizar monstruo}"
 						]
 					},
 					"ability": "cha",
@@ -40387,7 +40387,7 @@
 							"{@spell suggestion}"
 						],
 						"2e": [
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell invisibility}"
 						]
 					},
@@ -41071,7 +41071,7 @@
 						"3e": [
 							"{@spell dispel magic}",
 							"{@spell entangle}",
-							"{@spell plant growth}"
+							"{@spell crecimiento vegetal}"
 						],
 						"1e": [
 							"{@spell etherealness}",

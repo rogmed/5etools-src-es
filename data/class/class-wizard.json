@@ -160,7 +160,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) 2 {@item Daga|XPHB|dagas}, {@item Arcane Focus|XPHB} ({@item Bastón|XPHB}), {@item Robe|XPHB}, Spellbook, {@item Académico's Pack|XPHB}, and 5 GP; or (B) 55 GP"
+					"{@i Choose A or B:} (A) 2 {@item Daga|XPHB|dagas}, {@item Arcane Focus|XPHB} ({@item Bastón|XPHB}), {@item Túnica|XPHB}, Spellbook, {@item Académico's Pack|XPHB}, and 5 GP; or (B) 55 GP"
 				]
 			},
 			"multiclassing": {},

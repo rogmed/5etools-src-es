@@ -3307,7 +3307,7 @@
 							"{@spell create food and water}",
 							"{@spell cure wounds}",
 							"{@spell faerie fire}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell revivify}"
 						]
 					},
@@ -4184,7 +4184,7 @@
 				{
 					"name": "Staff Spell",
 					"entries": [
-						"While holding his {@item staff of power}, Ringlerun can expend 1 or more of its charges to cast one of the following spells from it (spell save {@dc 14}, {@hit 8} to hit with spell attacks): cono de frío ({@damage 8d8} cold damage; 5 charges), fireball ({@damage 10d6} fire damage; 5 charges), globe of invulnerability (6 charges), hold monster (5 charges), levitate (2 charges), relámpago ({@damage 10d6} lightning damage; 5 charges), magic missile (1 charge), ray of enfeeblement (1 charge), or wall of force (5 charges)."
+						"While holding his {@item staff of power}, Ringlerun can expend 1 or more of its charges to cast one of the following spells from it (spell save {@dc 14}, {@hit 8} to hit with spell attacks): cono de frío ({@damage 8d8} cold damage; 5 charges), fireball ({@damage 10d6} fire damage; 5 charges), globe of invulnerability (6 charges), inmovilizar monstruo (5 charges), levitate (2 charges), relámpago ({@damage 10d6} lightning damage; 5 charges), magic missile (1 charge), ray of enfeeblement (1 charge), or wall of force (5 charges)."
 					]
 				}
 			],
@@ -4948,7 +4948,7 @@
 				"type": "humanoide",
 				"tags": [
 					"human",
-					"paladin"
+					"paladín"
 				]
 			},
 			"alignment": [
@@ -5005,7 +5005,7 @@
 						"3e": [
 							"{@spell command}",
 							"{@spell detect evil and good}",
-							"{@spell protection from evil and good}"
+							"{@spell protección contra el bien y el mal}"
 						],
 						"1e": [
 							"{@spell lesser restoration}",
@@ -5917,7 +5917,7 @@
 						"1e": [
 							"{@spell command}",
 							"{@spell gaseous form}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell silence}",
 							"{@spell speak with dead}"
 						]

@@ -643,7 +643,7 @@
 									"name": "Storm Worship",
 									"page": 235,
 									"entries": [
-										"Their fellow {@creature cyclops|MM|cyclopes} may assume that the might of a stormcaller is akin to godliness, but many stormcallers hunger for greater power. A cabal of stormcallers regularly gathers in the {@book Daggerbay Mountains|TDCSR|3|Daggerbay Mountains} at an ancient elven temple called the Skyneedle (in Elvish, ira'fallai; in Giant, \"Tall Zappo-Zappo\"). There, they conduct strange rituals to commune with an entity they call the Eye of the Storm\u2014and with every ritual, their power grows.",
+										"Their fellow {@creature cyclops|MM|cyclopes} may assume that the might of a stormcaller is akin to godliness, but many stormcallers hunger for greater power. A cabal of stormcallers regularly gathers in the {@book Daggerbay Mountains|TDCSR|3|Daggerbay Mountains} at an ancient elven temple called the Skyneedle (in Elvish, ira'fallai; in Giant, \"Tall Zappo-Zappo\"). There, they conduct strange rituals to comunión with an entity they call the Eye of the Storm\u2014and with every ritual, their power grows.",
 										"However, the Eye of the Storm is no avatar of the {@deity The Stormlord|Exandria|TDCSR|Stormlord}, but a vengeful {@creature storm giant} named Eyvindr, who's posing as a demigod and intent on raising an army to exact retribution on the {@book Council of Seven Scepters|TDCSR|6|Council of Seven Scepters}. He'll have to risk revealing himself to the stormcallers eventually\u2014but not until he believes that his control over his cyclops devotees is absolute."
 									]
 								}
@@ -1156,7 +1156,7 @@
 					"page": 246,
 					"entries": [
 						"Any spell the {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} casts with a range of self also targets the goat.",
-						"When a {@creature Goat-Knight Steed|TDCSR} drops to 0 hit points, it disappears, leaving behind no physical form. The {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} can also dismiss the steed at any time as an action, causing it to disappear. In either case, the same steed is summoned when the {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} casts {@spell find steed}."
+						"When a {@creature Goat-Knight Steed|TDCSR} drops to 0 hit points, it disappears, leaving behind no physical form. The {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} can also dismiss the steed at any time as an action, causing it to disappear. In either case, the same steed is summoned when the {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} casts {@spell hallar corcel}."
 					]
 				}
 			],

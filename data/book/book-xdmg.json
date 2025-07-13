@@ -4032,7 +4032,7 @@
 									"id": "0ce",
 									"entries": [
 										"As discussed in the {@book Player's Handbook|XPHB}, {@variantrule Inspiración Heroica|XPHB} is a reward you can give to characters when their players make the game more fun, exciting, and memorable for everyone at the table. Any player who makes the whole table erupt in laughter, cheers, or howls of surprise probably deserves Inspiración Heroica.",
-										"You can also use {@variantrule Inspiración Heroica|XPHB} to reward roleplaying, immersion in the game, and heroism. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of {@variantrule Inspiración Heroica|XPHB} is aligned with the expectations you set out at the start of your game (see \"{@book Ensuring Fun for All|XDMG|0|Ensuring Fun for All}\" in {@book chapter 1|XDMG|0})."
+										"You can also use {@variantrule Inspiración Heroica|XPHB} to reward roleplaying, immersion in the game, and heroísmo. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of {@variantrule Inspiración Heroica|XPHB} is aligned with the expectations you set out at the start of your game (see \"{@book Ensuring Fun for All|XDMG|0|Ensuring Fun for All}\" in {@book chapter 1|XDMG|0})."
 									]
 								},
 								{
@@ -6857,7 +6857,7 @@
 							"entries": [
 								"Divine magic\u2014which includes the spells cast by Clerics, Druids, Paladins, and Rangers\u2014is mediated through beings and forces that are categorized as divine. These can include gods but also include the primal forces of nature, the beneficent power of ancestral spirits, the sacred weight of a Paladin's oath, and impersonal principles or entities such as Fate or the order of the universe. These beings and forces grant characters the power to wield the magic of their planar domains.",
 								"For game purposes, wielding divine power isn't dependent on the gods' ongoing approval or the strength of a character's devotion. The power is a gift offered to a select few; once given, it can't be rescinded.",
-								"That said, characters' relationships with the divine forces they access to wield their magic, much like Warlocks' relationships with their patrons, are ripe for exploration. A Cleric might accompany every casting of a spell with a litany of complaints directed at the gods. The {@class Paladin|XPHB|Paladin class description} in the {@book Player's Handbook|XPHB} offers some suggestions for how a player might roleplay a situation where their Paladin has broken their oath. You can also decide how NPCs react to a character whose behavior doesn't square with the ideals implied by the Holy Symbol the character wears."
+								"That said, characters' relationships with the divine forces they access to wield their magic, much like Warlocks' relationships with their patrons, are ripe for exploration. A Cleric might accompany every casting of a spell with a litany of complaints directed at the gods. The {@class Paladín|XPHB|Paladin class description} in the {@book Player's Handbook|XPHB} offers some suggestions for how a player might roleplay a situation where their Paladin has broken their oath. You can also decide how NPCs react to a character whose behavior doesn't square with the ideals implied by the Holy Symbol the character wears."
 							]
 						},
 						{
@@ -6866,7 +6866,7 @@
 							"page": 75,
 							"id": "185",
 							"entries": [
-								"The {@spell Commune|XPHB} spell allows its caster to ask a deity (or an agent of the god) yes-or-no questions and receive correct information, and other spells of the Divination school have similar effects. As the {@i Commune} spell description states, gods aren't necessarily omniscient. But they are tremendously knowledgeable, particularly with regard to their particular areas of influence. A sea god can be reasonably expected to know anything that has happened in or on a sea, for example, and a martial god knows details about wars. Gods can reliably predict the future, at least in the short term (hence their ability to answer spells such as {@spell Augury|XPHB} and {@spell Divination|XPHB}). And some gods might be unwilling to reveal their ignorance, choosing to give an unclear answer rather than admit that they don't know the truth."
+								"The {@spell Comunión|XPHB} spell allows its caster to ask a deity (or an agent of the god) yes-or-no questions and receive correct information, and other spells of the Divination school have similar effects. As the {@i Comunión} spell description states, gods aren't necessarily omniscient. But they are tremendously knowledgeable, particularly with regard to their particular areas of influence. A sea god can be reasonably expected to know anything that has happened in or on a sea, for example, and a martial god knows details about wars. Gods can reliably predict the future, at least in the short term (hence their ability to answer spells such as {@spell Augury|XPHB} and {@spell Divination|XPHB}). And some gods might be unwilling to reveal their ignorance, choosing to give an unclear answer rather than admit that they don't know the truth."
 							]
 						},
 						{
@@ -7085,8 +7085,8 @@
 							"page": 81,
 							"id": "1a2",
 							"entries": [
-								"Although they are often fashioned from gold and other precious materials, medals have an even greater symbolic value to those who award and receive them. Medals are typically awarded by political figures for acts of heroism, and wearing a medal is usually enough to earn the respect of those who understand its significance.",
-								"Different acts of heroism can warrant different kinds of medals. The king of Breland (in the Eberron setting) might award a Royal Badge of Valor (shaped like a shield and made of ruby and electrum) to adventurers for defending Brelish citizens. The Golden Bear of Breland (a medal made of gold and shaped in a likeness of a bear's head, with gems for eyes) might be reserved for adventurers who prove their allegiance to the Brelish Crown.",
+								"Although they are often fashioned from gold and other precious materials, medals have an even greater symbolic value to those who award and receive them. Medals are typically awarded by political figures for acts of heroísmo, and wearing a medal is usually enough to earn the respect of those who understand its significance.",
+								"Different acts of heroísmo can warrant different kinds of medals. The king of Breland (in the Eberron setting) might award a Royal Badge of Valor (shaped like a shield and made of ruby and electrum) to adventurers for defending Brelish citizens. The Golden Bear of Breland (a medal made of gold and shaped in a likeness of a bear's head, with gems for eyes) might be reserved for adventurers who prove their allegiance to the Brelish Crown.",
 								"A medal doesn't offer a specific in-game benefit to one who wears it, but it can affect dealings with NPCs. For example, a character who displays the Golden Bear of Breland is regarded as a hero of the people within the kingdom of Breland. Outside Breland, the medal carries far less weight, except among allies of Breland's king."
 							]
 						},
@@ -8247,7 +8247,7 @@
 												],
 												[
 													"4",
-													"The NPC is under a magical compulsion (perhaps a {@spell Geas|XPHB} spell or some kind of curse) to behave in a certain way."
+													"The NPC is under a magical compulsión (perhaps a {@spell Geas|XPHB} spell or some kind of curse) to behave in a certain way."
 												],
 												[
 													"5",
@@ -8389,7 +8389,7 @@
 											"id": "1ba",
 											"entries": [
 												"Keep track of an NPC's Loyalty Score in secret so that the players won't know for sure whether an NPC party member is loyal or disloyal.",
-												"An NPC's Loyalty Score increases by {@dice 1d4} if other party members help the NPC achieve a personal goal. Likewise, an NPC's Loyalty Score increases by {@dice 1d4} if the NPC is treated particularly well (for example, given a magic weapon as a gift) or rescued by another party member. An NPC's Loyalty Score can never be raised above its maximum.",
+												"An NPC's Loyalty Score increases by {@dice 1d4} if other party members help the NPC achieve a personal goal. Likewise, an NPC's Loyalty Score increases by {@dice 1d4} if the NPC is treated particularly well (for example, given a arma mágica as a gift) or rescued by another party member. An NPC's Loyalty Score can never be raised above its maximum.",
 												"When other party members act in a manner that runs counter to the NPC's alignment or personality, reduce the NPC's Loyalty Score by {@dice 1d4}. Reduce the NPC's Loyalty Score by {@dice 2d4} if the NPC is abused, misled, or endangered by other party members for purely selfish reasons. A Loyalty Score can never drop below 0."
 											]
 										},
@@ -12468,7 +12468,7 @@
 									"page": 134,
 									"id": "2b2",
 									"entries": [
-										"Political intrigue, espionage, sabotage, and similar cloak-and-dagger activities can provide the basis for an exciting campaign. In this kind of game, the characters might care more about skill proficiencies and making friends in high places than about attack spells and magic weapons. Social interaction takes on greater importance than combat. Make sure your players know ahead of time that you want to run this kind of campaign. Otherwise, a player might create a combat-focused character, only to feel out of place among diplomats and spies.",
+										"Political intrigue, espionage, sabotage, and similar cloak-and-dagger activities can provide the basis for an exciting campaign. In this kind of game, the characters might care more about skill proficiencies and making friends in high places than about attack spells and arma mágicas. Social interaction takes on greater importance than combat. Make sure your players know ahead of time that you want to run this kind of campaign. Otherwise, a player might create a combat-focused character, only to feel out of place among diplomats and spies.",
 										{
 											"type": "entries",
 											"name": "Intrigue Conflicts",
@@ -19528,7 +19528,7 @@
 														{
 															"type": "item",
 															"name": "Magical Footnotes",
-															"entry": "Spells such as {@spell Contact Other Plane|XPHB}, {@spell Legend Lore|XPHB}, and {@spell Speak with Dead|XPHB} allow characters to learn information while leaving you control of the particulars."
+															"entry": "Spells such as {@spell Contact Other Plane|XPHB}, {@spell Conocer las leyendas|XPHB}, and {@spell Speak with Dead|XPHB} allow characters to learn information while leaving you control of the particulars."
 														},
 														{
 															"type": "item",
@@ -20824,7 +20824,7 @@
 										],
 										[
 											"4",
-											"A god has stopped answering prayers and won't respond to any {@spell Commune|XPHB} spell."
+											"A god has stopped answering prayers and won't respond to any {@spell Comunión|XPHB} spell."
 										],
 										[
 											"5",
@@ -22561,7 +22561,7 @@
 									"rows": [
 										[
 											"Lunia",
-											"In the Silver Heaven, the holy water of the Silver Sea laps at the base of the celestial mountain under a starry sky."
+											"In the Silver Heaven, the Agua bendita of the Silver Sea laps at the base of the celestial mountain under a starry sky."
 										],
 										[
 											"Mercuria",
@@ -24394,14 +24394,14 @@
 									"page": 217,
 									"id": "422",
 									"entries": [
-										"A magic weapon is typically a magical version of a weapon from the {@book Player's Handbook|XPHB}. Some magic weapons specify the type of weapon they are in their descriptions, such as a {@item Espada larga|XPHB} or {@item Arco largo|XPHB}. If no weapon type is specified, you may choose the type or determine it randomly.",
+										"A arma mágica is typically a magical version of a weapon from the {@book Player's Handbook|XPHB}. Some arma mágicas specify the type of weapon they are in their descriptions, such as a {@item Espada larga|XPHB} or {@item Arco largo|XPHB}. If no weapon type is specified, you may choose the type or determine it randomly.",
 										{
 											"type": "entries",
 											"name": "Ammunition",
 											"page": 217,
 											"id": "423",
 											"entries": [
-												"If a magic weapon has the {@itemProperty AF|XDMG|Ammunition} property, ammunition fired from it is considered magical for the purpose of any rule that cares whether a weapon is magical or not."
+												"If a arma mágica has the {@itemProperty AF|XDMG|Ammunition} property, ammunition fired from it is considered magical for the purpose of any rule that cares whether a weapon is magical or not."
 											]
 										}
 									]
@@ -25402,7 +25402,7 @@
 												],
 												[
 													"77\u201380",
-													"While you're attuned to the Artifact, all {@item Holy Water|XPHB} within 10 feet of you is destroyed."
+													"While you're attuned to the Artifact, all {@item Agua bendita|XPHB} within 10 feet of you is destroyed."
 												],
 												[
 													"81\u201384",
@@ -29287,7 +29287,7 @@
 								[
 									"5",
 									"{@facility Sanctuary|XDMG}",
-									"Ability to use a {@item Holy Symbol|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
+									"Ability to use a {@item símbolo sagrado|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
 									"Craft"
 								],
 								[
@@ -29329,7 +29329,7 @@
 								[
 									"9",
 									"{@facility Sacristy|XDMG}",
-									"Ability to use a {@item Holy Symbol|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
+									"Ability to use a {@item símbolo sagrado|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
 									"Craft"
 								],
 								[
@@ -29401,7 +29401,7 @@
 								[
 									"13",
 									"{@facility Reliquary|XDMG}",
-									"Ability to use a {@item Holy Symbol|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
+									"Ability to use a {@item símbolo sagrado|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
 									"Harvest"
 								],
 								[
@@ -29419,7 +29419,7 @@
 								[
 									"17",
 									"{@facility Sanctum|XDMG}",
-									"Ability to use a {@item Holy Symbol|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
+									"Ability to use a {@item símbolo sagrado|XPHB} or {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB}",
 									"Empower"
 								],
 								[

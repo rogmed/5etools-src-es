@@ -108,7 +108,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell darkvision}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell lesser restoration}",
 								"{@spell rayo de luna}"
 							]
@@ -125,7 +125,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell charm monster|XGE}",
-								"{@spell freedom of movement}"
+								"{@spell libertad de movimiento}"
 							]
 						},
 						"5": {
@@ -412,9 +412,9 @@
 							"slots": 3,
 							"spells": [
 								"{@spell darkvision}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell Imagen múltiple}*",
-								"{@spell misty step}*",
+								"{@spell paso brumoso}*",
 								"{@spell pass without trace}",
 								"{@spell protection from poison}"
 							]
@@ -435,7 +435,7 @@
 								"{@spell charm monster|XGE}",
 								"{@spell control water}*",
 								"{@spell dominate beast}",
-								"{@spell freedom of movement}*",
+								"{@spell libertad de movimiento}*",
 								"{@spell watery sphere|XGE}"
 							]
 						},
@@ -707,8 +707,8 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
-								"{@spell misty step}"
+								"{@spell inmovilizar persona}",
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {

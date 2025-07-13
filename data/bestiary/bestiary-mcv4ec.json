@@ -2945,7 +2945,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell commune with nature} (as an action)"
+							"{@spell comunión con la naturaleza} (as an action)"
 						],
 						"2e": [
 							"{@spell enlarge/reduce}",
@@ -3107,8 +3107,8 @@
 					"daily": {
 						"1e": [
 							"{@spell detect thoughts}",
-							"{@spell dimension door}",
-							"{@spell hold monster}"
+							"{@spell puerta dimensional}",
+							"{@spell inmovilizar monstruo}"
 						]
 					},
 					"ability": "cha",

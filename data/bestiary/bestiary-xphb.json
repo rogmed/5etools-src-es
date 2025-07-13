@@ -2043,11 +2043,11 @@
 			]
 		},
 		{
-			"name": "Otherworldly Steed",
-			"originalname": "",
+			"name": "Corcel sobrenatural",
+			"originalname": "Otherworldly Steed",
 			"source": "XPHB",
-			"page": 273,
-			"summonedBySpell": "Find Steed|XPHB",
+			"page": 290,
+			"summonedBySpell": "Hallar corcel|XPHB",
 			"summonedBySpellLevel": 2,
 			"size": [
 				"L"
@@ -2142,7 +2142,7 @@
 			"hasFluffImages": true,
 			"_versions": [
 				{
-					"name": "Otherworldly Steed (Celestial)",
+					"name": "Corcel sobrenatural (Celestial)",
 					"source": "XPHB",
 					"_mod": {
 						"bonus": [
@@ -2178,7 +2178,7 @@
 					"savingThrowForced": null
 				},
 				{
-					"name": "Otherworldly Steed (Fey)",
+					"name": "Corcel sobrenatural (Fey)",
 					"source": "XPHB",
 					"_mod": {
 						"bonus": [
@@ -2214,7 +2214,7 @@
 					"savingThrowForced": null
 				},
 				{
-					"name": "Otherworldly Steed (Fiend)",
+					"name": "Corcel sobrenatural (Fiend)",
 					"source": "XPHB",
 					"_mod": {
 						"bonus": [

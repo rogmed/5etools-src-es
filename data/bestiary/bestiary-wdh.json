@@ -245,7 +245,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell invisibility}",
 								"{@spell suggestion}"
 							]
@@ -262,13 +262,13 @@
 							"slots": 3,
 							"spells": [
 								"{@spell confusion}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell hold monster}"
+								"{@spell inmovilizar monstruo}"
 							]
 						}
 					},
@@ -976,8 +976,8 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell compulsion}",
-								"{@spell freedom of movement}",
+								"{@spell compulsión}",
+								"{@spell libertad de movimiento}",
 								"{@spell polymorph}"
 							]
 						},
@@ -2389,7 +2389,7 @@
 						"3": {
 							"slots": 2,
 							"spells": [
-								"{@spell protection from energy}",
+								"{@spell protección contra energía}",
 								"{@spell remove curse}",
 								"{@spell sending}"
 							]
@@ -2722,8 +2722,8 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell divine favor}",
-								"{@spell guiding bolt}",
+								"{@spell favor divino}",
+								"{@spell saeta guía}",
 								"{@spell healing word}",
 								"{@spell shield of faith}"
 							]
@@ -2732,8 +2732,8 @@
 							"slots": 3,
 							"spells": [
 								"{@spell lesser restoration}",
-								"{@spell magic weapon}",
-								"{@spell hold person}",
+								"{@spell arma mágica}",
+								"{@spell inmovilizar persona}",
 								"{@spell silence}",
 								"{@spell spiritual weapon}"
 							]
@@ -2741,7 +2741,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell beacon of hope}",
+								"{@spell señal de esperanza}",
 								"{@spell crusader's mantle}",
 								"{@spell dispel magic}",
 								"{@spell revivify}",
@@ -2753,9 +2753,9 @@
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}",
-								"{@spell freedom of movement}",
-								"{@spell guardian of faith}",
-								"{@spell stoneskin}"
+								"{@spell libertad de movimiento}",
+								"{@spell guardián de la fe}",
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -2763,7 +2763,7 @@
 							"spells": [
 								"{@spell flame strike}",
 								"{@spell mass cure wounds}",
-								"{@spell hold monster}"
+								"{@spell inmovilizar monstruo}"
 							]
 						}
 					},
@@ -3055,7 +3055,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon}"
 							]
 						}
@@ -3443,7 +3443,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -3599,7 +3599,7 @@
 							"spells": [
 								"{@spell charm person}",
 								"{@spell healing word}",
-								"{@spell heroism}",
+								"{@spell heroísmo}",
 								"{@spell sleep}",
 								"{@spell ola atronadora}"
 							]
@@ -3933,7 +3933,7 @@
 							"spells": [
 								"{@spell detect thoughts}",
 								"{@spell invisibility}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -4209,7 +4209,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon}"
 							]
 						}
@@ -4364,7 +4364,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -4631,7 +4631,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -4813,7 +4813,7 @@
 							"spells": [
 								"{@spell detect thoughts}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -5029,7 +5029,7 @@
 							"spells": [
 								"{@spell detect thoughts}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -6525,7 +6525,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -6569,7 +6569,7 @@
 				{
 					"name": "Arcane Ward",
 					"entries": [
-						"Remallia has a magical ward that has 30 hit points. Whenever she takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, Remallia takes any remaining damage. When Remallia casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. This applies to any of the following spells she casts: {@spell alarm}, {@spell mage armor}, {@spell shield}, {@spell arcane lock}, {@spell counterspell}, {@spell dispel magic}, {@spell banishment}, {@spell stoneskin}, {@spell globe of invulnerability} and {@spell symbol}."
+						"Remallia has a magical ward that has 30 hit points. Whenever she takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, Remallia takes any remaining damage. When Remallia casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. This applies to any of the following spells she casts: {@spell alarm}, {@spell mage armor}, {@spell shield}, {@spell arcane lock}, {@spell counterspell}, {@spell dispel magic}, {@spell banishment}, {@spell piel pétrea}, {@spell globe of invulnerability} and {@spell symbol}."
 					]
 				}
 			],
@@ -6826,7 +6826,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -7288,7 +7288,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -8316,7 +8316,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon}"
 							]
 						}
@@ -8613,7 +8613,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell invisibility}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell web}"
 							]
 						},
@@ -8630,7 +8630,7 @@
 							"spells": [
 								"{@spell banishment}",
 								"{@spell fire shield}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -8688,7 +8688,7 @@
 				{
 					"name": "Staff Spells",
 					"entries": [
-						"While holding the {@item Blackstaff|WDH}, Vajra can use an action to expend 1 or more of its charges to cast one of the following spells from it, using her spell save DC and spell attack bonus: {@spell cono de frío} (5 charges), {@spell fireball} (5th-level version, 5 charges), {@spell globe of invulnerability} (6 charges), {@spell hold monster} (5 charges), {@spell levitate} (2 charges), {@spell relámpago} (5th-level version, 5 charges), {@spell magic missile} (1 charge), {@spell ray of enfeeblement} (1 charge), or {@spell wall of force} (5 charges)."
+						"While holding the {@item Blackstaff|WDH}, Vajra can use an action to expend 1 or more of its charges to cast one of the following spells from it, using her spell save DC and spell attack bonus: {@spell cono de frío} (5 charges), {@spell fireball} (5th-level version, 5 charges), {@spell globe of invulnerability} (6 charges), {@spell inmovilizar monstruo} (5 charges), {@spell levitate} (2 charges), {@spell relámpago} (5th-level version, 5 charges), {@spell magic missile} (1 charge), {@spell ray of enfeeblement} (1 charge), or {@spell wall of force} (5 charges)."
 					]
 				}
 			],
@@ -8813,7 +8813,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell cure wounds}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell sanctuary}"
 							]
 						},
@@ -8983,7 +8983,7 @@
 								"{@spell command}",
 								"{@spell detect magic}",
 								"{@spell disguise self}",
-								"{@spell protection from evil and good}",
+								"{@spell protección contra el bien y el mal}",
 								"{@spell sanctuary}"
 							]
 						},
@@ -9004,16 +9004,16 @@
 								"{@spell clairvoyance}",
 								"{@spell dispel magic}",
 								"{@spell magic circle}",
-								"{@spell protection from energy}"
+								"{@spell protección contra energía}"
 							]
 						},
 						"4": {
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}",
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell divination}",
-								"{@spell freedom of movement}",
+								"{@spell libertad de movimiento}",
 								"{@spell polymorph}"
 							]
 						},
@@ -9896,15 +9896,15 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell protection from evil and good}",
-								"{@spell thunderous smite}"
+								"{@spell protección contra el bien y el mal}",
+								"{@spell castigo atronador}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
 								"{@spell branding smite}",
-								"{@spell find steed}"
+								"{@spell hallar corcel}"
 							]
 						},
 						"3": {

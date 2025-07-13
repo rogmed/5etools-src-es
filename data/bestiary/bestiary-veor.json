@@ -6076,7 +6076,7 @@
 					]
 				},
 				{
-					"name": "Lamp",
+					"name": "Lámpara",
 					"entries": [
 						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d4 + 4}) bludgeoning damage plus 13 ({@damage 3d8}) fire damage."
 					]

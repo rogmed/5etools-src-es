@@ -35,7 +35,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -291,7 +291,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -303,7 +303,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -319,7 +319,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -355,12 +355,12 @@
 		"Banishing Smite": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
 		},
-		"Banishment": {
+		"Destierro": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -379,7 +379,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -396,7 +396,7 @@
 				}
 			]
 		},
-		"Beacon of Hope": {
+		"Señal de esperanza": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -503,7 +503,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -531,7 +531,7 @@
 		"Blinding Smite": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -735,7 +735,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -827,12 +827,12 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
 		},
-		"Commune": {
+		"Comunión": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -840,7 +840,7 @@
 				}
 			]
 		},
-		"Commune with Nature": {
+		"Comunión con la naturaleza": {
 			"class": [
 				{
 					"name": "Druida",
@@ -852,10 +852,10 @@
 				}
 			]
 		},
-		"Compelled Duel": {
+		"Duelo forzado": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -880,7 +880,7 @@
 				}
 			]
 		},
-		"Compulsion": {
+		"Compulsión": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -1119,7 +1119,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -1195,7 +1195,7 @@
 		"Manto del cruzado": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -1219,7 +1219,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -1307,7 +1307,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -1319,7 +1319,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -1355,7 +1355,7 @@
 		"Destructive Wave": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -1367,7 +1367,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -1403,7 +1403,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -1427,7 +1427,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -1507,7 +1507,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -1543,7 +1543,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -1576,18 +1576,18 @@
 				}
 			]
 		},
-		"Divine Favor": {
+		"Favor divino": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
 		},
-		"Divine Smite": {
+		"Castigo divino": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -1731,7 +1731,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -2028,10 +2028,10 @@
 				}
 			]
 		},
-		"Find Steed": {
+		"Hallar corcel": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -2391,7 +2391,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -2407,7 +2407,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -2539,7 +2539,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -2548,7 +2548,7 @@
 				}
 			]
 		},
-		"Guardian of Faith": {
+		"Guardián de la fe": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -2620,7 +2620,7 @@
 				}
 			]
 		},
-		"Hallow": {
+		"Consagrar": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -2656,7 +2656,7 @@
 				}
 			]
 		},
-		"Haste": {
+		"Acelerar": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -2747,7 +2747,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -3044,7 +3044,7 @@
 				}
 			]
 		},
-		"Legend Lore": {
+		"Conocer las leyendas": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -3103,7 +3103,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -3211,7 +3211,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -3239,7 +3239,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -3319,7 +3319,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -3375,7 +3375,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -3940,7 +3940,7 @@
 				}
 			]
 		},
-		"Plant Growth": {
+		"Crecimiento vegetal": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -4071,7 +4071,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -4160,7 +4160,7 @@
 				}
 			]
 		},
-		"Protection from Energy": {
+		"Protección contra energía": {
 			"class": [
 				{
 					"name": "Clérigo",
@@ -4207,7 +4207,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -4227,7 +4227,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -4247,7 +4247,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -4267,7 +4267,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -4363,7 +4363,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -4427,7 +4427,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				},
 				{
@@ -4504,10 +4504,10 @@
 				}
 			]
 		},
-		"Searing Smite": {
+		"Castigo abrasador": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -4619,7 +4619,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -4635,7 +4635,7 @@
 		"Shining Smite": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -4871,7 +4871,7 @@
 		"Staggering Smite": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -4936,7 +4936,7 @@
 				}
 			]
 		},
-		"Stoneskin": {
+		"Piel pétrea": {
 			"class": [
 				{
 					"name": "Druida",
@@ -5019,7 +5019,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -5332,10 +5332,10 @@
 				}
 			]
 		},
-		"Thunderous Smite": {
+		"Castigo atronador": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -5631,7 +5631,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
@@ -5776,15 +5776,15 @@
 				}
 			]
 		},
-		"Wrathful Smite": {
+		"castigo furioso": {
 			"class": [
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]
 		},
-		"Yolande's Regal Presence": {
+		"Presencia regia de Yolande": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -5807,7 +5807,7 @@
 					"source": "XPHB"
 				},
 				{
-					"name": "Paladin",
+					"name": "Paladín",
 					"source": "XPHB"
 				}
 			]

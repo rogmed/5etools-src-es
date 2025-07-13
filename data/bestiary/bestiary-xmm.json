@@ -6790,7 +6790,7 @@
 			"cr": "12",
 			"gear": [
 				"chain mail|xphb",
-				"holy symbol|xphb"
+				"símbolo sagrado|xphb"
 			],
 			"spellcasting": [
 				{
@@ -13059,7 +13059,7 @@
 				{
 					"name": "Drone",
 					"entries": [
-						"{@actSave con} {@dc 12}, each creature in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the chasme (demons automatically succeed on this save). {@actSaveFail} The target has the {@condition Unconscious|XPHB} condition and repeats the save at the end of each of its turns. The target succeeds automatically after 10 minutes or if it takes damage or a creature within 5 feet of it takes an action to empty a flask of Holy Water on it. {@actSaveSuccess} The target is immune to this chasme's Drone for 24 hours."
+						"{@actSave con} {@dc 12}, each creature in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the chasme (demons automatically succeed on this save). {@actSaveFail} The target has the {@condition Unconscious|XPHB} condition and repeats the save at the end of each of its turns. The target succeeds automatically after 10 minutes or if it takes damage or a creature within 5 feet of it takes an action to empty a flask of Agua bendita on it. {@actSaveSuccess} The target is immune to this chasme's Drone for 24 hours."
 					]
 				}
 			],
@@ -14986,7 +14986,7 @@
 			],
 			"cr": "2",
 			"gear": [
-				"holy symbol|xphb",
+				"símbolo sagrado|xphb",
 				"leather armor|xphb"
 			],
 			"spellcasting": [
@@ -15119,7 +15119,7 @@
 			"cr": "10",
 			"gear": [
 				"breastplate|xphb",
-				"holy symbol|xphb"
+				"símbolo sagrado|xphb"
 			],
 			"spellcasting": [
 				{
@@ -15259,7 +15259,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell Legend Lore|XPHB}"
+							"{@spell Conocer las leyendas|XPHB}"
 						],
 						"2e": [
 							"{@spell Ojo arcano|XPHB}",
@@ -17038,7 +17038,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Commune|XPHB}",
+							"{@spell Comunión|XPHB}",
 							"{@spell Raise Dead|XPHB}"
 						]
 					},
@@ -19829,7 +19829,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Commune|XPHB}",
+							"{@spell Comunión|XPHB}",
 							"{@spell Dispel Evil and Good|XPHB}",
 							"{@spell Plane Shift|XPHB}"
 						]
@@ -21253,7 +21253,7 @@
 				{
 					"name": "Undead Restoration",
 					"entries": [
-						"If the flameskull is destroyed, it regains all its {@variantrule Hit Points|XPHB} in 1 hour unless Holy Water is sprinkled on its remains or the {@spell Dispel Evil and Good|XPHB} spell is cast on them."
+						"If the flameskull is destroyed, it regains all its {@variantrule Hit Points|XPHB} in 1 hour unless Agua bendita is sprinkled on its remains or the {@spell Dispel Evil and Good|XPHB} spell is cast on them."
 					]
 				}
 			],
@@ -34901,7 +34901,7 @@
 				{
 					"name": "Hellish Restoration",
 					"entries": [
-						"If the lemure dies in the Nine Hells, it revives with all its {@variantrule Hit Points|XPHB} in {@dice 1d10} days unless it is killed by a creature under the effects of a {@spell Bless|XPHB} spell or its remains are sprinkled with Holy Water."
+						"If the lemure dies in the Nine Hells, it revives with all its {@variantrule Hit Points|XPHB} in {@dice 1d10} days unless it is killed by a creature under the effects of a {@spell Bless|XPHB} spell or its remains are sprinkled with Agua bendita."
 					]
 				}
 			],
@@ -43398,7 +43398,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Commune|XPHB}",
+							"{@spell Comunión|XPHB}",
 							"{@spell Control Weather|XPHB}",
 							"{@spell Dispel Evil and Good|XPHB}",
 							"{@spell Raise Dead|XPHB}"
@@ -43932,7 +43932,7 @@
 			"cr": "2",
 			"gear": [
 				"chain shirt|xphb",
-				"holy symbol|xphb",
+				"símbolo sagrado|xphb",
 				"mace|xphb"
 			],
 			"spellcasting": [
@@ -44082,7 +44082,7 @@
 			"cr": "1/4",
 			"gear": [
 				"chain shirt|xphb",
-				"holy symbol|xphb",
+				"símbolo sagrado|xphb",
 				"mace|xphb"
 			],
 			"spellcasting": [
@@ -49478,7 +49478,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Commune|XPHB}",
+							"{@spell Comunión|XPHB}",
 							"{@spell Control Weather|XPHB}",
 							"{@spell Dispel Evil and Good|XPHB}",
 							"{@spell Resurrection|XPHB}"
@@ -49986,7 +49986,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Disipar magia|XPHB}",
-							"{@spell Legend Lore|XPHB}",
+							"{@spell Conocer las leyendas|XPHB}",
 							"{@spell Localizar objeto|XPHB}",
 							"{@spell Plane Shift|XPHB}",
 							"{@spell Remove Curse|XPHB}",
@@ -52654,7 +52654,7 @@
 				{
 					"name": "Hellish Restoration",
 					"entries": [
-						"If the swarm dies in the Nine Hells, it revives with all its {@variantrule Hit Points|XPHB} in {@dice 1d10} days unless it is killed by a creature under the effects of a {@spell Bless|XPHB} spell or its remains are sprinkled with Holy Water."
+						"If the swarm dies in the Nine Hells, it revives with all its {@variantrule Hit Points|XPHB} in {@dice 1d10} days unless it is killed by a creature under the effects of a {@spell Bless|XPHB} spell or its remains are sprinkled with Agua bendita."
 					]
 				},
 				{
@@ -56581,7 +56581,7 @@
 				{
 					"name": "Spores {@recharge}",
 					"entries": [
-						"{@actSave con} {@dc 15}, each creature in a 20-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the vrock. {@actSaveFail} The target has the {@condition Envenenado|XPHB} condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. While {@condition Envenenado|XPHB}, the target takes 5 ({@damage 1d10}) Poison damage at the start of each of its turns. Emptying a flask of Holy Water on the target ends the effect early."
+						"{@actSave con} {@dc 15}, each creature in a 20-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the vrock. {@actSaveFail} The target has the {@condition Envenenado|XPHB} condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. While {@condition Envenenado|XPHB}, the target takes 5 ({@damage 1d10}) Poison damage at the start of each of its turns. Emptying a flask of Agua bendita on the target ends the effect early."
 					]
 				},
 				{

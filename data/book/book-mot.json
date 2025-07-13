@@ -518,7 +518,7 @@
 							"height": 882,
 							"credit": "Cory Trego-Erdner"
 						},
-						"At 3rd level, a bard chooses a Bard College and a paladin chooses a Sacred Oath. This section offers the {@class bard|phb|College of Eloquence|Eloquence|TCE} for bards and the {@class paladin|phb|Oath of Glory|Glory|TCE} for paladins, expanding their options for that choice.",
+						"At 3rd level, a bard chooses a Bard College and a paladin chooses a Sacred Oath. This section offers the {@class bard|phb|College of Eloquence|Eloquence|TCE} for bards and the {@class paladín|phb|Juramento de gloria|Gloria|TCE} for paladins, expanding their options for that choice.",
 						{
 							"type": "image",
 							"href": {
@@ -1907,7 +1907,7 @@
 									"page": 96,
 									"id": "1e0",
 									"entries": [
-										"True children of Oreskos, the Sun Guides have lived in the grasslands for countless generations. They know the way of Oreskos's beasts and seasons better than any. Both mystical and knowledgeable, the Sun Guides read the messages in plant growth and animal migrations, and make their place in the natural cycle.",
+										"True children of Oreskos, the Sun Guides have lived in the grasslands for countless generations. They know the way of Oreskos's beasts and seasons better than any. Both mystical and knowledgeable, the Sun Guides read the messages in crecimiento vegetal and animal migrations, and make their place in the natural cycle.",
 										"Sun Guide prides might be found throughout Oreskos, but most orbit the lake known as Sun's Mirror. While these prides sometimes seek their dens during the harshest winters, many will spend years on the open plains. Many druids, monks, rangers, and hechiceros hail from Sun Guide prides."
 									]
 								},
@@ -1956,7 +1956,7 @@
 									"page": 97,
 									"id": "1e4",
 									"entries": [
-										"Atop Mount Kure rises a massive temple, open-roofed and accented in gold. This temple of Heliod, his closest to Oreskos, is rarely visited, but on the god's highest holy days, worshipers journey there to commune with the sun god. These pilgrimages occasionally bring the god's servants into conflict with wary leonin hunting nearby."
+										"Atop Mount Kure rises a massive temple, open-roofed and accented in gold. This temple of Heliod, his closest to Oreskos, is rarely visited, but on the god's highest holy days, worshipers journey there to comunión with the sun god. These pilgrimages occasionally bring the god's servants into conflict with wary leonin hunting nearby."
 									]
 								},
 								{
@@ -2831,7 +2831,7 @@
 							],
 							"by": "The Callapheia"
 						},
-						"The gods are fond of meddling in mortal affairs, and heroes sometimes call on their gods for aid in times of desperate need. Spells such as {@spell divination} and {@spell commune} give characters the opportunity to ask their gods for information, and clerics who beseech their gods for assistance sometimes receive miracles in answer. Heroes also have the opportunity to ask the gods for favors, after proving their worth by enduring a divine ordeal.",
+						"The gods are fond of meddling in mortal affairs, and heroes sometimes call on their gods for aid in times of desperate need. Spells such as {@spell divination} and {@spell comunión} give characters the opportunity to ask their gods for information, and clerics who beseech their gods for assistance sometimes receive miracles in answer. Heroes also have the opportunity to ask the gods for favors, after proving their worth by enduring a divine ordeal.",
 						{
 							"type": "image",
 							"href": {
@@ -3675,7 +3675,7 @@
 									"page": 111,
 									"id": "23c",
 									"entries": [
-										"Clerics and oracles have spells at their disposal that allow them to ask the gods for insight. The {@spell divination} and {@spell commune} spells contact a god and promise a truthful reply to the caster's questions. The reply takes the form of a simple \"yes\" or \"no,\" a cryptic rhyme, or an omen. It might be transmitted through a disembodied voice, a vision only the caster can see, or any other mystical manner. A verbal reply to a {@spell divination} or {@spell commune} spell must be truthful, but it might still be misleading. A god can't speak a deliberate lie in response to either spell, but they can be evasive while remaining within the boundaries of the truth. If a character casts one of these spells more than once in the same day, however, there is an increasing chance of receiving an unclear answer or none at all (as described in the spells' entries in the {@book Player's Handbook|PHB}). This might happen because another god, alerted to the connection between the caster and their god by the first casting of the spell, intercepts the second one and chooses to mislead the character. Or it could simply mean that the god is tired of the character's pestering and chooses not to answer."
+										"Clerics and oracles have spells at their disposal that allow them to ask the gods for insight. The {@spell divination} and {@spell comunión} spells contact a god and promise a truthful reply to the caster's questions. The reply takes the form of a simple \"yes\" or \"no,\" a cryptic rhyme, or an omen. It might be transmitted through a disembodied voice, a vision only the caster can see, or any other mystical manner. A verbal reply to a {@spell divination} or {@spell comunión} spell must be truthful, but it might still be misleading. A god can't speak a deliberate lie in response to either spell, but they can be evasive while remaining within the boundaries of the truth. If a character casts one of these spells more than once in the same day, however, there is an increasing chance of receiving an unclear answer or none at all (as described in the spells' entries in the {@book Player's Handbook|PHB}). This might happen because another god, alerted to the connection between the caster and their god by the first casting of the spell, intercepts the second one and chooses to mislead the character. Or it could simply mean that the god is tired of the character's pestering and chooses not to answer."
 									]
 								},
 								{
@@ -3810,7 +3810,7 @@
 										{
 											"type": "list",
 											"items": [
-												"They are Nyxborn and have one or two of the Nyxborn traits described in {@book chapter 6|MOT|6|Nyxborn Creatures}, commonly magic resistance and magic weapons.",
+												"They are Nyxborn and have one or two of the Nyxborn traits described in {@book chapter 6|MOT|6|Nyxborn Creatures}, commonly magic resistance and arma mágicas.",
 												"They're of remarkable size, being at least one size category larger than normal."
 											]
 										}
@@ -5720,7 +5720,7 @@
 									"page": 132,
 									"id": "27b",
 									"entries": [
-										"A campaign focused on champions of Iroas is filled with battle, stunning acts of heroism, and valorous stands against great odds. Iroas is a god of action, and his champions are the tip of his spear, expected to hurl themselves at danger when it presents itself. Iroas holds a bitter grudge against his brother Mogis, and Iroas's champions often counter the agents of the god of carnage.",
+										"A campaign focused on champions of Iroas is filled with battle, stunning acts of heroísmo, and valorous stands against great odds. Iroas is a god of action, and his champions are the tip of his spear, expected to hurl themselves at danger when it presents itself. Iroas holds a bitter grudge against his brother Mogis, and Iroas's champions often counter the agents of the god of carnage.",
 										"As the campaign begins, the characters could find themselves on a field of battle, either as mercenaries or sworn soldiers for a polis. Their courage at arms and the honor they demonstrate in battle impress Iroas, and he proudly bestows his blessing on them. Every subsequent engagement only enhances the characters' reputation as skilled, steadfast warriors without peer. Their actions inevitably lead to a challenge from a champion of Mogis who is intent on destroying the characters and anyone they hold dear.",
 										"Iroas exalts winners, but even a narrow defeat is still a defeat. An opponent who has no qualms about cheating and using subterfuge holds an advantage over champions of Iroas. If the characters sink to using dishonorable tactics, they can expect swift retribution and loss of favor in return for their weakness.",
 										{
@@ -7954,7 +7954,7 @@
 									"page": 152,
 									"id": "2b5",
 									"entries": [
-										"A campaign structured around Mogis as the party's patron can be challenging, and all players must agree to play characters in service to the god of slaughter. You should work to create a narrative that eventually allows the characters to perform acts of heroism. Perhaps this means the group swears a vow to Mogis to pursue some collective revenge, or maybe the group understands that just as Mogis watches them, so does Iroas, and they'll be courted by both gods during the campaign.",
+										"A campaign structured around Mogis as the party's patron can be challenging, and all players must agree to play characters in service to the god of slaughter. You should work to create a narrative that eventually allows the characters to perform acts of heroísmo. Perhaps this means the group swears a vow to Mogis to pursue some collective revenge, or maybe the group understands that just as Mogis watches them, so does Iroas, and they'll be courted by both gods during the campaign.",
 										"In one possibility, perhaps the characters start out as the sole survivors of a mercenary company left to die. Embittered and resentful, the party swears vengeance on their former employer, thereby catching Mogis's attention. He offers the characters power to help them pursue their quest for revenge in exchange for their fealty.",
 										"As the characters become immersed in their plans for vengeance, Mogis, acting through his agents, pushes them farther down a dark path until, at last, they realize what they have become. The characters, now deeply indebted to the god of slaughter, realize that he will not release them willingly from his service. At this point, the characters might seek freedom from Mogis's service. Iroas or another god could take this opportunity to offer the party aid against their former patron. Mogis might then assume the role of campaign villain as the characters do what they must to atone."
 									]
@@ -8401,7 +8401,7 @@
 									"page": 156,
 									"id": "2c0",
 									"entries": [
-										"A campaign in which the player characters are champions of Nylea will feature great feats of heroism in defense of nature. Nylea might instruct the characters to defend a corner of the Nessian Wood, pitting them against poachers, sport hunters, unnatural abominations, and ordinary people who want to develop the wood for mortals' use. Nylea doesn't care if the characters are opposed by simple peasants, or by monsters beyond the characters' ability to cope with. They might need to get creative, calling upon Nylea's own servants\u2014such as hydras\u2014to beat back the more powerful threats.",
+										"A campaign in which the player characters are champions of Nylea will feature great feats of heroísmo in defense of nature. Nylea might instruct the characters to defend a corner of the Nessian Wood, pitting them against poachers, sport hunters, unnatural abominations, and ordinary people who want to develop the wood for mortals' use. Nylea doesn't care if the characters are opposed by simple peasants, or by monsters beyond the characters' ability to cope with. They might need to get creative, calling upon Nylea's own servants\u2014such as hydras\u2014to beat back the more powerful threats.",
 										"At the beginning of the campaign, the heroes might help defend Setessa from an attack that also threatens all of the Nessian Wood, which is their main concern. Hailed as heroes even though their defense of the polis was a secondary goal, they continue to enjoy Nylea's favor as they confront greater threats. Perhaps they will align themselves with the leaders of the polis, or maybe Setessa will eventually find itself at odds with the wild ideals of Nylea.",
 										"Nylea's dictates are simple but inflexible, and her champions find that her favor turns to wrath if they neglect their duty to the forest. She might simply banish them from the Nessian Wood, or she might become a villain, with the characters either seeking to appease her or trying to find a new divine patron to protect them.",
 										{
@@ -11299,7 +11299,7 @@
 							"page": 195,
 							"id": "357",
 							"entries": [
-								"Just as the heroes of Theros carry great destinies, so too do many of the magic items they encounter. The common folk don't typically possess magic items, yet adventurers come across them with some regularity\u2014further evidencing the divine favor most enjoy. Nearly every magic item was created with a purpose and often carries with it a role in some greater story, whether an epic long ended or one yet untold.",
+								"Just as the heroes of Theros carry great destinies, so too do many of the magic items they encounter. The common folk don't typically possess magic items, yet adventurers come across them with some regularity\u2014further evidencing the favor divino most enjoy. Nearly every magic item was created with a purpose and often carries with it a role in some greater story, whether an epic long ended or one yet untold.",
 								"As DM, feel free to make ordinary magic items feel like they have significant history and purpose. Even a {@item +1 spear} might have been carried by a company of hoplite veterans that went missing during their quest to reach the edge of the world. Wands might be crafted from legendary sources, while potions might bear the seals of famed alchemists or include signature reagents\u2014like a pegasus feather in a {@item potion of flying}. The Remarkable Origins table offers just a few ways to suggest a magic item's remarkable pedigree without altering its magical properties.",
 								"Certain treasures might also be the objects of heroic quests. For example, one might not be considered a true hero until one follows in the footsteps of past legends and either makes or claims one's own magical garment from the wool of a {@creature Nyx-fleece ram|MOT} (see {@book chapter 6|MOT|6|Nyx-Fleece Ram}). You can also use the tables in {@book chapter 7|DMG|7|Special Features} of the {@book Dungeon Master's Guide|DMG} to help further inspire the story you create for a magic item.",
 								{

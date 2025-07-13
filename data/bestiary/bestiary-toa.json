@@ -151,7 +151,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell cloudkill}",
-								"{@spell hold monster}",
+								"{@spell inmovilizar monstruo}",
 								"{@spell wall of force}"
 							]
 						},
@@ -865,8 +865,8 @@
 							"items": [
 								"Cause a blue gem set into the dagger's pommel to shed bright light in a 20-foot radius and dim light for an additional 20 feet, or make the gem go dark.",
 								"Turn the dagger into a compass that, while resting on your palm, points north.",
-								"Cast {@spell dimension door} from the dagger. Once this property is used, it can't be used again until the next dawn.",
-								"Cast {@spell compulsion} (save {@dc 15}) from the dagger. The range of the spell increases to 90 feet but it targets only spiders that are beasts. Once this property is used, it can't be used again until the next dawn."
+								"Cast {@spell puerta dimensional} from the dagger. Once this property is used, it can't be used again until the next dawn.",
+								"Cast {@spell compulsión} (save {@dc 15}) from the dagger. The range of the spell increases to 90 feet but it targets only spiders that are beasts. Once this property is used, it can't be used again until the next dawn."
 							]
 						}
 					]
@@ -1007,7 +1007,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell ráfaga de viento}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell lesser restoration}"
 							]
 						},
@@ -3112,7 +3112,7 @@
 						"The King of Feathers's innate spellcasting ability is Wisdom. It can innately cast the following spell, requiring no material components:"
 					],
 					"will": [
-						"{@spell misty step}"
+						"{@spell paso brumoso}"
 					],
 					"ability": "wis"
 				}
@@ -3590,7 +3590,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell charm person}",
-								"{@spell protection from evil and good}",
+								"{@spell protección contra el bien y el mal}",
 								"{@spell unseen servant}"
 							]
 						}
@@ -4080,8 +4080,8 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blindness/deafness}",
-								"{@spell hold person}",
-								"{@spell misty step}"
+								"{@spell inmovilizar persona}",
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -5665,7 +5665,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blight}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {
@@ -6109,7 +6109,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell darkness}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell rope trick}"
 							]
 						},
@@ -6307,7 +6307,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell invisibility}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -6818,13 +6818,13 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dominate beast}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold monster}",
+								"{@spell inmovilizar monstruo}",
 								"{@spell telekinesis}"
 							]
 						},

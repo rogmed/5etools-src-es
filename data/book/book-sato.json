@@ -369,7 +369,7 @@
 									"items": [
 										{
 											"type": "item",
-											"name": "Banishment",
+											"name": "Destierro",
 											"entry": "Effects that banish a target from Sigil treat the target as if Sigil were its home plane."
 										},
 										{
@@ -734,7 +734,7 @@
 											"Temple window",
 											"{@book Heart's Fire|SatO|2|Heart's Fire}",
 											"{@book Mount Celestia|DMG|2|Mount Celestia}",
-											"Angel feather, holy water"
+											"Angel feather, Agua bendita"
 										],
 										[
 											"37\u201339",
@@ -3157,7 +3157,7 @@
 									"id": "0b2",
 									"entries": [
 										"Along the banks of the Ditch (detailed below), a fire-gutted building conceals a gaping hole into the ground with a single ladder leading down into darkness. Here lies the Bones of the Night, a cavern complex home to the Master of Bones: Lothar the Old (neutral, human {@creature priest}). From the catacombs of {@book Undersigil|SatO|2|Undersigil} (detailed later in this chapter), Lothar gathers a macabre collection of skulls from various creatures, organizing them into a library of sorts. Ossuaries riddle the walls of his bizarre exhibit, their ledges richly decorated with grave goods paid to the departed.",
-										"The Master of Bones uses necromancy to commune with the skulls in his collection and draw on their shared knowledge. For a fee, Lothar can cast the {@spell speak with dead} spell on any of his skulls, asking questions on the clients' behalf. He also trades and purchases new skulls. His prices range from 1 gp for a person who knew a single valuable story to upward of 10,000 gp for the skull of a factol or the high priest of a dead god.",
+										"The Master of Bones uses necromancy to comunión with the skulls in his collection and draw on their shared knowledge. For a fee, Lothar can cast the {@spell speak with dead} spell on any of his skulls, asking questions on the clients' behalf. He also trades and purchases new skulls. His prices range from 1 gp for a person who knew a single valuable story to upward of 10,000 gp for the skull of a factol or the high priest of a dead god.",
 										"The library is well guarded. Lothar is a capable combatant in his own right and can animate a host of skulls in his collection as {@creature Flameskull||flameskulls}. To combat larger threats, the Master of Bones relies on a ghoul-shaped {@creature stone golem} that answers to his command."
 									]
 								},
@@ -3310,11 +3310,11 @@
 													],
 													"rows": [
 														[
-															"{@spell Comprehend languages}, {@spell detect magic}, {@spell disguise self}, {@spell feather fall}, {@spell illusory script}, {@spell protection from evil and good}, {@spell shield}, {@spell Tenser's floating disk}",
+															"{@spell Comprehend languages}, {@spell detect magic}, {@spell disguise self}, {@spell feather fall}, {@spell illusory script}, {@spell protección contra el bien y el mal}, {@spell shield}, {@spell Tenser's floating disk}",
 															"25 gp"
 														],
 														[
-															"{@spell Arcane lock}, {@spell darkvision}, {@spell detect thoughts}, {@spell hold person}, {@spell invisibility}, {@spell knock}, {@spell Nystul's magic aura}, {@spell warp sense|SatO}*",
+															"{@spell Arcane lock}, {@spell darkvision}, {@spell detect thoughts}, {@spell inmovilizar persona}, {@spell invisibility}, {@spell knock}, {@spell Nystul's magic aura}, {@spell warp sense|SatO}*",
 															"75 gp"
 														],
 														[
@@ -3326,7 +3326,7 @@
 															"300 gp"
 														],
 														[
-															"{@spell Contact other plane}, {@spell legend lore}, {@spell planar binding}, {@spell Enlace telepático de Rary}",
+															"{@spell Contact other plane}, {@spell conocer las leyendas}, {@spell planar binding}, {@spell Enlace telepático de Rary}",
 															"750 gp"
 														]
 													]
@@ -3508,7 +3508,7 @@
 									"id": "0c7",
 									"entries": [
 										"The chief attraction of the ward is the Great Bazaar, a vast plaza of shops where anything and everything can be found. Boisterous throngs of shoppers crowd its bustling avenues at all hours, doing business with vendors from every corner of the multiverse.",
-										"The Great Bazaar is a cosmopolitan sampling of the planes and the goods they have to offer. Though more scandalous merchandise typically finds its way to the {@book Gatehouse Night Market|SatO|2|Gatehouse Night Market} (see the \"{@book Hive Ward|SatO|2|Hive Ward}\" section), the bazaar has anything a traveler could want, so long as they can find it in the open market's constant commotion. Scents collide in the winding stalls: warm, right-angled bread loaves prepared fresh by modron bakers; spotted mushrooms hocked by bullywug grocers; and perfumed holy water sold by winged Celestials. Vibrant produce dangles from the leafy awnings of living plant stalls, and masterwork armors forged from rare metals bear insignias from blacksmiths on other worlds.",
+										"The Great Bazaar is a cosmopolitan sampling of the planes and the goods they have to offer. Though more scandalous merchandise typically finds its way to the {@book Gatehouse Night Market|SatO|2|Gatehouse Night Market} (see the \"{@book Hive Ward|SatO|2|Hive Ward}\" section), the bazaar has anything a traveler could want, so long as they can find it in the open market's constant commotion. Scents collide in the winding stalls: warm, right-angled bread loaves prepared fresh by modron bakers; spotted mushrooms hocked by bullywug grocers; and perfumed Agua bendita sold by winged Celestials. Vibrant produce dangles from the leafy awnings of living plant stalls, and masterwork armors forged from rare metals bear insignias from blacksmiths on other worlds.",
 										{
 											"type": "entries",
 											"name": "Free League Presence",
@@ -4770,7 +4770,7 @@
 										}
 									]
 								},
-								"Celestials and mortals live in harmony in Excelsior, the gate-town at the foot of Mount Celestia. Flecks of gold and silver sparkle in its radiant streets and towers, which climb ever upward to new heights of good and law. Archons, devout worshipers, and paragons of justice convene in floating citadels atop billowing clouds, and crystal falls of holy water cascade over their wispy edge to blessed fountains below.",
+								"Celestials and mortals live in harmony in Excelsior, the gate-town at the foot of Mount Celestia. Flecks of gold and silver sparkle in its radiant streets and towers, which climb ever upward to new heights of good and law. Archons, devout worshipers, and paragons of justice convene in floating citadels atop billowing clouds, and crystal falls of Agua bendita cascade over their wispy edge to blessed fountains below.",
 								"Excelsior's divinely appointed high chancellor, Forough (lawful good, human {@creature archmage} who can cast cleric spells), looks after the gate-town. The venerable human chancellor is a kind-hearted and patient soul, but beneath her calm exterior pumps the heart of a lion with a thunderous roar. The favored cleric of a deity of light, the Sunweaver, Forough is the voice of a god and can bring its might to bear. Those who mistake her mercy for weakness don't do so twice. She stands resolute against evil invaders alongside the Cinderwings, a squadron of angelic defenders who heed her prayers.",
 								"There's a consequence to Excelsior's bliss. Once one has basked in the light of the Seven Heavens, everywhere else seems comparatively worse. Though archons regularly depart the gate-town on divine errands, Excelsior's privileged mortal residents hesitate to venture past its golden gates, where a dull existence awaits. However, the gate-town isn't a perfect paradise, and some scoundrels test the watchfulness of goodly gods and their servants, regardless of how close to them they dwell.",
 								{
@@ -5313,7 +5313,7 @@
 									"page": 76,
 									"id": "124",
 									"entries": [
-										"Agents of an ancient druidic circle of giants, the Worldroot Circle, tend to Glorium's hidden gate. Believing the sacred plant to be a seedling of Yggdrasil, they nurture the sapling and use it to commune with members of the circle on other worlds. A {@creature treant} born from its roots, Yggatha, defends the gate chamber at all hours. The {@book Worldroot Circle|BGG|4|Worldroot Sapling} is further detailed in {@book Bigby Presents: Glory of the Giants|BGG}."
+										"Agents of an ancient druidic circle of giants, the Worldroot Circle, tend to Glorium's hidden gate. Believing the sacred plant to be a seedling of Yggdrasil, they nurture the sapling and use it to comunión with members of the circle on other worlds. A {@creature treant} born from its roots, Yggatha, defends the gate chamber at all hours. The {@book Worldroot Circle|BGG|4|Worldroot Sapling} is further detailed in {@book Bigby Presents: Glory of the Giants|BGG}."
 									]
 								},
 								{
@@ -6057,7 +6057,7 @@
 												],
 												[
 													"4",
-													"The {@creature ghost} of a fallen warrior asks the party to investigate why their name isn't on the {@book Final Procession|SatO|3|Final Procession}. The culprit is a petty Crown General who took credit for the warrior's heroism."
+													"The {@creature ghost} of a fallen warrior asks the party to investigate why their name isn't on the {@book Final Procession|SatO|3|Final Procession}. The culprit is a petty Crown General who took credit for the warrior's heroísmo."
 												]
 											]
 										}

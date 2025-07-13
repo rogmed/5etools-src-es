@@ -182,8 +182,8 @@
 						},
 						"2": {
 							"spells": [
-								"{@spell hold person}",
-								"{@spell misty step}"
+								"{@spell inmovilizar persona}",
+								"{@spell paso brumoso}"
 							],
 							"slots": 3
 						}

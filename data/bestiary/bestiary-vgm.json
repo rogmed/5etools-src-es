@@ -108,7 +108,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}*",
-								"{@spell stoneskin}*"
+								"{@spell piel pétrea}*"
 							]
 						},
 						"5": {
@@ -599,7 +599,7 @@
 								"2": {
 									"slots": 3,
 									"spells": [
-										"{@spell hold person}",
+										"{@spell inmovilizar persona}",
 										"{@spell locate object}"
 									]
 								},
@@ -733,7 +733,7 @@
 									"slots": 3,
 									"spells": [
 										"{@spell call lightning}",
-										"{@spell plant growth}"
+										"{@spell crecimiento vegetal}"
 									]
 								},
 								"4": {
@@ -804,7 +804,7 @@
 									"slots": 2,
 									"spells": [
 										"{@spell geas}",
-										"{@spell legend lore}"
+										"{@spell conocer las leyendas}"
 									]
 								},
 								"6": {
@@ -895,7 +895,7 @@
 									"2": {
 										"slots": 3,
 										"spells": [
-											"{@spell hold person}",
+											"{@spell inmovilizar persona}",
 											"{@spell locate object}"
 										]
 									},
@@ -1034,7 +1034,7 @@
 										"slots": 3,
 										"spells": [
 											"{@spell call lightning}",
-											"{@spell plant growth}"
+											"{@spell crecimiento vegetal}"
 										]
 									},
 									"4": {
@@ -1113,7 +1113,7 @@
 										"slots": 2,
 										"spells": [
 											"{@spell geas}",
-											"{@spell legend lore}"
+											"{@spell conocer las leyendas}"
 										]
 									},
 									"6": {
@@ -1363,7 +1363,7 @@
 							"spells": [
 								"{@spell animal messenger}",
 								"{@spell beast sense}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -1379,14 +1379,14 @@
 							"spells": [
 								"{@spell dominate beast}",
 								"{@spell locate creature}",
-								"{@spell stoneskin}",
+								"{@spell piel pétrea}",
 								"{@spell wall of fire}"
 							]
 						},
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell commune with nature}",
+								"{@spell comunión con la naturaleza}",
 								"{@spell mass cure wounds}",
 								"{@spell paso arbóreo}"
 							]
@@ -2066,7 +2066,7 @@
 							"spells": [
 								"{@spell charm person}",
 								"{@spell healing word}",
-								"{@spell heroism}",
+								"{@spell heroísmo}",
 								"{@spell sleep}",
 								"{@spell ola atronadora}"
 							]
@@ -2255,7 +2255,7 @@
 					"daily": {
 						"1e": [
 							"{@spell charm person}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell suggestion}"
 						]
 					},
@@ -2422,7 +2422,7 @@
 						"The hag's innate spellcasting ability is Charisma (spell save {@dc 14}, {@hit 6} to hit with spell attacks). She can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell hold person}*",
+						"{@spell inmovilizar persona}*",
 						"{@spell ray of frost}"
 					],
 					"daily": {
@@ -2494,7 +2494,7 @@
 								"2": {
 									"slots": 3,
 									"spells": [
-										"{@spell hold person}",
+										"{@spell inmovilizar persona}",
 										"{@spell locate object}"
 									]
 								},
@@ -2628,7 +2628,7 @@
 									"slots": 3,
 									"spells": [
 										"{@spell call lightning}",
-										"{@spell plant growth}"
+										"{@spell crecimiento vegetal}"
 									]
 								},
 								"4": {
@@ -2699,7 +2699,7 @@
 									"slots": 2,
 									"spells": [
 										"{@spell geas}",
-										"{@spell legend lore}"
+										"{@spell conocer las leyendas}"
 									]
 								},
 								"6": {
@@ -2795,7 +2795,7 @@
 									"2": {
 										"slots": 3,
 										"spells": [
-											"{@spell hold person}",
+											"{@spell inmovilizar persona}",
 											"{@spell locate object}"
 										]
 									},
@@ -2934,7 +2934,7 @@
 										"slots": 3,
 										"spells": [
 											"{@spell call lightning}",
-											"{@spell plant growth}"
+											"{@spell crecimiento vegetal}"
 										]
 									},
 									"4": {
@@ -3013,7 +3013,7 @@
 										"slots": 2,
 										"spells": [
 											"{@spell geas}",
-											"{@spell legend lore}"
+											"{@spell conocer las leyendas}"
 										]
 									},
 									"6": {
@@ -3229,15 +3229,15 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell protection from evil and good}",
-								"{@spell thunderous smite}"
+								"{@spell protección contra el bien y el mal}",
+								"{@spell castigo atronador}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
 								"{@spell branding smite}",
-								"{@spell find steed}"
+								"{@spell hallar corcel}"
 							]
 						},
 						"3": {
@@ -4557,7 +4557,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon} (dagger)"
 							]
 						}
@@ -4738,7 +4738,7 @@
 						"3e": [
 							"{@spell feather fall}",
 							"{@spell fly}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell telekinesis}"
 						],
 						"1e": [
@@ -4954,7 +4954,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell nube de dagas}*",
-								"{@spell misty step}*",
+								"{@spell paso brumoso}*",
 								"{@spell web}*"
 							]
 						},
@@ -4969,7 +4969,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell Evard's black tentacles}*",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -6226,7 +6226,7 @@
 							"spells": [
 								"{@spell arcane eye}*",
 								"{@spell tormenta de hielo}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -6865,7 +6865,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}*",
+								"{@spell inmovilizar persona}*",
 								"{@spell invisibility}",
 								"{@spell suggestion}*"
 							]
@@ -6882,13 +6882,13 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dominate beast}*",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell hold monster}*"
+								"{@spell inmovilizar monstruo}*"
 							]
 						}
 					},
@@ -7047,7 +7047,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell shatter}*"
 							]
 						},
@@ -7063,7 +7063,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell tormenta de hielo}*",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -9849,7 +9849,7 @@
 						"3": {
 							"slots": 2,
 							"spells": [
-								"{@spell plant growth}"
+								"{@spell crecimiento vegetal}"
 							]
 						}
 					},
@@ -10640,7 +10640,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blight}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {
@@ -11112,7 +11112,7 @@
 								"{@spell command}",
 								"{@spell cure wounds}",
 								"{@spell detect evil and good}",
-								"{@spell protection from evil and good}",
+								"{@spell protección contra el bien y el mal}",
 								"{@spell sanctuary}"
 							]
 						},
@@ -11136,8 +11136,8 @@
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}",
-								"{@spell freedom of movement}",
-								"{@spell guardian of faith}"
+								"{@spell libertad de movimiento}",
+								"{@spell guardián de la fe}"
 							]
 						},
 						"5": {
@@ -11881,7 +11881,7 @@
 						"The korred's innate spellcasting ability is Wisdom (save {@dc 13}). It can innately cast the following spells, requiring no components:"
 					],
 					"will": [
-						"{@spell commune with nature}",
+						"{@spell comunión con la naturaleza}",
 						"{@spell meld into stone}",
 						"{@spell stone shape}"
 					],
@@ -13327,7 +13327,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell Evard's black tentacles}"
 							]
 						},
@@ -13674,8 +13674,8 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blight}*",
-								"{@spell dimension door}",
-								"{@spell stoneskin}"
+								"{@spell puerta dimensional}",
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -14051,9 +14051,9 @@
 							"spells": [
 								"{@spell Brazos de Hadar}",
 								"{@spell counterspell}",
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell fear}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell hunger of Hadar}",
 								"{@spell invisibility}",
 								"{@spell unseen servant}"
@@ -14693,7 +14693,7 @@
 							"spells": [
 								"{@spell bane}",
 								"{@spell cure wounds}",
-								"{@spell guiding bolt}"
+								"{@spell saeta guía}"
 							]
 						},
 						"2": {
@@ -14852,7 +14852,7 @@
 								"{@spell bane}",
 								"{@spell detect magic}",
 								"{@spell inflict wounds}",
-								"{@spell protection from evil and good}"
+								"{@spell protección contra el bien y el mal}"
 							]
 						},
 						"2": {
@@ -16947,7 +16947,7 @@
 				{
 					"name": "Windjavelin",
 					"entries": [
-						"The giant coalesces wind into a javelin-like form and hurls it at a creature it can see within 600 feet of it. The javelin is considered a magic weapon and deals 19 ({@damage 3d6 + 9}) piercing damage to the target, striking unerringly. The javelin disappears after it hits."
+						"The giant coalesces wind into a javelin-like form and hurls it at a creature it can see within 600 feet of it. The javelin is considered a arma mágica and deals 19 ({@damage 3d6 + 9}) piercing damage to the target, striking unerringly. The javelin disappears after it hits."
 					]
 				}
 			],
@@ -17843,7 +17843,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell alter self}*",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell knock}*"
 							]
 						},
@@ -17859,7 +17859,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell polymorph}*",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -18791,8 +18791,8 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell divine favor}",
-								"{@spell guiding bolt}",
+								"{@spell favor divino}",
+								"{@spell saeta guía}",
 								"{@spell healing word}",
 								"{@spell shield of faith}"
 							]
@@ -18801,7 +18801,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell lesser restoration}",
-								"{@spell magic weapon}",
+								"{@spell arma mágica}",
 								"{@spell prayer of healing}",
 								"{@spell silence}",
 								"{@spell spiritual weapon}"
@@ -18810,7 +18810,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell beacon of hope}",
+								"{@spell señal de esperanza}",
 								"{@spell crusader's mantle}",
 								"{@spell dispel magic}",
 								"{@spell revivify}",
@@ -18822,9 +18822,9 @@
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}",
-								"{@spell freedom of movement}",
-								"{@spell guardian of faith}",
-								"{@spell stoneskin}"
+								"{@spell libertad de movimiento}",
+								"{@spell guardián de la fe}",
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -18832,7 +18832,7 @@
 							"spells": [
 								"{@spell flame strike}",
 								"{@spell mass cure wounds}",
-								"{@spell hold monster}"
+								"{@spell inmovilizar monstruo}"
 							]
 						}
 					},
@@ -19004,12 +19004,12 @@
 							"spells": [
 								"{@spell blink}",
 								"{@spell charm person}",
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell dominate beast}",
 								"{@spell faerie fire}",
 								"{@spell fear}",
-								"{@spell hold monster}",
-								"{@spell misty step}",
+								"{@spell inmovilizar monstruo}",
+								"{@spell paso brumoso}",
 								"{@spell phantasmal force}",
 								"{@spell seeming}",
 								"{@spell sleep}"
@@ -19404,7 +19404,7 @@
 								"{@spell clairvoyance}",
 								"{@spell contact other plane}",
 								"{@spell detect thoughts}",
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell dissonant whispers}",
 								"{@spell dominate beast}",
 								"{@spell telekinesis}",
@@ -21568,7 +21568,7 @@
 								"{@spell darkness}",
 								"{@spell fear}",
 								"{@spell hex}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell hunger of Hadar}",
 								"{@spell witch bolt}"
 							]
@@ -21830,7 +21830,7 @@
 								"{@spell counterspell}",
 								"{@spell hellish rebuke}",
 								"{@spell invisibility}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell unseen servant}",
 								"{@spell vampiric touch}"
 							]

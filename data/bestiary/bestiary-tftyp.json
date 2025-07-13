@@ -900,7 +900,7 @@
 								{
 									"type": "list",
 									"items": [
-										"A {@i bolt of holding}, which casts {@spell hold person} on a target hit with the bolt, as well as up to two other targets within 30 feet of that target",
+										"A {@i bolt of holding}, which casts {@spell inmovilizar persona} on a target hit with the bolt, as well as up to two other targets within 30 feet of that target",
 										"A {@i bolt of blinding}, which casts {@spell blindness/deafness} to blind on a target hit with the bolt, as well as up to two other targets within 30 feet of that target",
 										"A {@i bolt of vapors}, which casts {@spell nube apestosa} centered on the point it hits"
 									]
@@ -5815,7 +5815,7 @@
 						"2": {
 							"slots": 2,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell shatter}"
 							]
 						}
@@ -6074,7 +6074,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell dimension door}*",
+								"{@spell puerta dimensional}*",
 								"{@spell Evard's black tentacles}*"
 							]
 						},
@@ -6817,10 +6817,10 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Tloques can cast {@spell hold person} ({@dc 14}) at will, requiring no components, but his target must be able to see him."
+						"Tloques can cast {@spell inmovilizar persona} ({@dc 14}) at will, requiring no components, but his target must be able to see him."
 					],
 					"will": [
-						"{@spell hold person}"
+						"{@spell inmovilizar persona}"
 					],
 					"hidden": [
 						"will"
@@ -6831,7 +6831,7 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn."
+						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from Agua bendita, this trait doesn't function at the start of the vampire's next turn."
 					]
 				},
 				{

@@ -738,7 +738,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Paladin",
+			"name": "Paladín",
 			"source": "XPHB",
 			"system": {
 				"spellcasting": {
@@ -2311,7 +2311,7 @@
 		{
 			"name": "Fighting Style",
 			"source": "PHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"level": 2,
 			"isIgnored": true,
@@ -2320,7 +2320,7 @@
 		{
 			"name": "Divine Health",
 			"source": "PHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"level": 3,
 			"effects": [
@@ -5527,7 +5527,7 @@
 		{
 			"name": "Lay on Hands",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 1,
 			"system": {
@@ -5600,7 +5600,7 @@
 		{
 			"name": "Fighting Style",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 2,
 			"isIgnored": true,
@@ -5609,7 +5609,7 @@
 		{
 			"name": "Channel Divinity",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 3,
 			"system": {
@@ -5631,7 +5631,7 @@
 		{
 			"name": "Divine Sense",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -5684,7 +5684,7 @@
 		{
 			"name": "Aura of Protection",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 6,
 			"effects": [
@@ -5705,7 +5705,7 @@
 		{
 			"name": "Abjure Foes",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 9,
 			"activities": [
@@ -5773,7 +5773,7 @@
 		{
 			"name": "Aura of Courage",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 10,
 			"activities": [
@@ -5812,7 +5812,7 @@
 		{
 			"name": "Radiant Strikes",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 11,
 			"effects": [
@@ -5832,7 +5832,7 @@
 		{
 			"name": "Restoring Touch",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 14,
 			"activities": [
@@ -5852,7 +5852,7 @@
 								"value": "5 * @scaling",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Lay on Hands|Paladin|XPHB|1"
+									"uid": "Lay on Hands|Paladín|XPHB|1"
 								}
 							}
 						]
@@ -5870,7 +5870,7 @@
 		{
 			"name": "Don épico",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"level": 19,
 			"isIgnored": true,
@@ -9938,7 +9938,7 @@
 		{
 			"name": "Control Undead",
 			"source": "DMG",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"subclassShortName": "Oathbreaker",
 			"subclassSource": "DMG",
@@ -9962,7 +9962,7 @@
 		{
 			"name": "Dreadful Aspect",
 			"source": "DMG",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"subclassShortName": "Oathbreaker",
 			"subclassSource": "DMG",
@@ -9986,9 +9986,9 @@
 		{
 			"name": "Nature's Wrath",
 			"source": "PHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "PHB",
 			"level": 3,
 			"system": {
@@ -10011,9 +10011,9 @@
 		{
 			"name": "Turn the Faithless",
 			"source": "PHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "PHB",
 			"level": 3,
 			"activities": [
@@ -10035,7 +10035,7 @@
 		{
 			"name": "Sacred Weapon",
 			"source": "PHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"subclassShortName": "Devotion",
 			"subclassSource": "PHB",
@@ -10057,7 +10057,7 @@
 		{
 			"name": "Turn the Unholy",
 			"source": "PHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"subclassShortName": "Devotion",
 			"subclassSource": "PHB",
@@ -10081,7 +10081,7 @@
 		{
 			"name": "Holy Nimbus",
 			"source": "PHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"subclassShortName": "Devotion",
 			"subclassSource": "PHB",
@@ -10103,9 +10103,9 @@
 		{
 			"name": "Abjure Enemy",
 			"source": "PHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "PHB",
 			"level": 3,
 			"system": {
@@ -10117,9 +10117,9 @@
 		{
 			"name": "Vow of Enmity",
 			"source": "PHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "PHB",
 			"level": 3,
 			"system": {
@@ -10131,7 +10131,7 @@
 		{
 			"name": "Champion Challenge",
 			"source": "SCAG",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"subclassShortName": "Crown",
 			"subclassSource": "SCAG",
@@ -10155,7 +10155,7 @@
 		{
 			"name": "Turn the Tide",
 			"source": "SCAG",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"subclassShortName": "Crown",
 			"subclassSource": "SCAG",
@@ -10179,9 +10179,9 @@
 		{
 			"name": "Inspiring Smite",
 			"source": "TCE",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "TCE",
 			"level": 3,
 			"activities": [
@@ -10203,9 +10203,9 @@
 		{
 			"name": "Glorious Defense",
 			"source": "TCE",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "TCE",
 			"level": 15,
 			"system": {
@@ -10217,7 +10217,7 @@
 		{
 			"name": "Vigilant Rebuke",
 			"source": "TCE",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"subclassShortName": "Watchers",
 			"subclassSource": "TCE",
@@ -10242,7 +10242,7 @@
 		{
 			"name": "Conquering Presence",
 			"source": "XGE",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"subclassShortName": "Conquest",
 			"subclassSource": "XGE",
@@ -10266,7 +10266,7 @@
 		{
 			"name": "Rebuke the Violent",
 			"source": "XGE",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "PHB",
 			"subclassShortName": "Redemption",
 			"subclassSource": "XGE",
@@ -17339,9 +17339,9 @@
 		{
 			"name": "Nature's Wrath",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -17408,9 +17408,9 @@
 		{
 			"name": "Aura of Warding",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"activities": [
@@ -17464,9 +17464,9 @@
 		{
 			"name": "Undying Sentinel",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"activities": [
@@ -17505,9 +17505,9 @@
 		{
 			"name": "Elder Champion",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Ancients",
+			"subclassShortName": "Antiguos",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"activities": [
@@ -17597,7 +17597,7 @@
 		{
 			"name": "Sacred Weapon",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Devotion",
 			"subclassSource": "XPHB",
@@ -17673,7 +17673,7 @@
 		{
 			"name": "Holy Nimbus",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
 			"subclassShortName": "Devotion",
 			"subclassSource": "XPHB",
@@ -17744,9 +17744,9 @@
 		{
 			"name": "Inspiring Smite",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -17754,7 +17754,7 @@
 					"type": "heal",
 					"activation": {
 						"type": "",
-						"condition": "Immediately after you cast Divine Smite"
+						"condition": "Immediately after you cast Castigo divino"
 					},
 					"consumption": {
 						"targets": [
@@ -17796,9 +17796,9 @@
 		{
 			"name": "Aura of Alacrity",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"effects": [
@@ -17819,9 +17819,9 @@
 		{
 			"name": "Glorious Defense",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 15,
 			"system": {
@@ -17866,9 +17866,9 @@
 		{
 			"name": "Living Legend",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Glory",
+			"subclassShortName": "Gloria",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"activities": [
@@ -17940,9 +17940,9 @@
 		{
 			"name": "Vow of Enmity",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -18000,9 +18000,9 @@
 		{
 			"name": "Relentless Avenger",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 7,
 			"activities": [
@@ -18059,9 +18059,9 @@
 		{
 			"name": "Avenging Angel",
 			"source": "XPHB",
-			"className": "Paladin",
+			"className": "Paladín",
 			"classSource": "XPHB",
-			"subclassShortName": "Vengeance",
+			"subclassShortName": "Venganza",
 			"subclassSource": "XPHB",
 			"level": 20,
 			"activities": [
@@ -20870,7 +20870,7 @@
 						"max": "max(1,@abilities.cha.mod)"
 					},
 					"spell": {
-						"uuid": "@spell[misty step|xphb]",
+						"uuid": "@spell[paso brumoso|xphb]",
 						"level": 2,
 						"properties": [
 							"vocal",
@@ -20966,7 +20966,7 @@
 						"condition": "After taking damage"
 					},
 					"spell": {
-						"uuid": "@spell[misty step|xphb]",
+						"uuid": "@spell[paso brumoso|xphb]",
 						"level": 2,
 						"properties": [
 							"vocal",

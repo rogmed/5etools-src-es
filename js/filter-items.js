@@ -157,7 +157,7 @@ class PageFilterEquipment extends PageFilterBase {
 					}
 					case "holy":
 						if (!item._fFocus.includes("Clérigo")) item._fFocus.push("Clérigo");
-						if (!item._fFocus.includes("Paladin")) item._fFocus.push("Paladin");
+						if (!item._fFocus.includes("Paladín")) item._fFocus.push("Paladín");
 						break;
 				}
 			}

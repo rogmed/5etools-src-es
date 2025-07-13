@@ -1180,7 +1180,7 @@
 						],
 						[
 							"{@class Druid}",
-							"A priest of the Old Faith, wielding the powers of nature\u2014moonlight and plant growth, fire and lightning\u2014and adapting animal forms",
+							"A priest of the Old Faith, wielding the powers of nature\u2014moonlight and crecimiento vegetal, fire and lightning\u2014and adapting animal forms",
 							"d8",
 							"Wisdom",
 							"Intelligence & Wisdom",
@@ -1677,7 +1677,7 @@
 									"name": "Bonds",
 									"page": 124,
 									"entries": [
-										"Create one bond for your character. Bonds represent a character's connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroism, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character's motivations and goals.",
+										"Create one bond for your character. Bonds represent a character's connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroísmo, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character's motivations and goals.",
 										"Bonds might answer any of these questions: Whom do you care most about? To what place do you feel a special connection? What is your most treasured possession?",
 										"Your bonds might be tied to your class, your background, your race, or some other aspect of your character's history or personality. You might also gain new bonds over the course of your adventures."
 									],
@@ -1688,7 +1688,7 @@
 									"name": "Flaws",
 									"page": 124,
 									"entries": [
-										"Finally, choose a flaw for your character. Your character's flaw represents some vice, compulsion, fear, or weakness\u2014in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests. More significant than negative personality traits, a flaw might answer any of these questions: What enrages you? What's the one person, concept, or event that you are terrified of? What are your vices?"
+										"Finally, choose a flaw for your character. Your character's flaw represents some vice, compulsión, fear, or weakness\u2014in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests. More significant than negative personality traits, a flaw might answer any of these questions: What enrages you? What's the one person, concept, or event that you are terrified of? What are your vices?"
 									],
 									"id": "051"
 								},
@@ -1882,7 +1882,7 @@
 									"{@dice 5d4|5d4|Monk Starting Wealth} gp"
 								],
 								[
-									"Paladin",
+									"Paladín",
 									"{@dice 5d4×10|5d4 × 10|Paladin Starting Wealth} gp"
 								],
 								[
@@ -3449,7 +3449,7 @@
 									"\u2014"
 								],
 								[
-									"{@item Blanket|PHB}",
+									"{@item Manta|PHB}",
 									"5 sp",
 									"3 lb."
 								],
@@ -3610,7 +3610,7 @@
 									"3 lb."
 								],
 								[
-									"{@i {@item Holy symbol|PHB}}",
+									"{@i {@item símbolo sagrado|PHB}}",
 									"",
 									""
 								],
@@ -3618,7 +3618,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Amulet|PHB}",
+										"{@item amuleto|PHB}",
 										"5 gp",
 										"1 lb."
 									]
@@ -3627,7 +3627,7 @@
 									"type": "row",
 									"style": "row-indent-first",
 									"row": [
-										"{@item Emblem|PHB}",
+										"{@item Emblema|PHB}",
 										"5 gp",
 										"\u2014"
 									]
@@ -3642,7 +3642,7 @@
 									]
 								},
 								[
-									"{@item Holy water (flask)|PHB}",
+									"{@item Agua bendita (flask)|PHB}",
 									"25 gp",
 									"1 lb."
 								],
@@ -3712,7 +3712,7 @@
 									"25 lb."
 								],
 								[
-									"{@item Lamp|PHB}",
+									"{@item lámpara|PHB}",
 									"5 sp",
 									"1 lb."
 								],
@@ -4092,7 +4092,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Holy Symbol",
+											"name": "Símbolo sagrado",
 											"page": 151,
 											"entries": [
 												"A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred rite. Appendix B lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus, as described in Part 3: The Rules of Magic. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield."
@@ -4101,11 +4101,11 @@
 										},
 										{
 											"type": "entries",
-											"name": "Holy Water",
+											"name": "Agua bendita",
 											"page": 151,
 											"entries": [
 												"As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact.",
-												"In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage. A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot."
+												"In either case, make a ranged attack against a target creature, treating the Agua bendita as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage. A cleric or paladin may create Agua bendita by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot."
 											],
 											"id": "0b0"
 										},
@@ -4120,7 +4120,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Lamp",
+											"name": "Lámpara",
 											"page": 152,
 											"entries": [
 												"A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil."
@@ -4455,7 +4455,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "Priest's Pack (19 gp)",
+									"name": "Paquete de sacerdote (19 gp)",
 									"page": 151,
 									"entries": [
 										"Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin."
@@ -9613,7 +9613,7 @@
 								"{@spell Leomund's Tiny Hut}",
 								"{@spell Major Image}",
 								"{@spell Nondetection}",
-								"{@spell Plant Growth}",
+								"{@spell Crecimiento vegetal}",
 								"{@spell Sending}",
 								"{@spell Speak with Dead}",
 								"{@spell Speak with Plants}",
@@ -9627,7 +9627,7 @@
 							"name": "4th Level",
 							"columns": 4,
 							"items": [
-								"{@spell Compulsion}",
+								"{@spell Compulsión}",
 								"{@spell Confusion}",
 								"{@spell Puerta dimensional}",
 								"{@spell Libertad de movimiento}",
@@ -9650,7 +9650,7 @@
 								"{@spell Geas}",
 								"{@spell Restablecimiento mayor}",
 								"{@spell Inmovilizar monstruo}",
-								"{@spell Legend Lore}",
+								"{@spell Conocer las leyendas}",
 								"{@spell Curar heridas en masa}",
 								"{@spell Mislead}",
 								"{@spell Modify Memory}",
@@ -9796,7 +9796,7 @@
 							"columns": 4,
 							"items": [
 								"{@spell Animate Dead}",
-								"{@spell Beacon of Hope}",
+								"{@spell Señal de esperanza}",
 								"{@spell Bestow Curse}",
 								"{@spell Clairvoyance}",
 								"{@spell Create Food and Water}",
@@ -9807,7 +9807,7 @@
 								"{@spell Magic Circle}",
 								"{@spell Palabra de curación en masa}",
 								"{@spell Meld into Stone}",
-								"{@spell Protection from Energy}",
+								"{@spell Protección contra energía}",
 								"{@spell Remove Curse}",
 								"{@spell Revivir}",
 								"{@spell Sending}",
@@ -9828,7 +9828,7 @@
 								"{@spell Guarda contra la muerte}",
 								"{@spell Divination}",
 								"{@spell Libertad de movimiento}",
-								"{@spell Guardian of Faith}",
+								"{@spell Guardián de la fe}",
 								"{@spell Locate Creature}",
 								"{@spell Stone Shape}"
 							]
@@ -9839,7 +9839,7 @@
 							"name": "5th Level",
 							"columns": 4,
 							"items": [
-								"{@spell Commune}",
+								"{@spell Comunión}",
 								"{@spell Contagion}",
 								"{@spell Dispel Evil and Good}",
 								"{@spell Golpe flamígero}",
@@ -9847,7 +9847,7 @@
 								"{@spell Restablecimiento mayor}",
 								"{@spell Hallow}",
 								"{@spell Plaga de insectos}",
-								"{@spell Legend Lore}",
+								"{@spell Conocer las leyendas}",
 								"{@spell Curar heridas en masa}",
 								"{@spell Planar Binding}",
 								"{@spell Raise Dead}",
@@ -9997,8 +9997,8 @@
 								"{@spell Disipar magia}",
 								"{@spell Feign Death}",
 								"{@spell Meld into Stone}",
-								"{@spell Plant Growth}",
-								"{@spell Protection from Energy}",
+								"{@spell Crecimiento vegetal}",
+								"{@spell Protección contra energía}",
 								"{@spell Tormenta de aguanieve}",
 								"{@spell Speak with Plants}",
 								"{@spell Respirar bajo el agua}",
@@ -10026,7 +10026,7 @@
 								"{@spell Locate Creature}",
 								"{@spell Polymorph}",
 								"{@spell Stone Shape}",
-								"{@spell Stoneskin}",
+								"{@spell Piel pétrea}",
 								"{@spell Muro de Fuego}"
 							]
 						},
@@ -10038,7 +10038,7 @@
 							"items": [
 								"{@spell Antilife Shell}",
 								"{@spell Awaken}",
-								"{@spell Commune with Nature}",
+								"{@spell Comunión con la naturaleza}",
 								"{@spell Conjurar elemental}",
 								"{@spell Contagion}",
 								"{@spell Geas}",
@@ -10124,19 +10124,19 @@
 							"items": [
 								"{@spell Bendición}",
 								"{@spell Orden imperiosa}",
-								"{@spell Compelled Duel}",
+								"{@spell Duelo forzado}",
 								"{@spell Curar heridas}",
 								"{@spell Detectar el bien y el mal}",
 								"{@spell Detect Magic}",
 								"{@spell Detectar venenos y enfermedades}",
-								"{@spell Divine Favor}",
+								"{@spell Favor divino}",
 								"{@spell Heroism}",
 								"{@spell Protección contra el bien y el mal}",
 								"{@spell Purificar comida y bebida}",
-								"{@spell Searing Smite}",
+								"{@spell Castigo abrasador}",
 								"{@spell Escudo de fe}",
-								"{@spell Thunderous Smite}",
-								"{@spell Wrathful Smite}"
+								"{@spell Castigo atronador}",
+								"{@spell castigo furioso}"
 							]
 						},
 						{
@@ -10147,7 +10147,7 @@
 							"items": [
 								"{@spell Auxilio}",
 								"{@spell Branding Smite}",
-								"{@spell Find Steed}",
+								"{@spell Hallar corcel}",
 								"{@spell Restablecimiento menor}",
 								"{@spell Localizar objeto}",
 								"{@spell Arma mágica}",
@@ -10261,8 +10261,8 @@
 								"{@spell Luz del día}",
 								"{@spell Lightning Arrow}",
 								"{@spell Nondetection}",
-								"{@spell Plant Growth}",
-								"{@spell Protection from Energy}",
+								"{@spell Crecimiento vegetal}",
+								"{@spell Protección contra energía}",
 								"{@spell Speak with Plants}",
 								"{@spell Respirar bajo el agua}",
 								"{@spell Water Walk}",
@@ -10279,7 +10279,7 @@
 								"{@spell Libertad de movimiento}",
 								"{@spell Grasping Vine}",
 								"{@spell Locate Creature}",
-								"{@spell Stoneskin}"
+								"{@spell Piel pétrea}"
 							]
 						},
 						{
@@ -10288,7 +10288,7 @@
 							"name": "5th Level",
 							"columns": 4,
 							"items": [
-								"{@spell Commune with Nature}",
+								"{@spell Comunión con la naturaleza}",
 								"{@spell Conjure Volley}",
 								"{@spell Swift Quiver}",
 								"{@spell Paso arbóreo}"
@@ -10404,7 +10404,7 @@
 								"{@spell Hypnotic Pattern}",
 								"{@spell Relámpago}",
 								"{@spell Major Image}",
-								"{@spell Protection from Energy}",
+								"{@spell Protección contra energía}",
 								"{@spell Tormenta de aguanieve}",
 								"{@spell Slow}",
 								"{@spell Nube apestosa}",
@@ -10427,7 +10427,7 @@
 								"{@spell Invisibilidad mejorada}",
 								"{@spell Tormenta de hielo}",
 								"{@spell Polymorph}",
-								"{@spell Stoneskin}",
+								"{@spell Piel pétrea}",
 								"{@spell Muro de Fuego}"
 							]
 						},
@@ -10808,7 +10808,7 @@
 								"{@spell Major Image}",
 								"{@spell Nondetection}",
 								"{@spell Phantom Steed}",
-								"{@spell Protection from Energy}",
+								"{@spell Protección contra energía}",
 								"{@spell Remove Curse}",
 								"{@spell Sending}",
 								"{@spell Tormenta de aguanieve}",
@@ -10846,7 +10846,7 @@
 								"{@spell Phantasmal Killer}",
 								"{@spell Polymorph}",
 								"{@spell Stone Shape}",
-								"{@spell Stoneskin}",
+								"{@spell Piel pétrea}",
 								"{@spell Muro de Fuego}"
 							]
 						},
@@ -10867,7 +10867,7 @@
 								"{@spell Dream}",
 								"{@spell Geas}",
 								"{@spell Inmovilizar monstruo}",
-								"{@spell Legend Lore}",
+								"{@spell Conocer las leyendas}",
 								"{@spell Mislead}",
 								"{@spell Modify Memory}",
 								"{@spell Passwall}",
@@ -11014,7 +11014,7 @@
 								"{@spell Banishing Smite}",
 								"{@spell Banishment}",
 								"{@spell Barkskin}",
-								"{@spell Beacon of Hope}",
+								"{@spell Señal de esperanza}",
 								"{@spell Beast Sense}",
 								"{@spell Bestow Curse}",
 								"{@spell Bigby's Hand}",
@@ -11042,11 +11042,11 @@
 								"{@spell Cloudkill}",
 								"{@spell Color Spray}",
 								"{@spell Orden imperiosa}",
-								"{@spell Commune}",
-								"{@spell Commune with Nature}",
-								"{@spell Compelled Duel}",
+								"{@spell Comunión}",
+								"{@spell Comunión con la naturaleza}",
+								"{@spell Duelo forzado}",
 								"{@spell Comprehend Languages}",
-								"{@spell Compulsion}",
+								"{@spell Compulsión}",
 								"{@spell Cono de frío}",
 								"{@spell Confusion}",
 								"{@spell Conjurar animales}",
@@ -11091,7 +11091,7 @@
 								"{@spell Disipar magia}",
 								"{@spell Susurros discordantes}",
 								"{@spell Divination}",
-								"{@spell Divine Favor}",
+								"{@spell Favor divino}",
 								"{@spell Divine Word}",
 								"{@spell Dominate Beast}",
 								"{@spell Dominate Monster}",
@@ -11119,7 +11119,7 @@
 								"{@spell Feeblemind}",
 								"{@spell Feign Death}",
 								"{@spell Encontrar familiar}",
-								"{@spell Find Steed}",
+								"{@spell Hallar corcel}",
 								"{@spell Find the Path}",
 								"{@spell Find Traps}",
 								"{@spell Finger of Death}",
@@ -11151,7 +11151,7 @@
 								"{@spell Grease}",
 								"{@spell Invisibilidad mejorada}",
 								"{@spell Restablecimiento mayor}",
-								"{@spell Guardian of Faith}",
+								"{@spell Guardián de la fe}",
 								"{@spell Guards and Wards}",
 								"{@spell Guía}",
 								"{@spell Saeta guía}",
@@ -11184,7 +11184,7 @@
 								"{@spell Invisibility}",
 								"{@spell Jump}",
 								"{@spell Knock}",
-								"{@spell Legend Lore}",
+								"{@spell Conocer las leyendas}",
 								"{@spell Leomund's Secret Chest}",
 								"{@spell Leomund's Tiny Hut}",
 								"{@spell Restablecimiento menor}",
@@ -11240,7 +11240,7 @@
 								"{@spell Planar Ally}",
 								"{@spell Planar Binding}",
 								"{@spell Plane Shift}",
-								"{@spell Plant Growth}",
+								"{@spell Crecimiento vegetal}",
 								"{@spell Rociada venenosa}",
 								"{@spell Polymorph}",
 								"{@spell Palabra de poder: Sanar}",
@@ -11253,7 +11253,7 @@
 								"{@spell Crear llama}",
 								"{@spell Programmed Illusion}",
 								"{@spell Project Image}",
-								"{@spell Protection from Energy}",
+								"{@spell Protección contra energía}",
 								"{@spell Protección contra el bien y el mal}",
 								"{@spell Protection from Poison}",
 								"{@spell Purificar comida y bebida}",
@@ -11274,7 +11274,7 @@
 								"{@spell Santuario}",
 								"{@spell Rayo abrasador}",
 								"{@spell Escudriñar}",
-								"{@spell Searing Smite}",
+								"{@spell Castigo abrasador}",
 								"{@spell Ver invisibilidad}",
 								"{@spell Seeming}",
 								"{@spell Sending}",
@@ -11302,7 +11302,7 @@
 								"{@spell Staggering Smite}",
 								"{@spell Nube apestosa}",
 								"{@spell Stone Shape}",
-								"{@spell Stoneskin}",
+								"{@spell Piel pétrea}",
 								"{@spell Storm of Vengeance}",
 								"{@spell Suggestion}",
 								"{@spell Sunbeam}",
@@ -11317,7 +11317,7 @@
 								"{@spell Disco flotante de Tenser}",
 								"{@spell Taumaturgia}",
 								"{@spell Látigo de espinas}",
-								"{@spell Thunderous Smite}",
+								"{@spell Castigo atronador}",
 								"{@spell Ola atronadora}",
 								"{@spell Time Stop}",
 								"{@spell Tongues}",
@@ -11346,7 +11346,7 @@
 								"{@spell Deseo}",
 								"{@spell Witch Bolt}",
 								"{@spell Word of Recall}",
-								"{@spell Wrathful Smite}",
+								"{@spell castigo furioso}",
 								"{@spell Zona de la verdad}"
 							]
 						}

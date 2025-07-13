@@ -343,7 +343,7 @@
 						"1e": [
 							"{@spell calm emotions}",
 							"{@spell lesser restoration}",
-							"{@spell plant growth}"
+							"{@spell crecimiento vegetal}"
 						]
 					},
 					"ability": "cha"
@@ -963,7 +963,7 @@
 					],
 					"will": [
 						"{@spell command}",
-						"{@spell guiding bolt}",
+						"{@spell saeta guía}",
 						"{@spell spare the dying}"
 					],
 					"daily": {
@@ -1013,7 +1013,7 @@
 				{
 					"name": "Attack",
 					"entries": [
-						"The archon makes a radiant spear attack or casts {@spell guiding bolt}."
+						"The archon makes a radiant spear attack or casts {@spell saeta guía}."
 					]
 				},
 				{
@@ -1143,7 +1143,7 @@
 					],
 					"will": [
 						"{@spell command}",
-						"{@spell compelled duel}"
+						"{@spell duelo forzado}"
 					],
 					"daily": {
 						"1e": [
@@ -3848,7 +3848,7 @@
 						"1e": [
 							"{@spell confusion}",
 							"{@spell dispel magic}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell suggestion}"
 						]
 					},
@@ -4079,9 +4079,9 @@
 					"daily": {
 						"3e": [
 							"{@spell bless}",
-							"{@spell guiding bolt}",
+							"{@spell saeta guía}",
 							"{@spell healing word}",
-							"{@spell hold person}"
+							"{@spell inmovilizar persona}"
 						],
 						"1e": [
 							"{@spell augury}",

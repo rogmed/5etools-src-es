@@ -718,7 +718,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Holy Water",
+			"name": "Agua bendita",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -872,7 +872,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Lamp",
+			"name": "Lámpara",
 			"source": "XPHB",
 			"activities": [
 				{

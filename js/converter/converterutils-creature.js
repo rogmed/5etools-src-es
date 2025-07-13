@@ -785,8 +785,8 @@ export class TraitActionTag {
 
 			"legendary resistance": "Legendary Resistances",
 
-			"magic weapon": "Magic Weapons",
-			"magic weapons": "Magic Weapons",
+			"arma mágica": "Magic Weapons",
+			"arma mágicas": "Magic Weapons",
 
 			"magic resistance": "Magic Resistance",
 

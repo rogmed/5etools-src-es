@@ -88,7 +88,7 @@
 					"type": "entries",
 					"name": "Research: Helpful Lore",
 					"entries": [
-						"When you issue the {@book Research|XDMG|7|Research} order to this facility, you commission the facility's hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the {@spell Legend Lore|XPHB} spell, then shares this knowledge with you the next time you speak with them."
+						"When you issue the {@book Research|XDMG|7|Research} order to this facility, you commission the facility's hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the {@spell Conocer las leyendas|XPHB} spell, then shares this knowledge with you the next time you speak with them."
 					]
 				},
 				{
@@ -1086,7 +1086,7 @@
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Holy Water. You commission the facility's hireling to craft a flask of {@item Holy Water|XPHB}. The work takes 7 days and costs no money. You can spend GP during the creation process to increase the potency of the Holy Water. For every 100 GP you spend, up to a maximum of 500 GP, the damage dealt by the Holy Water increases by {@dice 1d8}."
+									"entry": "Agua bendita. You commission the facility's hireling to craft a flask of {@item Agua bendita|XPHB}. The work takes 7 days and costs no money. You can spend GP during the creation process to increase the potency of the Agua bendita. For every 100 GP you spend, up to a maximum of 500 GP, the damage dealt by the Agua bendita increases by {@dice 1d8}."
 								},
 								{
 									"type": "item",
@@ -1144,7 +1144,7 @@
 					"type": "entries",
 					"name": "Craft: Sacred Focus",
 					"entries": [
-						"When you issue the {@book Craft|XDMG|7|Craft} order to this facility, you commission the facility's hireling to craft a {@item Druidic Focus|XPHB} ({@item wooden staff|XPHB}) or a {@item Holy Symbol|XPHB}. The work takes 7 days and costs no money. The item remains in your Bastion until you claim it."
+						"When you issue the {@book Craft|XDMG|7|Craft} order to this facility, you commission the facility's hireling to craft a {@item Druidic Focus|XPHB} ({@item wooden staff|XPHB}) or a {@item símbolo sagrado|XPHB}. The work takes 7 days and costs no money. The item remains in your Bastion until you claim it."
 					]
 				}
 			]

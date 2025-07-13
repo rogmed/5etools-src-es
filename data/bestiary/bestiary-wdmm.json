@@ -524,7 +524,7 @@
 							"{@spell alarm}",
 							"{@spell detect magic}",
 							"{@spell gaseous form}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell passwall}",
 							"{@spell see invisibility}"
 						]
@@ -655,7 +655,7 @@
 							"spells": [
 								"{@spell detect thoughts}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -671,7 +671,7 @@
 							"spells": [
 								"{@spell polymorph}",
 								"{@spell fire shield}",
-								"{@spell stoneskin}*"
+								"{@spell piel pétrea}*"
 							]
 						},
 						"5": {
@@ -1082,7 +1082,7 @@
 							"spells": [
 								"{@spell detect thoughts}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -1098,7 +1098,7 @@
 							"spells": [
 								"{@spell phantasmal killer}",
 								"{@spell fire shield}",
-								"{@spell stoneskin}*"
+								"{@spell piel pétrea}*"
 							]
 						},
 						"5": {
@@ -1374,15 +1374,15 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell compelled duel}",
-								"{@spell searing smite}"
+								"{@spell duelo forzado}",
+								"{@spell castigo abrasador}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
-								"{@spell magic weapon}"
+								"{@spell inmovilizar persona}",
+								"{@spell arma mágica}"
 							]
 						},
 						"3": {
@@ -1595,7 +1595,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blight}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {
@@ -1949,14 +1949,14 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell shield of faith}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell silence}",
 								"{@spell spiritual weapon}"
 							]
@@ -1972,7 +1972,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell stone shape}",
-								"{@spell guardian of faith}"
+								"{@spell guardián de la fe}"
 							]
 						},
 						"5": {
@@ -3410,7 +3410,7 @@
 							"4": [
 								{
 									"replace": "{@spell banishment}",
-									"with": "{@spell dimension door}"
+									"with": "{@spell puerta dimensional}"
 								}
 							]
 						}
@@ -4235,7 +4235,7 @@
 				{
 					"name": "Greater Magic (Costs 2 Actions)",
 					"entries": [
-						"The behir casts {@spell invisibility} or {@spell misty step}, requiring no components."
+						"The behir casts {@spell invisibility} or {@spell paso brumoso}, requiring no components."
 					]
 				}
 			],
@@ -5149,7 +5149,7 @@
 							"spells": [
 								"{@spell blur}",
 								"{@spell detect thoughts}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell shatter}"
 							]
 						},
@@ -5846,7 +5846,7 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"Zorak regains 20 hit points at the start of his turn if he has at least 1 hit point and isn't in sunlight or running water. If Zorak takes radiant damage or damage from holy water, this trait doesn't function at the start of Zorak's next turn."
+						"Zorak regains 20 hit points at the start of his turn if he has at least 1 hit point and isn't in sunlight or running water. If Zorak takes radiant damage or damage from Agua bendita, this trait doesn't function at the start of Zorak's next turn."
 					]
 				},
 				{

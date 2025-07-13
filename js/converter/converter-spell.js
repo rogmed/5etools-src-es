@@ -590,8 +590,8 @@ export class ConverterSpell extends ConverterBase {
 					case "clerics": tgt.push({"name": "Clérigo", "source": "PHB"}); break;
 					case "Druida":
 					case "druids": tgt.push({"name": "Druida", "source": "PHB"}); break;
-					case "paladin":
-					case "paladins": tgt.push({"name": "Paladin", "source": "PHB"}); break;
+					case "paladín":
+					case "paladins": tgt.push({"name": "Paladín", "source": "PHB"}); break;
 					case "explorador":
 					case "rangers": tgt.push({"name": "Explorador", "source": "PHB"}); break;
 					case "hechicero":

@@ -80,11 +80,11 @@
 						"3e": [
 							"{@spell charm person}",
 							"{@spell command}",
-							"{@spell hold person}"
+							"{@spell inmovilizar persona}"
 						],
 						"1e": [
-							"{@spell compulsion}",
-							"{@spell hold monster}",
+							"{@spell compulsión}",
+							"{@spell inmovilizar monstruo}",
 							"{@spell sleep} (cast at 3rd level)",
 							"{@spell Tasha's hideous laughter}"
 						]
@@ -702,7 +702,7 @@
 								"{@spell darkness}",
 								"{@spell hex}",
 								"{@spell hypnotic pattern}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell phantasmal force}",
 								"{@spell unseen servant}"
 							]

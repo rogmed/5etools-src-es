@@ -818,7 +818,7 @@
 						],
 						"s3": [
 							"blink",
-							"plant growth"
+							"crecimiento vegetal"
 						],
 						"s4": [
 							"dominate beast",
@@ -898,7 +898,7 @@
 						],
 						"s5": [
 							"flame strike",
-							"hallow"
+							"Consagrar"
 						]
 					}
 				}
@@ -1042,7 +1042,7 @@
 						],
 						"s5": [
 							"contagion",
-							"legend lore"
+							"conocer las leyendas"
 						]
 					}
 				}
@@ -1103,7 +1103,7 @@
 					"expanded": {
 						"s1": [
 							"cure wounds",
-							"guiding bolt"
+							"saeta guía"
 						],
 						"s2": [
 							"flaming sphere",
@@ -1114,7 +1114,7 @@
 							"revivify"
 						],
 						"s4": [
-							"guardian of faith",
+							"guardián de la fe",
 							"wall of fire"
 						],
 						"s5": [
@@ -1181,7 +1181,7 @@
 					"expanded": {
 						"s1": [
 							"escudo",
-							"wrathful smite"
+							"castigo furioso"
 						],
 						"s2": [
 							"contorno borroso",
@@ -1594,13 +1594,13 @@
 						"3": [
 							"calm emotions|xphb",
 							"faerie fire|xphb",
-							"misty step|xphb",
+							"paso brumoso|xphb",
 							"phantasmal force|xphb",
 							"dormir|xphb"
 						],
 						"5": [
 							"blink|xphb",
-							"plant growth|xphb"
+							"crecimiento vegetal|xphb"
 						],
 						"7": [
 							"dominate beast|xphb",
@@ -1615,7 +1615,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"misty step|xphb"
+									"paso brumoso|xphb"
 								]
 							}
 						}
@@ -1650,7 +1650,7 @@
 						"3": [
 							"aid|xphb",
 							"cure wounds|xphb",
-							"guiding bolt|xphb",
+							"saeta guía|xphb",
 							"lesser restoration|xphb"
 						],
 						"5": [
@@ -1658,7 +1658,7 @@
 							"revivify|xphb"
 						],
 						"7": [
-							"guardian of faith|xphb",
+							"guardián de la fe|xphb",
 							"wall of fire|xphb"
 						],
 						"9": [
@@ -2649,7 +2649,7 @@
 								],
 								[
 									"3rd",
-									"{@spell blink}, {@spell plant growth}"
+									"{@spell blink}, {@spell crecimiento vegetal}"
 								],
 								[
 									"4th",
@@ -3014,7 +3014,7 @@
 								],
 								[
 									"5th",
-									"{@spell contagion}, {@spell legend lore}"
+									"{@spell contagion}, {@spell conocer las leyendas}"
 								]
 							]
 						}
@@ -3698,7 +3698,7 @@
 							"rows": [
 								[
 									"1st",
-									"{@spell cure wounds}, {@spell guiding bolt}"
+									"{@spell cure wounds}, {@spell saeta guía}"
 								],
 								[
 									"2nd",
@@ -3710,7 +3710,7 @@
 								],
 								[
 									"4th",
-									"{@spell guardian of faith}, {@spell wall of fire}"
+									"{@spell guardián de la fe}, {@spell wall of fire}"
 								],
 								[
 									"5th",
@@ -3813,7 +3813,7 @@
 			"subclassSource": "XGE",
 			"level": 1,
 			"entries": [
-				"You have made your pact with a mysterious entity from the Shadowfell\u2014a force that manifests in sentient magic weapons carved from the stuff of shadow. The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many Hexblade warlocks create weapons that emulate those formed in the Shadowfell. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.",
+				"You have made your pact with a mysterious entity from the Shadowfell\u2014a force that manifests in sentient arma mágicas carved from the stuff of shadow. The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many Hexblade warlocks create weapons that emulate those formed in the Shadowfell. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.",
 				"Because the Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with Hexblade warlocks, are tools she uses to manipulate events on the Material Plane to her inscrutable ends.",
 				{
 					"type": "entries",
@@ -3834,7 +3834,7 @@
 							"rows": [
 								[
 									"1st",
-									"{@spell shield}, {@spell wrathful smite}"
+									"{@spell shield}, {@spell castigo furioso}"
 								],
 								[
 									"2nd",
@@ -4190,7 +4190,7 @@
 						],
 						[
 							"5",
-							"{@spell Blink|XPHB}, {@spell Plant Growth|XPHB}"
+							"{@spell Blink|XPHB}, {@spell Crecimiento vegetal|XPHB}"
 						],
 						[
 							"7",
@@ -4357,7 +4357,7 @@
 						],
 						[
 							"7",
-							"{@spell Guardian of Faith|XPHB}, {@spell Muro de Fuego|XPHB}"
+							"{@spell Guardián de la fe|XPHB}, {@spell Muro de Fuego|XPHB}"
 						],
 						[
 							"9",

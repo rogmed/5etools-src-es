@@ -2076,7 +2076,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell detect thoughts}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -2308,12 +2308,12 @@
 							"spells": [
 								"{@spell counterspell}",
 								"{@spell cure wounds}",
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell dispel magic}",
 								"{@spell flame strike}",
 								"{@spell fly}",
 								"{@spell greater restoration}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell plaga de insectos}",
 								"{@spell lesser restoration}",
 								"{@spell suggestion}",
@@ -2573,7 +2573,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell detect thoughts}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell see invisibility}",
 								"{@spell wrack|GHLoE} *"
 							]
@@ -4395,9 +4395,9 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell invisibility}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell silence}"
 						],
 						"1e": [
@@ -4697,7 +4697,7 @@
 							"{@spell blight}",
 							"{@spell disintegrate}",
 							"{@spell haste}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell shield}",
 							"{@spell slow}",
 							"{@spell see invisibility}"
@@ -4705,7 +4705,7 @@
 						"1e": [
 							"{@spell eyebite}",
 							"{@spell foresight} *",
-							"{@spell freedom of movement}",
+							"{@spell libertad de movimiento}",
 							"{@spell power word stun}",
 							"{@spell teleport}",
 							"{@spell time stop}",
@@ -5431,13 +5431,13 @@
 				{
 					"name": "Rejuvenation",
 					"entries": [
-						"If the lenchtahg's head survives its demise, the head must be doused in holy water and ritually consecrated in a 1-hour ceremony or be the target of a {@spell dispel evil and good} spell. If it isn't, then the lenchtahg reappears in 6 days, emerging from a fiery explosion in a 20-foot-radius sphere centered on the head. Creatures in that area must make a {@dc 15} Dexterity saving throw, taking 28 {@damage 8d6} damage on a failed saving throw, or half as much damage on a successful one. The head can't rejuvenate in a holy {@spell hallow} spell's area."
+						"If the lenchtahg's head survives its demise, the head must be doused in Agua bendita and ritually consecrated in a 1-hour ceremony or be the target of a {@spell dispel evil and good} spell. If it isn't, then the lenchtahg reappears in 6 days, emerging from a fiery explosion in a 20-foot-radius sphere centered on the head. Creatures in that area must make a {@dc 15} Dexterity saving throw, taking 28 {@damage 8d6} damage on a failed saving throw, or half as much damage on a successful one. The head can't rejuvenate in a holy {@spell hallow} spell's area."
 					]
 				},
 				{
 					"name": "Water Aversion",
 					"entries": [
-						"If drenched in 5 gallons or more of water, or any amount of holy water, the lenchtahg has disadvantage on attack rolls and ability checks until the end of its next turn."
+						"If drenched in 5 gallons or more of water, or any amount of Agua bendita, the lenchtahg has disadvantage on attack rolls and ability checks until the end of its next turn."
 					]
 				}
 			],
@@ -5921,7 +5921,7 @@
 								"{@spell detect thoughts}",
 								"{@spell invisibility}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -5937,7 +5937,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blight}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {
@@ -6605,7 +6605,7 @@
 				{
 					"name": "Creeping Corruption",
 					"entries": [
-						"Creatures within 30 ft. that the Malikirian imp can see must make a {@dc 12} Charisma saving throw at the start of their turn. On a failure, the creature acts in accordance with its most selfish, venal, and ruthless impulses to the best of its ability. After 24 hours, the creature must make another Charisma saving throw, ending the compulsion on a success. Failure indicates the compulsion lasts indefinitely until the affected is subject to remove curse or similar magic. Creatures that cannot be {@condition charmed} are immune to this effect."
+						"Creatures within 30 ft. that the Malikirian imp can see must make a {@dc 12} Charisma saving throw at the start of their turn. On a failure, the creature acts in accordance with its most selfish, venal, and ruthless impulses to the best of its ability. After 24 hours, the creature must make another Charisma saving throw, ending the compulsión on a success. Failure indicates the compulsión lasts indefinitely until the affected is subject to remove curse or similar magic. Creatures that cannot be {@condition charmed} are immune to this effect."
 					]
 				},
 				{
@@ -9037,7 +9037,7 @@
 						],
 						"3e": [
 							"{@spell counterspell}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell shield}"
 						]
 					},
@@ -11136,7 +11136,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell lesser restoration}"
 							]
 						},
@@ -11145,20 +11145,20 @@
 							"spells": [
 								"{@spell conjurar animales}",
 								"{@spell dispel magic}",
-								"{@spell plant growth}"
+								"{@spell crecimiento vegetal}"
 							]
 						},
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell freedom of movement}",
+								"{@spell libertad de movimiento}",
 								"{@spell tormenta de hielo}"
 							]
 						},
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell commune with nature}",
+								"{@spell comunión con la naturaleza}",
 								"{@spell paso arbóreo}"
 							]
 						},

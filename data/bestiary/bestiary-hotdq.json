@@ -201,7 +201,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell invisibility}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell scorching ray}"
 							]
 						},
@@ -386,7 +386,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell ráfaga de viento}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell shatter}"
 							]
 						},
@@ -939,8 +939,8 @@
 						"2": {
 							"slots": 2,
 							"spells": [
-								"{@spell magic weapon}",
-								"{@spell misty step}"
+								"{@spell arma mágica}",
+								"{@spell paso brumoso}"
 							]
 						}
 					},
@@ -1154,7 +1154,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell calm emotions}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon}"
 							]
 						},
@@ -1849,7 +1849,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell plant growth}",
+								"{@spell crecimiento vegetal}",
 								"{@spell water walk}"
 							]
 						}
@@ -2109,7 +2109,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Rath has a {@item staff of fire}, and scrolls of {@spell dimension door}, {@spell feather fall}, and {@spell fireball}."
+						"Rath has a {@item staff of fire}, and scrolls of {@spell puerta dimensional}, {@spell feather fall}, and {@spell fireball}."
 					]
 				}
 			],
@@ -2504,7 +2504,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell death ward}",
-								"{@spell freedom of movement}"
+								"{@spell libertad de movimiento}"
 							]
 						},
 						"5": {

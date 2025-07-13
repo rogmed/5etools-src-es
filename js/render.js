@@ -4148,7 +4148,7 @@ Renderer.utils = class {
 		static _SCF_TYPE_TO_NAME = {
 			"arcane": "Arcane Focus",
 			"Druida": "Druidic Focus",
-			"holy": "Holy Symbol",
+			"holy": "Símbolo sagrado",
 		};
 		static _getHtml_spellcastingFocus ({v, isListMode, isTextOnly, styleHint}) {
 			if (isListMode) {
@@ -9981,14 +9981,14 @@ Renderer.monster = class {
 				green: ["Rayo nauseabundo", "charm person", "detect thoughts", "invisibilidad", "suggestion"],
 				white: ["ice knife|XGE", "Snilloc's snowball swarm|XGE"],
 				brass: ["see invisibility", "magic mouth", "blindness/deafness", "Dormir", "detect thoughts"],
-				bronze: ["ráfaga de viento", "misty step", "locate object", "contorno borroso", "witch bolt", "ola atronadora", "escudo"],
+				bronze: ["ráfaga de viento", "paso brumoso", "locate object", "contorno borroso", "witch bolt", "ola atronadora", "escudo"],
 				copper: ["knock", "Dormir", "detect thoughts", "blindness/deafness", "tasha's hideous laughter"],
 			},
 			3: {
 				blue: ["wall of sand|XGE", "thunder step|XGE", "relámpago", "blink", "Proyectil mágico", "slow"],
 				red: ["fireball", "scorching ray", "haste", "erupting earth|XGE", "Aganazzar's scorcher|XGE"],
 				gold: ["slow", "fireball", "dispel magic", "counterspell", "Aganazzar's scorcher|XGE", "escudo"],
-				silver: ["sleet storm", "protection from energy", "catnap|XGE", "locate object", "identify", "Leomund's tiny hut"],
+				silver: ["sleet storm", "protección contra energía", "catnap|XGE", "locate object", "identify", "Leomund's tiny hut"],
 			},
 			4: {
 				black: ["vitriolic sphere|XGE", "sickening radiance|XGE", "Evard's black tentacles", "marchitar", "hunger of Hadar"],
@@ -9997,18 +9997,18 @@ Renderer.monster = class {
 				copper: ["polimorfar", "greater invisibility", "confusion", "nube apestosa", "major image", "charm monster|XGE"],
 			},
 			5: {
-				blue: ["telekinesis", "hold monster", "dimension door", "muro de piedra", "wall of force"],
-				green: ["cloudkill", "charm monster|XGE", "modify memory", "mislead", "hallucinatory terrain", "dimension door"],
+				blue: ["telekinesis", "inmovilizar monstruo", "puerta dimensional", "muro de piedra", "wall of force"],
+				green: ["cloudkill", "charm monster|XGE", "modify memory", "mislead", "hallucinatory terrain", "puerta dimensional"],
 				bronze: ["steel wind strike|XGE", "control winds|XGE", "watery sphere|XGE", "storm sphere|XGE", "tidal wave|XGE"],
-				gold: ["hold monster", "immolation|XGE", "wall of fire", "greater invisibility", "dimension door"],
+				gold: ["inmovilizar monstruo", "immolation|XGE", "wall of fire", "greater invisibility", "puerta dimensional"],
 				silver: ["cono de frío", "tormenta de hielo", "teleportation circle", "skill empowerment|XGE", "creation", "Mordenkainen's private sanctum"],
 			},
 			6: {
 				white: ["cono de frío", "wall of ice"],
-				brass: ["scrying", "Enlace telepático de Rary", "Otto's irresistible dance", "legend lore", "hold monster", "dream"],
+				brass: ["scrying", "Enlace telepático de Rary", "Otto's irresistible dance", "conocer las leyendas", "inmovilizar monstruo", "dream"],
 			},
 			7: {
-				black: ["power word pain|XGE", "finger of death", "disintegrate", "hold monster"],
+				black: ["power word pain|XGE", "finger of death", "disintegrate", "inmovilizar monstruo"],
 				blue: ["chain lightning", "forcecage", "teleport", "etherealness"],
 				green: ["project image", "mirage arcane", "prismatic spray", "teleport"],
 				bronze: ["whirlwind|XGE", "chain lightning", "scatter|XGE", "teleport", "disintegrate", "relámpago"],
@@ -10036,11 +10036,11 @@ Renderer.monster = class {
 				blue: ["create or destroy water", "major image"],
 				red: ["bane", "heat metal", "hypnotic pattern", "suggestion"],
 				gold: ["bless", "cure wounds", "slow", "suggestion", "zone of truth"],
-				silver: ["beacon of hope", "calm emotions", "hold person", "zone of truth"],
+				silver: ["señal de esperanza", "calm emotions", "inmovilizar persona", "zone of truth"],
 				deep: ["command", "dissonant whispers", "faerie fire", "respirar bajo el agua"],
 			},
 			4: {
-				black: ["blindness/deafness", "create or destroy water", "plant growth"],
+				black: ["blindness/deafness", "create or destroy water", "crecimiento vegetal"],
 				white: ["ráfaga de viento"],
 				brass: ["create or destroy water", "speak with animals", "suggestion"],
 				copper: ["lesser restoration", "phantasmal force", "stone shape"],
@@ -10048,10 +10048,10 @@ Renderer.monster = class {
 			5: {
 				blue: ["arcane eye", "create or destroy water", "major image"],
 				red: ["bane", "dominate person", "heat metal", "hypnotic pattern", "suggestion"],
-				green: ["invisibilidad", "plant growth", "speak with animals"],
+				green: ["invisibilidad", "crecimiento vegetal", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "speak with animals"],
-				gold: ["bless", "commune", "cure wounds", "geas", "slow", "suggestion", "zone of truth"],
-				silver: ["beacon of hope", "calm emotions", "hold person", "polimorfar", "zone of truth"],
+				gold: ["bless", "comunión", "cure wounds", "geas", "slow", "suggestion", "zone of truth"],
+				silver: ["señal de esperanza", "calm emotions", "inmovilizar persona", "polimorfar", "zone of truth"],
 			},
 			6: {
 				white: ["ráfaga de viento", "tormenta de hielo"],
@@ -10059,16 +10059,16 @@ Renderer.monster = class {
 				deep: ["command", "dissonant whispers", "faerie fire", "passwall", "respirar bajo el agua"],
 			},
 			7: {
-				black: ["blindness/deafness", "create or destroy water", "plaga de insectos", "plant growth"],
+				black: ["blindness/deafness", "create or destroy water", "plaga de insectos", "crecimiento vegetal"],
 				blue: ["arcane eye", "create or destroy water", "major image", "project image"],
 				red: ["bane", "dominate person", "heat metal", "hypnotic pattern", "power word stun", "suggestion"],
-				green: ["invisibilidad", "mass suggestion", "plant growth", "speak with animals"],
+				green: ["invisibilidad", "mass suggestion", "crecimiento vegetal", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "heroes' feast", "speak with animals"],
 				copper: ["lesser restoration", "move earth", "phantasmal force", "stone shape"],
-				silver: ["beacon of hope", "calm emotions", "hold person", "polimorfar", "teleport", "zone of truth"],
+				silver: ["señal de esperanza", "calm emotions", "inmovilizar persona", "polimorfar", "teleport", "zone of truth"],
 			},
 			8: {
-				gold: ["bless", "commune", "cure wounds", "geas", "plane shift", "slow", "suggestion", "word of recall", "zone of truth"],
+				gold: ["bless", "comunión", "cure wounds", "geas", "plane shift", "slow", "suggestion", "word of recall", "zone of truth"],
 			},
 		};
 
@@ -12445,7 +12445,7 @@ Renderer.item = class {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield."
-						: "Un símbolo sagrado puede ser uno de los objetos de la tabla “Símbolos sagrados” y está ornamentado o pintado para canalizar la magia divina. Los {@class Clérigos|XPHB|clérigos} o {@class Paladin|XPHB|paladines} pueden utilizar un símbolo sagrado como canalizador mágico.";
+						: "Un símbolo sagrado puede ser uno de los objetos de la tabla “{@item símbolo sagrado|XPHB|Símbolos sagrados}” y está ornamentado o pintado para canalizar la magia divina. Los {@class Clérigo|XPHB|clérigos} o {@class Paladín|XPHB|paladines} pueden utilizar un símbolo sagrado como canalizador mágico.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 			} else {
@@ -12467,7 +12467,7 @@ Renderer.item = class {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "A holy symbol is a representation of a god or pantheon. A {@class cleric} or {@class paladin} can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield."
-						: "Un símbolo sagrado puede ser uno de los objetos de la tabla “Símbolos sagrados” y está ornamentado o pintado para canalizar la magia divina. Los {@class Clérigos|XPHB|clérigos} o {@class Paladin|XPHB|paladines} pueden utilizar un símbolo sagrado como canalizador mágico.";
+						: "Un símbolo sagrado puede ser uno de los objetos de la tabla “{@item símbolo sagrado|XPHB|Símbolos sagrados}” y está ornamentado o pintado para canalizar la magia divina. Los {@class Clérigo|XPHB|clérigos} o {@class Paladín|XPHB|paladines} pueden utilizar un símbolo sagrado como canalizador mágico.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 			}

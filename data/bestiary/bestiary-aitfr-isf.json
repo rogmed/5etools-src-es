@@ -219,7 +219,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell nube de dagas}*",
-								"{@spell misty step}*",
+								"{@spell paso brumoso}*",
 								"{@spell web}*"
 							]
 						},
@@ -234,7 +234,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell Evard's black tentacles}*",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {

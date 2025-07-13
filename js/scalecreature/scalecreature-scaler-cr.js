@@ -325,10 +325,10 @@ export class ScaleCreature {
 					} else return m[0];
 				});
 
-				const mClasses = /(artificer|bard|cleric|Druida|paladin|explorador|hechicero|warlock|wizard) spells?/i.exec(outStr);
+				const mClasses = /(artificer|bard|cleric|Druida|Paladín|explorador|hechicero|warlock|wizard) spells?/i.exec(outStr);
 				if (mClasses) spellsFromClass = mClasses[1];
 				else {
-					const mClasses2 = /(artificer|bard|cleric|Druida|paladin|explorador|hechicero|warlock|wizard)(?:'s)? spell list/i.exec(outStr);
+					const mClasses2 = /(artificer|bard|cleric|Druida|Paladín|explorador|hechicero|warlock|wizard)(?:'s)? spell list/i.exec(outStr);
 					if (mClasses2) spellsFromClass = mClasses2[1];
 				}
 

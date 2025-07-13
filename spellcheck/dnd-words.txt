@@ -19221,8 +19221,8 @@ Stoneshafts
 Stoneshar
 Stoneshield
 Stoneshoulder
-stoneskin
-Stoneskin
+piel pétrea
+Piel pétrea
 stonespeaker
 Stonespeaker
 Stonespeaker's

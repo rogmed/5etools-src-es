@@ -1113,7 +1113,7 @@
 						"mode": "removeSpells",
 						"daily": {
 							"3e": [
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell fear}"
 							],
 							"1e": [
@@ -1854,7 +1854,7 @@
 							"{@spell lesser restoration}"
 						],
 						"1e": [
-							"{@spell commune} (as an action)",
+							"{@spell comunión} (as an action)",
 							"{@spell dispel evil and good}"
 						]
 					},

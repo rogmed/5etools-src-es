@@ -591,7 +591,7 @@
 					"daily": {
 						"3e": [
 							"{@spell dispel magic}",
-							"{@spell hold monster}",
+							"{@spell inmovilizar monstruo}",
 							"{@spell Imagen múltiple}",
 							"{@spell mislead}",
 							"{@spell raise dead}",
@@ -828,14 +828,14 @@
 								"{@spell bane}",
 								"{@spell bless}",
 								"{@spell cure wounds}",
-								"{@spell guiding bolt} (see \"Actions\" below)"
+								"{@spell saeta guía} (see \"Actions\" below)"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
 								"{@spell blindness/deafness}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell silence}"
 							]
 						},
@@ -2241,7 +2241,7 @@
 						"2e": [
 							"{@spell bless}",
 							"{@spell cure wounds}",
-							"{@spell protection from evil and good}"
+							"{@spell protección contra el bien y el mal}"
 						],
 						"1e": [
 							"{@spell banishment}",
@@ -2725,7 +2725,7 @@
 							"spells": [
 								"{@spell blindness/deafness}",
 								"{@spell gentle repose}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell ray of enfeeblement}",
 								"{@spell spiritual weapon}"
 							]
@@ -2964,7 +2964,7 @@
 					"vulnerable": [
 						"piercing"
 					],
-					"note": "from magic weapons wielded by good creatures",
+					"note": "from arma mágicas wielded by good creatures",
 					"cond": true
 				}
 			],
@@ -3159,7 +3159,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell darkness}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell scorching ray} (see \"Actions\" below)"
 							]
 						},
@@ -4063,7 +4063,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell protection from evil and good}",
+								"{@spell protección contra el bien y el mal}",
 								"{@spell rayo nauseabundo} (see \"Actions\" below)",
 								"{@spell shield}"
 							]
@@ -4072,7 +4072,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell darkness}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						}
 					},

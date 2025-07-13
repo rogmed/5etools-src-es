@@ -3456,7 +3456,7 @@
 										{
 											"type": "item",
 											"name": "Treasure",
-											"entry": "A treasure celebrating or commemorating an oath (such as a wedding ring), or magic weapons or armor associated with knights or paladins."
+											"entry": "A treasure celebrating or commemorating an oath (such as a wedding ring), or arma mágicas or armor associated with knights or paladins."
 										},
 										{
 											"type": "item",
@@ -3551,7 +3551,7 @@
 										{
 											"type": "item",
 											"name": "Treasure",
-											"entry": "A treasure made at great cost, or a magic weapon."
+											"entry": "A treasure made at great cost, or a arma mágica."
 										},
 										{
 											"type": "item",
@@ -6196,7 +6196,7 @@
 										{
 											"type": "item",
 											"name": "Person",
-											"entry": "A devout person who performs frequent rituals to invoke divine favor."
+											"entry": "A devout person who performs frequent rituals to invoke favor divino."
 										},
 										{
 											"type": "item",

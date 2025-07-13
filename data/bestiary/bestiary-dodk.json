@@ -564,7 +564,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell branding smite}",
-								"{@spell find steed}"
+								"{@spell hallar corcel}"
 							]
 						}
 					},
@@ -712,7 +712,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell bless}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell healing word}"
 							]
 						},
@@ -1673,7 +1673,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell banishment}",
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell tormenta de hielo}"
 							]
 						},
@@ -1989,7 +1989,7 @@
 						"slashing"
 					],
 					"preNote": "nonmagical",
-					"note": "(from stoneskin)",
+					"note": "(from piel pétrea)",
 					"cond": true
 				}
 			],
@@ -2028,7 +2028,7 @@
 							"spells": [
 								"{@spell animal messenger}",
 								"{@spell beast sense}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -2050,7 +2050,7 @@
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell commune with nature}",
+								"{@spell comunión con la naturaleza}",
 								"{@spell cono de frío}",
 								"{@spell greater restoration}"
 							]
@@ -3121,7 +3121,7 @@
 								"{@spell bless}",
 								"{@spell command}",
 								"{@spell cure wounds}",
-								"{@spell guiding bolt}"
+								"{@spell saeta guía}"
 							]
 						},
 						"2": {
@@ -3135,7 +3135,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell beacon of hope}",
+								"{@spell señal de esperanza}",
 								"{@spell dispel magic}"
 							]
 						},
@@ -3201,7 +3201,7 @@
 				{
 					"name": "Holy Bolt (Costs 2 actions)",
 					"entries": [
-						"Theodore Marshal casts {@spell guiding bolt} without expending a spell slot."
+						"Theodore Marshal casts {@spell saeta guía} without expending a spell slot."
 					]
 				}
 			],
@@ -3492,8 +3492,8 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell freedom of movement}",
-								"{@spell stoneskin}"
+								"{@spell libertad de movimiento}",
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -3873,7 +3873,7 @@
 							"spells": [
 								"{@spell bless}",
 								"{@spell command}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell healing word}"
 							]
 						},
@@ -3881,7 +3881,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell aid}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell lesser restoration}",
 								"{@spell spiritual weapon}"
 							]
@@ -3906,7 +3906,7 @@
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell commune}",
+								"{@spell comunión}",
 								"{@spell flame strike}",
 								"{@spell greater restoration}",
 								"{@spell scrying}"
@@ -4406,7 +4406,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell invisibility}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell web}"
 							]
 						},
@@ -4585,7 +4585,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell invisibility}",
 								"{@spell warp bolt|DoDk}*"
 							]
@@ -4957,7 +4957,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell see invisibility}"
 							]
 						},
@@ -4972,7 +4972,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell greater invisibility}",
 								"{@spell polymorph}"
 							]
@@ -5466,7 +5466,7 @@
 						"3e": [
 							"{@spell bless}",
 							"{@spell flame strike}",
-							"{@spell guiding bolt}",
+							"{@spell saeta guía}",
 							"{@spell healing word}",
 							"{@spell prayer of healing}",
 							"{@spell spirit guardians}"
@@ -6177,7 +6177,7 @@
 							"{@spell conjurar animales} (giant rats only)",
 							"{@spell faerie fire}",
 							"{@spell invisibility}",
-							"{@spell misty step}"
+							"{@spell paso brumoso}"
 						]
 					},
 					"ability": "cha"

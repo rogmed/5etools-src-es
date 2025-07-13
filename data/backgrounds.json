@@ -292,7 +292,7 @@
 							"item": "calligrapher's supplies|xphb"
 						},
 						{
-							"item": "holy symbol|xphb"
+							"item": "símbolo sagrado|xphb"
 						},
 						{
 							"item": "parchment|xphb",
@@ -340,7 +340,7 @@
 						{
 							"type": "item",
 							"name": "Equipment:",
-							"entry": "Choose A or B: (A) {@item Calligrapher's Supplies|XPHB}, {@item Book|XPHB|Book (prayers)}, {@item Holy Symbol|XPHB}, {@item Parchment|XPHB} (10 sheets), {@item Robe|xphb}, 8 GP; or (B) 50 GP"
+							"entry": "Choose A or B: (A) {@item Calligrapher's Supplies|XPHB}, {@item Book|XPHB|Book (prayers)}, {@item símbolo sagrado|XPHB}, {@item Parchment|XPHB} (10 sheets), {@item Túnica|xphb}, 8 GP; or (B) 50 GP"
 						}
 					]
 				}
@@ -1262,7 +1262,7 @@
 							"item": "book|xphb"
 						},
 						{
-							"item": "lamp|xphb"
+							"item": "Lámpara|xphb"
 						},
 						{
 							"item": "oil|xphb",
@@ -1310,7 +1310,7 @@
 						{
 							"type": "item",
 							"name": "Equipment:",
-							"entry": "Choose A or B: (A) {@item Bastón|XPHB}, {@item Herbalism Kit|XPHB}, {@item Bedroll|XPHB}, {@item Book|XPHB} (philosophy), {@item Lamp|XPHB}, {@item Aceite|XPHB} (3 flasks), {@item Traveler's Clothes|XPHB}, 16 GP; or (B) 50 GP"
+							"entry": "Choose A or B: (A) {@item Bastón|XPHB}, {@item Herbalism Kit|XPHB}, {@item Bedroll|XPHB}, {@item Book|XPHB} (philosophy), {@item lámpara|XPHB}, {@item Aceite|XPHB} (3 flasks), {@item Traveler's Clothes|XPHB}, 16 GP; or (B) 50 GP"
 						}
 					]
 				}
@@ -1658,7 +1658,7 @@
 						{
 							"type": "item",
 							"name": "Equipment:",
-							"entry": "Choose A or B: (A) {@item Bastón|XPHB}, {@item Calligrapher's Supplies|XPHB}, {@item Book|XPHB} (history), {@item Parchment|XPHB} (8 sheets), {@item Robe|XPHB}, 8 GP; or (B) 50 GP"
+							"entry": "Choose A or B: (A) {@item Bastón|XPHB}, {@item Calligrapher's Supplies|XPHB}, {@item Book|XPHB} (history), {@item Parchment|XPHB} (8 sheets), {@item Túnica|XPHB}, 8 GP; or (B) 50 GP"
 						}
 					]
 				}
@@ -1846,7 +1846,7 @@
 							"item": "fine clothes|xphb"
 						},
 						{
-							"item": "lamp|xphb"
+							"item": "Lámpara|xphb"
 						},
 						{
 							"item": "oil|xphb"
@@ -1893,7 +1893,7 @@
 						{
 							"type": "item",
 							"name": "Equipment:",
-							"entry": "Choose A or B: (A) {@item Calligrapher's Supplies|XPHB}, {@item Fine Clothes|XPHB}, {@item Lamp|XPHB}, {@item Aceite|XPHB} (3 flasks), {@item Parchment|XPHB} (12 sheets), 23 GP; or (B) 50 GP"
+							"entry": "Choose A or B: (A) {@item Calligrapher's Supplies|XPHB}, {@item Fine Clothes|XPHB}, {@item lámpara|XPHB}, {@item Aceite|XPHB} (3 flasks), {@item Parchment|XPHB} (12 sheets), 23 GP; or (B) 50 GP"
 						}
 					]
 				}

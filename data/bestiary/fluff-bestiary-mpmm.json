@@ -139,7 +139,7 @@
 				},
 				"Mind flayers that pursue arcane magic are exiled as deviants, and for them no everlasting communion with an elder brain is possible. The road to lichdom offers an alternative way to escape the permanency of death, but that path is long and fraught with barriers. Alhoons are mind flayers who have used a shortcut to attain a lich-like state.",
 				"Elder brains forbid mind flayers from pursuing magic power aside from psionics, but it isn't an interdiction they must often enforce. Illithids brook no masters but members of their own kind, so it isn't in their nature to bow to any god or otherworldly patron. However, wizardry remains a temptation. In the pages of a spellbook, an illithid sees a system to acquire authority. Through the writings of the wizard who penned it, the illithid perceives the workings of a highly intelligent mind. Most mind flayers who find a spellbook react with abhorrence or indifference, but for some, a spellbook is a gateway to a new way of thinking.",
-				"For a time, the study of such forbidden texts can be hidden from other illithids and even from an elder brain. Yet eventually, mind flayer arcanists determined to pursue wizardry must flee the colony for their own safety. Once they taste freedom from the colony, some prize their privacy, others seek to commune with similar minds, and still others seek to dominate a colony by elevating themselves to the position of leadership normally held by an elder brain. Regardless, all such arcanists face the same stark fact: when they die, they will not join the host of minds in the elder brain\u2014deviant minds are never accepted as part of the collective. For them, death means oblivion.",
+				"For a time, the study of such forbidden texts can be hidden from other illithids and even from an elder brain. Yet eventually, mind flayer arcanists determined to pursue wizardry must flee the colony for their own safety. Once they taste freedom from the colony, some prize their privacy, others seek to comunión with similar minds, and still others seek to dominate a colony by elevating themselves to the position of leadership normally held by an elder brain. Regardless, all such arcanists face the same stark fact: when they die, they will not join the host of minds in the elder brain\u2014deviant minds are never accepted as part of the collective. For them, death means oblivion.",
 				"Lichdom offers salvation and the prospect of being able to pursue knowledge indefinitely. Yet learning the secret of achieving lichdom requires an arcane spellcaster to be at the apex of power\u2014a significant challenge for mind flayers, given the scarcity of available mentors and training.",
 				"Confronting this reality, a group of nine mind flayer arcanists used their arcane magic and psionics to weave a new truth. These nine called themselves the Alhoon, and those who follow in their footsteps are referred to by the same name.",
 				{
@@ -189,7 +189,7 @@
 			"source": "MPMM",
 			"entries": [
 				"When a creature uncovers a secret that a powerful being has protected with a mighty curse, the result is often the creation of an allip. Secrets protected in this manner range in scope from a demon lord's true name to the hidden truths of the cosmic order. The creature acquires the secret, but the curse annihilates its body and leaves behind a spectral being composed of fragments from the victim's psyche and overwhelming psychic agony.",
-				"Every allip is wracked with a horrifying insight that torments what remains of its mind. In the presence of other creatures, an allip seeks to relieve this burden by sharing its secret. The creature can impart only a shard of the knowledge that doomed it, but that piece is enough to wrack the recipient with temporary mental anguish and violent compulsions. The survivors of an allip's attack are sometimes left with a compulsion to learn more about what spawned this monstrosity. Strange phrases echo through their minds, and weird visions occupy their dreams. The sense that some colossal truth sits just outside their recall plagues them for days, months, and sometimes years after their fateful encounter.",
+				"Every allip is wracked with a horrifying insight that torments what remains of its mind. In the presence of other creatures, an allip seeks to relieve this burden by sharing its secret. The creature can impart only a shard of the knowledge that doomed it, but that piece is enough to wrack the recipient with temporary mental anguish and violent compulsións. The survivors of an allip's attack are sometimes left with a compulsión to learn more about what spawned this monstrosity. Strange phrases echo through their minds, and weird visions occupy their dreams. The sense that some colossal truth sits just outside their recall plagues them for days, months, and sometimes years after their fateful encounter.",
 				{
 					"name": "Insidious Lore",
 					"type": "entries",
@@ -940,7 +940,7 @@
 				"A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.",
 				"A worshiper of Orcus can take ritual vows while carving the demon lord's symbol on their chest over the heart. Orcus's power flays body, mind, and soul, leaving behind a sentient husk that consumes life energy near it. Most bodaks come into being in this way, then are unleashed to spread death in Orcus's name.",
 				"Bodaks are extensions of Orcus's will outside the Abyss, serving the demon prince's aims and other minions. Orcus can recall anything a bodak sees or hears. If he so chooses, he can speak through a bodak to address his enemies and followers directly.",
-				"A bodak retains vague impressions of its past life. It seeks out its former allies and enemies alike to destroy them, as its warped soul seeks to erase anything connected to its former life. Minions of Orcus are the one exception to this compulsion; a bodak recognizes them as kindred souls and spares them from its wrath. Anyone who knew the individual before its transformation into a bodak can recognize mannerisms or other subtle clues to its original identity."
+				"A bodak retains vague impressions of its past life. It seeks out its former allies and enemies alike to destroy them, as its warped soul seeks to erase anything connected to its former life. Minions of Orcus are the one exception to this compulsión; a bodak recognizes them as kindred souls and spares them from its wrath. Anyone who knew the individual before its transformation into a bodak can recognize mannerisms or other subtle clues to its original identity."
 			],
 			"images": [
 				{
@@ -4919,7 +4919,7 @@
 					"entries": [
 						"A nilbog is an invisible spirit that possesses only goblins. When bereft of a host, the spirit has a flying speed of 30 feet, it can't be attacked, and it is immune to all damage and conditions. Acting on initiative count 20 (losing initiative ties), the only action it can take is to attempt to possess a goblin within 5 feet of it.",
 						"A goblin targeted by the spirit must succeed on a {@dc 15} Charisma saving throw or become possessed. While possessed, the goblin uses the nilbog stat block. If the save succeeds, the spirit can't possess that goblin for 24 hours.",
-						"If its host is killed or the possession is ended by a spell such as hallow, magic circle, or protection from evil and good, the spirit searches for another goblin to possess. The spirit can leave its host at any time, but it won't do so willingly unless it knows there's another potential host nearby. A goblin stripped of their nilbog spirit reverts to their normal statistics and loses the traits they gained while possessed."
+						"If its host is killed or the possession is ended by a spell such as hallow, magic circle, or protección contra el bien y el mal, the spirit searches for another goblin to possess. The spirit can leave its host at any time, but it won't do so willingly unless it knows there's another potential host nearby. A goblin stripped of their nilbog spirit reverts to their normal statistics and loses the traits they gained while possessed."
 					]
 				}
 			],
@@ -6753,7 +6753,7 @@
 					"caption": "War Priest Holy Symbols",
 					"colLabels": [
 						"{@dice d8}",
-						"Holy Symbol"
+						"Símbolo sagrado"
 					],
 					"colStyles": [
 						"col-1 text-center",

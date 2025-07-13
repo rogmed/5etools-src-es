@@ -318,14 +318,14 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dispel magic}",
-								"{@spell protection from energy}"
+								"{@spell protección contra energía}"
 							]
 						},
 						"4": {
 							"slots": 2,
 							"spells": [
-								"{@spell dimension door}",
-								"{@spell stoneskin}"
+								"{@spell puerta dimensional}",
+								"{@spell piel pétrea}"
 							]
 						}
 					},
@@ -587,7 +587,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell protection from energy}",
+								"{@spell protección contra energía}",
 								"{@spell revivify}"
 							]
 						},

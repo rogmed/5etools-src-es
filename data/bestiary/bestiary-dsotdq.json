@@ -1064,7 +1064,7 @@
 							"{@spell dominate person}"
 						],
 						"2e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell disguise self}",
 							"{@spell sending}"
 						]
@@ -3529,7 +3529,7 @@
 								[
 									"9th",
 									"55 ({@dice 10d8 + 10})",
-									"Proficiency Bonus. Hrigg's proficiency bonus increases by 1, so increase the following numbers by 1: his spell save DC and the bonus to hit of his spell attacks, the bonuses in the Saving Throws and Skills entries, and the bonuses to hit of his weapon attacks. Spellcasting. Hrigg gains two 3rd-level spell slots. He also learns a 3rd-level spell: {@spell beacon of hope}."
+									"Proficiency Bonus. Hrigg's proficiency bonus increases by 1, so increase the following numbers by 1: his spell save DC and the bonus to hit of his spell attacks, the bonuses in the Saving Throws and Skills entries, and the bonuses to hit of his weapon attacks. Spellcasting. Hrigg gains two 3rd-level spell slots. He also learns a 3rd-level spell: {@spell señal de esperanza}."
 								],
 								[
 									"10th",
@@ -3648,7 +3648,7 @@
 								"3": {
 									"slots": 2,
 									"spells": [
-										"{@spell beacon of hope}"
+										"{@spell señal de esperanza}"
 									]
 								}
 							},
@@ -3729,7 +3729,7 @@
 								"3": {
 									"slots": 3,
 									"spells": [
-										"{@spell beacon of hope}",
+										"{@spell señal de esperanza}",
 										"{@spell spirit guardians}"
 									]
 								}
@@ -4205,7 +4205,7 @@
 								"3": {
 									"slots": 2,
 									"spells": [
-										"{@spell beacon of hope}"
+										"{@spell señal de esperanza}"
 									]
 								}
 							},
@@ -6861,7 +6861,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell mage armor}"
 						],
 						"1e": [
@@ -6966,7 +6966,7 @@
 			"type": {
 				"type": "undead",
 				"tags": [
-					"paladin"
+					"paladín"
 				]
 			},
 			"alignment": [
@@ -7034,7 +7034,7 @@
 						],
 						"2e": [
 							"{@spell dispel magic}",
-							"{@spell hold person} (cast at 3rd level)"
+							"{@spell inmovilizar persona} (cast at 3rd level)"
 						]
 					},
 					"ability": "cha",
@@ -7929,7 +7929,7 @@
 								[
 									"7th",
 									"44 ({@dice 8d6 + 16})",
-									"Spellcasting. Tem gains one 2nd-level spell slot. She also learns another 2nd-level spell: {@spell enhance ability}."
+									"Spellcasting. Tem gains one 2nd-level spell slot. She also learns another 2nd-level spell: {@spell potenciar característica}."
 								],
 								[
 									"8th",
@@ -8045,7 +8045,7 @@
 								"2": {
 									"slots": 1,
 									"spells": [
-										"{@spell enhance ability}"
+										"{@spell potenciar característica}"
 									]
 								}
 							},
@@ -8126,7 +8126,7 @@
 								"2": {
 									"slots": 1,
 									"spells": [
-										"{@spell enhance ability}"
+										"{@spell potenciar característica}"
 									]
 								},
 								"3": {
@@ -8472,7 +8472,7 @@
 								"2": {
 									"slots": 1,
 									"spells": [
-										"{@spell enhance ability}"
+										"{@spell potenciar característica}"
 									]
 								}
 							},
@@ -8552,7 +8552,7 @@
 								"2": {
 									"slots": 1,
 									"spells": [
-										"{@spell enhance ability}"
+										"{@spell potenciar característica}"
 									]
 								}
 							},
@@ -8632,7 +8632,7 @@
 								"2": {
 									"slots": 1,
 									"spells": [
-										"{@spell enhance ability}"
+										"{@spell potenciar característica}"
 									]
 								}
 							},

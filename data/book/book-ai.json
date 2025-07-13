@@ -2113,7 +2113,7 @@
 													"A thick, battle-scarred iron lockbox"
 												],
 												[
-													"Paladin",
+													"Paladín",
 													"A metal case with fine engraving and scrollwork"
 												],
 												[
@@ -2622,7 +2622,7 @@
 												],
 												[
 													"5",
-													"You think you might be addicted to holy water. You just can't stop drinking it long enough to find out for sure."
+													"You think you might be addicted to Agua bendita. You just can't stop drinking it long enough to find out for sure."
 												],
 												[
 													"6",
@@ -5118,7 +5118,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Paladin",
+							"name": "Paladín",
 							"page": 62,
 							"entries": [
 								"{@i My companions did what!? The screams could be heard from how far away}!?",
@@ -5283,10 +5283,10 @@
 								},
 								{
 									"type": "entries",
-									"name": "Oath of Vengeance",
+									"name": "Juramento de venganza",
 									"page": 64,
 									"entries": [
-										"The fury brought to bear by an Oath of Vengeance paladin fits well into most Acquisitions Incorporated campaigns. Those who break contracts, renege on deals, fail to repay debts, or otherwise break their word can expect a visit from you in your role as the executor of vengeance. And if your fellow franchisees can make a bit of profit by picking up the pieces when your job is done, then everyone's happy."
+										"The fury brought to bear by an Juramento de venganza paladin fits well into most Acquisitions Incorporated campaigns. Those who break contracts, renege on deals, fail to repay debts, or otherwise break their word can expect a visit from you in your role as the executor of vengeance. And if your fellow franchisees can make a bit of profit by picking up the pieces when your job is done, then everyone's happy."
 									],
 									"id": "127"
 								}
@@ -6340,7 +6340,7 @@
 									"name": "Conjuration",
 									"page": 72,
 									"entries": [
-										"The ability to make something from nothing is the greatest business plan ever developed\u2014and that plan has your name all over it. As a conjurer, your utility to your franchise knows no bounds, whether you're creating the right tool for the job, summoning creatures for scouting or guard duty, or using {@spell dimension door} to slip away from a deal gone bad. The hard part of that last one is always figuring out which of your franchise mates you'll bring with you. Who's been particularly nice to you lately?"
+										"The ability to make something from nothing is the greatest business plan ever developed\u2014and that plan has your name all over it. As a conjurer, your utility to your franchise knows no bounds, whether you're creating the right tool for the job, summoning creatures for scouting or guard duty, or using {@spell puerta dimensional} to slip away from a deal gone bad. The hard part of that last one is always figuring out which of your franchise mates you'll bring with you. Who's been particularly nice to you lately?"
 									],
 									"id": "15a"
 								},

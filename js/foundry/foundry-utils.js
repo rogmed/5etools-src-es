@@ -15,7 +15,7 @@ export class UtilsFoundryItem {
 		"mask of",
 		"rings? of",
 
-		"amulet",
+		"amuleto",
 		"belt",
 		"boots",
 		"bracelet",

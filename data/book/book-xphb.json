@@ -4138,7 +4138,7 @@
 											"High"
 										],
 										[
-											"{@class Paladin|XPHB}",
+											"{@class Paladín|XPHB}",
 											"Defense",
 											"Strength and Charisma",
 											"Average"
@@ -4194,7 +4194,7 @@
 												{
 													"type": "item",
 													"name": "Fighter:",
-													"entry": "Replace with {@class Bárbaro|XPHB}, {@class Monje|XPHB}, {@class Paladin|XPHB}, or {@class Explorador|XPHB}"
+													"entry": "Replace with {@class Bárbaro|XPHB}, {@class Monje|XPHB}, {@class Paladín|XPHB}, or {@class Explorador|XPHB}"
 												},
 												{
 													"type": "item",
@@ -4749,7 +4749,7 @@
 													"8"
 												],
 												[
-													"{@class Paladin|XPHB}",
+													"{@class Paladín|XPHB}",
 													"15",
 													"10",
 													"13",
@@ -5504,7 +5504,7 @@
 															"12 + Con. modifier"
 														],
 														[
-															"{@class Guerrero|XPHB}, {@class Paladin|XPHB}, or {@class Explorador|XPHB}",
+															"{@class Guerrero|XPHB}, {@class Paladín|XPHB}, or {@class Explorador|XPHB}",
 															"10 + Con. modifier"
 														],
 														[
@@ -5814,7 +5814,7 @@
 															"7 + Con. modifier"
 														],
 														[
-															"{@class Guerrero|XPHB}, {@class Paladin|XPHB}, or {@class Explorador|XPHB}",
+															"{@class Guerrero|XPHB}, {@class Paladín|XPHB}, or {@class Explorador|XPHB}",
 															"6 + Con. modifier"
 														],
 														[
@@ -6623,7 +6623,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "{@class Paladin|XPHB}",
+									"name": "{@class Paladín|XPHB}",
 									"page": 108,
 									"entries": [
 										"Smite foes and shield allies with divine and martial might. Then swear the Oath of...",
@@ -6631,10 +6631,10 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Paladin|XPHB|Oath of Devotion|Devotion|XPHB} to emulate the angels of justice.",
-												"{@class Paladin|XPHB|Oath of Glory|Glory|XPHB} to reach the heights of heroism.",
-												"{@class Paladin|XPHB|Oath of the Ancients|Ancients|XPHB} to preserve life, joy, and nature.",
-												"{@class Paladin|XPHB|Oath of Vengeance|Vengeance|XPHB} to hunt down evildoers."
+												"{@class Paladín|XPHB|Oath of Devotion|Devotion|XPHB} to emulate the angels of justice.",
+												"{@class Paladín|XPHB|Juramento de gloria|Gloria|XPHB} to reach the heights of heroísmo.",
+												"{@class Paladín|XPHB|Juramento de los antiguos|Antiguos|XPHB} to preserve life, joy, and nature.",
+												"{@class Paladín|XPHB|Juramento de venganza|Venganza|XPHB} to hunt down evildoers."
 											]
 										}
 									],
@@ -9084,7 +9084,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "{@item Arcane Focus|XPHB}, {@item Holy Symbol|XPHB}"
+													"entry": "{@item Arcane Focus|XPHB}, {@item símbolo sagrado|XPHB}"
 												}
 											]
 										}
@@ -9186,7 +9186,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "{@item Druidic Focus|XPHB}, {@item Holy Symbol|XPHB}"
+													"entry": "{@item Druidic Focus|XPHB}, {@item símbolo sagrado|XPHB}"
 												}
 											]
 										}
@@ -9220,7 +9220,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "{@item Jug|XPHB}, {@item Lamp|XPHB}"
+													"entry": "{@item Jug|XPHB}, {@item lámpara|XPHB}"
 												}
 											]
 										}
@@ -9322,7 +9322,7 @@
 												{
 													"type": "item",
 													"name": "Craft",
-													"entry": "{@item Armadura acolchada|XPHB}, {@item Basket|XPHB}, {@item Bedroll|XPHB}, {@item Blanket|XPHB}, {@item Fine Clothes|XPHB}, {@item Net|XPHB}, {@item Robe|XPHB}, {@item Cuerda|XPHB}, {@item Sack|XPHB}, {@item String|XPHB}, {@item Tent|XPHB}, {@item Traveler's Clothes|XPHB}"
+													"entry": "{@item Armadura acolchada|XPHB}, {@item Basket|XPHB}, {@item Bedroll|XPHB}, {@item Manta|XPHB}, {@item Fine Clothes|XPHB}, {@item Net|XPHB}, {@item Túnica|XPHB}, {@item Cuerda|XPHB}, {@item Sack|XPHB}, {@item String|XPHB}, {@item Tent|XPHB}, {@item Traveler's Clothes|XPHB}"
 												}
 											]
 										}
@@ -9730,7 +9730,7 @@
 									"1 GP"
 								],
 								[
-									"{@item Blanket|XPHB}",
+									"{@item Manta|XPHB}",
 									"3 lb.",
 									"5 SP"
 								],
@@ -9860,12 +9860,12 @@
 									"5 GP"
 								],
 								[
-									"{@item Holy Symbol|XPHB}",
+									"{@item símbolo sagrado|XPHB}",
 									"Varies",
 									"Varies"
 								],
 								[
-									"{@item Holy Water|XPHB}",
+									"{@item Agua bendita|XPHB}",
 									"1 lb.",
 									"25 GP"
 								],
@@ -9895,7 +9895,7 @@
 									"1 SP"
 								],
 								[
-									"{@item Lamp|XPHB}",
+									"{@item lámpara|XPHB}",
 									"1 lb.",
 									"5 SP"
 								],
@@ -9985,7 +9985,7 @@
 									"5 SP"
 								],
 								[
-									"{@item Priest's Pack|XPHB}",
+									"{@item Paquete de sacerdote|XPHB}",
 									"29 lb.",
 									"33 GP"
 								],
@@ -10005,7 +10005,7 @@
 									"5 SP"
 								],
 								[
-									"{@item Robe|XPHB}",
+									"{@item Túnica|XPHB}",
 									"4 lb.",
 									"1 GP"
 								],
@@ -10457,7 +10457,7 @@
 									"page": 225,
 									"id": "6c7",
 									"entries": [
-										"A Diplomat's Pack contains the following items: {@item Chest|XPHB}, {@item Fine Clothes|XPHB}, {@item Ink|XPHB}, 5 {@item Ink Pen|XPHB|Ink Pens}, {@item Lamp|XPHB}, 2 {@item Map or Scroll Case|XPHB|Map or Scroll Cases}, 4 flasks of {@item Aceite|XPHB}, 5 sheets of {@item Paper|XPHB}, 5 sheets of {@item Parchment|XPHB}, {@item Perfume|XPHB}, and {@item Yesquero|XPHB}."
+										"A Diplomat's Pack contains the following items: {@item Chest|XPHB}, {@item Fine Clothes|XPHB}, {@item Ink|XPHB}, 5 {@item Ink Pen|XPHB|Ink Pens}, {@item lámpara|XPHB}, 2 {@item Map or Scroll Case|XPHB|Map or Scroll Cases}, 4 flasks of {@item Aceite|XPHB}, 5 sheets of {@item Paper|XPHB}, 5 sheets of {@item Parchment|XPHB}, {@item Perfume|XPHB}, and {@item Yesquero|XPHB}."
 									]
 								},
 								{
@@ -10581,12 +10581,12 @@
 											],
 											"rows": [
 												[
-													"{@item Amulet|XPHB} (worn or held)",
+													"{@item amuleto|XPHB} (worn or held)",
 													"1 lb.",
 													"5 GP"
 												],
 												[
-													"{@item Emblem|XPHB} (borne on fabric or a Shield)",
+													"{@item Emblema|XPHB} (borne on fabric or a Shield)",
 													"\u2014",
 													"5 GP"
 												],
@@ -10601,11 +10601,11 @@
 								},
 								{
 									"type": "entries",
-									"name": "Holy Water (25 GP)",
+									"name": "Agua bendita (25 GP)",
 									"page": 226,
 									"id": "6d0",
 									"entries": [
-										"When you take the {@action Attack|XPHB} action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw ({@dc 8} plus your Dexterity modifier and Proficiency Bonus) or take {@dice 2d8} Radiant damage if it is a Fiend or an Undead."
+										"When you take the {@action Attack|XPHB} action, you can replace one of your attacks with throwing a flask of Agua bendita. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw ({@dc 8} plus your Dexterity modifier and Proficiency Bonus) or take {@dice 2d8} Radiant damage if it is a Fiend or an Undead."
 									]
 								},
 								{
@@ -10857,11 +10857,11 @@
 								},
 								{
 									"type": "entries",
-									"name": "Priest's Pack (33 GP)",
+									"name": "Paquete de sacerdote (33 GP)",
 									"page": 228,
 									"id": "6eb",
 									"entries": [
-										"A Priest's Pack contains the following items: {@item Mochila|XPHB}, {@item Blanket|XPHB}, {@item Holy Water|XPHB}, {@item Lamp|XPHB}, 7 days of {@item Raciones|XPHB}, {@item Robe|XPHB}, and {@item Yesquero|XPHB}."
+										"A Paquete de sacerdote contains the following items: {@item Mochila|XPHB}, {@item Manta|XPHB}, {@item Agua bendita|XPHB}, {@item lámpara|XPHB}, 7 days of {@item Raciones|XPHB}, {@item Túnica|XPHB}, and {@item Yesquero|XPHB}."
 									]
 								},
 								{
@@ -10925,7 +10925,7 @@
 									"page": 228,
 									"id": "6f2",
 									"entries": [
-										"A Scholar's Pack contains the following items: {@item Mochila|XPHB}, {@item Book|XPHB}, {@item Ink|XPHB}, {@item Ink Pen|XPHB}, {@item Lamp|XPHB}, 10 flasks of {@item Aceite|XPHB}, 10 sheets of {@item Parchment|XPHB}, and {@item Yesquero|XPHB}."
+										"A Scholar's Pack contains the following items: {@item Mochila|XPHB}, {@item Book|XPHB}, {@item Ink|XPHB}, {@item Ink Pen|XPHB}, {@item lámpara|XPHB}, 10 flasks of {@item Aceite|XPHB}, 10 sheets of {@item Parchment|XPHB}, and {@item Yesquero|XPHB}."
 									]
 								},
 								{
@@ -10998,7 +10998,7 @@
 									"page": 229,
 									"id": "6fa",
 									"entries": [
-										"A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a {@item Vela|XPHB}, {@item Lamp|XPHB}, Lantern, or {@item Antorcha|XPHB}\u2014or anything else with exposed fuel\u2014takes a Bonus Action. Lighting any other fire takes 1 minute."
+										"A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a {@item Vela|XPHB}, {@item lámpara|XPHB}, Lantern, or {@item Antorcha|XPHB}\u2014or anything else with exposed fuel\u2014takes a Bonus Action. Lighting any other fire takes 1 minute."
 									]
 								},
 								{
@@ -12138,7 +12138,7 @@
 											"Any"
 										],
 										[
-											"{@class Paladin|XPHB}",
+											"{@class Paladín|XPHB}",
 											"Finish a Long Rest",
 											"One"
 										],
@@ -12652,9 +12652,9 @@
 							"items": [
 								"{@spell Perdición|XPHB}",
 								"{@spell Banishing Smite|XPHB}",
-								"{@spell Banishment|XPHB}",
+								"{@spell Destierro|XPHB}",
 								"{@spell Barkskin|XPHB}",
-								"{@spell Beacon of Hope|XPHB}",
+								"{@spell Señal de esperanza|XPHB}",
 								"{@spell Beast Sense|XPHB}",
 								"{@spell Befuddlement|XPHB}",
 								"{@spell Bestow Curse|XPHB}",
@@ -12690,11 +12690,11 @@
 								"{@spell Cloudkill|XPHB}",
 								"{@spell Color Spray|XPHB}",
 								"{@spell Orden imperiosa|XPHB}",
-								"{@spell Commune|XPHB}",
-								"{@spell Commune with Nature|XPHB}",
-								"{@spell Compelled Duel|XPHB}",
+								"{@spell Comunión|XPHB}",
+								"{@spell Comunión con la naturaleza|XPHB}",
+								"{@spell Duelo forzado|XPHB}",
 								"{@spell Comprehend Languages|XPHB}",
-								"{@spell Compulsion|XPHB}",
+								"{@spell Compulsión|XPHB}",
 								"{@spell Cono de frío|XPHB}",
 								"{@spell Confusion|XPHB}",
 								"{@spell Conjurar animales|XPHB}",
@@ -12746,8 +12746,8 @@
 								"{@spell Disipar magia|XPHB}",
 								"{@spell Susurros discordantes|XPHB}",
 								"{@spell Divination|XPHB}",
-								"{@spell Divine Favor|XPHB}",
-								"{@spell Divine Smite|XPHB}",
+								"{@spell Favor divino|XPHB}",
+								"{@spell Castigo divino|XPHB}",
 								"{@spell Divine Word|XPHB}",
 								"{@spell Dominate Beast|XPHB}",
 								"{@spell Dominate Monster|XPHB}",
@@ -12790,7 +12790,7 @@
 								"{@spell Feather Fall|XPHB}",
 								"{@spell Feign Death|XPHB}",
 								"{@spell Encontrar familiar|XPHB}",
-								"{@spell Find Steed|XPHB}",
+								"{@spell Hallar corcel|XPHB}",
 								"{@spell Find the Path|XPHB}",
 								"{@spell Find Traps|XPHB}",
 								"{@spell Finger of Death|XPHB}",
@@ -12830,7 +12830,7 @@
 								"{@spell Grease|XPHB}",
 								"{@spell Invisibilidad mejorada|XPHB}",
 								"{@spell Restablecimiento mayor|XPHB}",
-								"{@spell Guardian of Faith|XPHB}",
+								"{@spell Guardián de la fe|XPHB}",
 								"{@spell Guards and Wards|XPHB}",
 								"{@spell Guía|XPHB}",
 								"{@spell Saeta guía|XPHB}",
@@ -12843,10 +12843,10 @@
 							"columns": 3,
 							"items": [
 								"{@spell Tormenta de espinas|XPHB}",
-								"{@spell Hallow|XPHB}",
+								"{@spell Consagrar|XPHB}",
 								"{@spell Hallucinatory Terrain|XPHB}",
 								"{@spell Harm|XPHB}",
-								"{@spell Haste|XPHB}",
+								"{@spell Acelerar|XPHB}",
 								"{@spell Heal|XPHB}",
 								"{@spell Palabra de curación|XPHB}",
 								"{@spell Calentar metal|XPHB}",
@@ -12900,7 +12900,7 @@
 							"style": "list-hang-notitle",
 							"columns": 3,
 							"items": [
-								"{@spell Legend Lore|XPHB}",
+								"{@spell Conocer las leyendas|XPHB}",
 								"{@spell Leomund's Secret Chest|XPHB}",
 								"{@spell Leomund's Tiny Hut|XPHB}",
 								"{@spell Restablecimiento menor|XPHB}",
@@ -12986,7 +12986,7 @@
 								"{@spell Planar Ally|XPHB}",
 								"{@spell Planar Binding|XPHB}",
 								"{@spell Plane Shift|XPHB}",
-								"{@spell Plant Growth|XPHB}",
+								"{@spell Crecimiento vegetal|XPHB}",
 								"{@spell Rociada venenosa|XPHB}",
 								"{@spell Polimorfar|XPHB}",
 								"{@spell Power Word Fortify|XPHB}",
@@ -13000,7 +13000,7 @@
 								"{@spell Crear llama|XPHB}",
 								"{@spell Programmed Illusion|XPHB}",
 								"{@spell Project Image|XPHB}",
-								"{@spell Protection from Energy|XPHB}",
+								"{@spell Protección contra energía|XPHB}",
 								"{@spell Protección contra el bien y el mal|XPHB}",
 								"{@spell Protection from Poison|XPHB}",
 								"{@spell Purificar comida y bebida|XPHB}"
@@ -13035,7 +13035,7 @@
 								"{@spell Santuario|XPHB}",
 								"{@spell Rayo abrasador|XPHB}",
 								"{@spell Escudriñar|XPHB}",
-								"{@spell Searing Smite|XPHB}",
+								"{@spell Castigo abrasador|XPHB}",
 								"{@spell Ver invisibilidad|XPHB}",
 								"{@spell Apariencia|XPHB}",
 								"{@spell Recado|XPHB}",
@@ -13067,7 +13067,7 @@
 								"{@spell Golpe de viento acerado|XPHB}",
 								"{@spell Nube apestosa|XPHB}",
 								"{@spell Stone Shape|XPHB}",
-								"{@spell Stoneskin|XPHB}",
+								"{@spell Piel pétrea|XPHB}",
 								"{@spell Storm of Vengeance|XPHB}",
 								"{@spell Sugestión|XPHB}",
 								"{@spell Invocar aberración|XPHB}",
@@ -13101,7 +13101,7 @@
 								"{@spell Taumaturgia|XPHB}",
 								"{@spell Látigo de espinas|XPHB}",
 								"{@spell Tronar|XPHB}",
-								"{@spell Thunderous Smite|XPHB}",
+								"{@spell Castigo atronador|XPHB}",
 								"{@spell Ola atronadora|XPHB}",
 								"{@spell Time Stop|XPHB}",
 								"{@spell Tañido por los muertos|XPHB}",
@@ -13154,7 +13154,7 @@
 								"{@spell Witch Bolt|XPHB}",
 								"{@spell Palabra de resplandor|XPHB}",
 								"{@spell Word of Recall|XPHB}",
-								"{@spell Wrathful Smite|XPHB}"
+								"{@spell castigo furioso|XPHB}"
 							]
 						},
 						{
@@ -13162,7 +13162,7 @@
 							"style": "list-hang-notitle",
 							"columns": 3,
 							"items": [
-								"{@spell Yolande's Regal Presence|XPHB}"
+								"{@spell Presencia regia de Yolande|XPHB}"
 							]
 						},
 						{

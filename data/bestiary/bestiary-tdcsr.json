@@ -286,13 +286,13 @@
 							"spells": [
 								"{@spell daylight}",
 								"{@spell dispel magic}",
-								"{@spell protection from energy}"
+								"{@spell protección contra energía}"
 							]
 						},
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell freedom of movement}",
+								"{@spell libertad de movimiento}",
 								"{@spell wall of fire}"
 							]
 						},
@@ -617,7 +617,7 @@
 						},
 						"2": {
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spike growth}"
 							],
 							"slots": 2
@@ -2977,7 +2977,7 @@
 							{
 								"name": "Summoned Nature",
 								"entries": [
-									"When a goat-knight steed drops to 0 hit points, it disappears, leaving behind no physical form. The {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} can also dismiss the steed at any time as an action, causing it to disappear. In either case, the same steed is summoned when the {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} casts {@spell find steed}."
+									"When a goat-knight steed drops to 0 hit points, it disappears, leaving behind no physical form. The {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} can also dismiss the steed at any time as an action, causing it to disappear. In either case, the same steed is summoned when the {@creature Kraghammer Goat-Knight|TDCSR|goat-knight} casts {@spell hallar corcel}."
 								]
 							}
 						]
@@ -3115,7 +3115,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Grog wears a {@item belt of dwarvenkind}. He wields the {@item Bloodaxe|EGW} (a +2 magic weapon), a {@item dwarven thrower}, and the {@item Titanstone Knuckles (Exalted)|TDCSR|Titanstone Knuckles}."
+						"Grog wears a {@item belt of dwarvenkind}. He wields the {@item Bloodaxe|EGW} (a +2 arma mágica), a {@item dwarven thrower}, and the {@item Titanstone Knuckles (Exalted)|TDCSR|Titanstone Knuckles}."
 					]
 				},
 				{
@@ -3761,7 +3761,7 @@
 							"spells": [
 								"{@spell bless}",
 								"{@spell cure wounds}",
-								"{@spell protection from evil and good}",
+								"{@spell protección contra el bien y el mal}",
 								"{@spell sanctuary}",
 								"{@spell shield of faith}"
 							],
@@ -3770,7 +3770,7 @@
 						"2": {
 							"spells": [
 								"{@spell branding smite}",
-								"{@spell find steed} ({@creature Goat-Knight Steed|TDCSR} only)",
+								"{@spell hallar corcel} ({@creature Goat-Knight Steed|TDCSR} only)",
 								"{@spell lesser restoration}",
 								"{@spell zone of truth}"
 							],
@@ -4657,7 +4657,7 @@
 							"spells": [
 								"{@spell command}",
 								"{@spell cure wounds}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell healing word}",
 								"{@spell sanctuary}",
 								"{@spell shield of faith}"
@@ -4676,7 +4676,7 @@
 							"spells": [
 								"{@spell glyph of warding}",
 								"{@spell mass healing word}",
-								"{@spell protection from energy}",
+								"{@spell protección contra energía}",
 								"{@spell revivify}",
 								"{@spell speak with dead}"
 							]
@@ -4685,8 +4685,8 @@
 							"slots": 3,
 							"spells": [
 								"{@spell death ward}",
-								"{@spell freedom of movement}",
-								"{@spell guardian of faith}"
+								"{@spell libertad de movimiento}",
+								"{@spell guardián de la fe}"
 							]
 						},
 						"5": {
@@ -6189,7 +6189,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blindness/deafness}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell invisibility}",
 								"{@spell suggestion}"
 							]
@@ -6205,7 +6205,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell polymorph}",
 								"{@spell Otiluke's Resilient Sphere||resilient sphere}"
 							]
@@ -6441,7 +6441,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell heroism}",
+								"{@spell heroísmo}",
 								"{@spell identify}",
 								"{@spell shield}"
 							]
@@ -6803,7 +6803,7 @@
 						},
 						"4": {
 							"spells": [
-								"{@spell freedom of movement}",
+								"{@spell libertad de movimiento}",
 								"{@spell grasping vine}"
 							],
 							"slots": 1

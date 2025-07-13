@@ -33,7 +33,7 @@
 								"\u00A0",
 								"Scowling, all-wise Annam spoke to his daughter:",
 								"\"Mighty are my sons in strength,",
-								"And Hiatea, your half sister, her heroism showed",
+								"And Hiatea, your half sister, her heroísmo showed",
 								"In slaying a many-headed monster.",
 								"What such deeds have you done?\"",
 								"\u00A0",
@@ -1505,7 +1505,7 @@
 								],
 								[
 									"2",
-									"The characters acquire a broken magic weapon that only a renowned fire giant smith can repair."
+									"The characters acquire a broken arma mágica that only a renowned fire giant smith can repair."
 								],
 								[
 									"3",
@@ -4219,11 +4219,11 @@
 						},
 						{
 							"type": "entries",
-							"name": "Giants and Other Ancients",
+							"name": "Giants and Other Antiguos",
 							"page": 63,
 							"id": "0b0",
 							"entries": [
-								"In the mythic history of most D&D worlds, giants occupy a privileged place\u2014alongside dragons\u2014among the first sapient creatures to walk the earth. Elves and dwarves arose or arrived on most worlds later, and other peoples are generally considered by these ancient folk to be younger in terms of the history of these worlds. Considering the relationships among these ancients\u2014both in history and in their current form\u2014can be an interesting way to develop a campaign that prominently features giants.",
+								"In the mythic history of most D&D worlds, giants occupy a privileged place\u2014alongside dragons\u2014among the first sapient creatures to walk the earth. Elves and dwarves arose or arrived on most worlds later, and other peoples are generally considered by these ancient folk to be younger in terms of the history of these worlds. Considering the relationships among these antiguos\u2014both in history and in their current form\u2014can be an interesting way to develop a campaign that prominently features giants.",
 								{
 									"type": "entries",
 									"name": "Ancient History",
@@ -4237,7 +4237,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "War of the Ancients",
+									"name": "War of the Antiguos",
 									"page": 64,
 									"id": "0b2",
 									"entries": [
@@ -4252,7 +4252,7 @@
 											"width": 850,
 											"height": 2226
 										},
-										"You might also decide to create a campaign where the conflicts among the ancients, like the Thousand-Year War between giants and dragons in the Forgotten Realms, are not a matter of ancient history but a present reality. You could build an entire campaign in the shadow of such a conflict, which is basically taking the ideas described under \"{@book Clash of Titans|BGG|3|Clash of Titans}\" earlier in this chapter and extending them through many adventures.",
+										"You might also decide to create a campaign where the conflicts among the antiguos, like the Thousand-Year War between giants and dragons in the Forgotten Realms, are not a matter of ancient history but a present reality. You could build an entire campaign in the shadow of such a conflict, which is basically taking the ideas described under \"{@book Clash of Titans|BGG|3|Clash of Titans}\" earlier in this chapter and extending them through many adventures.",
 										"The war might not be a simple two-sided conflict between giants and dragons. Perhaps elves, dwarves, good giants, and metallic dragons joined forces against a two-pronged assault from evil giants and chromatic dragons. Or war might be raging between dragons and elves while giants strive to protect smaller peoples from the fallout.",
 										"Other peoples and monsters might be involved. The war might be a largely subterranean clash between stone giants and mind flayers while dwarves and drow seek to escape the earth-shaking and cavern-collapsing aftershocks of battles. Or storm giants might combat krakens and other nightmares of the deep while coastal cities and merchant ships struggle to endure devastating storms and tidal waves.",
 										"The Thousand-Year War in the Forgotten Realms lasted a thousand years for good reason: neither giants nor dragons were ever particularly numerous, and actual skirmishes between giants and dragons were rare. For this reason, you could run a campaign where battles between the warring parties are isolated events along the lines of the world-shaking events described in \"{@book Campaign Events|BGG|3|Campaign Events}.\" You might begin the campaign with one such battle, have the adventurers spend months or even years dealing with the aftereffects of the cataclysmic battle, then send your campaign in a new direction with a second battle. Maybe a third, truly cataclysmic battle\u2014in which the adventurers are now high enough level to participate in the combat and turn it in favor of one side or the other\u2014brings the campaign to a close."
@@ -4718,7 +4718,7 @@
 										{
 											"type": "item",
 											"name": "Ordning's Path",
-											"entry": "A creature who spends 8 hours meditating in the grotto on the nature of order and the rightful course of history can cast one of the following spells at the end of that time (no additional casting time or spell components required): {@spell legend lore}, {@spell greater restoration}, or {@spell remove curse} (cast at 9th level). The spellcasting ability for the spell is the creature's choice of Intelligence, Wisdom, or Charisma. After casting the spell, the creature gains 2 levels of {@condition cansancio}."
+											"entry": "A creature who spends 8 hours meditating in the grotto on the nature of order and the rightful course of history can cast one of the following spells at the end of that time (no additional casting time or spell components required): {@spell conocer las leyendas}, {@spell greater restoration}, or {@spell remove curse} (cast at 9th level). The spellcasting ability for the spell is the creature's choice of Intelligence, Wisdom, or Charisma. After casting the spell, the creature gains 2 levels of {@condition cansancio}."
 										}
 									]
 								}
@@ -4843,7 +4843,7 @@
 										{
 											"type": "item",
 											"name": "Dreaming Intuition",
-											"entry": "The creature casts either the {@spell commune} or the {@spell divination} spell as it sleeps, requiring no additional casting time, action, or spell components. The spells tap into a collective reservoir of dreams, and the answers come as dream imagery. This reservoir can answer the caster's questions if the subject has ever been dreamed of."
+											"entry": "The creature casts either the {@spell comunión} or the {@spell divination} spell as it sleeps, requiring no additional casting time, action, or spell components. The spells tap into a collective reservoir of dreams, and the answers come as dream imagery. This reservoir can answer the caster's questions if the subject has ever been dreamed of."
 										}
 									]
 								},
@@ -5184,7 +5184,7 @@
 					"page": 78,
 					"id": "0e7",
 					"entries": [
-						"The coral-covered ruins of a storm giant retreat cling to the ocean floor at the edge of an undersea trench. Storm giants once used this place as a haven to contemplate omens, to refine experimental magic, and to commune with the ocean. Its peace shattered when death giants from the Shadowfell found a lightless river that led into the trench and killed the retreat's original inhabitants.",
+						"The coral-covered ruins of a storm giant retreat cling to the ocean floor at the edge of an undersea trench. Storm giants once used this place as a haven to contemplate omens, to refine experimental magic, and to comunión with the ocean. Its peace shattered when death giants from the Shadowfell found a lightless river that led into the trench and killed the retreat's original inhabitants.",
 						"Portions of the retreat still hold foul air, but most areas have been flooded by the cold deep. The retreat's runic circle still channels elemental power from a portal to the Plane of Water deep in the trench, and crystalline archives hold lost knowledge of the giants who built them.",
 						{
 							"type": "entries",
@@ -5279,7 +5279,7 @@
 										{
 											"type": "item",
 											"name": "Lightning Archive",
-											"entry": "A creature touching an archive can use an action to access the stored knowledge. Roll a {@dice d10}. On a 1 or 2, the archive surges with lightning. Each creature in the room must make a {@dc 15} Dexterity saving throw, taking 22 ({@dice 4d10}) lightning damage on a failed save, or half as much on a successful one. If the {@dice d10} roll was 3 or higher, the creature can query the archive as by a {@spell commune} spell. Once a creature uses the archive successfully, that creature can't do so again for 24 hours."
+											"entry": "A creature touching an archive can use an action to access the stored knowledge. Roll a {@dice d10}. On a 1 or 2, the archive surges with lightning. Each creature in the room must make a {@dc 15} Dexterity saving throw, taking 22 ({@dice 4d10}) lightning damage on a failed save, or half as much on a successful one. If the {@dice d10} roll was 3 or higher, the creature can query the archive as by a {@spell comunión} spell. Once a creature uses the archive successfully, that creature can't do so again for 24 hours."
 										},
 										{
 											"type": "item",
@@ -6213,7 +6213,7 @@
 										{
 											"type": "item",
 											"name": "Psychic Well",
-											"entry": "A creature can try to harness the psychic power of the well by gazing into it for 1 minute while remaining within 10 feet of the well. At the end of the minute, the creature must make a {@dc 15} Intelligence saving throw. On a failed save, the creature takes 22 ({@dice 4d10}) psychic damage and gains 1 level of {@condition cansancio}. On a successful save, the creature gains a psychic gift of its choice: either the ability to cast the {@spell dimension door} spell requiring no spell components, or the use of a {@creature Mind Flayer||mind flayer's} Mind Blast action. The psychic gift fades when the creature uses it, or if it tries to harness the well again. While this psychic gift is available, the creature also gains telepathy to a range of 30 feet (as described in the {@book Monster Manual|MM}). Once a creature attempts to harness the power of the well, the creature can't do so again until it finishes a long rest."
+											"entry": "A creature can try to harness the psychic power of the well by gazing into it for 1 minute while remaining within 10 feet of the well. At the end of the minute, the creature must make a {@dc 15} Intelligence saving throw. On a failed save, the creature takes 22 ({@dice 4d10}) psychic damage and gains 1 level of {@condition cansancio}. On a successful save, the creature gains a psychic gift of its choice: either the ability to cast the {@spell puerta dimensional} spell requiring no spell components, or the use of a {@creature Mind Flayer||mind flayer's} Mind Blast action. The psychic gift fades when the creature uses it, or if it tries to harness the well again. While this psychic gift is available, the creature also gains telepathy to a range of 30 feet (as described in the {@book Monster Manual|MM}). Once a creature attempts to harness the power of the well, the creature can't do so again until it finishes a long rest."
 										},
 										{
 											"type": "item",
@@ -6377,7 +6377,7 @@
 									"page": 92,
 									"id": "124",
 									"entries": [
-										"The guardian of the vale (appearing as an {@creature androsphinx}) demands a golden apple from {@book Grolantor's Larder|BGG|4|Grolantor's Larder} (in this chapter) in exchange for safe passage to a destination of the characters' choice. At the larder, a {@creature hill giant avalancher|BGG} (see {@book chapter 6|BGG|6|Hill Giant Avalancher}) hoards three golden apples, which act as {@item Potion of Heroism||potions of heroism}, and leads a band from the {@book Hill Giant Encounters table|BGG|3|Hill Giant Encounters} in {@book chapter 3|BGG|3}."
+										"The guardian of the vale (appearing as an {@creature androsphinx}) demands a golden apple from {@book Grolantor's Larder|BGG|4|Grolantor's Larder} (in this chapter) in exchange for safe passage to a destination of the characters' choice. At the larder, a {@creature hill giant avalancher|BGG} (see {@book chapter 6|BGG|6|Hill Giant Avalancher}) hoards three golden apples, which act as {@item Potion of Heroism||potions of heroísmo}, and leads a band from the {@book Hill Giant Encounters table|BGG|3|Hill Giant Encounters} in {@book chapter 3|BGG|3}."
 									]
 								},
 								{
@@ -6620,7 +6620,7 @@
 									"page": 96,
 									"id": "132",
 									"entries": [
-										"{@creature Goliath giant-kin|BGG} escort a nervous {@creature stone giant rockspeaker|BGG} (both in {@book chapter 6|BGG|6}) who needs to commune with his dreams within the crystal sand fortress at night. While he does, creatures from the {@book Fiendish Incursion Encounters|BGG|3|Fiendish Incursion Encounters} and {@book Elemental Earth Encounters|BGG|3|Elemental Earth Encounters} tables in {@book chapter 3|BGG|3} manifest from the sand and attack."
+										"{@creature Goliath giant-kin|BGG} escort a nervous {@creature stone giant rockspeaker|BGG} (both in {@book chapter 6|BGG|6}) who needs to comunión with his dreams within the crystal sand fortress at night. While he does, creatures from the {@book Fiendish Incursion Encounters|BGG|3|Fiendish Incursion Encounters} and {@book Elemental Earth Encounters|BGG|3|Elemental Earth Encounters} tables in {@book chapter 3|BGG|3} manifest from the sand and attack."
 									]
 								},
 								{

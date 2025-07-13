@@ -872,7 +872,7 @@
 							"spells": [
 								"{@spell fabricate}",
 								"{@spell stone shape}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -1025,7 +1025,7 @@
 					"daily": {
 						"1e": [
 							"{@spell command}",
-							"{@spell hold person}"
+							"{@spell inmovilizar persona}"
 						]
 					},
 					"ability": "int"

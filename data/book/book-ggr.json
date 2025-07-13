@@ -1310,13 +1310,13 @@
 						},
 						{
 							"type": "entries",
-							"name": "Paladin",
+							"name": "Paladín",
 							"page": 24,
 							"entries": [
 								"The loyalty of a paladin is appreciated most by those guilds that value oaths of service, namely the Azorius Senate, the Boros Legion, and the Selesnya Conclave.",
 								{
 									"type": "table",
-									"caption": "Paladin",
+									"caption": "Paladín",
 									"colStyles": [
 										"col-6",
 										"col-6"
@@ -1327,23 +1327,23 @@
 									],
 									"rows": [
 										[
-											"{@class Paladin||Oath of Conquest|Conquest|XGE}*",
+											"{@class Paladín||Oath of Conquest|Conquest|XGE}*",
 											"Orzhov"
 										],
 										[
-											"{@class Paladin||Oath of Devotion|Devotion}",
+											"{@class Paladín||Oath of Devotion|Devotion}",
 											"Boros"
 										],
 										[
-											"{@class Paladin||Oath of Redemption|Redemption|XGE}*",
+											"{@class Paladín||Oath of Redemption|Redemption|XGE}*",
 											"Selesnya"
 										],
 										[
-											"{@class Paladin||Oath of the Ancients|Ancients}",
+											"{@class Paladín||Juramento de los antiguos|Antiguos}",
 											"Selesnya"
 										],
 										[
-											"{@class Paladin||Oath of Vengeance|Vengeance}",
+											"{@class Paladín||Juramento de venganza|Vengeance}",
 											"Azorius"
 										]
 									]
@@ -1916,7 +1916,7 @@
 											"name": "Arresters",
 											"page": 33,
 											"entries": [
-												"As a martial character, you can serve as an arrester in the Azorius Senate. You might be a fighter (of any martial archetype) or a paladin who has sworn the Oath of Vengeance, for example. Arresters maintain the peace by removing threats\u2014both actual and potential\u2014identified through regular patrols, citizen reports, and occasionally alerts from the precognitive mages. As you gain the respect of your superiors, you can be promoted to the rank of officer or imperator."
+												"As a martial character, you can serve as an arrester in the Azorius Senate. You might be a fighter (of any martial archetype) or a paladin who has sworn the Juramento de venganza, for example. Arresters maintain the peace by removing threats\u2014both actual and potential\u2014identified through regular patrols, citizen reports, and occasionally alerts from the precognitive mages. As you gain the respect of your superiors, you can be promoted to the rank of officer or imperator."
 											],
 											"id": "044"
 										}
@@ -2454,7 +2454,7 @@
 														{
 															"type": "item",
 															"name": "Selesnya",
-															"entry": "\"I almost envy the naiveté that leads them to retreat into their little communes and pretend they've built a just society.\""
+															"entry": "\"I almost envy the naiveté that leads them to retreat into their little comunións and pretend they've built a just society.\""
 														},
 														{
 															"type": "item",
@@ -4189,7 +4189,7 @@
 							"name": "Inside the Conclave",
 							"page": 84,
 							"entries": [
-								"The Selesnya Conclave is organized into enclaves called vernadi, which are communes built around central trees. The vernadi are smaller versions of the guildhall, the great city-tree Vitu-Ghazi. A dryad, called a voda, is called forth from that central tree to be the leader of the community, connecting the vernadi and its devotees to the Worldsoul and uniting them with the will of the entire conclave.",
+								"The Selesnya Conclave is organized into enclaves called vernadi, which are comunións built around central trees. The vernadi are smaller versions of the guildhall, the great city-tree Vitu-Ghazi. A dryad, called a voda, is called forth from that central tree to be the leader of the community, connecting the vernadi and its devotees to the Worldsoul and uniting them with the will of the entire conclave.",
 								"A voda is accessible to all the guild members in her care. You have regular contact with your voda, who knows your name and has a good idea of your interests, goals, and strengths. And since your voda is mystically linked to the guildmaster, {@creature Trostani|GGR}, through communion with the Worldsoul, it's safe to assume that {@creature Trostani|GGR} knows who you are as well.",
 								"In addition to the voda, military and religious leaders in each vernadi regularly communicate with its members. Ordinary members of the conclave spend a few hours every day training with a military instructor and studying with a religious teacher.",
 								{
@@ -4252,7 +4252,7 @@
 									"name": "Military Roles",
 									"page": 85,
 									"entries": [
-										"Selesnya looks from the outside like a peaceful community, but it is also an army. If you are a fighter, a ranger, or a paladin (usually having sworn the Oath of the Ancients), your place in the guild is a military one. Unlike in the Boros Legion, though, the conclave's military ranks aren't highly structured; each enclave has its own forces, with a single commander and one other layer of command (at most) above the troops. A variety of special military roles become available to you as you prove yourself useful to your vernadi and the conclave. You might aspire to be a votary standing watch over the temple gardens, a sagittar archer, a pegasus-riding equenaut, or a wolf-riding Ledev guardian."
+										"Selesnya looks from the outside like a peaceful community, but it is also an army. If you are a fighter, a ranger, or a paladin (usually having sworn the Juramento de los antiguos), your place in the guild is a military one. Unlike in the Boros Legion, though, the conclave's military ranks aren't highly structured; each enclave has its own forces, with a single commander and one other layer of command (at most) above the troops. A variety of special military roles become available to you as you prove yourself useful to your vernadi and the conclave. You might aspire to be a votary standing watch over the temple gardens, a sagittar archer, a pegasus-riding equenaut, or a wolf-riding Ledev guardian."
 									],
 									"id": "0c2"
 								},
@@ -7514,7 +7514,7 @@
 												],
 												[
 													"5",
-													"Steal a magic weapon held inside the garrison."
+													"Steal a arma mágica held inside the garrison."
 												],
 												[
 													"6",
@@ -7878,7 +7878,7 @@
 													"type": "list",
 													"items": [
 														"The safe house is underground and accessible only through a maze of tunnels and crevices.",
-														"The area surrounding the house is protected by a guards and wards spell. Navigating the ancient underground corridors or the modern alleyways above ground becomes more complicated when intersections are clouded by fog, doors are hidden and magically locked, and magical compulsions drive visitors away.",
+														"The area surrounding the house is protected by a guards and wards spell. Navigating the ancient underground corridors or the modern alleyways above ground becomes more complicated when intersections are clouded by fog, doors are hidden and magically locked, and magical compulsións drive visitors away.",
 														"A glyph of warding might cast fear, phantasmal force, or crown of madness on a character who triggers it\u2014or simply explode in a blast of cold energy.",
 														"Dimir agents might use alarm spells to ensure that they know when intruders are approaching the safe house."
 													]
@@ -8243,7 +8243,7 @@
 											"height": 732,
 											"credit": "Sung Choi"
 										},
-										"The Golgari possess a combination of ambition and ruthlessness that makes them extremely dangerous adversaries. The tension among the various factions of the swarm (the elves, the medusas, the kraul, and the rising erstwhile) adds an element of instability to the mix. But perhaps the Golgari Swarm's most dangerous quality is the widespread confidence among its members that it will survive any catastrophe that might befall the surface world. This certainty means Golgari villains will stop at nothing in an attempt to provoke such an event\u2014triggering a virulent plague, causing explosive plant growth, or inciting the other guilds into open war, for example. Over the course of a campaign, a group of adventurers might foil Golgari plans to accomplish all these things, or the characters might be constantly struggling against one ongoing disaster.",
+										"The Golgari possess a combination of ambition and ruthlessness that makes them extremely dangerous adversaries. The tension among the various factions of the swarm (the elves, the medusas, the kraul, and the rising erstwhile) adds an element of instability to the mix. But perhaps the Golgari Swarm's most dangerous quality is the widespread confidence among its members that it will survive any catastrophe that might befall the surface world. This certainty means Golgari villains will stop at nothing in an attempt to provoke such an event\u2014triggering a virulent plague, causing explosive crecimiento vegetal, or inciting the other guilds into open war, for example. Over the course of a campaign, a group of adventurers might foil Golgari plans to accomplish all these things, or the characters might be constantly struggling against one ongoing disaster.",
 										"For example, the characters might spend the early part of the campaign resolving disputes between guilds, unaware that the Golgari are actually the instigators of those conflicts. Perhaps incidental to these missions, they also face a spore druid who is in the early stages of testing a terrible plague. Then, as the campaign reaches higher levels, the plague breaks out again, this time spreading rapidly. The crisis heightens tensions among the other guilds, especially when food sources are threatened. At the climax of the campaign, the heroes must defuse conflict among the guilds while finding a way to get at the druid at the cause of it all, who is locked in an undercity mansion waiting out the catastrophe."
 									],
 									"id": "16c"
@@ -9569,7 +9569,7 @@
 							"name": "Vernadi Center",
 							"page": 153,
 							"entries": [
-								"The basic unit of the Conclave's organization is the vernadi\u2014a community centered on a large tree and led by the voda of the enclave, a dryad whose spirit is linked to that tree. From the outside, a vernadi might resemble a peaceful commune, and thus seem to be an easy target for theft or assault. But its temple gardens are protected by soldiers and archers, and even the seemingly serene initiates have some military training.",
+								"The basic unit of the Conclave's organization is the vernadi\u2014a community centered on a large tree and led by the voda of the enclave, a dryad whose spirit is linked to that tree. From the outside, a vernadi might resemble a peaceful comunión, and thus seem to be an easy target for theft or assault. But its temple gardens are protected by soldiers and archers, and even the seemingly serene initiates have some military training.",
 								{
 									"type": "entries",
 									"name": "Vernadi Center Adventures",
@@ -11270,7 +11270,7 @@
 											"items": [
 												"Cantrips (at will): {@spell friends}, {@spell mano de mago}, {@spell message}",
 												"1st level (4 slots): {@spell command}, {@spell golpe apresador}, {@spell shield}",
-												"2nd level (3 slots): {@spell calm emotions}, {@spell hold person}, {@spell suggestion}",
+												"2nd level (3 slots): {@spell calm emotions}, {@spell inmovilizar persona}, {@spell suggestion}",
 												"3rd level (3 slots): {@spell clairvoyance}, {@spell counterspell}, {@spell dispel magic}",
 												"4th level (3 slots): {@spell banishment}, {@spell divination}",
 												"5th level (1 slot): {@spell dominate person}"
@@ -14009,7 +14009,7 @@
 							"page": 251,
 							"entries": [
 								"The Selesnya guildmaster is an amalgamation of three dryads in body, will, and soul. Each dryad's body extends from a central trunk, so while they possess independent minds, they share a single name\u2014{@creature Trostani|GGR}\u2014and a single life force. Usually {@creature Trostani|GGR} communicates the will of the Worldsoul with one voice, but she retains three distinct personalities that embody the three parts of the Selesnyan ideal: order, life, and harmony. In the midst of increasing tensions on Ravnica, the three personalities have recently been at odds over how best to navigate the conclave through such difficult times.",
-								"{@creature Trostani|GGR} spends most of her time in the towering tree of Vitu-Ghazi, the Selesnya guildhall. There she communes with Mat'Selesnya and with the dryads who lead individual Selesnya communities across Ravnica.",
+								"{@creature Trostani|GGR} spends most of her time in the towering tree of Vitu-Ghazi, the Selesnya guildhall. There she comunións with Mat'Selesnya and with the dryads who lead individual Selesnya communities across Ravnica.",
 								{
 									"type": "entries",
 									"name": "Trostani's Traits",

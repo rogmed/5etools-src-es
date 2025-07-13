@@ -340,7 +340,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell scorching ray}"
 							]
 						},
@@ -354,14 +354,14 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell dimension door}",
+								"{@spell puerta dimensional}",
 								"{@spell wall of fire}"
 							]
 						},
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell hold monster}"
+								"{@spell inmovilizar monstruo}"
 							]
 						}
 					},
@@ -898,7 +898,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blur}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -2335,7 +2335,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell darkvision}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell protection from poison}"
 							]
 						},
@@ -3453,7 +3453,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell suggestion}"
 							]
 						},
@@ -3770,7 +3770,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell polymorph}",
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						},
 						"5": {
@@ -4448,7 +4448,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -4601,7 +4601,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell crown of madness}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -4881,7 +4881,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blight}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						},
 						"5": {
@@ -5178,8 +5178,8 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
-								"{@spell misty step}"
+								"{@spell inmovilizar persona}",
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -5489,7 +5489,7 @@
 						"4": {
 							"slots": 1,
 							"spells": [
-								"{@spell stoneskin}"
+								"{@spell piel pétrea}"
 							]
 						}
 					},
@@ -5628,7 +5628,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell levitate}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -5819,7 +5819,7 @@
 							"spells": [
 								"{@spell darkness}",
 								"{@spell detect thoughts}",
-								"{@spell misty step}",
+								"{@spell paso brumoso}",
 								"{@spell scorching ray}"
 							]
 						},
@@ -6174,7 +6174,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell confusion}",
-								"{@spell dimension door}"
+								"{@spell puerta dimensional}"
 							]
 						}
 					},

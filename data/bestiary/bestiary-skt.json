@@ -699,10 +699,10 @@
 						],
 						"1e": [
 							"{@spell blight}",
-							"{@spell legend lore} (cast as 1 action)",
+							"{@spell conocer las leyendas} (cast as 1 action)",
 							"{@spell locate creature}",
 							"{@spell pass without trace}",
-							"{@spell protection from energy}",
+							"{@spell protección contra energía}",
 							"{@spell true seeing}"
 						]
 					},
@@ -835,7 +835,7 @@
 								"4": {
 									"slots": 3,
 									"spells": [
-										"{@spell freedom of movement}",
+										"{@spell libertad de movimiento}",
 										"{@spell grasping vine}"
 									]
 								},
@@ -960,7 +960,7 @@
 						"3e": [
 							"{@spell feather fall}",
 							"{@spell fly}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell telekinesis}"
 						],
 						"1e": [
@@ -1484,7 +1484,7 @@
 							"{@spell stone shape}"
 						],
 						"1e": [
-							"{@spell stoneskin}",
+							"{@spell piel pétrea}",
 							"{@spell time stop}"
 						]
 					},
@@ -1889,7 +1889,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell cure wounds}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell sanctuary}"
 							]
 						},
@@ -6402,7 +6402,7 @@
 							"{@spell stone shape}"
 						],
 						"1e": [
-							"{@spell stoneskin}",
+							"{@spell piel pétrea}",
 							"{@spell time stop}"
 						]
 					},
@@ -6855,7 +6855,7 @@
 							"{@spell speak with animals}"
 						],
 						"1e": [
-							"{@spell commune with nature} (cast as 1 action)",
+							"{@spell comunión con la naturaleza} (cast as 1 action)",
 							"{@spell conjure woodland beings}",
 							"{@spell hallucinatory terrain} (cast as 1 action)"
 						]
@@ -7211,8 +7211,8 @@
 							"mode": "addSpells",
 							"daily": {
 								"1e": [
-									"{@spell enhance ability} (bear's endurance only)",
-									"{@spell heroism}"
+									"{@spell potenciar característica} (bear's endurance only)",
+									"{@spell heroísmo}"
 								]
 							}
 						}
@@ -7226,7 +7226,7 @@
 							"mode": "addSpells",
 							"daily": {
 								"1e": [
-									"{@spell find steed} (cast as 1 action; elk only)",
+									"{@spell hallar corcel} (cast as 1 action; elk only)",
 									"{@spell haste}"
 								]
 							}
@@ -7287,7 +7287,7 @@
 							"mode": "addSpells",
 							"daily": {
 								"1e": [
-									"{@spell enhance ability} (cat's grace only)",
+									"{@spell potenciar característica} (cat's grace only)",
 									"{@spell jump}"
 								]
 							}
@@ -7317,7 +7317,7 @@
 							"mode": "addSpells",
 							"daily": {
 								"1e": [
-									"{@spell enhance ability} (bull's strength only)",
+									"{@spell potenciar característica} (bull's strength only)",
 									"{@spell pass without trace}"
 								]
 							}
@@ -7628,7 +7628,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell augury}",
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon}"
 							]
 						},
@@ -7636,7 +7636,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell bestow curse}",
-								"{@spell protection from energy}",
+								"{@spell protección contra energía}",
 								"{@spell sending}"
 							]
 						},
@@ -7996,7 +7996,7 @@
 						"3e": [
 							"{@spell feather fall}",
 							"{@spell fly}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell telekinesis}"
 						],
 						"1e": [
@@ -8030,7 +8030,7 @@
 							"{@spell mass suggestion}",
 							"{@spell nondetection}",
 							"{@spell Otiluke's resilient sphere}",
-							"{@spell protection from energy}",
+							"{@spell protección contra energía}",
 							"{@spell tongues}"
 						]
 					},

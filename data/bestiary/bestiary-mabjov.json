@@ -197,8 +197,8 @@
 						"2e": [
 							"{@spell aid}",
 							"{@spell command}",
-							"{@spell magic weapon}",
-							"{@spell searing smite}",
+							"{@spell arma mágica}",
+							"{@spell castigo abrasador}",
 							"{@spell shield of faith}"
 						]
 					},
@@ -414,7 +414,7 @@
 						"{@spell detect magic}",
 						"{@spell dispel evil and good}",
 						"{@spell hallow}",
-						"{@spell hold monster}",
+						"{@spell inmovilizar monstruo}",
 						"{@spell suggestion}",
 						"{@spell teleport}",
 						"{@spell true seeing}"
@@ -1985,11 +1985,11 @@
 						"2e": [
 							"{@spell bane}",
 							"{@spell fear}",
-							"{@spell hold monster}",
-							"{@spell misty step}"
+							"{@spell inmovilizar monstruo}",
+							"{@spell paso brumoso}"
 						],
 						"1e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell seeming}"
 						]
 					},
@@ -2170,7 +2170,7 @@
 							"{@spell darkness}",
 							"{@spell fear}",
 							"{@spell hallucinatory terrain}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell hypnotic pattern}",
 							"{@spell major image}",
 							"{@spell Imagen múltiple}",
@@ -2653,7 +2653,7 @@
 					"name": "Staff Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"While holding the staff of power, Edwin casts one of the following spells (spell save {@dc 18}, {@hit 12} to hit with spell attacks). These spells require charges; the staff has 20 charges, and it regains {@dice 2d8 + 4} expended charges daily at dawn. 1 charge each: magic missile, ray of enfeeblement 2 charges: levitate 5 charges each: cono de frío, fireball (5th level), hold monster, relámpago (5th level), wall of force 6 charges: globe of invulnerability"
+						"While holding the staff of power, Edwin casts one of the following spells (spell save {@dc 18}, {@hit 12} to hit with spell attacks). These spells require charges; the staff has 20 charges, and it regains {@dice 2d8 + 4} expended charges daily at dawn. 1 charge each: magic missile, ray of enfeeblement 2 charges: levitate 5 charges each: cono de frío, fireball (5th level), inmovilizar monstruo, relámpago (5th level), wall of force 6 charges: globe of invulnerability"
 					],
 					"displayAs": "action"
 				}
@@ -2847,7 +2847,7 @@
 							"{@spell fireball}",
 							"{@spell relámpago}",
 							"{@spell Imagen múltiple}",
-							"{@spell misty step}"
+							"{@spell paso brumoso}"
 						],
 						"1e": [
 							"{@spell chain lightning}",
@@ -3013,7 +3013,7 @@
 							"{@spell entangle}",
 							"{@spell locate creature}",
 							"{@spell speak with animals}",
-							"{@spell stoneskin}",
+							"{@spell piel pétrea}",
 							"{@spell paso arbóreo}",
 							"{@spell respirar bajo el agua}"
 						],
@@ -3919,14 +3919,14 @@
 					"daily": {
 						"2e": [
 							"{@spell animal messenger}",
-							"{@spell commune with nature} (as an action)",
+							"{@spell comunión con la naturaleza} (as an action)",
 							"{@spell entangle}",
 							"{@spell speak with animals}"
 						],
 						"1e": [
 							"{@spell heal}",
 							"{@spell heroes' feast}",
-							"{@spell stoneskin}"
+							"{@spell piel pétrea}"
 						]
 					},
 					"ability": "wis",
@@ -4121,7 +4121,7 @@
 					"daily": {
 						"2e": [
 							"{@spell animate dead}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell dispel magic}",
 							"{@spell fireball}",
 							"{@spell scrying}"
@@ -4865,7 +4865,7 @@
 							"{@spell daylight}",
 							"{@spell faerie fire}",
 							"{@spell fear}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell plane shift}"
 						]
 					},
@@ -5060,7 +5060,7 @@
 						"{@spell geas} (duration 1 year)",
 						"{@spell greater restoration}",
 						"{@spell hallow}",
-						"{@spell hold monster}",
+						"{@spell inmovilizar monstruo}",
 						"{@spell locate creature}",
 						"{@spell locate object}",
 						"{@spell major image}",
@@ -5762,7 +5762,7 @@
 				{
 					"name": "Special Items",
 					"entries": [
-						"Nauk wears {@item adamantine plate armor}. He wields a {@item +1 maul} and a {@item +1 heavy crossbow} which is already factored into his stats. He has 2 {@item potion of cold resistance||potions of resistance (cold)}, 2 {@item potion of fire resistance||potions of resistance (fire)}, 2 {@item potion of lightning resistance||potions of resistance (lightning)}. He has 2 {@item potion of heroism||potions of heroism} and 4 {@item potion of superior healing||potions of superior healing}."
+						"Nauk wears {@item adamantine plate armor}. He wields a {@item +1 maul} and a {@item +1 heavy crossbow} which is already factored into his stats. He has 2 {@item potion of cold resistance||potions of resistance (cold)}, 2 {@item potion of fire resistance||potions of resistance (fire)}, 2 {@item potion of lightning resistance||potions of resistance (lightning)}. He has 2 {@item potion of heroísmo||potions of heroísmo} and 4 {@item potion of superior healing||potions of superior healing}."
 					]
 				}
 			],
@@ -5792,7 +5792,7 @@
 						{
 							"type": "list",
 							"items": [
-								"Potion of heroism: Nauk gains 10 temporary hit points for 1 hour. For the same duration, Nauk is under the effect of the {@spell bless} spell (no {@status concentration} required).",
+								"Potion of heroísmo: Nauk gains 10 temporary hit points for 1 hour. For the same duration, Nauk is under the effect of the {@spell bless} spell (no {@status concentration} required).",
 								"Potion of resistance: Nauk gains resistance from one damage type for 1 hour. Nauk chooses from one of these damage types: cold, fire, lightning.",
 								"Potion of superior healing: Nauk regains 28 hit points."
 							]
@@ -6389,7 +6389,7 @@
 							"{@spell confusion}",
 							"{@spell dominate monster}",
 							"{@spell greater invisibility}",
-							"{@spell hold monster}",
+							"{@spell inmovilizar monstruo}",
 							"{@spell mass suggestion}",
 							"{@spell prismatic spray}",
 							"{@spell reverse gravity}"
@@ -6590,7 +6590,7 @@
 							"{@spell detect magic}",
 							"{@spell mage armor}",
 							"{@spell magic missile}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell suggestion}"
 						],
 						"1e": [
@@ -6782,7 +6782,7 @@
 							"{@spell dispel magic}",
 							"{@spell divination}",
 							"{@spell harm}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell silence}"
 						]
 					},
@@ -8354,7 +8354,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Vengeance",
+					"name": "Venganza",
 					"entries": [
 						"When Tiberius Inuus is hit by an attack he can utter an oath of vengeance against the creature that made the attack. He gains advantage on attack rolls against that creature for 1 minute or until it drops to 0 hit points or falls {@condition unconscious}."
 					]
@@ -8907,7 +8907,7 @@
 					"will": [
 						"{@spell bless}",
 						"{@spell shield of faith}",
-						"{@spell thunderous smite}"
+						"{@spell castigo atronador}"
 					],
 					"daily": {
 						"2e": [
@@ -9362,7 +9362,7 @@
 						"2e": [
 							"{@spell detect magic}",
 							"{@spell Tasha's hideous laughter}",
-							"{@spell misty step}",
+							"{@spell paso brumoso}",
 							"{@spell shield}",
 							"{@spell suggestion}"
 						],
@@ -9370,7 +9370,7 @@
 							"{@spell counterspell}",
 							"{@spell fly}",
 							"{@spell greater invisibility}",
-							"{@spell hold person}"
+							"{@spell inmovilizar persona}"
 						]
 					},
 					"ability": "int",
@@ -9381,7 +9381,7 @@
 				{
 					"name": "Enchanter",
 					"entries": [
-						"When Xan casts hideous laughter, hold person, or suggestion, the target has disadvantage on the saving throw."
+						"When Xan casts hideous laughter, inmovilizar persona, or suggestion, the target has disadvantage on the saving throw."
 					]
 				},
 				{

@@ -2439,14 +2439,14 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell guiding bolt}",
+								"{@spell saeta guía}",
 								"{@spell purify food and drink}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell lesser restoration}",
 								"{@spell silence}"
 							]
@@ -3919,7 +3919,7 @@
 							"spells": [
 								"{@spell ráfaga de viento}",
 								"{@spell Melf's acid arrow}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						}
 					},
@@ -4139,7 +4139,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blur}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -4911,13 +4911,13 @@
 							"spells": [
 								"{@spell bless}",
 								"{@spell detect magic}",
-								"{@spell guiding bolt}"
+								"{@spell saeta guía}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell spiritual weapon} (trident)"
 							]
 						},

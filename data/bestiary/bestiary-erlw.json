@@ -314,9 +314,9 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell compelled duel}",
+								"{@spell duelo forzado}",
 								"{@spell hellish rebuke}",
-								"{@spell wrathful smite}"
+								"{@spell castigo furioso}"
 							]
 						},
 						"2": {
@@ -325,8 +325,8 @@
 								"{@spell branding smite}",
 								"{@spell crown of madness}",
 								"{@spell darkness}",
-								"{@spell find steed}",
-								"{@spell magic weapon}"
+								"{@spell hallar corcel}",
+								"{@spell arma mágica}"
 							]
 						}
 					},
@@ -958,7 +958,7 @@
 							"{@spell sleep} ({@dice 9d8})"
 						],
 						"1e": [
-							"{@spell legend lore}",
+							"{@spell conocer las leyendas}",
 							"{@spell scrying}"
 						]
 					},
@@ -1645,7 +1645,7 @@
 							"{@spell charm person}",
 							"{@spell dissonant whispers}",
 							"{@spell hex}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell mage armor}"
 						]
 					},
@@ -2505,7 +2505,7 @@
 							"spells": [
 								"{@spell cloudkill}",
 								"{@spell cono de frío}",
-								"{@spell hold monster}",
+								"{@spell inmovilizar monstruo}",
 								"{@spell scrying}"
 							]
 						},
@@ -3177,7 +3177,7 @@
 					"vulnerable": [
 						"piercing"
 					],
-					"note": "from magic weapons wielded by good creatures",
+					"note": "from arma mágicas wielded by good creatures",
 					"cond": true
 				}
 			],
@@ -3388,7 +3388,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell commune}",
+							"{@spell comunión}",
 							"{@spell dominate person}",
 							"{@spell plaga de insectos}",
 							"{@spell mass suggestion}",
@@ -3917,7 +3917,7 @@
 							"{@spell chain lightning}",
 							"{@spell create undead}",
 							"{@spell dream}",
-							"{@spell hold monster}",
+							"{@spell inmovilizar monstruo}",
 							"{@spell mass suggestion}",
 							"{@spell scrying}"
 						],
@@ -4317,7 +4317,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell freedom of movement}",
+								"{@spell libertad de movimiento}",
 								"{@spell Mordenkainen's faithful hound}"
 							]
 						},
@@ -4708,7 +4708,7 @@
 							"spells": [
 								"{@spell augury}",
 								"{@spell calm emotions}",
-								"{@spell hold person}"
+								"{@spell inmovilizar persona}"
 							]
 						},
 						"3": {
@@ -4724,7 +4724,7 @@
 							"spells": [
 								"{@spell banishment}",
 								"{@spell divination}",
-								"{@spell guardian of faith}"
+								"{@spell guardián de la fe}"
 							]
 						},
 						"5": {
@@ -5689,7 +5689,7 @@
 					"vulnerable": [
 						"piercing"
 					],
-					"note": "from magic weapons wielded by good creatures",
+					"note": "from arma mágicas wielded by good creatures",
 					"cond": true
 				}
 			],

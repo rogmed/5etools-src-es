@@ -127,14 +127,14 @@
 			]
 		},
 		{
-			"name": "Divine Smite",
+			"name": "Castigo divino",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Divine Smite.webp"
+						"path": "spells/XPHB/Castigo divino.webp"
 					},
 					"credit": "Bryan Sola"
 				}
@@ -225,14 +225,14 @@
 			]
 		},
 		{
-			"name": "Guardian of Faith",
+			"name": "Guardián de la fe",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Guardian of Faith.webp"
+						"path": "spells/XPHB/Guardián de la fe.webp"
 					},
 					"credit": "Rina Nordsol"
 				}
@@ -701,14 +701,14 @@
 			]
 		},
 		{
-			"name": "Yolande's Regal Presence",
+			"name": "Presencia regia de Yolande",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Yolande's Regal Presence.webp"
+						"path": "spells/XPHB/Presencia regia de Yolande.webp"
 					},
 					"credit": "April Prime"
 				}

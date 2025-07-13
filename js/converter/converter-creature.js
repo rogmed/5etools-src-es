@@ -752,9 +752,9 @@ export class ConverterCreature extends ConverterBase {
 
 		clean = clean
 			// Homebrew spell action superscript
-			// handle `commune\n+, ...`
+			// handle `comunión\n+, ...`
 			.replace(/([a-z]) *\n([ABR+], )/mg, (...m) => `${m[1]} ${m[2]}`)
-			// handle `commune\n+\n`
+			// handle `comunión\n+\n`
 			.replace(/([a-z]) *\n([ABR+])(\n|$)/mg, (...m) => `${m[1]} ${m[2]}${m[3]}`)
 		;
 

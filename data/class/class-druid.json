@@ -597,7 +597,7 @@
 					"prepared": {
 						"3": [
 							"fog cloud|xphb",
-							"hold person|xphb",
+							"inmovilizar persona|xphb",
 							"ray of frost|xphb"
 						],
 						"5": [
@@ -615,7 +615,7 @@
 					"name": "Temperate Land",
 					"prepared": {
 						"3": [
-							"misty step|xphb",
+							"paso brumoso|xphb",
 							"shocking grasp|xphb",
 							"dormir|xphb"
 						],
@@ -623,7 +623,7 @@
 							"relámpago|xphb"
 						],
 						"7": [
-							"freedom of movement|xphb"
+							"libertad de movimiento|xphb"
 						],
 						"9": [
 							"paso arbóreo|xphb"
@@ -752,7 +752,7 @@
 					},
 					"prepared": {
 						"3": [
-							"guiding bolt|xphb"
+							"saeta guía|xphb"
 						]
 					}
 				}

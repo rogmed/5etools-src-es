@@ -1605,7 +1605,7 @@
 					"daily": {
 						"2e": [
 							"{@spell cure wounds} (8th-level version)",
-							"{@spell hold person}"
+							"{@spell inmovilizar persona}"
 						],
 						"1e": [
 							"{@spell divination}",
@@ -2137,7 +2137,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell compulsion}",
+							"{@spell compulsión}",
 							"{@spell fear}"
 						]
 					},
@@ -4878,7 +4878,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell invisibility}",
 							"{@spell mage armor} (self only)"
 						]
@@ -5146,7 +5146,7 @@
 							"{@spell magic missile} (3 brains)",
 							"{@spell Tenser's floating disk} (4 brains)",
 							"{@spell darkness} (5 brains)",
-							"{@spell hold person} (6 brains)",
+							"{@spell inmovilizar persona} (6 brains)",
 							"{@spell invisibility} (7 brains)",
 							"{@spell spider climb} (8 brains)",
 							"{@spell fear} (9 brains)",
@@ -5540,7 +5540,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell invisibility}"
 						]
 					},
@@ -6271,7 +6271,7 @@
 							"{@spell mage armor} (self only)"
 						],
 						"1e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell suggestion}"
 						]
 					},
@@ -6557,7 +6557,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell phantasmal force}"
 						],
 						"1e": [
@@ -6571,7 +6571,7 @@
 			],
 			"trait": [
 				{
-					"name": "Glory",
+					"name": "Gloria",
 					"entries": [
 						"The reigar's Armor Class includes its Charisma modifier."
 					]
@@ -7996,7 +7996,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell freedom of movement} (self only)",
+							"{@spell libertad de movimiento} (self only)",
 							"{@spell invisibility} (self only)"
 						]
 					},
@@ -8412,7 +8412,7 @@
 					"daily": {
 						"1": [
 							"{@spell darkness}",
-							"{@spell dimension door}",
+							"{@spell puerta dimensional}",
 							"{@spell fly}",
 							"{@spell hypnotic pattern}"
 						]

@@ -66,12 +66,12 @@ Languages all, telepathy 120 ft.
 Challenge 25 (75,000 XP)
 Innate Spellcasting. Mammon's innate spellcasting ability is Charisma (spell save DC 24, +16 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
 At will: charm person, detect magic, dispel magic, fabricate (Mammon can create valuable objects), heat metal, arcanist's magic aura
-3/day each: animate objects, counterspell, creation, instant summons, legend lore, teleport
+3/day each: animate objects, counterspell, creation, instant summons, conocer las leyendas, teleport
 1/day: imprisonment (minimus containment only, inside gems), sunburst
 Spellcasting. Mammon is a 6th level spellcaster. His spellcasting ability is Intelligence (spell save DC 13; +5 to hit with spell attacks). He has the following wizard spells prepared:
 Cantrips (at will): fire bolt, light, mano de mago, prestidigitación
 1st level (4 slots): mage armor, magic missile, shield
-2nd level (3 slots): misty step, suggestion
+2nd level (3 slots): paso brumoso, suggestion
 3rd level (3 slots): fly, relámpago
 Legendary Resistance (3/day). If Mammon fails a saving throw, he can choose to succeed instead.
 Magic Resistance. Mammon has advantage on saving throws against spells and other magical effects.
@@ -118,7 +118,7 @@ CreatureConverterUi._SAMPLE_MARKDOWN =
 >• 1st level (4 slots): detect magic, magic missile, shield, thunderwave
 >• 2nd level (3 slots): detect thoughts, invisibility, Melf's acid arrow, Imagen múltiple
 >• 3rd level (3 slots): animate dead, counterspell, dispel magic, fireball
->• 4th level (3 slots): blight, dimension door
+>• 4th level (3 slots): blight, puerta dimensional
 >• 5th level (3 slots): cloudkill, scrying
 >• 6th level (1 slot): disintegrate, globe of invulnerability
 >• 7th level (1 slot): finger of death, plane shift

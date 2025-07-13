@@ -790,7 +790,7 @@
 						"1e": [
 							"{@spell charm person}",
 							"{@spell hex}",
-							"{@spell hold person}",
+							"{@spell inmovilizar persona}",
 							"{@spell invisibility}"
 						]
 					},
@@ -2673,9 +2673,9 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell hold person}",
+								"{@spell inmovilizar persona}",
 								"{@spell Imagen múltiple}",
-								"{@spell misty step}"
+								"{@spell paso brumoso}"
 							]
 						},
 						"3": {
@@ -3140,7 +3140,7 @@
 							"spells": [
 								"{@spell command}",
 								"{@spell cure wounds}",
-								"{@spell guiding bolt}"
+								"{@spell saeta guía}"
 							]
 						},
 						"2": {

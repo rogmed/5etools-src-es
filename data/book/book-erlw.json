@@ -515,7 +515,7 @@
 							"page": 9,
 							"id": "014",
 							"entries": [
-								"In Eberron, it's not always easy to separate the heroes from the villains. Good people can do terrible things, while cruel or heartless people might serve the greater good. An inquisitor might torture innocents in a quest to root out a cult of the Dragon Below; if she's stopped, the cult will survive and flourish. A group of orcs periodically raids a human settlement because the settlers built their village on land sacred to the orcs and are disrupting wards that hold evil at bay. The heroes find a powerful magic weapon in a tomb, but the artifact is the sword of an ancient hobgoblin general, whose descendants want it back. The ways to resolve these problems aren't always simple.",
+								"In Eberron, it's not always easy to separate the heroes from the villains. Good people can do terrible things, while cruel or heartless people might serve the greater good. An inquisitor might torture innocents in a quest to root out a cult of the Dragon Below; if she's stopped, the cult will survive and flourish. A group of orcs periodically raids a human settlement because the settlers built their village on land sacred to the orcs and are disrupting wards that hold evil at bay. The heroes find a powerful arma mágica in a tomb, but the artifact is the sword of an ancient hobgoblin general, whose descendants want it back. The ways to resolve these problems aren't always simple.",
 								"Certain situations demand straightforward decisions. If Emerald Claw cultists are about to detonate a necrotic resonator that will kill half of Sharn, they need to be stopped. But in a good Eberron story, the simplest solution may not be the best one."
 							]
 						},
@@ -7083,7 +7083,7 @@
 							"entries": [
 								"The Ghaash'kala are primarily orcs, but their numbers include a few half-orcs and members of other races. They devote their lives to guarding the Labyrinth and containing the evils of the Wastes. When creating a Ghaash'kala character, consider the following:",
 								"{@b The Binding Flame}. The Ghaash'kala worship Kalok Shash, the \"Binding Flame.\" Fundamentally the same religion as the Silver Flame, Kalok Shash is a harsh faith that requires all able-bodied folk to fight in the endless war against the forces of darkness.",
-								"{@b Sacred Champions}. As a Ghaash'kala, you are a champion of the Binding Flame. A paladin sworn to the Oath of Vengeance, a barbarian on the Path of the Zealot (found in {@book Xanathar's Guide to Everything|XGE}), and a cleric of the Light or War domain all represent a logical path for a Ghaash'kala character. Outlander and hermit are appropriate backgrounds, reflecting your harsh upbringing or religious devotion."
+								"{@b Sacred Champions}. As a Ghaash'kala, you are a champion of the Binding Flame. A paladin sworn to the Juramento de venganza, a barbarian on the Path of the Zealot (found in {@book Xanathar's Guide to Everything|XGE}), and a cleric of the Light or War domain all represent a logical path for a Ghaash'kala character. Outlander and hermit are appropriate backgrounds, reflecting your harsh upbringing or religious devotion."
 							]
 						},
 						{
@@ -7624,7 +7624,7 @@
 								"As you develop a Mror character or NPC, consider the following:",
 								"{@b Clan Focus}. The dwarf clan is the heart of Mror culture. Is your clan known for mercantile power or martial skill? Are you a noble\u2014even if you're a few steps removed from true power? Or are you a guild artisan or soldier? Most Mror have embraced modern martial techniques, but a few minor clans still cling to barbarian traditions of the past. What caused you to leave your hold? Are you serving your clan and honing your skills, or have you been exiled from your homeland?",
 								"{@b The Realm Below}. How has the Realm Below affected your family and your character? Do you oppose the foul forces that infest your ancestral halls, or do you see them as a source of power? You might be a paladin sworn to oppose the horrors that dwell in the deep, or you could be a warlock who's forged a pact with a Great Old One patron, one of the dark powers in the depths.",
-								"{@b Pride in Possessions}. From the wealthiest clan lord to the humblest miner, the Mror take great pride in their possessions. Quality is more important than appearance, and you are interested in the history of the items you carry. If you find a magic weapon, you want to know the battles it has seen and the warriors who have wielded it before you. This is especially true of the relics recovered from the Realm Below. Who forged the blade you carry? Do you bear a trinket from a forgotten age?"
+								"{@b Pride in Possessions}. From the wealthiest clan lord to the humblest miner, the Mror take great pride in their possessions. Quality is more important than appearance, and you are interested in the history of the items you carry. If you find a arma mágica, you want to know the battles it has seen and the warriors who have wielded it before you. This is especially true of the relics recovered from the Realm Below. Who forged the blade you carry? Do you bear a trinket from a forgotten age?"
 							]
 						},
 						{
@@ -7928,7 +7928,7 @@
 							"entries": [
 								"See chapter 1 for quirks and other features relevant to halfling characters from the Talenta Plains. Also consider the following:",
 								"{@b Wild Warriors and Tricksters.} You were born in the wild, and your wits and your weapons helped you survive. Talenta warriors are often barbarians or rangers, relying on speed and skill. Outlander is a logical background, but you could easily be a folk hero, entertainer, or charlatan. You could even be an urchin who was stranded in a great city and adapted to life there.",
-								"{@b Surrounded by Spirits}. Fey, fiends, and the ghosts of ancestors, these are all part of the spirit world, and they're all around you. Do you believe that the spirits guide your actions? Do you show respect to the spirits of a location? Talentan shamans tend to be druids of the Circle of the Moon or the Circle of the Shepherd (from {@book Xanathar's Guide to Everything|XGE}), often assuming the form of dinosaurs. You could also reflect a strong bond to spirits by playing a warlock with an Archfey patron, a cleric with the Nature domain, a paladin sworn to the Oath of the Ancients, or a barbarian on the Path of the Totem Warrior or Path of the Ancestral Guardian (from {@book Xanathar's Guide to Everything|XGE}). Hermit and outlander are natural backgrounds, but you could be an acolyte or a sage who consults spirits instead of books. Warriors and shamans both wear masks to present a particular face to the spirit world.",
+								"{@b Surrounded by Spirits}. Fey, fiends, and the ghosts of ancestors, these are all part of the spirit world, and they're all around you. Do you believe that the spirits guide your actions? Do you show respect to the spirits of a location? Talentan shamans tend to be druids of the Circle of the Moon or the Circle of the Shepherd (from {@book Xanathar's Guide to Everything|XGE}), often assuming the form of dinosaurs. You could also reflect a strong bond to spirits by playing a warlock with an Archfey patron, a cleric with the Nature domain, a paladin sworn to the Juramento de los antiguos, or a barbarian on the Path of the Totem Warrior or Path of the Ancestral Guardian (from {@book Xanathar's Guide to Everything|XGE}). Hermit and outlander are natural backgrounds, but you could be an acolyte or a sage who consults spirits instead of books. Warriors and shamans both wear masks to present a particular face to the spirit world.",
 								"{@b Dinosaurs}. Talenta halflings have a close bond to their dinosaur companions. If you don't begin the campaign with a dinosaur mount or companion, you might acquire one over the course of your adventures. You can also consider whether a fallen dinosaur is part of your backstory; perhaps you lost your faithful mount in the Last War, but you believe its spirit is still with you."
 							]
 						},
@@ -9391,7 +9391,7 @@
 							]
 						},
 						"A pillar of argent fire marks the point of Tira's sacrifice, the center of the modern church. This pillar, located in Flamekeep, is a manifestation of the Silver Flame, not the source of its power.",
-						"The church's templars stand ready to protect the innocent from supernatural threats, battling undead, fiends, and aberrations. Friars and ministers fight evil by doing good, performing acts of compassion and charity across Khorvaire. In contrast to the Sovereign Host, the church maintains a defined structure and creed. Archbishops monitor regions; cardinals lead the church; and the ultimate authority is the Keeper of the Flame, who maintains the font in Flamekeep and communes with Tira Miron.",
+						"The church's templars stand ready to protect the innocent from supernatural threats, battling undead, fiends, and aberrations. Friars and ministers fight evil by doing good, performing acts of compassion and charity across Khorvaire. In contrast to the Sovereign Host, the church maintains a defined structure and creed. Archbishops monitor regions; cardinals lead the church; and the ultimate authority is the Keeper of the Flame, who maintains the font in Flamekeep and comunións with Tira Miron.",
 						"The Last War had a serious impact on the church. Leaders still respected the Keeper's authority over spiritual matters, but the war wasn't about good or evil. Templars of all nations still joined together to fight demons, but if no supernatural threat was present, they fought for their own nations. This division allowed cracks to form in the foundation. In Breland, some priests fell prey to greed or forged ties to criminal organizations. In Aundair, a zealous faction known as the Pure Flame advocates using violence rather than compassion as the primary tool for rooting out evil. And in Thrane, the church has become the ruling body. While still driven by Tira's principles of redemption and sacrifice, the intrusion of politics means that some come to the faith seeking power rather than purely to do good.",
 						"In creating a follower of the Silver Flame, decide whether you are bound to the church or simply inspired by its principles. As a paladin, are you part of the templar order, or were you a farmer called to action by the Voice of the Silver Flame?",
 						"The Silver Flame is centered in Thrane, but it has a strong presence in Breland and Aundair, and followers across Khorvaire. Members of the Pure Flame sect treat some species\u2014notably shifters and changelings\u2014with suspicion, but the faith holds that people of all races should stand together.",
@@ -9616,7 +9616,7 @@
 						"The bond between ancestor and living elf is holy. Your ancestor doesn't speak to you or control your actions. But as a Tairnadal, you believe that they are with you\u2014that your instincts and your reflexes are the ancestor moving through you, telling you what to do. The closer you follow the path, the more guidance they provide, helping you create new legends.",
 						"The folk of Khorvaire see your people as mercenaries and conquerors. But you don't care about gold or personal glory. All you want is to let your ancestors live again, and that means you need to perform deeds worthy of champions. That drives you now: seeking out adventures that will add to the legends of your patron.",
 						"You and your DM should develop the identity of your ancestor. How did they fight? What were some of their legendary deeds? Did they have a distinctive weapon or favor a particular kind of magic? Equally important is your relationship with the ancestor. Are you proud of your ancestor and excited to live as they did, or is your duty a burden?",
-						"Since the rise of Valenar, half-elves and even some humans have sought to be inducted into the faith. But so far the Keepers of the Past have declared that only elves can be revenants. Beyond the blood connection to the ancestor, an elf communes with their ancestor during trance, and half-elves can't enter this state. The Keepers say it can't be done, but perhaps you'll be the one to prove them wrong.",
+						"Since the rise of Valenar, half-elves and even some humans have sought to be inducted into the faith. But so far the Keepers of the Past have declared that only elves can be revenants. Beyond the blood connection to the ancestor, an elf comunións with their ancestor during trance, and half-elves can't enter this state. The Keepers say it can't be done, but perhaps you'll be the one to prove them wrong.",
 						{
 							"type": "entries",
 							"name": "Symbol",
@@ -13837,7 +13837,7 @@
 							"page": 197,
 							"id": "3b1",
 							"entries": [
-								"Agents of the Dreaming Dark are insidious villains that can appear anywhere, in almost any context. They receive orders from a cabal of powerful quori. The leader of the organization, known as the Devourer of Dreams, communes with the nightmare spirit of Dal Quor itself. The Dark's chief agent in Eberron is a {@creature kalaraq quori|ERLW} (see {@book chapter 6|ERLW|13}) named Tirashana, who has planted mind seeds\u2014mental copies of herself\u2014across Khorvaire.",
+								"Agents of the Dreaming Dark are insidious villains that can appear anywhere, in almost any context. They receive orders from a cabal of powerful quori. The leader of the organization, known as the Devourer of Dreams, comunións with the nightmare spirit of Dal Quor itself. The Dark's chief agent in Eberron is a {@creature kalaraq quori|ERLW} (see {@book chapter 6|ERLW|13}) named Tirashana, who has planted mind seeds\u2014mental copies of herself\u2014across Khorvaire.",
 								"The Dreaming Dark has Inspired agents and {@creature kalaraq quori|ERLW} mind seeds (see {@book chapter 6|ERLW|13}) scattered across Khorvaire, hidden within the membership of dragonmarked houses, noble families, and other driving forces. Because Dreaming Dark agents can communicate and coordinate with one another in dreams, they never have to risk losing their cover to receive assignments or transmit information.",
 								{
 									"type": "table",
@@ -14439,7 +14439,7 @@
 											"rows": [
 												[
 													"1",
-													"Steal an ancient magic weapon from the fort's commander."
+													"Steal an ancient arma mágica from the fort's commander."
 												],
 												[
 													"2",
@@ -14772,7 +14772,7 @@
 							"page": 208,
 							"id": "3d7",
 							"entries": [
-								"There's no place in Khorvaire that escaped the Last War unscathed. Even villages that were never attacked lost their children to conscription or suffered from shortages. Some towns far from the front lines suffered damage from long-distance magic weapons or terror attacks. Any time you are setting a scene, you could add some element that speaks to the ongoing impact of the Last War. The Everyday Impact table offers some suggestions for these elements.",
+								"There's no place in Khorvaire that escaped the Last War unscathed. Even villages that were never attacked lost their children to conscription or suffered from shortages. Some towns far from the front lines suffered damage from long-distance arma mágicas or terror attacks. Any time you are setting a scene, you could add some element that speaks to the ongoing impact of the Last War. The Everyday Impact table offers some suggestions for these elements.",
 								{
 									"type": "table",
 									"caption": "Everyday Impact",
@@ -14938,7 +14938,7 @@
 									"id": "3e0",
 									"entries": [
 										"This outpost, as shown on map 4.5, is a simple building holding barracks, officers' quarters, and storage areas encased within multiple rings of fortification. A normal approach to the inner compound involves passing through one of two gate houses (protected by arrow slits and murder holes), crossing an open courtyard (with more arrow slits and defenders on the rooftop above), passing through another small gate area, and traversing the training yard before finally reaching the lone entrance.",
-										"An enormous magic weapon akin to a ballista is mounted atop the outpost and supported by a massive stone column. Depending on the outpost, this weapon might launch ballista bolts with tremendous force and speed, expel surges of lightning, hurl fireballs, or otherwise send devastating munitions at approaching enemies.",
+										"An enormous arma mágica akin to a ballista is mounted atop the outpost and supported by a massive stone column. Depending on the outpost, this weapon might launch ballista bolts with tremendous force and speed, expel surges of lightning, hurl fireballs, or otherwise send devastating munitions at approaching enemies.",
 										"A basement area is dedicated to storage, including holding cells to contain prisoners of war while they wait to be transported to dedicated prison camps.",
 										{
 											"type": "gallery",
@@ -16264,7 +16264,7 @@
 												],
 												[
 													"3",
-													"Trade a powerful dark magic weapon in return for the rescue of important hostages taken by the order."
+													"Trade a powerful dark arma mágica in return for the rescue of important hostages taken by the order."
 												],
 												[
 													"4",
@@ -16907,7 +16907,7 @@
 										],
 										[
 											"3",
-											"An eladrin commune that holds powerful esoteric knowledge is nestled in the depths of a forest inhabited by large numbers of {@creature Pixie||pixies}."
+											"An eladrin comunión that holds powerful esoteric knowledge is nestled in the depths of a forest inhabited by large numbers of {@creature Pixie||pixies}."
 										],
 										[
 											"4",

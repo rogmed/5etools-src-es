@@ -10124,19 +10124,19 @@
 							"items": [
 								"{@spell Bendición}",
 								"{@spell Orden imperiosa}",
-								"{@spell Compelled Duel}",
+								"{@spell Duelo forzado}",
 								"{@spell Curar heridas}",
 								"{@spell Detectar el bien y el mal}",
 								"{@spell Detect Magic}",
 								"{@spell Detectar venenos y enfermedades}",
-								"{@spell Divine Favor}",
+								"{@spell Favor divino}",
 								"{@spell Heroism}",
 								"{@spell Protección contra el bien y el mal}",
 								"{@spell Purificar comida y bebida}",
 								"{@spell Castigo abrasador}",
 								"{@spell Escudo de fe}",
-								"{@spell Thunderous Smite}",
-								"{@spell Wrathful Smite}"
+								"{@spell Castigo atronador}",
+								"{@spell castigo furioso}"
 							]
 						},
 						{
@@ -11044,7 +11044,7 @@
 								"{@spell Orden imperiosa}",
 								"{@spell Comunión}",
 								"{@spell Comunión con la naturaleza}",
-								"{@spell Compelled Duel}",
+								"{@spell Duelo forzado}",
 								"{@spell Comprehend Languages}",
 								"{@spell Compulsión}",
 								"{@spell Cono de frío}",
@@ -11091,7 +11091,7 @@
 								"{@spell Disipar magia}",
 								"{@spell Susurros discordantes}",
 								"{@spell Divination}",
-								"{@spell Divine Favor}",
+								"{@spell Favor divino}",
 								"{@spell Divine Word}",
 								"{@spell Dominate Beast}",
 								"{@spell Dominate Monster}",
@@ -11317,7 +11317,7 @@
 								"{@spell Disco flotante de Tenser}",
 								"{@spell Taumaturgia}",
 								"{@spell Látigo de espinas}",
-								"{@spell Thunderous Smite}",
+								"{@spell Castigo atronador}",
 								"{@spell Ola atronadora}",
 								"{@spell Time Stop}",
 								"{@spell Tongues}",
@@ -11346,7 +11346,7 @@
 								"{@spell Deseo}",
 								"{@spell Witch Bolt}",
 								"{@spell Word of Recall}",
-								"{@spell Wrathful Smite}",
+								"{@spell castigo furioso}",
 								"{@spell Zona de la verdad}"
 							]
 						}

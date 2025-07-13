@@ -1374,7 +1374,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell compelled duel}",
+								"{@spell duelo forzado}",
 								"{@spell castigo abrasador}"
 							]
 						},

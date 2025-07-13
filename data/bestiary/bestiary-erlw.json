@@ -314,9 +314,9 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell compelled duel}",
+								"{@spell duelo forzado}",
 								"{@spell hellish rebuke}",
-								"{@spell wrathful smite}"
+								"{@spell castigo furioso}"
 							]
 						},
 						"2": {

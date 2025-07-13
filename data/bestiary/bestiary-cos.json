@@ -3550,8 +3550,8 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell divine favor}",
-								"{@spell thunderous smite}"
+								"{@spell favor divino}",
+								"{@spell castigo atronador}"
 							]
 						},
 						"2": {

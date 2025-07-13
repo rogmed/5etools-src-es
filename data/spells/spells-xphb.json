@@ -1413,7 +1413,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -2090,7 +2090,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -3322,10 +3322,10 @@
 			]
 		},
 		{
-			"name": "Compelled Duel",
-			"originalname": "",
+			"name": "Duelo forzado",
+			"originalname": "Compelled Duel",
 			"source": "XPHB",
-			"page": 252,
+			"page": 274,
 			"level": 1,
 			"school": "E",
 			"time": [
@@ -3355,8 +3355,8 @@
 				}
 			],
 			"entries": [
-				"You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has {@variantrule Disadvantage|XPHB} on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.",
-				"The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target."
+				"Intentas forzar a una criatura a batirse en duelo, Una criatura que puedas ver dentro del alcance realiza una tirada de salvación de Sabiduría. Si la falla, el objetivo tendrá desventaja en las tiradas de ataque contra criaturas que no seas tú y no podrá moverse voluntariamente a ningún espacio que se encuentre a más de 30 pies (9 m) de ti.",
+				"El conjuro termina si haces una tirada de ataque contra una criatura distinta al objetivo, si lanzas un conjuro contra un enemigo distinto a él, si uno de tus aliados hace daño al objetivo o si terminas tu turno a más de 30 pies (9 m) de él."
 			],
 			"savingThrow": [
 				"sabiduría"
@@ -5983,10 +5983,10 @@
 			]
 		},
 		{
-			"name": "Divine Favor",
-			"originalname": "",
+			"name": "Favor divino",
+			"originalname": "favor divino",
 			"source": "XPHB",
-			"page": 265,
+			"page": 283,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -6017,7 +6017,7 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, your attacks with weapons deal an extra {@damage 1d4} Radiant damage on a hit."
+				"Hasta que el conjuro termine, tus ataques con armas infligen {@damage 1d4} de daño radiante adicional si aciertan."
 			],
 			"damageInflict": [
 				"radiant"
@@ -10692,7 +10692,7 @@
 		},
 		{
 			"name": "Inmovilizar persona",
-			"originalname": "",
+			"originalname": "Hold person",
 			"source": "XPHB",
 			"page": 294,
 			"srd52": true,
@@ -17232,7 +17232,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -18170,7 +18170,7 @@
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -20134,10 +20134,10 @@
 			]
 		},
 		{
-			"name": "Thunderous Smite",
-			"originalname": "",
+			"name": "Castigo atronador",
+			"originalname": "Thunderous Smite",
 			"source": "XPHB",
-			"page": 334,
+			"page": 254,
 			"level": 1,
 			"school": "V",
 			"time": [
@@ -20162,14 +20162,14 @@
 				}
 			],
 			"entries": [
-				"Your strike rings with thunder that is audible within 300 feet of you, and the target takes an extra {@damage 2d6} Thunder damage from the attack. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and have the {@condition Prone|XPHB} condition."
+				"Tu golpe resuena con un trueno audible a 300 pies (90 m) de ti y el objetivo sufre {@damage 2d6} de daño de trueno adicional del ataque. Además, si el objetivo es una criatura, deberá superar una tirada de salvación de Fuerza o la empujarás 10 pies (3 m) respecto a ti y tendrá el estado de {@condition derribado|XPHB|derribada}."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 2d6|1-9|1d6} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 2d6|1-9|1d6} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -21931,17 +21931,17 @@
 			]
 		},
 		{
-			"name": "Wrathful Smite",
-			"originalname": "",
+			"name": "castigo furioso",
+			"originalname": "Wrathful Smite",
 			"source": "XPHB",
-			"page": 343,
+			"page": 255,
 			"level": 1,
 			"school": "N",
 			"time": [
 				{
 					"number": 1,
 					"unit": "adicional",
-					"condition": "which you take immediately after hitting a creature with a Melee weapon or an {@variantrule Unarmed Strike|XPHB}"
+					"condition": "que realizas de inmediato tras acertar a una criatura con un arma cuerpo a cuerpo o un ataque sin armas"
 				}
 			],
 			"range": {
@@ -21963,14 +21963,14 @@
 				}
 			],
 			"entries": [
-				"The target takes an extra {@damage 1d6} Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the {@condition Asustado|XPHB} condition until the spell ends. At the end of each of its turns, the {@condition Asustado|XPHB} target repeats the save, ending the spell on itself on a success."
+				"El objetivo sufrirá {@damage 1d6} de daño necrótico adicional del ataque y deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition asustado|XPHB} hasta que el conjuro termine. Al final de cada uno de sus turnos, el objetivo asustado repite la tirada de salvación y, si tiene éxito, se librará del conjuro."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 1d6|1-9|1d6} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 1d6|1-9|1d6} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],

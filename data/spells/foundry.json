@@ -2562,7 +2562,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Compelled Duel",
+			"name": "Duelo forzado",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -4276,7 +4276,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Divine Favor",
+			"name": "Favor divino",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -16011,7 +16011,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Thunderous Smite",
+			"name": "Castigo atronador",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -17715,7 +17715,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Wrathful Smite",
+			"name": "castigo furioso",
 			"source": "XPHB",
 			"activities": [
 				{

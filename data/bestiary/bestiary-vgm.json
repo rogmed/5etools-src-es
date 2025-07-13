@@ -3230,7 +3230,7 @@
 							"spells": [
 								"{@spell command}",
 								"{@spell protección contra el bien y el mal}",
-								"{@spell thunderous smite}"
+								"{@spell castigo atronador}"
 							]
 						},
 						"2": {
@@ -18791,7 +18791,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell divine favor}",
+								"{@spell favor divino}",
 								"{@spell saeta guía}",
 								"{@spell healing word}",
 								"{@spell shield of faith}"

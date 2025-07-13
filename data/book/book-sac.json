@@ -608,10 +608,10 @@
 										},
 										{
 											"type": "entries",
-											"name": "Can my paladin use a smite spell along with Castigo divino? As in, I cast wrathful smite, hit, then use Castigo divino on the same attack?",
+											"name": "Can my paladin use a smite spell along with Castigo divino? As in, I cast castigo furioso, hit, then use Castigo divino on the same attack?",
 											"id": "043",
 											"entries": [
-												"Yes, you can use Castigo divino on the same weapon attack that benefits from a smite spell, such as {@spell wrathful smite}\u2014as long as the attack you make after casting the smite spell is a melee weapon attack. Castigo divino doesn't work with any other kind of attack."
+												"Yes, you can use Castigo divino on the same weapon attack that benefits from a smite spell, such as {@spell castigo furioso}\u2014as long as the attack you make after casting the smite spell is a melee weapon attack. Castigo divino doesn't work with any other kind of attack."
 											]
 										},
 										{
@@ -2147,9 +2147,9 @@
 										},
 										{
 											"type": "entries",
-											"name": "Can a creature under the effect of compelled duel teleport more than 30 feet away from the caster?",
+											"name": "Can a creature under the effect of duelo forzado teleport more than 30 feet away from the caster?",
 											"entries": [
-												"No. You can't move farther than 30 feet away from the caster of compelled duel by any means, including teleportation."
+												"No. You can't move farther than 30 feet away from the caster of duelo forzado by any means, including teleportation."
 											],
 											"id": "150"
 										},

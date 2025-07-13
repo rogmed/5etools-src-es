@@ -833,9 +833,9 @@
 							"slots": 4,
 							"spells": [
 								"{@spell command}",
-								"{@spell compelled duel}",
+								"{@spell duelo forzado}",
 								"{@spell cure wounds}",
-								"{@spell wrathful smite}"
+								"{@spell castigo furioso}"
 							]
 						},
 						"2": {
@@ -1987,7 +1987,7 @@
 							"spells": [
 								"{@spell bless}",
 								"{@spell command}",
-								"{@spell divine favor}",
+								"{@spell favor divino}",
 								"{@spell shield of faith}"
 							]
 						},

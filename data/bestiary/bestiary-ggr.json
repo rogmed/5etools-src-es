@@ -171,7 +171,7 @@
 					"will": [
 						"{@spell calm emotions}",
 						"{@spell command}",
-						"{@spell compelled duel}"
+						"{@spell duelo forzado}"
 					],
 					"ability": "wis"
 				}
@@ -3419,7 +3419,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell compelled duel}",
+							"{@spell duelo forzado}",
 							"{@spell saeta guía} (as a 5th-level spell)"
 						],
 						"1e": [

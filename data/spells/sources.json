@@ -852,7 +852,7 @@
 				}
 			]
 		},
-		"Compelled Duel": {
+		"Duelo forzado": {
 			"class": [
 				{
 					"name": "Paladín",
@@ -1576,7 +1576,7 @@
 				}
 			]
 		},
-		"Divine Favor": {
+		"Favor divino": {
 			"class": [
 				{
 					"name": "Paladín",
@@ -5332,7 +5332,7 @@
 				}
 			]
 		},
-		"Thunderous Smite": {
+		"Castigo atronador": {
 			"class": [
 				{
 					"name": "Paladín",
@@ -5776,7 +5776,7 @@
 				}
 			]
 		},
-		"Wrathful Smite": {
+		"castigo furioso": {
 			"class": [
 				{
 					"name": "Paladín",

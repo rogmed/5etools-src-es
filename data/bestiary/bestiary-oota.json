@@ -2383,7 +2383,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell cure wounds}",
-								"{@spell divine favor}",
+								"{@spell favor divino}",
 								"{@spell inflict wounds}",
 								"{@spell protección contra el bien y el mal}",
 								"{@spell shield of faith}"

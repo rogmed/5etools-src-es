@@ -12692,7 +12692,7 @@
 								"{@spell Orden imperiosa|XPHB}",
 								"{@spell Comunión|XPHB}",
 								"{@spell Comunión con la naturaleza|XPHB}",
-								"{@spell Compelled Duel|XPHB}",
+								"{@spell Duelo forzado|XPHB}",
 								"{@spell Comprehend Languages|XPHB}",
 								"{@spell Compulsión|XPHB}",
 								"{@spell Cono de frío|XPHB}",
@@ -12746,7 +12746,7 @@
 								"{@spell Disipar magia|XPHB}",
 								"{@spell Susurros discordantes|XPHB}",
 								"{@spell Divination|XPHB}",
-								"{@spell Divine Favor|XPHB}",
+								"{@spell Favor divino|XPHB}",
 								"{@spell Castigo divino|XPHB}",
 								"{@spell Divine Word|XPHB}",
 								"{@spell Dominate Beast|XPHB}",
@@ -13101,7 +13101,7 @@
 								"{@spell Taumaturgia|XPHB}",
 								"{@spell Látigo de espinas|XPHB}",
 								"{@spell Tronar|XPHB}",
-								"{@spell Thunderous Smite|XPHB}",
+								"{@spell Castigo atronador|XPHB}",
 								"{@spell Ola atronadora|XPHB}",
 								"{@spell Time Stop|XPHB}",
 								"{@spell Tañido por los muertos|XPHB}",
@@ -13154,7 +13154,7 @@
 								"{@spell Witch Bolt|XPHB}",
 								"{@spell Palabra de resplandor|XPHB}",
 								"{@spell Word of Recall|XPHB}",
-								"{@spell Wrathful Smite|XPHB}"
+								"{@spell castigo furioso|XPHB}"
 							]
 						},
 						{

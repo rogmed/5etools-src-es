@@ -1181,7 +1181,7 @@
 					"expanded": {
 						"s1": [
 							"escudo",
-							"wrathful smite"
+							"castigo furioso"
 						],
 						"s2": [
 							"contorno borroso",
@@ -3834,7 +3834,7 @@
 							"rows": [
 								[
 									"1st",
-									"{@spell shield}, {@spell wrathful smite}"
+									"{@spell shield}, {@spell castigo furioso}"
 								],
 								[
 									"2nd",

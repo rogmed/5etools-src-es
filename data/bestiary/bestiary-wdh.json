@@ -984,7 +984,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell dominate person}",
+								"{@spell dominar persona}",
 								"{@spell greater restoration}"
 							]
 						},
@@ -9020,7 +9020,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell dominate person}",
+								"{@spell dominar persona}",
 								"{@spell flame strike}",
 								"{@spell modify memory}",
 								"{@spell plaga de insectos}"

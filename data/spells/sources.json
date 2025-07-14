@@ -556,7 +556,7 @@
 				}
 			]
 		},
-		"Blink": {
+		"Desplazamiento": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -1600,7 +1600,7 @@
 				}
 			]
 		},
-		"Dominate Beast": {
+		"Dominar bestia": {
 			"class": [
 				{
 					"name": "Druida",
@@ -1636,7 +1636,7 @@
 				}
 			]
 		},
-		"Dominate Person": {
+		"Dominar persona": {
 			"class": [
 				{
 					"name": "Bardo",

@@ -6747,7 +6747,7 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Brujo|XPHB|Archfey Patron|Archfey|XPHB} to teleport and wield fey magic.",
+												"{@class Brujo|XPHB|Patrón feérico|Feérico|XPHB} to teleport and wield fey magic.",
 												"{@class Brujo|XPHB|Celestial Patron|Celestial|XPHB} to heal with heavenly magic.",
 												"{@class Brujo|XPHB|Fiend Patron|Fiend|XPHB} to call on sinister powers.",
 												"{@class Brujo|XPHB|Great Old One Patron|Great Old One|XPHB} to delve into forbidden lore."
@@ -12665,7 +12665,7 @@
 								"{@spell Marchitar|XPHB}",
 								"{@spell Blinding Smite|XPHB}",
 								"{@spell Sordera/ceguera|XPHB}",
-								"{@spell Blink|XPHB}",
+								"{@spell desplazamiento|XPHB}",
 								"{@spell Contorno borroso|XPHB}",
 								"{@spell Burning Hands|XPHB}"
 							]
@@ -12749,9 +12749,9 @@
 								"{@spell Favor divino|XPHB}",
 								"{@spell Castigo divino|XPHB}",
 								"{@spell Divine Word|XPHB}",
-								"{@spell Dominate Beast|XPHB}",
+								"{@spell Dominar bestia|XPHB}",
 								"{@spell Dominate Monster|XPHB}",
-								"{@spell Dominate Person|XPHB}",
+								"{@spell Dominar persona|XPHB}",
 								"{@spell Dragon's Breath|XPHB}",
 								"{@spell Drawmij's Instant Summons|XPHB}",
 								"{@spell Dream|XPHB}",

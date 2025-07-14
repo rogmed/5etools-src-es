@@ -6327,7 +6327,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell dominate person}"
+								"{@spell dominar persona}"
 							]
 						}
 					},
@@ -6817,7 +6817,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell dominate beast}",
+								"{@spell dominar bestia}",
 								"{@spell piel pétrea}"
 							]
 						},

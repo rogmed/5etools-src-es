@@ -5497,7 +5497,7 @@
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell dominate person}",
+								"{@spell dominar persona}",
 								"{@spell seeming}"
 							]
 						},
@@ -6214,7 +6214,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell bigby's hand||arcane hand}",
-								"{@spell dominate person}",
+								"{@spell dominar persona}",
 								"{@spell modify memory}",
 								"{@spell seeming}"
 							]

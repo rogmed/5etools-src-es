@@ -1483,7 +1483,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell dream}"
 						],
 						"3e": [
@@ -3389,7 +3389,7 @@
 					"daily": {
 						"1e": [
 							"{@spell comunión}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell plaga de insectos}",
 							"{@spell mass suggestion}",
 							"{@spell raise dead}"

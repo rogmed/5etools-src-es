@@ -10960,7 +10960,7 @@
 			"source": "PHB",
 			"className": "Brujo",
 			"classSource": "PHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "PHB",
 			"level": 1,
 			"activities": [
@@ -10982,7 +10982,7 @@
 			"source": "PHB",
 			"className": "Brujo",
 			"classSource": "PHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "PHB",
 			"level": 6,
 			"system": {
@@ -11007,7 +11007,7 @@
 			"source": "PHB",
 			"className": "Brujo",
 			"classSource": "PHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "PHB",
 			"level": 10,
 			"entryData": {
@@ -11022,7 +11022,7 @@
 			"source": "PHB",
 			"className": "Brujo",
 			"classSource": "PHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "PHB",
 			"level": 14,
 			"system": {
@@ -20779,7 +20779,7 @@
 			"source": "XPHB",
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -20898,7 +20898,7 @@
 			"source": "XPHB",
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"activities": [
@@ -20997,7 +20997,7 @@
 			"source": "XPHB",
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"activities": [

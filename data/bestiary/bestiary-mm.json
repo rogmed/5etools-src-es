@@ -56690,7 +56690,7 @@
 							"{@spell suggestion}"
 						],
 						"1e": [
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell fly}",
 							"{@spell plane shift}",
 							"{@spell true seeing}"
@@ -62946,7 +62946,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell dominate person}"
+								"{@spell dominar persona}"
 							]
 						}
 					},
@@ -69090,7 +69090,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell dominate person}"
+								"{@spell dominar persona}"
 							]
 						}
 					},
@@ -73996,7 +73996,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell dominate person}"
+							"{@spell dominar persona}"
 						]
 					},
 					"ability": "cha"

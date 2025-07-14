@@ -2080,7 +2080,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Blink",
+			"name": "Desplazamiento",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -2093,14 +2093,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "blink"
+							"foundryId": "desplazamiento"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "blink",
+					"foundryId": "desplazamiento",
 					"name": "Ethereal",
 					"duration": {
 						"rounds": 1
@@ -4444,7 +4444,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Dominate Beast",
+			"name": "Dominar bestia",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -4531,7 +4531,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Dominate Person",
+			"name": "Dominar persona",
 			"source": "XPHB",
 			"activities": [
 				{

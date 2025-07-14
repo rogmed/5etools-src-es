@@ -1840,7 +1840,7 @@
 					"daily": {
 						"3e": [
 							"{@spell animal messenger}",
-							"{@spell dominate beast}",
+							"{@spell dominar bestia}",
 							"{@spell faerie fire}",
 							"{@spell paso arbóreo}"
 						],
@@ -3453,7 +3453,7 @@
 						],
 						"3e": [
 							"{@spell dispel magic}",
-							"{@spell dominate beast}",
+							"{@spell dominar bestia}",
 							"{@spell maze}",
 							"{@spell wall of stone}"
 						]
@@ -13916,7 +13916,7 @@
 					"daily": {
 						"3e": [
 							"{@spell puerta dimensional}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell hypnotic pattern}",
 							"{@spell telekinesis}"
 						]
@@ -18452,7 +18452,7 @@
 					"daily": {
 						"3e": [
 							"{@spell darkness}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell telekinesis}",
 							"{@spell teleport}"
 						],
@@ -18689,7 +18689,7 @@
 						],
 						"1e": [
 							"{@spell confusion}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell mass suggestion}"
 						]
 					},
@@ -26026,7 +26026,7 @@
 							"{@spell wall of fire}"
 						],
 						"1e": [
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell etherealness}",
 							"{@spell feeblemind}"
 						]

@@ -15853,7 +15853,7 @@
 							"{@spell incendiary cloud}"
 						],
 						"3e": [
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell haste}"
 						]
 					},
@@ -29773,7 +29773,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell dominate person}"
+							"{@spell dominar persona}"
 						],
 						"3": [
 							"{@spell glibness}"
@@ -36430,7 +36430,7 @@
 						],
 						"1e": [
 							"{@spell puerta dimensional}",
-							"{@spell dominate person}"
+							"{@spell dominar persona}"
 						]
 					},
 					"ability": "cha",
@@ -47017,7 +47017,7 @@
 					"daily": {
 						"1": [
 							"{@spell confusion}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell greater invisibility}",
 							"{@spell inmovilizar monstruo}",
 							"{@spell phantasmal killer}"

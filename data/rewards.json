@@ -2235,7 +2235,7 @@
 						"_": {
 							"limited": {
 								"1": [
-									"blink",
+									"desplazamiento",
 									"sleep#3"
 								]
 							}
@@ -3971,7 +3971,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"blink"
+									"desplazamiento"
 								]
 							}
 						}

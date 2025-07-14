@@ -2198,10 +2198,10 @@
 			]
 		},
 		{
-			"name": "Blink",
-			"originalname": "",
+			"name": "Desplazamiento",
+			"originalname": "Blink",
 			"source": "XPHB",
-			"page": 248,
+			"page": 270,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -2232,8 +2232,8 @@
 				}
 			],
 			"entries": [
-				"Roll {@dice 1d6} at the end of each of your turns for the duration. On a roll of 4-6, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell ends instantly if you are already on that plane). While on the Ethereal Plane, you can perceive the plane you left, which is cast in shades of gray, but you can't see anything there more than 60 feet away. You can affect and be affected only by other creatures on the Ethereal Plane, and creatures on the other plane can't perceive you unless they have a special ability that lets them perceive things on the Ethereal Plane.",
-				"You return to the other plane at the start of your next turn and when the spell ends if you are on the Ethereal Plane. You return to an unoccupied space of your choice that you can see within 10 feet of the space you left. If no unoccupied space is available within that range, you appear in the nearest unoccupied space."
+				"Tira {@dice 1d6} al final de cada uno de tus turnos hasta que el conjuro termine. Si el resultado es 4-6, desapareces de tu plano de existencia actual y apareces en el Plano Etéreo (el conjuro termina al instante si ya estabas en ese plano). Mientras estás en el Plano Etéreo, puedes percibir lo que sucede en el plano del que procedes, que se muestra en distintos tonos de gris, pero no puedes ver nada que esté a más de 60 pies (18 m). Solo puedes afectar a criaturas que estén en el Plano Etéreo y solo estas criaturas te pueden afectar a ti. Las criaturas que estén en el otro plano no pueden percibirte en el Plano Etéreo a menos que tengan una capacidad especial que les permita percibir cosas en el Plano Etéreo.",
+				"Al principio de tu siguiente turno, y si el conjuro acaba mientras estás en el Plano Etéreo, volverás al otro plano y aparecerás en un espacio sin ocupar de tu elección que puedas ver a 10 pies (3 m) o menos del espacio que hayas abandonado. Si no hay ningún espacio sin ocupar en ese alcance, aparecerás en el espacio sin ocupar más cercano."
 			],
 			"miscTags": [
 				"SGT"
@@ -6152,10 +6152,10 @@
 			]
 		},
 		{
-			"name": "Dominate Beast",
-			"originalname": "",
+			"name": "Dominar bestia",
+			"originalname": "Dominate Beast",
 			"source": "XPHB",
-			"page": 265,
+			"page": 273,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -6188,16 +6188,16 @@
 				}
 			],
 			"entries": [
-				"One Beast you can see within range must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target has {@variantrule Advantage|XPHB} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.",
-				"You have a telepathic link with the {@condition Hechizado|XPHB} target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as \"{@action Attack|XPHB} that creature,\" \"Move over there,\" or \"Fetch that object.\" The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.",
-				"You can command the target to take a {@variantrule Reaction|XPHB} but must take your own {@variantrule Reaction|XPHB} to do so."
+				"Una bestia que puedas ver dentro del alcance deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition Hechizado|XPHB|hechizada} hasta que termine el conjuro. El objetivo tiene ventaja en la tirada si está luchando contra ti o tus aliados. Siempre que reciba daño, repetirá la tirada de salvación y, si tiene éxito, se librará del conjuro.",
+				"Tendrás un vínculo telepático con el objetivo {@condition hechizado|XPHB} mientras estéis en el mismo plano de existencia. En tu turno, puedes usar este vínculo para dar órdenes al objetivo (no requiere acción), como “ataca a esa criatura”, “muévete hacia allí” o “tráeme ese objeto”. En su turno, el objetivo hace todo lo posible por obedecer. Si lleva a cabo una orden y no recibe más instrucciones de tu parte, actúa y se mueve libremente y se centra en protegerse.",
+				"Puedes ordenarle al objetivo que lleve a cabo reacciones, pero para ello deberás usar tu propia reacción."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Your {@status Concentration|XPHB} can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours)."
+						"Tu {@status concentración|XPHB} puede durar más con un espacio de conjuro de nivel 5 (hasta 10 minutos), 6 (hasta 1 hora) o 7 o más (hasta 8 horas)."
 					]
 				}
 			],
@@ -6281,10 +6281,10 @@
 			]
 		},
 		{
-			"name": "Dominate Person",
-			"originalname": "",
+			"name": "Dominar persona",
+			"originalname": "Dominate Person",
 			"source": "XPHB",
-			"page": 266,
+			"page": 274,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -6317,16 +6317,16 @@
 				}
 			],
 			"entries": [
-				"One Humanoid you can see within range must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target has {@variantrule Advantage|XPHB} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.",
-				"You have a telepathic link with the {@condition Hechizado|XPHB} target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as \"{@action Attack|XPHB} that creature,\" \"Move over there,\" or \"Fetch that object.\" The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.",
-				"You can command the target to take a {@variantrule Reaction|XPHB} but must take your own {@variantrule Reaction|XPHB} to do so."
+				"Un humanoide que puedas ver dentro del alcance deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition hechizado|XPHB} hasta que termine el conjuro. El objetivo tiene ventaja en la tirada si está luchando contra ti o tus aliados. Siempre que reciba daño, repetirá la tirada de salvación y, si tiene éxito, se librará del conjuro.",
+				"Tendrás un vínculo telepático con el objetivo {@condition hechizado|XPHB} mientras estéis en el mismo plano de existencia. En tu turno, puedes usar este vínculo para dar órdenes al objetivo (no requiere acción), como “ataca a esa criatura”, “muévete hacia allí” o “tráeme ese objeto”. En su turno, el objetivo hace todo lo posible por obedecer. Si lleva a cabo una orden y no recibe más instrucciones de tu parte, actúa y se mueve libremente y se centra en protegerse.",
+				"Puedes ordenarle al objetivo que lleve a cabo reacciones, pero para ello deberás usar tu propia reacción."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Your {@status Concentration|XPHB} can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours)."
+						"Tu {@status concentración|XPHB} puede durar más con un espacio de conjuro de nivel 6 (hasta 10 minutos), 7 (hasta 1 hora) u 8 o más (hasta 8 horas)."
 					]
 				}
 			],

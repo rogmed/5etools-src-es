@@ -2955,7 +2955,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell dominate beast}",
+								"{@spell dominar bestia}",
 								"{@spell libertad de movimiento}",
 								"{@spell wall of fire}"
 							]
@@ -6585,7 +6585,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell dominate person}"
+							"{@spell dominar persona}"
 						]
 					},
 					"ability": "cha"
@@ -6911,7 +6911,7 @@
 							"{@spell suggestion}"
 						],
 						"1e": [
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell mass suggestion}",
 							"{@spell modify memory}"
 						]
@@ -9779,7 +9779,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell dominate person}"
+								"{@spell dominar persona}"
 							]
 						}
 					},

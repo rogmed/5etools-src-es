@@ -586,7 +586,7 @@
 					"prepared": {
 						"3": [
 							"burning hands|xphb",
-							"faerie fire|xphb",
+							"fuego feérico|xphb",
 							"scorching ray|xphb",
 							"see invisibility|xphb"
 						],
@@ -638,7 +638,7 @@
 							"puerta dimensional|xphb"
 						],
 						"9": [
-							"dominate person|xphb",
+							"dominar persona|xphb",
 							"modify memory|xphb"
 						]
 					}
@@ -1495,7 +1495,7 @@
 						],
 						[
 							"9",
-							"{@spell Modify Memory|XPHB}, {@spell Dominate Person|XPHB}"
+							"{@spell Modify Memory|XPHB}, {@spell Dominar persona|XPHB}"
 						]
 					]
 				}

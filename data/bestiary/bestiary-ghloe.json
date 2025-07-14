@@ -10990,7 +10990,7 @@
 				{
 					"name": "Vitebriance",
 					"entries": [
-						"While on the same plane of existence as a person {@condition charmed} by the vitebriate's Dominate Person action, the vitebriate may leech 1 hp per day permanently from the thrall. When a thrall is reduced to 0 hp through this process, it is killed. Drained hit points are regained after 7 days of rest."
+						"While on the same plane of existence as a person {@condition charmed} by the vitebriate's Dominar persona action, the vitebriate may leech 1 hp per day permanently from the thrall. When a thrall is reduced to 0 hp through this process, it is killed. Drained hit points are regained after 7 days of rest."
 					]
 				}
 			],
@@ -11008,9 +11008,9 @@
 					]
 				},
 				{
-					"name": "Dominate Person",
+					"name": "Dominar persona",
 					"entries": [
-						"A vitebriate can target a single humanoid with dominate person as the spell, with the following differences: once the vitebriate has chosen the target, it can use this ability only on the chosen target (until the next day when it can choose a different target and drop the focus on the current target). The spell does not require {@status concentration} but is broken if the vitebriate is knocked {@condition unconscious} involuntarily or killed (though not if it trances or sleeps). If the person has been {@condition charmed} for at least an hour, damage does not force a new saving throw."
+						"A vitebriate can target a single humanoid with dominar persona as the spell, with the following differences: once the vitebriate has chosen the target, it can use this ability only on the chosen target (until the next day when it can choose a different target and drop the focus on the current target). The spell does not require {@status concentration} but is broken if the vitebriate is knocked {@condition unconscious} involuntarily or killed (though not if it trances or sleeps). If the person has been {@condition charmed} for at least an hour, damage does not force a new saving throw."
 					]
 				}
 			],

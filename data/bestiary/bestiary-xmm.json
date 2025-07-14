@@ -12232,7 +12232,7 @@
 							"{@spell Detect Magic|XPHB}"
 						],
 						"1e": [
-							"{@spell Dominate Person|XPHB} (level 8 version)",
+							"{@spell Dominar persona|XPHB} (level 8 version)",
 							"{@spell Plane Shift|XPHB} (self only)"
 						]
 					},
@@ -52000,7 +52000,7 @@
 				{
 					"name": "Charm",
 					"entries": [
-						"The succubus casts {@spell Dominate Person|XPHB} (level 8 version), requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 15})."
+						"The succubus casts {@spell Dominar persona|XPHB} (level 8 version), requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 15})."
 					]
 				},
 				{
@@ -59505,7 +59505,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell Dominate Person|XPHB}"
+							"{@spell Dominar persona|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -59542,7 +59542,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The yochlol makes two Caustic Lash attacks, and it can use Spellcasting to cast {@spell Telaraña|XPHB} or {@spell Dominate Person|XPHB} if available."
+						"The yochlol makes two Caustic Lash attacks, and it can use Spellcasting to cast {@spell Telaraña|XPHB} or {@spell Dominar persona|XPHB} if available."
 					]
 				},
 				{

@@ -1061,7 +1061,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell dominate person}"
+							"{@spell dominar persona}"
 						],
 						"2e": [
 							"{@spell puerta dimensional}",
@@ -6866,7 +6866,7 @@
 						],
 						"1e": [
 							"{@spell ojo arcano}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell wall of force}"
 						]
 					},

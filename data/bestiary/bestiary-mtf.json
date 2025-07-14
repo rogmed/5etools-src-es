@@ -952,7 +952,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell fireball}"
 						],
 						"1e": [
@@ -2141,7 +2141,7 @@
 						],
 						"3e": [
 							"{@spell dispel magic}",
-							"{@spell dominate beast}",
+							"{@spell dominar bestia}",
 							"{@spell marca del cazador}",
 							"{@spell maze}",
 							"{@spell wall of stone}"
@@ -4019,7 +4019,7 @@
 			"hasFluffImages": true,
 			"_versions": [
 				{
-					"name": "Deathlock (Archfey Patron)",
+					"name": "Deathlock (Patrón feérico)",
 					"source": "MTF",
 					"_mod": {
 						"spellcasting": {
@@ -4295,9 +4295,9 @@
 							"type": "list",
 							"style": "list-hang-notitle",
 							"items": [
-								"Archfey patron: {@spell blink}, {@spell dominate beast}, {@spell dominate person}, {@spell faerie fire}, {@spell greater invisibility}, {@spell hunger of Hadar}, {@spell hypnotic pattern}, {@spell phantasmal force}, {@spell seeming}, {@spell sleep}",
+								"Archfey patron: {@spell blink}, {@spell dominar bestia}, {@spell dominar persona}, {@spell faerie fire}, {@spell greater invisibility}, {@spell hunger of Hadar}, {@spell hypnotic pattern}, {@spell phantasmal force}, {@spell seeming}, {@spell sleep}",
 								"Fiend patron: {@spell blindness/deafness}, {@spell burning hands}, {@spell command}, {@spell fire shield}, {@spell fireball}, {@spell flame strike}, {@spell hellish rebuke}, {@spell scorching ray}, {@spell nube apestosa}, {@spell wall of fire}",
-								"Great Old One patron: {@spell clairvoyance}, {@spell detect thoughts}, {@spell dissonant whispers}, {@spell dominate person}, {@spell Evard's black tentacles}, {@spell hunger of Hadar}, {@spell phantasmal force}, {@spell sending}, {@spell Tasha's hideous laughter}, {@spell telekinesis}"
+								"Great Old One patron: {@spell clairvoyance}, {@spell detect thoughts}, {@spell dissonant whispers}, {@spell dominar persona}, {@spell Evard's black tentacles}, {@spell hunger of Hadar}, {@spell phantasmal force}, {@spell sending}, {@spell Tasha's hideous laughter}, {@spell telekinesis}"
 							]
 						}
 					]
@@ -4355,7 +4355,7 @@
 			"hasFluffImages": true,
 			"_versions": [
 				{
-					"name": "Deathlock Mastermind (Archfey Patron)",
+					"name": "Deathlock Mastermind (Patrón feérico)",
 					"source": "MTF",
 					"_mod": {
 						"spellcasting": {
@@ -4380,8 +4380,8 @@
 										"slots": 2,
 										"spells": [
 											"{@spell blink}",
-											"{@spell dominate beast}",
-											"{@spell dominate person}",
+											"{@spell dominar bestia}",
+											"{@spell dominar persona}",
 											"{@spell faerie fire}",
 											"{@spell greater invisibility}",
 											"{@spell hunger of Hadar}",
@@ -4470,7 +4470,7 @@
 											"{@spell clairvoyance}",
 											"{@spell detect thoughts}",
 											"{@spell dissonant whispers}",
-											"{@spell dominate person}",
+											"{@spell dominar persona}",
 											"{@spell Evard's black tentacles}",
 											"{@spell hunger of Hadar}",
 											"{@spell phantasmal force}",
@@ -8852,7 +8852,7 @@
 						"3e": [
 							"{@spell confusion}",
 							"{@spell puerta dimensional}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell fear}",
 							"{@spell hallucinatory terrain}",
 							"{@spell inmovilizar monstruo}",
@@ -11449,7 +11449,7 @@
 						"3e": [
 							"{@spell counterspell}",
 							"{@spell darkness}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell sanctuary}",
 							"{@spell telekinesis}",
 							"{@spell teleport}"
@@ -11685,7 +11685,7 @@
 						],
 						"1e": [
 							"{@spell confusion}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell mass suggestion}"
 						]
 					},
@@ -14994,7 +14994,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell dominate person}",
+								"{@spell dominar persona}",
 								"{@spell dream}",
 								"{@spell geas}"
 							]

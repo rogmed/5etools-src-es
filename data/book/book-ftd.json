@@ -12233,12 +12233,12 @@
 										[
 											"{@creature Adult Red Dragon||Adult}",
 											"19",
-											"{@spell bane}, {@spell dominate person}, {@spell heat metal}, {@spell hypnotic pattern}, {@spell suggestion}"
+											"{@spell bane}, {@spell dominar persona}, {@spell heat metal}, {@spell hypnotic pattern}, {@spell suggestion}"
 										],
 										[
 											"{@creature Ancient Red Dragon||Ancient}",
 											"21",
-											"{@spell bane}, {@spell dominate person}, {@spell heat metal}, {@spell hypnotic pattern}, {@spell power word stun}, {@spell suggestion}"
+											"{@spell bane}, {@spell dominar persona}, {@spell heat metal}, {@spell hypnotic pattern}, {@spell power word stun}, {@spell suggestion}"
 										]
 									]
 								}

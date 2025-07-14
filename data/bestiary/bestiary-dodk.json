@@ -4980,7 +4980,7 @@
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell dominate person}",
+								"{@spell dominar persona}",
 								"{@spell scrying}",
 								"{@spell seeming}"
 							]

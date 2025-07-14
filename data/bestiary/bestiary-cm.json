@@ -1652,7 +1652,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell dominate person}",
+										"{@spell dominar persona}",
 										"{@spell seeming}"
 									]
 								},

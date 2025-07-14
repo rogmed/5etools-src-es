@@ -400,34 +400,34 @@
 	],
 	"subclass": [
 		{
-			"name": "Archfey Patron",
-			"shortName": "Archfey",
+			"name": "Patrón feérico",
+			"shortName": "Feérico",
 			"source": "XPHB",
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"page": 159,
+			"page": 76,
 			"edition": "one",
 			"additionalSpells": [
 				{
 					"prepared": {
 						"3": [
-							"calm emotions|xphb",
-							"faerie fire|xphb",
+							"calmar emociones|xphb",
+							"fuego feérico|xphb",
 							"paso brumoso|xphb",
-							"phantasmal force|xphb",
+							"fuerza fantasmal|xphb",
 							"dormir|xphb"
 						],
 						"5": [
-							"blink|xphb",
+							"desplazamiento|xphb",
 							"crecimiento vegetal|xphb"
 						],
 						"7": [
-							"dominate beast|xphb",
-							"greater invisibility|xphb"
+							"dominar bestia|xphb",
+							"invisibilidad mejorada|xphb"
 						],
 						"9": [
-							"dominate person|xphb",
-							"seeming|xphb"
+							"dominar persona|xphb",
+							"apariencia|xphb"
 						]
 					},
 					"innate": {
@@ -442,10 +442,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Archfey Patron|Brujo|XPHB|Archfey|XPHB|3",
-				"Misty Escape|Brujo|XPHB|Archfey|XPHB|6",
-				"Beguiling Defenses|Brujo|XPHB|Archfey|XPHB|10",
-				"Bewitching Magic|Brujo|XPHB|Archfey|XPHB|14"
+				"Patrón feérico|Brujo|XPHB|Feérico|XPHB|3",
+				"Escape brumoso|Brujo|XPHB|Feérico|XPHB|6",
+				"Defensas seductoras|Brujo|XPHB|Feérico|XPHB|10",
+				"Magia embrujadora|Brujo|XPHB|Feérico|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
@@ -551,7 +551,7 @@
 						"3": [
 							"detect thoughts|xphb",
 							"dissonant whispers|xphb",
-							"phantasmal force|xphb",
+							"fuerza fantasmal|xphb",
 							"tasha's hideous laughter|xphb"
 						],
 						"5": [
@@ -1118,45 +1118,45 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "Archfey Patron",
+			"name": "Patrón feérico",
 			"source": "XPHB",
-			"page": 159,
+			"page": 76,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Bargain with Whimsical Fey}",
-				"Your pact draws on the power of the Feywild. When you choose this subclass, you might make a deal with an archfey, such as the Prince of Frost; the Queen of Air and {@variantrule Darkness|XPHB}, ruler of the Gloaming Court; Titania of the Summer Court; or an ancient hag. Or you might call on a spectrum of Fey, weaving a web of favors and debts. Whoever they are, your patron is often inscrutable and whimsical.",
+				"{@i Negocia con feéricos extravagantes}",
+				"Tu pacto recurre a la energía de los Parajes Feéricos. Si eliges esta subclase, puedes hacer un trato con un señor feérico, como el Príncipe de la Escarcha; la Reina del Aire y la Oscuridad, gobernante de la Corte Crepuscular; Titania de la Corte del Verano, o sagas muy ancianas. Si no, puedes recurrir a una variedad de feéricos y tejer una red de favores y deudas. Sea quien sea, tu patrón suele resultar caprichoso e inescrutable.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Archfey Spells|Brujo|XPHB|Archfey|XPHB|3"
+					"subclassFeature": "Conjuros del señor feérico|Brujo|XPHB|Feérico|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Steps of the Fey|Brujo|XPHB|Archfey|XPHB|3"
+					"subclassFeature": "Pasos feéricos|Brujo|XPHB|Feérico|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Archfey Spells",
+			"name": "Conjuros del señor feérico",
 			"source": "XPHB",
-			"page": 159,
+			"page": 76,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Archfey Spells table, you thereafter always have the listed spells prepared.",
+				"La magia de tu patrón garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de brujo especificado en la tabla “Conjuros del señor feérico”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Archfey Spells",
+					"caption": "CONJUROS DEL SEÑOR FEÉRICO",
 					"colLabels": [
-						"Warlock Level",
-						"Spells"
+						"Nivel de brujo",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1169,115 +1169,117 @@
 						],
 						[
 							"5",
-							"{@spell Blink|XPHB}, {@spell Crecimiento vegetal|XPHB}"
+							"{@spell Desplazamiento|XPHB}, {@spell Crecimiento vegetal|XPHB}"
 						],
 						[
 							"7",
-							"{@spell Dominate Beast|XPHB}, {@spell Invisibilidad mejorada|XPHB}"
+							"{@spell Dominar bestia|XPHB}, {@spell Invisibilidad mejorada|XPHB}"
 						],
 						[
 							"9",
-							"{@spell Dominate Person|XPHB}, {@spell Apariencia|XPHB}"
+							"{@spell Dominar persona|XPHB}, {@spell Apariencia|XPHB}"
 						]
 					]
 				}
 			]
 		},
 		{
-			"name": "Steps of the Fey",
+			"name": "Pasos feéricos",
 			"source": "XPHB",
-			"page": 159,
+			"page": 76,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Your patron grants you the ability to move between the boundaries of the planes. You can cast {@spell Paso brumoso|XPHB} without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Descanso largo|XPHB}.",
-				"In addition, whenever you cast that spell, you can choose one of the following additional effects.",
+				"Tu patrón te otorga la capacidad de desplazarte entre los límites de los planos. Puedes lanzar {@spell paso brumoso|XPHB} sin gastar un espacio de conjuro una cantidad de veces igual a tu modificador por Carisma (mínimo una vez) y recuperas todos los usos tras finalizar un descanso largo.",
+				"Además, siempre que lances el conjuro, puedes elegir uno de los siguientes efectos adicionales.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Refreshing Step",
+							"name": "Paso burlón",
 							"entries": [
-								"Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains {@dice 1d10} {@variantrule Temporary Hit Points|XPHB}."
+								"Las criaturas a  5 pies (1,5 m) o menos del espacio que hayas abandonado deberán superar una tirada de salvación de Sabiduría contra tu CD de salvación de conjuros o tendrán desventaja en las tiradas de ataque contra criaturas que no seas tú hasta el principio de tu siguiente turno."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Taunting Step",
+							"name": "Paso refrescante",
 							"entries": [
-								"Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have {@variantrule Disadvantage|XPHB} on attack rolls against creatures other than you until the start of your next turn."
+								"Inmediatamente después de teletransportarte, tú o una criatura que puedas ver a 10 pies (3 m) o menos de ti obtenéis {@dice 1d10} puntos de golpe temporales."
 							]
 						}
+
 					]
 				}
 			]
 		},
 		{
-			"name": "Misty Escape",
+			"name": "Escape brumoso",
 			"source": "XPHB",
-			"page": 159,
+			"page": 76,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You can cast {@spell Paso brumoso|XPHB} as a {@variantrule Reaction|XPHB} in response to taking damage.",
-				"In addition, the following effects are now among your Steps of the Fey options.",
+				"Puedes lanzar {@spell paso brumoso|XPHB} como reacción en respuesta a recibir daño.",
+				"Además, ahora cuentas con los siguientes efectos entre tus opciones de Pasos feéricos.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Disappearing Step",
+							"name": "Paso aterrador.",
 							"entries": [
-								"You have the {@condition Invisible|XPHB} condition until the start of your next turn or until immediately after you make an attack roll, deal damage, or cast a spell."
+								"Las criaturas a 5 pies (1,5 m) o menos del espacio que hayas abandonado o del espacio en el que aparezcas (a tu elección) deberán superar una tirada de salvación de Sabiduría contra tu CD de salvación de conjuros o sufrirán {@damage 2d10} de daño psíquico."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Dreadful Step",
+							"name": "Paso desvanecedor",
 							"entries": [
-								"Creatures within 5 feet of the space you left or the space you appear in (your choice) must succeed on a Wisdom saving throw against your spell save DC or take {@damage 2d10} Psychic damage."
+								"Tienes el estado de {@condition invisible|XPHB} hasta el principio de tu siguiente turno o hasta justo después de que hagas una tirada de ataque, causes daño o lances un conjuro."
 							]
 						}
+
 					]
 				}
 			]
 		},
 		{
-			"name": "Beguiling Defenses",
+			"name": "Defensas seductoras",
 			"source": "XPHB",
-			"page": 159,
+			"page": 77,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"Your patron teaches you how to guard your mind and body. You are immune to the {@condition Hechizado|XPHB} condition.",
-				"In addition, immediately after a creature you can see hits you with an attack roll, you can take a {@variantrule Reaction|XPHB} to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this {@variantrule Reaction|XPHB}, you can't use it again until you finish a {@variantrule Descanso largo|XPHB} unless you expend a Magia del pacto spell slot (no action required) to restore your use of it."
+				"Tu patrón te enseña a proteger tu mente y cuerpo. Eres inmune al estado de {@condition hechizado|XPHB}.",
+				"Además, inmediatamente después de que una criatura que puedas ver te acierte con una tirada de ataque, puedes usar una reacción para reducir a la mitad el daño que recibes (redondeando hacia abajo) y obligar al atacante a hacer una tirada de salvación de Sabiduría contra tu CD de salvación de conjuros. Si la falla, sufrirá una cantidad de daño psíquico igual al daño que tú recibas. Cuando uses esta reacción, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un espacio de conjuro de Magia del pacto (no requiere acción) para restablecer su uso."
 			]
 		},
 		{
-			"name": "Bewitching Magic",
+			"name": "Magia embrujadora",
 			"source": "XPHB",
-			"page": 160,
+			"page": 77,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast {@spell Paso brumoso|XPHB} as part of the same action and without expending a spell slot."
+				"Tu patrón te otorga la capacidad de entrelazar tu magia con la teletransportación. Inmediatamente después de lanzar un conjuro de encantamiento o ilusionismo usando una acción y un espacio de conjuro, puedes lanzar {@spell paso brumoso|XPHB} como parte de la misma acción y sin gastar otro espacio de conjuro."
 			]
 		},
 		{
@@ -1318,8 +1320,8 @@
 					"type": "table",
 					"caption": "Celestial Spells",
 					"colLabels": [
-						"Warlock Level",
-						"Spells"
+						"Nivel de brujo",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1462,8 +1464,8 @@
 					"type": "table",
 					"caption": "Fiend Spells",
 					"colLabels": [
-						"Warlock Level",
-						"Spells"
+						"Nivel de brujo",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-2 text-center",
@@ -1597,8 +1599,8 @@
 					"type": "table",
 					"caption": "Great Old One Spells",
 					"colLabels": [
-						"Warlock Level",
-						"Spells"
+						"Nivel de brujo",
+						"Conjuros"
 					],
 					"colStyles": [
 						"col-2 text-center",

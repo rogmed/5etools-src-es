@@ -2843,7 +2843,7 @@
 						"2e": [
 							"{@spell banishment}",
 							"{@spell counterspell}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell fireball}",
 							"{@spell relámpago}",
 							"{@spell Imagen múltiple}",
@@ -2882,7 +2882,7 @@
 				{
 					"name": "Conjuro gemelo",
 					"entries": [
-						"Eo uses Spellcasting to cast {@spell banishment}, dominate person, finger of death, or power word stun. This spell targets a second creature in range."
+						"Eo uses Spellcasting to cast {@spell banishment}, dominar persona, finger of death, or power word stun. This spell targets a second creature in range."
 					]
 				},
 				{
@@ -5941,7 +5941,7 @@
 							"{@spell wish}"
 						],
 						"2e": [
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell hypnotic pattern}",
 							"{@spell plane shift} (only itself and willing creatures)"
 						]
@@ -6377,7 +6377,7 @@
 						"2e": [
 							"{@spell crown of madness}",
 							"{@spell detect thoughts}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell fear}",
 							"{@spell fireball}",
 							"{@spell phantasmal force}",

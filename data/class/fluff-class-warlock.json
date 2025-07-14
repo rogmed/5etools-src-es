@@ -42,8 +42,8 @@
 	],
 	"subclassFluff": [
 		{
-			"name": "Archfey Patron",
-			"shortName": "Archfey",
+			"name": "Patrón feérico",
+			"shortName": "Feérico",
 			"source": "XPHB",
 			"className": "Brujo",
 			"classSource": "XPHB",

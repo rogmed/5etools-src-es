@@ -15641,7 +15641,7 @@
 				"credit": "Joanna Barnum"
 			},
 			"entries": [
-				"As an action, you can brandish this card and use it to cast the {@spell Contact Other Plane} spell. When you cast the spell in this way, your questions are answered by the mysterious figure depicted on the card. Once this property is used, it can't be used again until the next dawn."
+				"As an action, you can brandish this card and use it to cast the {@spell Contactar con otro plano} spell. When you cast the spell in this way, your questions are answered by the mysterious figure depicted on the card. Once this property is used, it can't be used again until the next dawn."
 			]
 		},
 		{
@@ -16973,7 +16973,7 @@
 				"height": 959
 			},
 			"entries": [
-				"This black card spells disaster. Your soul is drawn from your body and held within machinery in either the control room of the Monastery of the Distressed Body (area M8) or Kwalish's lab in Daoine Gloine (area O7), whichever comes later in the adventure. While your soul is trapped in this way, your body is {@condition incapacitated}. {@spell Divination}, {@spell contact other plane}, or a similar spell of 4th level or higher reveals the location of the machinery that holds your soul. You draw no more cards."
+				"This black card spells disaster. Your soul is drawn from your body and held within machinery in either the control room of the Monastery of the Distressed Body (area M8) or Kwalish's lab in Daoine Gloine (area O7), whichever comes later in the adventure. While your soul is trapped in this way, your body is {@condition incapacitated}. {@spell Divination}, {@spell contactar con otro plano}, or a similar spell of 4th level or higher reveals the location of the machinery that holds your soul. You draw no more cards."
 			]
 		},
 		{

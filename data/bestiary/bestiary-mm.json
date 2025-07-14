@@ -8327,7 +8327,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell contact other plane}",
+								"{@spell contactar con otro plano}",
 								"{@spell inmovilizar monstruo}"
 							]
 						},
@@ -36438,7 +36438,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell contact other plane}",
+										"{@spell contactar con otro plano}",
 										"{@spell scrying}"
 									]
 								},
@@ -36559,7 +36559,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell contact other plane}",
+											"{@spell contactar con otro plano}",
 											"{@spell scrying}"
 										]
 									},
@@ -50406,7 +50406,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell contact other plane}",
+										"{@spell contactar con otro plano}",
 										"{@spell scrying}"
 									]
 								},
@@ -50528,7 +50528,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell contact other plane}",
+											"{@spell contactar con otro plano}",
 											"{@spell scrying}"
 										]
 									},
@@ -60142,7 +60142,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell contact other plane}",
+										"{@spell contactar con otro plano}",
 										"{@spell scrying}"
 									]
 								},
@@ -60257,7 +60257,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell contact other plane}",
+											"{@spell contactar con otro plano}",
 											"{@spell scrying}"
 										]
 									},

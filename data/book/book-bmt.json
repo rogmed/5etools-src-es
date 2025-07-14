@@ -479,7 +479,7 @@
 										{
 											"type": "item",
 											"name": "Sage",
-											"entry": "As an action, you can brandish this card and use it to cast the {@spell Contact Other Plane} spell. When you cast the spell in this way, your questions are answered by the mysterious figure depicted on the card. Once this property is used, it can't be used again until the next dawn."
+											"entry": "As an action, you can brandish this card and use it to cast the {@spell Contactar con otro plano} spell. When you cast the spell in this way, your questions are answered by the mysterious figure depicted on the card. Once this property is used, it can't be used again until the next dawn."
 										},
 										{
 											"type": "item",
@@ -19592,7 +19592,7 @@
 												"A swirling starlight glow hovers above the floor here. The door in the east wall is the Balance card, and the door in the west wall is the Rogue card. The chamber is colder than other areas you've visited in the House of Cards."
 											]
 										},
-										"The starlight glow is a conduit to a living star (see the \"{@book Variant: Servants of Living Stars|BMT|20|Variant: Servants of Living Stars}\" sidebar in {@book chapter 21|BMT|20} for examples). A creature that spends 10 minutes concentrating on the glow can contact the star and ask it questions as if using the {@spell Contact Other Plane} spell, including all the risks associated with that spell. A character who examines the starlight glow and succeeds on a {@dc 18} Intelligence ({@skill Arcana}) check intuits its purpose and property.",
+										"The starlight glow is a conduit to a living star (see the \"{@book Variant: Servants of Living Stars|BMT|20|Variant: Servants of Living Stars}\" sidebar in {@book chapter 21|BMT|20} for examples). A creature that spends 10 minutes concentrating on the glow can contact the star and ask it questions as if using the {@spell Contactar con otro plano} spell, including all the risks associated with that spell. A character who examines the starlight glow and succeeds on a {@dc 18} Intelligence ({@skill Arcana}) check intuits its purpose and property.",
 										{
 											"type": "entries",
 											"name": "Secret Door",

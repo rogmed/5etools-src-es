@@ -3923,7 +3923,7 @@
 						"0": {
 							"spells": [
 								"{@spell chill touch}",
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell mage hand}"
 							]
 						},
@@ -4034,7 +4034,7 @@
 									"0": {
 										"spells": [
 											"{@spell chill touch}",
-											"{@spell eldritch blast}",
+											"{@spell descarga sobrenatural}",
 											"{@spell mage hand}"
 										]
 									},
@@ -4073,7 +4073,7 @@
 									"0": {
 										"spells": [
 											"{@spell chill touch}",
-											"{@spell eldritch blast}",
+											"{@spell descarga sobrenatural}",
 											"{@spell mage hand}"
 										]
 									},
@@ -4112,7 +4112,7 @@
 									"0": {
 										"spells": [
 											"{@spell chill touch}",
-											"{@spell eldritch blast}",
+											"{@spell descarga sobrenatural}",
 											"{@spell mage hand}"
 										]
 									},
@@ -5607,7 +5607,7 @@
 						"0": {
 							"spells": [
 								"{@spell chill touch}",
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell mage hand}",
 								"{@spell poison spray}"
 							]
@@ -11111,7 +11111,7 @@
 								"{@spell minor illusion}",
 								"{@spell prestidigitation}",
 								"{@spell chill touch}",
-								"{@spell eldritch blast}*"
+								"{@spell descarga sobrenatural}*"
 							]
 						},
 						"5": {
@@ -11126,7 +11126,7 @@
 								"{@spell fear}",
 								"{@spell hypnotic pattern}",
 								"{@spell major image}",
-								"{@spell contact other plane}",
+								"{@spell contactar con otro plano}",
 								"{@spell vampiric touch}",
 								"{@spell witch bolt}"
 							]
@@ -19456,7 +19456,7 @@
 						"The larva mage's innate spellcasting ability is Charisma (spell save {@dc 16}, {@hit 8} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell eldritch blast}*",
+						"{@spell descarga sobrenatural}*",
 						"{@spell minor illusion}"
 					],
 					"daily": {

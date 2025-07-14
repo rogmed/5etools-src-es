@@ -91,7 +91,7 @@
 				{
 					"prepared": {
 						"9": [
-							"contact other plane|xphb"
+							"contactar con otro plano|xphb"
 						]
 					}
 				}
@@ -364,9 +364,9 @@
 				"Invocaciones sobrenaturales|Brujo|XPHB|1",
 				"Magia del pacto|Brujo|XPHB|1",
 				"Opciones de invocación sobrenatural|Brujo|XPHB|1",
-				"Magical Cunning|Brujo|XPHB|2",
+				"Astucia mágica|Brujo|XPHB|2",
 				{
-					"classFeature": "Warlock Subclass|Brujo|XPHB|3",
+					"classFeature": "Subclase de brujo|Brujo|XPHB|3",
 					"gainSubclassFeature": true
 				},
 				"Mejora de característica|Brujo|XPHB|4",
@@ -375,25 +375,25 @@
 					"gainSubclassFeature": true
 				},
 				"Mejora de característica|Brujo|XPHB|8",
-				"Contact Patron|Brujo|XPHB|9",
+				"Contactar patrón|Brujo|XPHB|9",
 				{
 					"classFeature": "Rasgo de subclase|Brujo|XPHB|10",
 					"gainSubclassFeature": true
 				},
-				"Mystic Arcanum|Brujo|XPHB|11",
+				"Arcanum místico|Brujo|XPHB|11",
 				"Mejora de característica|Brujo|XPHB|12",
-				"Mystic Arcanum|Brujo|XPHB|13",
+				"Arcanum místico|Brujo|XPHB|13",
 				{
 					"classFeature": "Rasgo de subclase|Brujo|XPHB|14",
 					"gainSubclassFeature": true
 				},
-				"Mystic Arcanum|Brujo|XPHB|15",
+				"Arcanum místico|Brujo|XPHB|15",
 				"Mejora de característica|Brujo|XPHB|16",
-				"Mystic Arcanum|Brujo|XPHB|17",
+				"Arcanum místico|Brujo|XPHB|17",
 				"Don épico|Brujo|XPHB|19",
-				"Eldritch Master|Brujo|XPHB|20"
+				"Maestro sobrenatural|Brujo|XPHB|20"
 			],
-			"subclassTitle": "Warlock Subclass",
+			"subclassTitle": "Subclase de brujo",
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
@@ -569,7 +569,7 @@
 					},
 					"innate": {
 						"10": [
-							"hex|xphb"
+							"maleficio|xphb"
 						]
 					}
 				}
@@ -852,51 +852,51 @@
 							"type": "entries",
 							"name": "Trucos",
 							"entries": [
-								"You know two Warlock cantrips of your choice. {@spell Eldritch Blast|XPHB} and {@spell Prestidigitación|XPHB} are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.",
-								"When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table."
+								"Conoces dos {@filter trucos|spells|class=Brujo|level=0} de brujo de tu elección. Se recomiendan {@i {@spell descarga sobrenatural|XPHB}} y {@i {@spell prestidigitación|XPHB}}. Cada vez que subas un nivel de brujo, puedes sustituir uno de tus trucos de este rasgo por otro truco de brujo de tu elección.",
+								"Cuando alcanzas los niveles 4 y 10 de brujo, aprendes otro truco de brujo de tu elección, como se muestra en la columna “{@filter Trucos|spells|class=Brujo|level=0}” de la tabla “Rasgos de brujo”."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Spell Slots",
+							"name": "Espacios de conjuro",
 							"entries": [
-								"The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1\u20135. The table also shows the level of those slots, all of which are the same level. You regain all expended Magia del pacto spell slots when you finish a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}.",
-								"For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell {@spell Witch Bolt|XPHB}, you must spend one of those slots, and you cast it as a level 3 spell."
+								"La tabla “Rasgos de brujo” muestra cuántos espacios de conjuro tienes para lanzar tus conjuros de brujo de los niveles 1 a 5. La tabla también te indica de qué nivel son dichos espacios, todos los cuales son del mismo nivel. Recuperas todos los espacios utilizados de Magia del pacto tras finalizar un descanso corto o largo.",
+								"Por ejemplo, en el nivel 5 de brujo tienes dos espacios de conjuro de nivel 3. Para lanzar el conjuro de nivel 1 {@i {@spell rayo de hechicería|XPHB}}, deberás gastar uno de esos espacios y lo lanzarás como un conjuro de nivel 3."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Prepared Spells of Level 1+",
+							"name": "Conjuros preparados de nivel 1 y superiores",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. {@spell Charm Person|XPHB} and {@spell Hex|XPHB} are recommended."
+								"Preparas una serie de conjuros de nivel 1 y superiores, que son los que podrás lanzar con este rasgo. Para empezar, elige dos conjuros de brujo de nivel 1. Se recomiendan {@i {@spell hechizar persona|XPHB}} y {@i {@spell maleficio|XPHB}}."
 							]
 						}
 					]
 				},
-				"The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1\u20133.",
-				"If another Warlock feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.",
+				"El número de conjuros de tu lista aumenta conforme subes de nivel de brujo, como se muestra en la columna “{@filter Conjuros preparados|spells|class=Brujo}” de la tabla “Rasgos de brujo”. Cuando ese número aumente, elige conjuros de brujo adicionales hasta que el número de conjuros de tu lista coincida con el número de la tabla. Los conjuros que elijas deben ser de un nivel igual o inferior al que aparece en la columna “Nivel de los espacios” para tu nivel. Cuando alcanzas el nivel 6, por ejemplo, aprendes un nuevo conjuro de brujo que puede ser de los niveles 1 a 3.",
+				"Si otro rasgo de brujo te proporciona conjuros que siempre tienes preparados, esos conjuros no cuentan para el total que puedes preparar con este rasgo, pero sí que cuentan como conjuros de brujo para ti.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Changing Your Prepared Spells",
+							"name": "Cambiar los conjuros preparados",
 							"entries": [
-								"Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level."
+								"Cada vez que subas un nivel de brujo, puedes sustituir un conjuro de tu lista por otro conjuro de brujo de un nivel adecuado."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Spellcasting Ability",
+							"name": "Aptitud mágica",
 							"entries": [
-								"Charisma is the spellcasting ability for your Warlock spells."
+								"El Carisma es tu aptitud mágica en lo que respecta a tus conjuros de brujo."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Canalizador mágico",
 							"entries": [
-								"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Warlock spells."
+								"Puedes utilizar un canalizador arcano como canalizador mágico para tus conjuros de brujo."
 							]
 						}
 					]
@@ -904,61 +904,61 @@
 			]
 		},
 		{
-			"name": "Magical Cunning",
+			"name": "Astucia mágica",
 			"source": "XPHB",
-			"page": 154,
+			"page": 70,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Magia del pacto spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a {@variantrule Descanso largo|XPHB}."
+				"Puedes llevar a cabo un rito esotérico durante 1 minuto. Al terminarlo, recuperas una cantidad de espacios de conjuro utilizados de Magia del pacto igual o inferior a la mitad de tu máximo (redondeando hacia arriba). Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo."
 			]
 		},
 		{
-			"name": "Warlock Subclass",
+			"name": "Subclase de brujo",
 			"source": "XPHB",
-			"page": 154,
+			"page": 70,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower."
+				"Consigues una subclase de brujo de tu elección. Una subclase es una especialización que te proporciona rasgos cuando alcanzas ciertos niveles de brujo. De aquí en adelante, obtienes todos los rasgos de tu subclase que sean de tu nivel de brujo e inferiores."
 			]
 		},
 		{
 			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. You gain this feature again at Warlock levels 8, 12, and 16."
+				"Obtienes la dote {@feat Mejora de característica|XPHB} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. Vuelves a obtener este rasgo en los niveles 8, 12 y 16 de brujo."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain a feature from your Warlock subclass."
+				"Obtienes un rasgo de tu subclase de brujo."
 			]
 		},
 		{
 			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
@@ -969,52 +969,52 @@
 			]
 		},
 		{
-			"name": "Contact Patron",
+			"name": "Contactar patrón",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the {@spell Contact Other Plane|XPHB} spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.",
-				"Once you cast the spell with this feature, you can't do so in this way again until you finish a {@variantrule Descanso largo|XPHB}."
+				"Antes solías ponerte en contacto con tu patrón a través de intermediarios. Ahora puedes comunicarte directamente, ya que siempre tienes el conjuro {@spell contactar con otro plano|XPHB} preparado. Con este rasgo, puedes lanzar el conjuro sin gastar un espacio de conjuro para contactar con tu patrón y superas automáticamente la tirada de salvación del conjuro.",
+				"Cuando lances el conjuro con este rasgo, no podrás volver a hacerlo de esta forma hasta que finalices un descanso largo."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You gain a feature from your Warlock subclass."
+				"Obtienes un rasgo de tu subclase de brujo."
 			]
 		},
 		{
-			"name": "Mystic Arcanum",
+			"name": "Arcanum místico",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.",
-				"You can cast your arcanum spell once without expending a spell slot, and you must finish a {@variantrule Descanso largo|XPHB} before you can cast it in this way again.",
-				"As shown in the Warlock Features table, you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a {@variantrule Descanso largo|XPHB}.",
-				"Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level."
+				"Tu patrón te recompensa con un secreto mágico denominado arcanum. Escoge uno de los conjuros de brujo de nivel 6 como este arcanum.",
+				"Puedes lanzar tu conjuro de arcanum una vez sin gastar un espacio de conjuro y debes finalizar un descanso largo antes de poder volver a lanzarlo de este modo.",
+				"Obtendrás más conjuros de brujo de tu elección que podrás lanzar de esta forma cuando alcances los niveles 13 (conjuro de nivel 7), 15 (conjuro de nivel 8) y 17 (conjuro de nivel 9) de brujo, como se muestra en la tabla “Rasgos de brujo”. Recuperas todos los usos de tu Arcanum místico tras finalizar un descanso largo.",
+				"Siempre que subas un nivel de brujo, puedes sustituir uno de tus conjuros de arcanum por otro conjuro de brujo del mismo nivel."
 			]
 		},
 		{
 			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
@@ -1025,48 +1025,48 @@
 			]
 		},
 		{
-			"name": "Mystic Arcanum",
+			"name": "Arcanum místico",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
-				"You gain a level 7 Warlock Spell of your choice."
+				"Obtienes un conjuro de brujo de nivel 7 de tu elección."
 			]
 		},
 		{
 			"name": "Rasgo de subclase",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You gain a feature from your Warlock subclass."
+				"Obtienes un rasgo de tu subclase de brujo."
 			]
 		},
 		{
-			"name": "Mystic Arcanum",
+			"name": "Arcanum místico",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"You gain a level 8 Warlock Spell of your choice."
+				"Obtienes un conjuro de brujo de nivel 8 de tu elección."
 			]
 		},
 		{
 			"name": "Mejora de característica",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
@@ -1077,42 +1077,42 @@
 			]
 		},
 		{
-			"name": "Mystic Arcanum",
+			"name": "Arcanum místico",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"You gain a level 9 Warlock Spell of your choice."
+				"Obtienes un conjuro de brujo de nivel 9 de tu elección."
 			]
 		},
 		{
 			"name": "Don épico",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Don del destino|XPHB} is recommended."
+				"Obtienes una {@filter dote de don épico|feats|category=DE} u otra {@5etools dote|feats.html} de tu elección para la que cumplas las condiciones. Se recomienda {@feat Don del destino|XPHB}."
 			]
 		},
 		{
-			"name": "Eldritch Master",
+			"name": "Maestro sobrenatural",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"When you use your Magical Cunning feature, you regain all your expended Magia del pacto spell slots."
+				"Cuando empleas tu rasgo Astucia mágica, recuperas todos los espacios de conjuro utilizados de Magia del pacto."
 			]
 		}
 	],
@@ -1386,7 +1386,7 @@
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"You gain {@variantrule Temporary Hit Points|XPHB} whenever you use your Magical Cunning feature or finish a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}. These {@variantrule Temporary Hit Points|XPHB} equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain {@variantrule Temporary Hit Points|XPHB} equal to half your Warlock level plus your Charisma modifier."
+				"You gain {@variantrule Temporary Hit Points|XPHB} whenever you use your Astucia mágica feature or finish a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}. These {@variantrule Temporary Hit Points|XPHB} equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain {@variantrule Temporary Hit Points|XPHB} equal to half your Warlock level plus your Charisma modifier."
 			]
 		},
 		{
@@ -1665,7 +1665,7 @@
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"Your alien patron grants you a powerful curse. You always have the {@spell Hex|XPHB} spell prepared. When you cast {@spell Hex|XPHB} and choose an ability, the target also has {@variantrule Disadvantage|XPHB} on saving throws of the chosen ability for the duration of the spell."
+				"Your alien patron grants you a powerful curse. You always have the {@spell maleficio|XPHB} spell prepared. When you cast {@spell maleficio|XPHB} and choose an ability, the target also has {@variantrule Disadvantage|XPHB} on saving throws of the chosen ability for the duration of the spell."
 			]
 		},
 		{
@@ -1694,7 +1694,7 @@
 			"header": 2,
 			"entries": [
 				"When you cast {@spell Invocar aberración|XPHB}, you can modify it so that it doesn't require {@status Concentration|XPHB}. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of {@variantrule Temporary Hit Points|XPHB} equal to your Warlock level plus your Charisma modifier.",
-				"In addition, the first time each turn the Aberration hits a creature under the effect of your {@spell Hex|XPHB}, the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell."
+				"In addition, the first time each turn the Aberration hits a creature under the effect of your {@spell maleficio|XPHB}, the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell."
 			]
 		}
 	]

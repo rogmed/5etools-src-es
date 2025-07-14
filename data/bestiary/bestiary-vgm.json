@@ -621,7 +621,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell contact other plane}",
+										"{@spell contactar con otro plano}",
 										"{@spell scrying}"
 									]
 								},
@@ -917,7 +917,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell contact other plane}",
+											"{@spell contactar con otro plano}",
 											"{@spell scrying}"
 										]
 									},
@@ -2516,7 +2516,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell contact other plane}",
+										"{@spell contactar con otro plano}",
 										"{@spell scrying}"
 									]
 								},
@@ -2817,7 +2817,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell contact other plane}",
+											"{@spell contactar con otro plano}",
 											"{@spell scrying}"
 										]
 									},
@@ -14037,7 +14037,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast} (range 300 ft., +4 bonus to each damage roll)",
+								"{@spell descarga sobrenatural} (range 300 ft., +4 bonus to each damage roll)",
 								"{@spell guidance}",
 								"{@spell mage hand}",
 								"{@spell minor illusion}",
@@ -18990,7 +18990,7 @@
 						"0": {
 							"spells": [
 								"{@spell dancing lights}",
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell friends}",
 								"{@spell mage hand}",
 								"{@spell minor illusion}",
@@ -19189,7 +19189,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell fire bolt}",
 								"{@spell friends}",
 								"{@spell mage hand}",
@@ -19386,7 +19386,7 @@
 						"0": {
 							"spells": [
 								"{@spell chill touch}",
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell guidance}",
 								"{@spell mage hand}",
 								"{@spell minor illusion}",
@@ -19402,7 +19402,7 @@
 								"{@spell Brazos de Hadar}",
 								"{@spell crown of madness}",
 								"{@spell clairvoyance}",
-								"{@spell contact other plane}",
+								"{@spell contactar con otro plano}",
 								"{@spell detect thoughts}",
 								"{@spell puerta dimensional}",
 								"{@spell dissonant whispers}",
@@ -20195,7 +20195,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell mage hand}",
 								"{@spell minor illusion}",
 								"{@spell poison spray}",
@@ -21306,7 +21306,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast} (range 300 ft., +3 bonus to each damage roll)",
+								"{@spell descarga sobrenatural} (range 300 ft., +3 bonus to each damage roll)",
 								"{@spell friends}",
 								"{@spell message}",
 								"{@spell minor illusion}",
@@ -21553,7 +21553,7 @@
 						"0": {
 							"spells": [
 								"{@spell chill touch}",
-								"{@spell eldritch blast} (range 300 ft., +3 bonus to each damage roll)",
+								"{@spell descarga sobrenatural} (range 300 ft., +3 bonus to each damage roll)",
 								"{@spell mage hand}",
 								"{@spell message}",
 								"{@spell poison spray}",
@@ -21814,7 +21814,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast} (range 300 ft., +3 bonus to each damage roll)",
+								"{@spell descarga sobrenatural} (range 300 ft., +3 bonus to each damage roll)",
 								"{@spell friends}",
 								"{@spell guidance}",
 								"{@spell mage hand}",

@@ -7191,7 +7191,7 @@
 						"Xardorok's innate spellcasting ability is Charisma (spell save {@dc 15}, {@hit 7} to hit with spell attacks). He can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell eldritch blast} (see \"Actions\" below)",
+						"{@spell descarga sobrenatural} (see \"Actions\" below)",
 						"{@spell mage hand}"
 					],
 					"daily": {
@@ -7221,7 +7221,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Xardorok attacks twice with a weapon or casts {@spell eldritch blast} twice."
+						"Xardorok attacks twice with a weapon or casts {@spell descarga sobrenatural} twice."
 					]
 				},
 				{
@@ -7231,7 +7231,7 @@
 					]
 				},
 				{
-					"name": "Eldritch Blast (Cantrip)",
+					"name": "Descarga sobrenatural (Cantrip)",
 					"entries": [
 						"{@atk rs} {@hit 7} to hit, range 120 ft., one creature. {@h}9 ({@damage 1d10 + 4}) force damage."
 					]

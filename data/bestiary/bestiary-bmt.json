@@ -1294,11 +1294,11 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Brusipha makes two Eldritch Blast attacks."
+						"Brusipha makes two Descarga sobrenatural attacks."
 					]
 				},
 				{
-					"name": "Eldritch Blast",
+					"name": "Descarga sobrenatural",
 					"entries": [
 						"{@atk rs} {@hit 5} to hit, range 120 ft., one target. {@h}8 ({@damage 1d10 + 3}) force damage."
 					]
@@ -3323,7 +3323,7 @@
 				{
 					"name": "Comet's Voice (1/Day)",
 					"entries": [
-						"The hierophant can cast {@spell Contact Other Plane}, using Charisma as the spellcasting ability."
+						"The hierophant can cast {@spell Contactar con otro plano}, using Charisma as the spellcasting ability."
 					]
 				},
 				{

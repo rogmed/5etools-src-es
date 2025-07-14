@@ -2598,7 +2598,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell contact other plane}",
+								"{@spell contactar con otro plano}",
 								"{@spell contagion}",
 								"{@spell dream}"
 							]
@@ -2742,7 +2742,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell light}",
 								"{@spell sacred flame}",
 								"{@spell thaumaturgy}"
@@ -4687,7 +4687,7 @@
 						"The widow's spellcasting ability is Charisma (spell save {@dc 20}, {@hit 12} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell eldritch blast} (four beams)",
+						"{@spell descarga sobrenatural} (four beams)",
 						"{@spell expeditious retreat} *",
 						"{@spell armadura de mago} *",
 						"{@spell mage hand}"
@@ -4772,9 +4772,9 @@
 			],
 			"legendary": [
 				{
-					"name": "Eldritch Blast",
+					"name": "Descarga sobrenatural",
 					"entries": [
-						"The widow casts {@spell eldritch blast}."
+						"The widow casts {@spell descarga sobrenatural}."
 					]
 				},
 				{

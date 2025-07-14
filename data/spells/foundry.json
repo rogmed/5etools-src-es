@@ -3103,7 +3103,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Contact Other Plane",
+			"name": "Contactar con otro plano",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -8512,7 +8512,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Hex",
+			"name": "Maleficio",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -8551,7 +8551,7 @@
 					},
 					"effects": [
 						{
-							"foundryId": "hex"
+							"foundryId": "maleficio"
 						},
 						{
 							"foundryId": "hex1"
@@ -8573,7 +8573,7 @@
 			],
 			"effects": [
 				{
-					"foundryId": "hex",
+					"foundryId": "maleficio",
 					"name": "Hexed Strength",
 					"duration": {
 						"rounds": 1,

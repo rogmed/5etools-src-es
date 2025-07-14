@@ -1004,7 +1004,7 @@
 				}
 			]
 		},
-		"Contact Other Plane": {
+		"Contactar con otro plano": {
 			"class": [
 				{
 					"name": "Brujo",
@@ -1712,7 +1712,7 @@
 				}
 			]
 		},
-		"Eldritch Blast": {
+		"Descarga sobrenatural": {
 			"class": [
 				{
 					"name": "Brujo",
@@ -2752,7 +2752,7 @@
 				}
 			]
 		},
-		"Hex": {
+		"Maleficio": {
 			"class": [
 				{
 					"name": "Brujo",

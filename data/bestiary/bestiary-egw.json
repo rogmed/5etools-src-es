@@ -781,7 +781,7 @@
 						"Bol'bara's innate spellcasting ability is Charisma (spell save {@dc 12}, {@hit 4} to hit with spell attacks). She can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell eldritch blast}",
+						"{@spell descarga sobrenatural}",
 						"{@spell false life}",
 						"{@spell armadura de mago}",
 						"{@spell mage hand}"
@@ -825,7 +825,7 @@
 					]
 				},
 				{
-					"name": "Eldritch Blast (Cantrip)",
+					"name": "Descarga sobrenatural (Cantrip)",
 					"entries": [
 						"{@atk rs} {@hit 4} to hit, range 120 ft., one creature. {@h}7 ({@damage 1d10 + 2}) force damage."
 					]
@@ -3261,7 +3261,7 @@
 						"The warlock's innate spellcasting ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell eldritch blast} (see \"Actions\" below)",
+						"{@spell descarga sobrenatural} (see \"Actions\" below)",
 						"{@spell minor illusion}"
 					],
 					"daily": {
@@ -3317,7 +3317,7 @@
 					]
 				},
 				{
-					"name": "Eldritch Blast (Cantrip)",
+					"name": "Descarga sobrenatural (Cantrip)",
 					"entries": [
 						"{@atk rs} {@hit 5} to hit, range 120 ft., one creature. {@h}5 ({@damage 1d10}) force damage."
 					]

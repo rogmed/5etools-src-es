@@ -1480,11 +1480,11 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Thalamra uses eldritch blast twice or makes two unarmed strikes."
+						"Thalamra uses descarga sobrenatural twice or makes two unarmed strikes."
 					]
 				},
 				{
-					"name": "Eldritch Blast (Cantrip)",
+					"name": "Descarga sobrenatural (Cantrip)",
 					"entries": [
 						"{@atk rs} {@hit 6} to hit, range 120 ft., one creature. {@h}9 ({@damage 1d10 + 4}) force damage."
 					]

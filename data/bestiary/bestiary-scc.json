@@ -1900,7 +1900,7 @@
 				{
 					"name": "Voice from the Past (1/Day)",
 					"entries": [
-						"The professor can cast the {@spell contact other plane} spell to contact a long-dead spirit, using Intelligence as the spellcasting ability."
+						"The professor can cast the {@spell contactar con otro plano} spell to contact a long-dead spirit, using Intelligence as the spellcasting ability."
 					]
 				}
 			],
@@ -2031,7 +2031,7 @@
 				{
 					"name": "Voice from the Past (1/Day)",
 					"entries": [
-						"The professor can cast the {@spell contact other plane} spell to contact a long-dead spirit, using Intelligence as the spellcasting ability."
+						"The professor can cast the {@spell contactar con otro plano} spell to contact a long-dead spirit, using Intelligence as the spellcasting ability."
 					]
 				}
 			],
@@ -5329,7 +5329,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell contact other plane} (as an action, contacting a long-dead spirit)",
+							"{@spell contactar con otro plano} (as an action, contacting a long-dead spirit)",
 							"{@spell divination}",
 							"{@spell move earth}",
 							"{@spell wall of force}"

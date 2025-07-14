@@ -7875,7 +7875,7 @@
 																"2nd level (3 slots): {@spell inmovilizar persona}, {@spell locate object}",
 																"3rd level (3 slots): {@spell bestow curse}, {@spell counterspell}, {@spell relámpago}",
 																"4th level (3 slots): {@spell phantasmal killer}, {@spell polymorph}",
-																"5th level (2 slots): {@spell contact other plane}, {@spell scrying}",
+																"5th level (2 slots): {@spell contactar con otro plano}, {@spell scrying}",
 																"6th level (1 slot): {@spell eyebite}"
 															]
 														},

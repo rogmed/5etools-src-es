@@ -4112,10 +4112,10 @@
 			]
 		},
 		{
-			"name": "Contact Other Plane",
-			"originalname": "",
+			"name": "Contactar con otro plano",
+			"originalname": "Contact Other Plane",
 			"source": "XPHB",
-			"page": 255,
+			"page": 262,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -4148,8 +4148,8 @@
 				"ritual": true
 			},
 			"entries": [
-				"You mentally contact a demigod, the spirit of a long-dead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly intelligence can break your mind. When you cast this spell, make a {@dc 15} Intelligence saving throw. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as \"yes,\" \"no,\" \"maybe,\" \"never,\" \"irrelevant,\" or \"unclear\" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.",
-				"On a failed save, you take {@damage 6d6} Psychic damage and have the {@condition Incapacitado|XPHB} condition until you finish a {@variantrule Descanso largo|XPHB}. A {@spell Restablecimiento mayor|XPHB} spell cast on you ends this effect."
+				"Contactas mentalmente con un semidiós, el espíritu de un erudito muerto hace tiempo o cualquier otra entidad ilustrada de otro plano. Contactar con esta inteligencia sobrenatural puede hacer añicos tu mente. Cuando lances este conjuro, haz una tirada de salvación de Inteligencia con CD 15. Si superas la tirada, puedes hacerle a la entidad hasta cinco preguntas, que debes realizar antes de que el conjuro termine. Tu DM responderá a cada pregunta con una sola palabra, como “sí”, “no”, “puede”, “nunca”, “irrelevante” o “ambiguo” (si la entidad no conoce la respuesta a la pregunta). Si una respuesta de una sola palabra pudiera inducir a error, tu DM podría ofrecer en su lugar una frase corta.",
+				"Si fallas la tirada, sufrirás {@damage 6d6} de daño psíquico y tendrás el estado de {@condition incapacitado|XPHB} hasta que finalices un descanso largo. Si te lanzan un conjuro {@spell restablecimiento mayor|XPHB}, el efecto acabará."
 			],
 			"damageInflict": [
 				"psychic"
@@ -6652,10 +6652,10 @@
 			]
 		},
 		{
-			"name": "Eldritch Blast",
-			"originalname": "",
+			"name": "Descarga sobrenatural",
+			"originalname": "Eldritch Blast",
 			"source": "XPHB",
-			"page": 267,
+			"page": 268,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -6683,14 +6683,14 @@
 				}
 			],
 			"entries": [
-				"You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes {@damage 1d10} Force damage."
+				"Lanzas un rayo de energía chisporroteante. Haz un ataque de conjuro a distancia contra una criatura u objeto dentro del alcance. Si acierta, el objetivo recibe {@damage 1d10} de daño de fuerza."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Mejora de truco",
 					"entries": [
-						"The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam."
+						"El conjuro crea dos rayos a nivel 5, tres rayos a nivel 11 y cuatro rayos a nivel 17. Puedes dirigir los rayos al mismo objetivo o a objetivos distintos. Realiza una tirada de ataque por separado para cada rayo."
 					]
 				}
 			],
@@ -10566,10 +10566,10 @@
 			]
 		},
 		{
-			"name": "Hex",
-			"originalname": "",
+			"name": "Maleficio",
+			"originalname": "Hex",
 			"source": "XPHB",
-			"page": 285,
+			"page": 307,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -10590,7 +10590,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "the petrified eye of a newt"
+				"m": "el ojo petrificado de un tritón"
 			},
 			"duration": [
 				{
@@ -10603,15 +10603,15 @@
 				}
 			],
 			"entries": [
-				"You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra {@damage 1d6} Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has {@variantrule Disadvantage|XPHB} on ability checks made with the chosen ability.",
-				"If the target drops to 0 {@variantrule Hit Points|XPHB} before this spell ends, you can take a {@variantrule Acción adicional|XPHB} on a later turn to curse a new creature."
+				"Impones una maldición a una criatura que puedas ver dentro del alcance. Hasta que el conjuro termine, infliges {@damage 1d6} de daño necrótico adicional al objetivo siempre que le aciertes con una tirada de ataque. Además, elige una característica cuando lances el conjuro. El objetivo tendrá desventaja en las pruebas que haga con la característica elegida.",
+				"Silos puntos de golpe del objetivo se reducen a 0 antes de que el conjuro termine, puedes usar una acción adicional en un turno posterior para maldecir a una nueva criatura."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Your {@status Concentration|XPHB} can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours)."
+						"Tu {@status concentración|XPHB} puede durar más si usas un espacio de conjuro de nivel 2 (hasta 4 horas), 3 o 4 (hasta 8 horas) o 5 o más (24 horas)."
 					]
 				}
 			],

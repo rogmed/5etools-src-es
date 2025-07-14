@@ -3581,7 +3581,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell mage hand}"
 							]
 						},
@@ -4102,7 +4102,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell contact other plane}",
+								"{@spell contactar con otro plano}",
 								"{@spell geas}"
 							]
 						},
@@ -6592,7 +6592,7 @@
 					],
 					"will": [
 						"{@spell animal friendship} (snakes only)",
-						"{@spell eldritch blast} (2 beams)",
+						"{@spell descarga sobrenatural} (2 beams)",
 						"{@spell minor illusion}",
 						"{@spell poison spray}"
 					],

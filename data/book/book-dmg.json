@@ -20356,7 +20356,7 @@
 							"name": "Going Mad",
 							"page": 259,
 							"entries": [
-								"Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as {@spell contact other plane} and {@spell symbol}, can cause insanity, and you can use the madness rules here instead of the spell effects in the Player's Handbook. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.",
+								"Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as {@spell contactar con otro plano} and {@spell symbol}, can cause insanity, and you can use the madness rules here instead of the spell effects in the Player's Handbook. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.",
 								"Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the {@variantrule New Ability Scores: Honor and Sanity||Sanity score} (see chapter 9, \"Dungeon Master's Workshop\"), a creature makes a Sanity saving throw instead."
 							],
 							"id": "301"

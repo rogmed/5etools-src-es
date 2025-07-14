@@ -897,7 +897,7 @@
 					"type": "entries",
 					"name": "Observatory Charm",
 					"entries": [
-						"You can use your Observatory to peer into the far corners of {@book Wildspace|XDMG|5|Wildspace} and the {@book Astral Plane|XDMG|5|Astral Plane}. After spending a Long Rest in your Observatory, you gain a magical {@reward Observatory Charm|XDMG|Charm} (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Contact Other Plane|XPHB} without expending a spell slot. You can't gain this Charm again while you still have it."
+						"You can use your Observatory to peer into the far corners of {@book Wildspace|XDMG|5|Wildspace} and the {@book Astral Plane|XDMG|5|Astral Plane}. After spending a Long Rest in your Observatory, you gain a magical {@reward Observatory Charm|XDMG|Charm} (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Contactar con otro plano|XPHB} without expending a spell slot. You can't gain this Charm again while you still have it."
 					]
 				},
 				{

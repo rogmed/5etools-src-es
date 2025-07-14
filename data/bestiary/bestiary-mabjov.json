@@ -2216,7 +2216,7 @@
 					]
 				},
 				{
-					"name": "Eldritch Blast",
+					"name": "Descarga sobrenatural",
 					"entries": [
 						"{@atk rs} {@hit 8} to hit, range 300 ft., three targets. {@h}9 ({@damage 1d10 + 4}) force damage."
 					]
@@ -4855,7 +4855,7 @@
 					],
 					"will": [
 						"{@spell blade ward}",
-						"{@spell eldritch blast}",
+						"{@spell descarga sobrenatural}",
 						"{@spell message}"
 					],
 					"daily": {

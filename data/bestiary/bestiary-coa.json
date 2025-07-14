@@ -99,7 +99,7 @@
 			"cr": "22",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Abigor's darkvision."
 					]
@@ -156,7 +156,7 @@
 				"warhammer|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -380,7 +380,7 @@
 			"cr": "10",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the kocrachon's darkvision."
 					]
@@ -425,7 +425,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -1424,7 +1424,7 @@
 			"cr": "12",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the ayperobo swarm's darkvision."
 					]
@@ -1465,7 +1465,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -1612,7 +1612,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Baalzebul's darkvision."
 					]
@@ -1713,7 +1713,7 @@
 				"source": "CoA"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"
@@ -2206,7 +2206,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Belial's darkvision."
 					]
@@ -2298,7 +2298,7 @@
 				"ranseur of torture|coa"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"
@@ -2427,7 +2427,7 @@
 			"cr": "21",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Adramalech's darkvision."
 					]
@@ -2500,7 +2500,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -2626,7 +2626,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Morax's darkvision."
 					]
@@ -2703,7 +2703,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -2830,7 +2830,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Buer's darkvision."
 					]
@@ -2905,7 +2905,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -3051,7 +3051,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the paeliryon's darkvision."
 					]
@@ -3090,7 +3090,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Keen Senses",
 				"Magic Resistance"
 			],
@@ -3407,7 +3407,7 @@
 			"cr": "27",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Dispater's darkvision."
 					]
@@ -3503,7 +3503,7 @@
 				"wrought-iron tower|coa"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"
@@ -5144,7 +5144,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the bezekira's darkvision."
 					]
@@ -5171,7 +5171,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"B",
@@ -5443,7 +5443,7 @@
 						"{@spell Gentle Repose}",
 						"{@spell Restablecimiento menor}",
 						"{@spell Protección contra el bien y el mal}",
-						"{@spell Speak with Dead}"
+						"{@spell Hablar con los muertos}"
 					],
 					"daily": {
 						"1e": [
@@ -5804,7 +5804,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Levistus's darkvision."
 					]
@@ -5887,7 +5887,7 @@
 				"source": "CoA"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance"
 			],
@@ -6192,7 +6192,7 @@
 			"cr": "26",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Mammon's darkvision."
 					]
@@ -6281,7 +6281,7 @@
 				"source": "CoA"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"
@@ -6440,7 +6440,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Mephistopheles' darkvision."
 					]
@@ -6535,7 +6535,7 @@
 				"source": "CoA"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Flyby",
 				"Legendary Resistances",
 				"Magic Resistance",
@@ -6926,7 +6926,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the excruciarch's darkvision."
 					]
@@ -6973,7 +6973,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -7293,7 +7293,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Rimmon's darkvision."
 					]
@@ -7332,7 +7332,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -7828,7 +7828,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the Slayer's darkvision."
 					]
@@ -7856,7 +7856,7 @@
 			],
 			"tokenCredit": "V-OneShot",
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"actionTags": [
@@ -8075,7 +8075,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -8121,7 +8121,7 @@
 					],
 					"will": [
 						"{@spell Perdición}",
-						"{@spell Disguise Self}",
+						"{@spell disfrazarse}",
 						"{@spell Disipar magia}",
 						"{@spell Mage Armor}",
 						"{@spell Imagen múltiple}",
@@ -8776,7 +8776,7 @@
 			"cr": "16",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the war devil's darkvision."
 					]
@@ -8815,7 +8815,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -8941,7 +8941,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Zagum's darkvision."
 					]
@@ -8982,7 +8982,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -9103,7 +9103,7 @@
 						"Zariel casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 26}):"
 					],
 					"will": [
-						"{@spell Alter Self} (can become Medium when changing her appearance)",
+						"{@spell Alterar el propio aspecto} (can become Medium when changing her appearance)",
 						"{@spell Detectar el bien y el mal}",
 						"{@spell Bola de fuego}",
 						"{@spell Invisibility} (self only)",
@@ -9123,7 +9123,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Zariel's darkvision."
 					]
@@ -9202,7 +9202,7 @@
 				"longsword|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"
@@ -9278,7 +9278,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],

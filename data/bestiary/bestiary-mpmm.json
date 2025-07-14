@@ -32,7 +32,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -79,7 +79,7 @@
 						"2e": [
 							"{@spell dispel magic}",
 							"{@spell relámpago}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						],
 						"1e": [
 							"{@spell arcane lock}",
@@ -702,7 +702,7 @@
 						"{@spell dancing lights}",
 						"{@spell detect magic}",
 						"{@spell detect thoughts}",
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell mage hand}",
 						"{@spell prestidigitation}"
 					],
@@ -1271,7 +1271,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the amnizu's {@sense darkvision}."
 					]
@@ -1342,7 +1342,7 @@
 				"path": "bestiary/amnizu.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -1584,7 +1584,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell disguise self} (including the form of a Medium Humanoid)",
+							"{@spell disfrazarse} (including the form of a Medium Humanoid)",
 							"{@spell Fog cloud}"
 						]
 					},
@@ -1681,7 +1681,7 @@
 				10,
 				{
 					"ac": 13,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -1721,8 +1721,8 @@
 					"daily": {
 						"1e": [
 							"{@spell burning hands}",
-							"{@spell disguise self}",
-							"{@spell mage armor}"
+							"{@spell disfrazarse}",
+							"{@spell armadura de mago}"
 						]
 					},
 					"ability": "int",
@@ -2737,7 +2737,7 @@
 						"{@spell dispel magic}",
 						"{@spell fear}",
 						"{@spell heat metal}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"ability": "wis",
 					"displayAs": "action"
@@ -2902,7 +2902,7 @@
 						"Bael casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 21}):"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium)",
+						"{@spell alterar el propio aspecto} (can become Medium)",
 						"{@spell charm person}",
 						"{@spell detect magic}",
 						"{@spell invisibility}",
@@ -3827,7 +3827,7 @@
 						"The barghest casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 12}):"
 					],
 					"will": [
-						"{@spell levitate}",
+						"{@spell levitar}",
 						"{@spell minor illusion}",
 						"{@spell pass without trace}"
 					],
@@ -4005,7 +4005,7 @@
 						"The berbalang casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability:"
 					],
 					"will": [
-						"{@spell speak with dead}"
+						"{@spell hablar con los muertos}"
 					],
 					"daily": {
 						"1": [
@@ -4376,7 +4376,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the abishai's {@sense darkvision}."
 					]
@@ -4427,7 +4427,7 @@
 				"scimitar|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -4728,7 +4728,7 @@
 						"The abishai casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 20}):"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell mage hand}",
 						"{@spell minor illusion}"
 					],
@@ -4746,7 +4746,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the abishai's {@sense darkvision}."
 					]
@@ -4795,7 +4795,7 @@
 				"path": "bestiary/blue-abishai.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -7242,7 +7242,7 @@
 					"daily": {
 						"3e": [
 							"{@spell invisibility}",
-							"{@spell silent image}",
+							"{@spell imagen silenciosa}",
 							"{@spell suggestion}",
 							"{@spell tongues}"
 						],
@@ -7358,7 +7358,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -7403,7 +7403,7 @@
 					"daily": {
 						"2e": [
 							"{@spell fireball}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell unseen servant}"
 						],
 						"1e": [
@@ -8195,8 +8195,8 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell disguise self}",
-						"{@spell mage armor}",
+						"{@spell disfrazarse}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}"
 					],
 					"daily": {
@@ -8377,8 +8377,8 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell disguise self}",
-						"{@spell mage armor}",
+						"{@spell disfrazarse}",
+						"{@spell armadura de mago}",
 						"{@spell minor illusion}"
 					],
 					"daily": {
@@ -8396,7 +8396,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the deathlock's {@sense darkvision}."
 					]
@@ -8442,7 +8442,7 @@
 				"path": "bestiary/deathlock-mastermind.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Turn Resistance",
 				"Unusual Nature"
 			],
@@ -8563,8 +8563,8 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell disguise self}",
-						"{@spell mage armor}"
+						"{@spell disfrazarse}",
+						"{@spell armadura de mago}"
 					],
 					"daily": {
 						"1e": [
@@ -10087,7 +10087,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -10131,13 +10131,13 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell arcane eye}",
+							"{@spell ojo arcano}",
 							"{@spell detect magic}",
 							"{@spell detect thoughts}",
 							"{@spell fly}",
 							"{@spell relámpago}",
 							"{@spell locate object}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell Enlace telepático de Rary}"
 						],
 						"1e": [
@@ -10866,7 +10866,7 @@
 					],
 					"will": [
 						"{@spell dancing lights}",
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}",
 						"{@spell message}"
 					],
@@ -10879,7 +10879,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "int",
@@ -11054,7 +11054,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha",
@@ -11263,7 +11263,7 @@
 							"{@spell detect thoughts}",
 							"{@spell dispel magic}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)",
+							"{@spell levitar} (self only)",
 							"{@spell silence}",
 							"{@spell suggestion}",
 							"{@spell true seeing}"
@@ -11476,7 +11476,7 @@
 							"{@spell dispel magic}",
 							"{@spell faerie fire}",
 							"{@spell gate}",
-							"{@spell levitate} (self only)",
+							"{@spell levitar} (self only)",
 							"{@spell suggestion}"
 						]
 					},
@@ -11712,7 +11712,7 @@
 					"daily": {
 						"1e": [
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha",
@@ -11721,7 +11721,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the drow's {@sense darkvision}."
 					]
@@ -11791,7 +11791,7 @@
 				"hand crossbow|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Fey Ancestry",
 				"Sunlight Sensitivity"
 			],
@@ -13681,7 +13681,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"3": [
@@ -14244,7 +14244,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -14289,7 +14289,7 @@
 					"daily": {
 						"2e": [
 							"{@spell charm person}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell inmovilizar persona}",
 							"{@spell invisibility}",
 							"{@spell suggestion}",
@@ -14378,7 +14378,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -14425,7 +14425,7 @@
 						"2e": [
 							"{@spell tormenta de hielo}",
 							"{@spell relámpago}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						],
 						"1e": [
 							"{@spell wall of ice}"
@@ -14920,7 +14920,7 @@
 					"will": [
 						"{@spell guidance}",
 						"{@spell light}",
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}",
 						"{@spell prestidigitation}"
 					],
@@ -14936,7 +14936,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the firenewt's {@sense darkvision}."
 					]
@@ -14978,7 +14978,7 @@
 			],
 			"traitTags": [
 				"Amphibious",
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"SD"
@@ -15492,7 +15492,7 @@
 						"Fraz-Urb'luu casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 23}):"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium when changing his appearance)",
+						"{@spell alterar el propio aspecto} (can become Medium when changing his appearance)",
 						"{@spell detect magic}",
 						"{@spell dispel magic}",
 						"{@spell phantasmal force}"
@@ -16525,7 +16525,7 @@
 						"Geryon casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 21}):"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium when changing his appearance)",
+						"{@spell alterar el propio aspecto} (can become Medium when changing his appearance)",
 						"{@spell detect magic}",
 						"{@spell tormenta de hielo}",
 						"{@spell invisibility} (self only)",
@@ -17418,7 +17418,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell levitate} (self only)",
+							"{@spell levitar} (self only)",
 							"{@spell nondetection} (self only)"
 						],
 						"1e": [
@@ -18678,7 +18678,7 @@
 						"The abishai casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell major image}"
 					],
 					"daily": {
@@ -18699,7 +18699,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the abishai's {@sense darkvision}."
 					]
@@ -18733,7 +18733,7 @@
 				"path": "bestiary/green-abishai.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -20395,8 +20395,8 @@
 					"daily": {
 						"1e": [
 							"{@spell charm person}",
-							"{@spell disguise self}",
-							"{@spell silent image}"
+							"{@spell disfrazarse}",
+							"{@spell imagen silenciosa}"
 						]
 					},
 					"ability": "int",
@@ -20832,7 +20832,7 @@
 						"Hutijin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 22}):"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium when changing his appearance)",
+						"{@spell alterar el propio aspecto} (can become Medium when changing his appearance)",
 						"{@spell detect magic}",
 						"{@spell inmovilizar monstruo}",
 						"{@spell invisibility} (self only)",
@@ -21245,7 +21245,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -21289,9 +21289,9 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell invisibility}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell major image}",
 							"{@spell phantasmal force}",
 							"{@spell phantom steed}"
@@ -22197,7 +22197,7 @@
 						"2e": [
 							"{@spell charm person}",
 							"{@spell fog cloud}",
-							"{@spell levitate}"
+							"{@spell levitar}"
 						]
 					},
 					"ability": "cha",
@@ -24496,7 +24496,7 @@
 			"cr": "4",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the merregon's {@sense darkvision}."
 					]
@@ -24545,7 +24545,7 @@
 				"heavy crossbow|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -25065,7 +25065,7 @@
 						"Moloch casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 21}):"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium when changing his appearance)",
+						"{@spell alterar el propio aspecto} (can become Medium when changing his appearance)",
 						"{@spell confusion}",
 						"{@spell detect magic}",
 						"{@spell fly}",
@@ -26327,7 +26327,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -26376,7 +26376,7 @@
 						"2e": [
 							"{@spell bestow curse}",
 							"{@spell puerta dimensional}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell web}"
 						],
 						"1e": [
@@ -26789,7 +26789,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the neogi's {@sense darkvision}."
 					]
@@ -26850,7 +26850,7 @@
 				"path": "bestiary/neogi-master.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Spider Climb"
 			],
 			"senseTags": [
@@ -26962,7 +26962,7 @@
 						"The neothelid casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save {@dc 16}):"
 					],
 					"will": [
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -28323,7 +28323,7 @@
 					"will": [
 						"{@spell animate dead} (as an action)",
 						"{@spell blight}",
-						"{@spell speak with dead}"
+						"{@spell hablar con los muertos}"
 					],
 					"charges": {
 						"1e": [
@@ -29232,7 +29232,7 @@
 			"cr": "19",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the abishai's {@sense darkvision}."
 					]
@@ -29291,7 +29291,7 @@
 				"path": "bestiary/red-abishai.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -30223,11 +30223,11 @@
 						"The shadar-kai casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 16}):"
 					],
 					"will": [
-						"{@spell arcane eye}",
-						"{@spell mage armor}",
+						"{@spell ojo arcano}",
+						"{@spell armadura de mago}",
 						"{@spell minor illusion}",
 						"{@spell prestidigitation}",
-						"{@spell speak with dead}"
+						"{@spell hablar con los muertos}"
 					],
 					"daily": {
 						"1e": [
@@ -35084,7 +35084,7 @@
 						"Titivilus casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 21}):"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell major image}",
 						"{@spell nondetection}",
 						"{@spell sending}",
@@ -35639,7 +35639,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -35686,7 +35686,7 @@
 							"{@spell fireball}",
 							"{@spell inmovilizar persona}",
 							"{@spell knock}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell polymorph}",
 							"{@spell slow}"
 						],
@@ -35750,7 +35750,7 @@
 				{
 					"name": "Transmute {@recharge 4}",
 					"entries": [
-						"The transmuter casts {@spell alter self} or changes the benefit of Transmuter's Stone if bearing the stone."
+						"The transmuter casts {@spell alterar el propio aspecto} or changes the benefit of Transmuter's Stone if bearing the stone."
 					]
 				}
 			],
@@ -35967,7 +35967,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -37047,7 +37047,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -37091,8 +37091,8 @@
 					],
 					"will": [
 						"{@spell dancing lights}",
-						"{@spell disguise self}",
-						"{@spell mage armor} (self only)",
+						"{@spell disfrazarse}",
+						"{@spell armadura de mago} (self only)",
 						"{@spell mage hand}",
 						"{@spell minor illusion}",
 						"{@spell prestidigitation}",
@@ -37211,7 +37211,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -37254,8 +37254,8 @@
 						"The warlock casts one of the following spells, using Charisma as the spellcasting ability (spell save {@dc 15}): "
 					],
 					"will": [
-						"{@spell alter self}",
-						"{@spell mage armor} (self only)",
+						"{@spell alterar el propio aspecto}",
+						"{@spell armadura de mago} (self only)",
 						"{@spell mage hand}",
 						"{@spell minor illusion}",
 						"{@spell prestidigitation}"
@@ -37384,7 +37384,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -37431,8 +37431,8 @@
 					"will": [
 						"{@spell detect magic}",
 						"{@spell guidance}",
-						"{@spell levitate}",
-						"{@spell mage armor} (self only)",
+						"{@spell levitar}",
+						"{@spell armadura de mago} (self only)",
 						"{@spell mage hand}",
 						"{@spell minor illusion}",
 						"{@spell prestidigitation}"
@@ -38063,7 +38063,7 @@
 			"cr": "6",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the abishai's {@sense darkvision}."
 					]
@@ -38126,7 +38126,7 @@
 				"longsword|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance",
 				"Reckless"
 			],
@@ -38737,7 +38737,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell mage armor} (self only)",
+						"{@spell armadura de mago} (self only)",
 						"{@spell mage hand}",
 						"{@spell minor illusion}",
 						"{@spell prestidigitation}"
@@ -39988,7 +39988,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the yuan-ti's {@sense darkvision}."
 					]
@@ -40053,7 +40053,7 @@
 				"scimitar|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -40187,7 +40187,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the yuan-ti's {@sense darkvision}."
 					]
@@ -40253,7 +40253,7 @@
 				"scimitar|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -40397,7 +40397,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the yuan-ti's {@sense darkvision}."
 					]
@@ -40453,7 +40453,7 @@
 				"path": "bestiary/yuan-ti-pit-master.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -40804,7 +40804,7 @@
 						"Zariel casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 26}):"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium when changing her appearance)",
+						"{@spell alterar el propio aspecto} (can become Medium when changing her appearance)",
 						"{@spell detect evil and good}",
 						"{@spell fireball}",
 						"{@spell invisibility} (self only)",
@@ -40824,7 +40824,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Zariel's {@sense darkvision}."
 					]
@@ -40903,7 +40903,7 @@
 				"longsword|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"

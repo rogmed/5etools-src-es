@@ -656,7 +656,7 @@
 						"2": {
 							"slots": 2,
 							"spells": [
-								"{@spell alter self}",
+								"{@spell alterar el propio aspecto}",
 								"{@spell invisibility}"
 							]
 						}
@@ -666,7 +666,7 @@
 			],
 			"action": [
 				{
-					"name": "Claws (Requires Alter Self)",
+					"name": "Claws (Requires Alterar el propio aspecto)",
 					"entries": [
 						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) slashing damage. This attack is magical."
 					]
@@ -1860,7 +1860,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -2280,7 +2280,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell create food and water}",
-								"{@spell speak with dead}",
+								"{@spell hablar con los muertos}",
 								"{@spell spirit guardians}"
 							]
 						},
@@ -3328,7 +3328,7 @@
 							"spells": [
 								"{@spell magic circle}",
 								"{@spell remove curse}",
-								"{@spell speak with dead}"
+								"{@spell hablar con los muertos}"
 							]
 						},
 						"4": {
@@ -3680,7 +3680,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell charm person}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell shield}",
 								"{@spell sleep}"
 							]
@@ -4391,10 +4391,10 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mad mage is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 17}, {@hit 9} to hit with spell attacks). He can cast {@spell disguise self} and {@spell invisibility} at will and has the following wizard spells prepared:"
+						"The mad mage is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 17}, {@hit 9} to hit with spell attacks). He can cast {@spell disfrazarse} and {@spell invisibility} at will and has the following wizard spells prepared:"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell invisibility}"
 					],
 					"spells": {
@@ -4411,7 +4411,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]

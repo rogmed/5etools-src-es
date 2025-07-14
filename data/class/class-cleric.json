@@ -595,7 +595,7 @@
 							"fireball|xphb"
 						],
 						"7": [
-							"arcane eye|xphb",
+							"ojo arcano|xphb",
 							"wall of fire|xphb"
 						],
 						"9": [
@@ -625,8 +625,8 @@
 					"prepared": {
 						"3": [
 							"charm person|xphb",
-							"disguise self|xphb",
-							"invisibility|xphb",
+							"disfrazarse|xphb",
+							"invisibilidad|xphb",
 							"pass without trace|xphb"
 						],
 						"5": [
@@ -1483,7 +1483,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Disguise Self|XPHB}, {@spell Charm Person|XPHB}, {@spell Invisibilidad|XPHB}, {@spell Pass without Trace|XPHB}"
+							"{@spell disfrazarse|XPHB}, {@spell Charm Person|XPHB}, {@spell Invisibilidad|XPHB}, {@spell Pass without Trace|XPHB}"
 						],
 						[
 							"5",

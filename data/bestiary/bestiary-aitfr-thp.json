@@ -220,7 +220,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell charm person}*",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}"
 							]
 						},
@@ -243,7 +243,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell arcane eye}",
+								"{@spell ojo arcano}",
 								"{@spell phantasmal killer}"
 							]
 						},
@@ -386,7 +386,7 @@
 					"will": [
 						"{@spell banishment}",
 						"{@spell detect thoughts}",
-						"{@spell disguise self}"
+						"{@spell disfrazarse}"
 					],
 					"ability": "cha"
 				}

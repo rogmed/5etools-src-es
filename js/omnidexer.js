@@ -684,7 +684,7 @@ class IndexableFileOptFeatures_EldritchInvocations extends IndexableFile {
 			listProp: "optionalfeature",
 			baseUrl: "optionalfeatures.html",
 			isHover: true,
-			include: (it) => it.featureType.includes("EI"),
+			include: (it) => it.featureType.includes("IS"),
 		});
 	}
 }

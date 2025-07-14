@@ -5230,7 +5230,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Sharwyn has a {@item spellbook|phb} that contains the spells listed in her Spellcasting trait, plus {@spell detect magic} and {@spell silent image}."
+						"Sharwyn has a {@item spellbook|phb} that contains the spells listed in her Spellcasting trait, plus {@spell detect magic} and {@spell imagen silenciosa}."
 					]
 				},
 				{
@@ -5809,7 +5809,7 @@
 							"spells": [
 								"{@spell color spray}",
 								"{@spell shield}",
-								"{@spell silent image}"
+								"{@spell imagen silenciosa}"
 							]
 						},
 						"2": {
@@ -6363,7 +6363,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -6410,7 +6410,7 @@
 							"spells": [
 								"{@spell burning hands}",
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell shield}"
 							]
 						},
@@ -7299,7 +7299,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -7351,7 +7351,7 @@
 							"spells": [
 								"{@spell burning hands}",
 								"{@spell chromatic orb}",
-								"{@spell mage armor}"
+								"{@spell armadura de mago}"
 							]
 						}
 					},

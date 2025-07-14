@@ -158,12 +158,12 @@ export class AcConvert {
 								}
 							}
 
-							if (fromLow.endsWith("with mage armor") || fromLow.endsWith("with barkskin")) {
+							if (fromLow.endsWith("with armadura de mago") || fromLow.endsWith("with barkskin")) {
 								const numMatch = /(\d+) with (.*)/.exec(fromLow);
 								if (!numMatch) throw new Error("Spell AC but no leading number?");
 
 								let spell = null;
-								if (numMatch[2] === "Armadura de mago") spell = `{@spell mage armor}`;
+								if (numMatch[2] === "Armadura de mago") spell = `{@spell armadura de mago}`;
 								else if (numMatch[2] === "barkskin") spell = `{@spell barkskin}`;
 								else throw new Error(`Unhandled spell! ${numMatch[2]}`);
 
@@ -304,7 +304,7 @@ export class AcConvert {
 			// region spells
 			case "foresight bonus": return `{@spell foresight} bonus`;
 			case "natural barkskin": return `natural {@spell barkskin}`;
-			case "Armadura de mago": return "{@spell mage armor}";
+			case "Armadura de mago": return "{@spell armadura de mago}";
 			// endregion
 
 			// region armor (mostly handled by the item lookup; these are mis-named exceptions (usually for homebrew))
@@ -801,8 +801,8 @@ export class TraitActionTag {
 			"death burst": "Death Burst",
 			"death throes": "Death Burst",
 
-			"devil's sight": "Devil's Sight",
-			"devil sight": "Devil's Sight",
+			"Visión del diablo": "Visión del diablo",
+			"devil sight": "Visión del diablo",
 
 			"immutable form": "Immutable Form",
 
@@ -892,7 +892,7 @@ export class TraitActionTag {
 	}
 
 	static _doTagDeepRoot_trait ({m, tags, allowlist}) {
-		if (m.senses?.some(s => /\bunimpeded by magical darkness\b/i.test(Renderer.stripTags(s)))) return this._doAdd({tags, tag: "Devil's Sight", allowlist});
+		if (m.senses?.some(s => /\bunimpeded by magical darkness\b/i.test(Renderer.stripTags(s)))) return this._doAdd({tags, tag: "Visión del diablo", allowlist});
 	}
 
 	static _isTraits (prop) { return prop === "trait"; }

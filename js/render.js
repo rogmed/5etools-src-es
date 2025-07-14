@@ -10046,7 +10046,7 @@ Renderer.monster = class {
 				copper: ["lesser restoration", "phantasmal force", "stone shape"],
 			},
 			5: {
-				blue: ["arcane eye", "create or destroy water", "major image"],
+				blue: ["ojo arcano", "create or destroy water", "major image"],
 				red: ["bane", "dominate person", "heat metal", "hypnotic pattern", "suggestion"],
 				green: ["invisibilidad", "crecimiento vegetal", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "speak with animals"],
@@ -10060,7 +10060,7 @@ Renderer.monster = class {
 			},
 			7: {
 				black: ["blindness/deafness", "create or destroy water", "plaga de insectos", "crecimiento vegetal"],
-				blue: ["arcane eye", "create or destroy water", "major image", "project image"],
+				blue: ["ojo arcano", "create or destroy water", "major image", "project image"],
 				red: ["bane", "dominate person", "heat metal", "hypnotic pattern", "power word stun", "suggestion"],
 				green: ["invisibilidad", "mass suggestion", "crecimiento vegetal", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "heroes' feast", "speak with animals"],

@@ -398,7 +398,7 @@
 					],
 					"daily": {
 						"3": [
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						],
 						"1e": [
 							"{@spell dispel magic}",
@@ -1479,7 +1479,7 @@
 						"1e": [
 							"{@spell Brazos de Hadar}",
 							"{@spell charm person}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						]
 					},
 					"ability": "cha",

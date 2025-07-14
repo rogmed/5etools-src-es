@@ -2870,7 +2870,7 @@
 											"name": "Magic Resistance",
 											"entries": [
 												"The lich has advantage on saving throws against spells and other magical effects.",
-												"At will: detect thoughts, levitate",
+												"At will: detect thoughts, levitar",
 												"1/day each: dominate monster, plane shift (self only)"
 											],
 											"type": "entries"

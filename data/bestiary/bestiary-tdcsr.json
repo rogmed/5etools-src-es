@@ -3530,7 +3530,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell alter self} (at will)",
+								"{@spell alterar el propio aspecto} (at will)",
 								"{@spell flaming sphere}",
 								"{@spell ráfaga de viento}",
 								"{@spell pass without trace}"
@@ -4678,7 +4678,7 @@
 								"{@spell mass healing word}",
 								"{@spell protección contra energía}",
 								"{@spell revivify}",
-								"{@spell speak with dead}"
+								"{@spell hablar con los muertos}"
 							]
 						},
 						"4": {
@@ -5469,7 +5469,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell charm person}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell shield}"
 							]
 						},
@@ -5668,7 +5668,7 @@
 							"spells": [
 								"{@spell detect magic}",
 								"{@spell Tasha's hideous laughter}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell shield}"
 							]
 						},
@@ -5715,7 +5715,7 @@
 				{
 					"name": "Unknowable Secrets",
 					"entries": [
-						"Any attempt to form a mental link with the cultist, cast {@spell scrying} on the cultist, or cast {@spell speak with dead} on the cultist automatically fails, and the creature that initiated the attempt takes 21 ({@damage 6d6}) psychic damage."
+						"Any attempt to form a mental link with the cultist, cast {@spell scrying} on the cultist, or cast {@spell hablar con los muertos} on the cultist automatically fails, and the creature that initiated the attempt takes 21 ({@damage 6d6}) psychic damage."
 					]
 				},
 				{
@@ -6449,7 +6449,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell alter self}",
+								"{@spell alterar el propio aspecto}",
 								"{@spell branding smite}",
 								"{@spell see invisibility}",
 								"{@spell warding bond}"

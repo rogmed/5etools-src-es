@@ -1,7 +1,7 @@
 {
 	"optionalfeature": [
 		{
-			"name": "Agonizing Blast",
+			"name": "Descarga agónica",
 			"source": "PHB",
 			"effects": [
 				{
@@ -220,7 +220,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Armor of Shadows",
+			"name": "Armadura de sombras",
 			"source": "PHB",
 			"activities": [
 				{
@@ -233,7 +233,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Armor of Shadows",
+			"name": "Armadura de sombras",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -283,7 +283,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Ascendant Step",
+			"name": "Paso ascendente",
 			"source": "PHB",
 			"activities": [
 				{
@@ -296,7 +296,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Ascendant Step",
+			"name": "Paso ascendente",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -861,7 +861,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Devil's Sight",
+			"name": "Visión del diablo",
 			"source": "PHB",
 			"effects": [
 				{
@@ -876,7 +876,7 @@
 						{
 							"key": "system.attributes.senses.special",
 							"mode": "ADD",
-							"value": "Devil's Sight"
+							"value": "Visión del diablo"
 						}
 					]
 				}
@@ -884,7 +884,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Devil's Sight",
+			"name": "Visión del diablo",
 			"source": "XPHB",
 			"effects": [
 				{
@@ -1080,7 +1080,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Eldritch Mind",
+			"name": "Mente sobrenatural",
 			"source": "TCE",
 			"effects": [
 				{
@@ -1110,7 +1110,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Eldritch Smite",
+			"name": "Castigo arcano",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -1153,7 +1153,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Eldritch Spear",
+			"name": "Lanza sobrenatural",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -1187,7 +1187,7 @@
 						{
 							"key": "name",
 							"mode": "ADD",
-							"value": ", Eldritch Spear"
+							"value": ", Lanza sobrenatural"
 						}
 					]
 				}
@@ -1682,7 +1682,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Fiendish Vigor",
+			"name": "Vigor infernal",
 			"source": "PHB",
 			"activities": [
 				{
@@ -1695,7 +1695,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Fiendish Vigor",
+			"name": "Vigor infernal",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -1803,11 +1803,11 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Gaze of Two Minds",
+			"name": "Mirada de las dos mentes",
 			"source": "XPHB",
 			"activities": [
 				{
-					"name": "Gaze of Two Minds",
+					"name": "Mirada de las dos mentes",
 					"type": "utility",
 					"activation": {
 						"type": "bonus"
@@ -1828,7 +1828,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Gift of the Depths",
+			"name": "Don de las profundidades",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -1878,7 +1878,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Gift of the Protectors",
+			"name": "Don de los protectores",
 			"source": "XPHB",
 			"system": {
 				"uses.max": "(max(1,@abilities.cha.mod))"
@@ -2197,7 +2197,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Investment of the Chain Master",
+			"name": "Inversión del amo de las cadenas",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -2569,7 +2569,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Lifedrinker",
+			"name": "Devorador de vida",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -2760,7 +2760,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Mask of Many Faces",
+			"name": "Máscara de los mil rostros",
 			"source": "PHB",
 			"activities": [
 				{
@@ -2773,7 +2773,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Mask of Many Faces",
+			"name": "Máscara de los mil rostros",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -2810,7 +2810,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Master of Myriad Forms",
+			"name": "Maestro de las formas innumerables",
 			"source": "PHB",
 			"activities": [
 				{
@@ -2823,7 +2823,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Master of Myriad Forms",
+			"name": "Maestro de las formas innumerables",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -3213,7 +3213,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Misty Visions",
+			"name": "Visiones brumosas",
 			"source": "PHB",
 			"activities": [
 				{
@@ -3226,7 +3226,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "One with Shadows",
+			"name": "Uno con las sombras",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -3270,7 +3270,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Otherworldly Leap",
+			"name": "Salto sobrenatural",
 			"source": "PHB",
 			"activities": [
 				{
@@ -3283,7 +3283,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Otherworldly Leap",
+			"name": "Salto sobrenatural",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -3324,7 +3324,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Pact of the Blade",
+			"name": "Pacto del filo",
 			"source": "PHB",
 			"activities": [
 				{
@@ -3338,7 +3338,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Pact of the Blade",
+			"name": "Pacto del filo",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -3924,7 +3924,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Repelling Blast",
+			"name": "Descarga ahuyentadora",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -5147,7 +5147,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Visions of Distant Realms",
+			"name": "Visiones de reinos remotos",
 			"source": "PHB",
 			"activities": [
 				{
@@ -5160,7 +5160,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Whispers of the Grave",
+			"name": "Susurros del sepulcro",
 			"source": "PHB",
 			"activities": [
 				{
@@ -5173,7 +5173,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Whispers of the Grave",
+			"name": "Susurros del sepulcro",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -5198,7 +5198,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Witch Sight",
+			"name": "Visión bruja",
 			"source": "XPHB",
 			"effects": [
 				{

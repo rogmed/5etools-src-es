@@ -81,7 +81,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"speak with dead"
+									"hablar con los muertos"
 								]
 							}
 						}
@@ -91,7 +91,7 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Athreos trait}",
-				"You can cast {@spell speak with dead} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"You can cast {@spell hablar con los muertos} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell."
 			]
 		},
 		{
@@ -3588,7 +3588,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 3+ Phenax trait}",
-				"As a devotee of Phenax, you have proven yourself accomplished at deception. You can call on Phenax's blessing and cast {@spell disguise self} with this trait. While the spell is active, your shadow still resembles your original form. You can cast the spell in this way a number of times equal to your Charisma modifier (minimum of once). You regain all expended uses when you finish a long rest. Charisma is your spellcasting ability for this spell."
+				"As a devotee of Phenax, you have proven yourself accomplished at deception. You can call on Phenax's blessing and cast {@spell disfrazarse} with this trait. While the spell is active, your shadow still resembles your original form. You can cast the spell in this way a number of times equal to your Charisma modifier (minimum of once). You regain all expended uses when you finish a long rest. Charisma is your spellcasting ability for this spell."
 			]
 		},
 		{

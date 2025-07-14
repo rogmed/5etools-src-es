@@ -753,7 +753,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Speak with Dead|XPHB}",
+							"{@spell Hablar con los muertos|XPHB}",
 							"{@spell Vitriolic Sphere|XPHB}"
 						]
 					},
@@ -3027,7 +3027,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Create Undead|XPHB}",
-							"{@spell Speak with Dead|XPHB}",
+							"{@spell Hablar con los muertos|XPHB}",
 							"{@spell Vitriolic Sphere|XPHB} (level 5 version)"
 						]
 					},
@@ -6061,7 +6061,7 @@
 						"The arcanaloth casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell Alter Self|XPHB}",
+						"{@spell Alterar el propio aspecto|XPHB}",
 						"{@spell Detect Magic|XPHB}",
 						"{@spell Identificar|XPHB}",
 						"{@spell Mage Hand|XPHB}",
@@ -6608,7 +6608,7 @@
 					"will": [
 						"{@spell Detect Magic|XPHB}",
 						"{@spell Detectar pensamientos|XPHB}",
-						"{@spell Disguise Self|XPHB}",
+						"{@spell disfrazarse|XPHB}",
 						"{@spell Invisibilidad|XPHB}",
 						"{@spell Light|XPHB}",
 						"{@spell Mage Armor|XPHB} (included in AC)",
@@ -8169,7 +8169,7 @@
 						"The bandit casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 14}):"
 					],
 					"will": [
-						"{@spell Disguise Self|XPHB}",
+						"{@spell disfrazarse|XPHB}",
 						"{@spell Mage Hand|XPHB}",
 						"{@spell Ilusión menor|XPHB}"
 					],
@@ -8526,7 +8526,7 @@
 				"path": "bestiary/barbed-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -8630,7 +8630,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell Disguise Self|XPHB}",
+							"{@spell disfrazarse|XPHB}",
 							"{@spell Invisibilidad|XPHB} (self only)"
 						],
 						"1e": [
@@ -8983,7 +8983,7 @@
 				"path": "bestiary/bearded-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -10846,7 +10846,7 @@
 				"path": "bestiary/bone-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -12227,7 +12227,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell Alter Self|XPHB}",
+							"{@spell Alterar el propio aspecto|XPHB}",
 							"{@spell Orden imperiosa|XPHB} (level 3 version)",
 							"{@spell Detect Magic|XPHB}"
 						],
@@ -12926,7 +12926,7 @@
 				"path": "bestiary/chain-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -15746,7 +15746,7 @@
 						"The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 14}):"
 					],
 					"will": [
-						"{@spell Speak with Dead|XPHB}",
+						"{@spell Hablar con los muertos|XPHB}",
 						"{@spell Thaumaturgy|XPHB}"
 					],
 					"ability": "wis",
@@ -20890,7 +20890,7 @@
 				"relics"
 			],
 			"traitTags": [
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"D"
@@ -22630,7 +22630,7 @@
 						"The ghast casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability:"
 					],
 					"will": [
-						"{@spell Speak with Dead|XPHB}",
+						"{@spell Hablar con los muertos|XPHB}",
 						"{@spell Thaumaturgy|XPHB}"
 					],
 					"ability": "int",
@@ -28857,7 +28857,7 @@
 					],
 					"will": [
 						"{@spell Luces danzantes|XPHB}",
-						"{@spell Disguise Self|XPHB} (24-hour duration)",
+						"{@spell disfrazarse|XPHB} (24-hour duration)",
 						"{@spell Invisibilidad|XPHB} (self only, and the hag leaves no tracks while Invisible)",
 						"{@spell Ilusión menor|XPHB}",
 						"{@spell Rayo nauseabundo|XPHB} (level 3 version)"
@@ -31749,7 +31749,7 @@
 				"path": "bestiary/horned-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -32468,7 +32468,7 @@
 				"path": "bestiary/imp.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -32562,7 +32562,7 @@
 						"The incubus casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell Disguise Self|XPHB}",
+						"{@spell disfrazarse|XPHB}",
 						"{@spell Etherealness|XPHB}"
 					],
 					"daily": {
@@ -34686,7 +34686,7 @@
 						"The lamia casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell Disguise Self|XPHB} (can appear as a Large or Medium biped)",
+						"{@spell disfrazarse|XPHB} (can appear as a Large or Medium biped)",
 						"{@spell Ilusión menor|XPHB}"
 					],
 					"daily": {
@@ -34921,7 +34921,7 @@
 				"path": "bestiary/lemure.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"SD"
@@ -35870,7 +35870,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Disguise Self|XPHB}",
+							"{@spell disfrazarse|XPHB}",
 							"{@spell Ice Knife|XPHB}",
 							"{@spell Mage Armor|XPHB} (included in AC)",
 							"{@spell Ola atronadora|XPHB}"
@@ -37942,7 +37942,7 @@
 					"will": [
 						"{@spell Detect Magic|XPHB}",
 						"{@spell Detectar pensamientos|XPHB}",
-						"{@spell Disguise Self|XPHB}",
+						"{@spell disfrazarse|XPHB}",
 						"{@spell Mage Hand|XPHB} (the hand is Invisible)"
 					],
 					"daily": {
@@ -45294,7 +45294,7 @@
 					"will": [
 						"{@spell Detect Magic|XPHB}",
 						"{@spell Detectar pensamientos|XPHB}",
-						"{@spell Disguise Self|XPHB}",
+						"{@spell disfrazarse|XPHB}",
 						"{@spell Mage Hand|XPHB}",
 						"{@spell Ilusión menor|XPHB}"
 					],
@@ -48070,10 +48070,10 @@
 					"name": "Illusory Appearance",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The hag casts {@spell Disguise Self|XPHB}, using Constitution as the spellcasting ability (spell save {@dc 13}). The spell's duration is 24 hours."
+						"The hag casts {@spell disfrazarse|XPHB}, using Constitution as the spellcasting ability (spell save {@dc 13}). The spell's duration is 24 hours."
 					],
 					"will": [
-						"{@spell Disguise Self|XPHB}"
+						"{@spell disfrazarse|XPHB}"
 					],
 					"ability": "con",
 					"displayAs": "action",
@@ -50761,7 +50761,7 @@
 				"path": "bestiary/spined-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Flyby",
 				"Magic Resistance"
 			],
@@ -52682,7 +52682,7 @@
 				"planar, nine hells"
 			],
 			"traitTags": [
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"SD"
@@ -54726,7 +54726,7 @@
 						"The ultroloth casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell Alter Self|XPHB}",
+						"{@spell Alterar el propio aspecto|XPHB}",
 						"{@spell Clairvoyance|XPHB}",
 						"{@spell Detect Magic|XPHB}"
 					],

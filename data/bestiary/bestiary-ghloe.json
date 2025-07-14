@@ -2220,7 +2220,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2269,11 +2269,11 @@
 						"The downcast apostate's spellcasting ability is Charisma. The apostate can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell detect magic}",
 						"{@spell invisibility}",
 						"{@spell jump}",
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell thaumaturgy}"
 					],
 					"ability": "cha"
@@ -4401,7 +4401,7 @@
 							"{@spell silence}"
 						],
 						"1e": [
-							"{@spell levitate}",
+							"{@spell levitar}",
 							"{@spell tongues}"
 						]
 					},
@@ -4610,7 +4610,7 @@
 				14,
 				{
 					"ac": 18,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4689,7 +4689,7 @@
 					"will": [
 						"{@spell eldritch blast} (four beams)",
 						"{@spell expeditious retreat} *",
-						"{@spell mage armor} *",
+						"{@spell armadura de mago} *",
 						"{@spell mage hand}"
 					],
 					"daily": {

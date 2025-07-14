@@ -5911,7 +5911,7 @@
 							"spells": [
 								"{@spell comprehend languages}",
 								"{@spell detect magic}",
-								"{@spell disguise self}"
+								"{@spell disfrazarse}"
 							]
 						}
 					},

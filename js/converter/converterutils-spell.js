@@ -361,7 +361,7 @@ export class AffectedCreatureTypeTagger {
 							.replace(/(.*?) aren't affected by this spell/g, (...m) => {
 								m[1].replace(AffectedCreatureTypeTagger._RE_TYPES, (...n) => this._doAddType({set: setNotAffected, type: n[1]}));
 							})
-							// Speak with Dead :: PHB
+							// Hablar con los muertos :: PHB
 							.replace(/The corpse\b.*?\bcan't be (.*)/g, (...m) => {
 								m[1].replace(AffectedCreatureTypeTagger._RE_TYPES, (...n) => this._doAddType({set: setNotAffected, type: n[1]}));
 							})

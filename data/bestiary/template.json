@@ -164,7 +164,7 @@
 									"1e": [
 										"{@spell blindness/deafness}",
 										"{@spell blur}",
-										"{@spell disguise self}"
+										"{@spell disfrazarse}"
 									]
 								},
 								"ability": "int"

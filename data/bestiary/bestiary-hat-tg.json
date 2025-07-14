@@ -242,7 +242,7 @@
 						],
 						"3e": [
 							"{@spell charm person}",
-							"{@spell disguise self}"
+							"{@spell disfrazarse}"
 						]
 					},
 					"ability": "cha",
@@ -650,12 +650,12 @@
 						"{@spell mage hand}",
 						"{@spell minor illusion}",
 						"{@spell prestidigitation}",
-						"{@spell speak with dead} (Simon must be holding his deathly token to cast this spell)"
+						"{@spell hablar con los muertos} (Simon must be holding his deathly token to cast this spell)"
 					],
 					"daily": {
 						"2e": [
 							"{@spell fog cloud}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell magic missile}",
 							"{@spell spider climb}"
 						],
@@ -824,7 +824,7 @@
 							"{@spell bestow curse}",
 							"{@spell Bigby's hand}",
 							"{@spell puerta dimensional}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell Otiluke's resilient sphere}",
 							"{@spell ola atronadora}"
 						],

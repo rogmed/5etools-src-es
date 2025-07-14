@@ -47,7 +47,7 @@
 				15,
 				{
 					"ac": 18,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -3421,7 +3421,7 @@
 						"Miska casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 21}):"
 					],
 					"will": [
-						"{@spell Disguise Self}",
+						"{@spell disfrazarse}",
 						"{@spell Invisibility}",
 						"{@spell Mage Hand}",
 						"{@spell Ilusión menor}",
@@ -4196,7 +4196,7 @@
 						"The raklupis casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 20})."
 					],
 					"will": [
-						"{@spell Disguise Self}",
+						"{@spell disfrazarse}",
 						"{@spell Invisibility} (self only)",
 						"{@spell Mage Hand}",
 						"{@spell Ilusión menor}"
@@ -4614,7 +4614,7 @@
 					"_": {
 						"mode": "addSpells",
 						"will": [
-							"{@spell speak with dead}"
+							"{@spell hablar con los muertos}"
 						]
 					}
 				}
@@ -5258,7 +5258,7 @@
 					],
 					"will": [
 						"{@spell Detect Magic}",
-						"{@spell Disguise Self}",
+						"{@spell disfrazarse}",
 						"{@spell Disipar magia}",
 						"{@spell Light}",
 						"{@spell Mage Hand}",

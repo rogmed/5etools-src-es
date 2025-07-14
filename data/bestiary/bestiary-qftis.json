@@ -687,7 +687,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -734,8 +734,8 @@
 					"daily": {
 						"2e": [
 							"{@spell Charm Person}",
-							"{@spell Disguise Self}",
-							"{@spell Silent Image}"
+							"{@spell disfrazarse}",
+							"{@spell imagen silenciosa}"
 						],
 						"1e": [
 							"{@spell Corona de la locura}",
@@ -2362,8 +2362,8 @@
 					"daily": {
 						"1e": [
 							"{@spell Charm Person}",
-							"{@spell Disguise Self}",
-							"{@spell Silent Image}"
+							"{@spell disfrazarse}",
+							"{@spell imagen silenciosa}"
 						]
 					},
 					"ability": "int",
@@ -4026,7 +4026,7 @@
 				10,
 				{
 					"ac": 13,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4071,7 +4071,7 @@
 							"{@spell Burning Hands}",
 							"{@spell Comprehend Languages}",
 							"{@spell Detect Magic}",
-							"{@spell Levitate}",
+							"{@spell Levitar}",
 							"{@spell Mage Armor}"
 						]
 					},

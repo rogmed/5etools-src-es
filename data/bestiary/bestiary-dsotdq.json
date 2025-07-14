@@ -1065,7 +1065,7 @@
 						],
 						"2e": [
 							"{@spell puerta dimensional}",
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell sending}"
 						]
 					},
@@ -6862,10 +6862,10 @@
 					"daily": {
 						"2e": [
 							"{@spell puerta dimensional}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						],
 						"1e": [
-							"{@spell arcane eye}",
+							"{@spell ojo arcano}",
 							"{@spell dominate person}",
 							"{@spell wall of force}"
 						]

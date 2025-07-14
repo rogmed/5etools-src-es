@@ -414,7 +414,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -454,7 +454,7 @@
 						"The witch casts one of the following spells, using Charisma as the spellcasting ability (spell save {@dc 16}):"
 					],
 					"will": [
-						"{@spell mage armor} (self only)",
+						"{@spell armadura de mago} (self only)",
 						"{@spell prestidigitation}"
 					],
 					"daily": {
@@ -591,7 +591,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell silent image}"
+							"{@spell imagen silenciosa}"
 						]
 					},
 					"ability": "cha",
@@ -1432,7 +1432,7 @@
 				14,
 				{
 					"ac": 17,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -1495,7 +1495,7 @@
 						"{@spell dancing lights}",
 						"{@spell detect magic}",
 						"{@spell saber druídico}",
-						"{@spell mage armor} (self only)"
+						"{@spell armadura de mago} (self only)"
 					],
 					"daily": {
 						"2e": [
@@ -3102,7 +3102,7 @@
 					"will": [
 						"{@spell detect magic}",
 						"{@spell minor illusion}",
-						"{@spell speak with dead}"
+						"{@spell hablar con los muertos}"
 					],
 					"daily": {
 						"1e": [

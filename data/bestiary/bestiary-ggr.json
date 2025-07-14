@@ -784,7 +784,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell alter self}",
+								"{@spell alterar el propio aspecto}",
 								"{@spell darkvision}",
 								"{@spell enlarge/reduce}",
 								"{@spell inmovilizar persona}"
@@ -1176,7 +1176,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -1222,12 +1222,12 @@
 						"The witch's innate spellcasting ability is Charisma (spell save {@dc 15}, {@hit 7} to hit with spell attacks). The witch can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell detect magic}",
 						"{@spell eldritch blast} (at 11th level)",
 						"{@spell false life}",
-						"{@spell levitate} (self only)",
-						"{@spell mage armor} (self only)"
+						"{@spell levitar} (self only)",
+						"{@spell armadura de mago} (self only)"
 					],
 					"daily": {
 						"1e": [
@@ -1252,7 +1252,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the witch's darkvision."
 					]
@@ -1283,7 +1283,7 @@
 				"shortsword|phb"
 			],
 			"traitTags": [
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"SD"
@@ -2315,7 +2315,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2355,7 +2355,7 @@
 					"daily": {
 						"3e": [
 							"{@spell enlarge/reduce}",
-							"{@spell mage armor} (self only)",
+							"{@spell armadura de mago} (self only)",
 							"{@spell scorching ray}"
 						],
 						"1e": [
@@ -3525,7 +3525,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -3564,7 +3564,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell mage armor} (self only)",
+							"{@spell armadura de mago} (self only)",
 							"{@spell scorching ray}"
 						],
 						"1e": [
@@ -4028,7 +4028,7 @@
 							"{@spell piel pétrea}"
 						],
 						"3e": [
-							"{@spell levitate}",
+							"{@spell levitar}",
 							"{@spell relámpago}",
 							"{@spell ola atronadora}"
 						]
@@ -6859,7 +6859,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -6906,7 +6906,7 @@
 						"3e": [
 							"{@spell charm person}",
 							"{@spell detect thoughts}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell sleep}",
 							"{@spell suggestion}"
 						],
@@ -7869,7 +7869,7 @@
 				11,
 				{
 					"ac": 14,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -7911,7 +7911,7 @@
 					"daily": {
 						"3": [
 							"{@spell detect thoughts}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						],
 						"1e": [
 							"{@spell clairvoyance}",
@@ -8258,7 +8258,7 @@
 							"spells": [
 								"{@spell bane}",
 								"{@spell dissonant whispers}",
-								"{@spell silent image}",
+								"{@spell imagen silenciosa}",
 								"{@spell Tasha's hideous laughter}",
 								"{@spell ola atronadora}"
 							]
@@ -8669,7 +8669,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blur}",
-								"{@spell levitate}"
+								"{@spell levitar}"
 							]
 						},
 						"3": {
@@ -9982,7 +9982,7 @@
 					],
 					"will": [
 						"{@spell charm person}",
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell encode thoughts|GGR} (see chapter 2)"
 					],
 					"daily": {

@@ -4777,7 +4777,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Ia'Affrat's darkvision."
 					]
@@ -4879,7 +4879,7 @@
 				"urban"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance"
 			],
@@ -5708,7 +5708,7 @@
 			"cr": "10",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the devil's darkvision."
 					]
@@ -5771,7 +5771,7 @@
 				"whip|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -7968,7 +7968,7 @@
 						"The blood hag casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell knock}",
 						"{@spell tongues}"
 					],
@@ -9943,7 +9943,7 @@
 						"The cambium casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell detect thoughts}",
 						"{@spell spare the dying}"
 					],
@@ -11205,7 +11205,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the chort devil's darkvision."
 					]
@@ -11261,7 +11261,7 @@
 				"urban"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -13967,7 +13967,7 @@
 			"cr": "6",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the crystalline devil's darkvision."
 					]
@@ -14024,7 +14024,7 @@
 				"urban"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"False Appearance",
 				"Magic Resistance"
 			],
@@ -17657,7 +17657,7 @@
 						"The domovoi casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell alter self}"
+						"{@spell alterar el propio aspecto}"
 					],
 					"daily": {
 						"3e": [
@@ -23423,7 +23423,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell suggestion}"
 						]
 					},
@@ -24938,7 +24938,7 @@
 						"The gilded devil casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell detect thoughts}",
 						"{@spell suggestion}"
 					],
@@ -24954,7 +24954,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the gilded devil's darkvision."
 					]
@@ -25023,7 +25023,7 @@
 				"urban"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -26043,7 +26043,7 @@
 						"The grim jester casts one of the following spells, requiring no components and using Charisma as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell grease}"
 					],
 					"daily": {
@@ -28566,7 +28566,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the ink devil's darkvision."
 					]
@@ -28616,7 +28616,7 @@
 				"planar"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -30545,7 +30545,7 @@
 			"cr": "11",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness does not impair the koralk's darkvision."
 					]
@@ -30605,7 +30605,7 @@
 				"planar"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -32774,7 +32774,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the lunar devil's darkvision."
 					]
@@ -32834,7 +32834,7 @@
 				"forest"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -34901,7 +34901,7 @@
 						"The blood hag casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell ray of enfeeblement}"
 					],
 					"daily": {
@@ -36420,7 +36420,7 @@
 					"will": [
 						"{@spell charm person}",
 						"{@spell dancing lights}",
-						"{@spell silent image}"
+						"{@spell imagen silenciosa}"
 					],
 					"daily": {
 						"3e": [
@@ -40447,7 +40447,7 @@
 					],
 					"will": [
 						"{@spell faerie fire}",
-						"{@spell silent image}",
+						"{@spell imagen silenciosa}",
 						"{@spell tongues}"
 					],
 					"daily": {
@@ -43768,7 +43768,7 @@
 						"The rubezahl casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 16}):"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell fog cloud}"
 					],
 					"daily": {
@@ -44218,7 +44218,7 @@
 			"cr": "6",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the salt devil's darkvision."
 					]
@@ -44270,7 +44270,7 @@
 				"scimitar|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -44510,7 +44510,7 @@
 						"The sand hag casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 14}):"
 					],
 					"will": [
-						"{@spell silent image}"
+						"{@spell imagen silenciosa}"
 					],
 					"daily": {
 						"3e": [
@@ -49573,7 +49573,7 @@
 			"cr": "5",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the spawn's darkvision."
 					]
@@ -49628,7 +49628,7 @@
 				"hill"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -49884,7 +49884,7 @@
 							"{@spell silence}"
 						],
 						"1e": [
-							"{@spell arcane eye}",
+							"{@spell ojo arcano}",
 							"{@spell hypnotic pattern}"
 						]
 					},

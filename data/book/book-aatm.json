@@ -165,7 +165,7 @@
 													"50 gp"
 												],
 												[
-													"{@spell Animate dead}, {@spell feign death}, {@spell speak with dead}",
+													"{@spell Animate dead}, {@spell feign death}, {@spell hablar con los muertos}",
 													"100 gp"
 												]
 											]
@@ -339,7 +339,7 @@
 										{
 											"type": "item",
 											"name": "Death Masks",
-											"entry": "The walls of the Mortuary are adorned with thousands of death masks imprinted with the faces of Sigil's dead. Planar magic flows through the masks, allowing spellcasters to comunión with the dead through them. A {@spell speak with dead} spell cast on a death mask causes the face to animate as if it were the corpse of the deceased creature that bore its likeness. The Heralds of Dust keep records of the faces' identities, but some have been lost to time and can be gleaned only by asking the dead."
+											"entry": "The walls of the Mortuary are adorned with thousands of death masks imprinted with the faces of Sigil's dead. Planar magic flows through the masks, allowing spellcasters to comunión with the dead through them. A {@spell hablar con los muertos} spell cast on a death mask causes the face to animate as if it were the corpse of the deceased creature that bore its likeness. The Heralds of Dust keep records of the faces' identities, but some have been lost to time and can be gleaned only by asking the dead."
 										},
 										{
 											"type": "item",

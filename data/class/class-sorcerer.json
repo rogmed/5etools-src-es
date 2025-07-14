@@ -682,7 +682,7 @@
 				{
 					"prepared": {
 						"3": [
-							"alter self|xphb",
+							"alterar el propio aspecto|xphb",
 							"orbe cromático|xphb",
 							"command|xphb",
 							"dragon's breath|xphb"
@@ -692,7 +692,7 @@
 							"fly|xphb"
 						],
 						"7": [
-							"arcane eye|xphb",
+							"ojo arcano|xphb",
 							"charm monster|xphb"
 						],
 						"9": [
@@ -1615,7 +1615,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Alter Self|XPHB}, {@spell Orbe cromático|XPHB}, {@spell Orden imperiosa|XPHB}, {@spell Dragon's Breath|XPHB}"
+							"{@spell Alterar el propio aspecto|XPHB}, {@spell Orbe cromático|XPHB}, {@spell Orden imperiosa|XPHB}, {@spell Dragon's Breath|XPHB}"
 						],
 						[
 							"5",

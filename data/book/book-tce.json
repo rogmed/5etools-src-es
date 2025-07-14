@@ -1793,10 +1793,10 @@
 											"columns": 3,
 											"items": [
 												"{@optfeature Bond of the Talisman|TCE}",
-												"{@optfeature Eldritch Mind|TCE}",
+												"{@optfeature Mente sobrenatural|TCE}",
 												"{@optfeature Far Scribe|TCE}",
-												"{@optfeature Gift of the Protectors|TCE}",
-												"{@optfeature Investment of the Chain Master|TCE}",
+												"{@optfeature Don de los protectores|TCE}",
+												"{@optfeature Inversión del amo de las cadenas|TCE}",
 												"{@optfeature Protection of the Talisman|TCE}",
 												"{@optfeature Rebuke of the Talisman|TCE}",
 												"{@optfeature Undying Servitude|TCE}"
@@ -6147,7 +6147,7 @@
 												],
 												[
 													"41\u201345",
-													"One random creature in the region is targeted by the {@spell levitate} spell (save {@dc 15}) for 1 minute."
+													"One random creature in the region is targeted by the {@spell levitar} spell (save {@dc 15}) for 1 minute."
 												],
 												[
 													"46\u201350",

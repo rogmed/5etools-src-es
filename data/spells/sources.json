@@ -60,7 +60,7 @@
 				}
 			]
 		},
-		"Alter Self": {
+		"Alterar el propio aspecto": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -3112,7 +3112,7 @@
 				}
 			]
 		},
-		"Levitate": {
+		"Levitar": {
 			"class": [
 				{
 					"name": "Hechicero",
@@ -4788,7 +4788,7 @@
 				}
 			]
 		},
-		"Speak with Dead": {
+		"Hablar con los muertos": {
 			"class": [
 				{
 					"name": "Bardo",

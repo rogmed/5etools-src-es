@@ -1630,7 +1630,7 @@
 								"2": {
 									"slots": 3,
 									"spells": [
-										"{@spell alter self}",
+										"{@spell alterar el propio aspecto}",
 										"{@spell suggestion}"
 									]
 								},
@@ -2618,7 +2618,7 @@
 								"hidden": true
 							},
 							"{@spell identify}",
-							"{@spell levitate}",
+							"{@spell levitar}",
 							"{@spell locate object}",
 							{
 								"entry": "{@spell shield}",
@@ -3589,7 +3589,7 @@
 						],
 						"1e": [
 							"{@spell dispel magic}",
-							"{@spell levitate}",
+							"{@spell levitar}",
 							"{@spell locate object}",
 							"{@spell see invisibility}",
 							"{@spell sending}",

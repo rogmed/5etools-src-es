@@ -6047,7 +6047,7 @@
 									"id": "112",
 									"entries": [
 										"If you gain the Extra Attack feature from more than one class, the features don't stack. You can't make more than two attacks with this feature unless you have a feature that says you can (such as the Fighter's Two Extra Attacks feature).",
-										"Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra Attack feature with your pact weapon, doesn't give you additional attacks if you also have Extra Attack."
+										"Similarly, the Warlock's Filo sediento invocation, which grants you the Extra Attack feature with your pact weapon, doesn't give you additional attacks if you also have Extra Attack."
 									]
 								},
 								{
@@ -12622,7 +12622,7 @@
 								"{@spell Salpicadura ácida|XPHB}",
 								"{@spell Auxilio|XPHB}",
 								"{@spell Alarma|XPHB}",
-								"{@spell Alter Self|XPHB}",
+								"{@spell Alterar el propio aspecto|XPHB}",
 								"{@spell Encantar animal|XPHB}",
 								"{@spell Mensajero animal|XPHB}",
 								"{@spell Animal Shapes|XPHB}",
@@ -12740,7 +12740,7 @@
 								"{@spell Detectar venenos y enfermedades|XPHB}",
 								"{@spell Detectar pensamientos|XPHB}",
 								"{@spell Puerta dimensional|XPHB}",
-								"{@spell Disguise Self|XPHB}",
+								"{@spell disfrazarse|XPHB}",
 								"{@spell Disintegrate|XPHB}",
 								"{@spell Dispel Evil and Good|XPHB}",
 								"{@spell Disipar magia|XPHB}",
@@ -12904,7 +12904,7 @@
 								"{@spell Leomund's Secret Chest|XPHB}",
 								"{@spell Leomund's Tiny Hut|XPHB}",
 								"{@spell Restablecimiento menor|XPHB}",
-								"{@spell Levitate|XPHB}",
+								"{@spell Levitar|XPHB}",
 								"{@spell Light|XPHB}",
 								"{@spell Lightning Arrow|XPHB}",
 								"{@spell Relámpago|XPHB}",
@@ -13048,7 +13048,7 @@
 								"{@spell Shining Smite|XPHB}",
 								"{@spell Agarre electrizante|XPHB}",
 								"{@spell Silencio|XPHB}",
-								"{@spell Silent Image|XPHB}",
+								"{@spell imagen silenciosa|XPHB}",
 								"{@spell Simulacrum|XPHB}",
 								"{@spell Dormir|XPHB}",
 								"{@spell Tormenta de aguanieve|XPHB}",
@@ -13056,7 +13056,7 @@
 								"{@spell Estallido mágico|XPHB}",
 								"{@spell Piedad con los moribundos|XPHB}",
 								"{@spell Hablar con los animales|XPHB}",
-								"{@spell Speak with Dead|XPHB}",
+								"{@spell Hablar con los muertos|XPHB}",
 								"{@spell Speak with Plants|XPHB}",
 								"{@spell Spider Climb|XPHB}",
 								"{@spell Spike Growth|XPHB}",

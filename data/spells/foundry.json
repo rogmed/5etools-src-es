@@ -320,7 +320,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Alter Self",
+			"name": "Alterar el propio aspecto",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -9441,7 +9441,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Levitate",
+			"name": "Levitar",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -9462,14 +9462,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "levitate"
+							"foundryId": "levitar"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "levitate",
+					"foundryId": "levitar",
 					"name": "Levitating",
 					"duration": {
 						"seconds": 600

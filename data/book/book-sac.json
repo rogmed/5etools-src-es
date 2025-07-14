@@ -824,17 +824,17 @@
 										},
 										{
 											"type": "entries",
-											"name": "If a warlock uses Pact of the Blade to bond with a arma mágica, does that weapon have to be a melee weapon, and can the warlock change the weapon's form?",
+											"name": "If a warlock uses Pacto del filo to bond with a arma mágica, does that weapon have to be a melee weapon, and can the warlock change the weapon's form?",
 											"id": "05a",
 											"entries": [
-												"The warlock's Pact of the Blade feature lets you create a melee weapon out of nothing. Whenever you do so, you determine the weapon's form, choosing from the melee weapon options in the {@book Weapons table|PHB|5|Weapons} in the {@book Player's Handbook|PHB}. For example, you can create a {@item greataxe|PHB}, and then use the feature again to create a {@item javelin|PHB}, which causes the greataxe to disappear.",
-												"You can also use Pact of the Blade to bond with a arma mágica, turning it into your pact weapon. This arma mágica doesn't have to be a melee weapon, so you could use the feature on a {@item +1 longbow}, for instance. Once the bond is formed, the arma mágica appears whenever you call your pact weapon to you, and you can't change the arma mágica's form when it appears. For example, if you bond with a {@item Flame Tongue Longsword||flame tongue (longsword)} and send the weapon to an extradimensional space, the weapon comes back as a longsword when you summon it. You don't get to turn it into a club. Similarly, if you bond with a {@item dagger of venom}, you can't summon it as a maul; it's always a dagger.",
+												"The warlock's Pacto del filo feature lets you create a melee weapon out of nothing. Whenever you do so, you determine the weapon's form, choosing from the melee weapon options in the {@book Weapons table|PHB|5|Weapons} in the {@book Player's Handbook|PHB}. For example, you can create a {@item greataxe|PHB}, and then use the feature again to create a {@item javelin|PHB}, which causes the greataxe to disappear.",
+												"You can also use Pacto del filo to bond with a arma mágica, turning it into your pact weapon. This arma mágica doesn't have to be a melee weapon, so you could use the feature on a {@item +1 longbow}, for instance. Once the bond is formed, the arma mágica appears whenever you call your pact weapon to you, and you can't change the arma mágica's form when it appears. For example, if you bond with a {@item Flame Tongue Longsword||flame tongue (longsword)} and send the weapon to an extradimensional space, the weapon comes back as a longsword when you summon it. You don't get to turn it into a club. Similarly, if you bond with a {@item dagger of venom}, you can't summon it as a maul; it's always a dagger.",
 												"The feature allows the conjuring forth of a melee weapon, yet we allow more versatility when it comes to arma mágicas. We didn't want a narrow focus in this feature to make a warlock unhappy when a variety of arma mágicas appear in a campaign. Does this versatility extend outside the melee theme of the feature? It sure does, but we're willing to occasionally bend a design concept if doing so is likely to increase a player's happiness."
 											]
 										},
 										{
 											"type": "entries",
-											"name": "If you're a Pact of the Blade warlock, can someone else wield your pact weapon?",
+											"name": "If you're a Pacto del filo warlock, can someone else wield your pact weapon?",
 											"id": "05b",
 											"entries": [
 												"Yes. Someone other than the warlock can use a pact weapon before the weapon disappears."
@@ -850,10 +850,10 @@
 										},
 										{
 											"type": "entries",
-											"name": "Does using a bonus action break invisibility from a warlock's One with Shadows invocation?",
+											"name": "Does using a bonus action break invisibility from a warlock's Uno con las sombras invocation?",
 											"id": "05d",
 											"entries": [
-												"Taking a bonus action breaks the {@condition invisible|phb|invisibility} of a warlock's One with Shadows. A bonus action is an action."
+												"Taking a bonus action breaks the {@condition invisible|phb|invisibility} of a warlock's Uno con las sombras. A bonus action is an action."
 											]
 										}
 									]
@@ -2399,7 +2399,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Can you use a shield with mage armor?",
+											"name": "Can you use a shield with armadura de mago?",
 											"id": "106",
 											"entries": [
 												"{@spell Mage armor} works with a {@item shield|PHB}. Shields are grouped with armor in the equipment rules in the {@book Player's Handbook|PHB}, but various game features distinguish between the armor you wear and a shield you wield. Take a look at the monk's Unarmored Defense feature and compare it to the barbarian's version. In the monk's version, you must both forgo wearing armor and forgo wielding a shield if you want to benefit from the feature, whereas a barbarian must only forgo wearing armor."
@@ -2407,18 +2407,18 @@
 										},
 										{
 											"type": "entries",
-											"name": "Does Unarmored Defense work with a spell like mage armor?",
+											"name": "Does Unarmored Defense work with a spell like armadura de mago?",
 											"id": "107",
 											"entries": [
-												"Unarmored Defense doesn't work with {@spell mage armor}. You might be asking yourself, \"Why don't they work together? {@spell Mage armor} specifies that it works on a creature who isn't wearing armor.\" It's true that the target of {@spell mage armor} must be unarmored, but {@spell mage armor} gives you a new way to calculate your AC (13 + your Dexterity modifier) and is therefore incompatible with Unarmored Defense or any other feature that provides an AC calculation."
+												"Unarmored Defense doesn't work with {@spell armadura de mago}. You might be asking yourself, \"Why don't they work together? {@spell Mage armor} specifies that it works on a creature who isn't wearing armor.\" It's true that the target of {@spell armadura de mago} must be unarmored, but {@spell armadura de mago} gives you a new way to calculate your AC (13 + your Dexterity modifier) and is therefore incompatible with Unarmored Defense or any other feature that provides an AC calculation."
 											]
 										},
 										{
 											"type": "entries",
-											"name": "I find it confusing that the mage armor spell is named that when it doesn't count as armor",
+											"name": "I find it confusing that the armadura de mago spell is named that when it doesn't count as armor",
 											"id": "108",
 											"entries": [
-												"Some spells and class features have figurative, not literal, names. The text of the spell or class feature explains what it does. In this case, {@spell mage armor} surrounds the target with \"protective magical force\"; the spell doesn't provide armor."
+												"Some spells and class features have figurative, not literal, names. The text of the spell or class feature explains what it does. In this case, {@spell armadura de mago} surrounds the target with \"protective magical force\"; the spell doesn't provide armor."
 											]
 										},
 										{
@@ -2882,7 +2882,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "For the hat of disguise, how do I set the spell save DC for disguise self ? Does the wearer have to be a caster?",
+											"name": "For the hat of disguise, how do I set the spell save DC for disfrazarse ? Does the wearer have to be a caster?",
 											"id": "131",
 											"entries": [
 												"Use your spellcasting ability modifier to set the DC. If you don't have a spellcasting ability, use your proficiency bonus to set it (see the rule in the {@i DMG}, under \"{@book Spells|DMG|7|Spells}\")."

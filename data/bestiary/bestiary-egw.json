@@ -747,7 +747,7 @@
 				},
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -783,7 +783,7 @@
 					"will": [
 						"{@spell eldritch blast}",
 						"{@spell false life}",
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}"
 					],
 					"daily": {

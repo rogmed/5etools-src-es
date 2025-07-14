@@ -1,21 +1,21 @@
 {
 	"optionalfeature": [
 		{
-			"name": "Agonizing Blast",
-			"originalname": "",
+			"name": "Descarga agónica",
+			"originalname": "Agonizing Blast",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
 					"spell": [
 						{
 							"choose": "level=0|class=Brujo",
-							"entry": "a Warlock Cantrip That Deals Damage",
-							"entrySummary": "Warlock Cantrip That Deals Damage"
+							"entry": "un truco de brujo que cause daño",
+							"entrySummary": "Truco de brujo que cause daño"
 						}
 					],
 					"level": {
@@ -29,15 +29,15 @@
 				}
 			],
 			"entries": [
-				"Choose one of your known {@filter Warlock cantrips|spells|level=0|class=Brujo} that deals damage. You can add your Charisma modifier to that spell's damage rolls.",
+				"Elige uno de tus {@filter trucos de brujo|spells|level=0|class=Brujo} que conozcas y cause daño. Puedes sumar tu modificador por Carisma a las tiradas de daño del conjuro.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Repeatable",
+							"name": "Repetible",
 							"entries": [
-								"You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip."
+								"Puedes obtener esta invocación más de una vez. Cada vez que lo hagas, elige un truco distinto que cumpla las condiciones."
 							]
 						}
 					]
@@ -60,35 +60,35 @@
 			]
 		},
 		{
-			"name": "Armor of Shadows",
-			"originalname": "",
+			"name": "Armadura de sombras",
+			"originalname": "Armor of Shadows",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"additionalSpells": [
 				{
 					"innate": {
 						"_": [
-							"mage armor|xphb"
+							"armadura de mago|xphb"
 						]
 					}
 				}
 			],
 			"entries": [
-				"You can cast {@spell Mage Armor|XPHB} on yourself without expending a spell slot."
+				"Puedes lanzar {@i {@spell armadura de mago|XPHB}} sobre ti sin gastar un espacio de conjuro."
 			]
 		},
 		{
-			"name": "Ascendant Step",
-			"originalname": "",
+			"name": "Paso ascendente",
+			"originalname": "Ascendant Step",
 			"source": "XPHB",
-			"page": 155,
+			"page": 73,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -106,13 +106,13 @@
 				{
 					"innate": {
 						"_": [
-							"levitate|xphb"
+							"levitar|xphb"
 						]
 					}
 				}
 			],
 			"entries": [
-				"You can cast {@spell Levitate|XPHB} on yourself without expending a spell slot."
+				"Puedes lanzar {@i {@spell levitar|XPHB}} sobre ti sin gastar un espacio de conjuro."
 			]
 		},
 		{
@@ -178,13 +178,13 @@
 			]
 		},
 		{
-			"name": "Devil's Sight",
-			"originalname": "",
+			"name": "Visión del diablo",
+			"originalname": "Devil's Sight",
 			"source": "XPHB",
-			"page": 155,
+			"page": 73,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -199,16 +199,16 @@
 				}
 			],
 			"entries": [
-				"You can see normally in {@variantrule Luz tenue|XPHB} and {@variantrule Darkness|XPHB}—both magical and nonmagical—within 120 feet of yourself."
+				"Puedes ver con normalidad en luz tenue y en la oscuridad, tanto si son mágicas como si no, a una distancia de 120 pies (36 m) o menos de ti."
 			]
 		},
 		{
-			"name": "Devouring Blade",
-			"originalname": "",
+			"name": "Hoja devoradora",
+			"originalname": "Devouring Blade",
 			"source": "XPHB",
-			"page": 155,
+			"page": 72,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -221,12 +221,12 @@
 						}
 					},
 					"optionalfeature": [
-						"thirsting blade|xphb"
+						"filo sediento|xphb"
 					]
 				}
 			],
 			"entries": [
-				"The Extra Attack of your {@optfeature Thirsting Blade|XPHB} invocation confers two extra attacks rather than one."
+				"El rasgo Ataque adicional de tu invocación {@optfeature Filo sediento|XPHB} otorga dos ataques adicionales en vez de uno."
 			]
 		},
 		{
@@ -276,24 +276,24 @@
 			]
 		},
 		{
-			"name": "Eldritch Mind",
-			"originalname": "",
+			"name": "Mente sobrenatural",
+			"originalname": "Eldritch Mind",
 			"source": "XPHB",
-			"page": 155,
+			"page": 72,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"entries": [
-				"You have {@variantrule Advantage|XPHB} on Constitution saving throws that you make to maintain {@status Concentration|XPHB}."
+				"Tienes ventaja en las tiradas de salvación de Constitución que realices para mantener la {@status concentración|XPHB}."
 			]
 		},
 		{
-			"name": "Eldritch Smite",
-			"originalname": "",
+			"name": "Castigo arcano",
+			"originalname": "Eldritch Smite",
 			"source": "XPHB",
-			"page": 155,
+			"page": 71,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -306,30 +306,30 @@
 						}
 					},
 					"optionalfeature": [
-						"pact of the blade|xphb"
+						"pacto del filo|xphb"
 					]
 				}
 			],
 			"entries": [
-				"Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra {@damage 1d8} Force damage to the target, plus another {@dice 1d8} per level of the spell slot, and you can give the target the {@condition Prone|XPHB} condition if it is Huge or smaller."
+				"Una vez por turno, cuando aciertes a una criatura con u arma de pacto, puedes gastar un espacio de conjuro de Magia del pacto para causar {@damage 1d8} de daño de fuerza adicional al objetivo más {@dice 1d8} por cada nivel del espacio de conjuro. Además, puedes imponerle el estado de {@condition derribado|XPHB} al objetivo si es Enorme o más pequeño."
 			]
 		},
 		{
-			"name": "Eldritch Spear",
-			"originalname": "",
+			"name": "Lanza sobrenatural",
+			"originalname": "Eldritch Spear",
 			"source": "XPHB",
-			"page": 155,
+			"page": 72,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
 					"spell": [
 						{
 							"choose": "level=0|class=Brujo",
-							"entry": "a Warlock Cantrip That Deals Damage",
-							"entrySummary": "Warlock Cantrip That Deals Damage"
+							"entry": "un truco de brujo que cause daño",
+							"entrySummary": "Truco de brujo que cause daño"
 						}
 					],
 					"level": {
@@ -343,15 +343,15 @@
 				}
 			],
 			"entries": [
-				"Choose one of your known {@filter Warlock cantrips|spells|level=0|class=Brujo} that deals damage and has a range of 10+ feet. When you cast that spell, its range increases by a number of feet equal to 30 times your Warlock level.",
+				"Elige uno de tus {@filter trucos de brujo|spells|level=0|class=Brujo} que conozcas, cause daño y tenga un alcance de 10 pies (3 m) o más. Cuando lances ese conjuro, su alcance aumenta una cantidad de metros igual a 10 veces tu nivel de brujo (30 pies x nivel).",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Repeatable",
+							"name": "Repetible",
 							"entries": [
-								"You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip."
+								"Puedes obtener esta invocación más de una vez. Cada vez que lo hagas, elige un truco distinto que cumpla las condiciones."
 							]
 						}
 					]
@@ -424,13 +424,13 @@
 			]
 		},
 		{
-			"name": "Fiendish Vigor",
-			"originalname": "",
+			"name": "Vigor infernal",
+			"originalname": "Fiendish Vigor",
 			"source": "XPHB",
-			"page": 155,
+			"page": 73,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -448,23 +448,23 @@
 				{
 					"innate": {
 						"_": [
-							"false life|xphb"
+							"falsa vida|xphb"
 						]
 					}
 				}
 			],
 			"entries": [
-				"You can cast {@spell False Life|XPHB} on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the {@variantrule Temporary Hit Points|XPHB}; you automatically get the highest number on the die."
+				"Puedes lanzar {@i {@spell falsa vida|XPHB}} sobre ti sin gastar un espacio de conjuro. Si lanzas el conjuro con este rasgo, no tiras el dado para los puntos de golpe temporales; en su lugar, obtienes automáticamente el número más alto en el dado."
 			]
 		},
 		{
-			"name": "Gaze of Two Minds",
-			"originalname": "",
+			"name": "Mirada de las dos mentes",
+			"originalname": "Gaze of Two Minds",
 			"source": "XPHB",
-			"page": 156,
+			"page": 72,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -479,17 +479,17 @@
 				}
 			],
 			"entries": [
-				"You can use a {@variantrule Acción adicional|XPHB} to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a {@variantrule Acción adicional|XPHB} on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.",
-				"While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other."
+				"Puedes usar una acción adicional para tocar a una criatura voluntaria y percibir el mundo a través de sus sentidos hasta el final de tu siguiente turno. Mientras la criatura permanezca en el mismo plano de existencia que tú, podrás utilizar una acción adicional en cada uno de los turnos posteriores para mantener esta conexión y alargar la duración de este efecto hasta el final de tu siguiente turno. La conexión termina si no la mantienes de esta forma.",
+				"Mientras percibes el mundo a través de los ojos de la otra criatura, te beneficias de cualquier sentido especial que tenga y puedesllanzar conjuros como si estuvieras en tu espacio o en el espacio de la otra criatura si estáis a 60 pies (18 m) o menos de distancia."
 			]
 		},
 		{
-			"name": "Gift of the Depths",
-			"originalname": "",
+			"name": "Don de las profundidades",
+			"originalname": "Gift of the Depths",
 			"source": "XPHB",
-			"page": 156,
+			"page": 71,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -509,7 +509,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"water breathing|xphb"
+									"respirar bajo el agua|xphb"
 								]
 							}
 						}
@@ -517,17 +517,17 @@
 				}
 			],
 			"entries": [
-				"You can breathe underwater, and you gain a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Velocidad|XPHB}.",
-				"You can also cast {@spell Respirar bajo el agua|XPHB} once without expending a spell slot. You regain the ability to cast it in this way again when you finish a {@variantrule Descanso largo|XPHB}."
+				"Puedes respirar bajo el agua y obtienes una velocidad nadando igual a tu velocidad.",
+				"También puedes lanzar {@i {@spell respirar bajo el agua|XPHB}} una vez sin gastar un espacio de conjuro. Recuperas la capacidad de lanzarlo de este modo tras finalizar un descanso largo."
 			]
 		},
 		{
-			"name": "Gift of the Protectors",
-			"originalname": "",
+			"name": "Don de los protectores",
+			"originalname": "Gift of the Protectors",
 			"source": "XPHB",
 			"page": 156,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -540,14 +540,14 @@
 						}
 					},
 					"optionalfeature": [
-						"pact of the tome|xphb"
+						"pacto del grimorio|xphb"
 					]
 				}
 			],
 			"entries": [
-				"A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take an action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of one name).",
-				"When any creature whose name is on the page is reduced to 0 {@variantrule Hit Points|XPHB} but not killed outright, the creature magically drops to 1 {@variantrule Hit Points|XPHB|Hit Point} instead. Once this magic is triggered, no creature can benefit from it until you finish a {@variantrule Descanso largo|XPHB}.",
-				"As a {@action Magic|XPHB} action, you can erase a name on the page by touching it."
+				"Aparece una nueva página en el {@i Libro de las sombras} cuando lo conjuras. Con tu permiso, una criatura puede usar una acción para escribir su nombre en esa página, que puede contener una cantidad de nombres igual a tu modificador por Carisma (mínimo un nombre).",
+				"Cuando los puntos de golpe de cualquier criatura cuyo nombre esté en la página se reduzcan a 0, pero no muera, en vez de eso pasará a tener 1 punto de golpe mágicamente. Cuando esta magia se active, ninguna criatura podrá beneficiarse de ella hasta que finalices un descanso largo.",
+				"Como acción de magia, puedes borrar un nombre de la página tocándolo."
 			]
 		},
 		{
@@ -583,12 +583,12 @@
 			]
 		},
 		{
-			"name": "Investment of the Chain Master",
-			"originalname": "",
+			"name": "Inversión del amo de las cadenas",
+			"originalname": "Investment of the Chain Master",
 			"source": "XPHB",
-			"page": 156,
+			"page": 72,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -601,48 +601,48 @@
 						}
 					},
 					"optionalfeature": [
-						"pact of the chain|xphb"
+						"pacto de la cadena|xphb"
 					]
 				}
 			],
 			"entries": [
-				"When you cast {@spell Encontrar familiar|XPHB}, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.",
+				"Cuando lanzas {@i {@spell encontrar familiar|XPHB}}, imbuyes al familiar invocado de una cierta cantidad de tu poder sobrenatural, lo que le otorga a la criatura los siguientes beneficios.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Aerial or Aquatic",
+							"name": "Acuático o aéreo",
 							"entries": [
-								"The familiar gains either a {@variantrule Fly Speed|XPHB} or a {@variantrule Swim Speed|XPHB} (your choice) of 40 feet."
+								"El familiar obtiene una velocidad nadando o una velocidad volando (a tu elección) de 40 pies (12 m)."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Quick Attack",
+							"name": "Ataque rápido",
 							"entries": [
-								"As a {@variantrule Acción adicional|XPHB}, you can command the familiar to take the {@action Attack|XPHB} action."
+								"Como acción adicional, puedes ordenar al familiar que realice la acción de atacar."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Necrotic or Radiant Damage",
+							"name": "Daño necrótico o radiante",
 							"entries": [
-								"Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead."
+								"Siempre que el familiar haga daño contundente, cortante o perforante, puedes hacer que cause daño necrótico o radiante en su lugar."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Your Save DC",
+							"name": "Tu CD de salvación",
 							"entries": [
-								"If the familiar forces a creature to make a saving throw, it uses your spell save DC."
+								"Si el familiar obliga a una criatura a realizar una tirada de salvación, esta utiliza tu CD de salvación de conjuros."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Resistencia",
 							"entries": [
-								"When the familiar takes damage, you can take a {@variantrule Reaction|XPHB} to grant it {@variantrule Resistance|XPHB} against that damage."
+								"Cuando el familiar recibe daño, puedes usar una reacción para otorgarle resistencia contra ese daño."
 							]
 						}
 					]
@@ -650,12 +650,12 @@
 			]
 		},
 		{
-			"name": "Lessons of the First Ones",
-			"originalname": "",
+			"name": "Lecciones de los primeros",
+			"originalname": "Lessons of the First Ones",
 			"source": "XPHB",
-			"page": 156,
+			"page": 72,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -681,15 +681,15 @@
 				}
 			],
 			"entries": [
-				"You have received knowledge from an elder entity of the multiverse, allowing you to gain one {@filter Origin feat|feats|category=o} of your choice.",
+				"Has obtenido conocimientos de un ente anciano del multiverso, lo que te permite obtener una {@filter dote de origen|feats|category=o} de tu elección (consulta el capítulo 5).",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Repeatable",
+							"name": "Repetible",
 							"entries": [
-								"You can gain this invocation more than once. Each time you do so, choose a different Origin feat."
+								"Puedes obtener esta invocación más de una vez. Cada vez que lo hagas, elige una dote de origen distinta."
 							]
 						}
 					]
@@ -697,13 +697,13 @@
 			]
 		},
 		{
-			"name": "Lifedrinker",
-			"originalname": "",
+			"name": "Devorador de vida",
+			"originalname": "Lifedrinker",
 			"source": "XPHB",
-			"page": 156,
+			"page": 71,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -716,12 +716,12 @@
 						}
 					},
 					"optionalfeature": [
-						"pact of the blade|xphb"
+						"pacto del filo|xphb"
 					]
 				}
 			],
 			"entries": [
-				"Once per turn when you hit a creature with your pact weapon, you can deal an extra {@damage 1d6} Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your {@variantrule Hit Point Dice|XPHB} to roll it and regain a number of {@variantrule Hit Points|XPHB} equal to the roll plus your Constitution modifier (minimum of 1 {@variantrule Hit Points|XPHB|Hit Point})."
+				"Una vez por turno, cuando aciertes a una criatura con tu arma de pacto, puedes causarle {@damage 1d6} de daño necrótico, psíquico o radiante adicional (a tu elección) a esa criatura y gastar uno de tus dados de puntos de golpe para tirarlo y recuperar una cantidad de puntos de golpe igual al resultado más tu modificador por Constitución (mínimo 1 punto de golpe)."
 			]
 		},
 		{
@@ -755,13 +755,13 @@
 			]
 		},
 		{
-			"name": "Mask of Many Faces",
-			"originalname": "",
+			"name": "Máscara de los mil rostros",
+			"originalname": "Mask of Many Faces",
 			"source": "XPHB",
-			"page": 156,
+			"page": 72,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -779,23 +779,23 @@
 				{
 					"innate": {
 						"_": [
-							"disguise self|xphb"
+							"disfrazarse|xphb"
 						]
 					}
 				}
 			],
 			"entries": [
-				"You can cast {@spell Disguise Self|XPHB} without expending a spell slot."
+				"Puedes lanzar {@i {@spell disfrazarse|XPHB}} sin gastar un espacio de conjuro."
 			]
 		},
 		{
-			"name": "Master of Myriad Forms",
-			"originalname": "",
+			"name": "Maestro de las formas innumerables",
+			"originalname": "Master of Myriad Forms",
 			"source": "XPHB",
-			"page": 156,
+			"page": 72,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -813,13 +813,13 @@
 				{
 					"innate": {
 						"_": [
-							"alter self|xphb"
+							"alterar el propio aspecto|xphb"
 						]
 					}
 				}
 			],
 			"entries": [
-				"You can cast {@spell Alter Self|XPHB} without expending a spell slot."
+				"Puedes lanzar {@i {@spell alterar el propio aspecto|XPHB}} sin gastar un espacio de conjuro."
 			]
 		},
 		{
@@ -838,13 +838,13 @@
 			]
 		},
 		{
-			"name": "Misty Visions",
-			"originalname": "",
+			"name": "Visiones brumosas",
+			"originalname": "Misty Visions",
 			"source": "XPHB",
-			"page": 156,
+			"page": 73,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -862,23 +862,23 @@
 				{
 					"innate": {
 						"_": [
-							"silent image|xphb"
+							"imagen silenciosa|xphb"
 						]
 					}
 				}
 			],
 			"entries": [
-				"You can cast {@spell Silent Image|XPHB} without expending a spell slot."
+				"Puedes lanzar {@i {@spell imagen silenciosa|XPHB}} sin gastar un espacio de conjuro."
 			]
 		},
 		{
-			"name": "One with Shadows",
-			"originalname": "",
+			"name": "Uno con las sombras",
+			"originalname": "One with Shadows",
 			"source": "XPHB",
-			"page": 156,
+			"page": 73,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -896,23 +896,23 @@
 				{
 					"innate": {
 						"_": [
-							"invisibility|xphb"
+							"invisibilidad|xphb"
 						]
 					}
 				}
 			],
 			"entries": [
-				"While you're in an area of {@variantrule Luz tenue|XPHB} or {@variantrule Darkness|XPHB}, you can cast {@spell Invisibilidad|XPHB} on yourself without expending a spell slot."
+				"Mientras estés en una zona de luz tenue u oscuridad, puedes lanzar {@i {@spell invisibilidad|XPHB}} sobre ti sin gastar un espacio de conjuro."
 			]
 		},
 		{
-			"name": "Otherworldly Leap",
-			"originalname": "",
+			"name": "Salto sobrenatural",
+			"originalname": "Otherworldly Leap",
 			"source": "XPHB",
-			"page": 156,
+			"page": 73,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -930,38 +930,38 @@
 				{
 					"innate": {
 						"_": [
-							"jump|xphb"
+							"salto|xphb"
 						]
 					}
 				}
 			],
 			"entries": [
-				"You can cast {@spell Jump|XPHB} on yourself without expending a spell slot."
+				"Puedes lanzar {@i {@spell salto|xphb}} sobre ti sin gastar un espacio de conjuro."
 			]
 		},
 		{
-			"name": "Pact of the Blade",
-			"originalname": "",
+			"name": "Pacto del filo",
+			"originalname": "Pact of the Blade",
 			"source": "XPHB",
-			"page": 156,
+			"page": 72,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"entries": [
-				"As a {@variantrule Acción adicional|XPHB}, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a arma mágica you touch; you can't bond with a arma mágica if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a {@variantrule Spellcasting Focus|XPHB}.",
-				"Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.",
-				"Your bond with the weapon ends if you use this feature's {@variantrule Acción adicional|XPHB} again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends."
+				"Como acción adicional, puedes conjurar en tu mano un arma de pacto, un arma cuerpo a cuerpo sencilla o marcial de tu elección con la que estableces un vínculo. Como alternativa, puedes vincularte con un arma mágica que toques, pero no podrás hacerlo si otra criatura está sintonizada con ella o si otro brujo está vinculado con ella. Hasta que termine el vínculo, tendrás competencia con esa arma y podrás usarla como canalizador mágico.",
+				"Siempre que ataques con el arma vinculada, puedes usar tu modificador por Carisma para las tiradas de ataque y de daño en lugar del modificador por Fuerza o Destreza. Además, puedes hacer que cause daño necrótico, psíquico o radiante en lugar de su tipo de daño normal.",
+				"Tu vínculo con el arma se rompe si vuelves a usar la acción adicional de este rasgo, si el arma está a más de 5 pies (1,5 m) de ti durante 1 minuto o más o si mueres. Un arma conjurada desaparece cuando termina el vínculo."
 			]
 		},
 		{
-			"name": "Pact of the Chain",
-			"originalname": "",
+			"name": "Pacto de la cadena",
+			"originalname": "Pact of the Chain",
 			"source": "XPHB",
 			"page": 157,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"additionalSpells": [
 				{
@@ -976,19 +976,19 @@
 				}
 			],
 			"entries": [
-				"You learn the {@spell Encontrar familiar|XPHB} spell and can cast it as a {@action Magic|XPHB} action without expending a spell slot.",
-				"When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: {@creature Imp|XMM}, {@creature Pseudodragon|XMM}, {@creature Quasit|XMM}, {@creature Skeleton|XMM}, {@creature Slaad Tadpole|XMM}, {@creature Sphinx of Wonder|XMM}, {@creature Sprite|XMM}, or {@creature Venomous Snake|XMM} (see appendix B for the familiar's stat block).",
-				"Additionally, when you take the {@action Attack|XPHB} action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its {@variantrule Reaction|XPHB}."
+				"Aprendes el conjuro {@i {@spell encontrar familiar|XPHB}} y puedes lanzarlo como acción de magia sin gastar un espacio de conjuro.",
+				"Cuando lo lances, escoge entre una de las formas habituales para tu familiar o una de las siguientes formas especiales: {@b diablillo, duende, esfinge de las maravillas, esqueleto, pseudodragón, quasit, renacuajo slaad o serpiente venenosa} (consulta el perfil del familiar en el apéndice B).",
+				"Asimismo, cuando realizas la acción de atacar, puedes renunciar a uno de tus propios ataques para que el familiar realice un ataque propio con su reacción."
 			]
 		},
 		{
-			"name": "Pact of the Tome",
-			"originalname": "",
+			"name": "Pacto del grimorio",
+			"originalname": "Pact of the Tome",
 			"source": "XPHB",
 			"page": 157,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"additionalSpells": [
 				{
@@ -1012,22 +1012,22 @@
 				}
 			],
 			"entries": [
-				"Stitching together strands of shadow, you conjure forth a book in your hand at the end of a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.",
+				"Uniendo hebras de sombras, conjuras un libro en tu mano al terminar un descanso corto o largo. Este Libro de las sombras (tú eliges su aspecto) contiene magia sobrenatural a la que solo tú puedes acceder y que te proporciona los beneficios presentados a continuación. El libro desaparece si conjuras otro con este rasgo o si mueres.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Cantrips and Rituals",
+							"name": "Trucos y rituales",
 							"entries": [
-								"When the book appears, choose three {@filter cantrips|spells|level=0}, and choose two {@filter level 1 spells|spells|level=1|components & miscellaneous=ritual} that have the {@variantrule Ritual|XPHB} tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you."
+								"Cuando aparezca el libro, elige tres {@filter trucos|spells|level=0} y dos {@filter conjuros|spells|level=1|components & miscellaneous=ritual} de nivel 1 que estén marcados como “{@variantrule ritual|XPHB}”. Los conjuros pueden ser de la lista de cualquier clase y deben ser conjuros que no tengas ya preparados. Mientras lleves el libro contigo, tendrás preparados los conjuros elegidos y funcionarán como conjuros de brujo para ti."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Canalizador mágico",
 							"entries": [
-								"You can use the book as a {@variantrule Spellcasting Focus|XPHB}."
+								"Puedes usar el libro como canalizador mágico."
 							]
 						}
 					]
@@ -1112,21 +1112,21 @@
 			]
 		},
 		{
-			"name": "Repelling Blast",
-			"originalname": "",
+			"name": "Descarga ahuyentadora",
+			"originalname": "Repelling Blast",
 			"source": "XPHB",
-			"page": 157,
+			"page": 71,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
 					"spell": [
 						{
 							"choose": "level=0|class=Brujo",
-							"entry": "a Warlock Cantrip That Deals Damage via an Attack Roll",
-							"entrySummary": "Warlock Cantrip That Deals Damage via an Attack Roll"
+							"entry": "un truco de brujo que cause daño",
+							"entrySummary": "Truco de brujo que cause daño"
 						}
 					],
 					"level": {
@@ -1140,15 +1140,15 @@
 				}
 			],
 			"entries": [
-				"Choose one of your known {@filter Warlock cantrips|spells|level=0|class=Brujo} that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.",
+				"Elige uno de tus {@filter trucos de brujo|spells|level=0|class=Brujo} que conozcas y requiera una tirada de ataque. Cuando aciertes a una criatura Grande o más pequeña con ese truco, puedes empujarla hasta 10 pies (3 m) respecto a ti en línea recta.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Repeatable",
+							"name": "Repetible",
 							"entries": [
-								"You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip."
+								"Puedes obtener esta invocación más de una vez. Cada vez que lo hagas, elige un truco distinto que cumpla las condiciones."
 							]
 						}
 					]
@@ -1234,13 +1234,13 @@
 			]
 		},
 		{
-			"name": "Thirsting Blade",
+			"name": "Filo sediento",
 			"originalname": "",
 			"source": "XPHB",
-			"page": 157,
+			"page": 72,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -1253,12 +1253,12 @@
 						}
 					},
 					"optionalfeature": [
-						"pact of the blade|xphb"
+						"pacto del filo|xphb"
 					]
 				}
 			],
 			"entries": [
-				"You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the {@action Attack|XPHB} action on your turn."
+				"Obtienes el rasgo Ataque adicional, pero solo para tu arma de pacto. Este rasgo te permite hacer dos ataques con esa arma en lugar de uno cuando lleves a cabo la acción de atacar en tu turno."
 			]
 		},
 		{
@@ -1308,13 +1308,13 @@
 			]
 		},
 		{
-			"name": "Visions of Distant Realms",
-			"originalname": "",
+			"name": "Visiones de reinos remotos",
+			"originalname": "Visions of Distant Realms",
 			"source": "XPHB",
-			"page": 157,
+			"page": 73,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -1332,23 +1332,23 @@
 				{
 					"innate": {
 						"_": [
-							"arcane eye|xphb"
+							"ojo arcano|xphb"
 						]
 					}
 				}
 			],
 			"entries": [
-				"You can cast {@spell Ojo arcano|XPHB} without expending a spell slot."
+				"Puedes lanzar {@i {@spell Ojo arcano|XPHB}} sin gastar un espacio de conjuro."
 			]
 		},
 		{
-			"name": "Whispers of the Grave",
-			"originalname": "",
+			"name": "Susurros del sepulcro",
+			"originalname": "Whispers of the Grave",
 			"source": "XPHB",
-			"page": 157,
+			"page": 73,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -1366,23 +1366,23 @@
 				{
 					"innate": {
 						"_": [
-							"speak with dead|xphb"
+							"hablar con los muertos|xphb"
 						]
 					}
 				}
 			],
 			"entries": [
-				"You can cast {@spell Speak with Dead|XPHB} without expending a spell slot."
+				"Puedes lanzar {@i {@spell hablar con los muertos|XPHB}} sin gastar un espacio de conjuro."
 			]
 		},
 		{
-			"name": "Witch Sight",
-			"originalname": "",
+			"name": "Visión bruja",
+			"originalname": "Witch Sight",
 			"source": "XPHB",
-			"page": 157,
+			"page": 73,
 			"srd52": true,
 			"featureType": [
-				"EI"
+				"IS"
 			],
 			"prerequisite": [
 				{
@@ -1402,7 +1402,7 @@
 				}
 			],
 			"entries": [
-				"You have {@sense Truesight|XPHB} with a range of 30 feet."
+				"Tienes visión verdadera hasta 30 pies (9 m)."
 			]
 		}
 	]

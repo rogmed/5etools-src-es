@@ -1454,7 +1454,7 @@
 				"religión": "+3"
 			},
 			"senses": [
-				"darkvision 120 ft. (see devil's sight below)"
+				"darkvision 120 ft. (see Visión del diablo below)"
 			],
 			"passive": 13,
 			"languages": [
@@ -1470,7 +1470,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Thalamra can see normally in darkness, both magical and nonmagical, out to a distance of 120 feet."
 					]
@@ -1505,7 +1505,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"SD"
@@ -2735,7 +2735,7 @@
 							"spells": [
 								"{@spell animate dead}",
 								"{@spell magic circle}",
-								"{@spell speak with dead}",
+								"{@spell hablar con los muertos}",
 								"{@spell spirit guardians}",
 								"{@spell vampiric touch}"
 							]
@@ -2983,7 +2983,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell mage hand}",
 						"{@spell minor illusion}"
 					],
@@ -2995,7 +2995,7 @@
 							"{@spell hellish rebuke}",
 							"{@spell invisibility}",
 							"{@spell major image}",
-							"{@spell speak with dead}",
+							"{@spell hablar con los muertos}",
 							"{@spell suggestion}"
 						],
 						"1e": [
@@ -3790,7 +3790,7 @@
 					"daily": {
 						"1e": [
 							"{@spell charm person}",
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell sanctuary}"
 						]
 					},

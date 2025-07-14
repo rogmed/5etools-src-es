@@ -389,7 +389,7 @@
 							"{@spell mass cure wounds}",
 							"{@spell crecimiento vegetal}",
 							"{@spell revivify}",
-							"{@spell speak with dead}"
+							"{@spell hablar con los muertos}"
 						]
 					},
 					"ability": "wis",
@@ -1631,7 +1631,7 @@
 						"1e": [
 							"{@spell comprehend languages}",
 							"{@spell locate object}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						]
 					},
 					"ability": "int",
@@ -1748,8 +1748,8 @@
 							"{@spell locate object}"
 						],
 						"1e": [
-							"{@spell mage armor}",
-							"{@spell speak with dead}",
+							"{@spell armadura de mago}",
+							"{@spell hablar con los muertos}",
 							"{@spell stone shape}"
 						]
 					},
@@ -1888,7 +1888,7 @@
 					"daily": {
 						"2e": [
 							"{@spell locate object}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell passwall}"
 						]
 					},
@@ -2019,7 +2019,7 @@
 						"2e": [
 							"{@spell puerta dimensional}",
 							"{@spell locate object}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell stone shape}"
 						]
 					},
@@ -2465,7 +2465,7 @@
 					"daily": {
 						"2e": [
 							"{@spell dispel magic}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell remove curse}",
 							"{@spell sending}"
 						],
@@ -2763,8 +2763,8 @@
 						"The recruiter casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 14}):"
 					],
 					"will": [
-						"{@spell disguise self}",
-						"{@spell silent image}"
+						"{@spell disfrazarse}",
+						"{@spell imagen silenciosa}"
 					],
 					"daily": {
 						"1": [
@@ -2968,8 +2968,8 @@
 					"daily": {
 						"1e": [
 							"{@spell ráfaga de viento}",
-							"{@spell mage armor}",
-							"{@spell silent image}"
+							"{@spell armadura de mago}",
+							"{@spell imagen silenciosa}"
 						]
 					},
 					"ability": "cha",
@@ -3077,10 +3077,10 @@
 					"daily": {
 						"2e": [
 							"{@spell ráfaga de viento}",
-							"{@spell silent image}"
+							"{@spell imagen silenciosa}"
 						],
 						"1e": [
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell water walk}"
 						]
 					},
@@ -3222,7 +3222,7 @@
 						"2e": [
 							"{@spell fog cloud}",
 							"{@spell ráfaga de viento}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						]
 					},
 					"ability": "cha",
@@ -3355,7 +3355,7 @@
 						"2e": [
 							"{@spell control water}",
 							"{@spell create or destroy water}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell stone shape}"
 						]
 					},
@@ -3485,7 +3485,7 @@
 					"daily": {
 						"1e": [
 							"{@spell enlarge/reduce}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						]
 					},
 					"ability": "int",
@@ -3588,7 +3588,7 @@
 						"1e": [
 							"{@spell puerta dimensional}",
 							"{@spell enlarge/reduce}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell crecimiento vegetal}"
 						]
 					},
@@ -3715,7 +3715,7 @@
 						"1e": [
 							"{@spell creation} (as an action)",
 							"{@spell puerta dimensional}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell crecimiento vegetal}",
 							"{@spell polymorph}"
 						]
@@ -3859,7 +3859,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell major image}",
 							"{@spell mirage arcane} (as an action)",
 							"{@spell Enlace telepático de Rary}"
@@ -4407,7 +4407,7 @@
 					"daily": {
 						"1e": [
 							"{@spell command}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						]
 					},
 					"ability": "cha",
@@ -4514,7 +4514,7 @@
 						"1e": [
 							"{@spell command}",
 							"{@spell confusion}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell tongues}"
 						]
 					},
@@ -4643,7 +4643,7 @@
 							"{@spell command}",
 							"{@spell cure wounds}",
 							"{@spell daylight}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						],
 						"1e": [
 							"{@spell hypnotic pattern}",
@@ -4770,7 +4770,7 @@
 							"{@spell bane}",
 							"{@spell command}",
 							"{@spell darkness}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						],
 						"1e": [
 							"{@spell tongues}"
@@ -4782,7 +4782,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the professor's darkvision."
 					]
@@ -4803,7 +4803,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"SD"
@@ -5784,7 +5784,7 @@
 							"{@spell antilife shell}",
 							"{@spell bane}",
 							"{@spell feign death}",
-							"{@spell speak with dead}"
+							"{@spell hablar con los muertos}"
 						]
 					},
 					"ability": "wis",

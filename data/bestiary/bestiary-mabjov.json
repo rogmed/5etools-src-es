@@ -431,7 +431,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Baalzebul's darkvision."
 					]
@@ -528,7 +528,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"
@@ -1038,7 +1038,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the slayer's darkvision."
 					]
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Immutable Form",
 				"Legendary Resistances",
 				"Magic Resistance",
@@ -1554,7 +1554,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -1606,7 +1606,7 @@
 					"will": [
 						"{@spell detect magic}",
 						"{@spell identify}",
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell Enlace telepático de Rary}"
 					],
 					"daily": {
@@ -1975,9 +1975,9 @@
 						"Dagryn casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell alter self}",
-						"{@spell disguise self}",
-						"{@spell levitate}",
+						"{@spell alterar el propio aspecto}",
+						"{@spell disfrazarse}",
+						"{@spell levitar}",
 						"{@spell major image}",
 						"{@spell vicious mockery}"
 					],
@@ -2101,7 +2101,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2154,14 +2154,14 @@
 						"Darien casts one of the following spells, requiring no material component and using Charisma as the spellcasting ability (spell save {@dc 16}, {@hit 8} to hit with spell attacks):"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell blade ward}",
 						"{@spell chill touch}",
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell false life}",
 						"{@spell invisibility}",
-						"{@spell mage armor} (self only)",
-						"{@spell silent image}"
+						"{@spell armadura de mago} (self only)",
+						"{@spell imagen silenciosa}"
 					],
 					"daily": {
 						"2e": [
@@ -2190,13 +2190,13 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Darien can see normally in darkness, both magical and nonmagical, to a distance of 120 feet"
 					]
 				},
 				{
-					"name": "Eldritch Mind",
+					"name": "Mente sobrenatural",
 					"entries": [
 						"Darien has advantage on Constitution saving throws that she makes to maintain {@status concentration} on a spell."
 					]
@@ -2246,7 +2246,7 @@
 				"war pick|phb"
 			],
 			"traitTags": [
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"SD"
@@ -2580,7 +2580,7 @@
 				13,
 				{
 					"ac": 18,
-					"condition": "with {@item staff of power} and  {@spell mage armor}",
+					"condition": "with {@item staff of power} and  {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2625,7 +2625,7 @@
 						"Edwin casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 18}):"
 					],
 					"will": [
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell Imagen múltiple}",
 						"{@spell shield}",
 						"{@spell unseen servant}"
@@ -2653,7 +2653,7 @@
 					"name": "Staff Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"While holding the staff of power, Edwin casts one of the following spells (spell save {@dc 18}, {@hit 12} to hit with spell attacks). These spells require charges; the staff has 20 charges, and it regains {@dice 2d8 + 4} expended charges daily at dawn. 1 charge each: magic missile, ray of enfeeblement 2 charges: levitate 5 charges each: cono de frío, fireball (5th level), inmovilizar monstruo, relámpago (5th level), wall of force 6 charges: globe of invulnerability"
+						"While holding the staff of power, Edwin casts one of the following spells (spell save {@dc 18}, {@hit 12} to hit with spell attacks). These spells require charges; the staff has 20 charges, and it regains {@dice 2d8 + 4} expended charges daily at dawn. 1 charge each: magic missile, ray of enfeeblement 2 charges: levitar 5 charges each: cono de frío, fireball (5th level), inmovilizar monstruo, relámpago (5th level), wall of force 6 charges: globe of invulnerability"
 					],
 					"displayAs": "action"
 				}
@@ -3189,7 +3189,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the farastu's darkvision."
 					]
@@ -3248,7 +3248,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Keen Senses",
 				"Magic Resistance",
 				"Magic Weapons",
@@ -4522,7 +4522,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the kelubar's darkvision."
 					]
@@ -4607,7 +4607,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Keen Senses",
 				"Magic Resistance",
 				"Magic Weapons",
@@ -5082,7 +5082,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Mephistopheles' darkvision."
 					]
@@ -5173,7 +5173,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Flyby",
 				"Legendary Resistances",
 				"Magic Resistance",
@@ -6109,7 +6109,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -6176,7 +6176,7 @@
 					"daily": {
 						"2e": [
 							"{@spell detect magic}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell shield}",
 							"{@spell suggestion}"
 						],
@@ -6537,7 +6537,7 @@
 				14,
 				{
 					"ac": 17,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -6588,7 +6588,7 @@
 						"2e": [
 							"{@spell counterspell}",
 							"{@spell detect magic}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell magic missile}",
 							"{@spell paso brumoso}",
 							"{@spell suggestion}"
@@ -7003,7 +7003,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the shator's darkvision."
 					]
@@ -7070,7 +7070,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Keen Senses",
 				"Magic Resistance",
 				"Magic Weapons"
@@ -7822,7 +7822,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -9311,7 +9311,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -9354,7 +9354,7 @@
 					"will": [
 						"{@spell salpicadura ácida}",
 						"{@spell light}",
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}",
 						"{@spell prestidigitation}"
 					],
@@ -9482,7 +9482,7 @@
 				15,
 				{
 					"ac": 18,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -9544,7 +9544,7 @@
 							"{@spell animate dead}*",
 							"{@spell blight}*",
 							"{@spell false life}*",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell ray of enfeeblement}*",
 							"{@spell rayo nauseabundo}*",
 							"{@spell scrying}",

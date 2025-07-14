@@ -5888,12 +5888,12 @@
 										[
 											"{@creature Adult Blue Dragon||Adult}",
 											"17",
-											"{@spell arcane eye}, {@spell create or destroy water}, {@spell major image}"
+											"{@spell ojo arcano}, {@spell create or destroy water}, {@spell major image}"
 										],
 										[
 											"{@creature Ancient Blue Dragon||Ancient}",
 											"20",
-											"{@spell arcane eye}, {@spell create or destroy water}, {@spell major image}, {@spell project image}"
+											"{@spell ojo arcano}, {@spell create or destroy water}, {@spell major image}, {@spell project image}"
 										]
 									]
 								}

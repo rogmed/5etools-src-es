@@ -33,7 +33,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -84,7 +84,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell alarm}*",
-								"{@spell mage armor}*",
+								"{@spell armadura de mago}*",
 								"{@spell magic missile}",
 								"{@spell shield}*"
 							]
@@ -289,7 +289,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -319,7 +319,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -538,7 +538,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell disguise self} (including the form of a Medium humanoid)",
+							"{@spell disfrazarse} (including the form of a Medium humanoid)",
 							"{@spell fog cloud}"
 						]
 					},
@@ -676,7 +676,7 @@
 									"spells": [
 										"{@spell animate dead}",
 										"{@spell revivify}",
-										"{@spell speak with dead}"
+										"{@spell hablar con los muertos}"
 									]
 								},
 								"4": {
@@ -796,7 +796,7 @@
 								"4": {
 									"slots": 3,
 									"spells": [
-										"{@spell arcane eye}",
+										"{@spell ojo arcano}",
 										"{@spell locate creature}"
 									]
 								},
@@ -969,7 +969,7 @@
 										"spells": [
 											"{@spell animate dead}",
 											"{@spell revivify}",
-											"{@spell speak with dead}"
+											"{@spell hablar con los muertos}"
 										]
 									},
 									"4": {
@@ -1105,7 +1105,7 @@
 									"4": {
 										"slots": 3,
 										"spells": [
-											"{@spell arcane eye}",
+											"{@spell ojo arcano}",
 											"{@spell locate creature}"
 										]
 									},
@@ -1215,7 +1215,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell burning hands}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell shield}"
 							]
 						}
@@ -1774,7 +1774,7 @@
 						"{@spell dispel magic}",
 						"{@spell fear}",
 						"{@spell heat metal}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"ability": "wis"
 				}
@@ -2248,7 +2248,7 @@
 						"The barghest's innate spellcasting ability is Charisma (spell save {@dc 12}). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell levitate}",
+						"{@spell levitar}",
 						"{@spell minor illusion}",
 						"{@spell pass without trace}"
 					],
@@ -2571,7 +2571,7 @@
 									"spells": [
 										"{@spell animate dead}",
 										"{@spell revivify}",
-										"{@spell speak with dead}"
+										"{@spell hablar con los muertos}"
 									]
 								},
 								"4": {
@@ -2691,7 +2691,7 @@
 								"4": {
 									"slots": 3,
 									"spells": [
-										"{@spell arcane eye}",
+										"{@spell ojo arcano}",
 										"{@spell locate creature}"
 									]
 								},
@@ -2869,7 +2869,7 @@
 										"spells": [
 											"{@spell animate dead}",
 											"{@spell revivify}",
-											"{@spell speak with dead}"
+											"{@spell hablar con los muertos}"
 										]
 									},
 									"4": {
@@ -3005,7 +3005,7 @@
 									"4": {
 										"slots": 3,
 										"spells": [
-											"{@spell arcane eye}",
+											"{@spell ojo arcano}",
 											"{@spell locate creature}"
 										]
 									},
@@ -4766,8 +4766,8 @@
 							"slots": 4,
 							"spells": [
 								"{@spell cure wounds}",
-								"{@spell disguise self}",
-								"{@spell silent image}",
+								"{@spell disfrazarse}",
+								"{@spell imagen silenciosa}",
 								"{@spell Tasha's hideous laughter}"
 							]
 						},
@@ -4896,7 +4896,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4945,7 +4945,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell unseen servant}*"
 							]
@@ -6150,7 +6150,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -6202,7 +6202,7 @@
 							"spells": [
 								"{@spell detect magic}*",
 								"{@spell feather fall}",
-								"{@spell mage armor}"
+								"{@spell armadura de mago}"
 							]
 						},
 						"2": {
@@ -6224,7 +6224,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell arcane eye}*",
+								"{@spell ojo arcano}*",
 								"{@spell tormenta de hielo}",
 								"{@spell piel pétrea}"
 							]
@@ -6628,7 +6628,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -6808,7 +6808,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -6858,7 +6858,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell charm person}*",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}"
 							]
 						},
@@ -6989,7 +6989,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -7039,7 +7039,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell burning hands}*",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}*"
 							]
 						},
@@ -7296,7 +7296,7 @@
 				10,
 				{
 					"ac": 13,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -7330,10 +7330,10 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The firenewt's innate spellcasting ability is Charisma. It can innately cast {@spell mage armor} (self only) at will, requiring no material components."
+						"The firenewt's innate spellcasting ability is Charisma. It can innately cast {@spell armadura de mago} (self only) at will, requiring no material components."
 					],
 					"will": [
-						"{@spell mage armor}"
+						"{@spell armadura de mago}"
 					],
 					"ability": "cha",
 					"hidden": [
@@ -10409,9 +10409,9 @@
 							"slots": 3,
 							"spells": [
 								"{@spell charm person}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell expeditious retreat}",
-								"{@spell silent image}"
+								"{@spell imagen silenciosa}"
 							]
 						}
 					},
@@ -10585,7 +10585,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -10868,7 +10868,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -10918,8 +10918,8 @@
 							"slots": 4,
 							"spells": [
 								"{@spell color spray}*",
-								"{@spell disguise self}*",
-								"{@spell mage armor}",
+								"{@spell disfrazarse}*",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}"
 							]
 						},
@@ -12891,7 +12891,7 @@
 						"{@spell vicious mockery}",
 						"{@spell true strike}",
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -13597,7 +13597,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -13650,7 +13650,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell false life}*",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell rayo nauseabundo}*"
 							]
 						},
@@ -14226,7 +14226,7 @@
 						"The neothelid's innate spellcasting ability is Wisdom (spell save {@dc 16}). It can innately cast the following spells, requiring no components:"
 					],
 					"will": [
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -17785,7 +17785,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -17836,13 +17836,13 @@
 							"spells": [
 								"{@spell chromatic orb}",
 								"{@spell expeditious retreat}*",
-								"{@spell mage armor}"
+								"{@spell armadura de mago}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell alter self}*",
+								"{@spell alterar el propio aspecto}*",
 								"{@spell inmovilizar persona}",
 								"{@spell knock}*"
 							]
@@ -18111,7 +18111,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -18925,7 +18925,7 @@
 				11,
 				{
 					"ac": 14,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -18968,9 +18968,9 @@
 						"The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save {@dc 15}), requiring no material components:"
 					],
 					"will": [
-						"{@spell disguise self}",
-						"{@spell mage armor} (self only)",
-						"{@spell silent image}",
+						"{@spell disfrazarse}",
+						"{@spell armadura de mago} (self only)",
+						"{@spell imagen silenciosa}",
 						"{@spell speak with animals}"
 					],
 					"daily": {
@@ -19113,7 +19113,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -19165,11 +19165,11 @@
 						"The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save {@dc 15}), requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell false life}",
-						"{@spell levitate} (self only)",
-						"{@spell mage armor} (self only)",
-						"{@spell silent image}"
+						"{@spell levitar} (self only)",
+						"{@spell armadura de mago} (self only)",
+						"{@spell imagen silenciosa}"
 					],
 					"daily": {
 						"1e": [
@@ -19317,7 +19317,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -19364,9 +19364,9 @@
 					"will": [
 						"{@spell detect magic}",
 						"{@spell jump}",
-						"{@spell levitate}",
-						"{@spell mage armor} (self only)",
-						"{@spell speak with dead}"
+						"{@spell levitar}",
+						"{@spell armadura de mago} (self only)",
+						"{@spell hablar con los muertos}"
 					],
 					"daily": {
 						"1e": [
@@ -20145,7 +20145,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -20182,7 +20182,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell mage armor} (self only)"
+						"{@spell armadura de mago} (self only)"
 					],
 					"ability": "cha"
 				},

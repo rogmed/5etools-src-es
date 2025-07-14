@@ -136,7 +136,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -221,7 +221,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Azbara has two {@item spell scroll (1st level)||scrolls} of {@spell mage armor}."
+						"Azbara has two {@item spell scroll (1st level)||scrolls} of {@spell armadura de mago}."
 					]
 				},
 				{
@@ -355,7 +355,7 @@
 					"daily": {
 						"3e": [
 							"{@spell fog cloud}",
-							"{@spell levitate}"
+							"{@spell levitar}"
 						]
 					}
 				},
@@ -1425,7 +1425,7 @@
 							"spells": [
 								"{@spell charm person}",
 								"{@spell color spray}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell longstrider}"
 							]
 						}
@@ -2004,7 +2004,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2061,7 +2061,7 @@
 							"spells": [
 								"{@spell chromatic orb}",
 								"{@spell color spray}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}"
 							]
 						},

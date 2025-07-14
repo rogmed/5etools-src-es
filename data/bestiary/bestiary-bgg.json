@@ -2215,7 +2215,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2267,11 +2267,11 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell mage armor}"
+						"{@spell armadura de mago}"
 					],
 					"daily": {
 						"3e": [
-							"{@spell speak with dead}",
+							"{@spell hablar con los muertos}",
 							"{@spell Tenser's floating disk}"
 						]
 					},
@@ -3100,7 +3100,7 @@
 						"1e": [
 							"{@spell comunión con la naturaleza} (as an action)",
 							"{@spell detect magic}",
-							"{@spell disguise self}"
+							"{@spell disfrazarse}"
 						]
 					},
 					"ability": "wis",
@@ -3244,7 +3244,7 @@
 					"daily": {
 						"1e": [
 							"{@spell detect magic}",
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell dispel magic}",
 							"{@spell polymorph}"
 						]
@@ -4121,7 +4121,7 @@
 				14,
 				{
 					"ac": 17,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4164,7 +4164,7 @@
 						"The fomorian casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell mage armor} (self only)",
+						"{@spell armadura de mago} (self only)",
 						"{@spell mage hand}",
 						"{@spell prestidigitation}"
 					],
@@ -4300,7 +4300,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell levitate}",
+						"{@spell levitar}",
 						"{@spell mage hand}",
 						"{@spell prestidigitation}"
 					],
@@ -4324,7 +4324,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the fomorian's darkvision."
 					]
@@ -4382,7 +4382,7 @@
 				"greatclub|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances"
 			],
 			"senseTags": [

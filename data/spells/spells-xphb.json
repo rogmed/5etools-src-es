@@ -188,10 +188,10 @@
 			]
 		},
 		{
-			"name": "Alter Self",
-			"originalname": "",
+			"name": "Alterar el propio aspecto",
+			"originalname": "Alter Self",
 			"source": "XPHB",
-			"page": 239,
+			"page": 240,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -223,26 +223,26 @@
 				}
 			],
 			"entries": [
-				"You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a {@action Magic|XPHB} action to replace the option you chose with a different one.",
+				"Modificas tu forma física. Elige una de las siguientes opciones. Los efectos duran hasta que el conjuro termine; entretanto, puedes usar una acción de magia para sustituir la opción elegida por otra distinta.",
 				{
 					"type": "entries",
-					"name": "Aquatic Adaptation",
+					"name": "Adaptación acuática",
 					"entries": [
-						"You sprout gills and grow webs between your fingers. You can breathe underwater and gain a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Velocidad|XPHB}."
+						"Te salen branquias y te crecen membranas entre los dedos. Puedes respirar bajo el agua y obtienes una velocidad nadando igual a tu velocidad."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Change Appearance",
+					"name": "Armas naturales",
 					"entries": [
-						"You alter your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and other distinguishing characteristics. You can make yourself appear as a member of another species, though none of your statistics change. You can't appear as a creature of a different size, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. For the duration, you can take a {@action Magic|XPHB} action to change your appearance in this way again."
+						"Te crecen cascos (contundente), colmillos (perforante), cuernos (perforante) o garras (cortante). Cuando hagas un ataque sin armas para causar daño con el nuevo apéndice, hará {@damage 1d6} de daño del tipo indicado entre paréntesis en vez del daño normal de tu ataque sin armas. Además, usarás tu modificador por aptitud mágica para las tiradas de ataque y de daño en vez de tu Fuerza."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Natural Weapons",
+					"name": "Cambiar de aspecto",
 					"entries": [
-						"You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your {@variantrule Unarmed Strike|XPHB} to deal damage with that new growth, it deals {@damage 1d6} damage of the type in parentheses instead of dealing the normal damage for your {@variantrule Unarmed Strike|XPHB}, and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength."
+						"Alteras tu apariencia. Decide tu aspecto, especificando tu altura, peso, rasgos faciales, timbre de voz, longitud del pelo, tono de piel y cualquier otro rasgo distintivo. Puedes presentarte como un miembro: de otra especie, aunque esto no modificará tu perfil de juego. No puedes adoptar el aspecto de una criatura de un tamaño distinto y conservarás tu forma básica: si eres una criatura bípeda, no podrás usar este conjuro para ser un cuadrúpedo, por ejemplo. Hasta que termine el conjuro, puedes usar una acción de magia para volver a cambiar tu aspecto."
 					]
 				}
 			],
@@ -11879,10 +11879,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Levitate",
-			"originalname": "",
+			"name": "Levitar",
+			"originalname": "Levitate",
 			"source": "XPHB",
-			"page": 291,
+			"page": 304,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -11903,7 +11903,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a metal spring"
+				"m": "un muelle de metal"
 			},
 			"duration": [
 				{
@@ -11916,9 +11916,9 @@
 				}
 			],
 			"entries": [
-				"One creature or loose object of your choice that you can see within range rises vertically up to 20 feet and remains suspended there for the duration. The spell can levitate an object that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.",
-				"The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can take a {@action Magic|XPHB} action to move the target, which must remain within the spell's range.",
-				"When the spell ends, the target floats gently to the ground if it is still aloft."
+				"Una criatura o un objeto suelto de tu elección que puedas ver dentro del alcance se eleva verticalmente hasta 20 pies (6 m) y se mantiene suspendido hasta que el conjuro termine. El conjuro puede hacer levitar un objeto que pese hasta 250 kg y no afecta a una criatura no voluntaria que supere una tirada de salvación de Constitución.",
+				"El objetivo solo puede moverse empujándose o tirando de un objeto fijo o una superficie a su alcance (como una pared o techo), lo que le permite desplazarse como si estuviera trepando. En tu turno, puedes variar la altitud del objetivo hasta 20 pies (6 m) en cualquier sentido. Si tú mismo eres el objetivo, te puedes mover hacia arriba o abajo como parte de tu movimiento. En caso contrario, puedes usar una acción de magia para mover al objetivo, que deberá permanecer dentro del alcance del conjuro.",
+				"Cuando el conjuro termine, el objetivo flotará suavemente hasta llegar al suelo si todavía está en el aire."
 			],
 			"savingThrow": [
 				"constitución"
@@ -17826,10 +17826,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Speak with Dead",
-			"originalname": "",
+			"name": "Hablar con los muertos",
+			"originalname": "Speak with Dead",
 			"source": "XPHB",
-			"page": 318,
+			"page": 289,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -17850,7 +17850,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "burning incense"
+				"m": "incienso para quemar)"
 			},
 			"duration": [
 				{
@@ -17862,8 +17862,8 @@
 				}
 			],
 			"entries": [
-				"You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days.",
-				"Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsión to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events."
+				"Otorgas una apariencia de vida a un cadáver de tu elección dentro del alcance para que pueda responder a tus preguntas. El cadáver debe tener boca y el conjuro falla si la criatura difunta era un muerto viviente cuando falleció. El conjuro también falla si el cadáver ya ha sido el objetivo de este conjuro en los últimos 10 días.",
+				"Hasta que el conjuro termine, puedes hacerle al cadáver hasta cinco preguntas. Este solo sabe lo que sabía en vida, incluidos los idiomas. Sus respuestas suelen ser breves, crípticas o repetitivas, y no se siente obligado a darte una respuesta verdadera si eres hostil con él o te reconoce como un enemigo. Este conjuro no devuelve el alma de la criatura a su cuerpo, solo anima su espíritu. Por tanto, el cadáver no puede aprender nueva información, no entiende nada que haya ocurrido después su muerte y no puede especular sobre sucesos futuros."
 			],
 			"affectsCreatureType": [
 				"aberration",

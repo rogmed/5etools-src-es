@@ -1445,7 +1445,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -1496,7 +1496,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand} (the hand is invisible)"
 					],
 					"daily": {
@@ -1825,7 +1825,7 @@
 				12,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor} and {@item staff of defense|PaBTSO}",
+					"condition": "with {@spell armadura de mago} and {@item staff of defense|PaBTSO}",
 					"braces": true
 				}
 			],
@@ -1884,7 +1884,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Glasstaff wields a {@item staff of defense|PaBTSO} (see appendix B). With the staff in hand, he can use an action to cast the {@spell mage armor} spell and use his reaction to cast the {@spell shield} spell."
+						"Glasstaff wields a {@item staff of defense|PaBTSO} (see appendix B). With the staff in hand, he can use an action to cast the {@spell armadura de mago} spell and use his reaction to cast the {@spell shield} spell."
 					]
 				}
 			],
@@ -2002,7 +2002,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"ability": "int",
 					"displayAs": "action"
@@ -2739,7 +2739,7 @@
 					"will": [
 						"{@spell detect magic}",
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -2904,7 +2904,7 @@
 				11,
 				{
 					"ac": 14,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2958,7 +2958,7 @@
 							"{@spell darkness}",
 							"{@spell faerie fire}",
 							"{@spell invisibility}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell magic missile}",
 							"{@spell suggestion}"
 						]
@@ -3353,7 +3353,7 @@
 						"{@spell dancing lights}",
 						"{@spell detect magic}",
 						"{@spell detect thoughts}",
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell mage hand}",
 						"{@spell prestidigitation}"
 					],
@@ -3766,7 +3766,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -3814,8 +3814,8 @@
 					"will": [
 						"{@spell detect magic}",
 						"{@spell detect thoughts}",
-						"{@spell levitate}",
-						"{@spell mage armor} (self only)",
+						"{@spell levitar}",
+						"{@spell armadura de mago} (self only)",
 						"{@spell mage hand} (the hand is invisible)",
 						"{@spell prestidigitation}"
 					],

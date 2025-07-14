@@ -109,9 +109,9 @@
 			],
 			"optionalfeatureProgression": [
 				{
-					"name": "Eldritch Invocations",
+					"name": "Invocaciones sobrenaturales",
 					"featureType": [
-						"EI"
+						"IS"
 					],
 					"progression": [
 						1,
@@ -210,11 +210,11 @@
 			"classTableGroups": [
 				{
 					"colLabels": [
-						"{@filter Invocaciones sobrenaturales|optionalfeatures|feature type=ei}",
+						"{@filter Invocaciones sobrenaturales|optionalfeatures|feature type=is}",
 						"{@filter Trucos|spells|level=0|class=Brujo}",
-						"{@filter conjuros preparados|spells|level=!0|class=Brujo}",
-						"Espacios de conjuro",
-						"Nivel de los espacios"
+						"{@filter Conjuros preparados|spells|level=!0|class=Brujo}",
+						"Espacios conjuro",
+						"Nivel de espacios"
 					],
 					"rows": [
 						[
@@ -361,9 +361,9 @@
 				}
 			],
 			"classFeatures": [
-				"Eldritch Invocations|Brujo|XPHB|1",
-				"Pact Magic|Brujo|XPHB|1",
-				"Eldritch Invocation Options|Brujo|XPHB|1",
+				"Invocaciones sobrenaturales|Brujo|XPHB|1",
+				"Magia del pacto|Brujo|XPHB|1",
+				"Opciones de invocación sobrenatural|Brujo|XPHB|1",
 				"Magical Cunning|Brujo|XPHB|2",
 				{
 					"classFeature": "Warlock Subclass|Brujo|XPHB|3",
@@ -586,212 +586,212 @@
 	],
 	"classFeature": [
 		{
-			"name": "Eldritch Invocation Options",
+			"name": "Opciones de invocación sobrenatural",
 			"source": "XPHB",
-			"page": 153,
+			"page": 71,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Eldritch Invocation options appear in alphabetical order.",
+				"Las opciones de invocación sobrenatural aparecen en orden alfabético.",
 				{
 					"type": "options",
 					"count": 1,
 					"entries": [
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Agonizing Blast|XPHB",
+							"optionalfeature": "Descarga agónica|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Armor of Shadows|XPHB",
+							"optionalfeature": "Armadura de sombras|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Ascendant Step|XPHB",
+							"optionalfeature": "Paso ascendente|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Devil's Sight|XPHB",
+							"optionalfeature": "Visión del diablo|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Devouring Blade|XPHB",
+							"optionalfeature": "Hoja devoradora|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Eldritch Mind|XPHB",
+							"optionalfeature": "Mente sobrenatural|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Eldritch Smite|XPHB",
+							"optionalfeature": "Castigo arcano|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Eldritch Spear|XPHB",
+							"optionalfeature": "Lanza sobrenatural|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Fiendish Vigor|XPHB",
+							"optionalfeature": "Vigor infernal|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Gaze of Two Minds|XPHB",
+							"optionalfeature": "Mirada de las dos mentes|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Gift of the Depths|XPHB",
+							"optionalfeature": "Don de las profundidades|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Gift of the Protectors|XPHB",
+							"optionalfeature": "Don de los protectores|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Investment of the Chain Master|XPHB",
+							"optionalfeature": "Inversión del amo de las cadenas|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Lessons of the First Ones|XPHB",
+							"optionalfeature": "Lecciones de los primeros|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Lifedrinker|XPHB",
+							"optionalfeature": "Devorador de vida|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Mask of Many Faces|XPHB",
+							"optionalfeature": "Máscara de los mil rostros|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Master of Myriad Forms|XPHB",
+							"optionalfeature": "Maestro de las formas innumerables|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Misty Visions|XPHB",
+							"optionalfeature": "Visiones brumosas|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "One with Shadows|XPHB",
+							"optionalfeature": "Uno con las sombras|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Otherworldly Leap|XPHB",
+							"optionalfeature": "Salto sobrenatural|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Pact of the Blade|XPHB",
+							"optionalfeature": "Pacto del filo|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Pact of the Chain|XPHB",
+							"optionalfeature": "Pacto de la cadena|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Pact of the Tome|XPHB",
+							"optionalfeature": "Pacto del grimorio|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Repelling Blast|XPHB",
+							"optionalfeature": "Descarga ahuyentadora|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Thirsting Blade|XPHB",
+							"optionalfeature": "Filo sediento|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Visions of Distant Realms|XPHB",
+							"optionalfeature": "Visiones de reinos remotos|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Whispers of the Grave|XPHB",
+							"optionalfeature": "Susurros del sepulcro|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Witch Sight|XPHB",
+							"optionalfeature": "Visión bruja|XPHB",
 							"preserve": {
 								"prerequisite": true
 							}
@@ -801,56 +801,56 @@
 			]
 		},
 		{
-			"name": "Eldritch Invocations",
+			"name": "Invocaciones sobrenaturales",
 			"source": "XPHB",
-			"page": 153,
+			"page": 69,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the \"{@filter Eldritch Invocation Options|optionalfeatures|feature type=EI|source=XPHB}\" section later in this class's description.",
+				"Has desenterrado invocaciones sobrenaturales, fragmentos de conocimiento prohibido que te imbuyen de una capacidad mágica perpetua o de otros saberes. Obtienes una invocación de tu elección, como Pacto del grimorio. Las invocaciones se detallan más adelante en la descripción de esta clase, en el apartado “{@filter Opciones de invocación sobrenatural|optionalfeatures|feature type=IS|source=XPHB}”.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Prerequisites",
+							"name": "Requisitos",
 							"entries": [
-								"If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5."
+								"Si una invocación tiene un requisito, debes cumplirlo para poder aprenderla. Por ejemplo, si una invocación te pide un nivel 5 o superior de brujo, podrás seleccionar esa invocación cuando alcances ese nivel de brujo."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Replacing and Gaining Invocations",
+							"name": "Sustituir y conseguir invocaciones",
 							"entries": [
-								"Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have."
+								"Cada vez que subas un nivel de brujo, puedes sustituir una de tus invocaciones por otra para la que cumplas las condiciones. No puedes sustituir una invocación si es un requisito de otra invocación que tengas."
 							]
 						}
 					]
 				},
-				"When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table.",
-				"You can't pick the same invocation more than once unless its description says otherwise."
+				"Obtienes más invocaciones de tu elección cuando alcanzas ciertos niveles de brujo, como se muestra en la columna “Invocaciones” de la tabla “Rasgos de brujo”.",
+				"No puedes elegir la misma invocación más de una vez salvo que la descripción indique algo diferente."
 			]
 		},
 		{
-			"name": "Pact Magic",
+			"name": "Magia del pacto",
 			"source": "XPHB",
-			"page": 153,
+			"page": 69,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows\u2014its identity unclear\u2014but its boon to you is concrete: the ability to cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the {@filter Warlock spell list|spells|class=Brujo} later in the class's description.",
+				"Has sellado un pacto con una entidad misteriosa mediante una ceremonia ocultista para obtener poderes mágicos. Ese ente es una voz en las sombras y no tienes clara su identidad, pero el don que te ofrece sí que lo conoces: te ha dado la capacidad de lanzar conjuros. Consulta el capítulo 7 para ver las reglas sobre el lanzamiento de conjuros. La información presentada a continuación detalla cómo usar esas reglas con los conjuros de brujo, que encontrarás más adelante en {@filter la lista de conjuros de brujo|spells|class=Brujo} de la descripción de la clase.",
 				{
 					"type": "entries",
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Cantrips",
+							"name": "Trucos",
 							"entries": [
 								"You know two Warlock cantrips of your choice. {@spell Eldritch Blast|XPHB} and {@spell Prestidigitación|XPHB} are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.",
 								"When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table."
@@ -860,7 +860,7 @@
 							"type": "entries",
 							"name": "Spell Slots",
 							"entries": [
-								"The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1\u20135. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}.",
+								"The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1\u20135. The table also shows the level of those slots, all of which are the same level. You regain all expended Magia del pacto spell slots when you finish a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}.",
 								"For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell {@spell Witch Bolt|XPHB}, you must spend one of those slots, and you cast it as a level 3 spell."
 							]
 						},
@@ -913,7 +913,7 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a {@variantrule Descanso largo|XPHB}."
+				"You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Magia del pacto spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a {@variantrule Descanso largo|XPHB}."
 			]
 		},
 		{
@@ -1112,7 +1112,7 @@
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"When you use your Magical Cunning feature, you regain all your expended Pact Magic spell slots."
+				"When you use your Magical Cunning feature, you regain all your expended Magia del pacto spell slots."
 			]
 		}
 	],
@@ -1263,7 +1263,7 @@
 			"header": 2,
 			"entries": [
 				"Your patron teaches you how to guard your mind and body. You are immune to the {@condition Hechizado|XPHB} condition.",
-				"In addition, immediately after a creature you can see hits you with an attack roll, you can take a {@variantrule Reaction|XPHB} to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this {@variantrule Reaction|XPHB}, you can't use it again until you finish a {@variantrule Descanso largo|XPHB} unless you expend a Pact Magic spell slot (no action required) to restore your use of it."
+				"In addition, immediately after a creature you can see hits you with an attack roll, you can take a {@variantrule Reaction|XPHB} to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this {@variantrule Reaction|XPHB}, you can't use it again until you finish a {@variantrule Descanso largo|XPHB} unless you expend a Magia del pacto spell slot (no action required) to restore your use of it."
 			]
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"header": 2,
 			"entries": [
 				"Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes {@damage 8d10} Psychic damage if it isn't a Fiend, and it has the {@condition Incapacitado|XPHB} condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB} unless you expend a Pact Magic spell slot (no action required) to restore your use of it."
+				"Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB} unless you expend a Magia del pacto spell slot (no action required) to restore your use of it."
 			]
 		},
 		{

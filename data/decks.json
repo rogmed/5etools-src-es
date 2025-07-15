@@ -17199,7 +17199,7 @@
 				"height": 2233
 			},
 			"entries": [
-				"This card supernaturally saps your energy. You have disadvantage on initiative rolls. This effect lasts until you finish a long rest, but it can be ended early by a {@spell Remove Curse} spell or similar magic."
+				"This card supernaturally saps your energy. You have disadvantage on initiative rolls. This effect lasts until you finish a long rest, but it can be ended early by a {@spell Levantar maldición} spell or similar magic."
 			]
 		},
 		{
@@ -17218,7 +17218,7 @@
 				"height": 2233
 			},
 			"entries": [
-				"This card is an omen of death. You take {@damage 2d10} necrotic damage, and your hit point maximum is reduced by an amount equal to the damage taken. This effect can't reduce your hit point maximum below 10 hit points. This reduction lasts until you finish a long rest, but it can be ended early by a {@spell Remove Curse} spell or similar magic."
+				"This card is an omen of death. You take {@damage 2d10} necrotic damage, and your hit point maximum is reduced by an amount equal to the damage taken. This effect can't reduce your hit point maximum below 10 hit points. This reduction lasts until you finish a long rest, but it can be ended early by a {@spell Levantar maldición} spell or similar magic."
 			]
 		},
 		{
@@ -17332,7 +17332,7 @@
 				"height": 2233
 			},
 			"entries": [
-				"This card's monstrous visage curses you. While cursed in this way, whenever you make a saving throw, you must roll {@dice 1d4} and subtract the number rolled from the total. The curse lasts until you finish a long rest, but it can be ended early with a {@spell Remove Curse} spell or similar magic."
+				"This card's monstrous visage curses you. While cursed in this way, whenever you make a saving throw, you must roll {@dice 1d4} and subtract the number rolled from the total. The curse lasts until you finish a long rest, but it can be ended early with a {@spell Levantar maldición} spell or similar magic."
 			]
 		},
 		{
@@ -17450,7 +17450,7 @@
 					"type": "entries",
 					"name": "Bane Effect:",
 					"entries": [
-						"The target must succeed on a Constitution saving throw or it can't regain hit points until a {@spell remove curse} or {@spell greater restoration} spell is cast on it."
+						"The target must succeed on a Constitution saving throw or it can't regain hit points until a {@spell levantar maldición} or {@spell greater restoration} spell is cast on it."
 					]
 				},
 				{

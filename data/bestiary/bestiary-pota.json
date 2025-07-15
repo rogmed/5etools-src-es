@@ -1838,7 +1838,7 @@
 							"lower": 1,
 							"slots": 2,
 							"spells": [
-								"{@spell armor of Agathys}",
+								"{@spell armadura de agathys}",
 								"{@spell expeditious retreat}",
 								"{@spell hex}",
 								"{@spell invisibility}",
@@ -5810,7 +5810,7 @@
 							"spells": [
 								"{@spell burning hands}",
 								"{@spell chromatic orb}",
-								"{@spell hellish rebuke}",
+								"{@spell Reprensión infernal}",
 								"{@spell shield}"
 							]
 						},

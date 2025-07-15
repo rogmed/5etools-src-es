@@ -11690,7 +11690,7 @@
 								{
 									"type": "item",
 									"name": "Paralyzing Ray:",
-									"entry": "{@spell modify memory}, {@spell silence} (1 minute)"
+									"entry": "{@spell alterar los recuerdos}, {@spell silence} (1 minute)"
 								},
 								{
 									"type": "item",
@@ -22079,7 +22079,7 @@
 								"Cantrips (at will): {@spell poison spray}, {@spell thaumaturgy}",
 								"1st level (4 slots): {@spell bane}, {@spell detect magic}, {@spell sanctuary}",
 								"2nd level (3 slots): {@spell inmovilizar persona}, {@spell silence}",
-								"3rd level (3 slots): {@spell clairvoyance}, {@spell dispel magic}",
+								"3rd level (3 slots): {@spell clarividencia}, {@spell dispel magic}",
 								"4th level (2 slots): {@spell divination}, {@spell libertad de movimiento}"
 							]
 						}
@@ -22169,7 +22169,7 @@
 								"3": {
 									"slots": 3,
 									"spells": [
-										"{@spell clairvoyance}",
+										"{@spell clarividencia}",
 										"{@spell dispel magic}"
 									]
 								},
@@ -27514,7 +27514,7 @@
 				{
 					"name": "Rejuvenation",
 					"entries": [
-						"If the flameskull is destroyed, it regains all its hit points in 1 hour unless Agua bendita is sprinkled on its remains or a {@spell dispel magic} or {@spell remove curse} spell is cast on them."
+						"If the flameskull is destroyed, it regains all its hit points in 1 hour unless Agua bendita is sprinkled on its remains or a {@spell dispel magic} or {@spell levantar maldición} spell is cast on them."
 					]
 				}
 			],
@@ -37791,7 +37791,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell bestow curse}",
-								"{@spell clairvoyance}"
+								"{@spell clarividencia}"
 							]
 						},
 						"4": {
@@ -38014,7 +38014,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dispel magic}",
-								"{@spell remove curse}",
+								"{@spell levantar maldición}",
 								"{@spell tongues}"
 							]
 						},
@@ -48113,7 +48113,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell relámpago}",
 								"{@spell sending}"
 							]
@@ -49061,7 +49061,7 @@
 				{
 					"name": "Rotting Fist",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning damage plus 10 ({@damage 3d6}) necrotic damage. If the target is a creature, it must succeed on a {@dc 12} Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell remove curse} spell or other magic."
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning damage plus 10 ({@damage 3d6}) necrotic damage. If the target is a creature, it must succeed on a {@dc 12} Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell levantar maldición} spell or other magic."
 					]
 				},
 				{
@@ -49296,7 +49296,7 @@
 				{
 					"name": "Rotting Fist",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}14 ({@damage 3d6 + 4}) bludgeoning damage plus 21 ({@damage 6d6}) necrotic damage. If the target is a creature, it must succeed on a {@dc 16} Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell remove curse} spell or other magic."
+						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}14 ({@damage 3d6 + 4}) bludgeoning damage plus 21 ({@damage 6d6}) necrotic damage. If the target is a creature, it must succeed on a {@dc 16} Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell levantar maldición} spell or other magic."
 					]
 				},
 				{
@@ -56717,7 +56717,7 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a {@spell remove curse} spell or similar magic."
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a {@spell levantar maldición} spell or similar magic."
 					]
 				}
 			],
@@ -67939,7 +67939,7 @@
 					],
 					"will": [
 						"{@spell alterar el propio aspecto}",
-						"{@spell clairvoyance}",
+						"{@spell clarividencia}",
 						"{@spell darkness}",
 						"{@spell detect magic}",
 						"{@spell detect thoughts}",

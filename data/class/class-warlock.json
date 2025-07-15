@@ -538,8 +538,8 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Great Old One Patron",
-			"shortName": "Great Old One",
+			"name": "Patrón primigenio",
+			"shortName": "Primigenio",
 			"source": "XPHB",
 			"className": "Brujo",
 			"classSource": "XPHB",
@@ -549,22 +549,22 @@
 				{
 					"prepared": {
 						"3": [
-							"detect thoughts|xphb",
-							"dissonant whispers|xphb",
+							"detectar pensamientos|xphb",
+							"susurros discordantes|xphb",
 							"fuerza fantasmal|xphb",
-							"tasha's hideous laughter|xphb"
+							"risa horrible de tasha|xphb"
 						],
 						"5": [
-							"clairvoyance|xphb",
-							"hunger of hadar|xphb"
+							"clarividencia|xphb",
+							"hambre de hadar|xphb"
 						],
 						"7": [
-							"confusion|xphb",
-							"summon aberration|xphb"
+							"confusión|xphb",
+							"invocar aberración|xphb"
 						],
 						"9": [
-							"modify memory|xphb",
-							"telekinesis|xphb"
+							"alterar los recuerdos|xphb",
+							"telequinesis|xphb"
 						]
 					},
 					"innate": {
@@ -575,11 +575,11 @@
 				}
 			],
 			"subclassFeatures": [
-				"Great Old One Patron|Brujo|XPHB|Great Old One|XPHB|3",
-				"Clairvoyant Combatant|Brujo|XPHB|Great Old One|XPHB|6",
-				"Eldritch Hex|Brujo|XPHB|Great Old One|XPHB|10",
-				"Thought Shield|Brujo|XPHB|Great Old One|XPHB|10",
-				"Create Thrall|Brujo|XPHB|Great Old One|XPHB|14"
+				"Patrón primigenio|Brujo|XPHB|Primigenio|XPHB|3",
+				"Combatiente clarividente|Brujo|XPHB|Primigenio|XPHB|6",
+				"Escudo mental|Brujo|XPHB|Primigenio|XPHB|10",
+				"Maleficio sobrenatural|Brujo|XPHB|Primigenio|XPHB|10",
+				"Crear siervo|Brujo|XPHB|Primigenio|XPHB|14"
 			],
 			"hasFluffImages": true
 		}
@@ -1543,61 +1543,61 @@
 			]
 		},
 		{
-			"name": "Great Old One Patron",
+			"name": "Patrón primigenio",
 			"source": "XPHB",
 			"page": 78,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Unearth Forbidden Lore of Ineffable Beings}",
-				"When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god\u2014a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you've learned nevertheless allow you to draw strange magic from it.",
+				"{@i Desentierra saberes ocultos de seres inenarrables}",
+				"Cuando eliges esta subclase, quizá te ates a un ser indescriptible del Reino Lejano o a un dios antiguo: entidades como Tharizdun, el Dios Encadenado; Zargon, el Ente que Regresa; Hadar, el Hambre Tenebrosa o el Gran Cthulhu, o quizá invoques a varias entidades sin subyugarte a una sola. Sus motivos son incomprensibles y seguramente el Primigenio no sea siquiera consciente de tu existencia, pero los secretos que has descubierto te permiten extraer poder mágico de él.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Great Old One Spells|Brujo|XPHB|Great Old One|XPHB|3"
+					"subclassFeature": "Conjuros del primigenio|Brujo|XPHB|Primigenio|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Awakened Mind|Brujo|XPHB|Great Old One|XPHB|3"
+					"subclassFeature": "Conjuros psíquicos|Brujo|XPHB|Primigenio|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psychic Spells|Brujo|XPHB|Great Old One|XPHB|3"
+					"subclassFeature": "Mente iluminada|Brujo|XPHB|Primigenio|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Awakened Mind",
+			"name": "Mente iluminada",
+			"source": "XPHB",
+			"page": 79,
+			"className": "Brujo",
+			"classSource": "XPHB",
+			"subclassShortName": "Primigenio",
+			"subclassSource": "XPHB",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"Puedes establecer una conexión telepática con la mente de otra criatura. Como acción adicional, elige una criatura que puedas ver a 30 pies (9 m) o menos de ti. La criatura elegida y tú podréis comunicaros telepáticamente mientras estéis a una distancia máxima igual a 1,5 km (1 milla) x tu modificador por Carisma (mínimo de 1,5 km). Para entenderos, debéis emplear mentalmente un idioma que ambos conozcáis.",
+				"La conexión telepática dura un número de minutos igual a tu nivel de brujo. Termina antes de tiempo si usas este rasgo para conectarte con otra criatura."
+			]
+		},
+		{
+			"name": "Conjuros del primigenio",
 			"source": "XPHB",
 			"page": 78,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can form a telepathic connection between your mind and the mind of another. As a {@variantrule Acción adicional|XPHB}, choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.",
-				"The telepathic connection lasts for a number of minutes equal to your Warlock level. It ends early if you use this feature to connect with a different creature."
-			]
-		},
-		{
-			"name": "Great Old One Spells",
-			"source": "XPHB",
-			"page": 163,
-			"className": "Brujo",
-			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
-			"subclassSource": "XPHB",
-			"level": 3,
-			"header": 1,
-			"entries": [
-				"The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Great Old One Spells table, you thereafter always have the listed spells prepared.",
+				"La magia de tu patrón garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de brujo especificado en la tabla “Conjuros del primigenio”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Great Old One Spells",
+					"caption": "Conjuros del primigenio",
 					"colLabels": [
 						"Nivel de brujo",
 						"Conjuros"
@@ -1613,90 +1613,90 @@
 						],
 						[
 							"5",
-							"{@spell Clairvoyance|XPHB}, {@spell Hambre de Hadar|XPHB}"
+							"{@spell Clarividencia|XPHB}, {@spell Hambre de Hadar|XPHB}"
 						],
 						[
 							"7",
-							"{@spell Confusion|XPHB}, {@spell Invocar aberración|XPHB}"
+							"{@spell Confusión|XPHB}, {@spell Invocar aberración|XPHB}"
 						],
 						[
 							"9",
-							"{@spell Modify Memory|XPHB}, {@spell Telequinesis|XPHB}"
+							"{@spell Alterar los recuerdos|XPHB}, {@spell Telequinesis|XPHB}"
 						]
 					]
 				}
 			]
 		},
 		{
-			"name": "Psychic Spells",
+			"name": "Conjuros psíquicos",
 			"source": "XPHB",
-			"page": 163,
+			"page": 79,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or {@variantrule Illusions|XPHB|Illusion}, you can do so without Verbal or Somatic components."
+				"Cuando lances un conjuro de brujo que cause daño, puedes cambiar su tipo de daño a psíquico. Además, cuando lances un conjuro de brujo de {@filter encantamiento o ilusionismo|spells|class=Brujo|school=E;I}, puedes hacerlo sin componentes verbales ni somáticos."
 			]
 		},
 		{
-			"name": "Clairvoyant Combatant",
+			"name": "Combatiente clarividente",
 			"source": "XPHB",
-			"page": 163,
+			"page": 79,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has {@variantrule Disadvantage|XPHB} on attack rolls against you, and you have {@variantrule Advantage|XPHB} on attack rolls against that creature for the duration of the bond.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB} unless you expend a Pact {@action Magic|XPHB} spell slot (no action required) to restore your use of it."
+				"Cuando formas un enlace telepático con una criatura usando Mente iluminada, puedes obligar a esa criatura a hacer una tirada de salvación de Sabiduría contra tu CD de salvación de conjuros. Si la falla, la criatura tendrá desventaja en las tiradas de ataque contra ti y tú tendrás ventaja en las tiradas de ataque contra ella hasta que acabe el enlace.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso corto o largo, a menos que gastes un espacio de conjuro de Magia del pacto (no requiere acción) para restablecer su uso."
 			]
 		},
 		{
-			"name": "Eldritch Hex",
+			"name": "Escudo mental",
 			"source": "XPHB",
-			"page": 163,
+			"page": 79,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"Your alien patron grants you a powerful curse. You always have the {@spell maleficio|XPHB} spell prepared. When you cast {@spell maleficio|XPHB} and choose an ability, the target also has {@variantrule Disadvantage|XPHB} on saving throws of the chosen ability for the duration of the spell."
+				"Tus pensamientos no se pueden leer mediante telepatía o cualquier otro medio sin que tú lo permitas. Además, tienes resistencia al daño psíquico y, siempre que una criatura te cause daño psíquico, ella recibirá la misma cantidad de daño que tú."
 			]
 		},
 		{
-			"name": "Thought Shield",
+			"name": "Maleficio sobrenatural",
 			"source": "XPHB",
-			"page": 163,
+			"page": 79,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"Your thoughts can't be read by telepathy or other means unless you allow it. You also have {@variantrule Resistance|XPHB} to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take."
+				"Tu patrón extraterrenal te concede una poderosa maldición. Siempre tienes el conjuro {@spell maleficio|XPHB} preparado. Cuando lanzas maleficio y eliges una característica, el objetivo también tendrá desventaja en las tiradas de salvación de la característica elegida hasta que termine el conjuro."
 			]
 		},
 		{
-			"name": "Create Thrall",
+			"name": "Crear siervo",
 			"source": "XPHB",
-			"page": 163,
+			"page": 79,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"When you cast {@spell Invocar aberración|XPHB}, you can modify it so that it doesn't require {@status Concentration|XPHB}. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of {@variantrule Temporary Hit Points|XPHB} equal to your Warlock level plus your Charisma modifier.",
-				"In addition, the first time each turn the Aberration hits a creature under the effect of your {@spell maleficio|XPHB}, the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell."
+				"Cuando lanzas {@spell Invocar aberración|XPHB}, puedes modificarlo para que no requiera {@status concentración|XPHB}. Si lo haces, la duración del conjuro pasa a ser de 1 minuto para ese lanzamiento y, cuando la invoques, la aberración tendrá una cantidad de puntos de golpe temporales igual a tu nivel de brujo más tu modificador por Carisma.",
+				"Además, la primera vez en cada turno que la aberración acierte a una criatura bajo el efecto de tu {@spell Maleficio|XPHB}, le infligirá una cantidad de daño psíquico extra igual al daño adicional del conjuro."
 			]
 		}
 	]

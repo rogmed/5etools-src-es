@@ -5412,7 +5412,7 @@
 									"page": 60,
 									"id": "121",
 									"entries": [
-										"The simplest curses are created by the {@spell Bestow Curse|XPHB} spell. The effects of such curses are limited and can be ended by the {@spell Remove Curse|XPHB} spell.",
+										"The simplest curses are created by the {@spell Bestow Curse|XPHB} spell. The effects of such curses are limited and can be ended by the {@spell Levantar maldición|XPHB} spell.",
 										"{@i Bestow Curse} provides useful benchmarks for gauging the potency of other curses. A curse that lasts for 1 minute equates to a level 3 spell, while one that lasts until dispelled equates to a level 9 spell."
 									]
 								},
@@ -5423,7 +5423,7 @@
 									"id": "122",
 									"entries": [
 										"Some monsters are associated with curses, whether as part of their origins or due to their ability to spread curses\u2014werewolves being a prime example.",
-										"You decide how a spell like {@spell Remove Curse|XPHB} affects a creature with accursed origins. For example, you might decide that a mummy was created through a curse and it can be destroyed permanently only by casting {@i Remove Curse} on its corpse."
+										"You decide how a spell like {@spell Levantar maldición|XPHB} affects a creature with accursed origins. For example, you might decide that a mummy was created through a curse and it can be destroyed permanently only by casting {@i Levantar maldición} on its corpse."
 									]
 								},
 								{
@@ -5442,7 +5442,7 @@
 									"id": "124",
 									"entries": [
 										"A curse might manifest during an adventure when a creature's violation of a taboo warrants supernatural punishment, such as breaking a vow, defiling a tomb, or murdering an innocent. Such a curse can have any effects you design, or it might be a customized version of another type of curse discussed in this section.",
-										"A creature affected by such a curse should know why they're being punished and be able to learn how to end their curse, likely by symbolically righting the wrong they committed. How a spell like {@spell Remove Curse|XPHB} affects a curse that's part of your adventure is up to you\u2014the spell might merely suppress the effects of the curse for a time. Regardless, narrative curses should feel like rare, potent magic rooted in the lore of your campaign."
+										"A creature affected by such a curse should know why they're being punished and be able to learn how to end their curse, likely by symbolically righting the wrong they committed. How a spell like {@spell Levantar maldición|XPHB} affects a curse that's part of your adventure is up to you\u2014the spell might merely suppress the effects of the curse for a time. Regardless, narrative curses should feel like rare, potent magic rooted in the lore of your campaign."
 									]
 								},
 								{
@@ -11859,7 +11859,7 @@
 											"page": 124,
 											"id": "28f",
 											"entries": [
-												"The Horns of the Beast\u2014a jagged crown made from the horns of demons and wild animals\u2014rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a {@creature Hezrou|XMM} and tries to kill the characters. A character who dons the Artifact is cursed with {@book Demonic Possession|XDMG|2|Demonic Possession} (see \"{@book Curses and Magical Contagions|XDMG|2|Curses and Magical Contagions}\" in {@book chapter 3|XDMG|2}). The Artifact can't be removed from the character's head until a {@spell Remove Curse|XPHB} spell is cast on the character. If the characters defeat Melchis and search him, they find a {@item Bag of Holding|XDMG} containing twelve 5-pound gold trade bars (worth 250 GP each) and a {@item Spell Scroll|XDMG} of {@spell Teleportation Circle|XPHB}. The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP."
+												"The Horns of the Beast\u2014a jagged crown made from the horns of demons and wild animals\u2014rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a {@creature Hezrou|XMM} and tries to kill the characters. A character who dons the Artifact is cursed with {@book Demonic Possession|XDMG|2|Demonic Possession} (see \"{@book Curses and Magical Contagions|XDMG|2|Curses and Magical Contagions}\" in {@book chapter 3|XDMG|2}). The Artifact can't be removed from the character's head until a {@spell Levantar maldición|XPHB} spell is cast on the character. If the characters defeat Melchis and search him, they find a {@item Bag of Holding|XDMG} containing twelve 5-pound gold trade bars (worth 250 GP each) and a {@item Spell Scroll|XDMG} of {@spell Teleportation Circle|XPHB}. The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP."
 											]
 										},
 										{
@@ -15886,7 +15886,7 @@
 																{
 																	"type": "item",
 																	"name": "Healing",
-																	"entry": "The temple sells {@item Spell Scroll|XDMG|Spell Scrolls} of {@spell Restablecimiento mayor|XPHB} for 3,200 GP apiece and {@item Spell Scroll|XDMG|Spell Scrolls} of {@spell Remove Curse|XPHB} for 300 GP apiece, and the priests have {@dice 1d3} copies of each scroll in stock on any given day. The priests also have {@spell Curar heridas|XPHB} and {@spell Restablecimiento menor|XPHB} spells prepared, which they customarily cast for free."
+																	"entry": "The temple sells {@item Spell Scroll|XDMG|Spell Scrolls} of {@spell Restablecimiento mayor|XPHB} for 3,200 GP apiece and {@item Spell Scroll|XDMG|Spell Scrolls} of {@spell Levantar maldición|XPHB} for 300 GP apiece, and the priests have {@dice 1d3} copies of each scroll in stock on any given day. The priests also have {@spell Curar heridas|XPHB} and {@spell Restablecimiento menor|XPHB} spells prepared, which they customarily cast for free."
 																},
 																{
 																	"type": "item",
@@ -21445,7 +21445,7 @@
 							"id": "396",
 							"entries": [
 								"The Beastlands is a plane of nature unbound, of forests ranging from moss-hung mangroves to snow-laden pines, of thick jungles where the branches are woven so tight that no light penetrates, of vast plains where grains and wildflowers wave in the wind with vibrant life. The plane embodies nature's wildness and beauty, but it also speaks to the animal within all living creatures\u2014not necessarily in a fierce, predatory way but with respect to their physical substance and fundamental needs. The spirits of the dead on the Beastlands typically take animal forms or part-animal forms (such as centaurs). Among the greatest inhabitants of this plane are the primal spirits called animal lords.",
-								"Whenever a visitor slays a Beast native to the plane, the slayer must succeed on a {@dc 10} Charisma saving throw or shape-shift into the type of Beast that was slain. The creature's game statistics are replaced by the Beast's stat block, but the creature retains its alignment, personality, creature type, Intelligence score, and ability to speak. At the end of each Long Rest, the shape-shifted creature repeats the save. On a successful save, the creature returns to its true form. After three failed saves, the transformation can be undone only by a {@spell Remove Curse|XPHB} spell or similar magic.",
+								"Whenever a visitor slays a Beast native to the plane, the slayer must succeed on a {@dc 10} Charisma saving throw or shape-shift into the type of Beast that was slain. The creature's game statistics are replaced by the Beast's stat block, but the creature retains its alignment, personality, creature type, Intelligence score, and ability to speak. At the end of each Long Rest, the shape-shifted creature repeats the save. On a successful save, the creature returns to its true form. After three failed saves, the transformation can be undone only by a {@spell Levantar maldición|XPHB} spell or similar magic.",
 								{
 									"type": "table",
 									"caption": "Layers of the Beastlands",
@@ -24780,7 +24780,7 @@
 							"id": "435",
 							"entries": [
 								"A magic item's description specifies whether it bears a curse. Most methods of identifying items, including the {@spell Identificar|XPHB} spell, fail to reveal such a curse.",
-								"Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with a {@spell Remove Curse|XPHB} spell."
+								"Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with a {@spell Levantar maldición|XPHB} spell."
 							]
 						},
 						{
@@ -25969,7 +25969,7 @@
 								"{@item Pole of Collapsing|XDMG}",
 								"{@item Portable Hole|XDMG}",
 								"{@item Potion of Encantar animal|XDMG}",
-								"{@item Potion of Clairvoyance|XDMG}",
+								"{@item Potion of Clarividencia|XDMG}",
 								"{@item Potion of Climbing|XDMG}",
 								"{@item Potion of Comprehension|XDMG}",
 								"{@item Potion of Diminution|XDMG}",
@@ -26699,7 +26699,7 @@
 										],
 										[
 											"41\u201342",
-											"{@item Potion of Clairvoyance|XDMG}"
+											"{@item Potion of Clarividencia|XDMG}"
 										],
 										[
 											"43\u201344",

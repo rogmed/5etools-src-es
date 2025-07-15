@@ -711,7 +711,7 @@
 							"{@spell dominate monster}",
 							"{@spell globe of invulnerability}",
 							"{@spell invisibility}",
-							"{@spell modify memory}",
+							"{@spell alterar los recuerdos}",
 							"{@spell plane shift} (self only)",
 							"{@spell wall of force}"
 						]
@@ -11258,7 +11258,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell clairvoyance}",
+							"{@spell clarividencia}",
 							"{@spell darkness}",
 							"{@spell detect thoughts}",
 							"{@spell dispel magic}",
@@ -11470,7 +11470,7 @@
 							"{@spell silence}"
 						],
 						"1e": [
-							"{@spell clairvoyance}",
+							"{@spell clarividencia}",
 							"{@spell darkness}",
 							"{@spell detect thoughts}",
 							"{@spell dispel magic}",
@@ -13685,7 +13685,7 @@
 					],
 					"daily": {
 						"3": [
-							"{@spell modify memory}"
+							"{@spell alterar los recuerdos}"
 						],
 						"1e": [
 							"{@spell dominate monster}",
@@ -15504,7 +15504,7 @@
 							"{@spell seeming}"
 						],
 						"1e": [
-							"{@spell modify memory}",
+							"{@spell alterar los recuerdos}",
 							"{@spell project image}"
 						]
 					},
@@ -21161,7 +21161,7 @@
 				{
 					"name": "Steal Memory (1/Day)",
 					"entries": [
-						"The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 ({@damage 4d6}) psychic damage, and it must make a {@dc 16} Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can't cast spells; it can't understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A {@spell greater restoration} or {@spell remove curse} spell cast on the target ends this effect early."
+						"The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 ({@damage 4d6}) psychic damage, and it must make a {@dc 16} Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can't cast spells; it can't understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A {@spell greater restoration} or {@spell levantar maldición} spell cast on the target ends this effect early."
 					]
 				},
 				{
@@ -24244,7 +24244,7 @@
 					"name": "Shadow Teleport {@recharge 5}",
 					"entries": [
 						"The meazel, any equipment it is wearing or carrying, and any creature it is grappling teleport to an unoccupied space within 500 feet of it, provided that the starting space and the destination are in dim light or darkness. The destination must be a place the meazel has seen before, but it need not be within line of sight. If the destination space is occupied, the teleportation leads to the nearest unoccupied space.",
-						"Any other creature the meazel teleports becomes cursed for 1 hour or until the curse is ended by {@spell remove curse} or {@spell greater restoration}. Until this curse ends, every Undead and every creature native to the Shadowfell within 300 feet of the cursed creature can sense it, which prevents that creature from hiding from them."
+						"Any other creature the meazel teleports becomes cursed for 1 hour or until the curse is ended by {@spell levantar maldición} or {@spell greater restoration}. Until this curse ends, every Undead and every creature native to the Shadowfell within 300 feet of the cursed creature can sense it, which prevents that creature from hiding from them."
 					]
 				}
 			],
@@ -35093,7 +35093,7 @@
 					"daily": {
 						"3e": [
 							"{@spell mislead}",
-							"{@spell modify memory}"
+							"{@spell alterar los recuerdos}"
 						]
 					},
 					"ability": "cha",
@@ -36319,7 +36319,7 @@
 				{
 					"name": "Abyssal Curse",
 					"entries": [
-						"The vargouille targets one {@condition incapacitated} Humanoid within 5 feet of it. The target must succeed on a {@dc 12} Charisma saving throw or become cursed. The cursed target loses 1 point of Charisma after each hour, as its head takes on fiendish aspects. The curse doesn't advance while the target is in sunlight or the area of a {@spell daylight} spell; don't count that time. When the cursed target's Charisma becomes 2, it dies, and its head tears from its body and becomes a new vargouille. Casting {@spell remove curse}, {@spell greater restoration}, or a similar spell on the target before the transformation is complete can end the curse. Doing so undoes the changes made to the target by the curse."
+						"The vargouille targets one {@condition incapacitated} Humanoid within 5 feet of it. The target must succeed on a {@dc 12} Charisma saving throw or become cursed. The cursed target loses 1 point of Charisma after each hour, as its head takes on fiendish aspects. The curse doesn't advance while the target is in sunlight or the area of a {@spell daylight} spell; don't count that time. When the cursed target's Charisma becomes 2, it dies, and its head tears from its body and becomes a new vargouille. Casting {@spell levantar maldición}, {@spell greater restoration}, or a similar spell on the target before the transformation is complete can end the curse. Doing so undoes the changes made to the target by the curse."
 					]
 				},
 				{
@@ -39195,7 +39195,7 @@
 							"items": [
 								{
 									"type": "item",
-									"name": "Confusion",
+									"name": "Confusión",
 									"entries": [
 										"The target must succeed on a {@dc 17} Wisdom saving throw or be affected by the confusion spell until the start of Yeenoghu's next turn."
 									]

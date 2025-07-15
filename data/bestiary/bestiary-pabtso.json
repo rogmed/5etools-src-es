@@ -2548,7 +2548,7 @@
 							"{@spell plane shift} (self only)"
 						],
 						"3e": [
-							"{@spell clairvoyance} (as an action)",
+							"{@spell clarividencia} (as an action)",
 							"{@spell dispel magic}"
 						]
 					},
@@ -3362,7 +3362,7 @@
 							"{@spell dominate monster}",
 							"{@spell globe of invulnerability}",
 							"{@spell invisibility}",
-							"{@spell modify memory}",
+							"{@spell alterar los recuerdos}",
 							"{@spell plane shift} (self only)",
 							"{@spell wall of force}"
 						]
@@ -4090,7 +4090,7 @@
 					"daily": {
 						"3e": [
 							"{@spell dispel magic}",
-							"{@spell modify memory}"
+							"{@spell alterar los recuerdos}"
 						],
 						"1e": [
 							"{@spell feeblemind}",

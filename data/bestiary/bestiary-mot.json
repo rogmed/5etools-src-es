@@ -4210,7 +4210,7 @@
 							"{@spell burning hands}"
 						],
 						"1e": [
-							"{@spell hellish rebuke} (see \"Reactions\" below)",
+							"{@spell Reprensión infernal} (see \"Reactions\" below)",
 							"{@spell scorching ray}"
 						]
 					},
@@ -4253,7 +4253,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Hellish Rebuke (2nd-Level Spell; 1/Day)",
+					"name": "Reprensión infernal (2nd-Level Spell; 1/Day)",
 					"entries": [
 						"When the oread is damaged by a creature within 60 feet of the oread that it can see, the creature that damaged the oread must make a {@dc 14} Dexterity saving throw, taking 16 ({@damage 3d10}) fire damage on a failed save, or half as much damage on a successful one."
 					]

@@ -6605,7 +6605,7 @@
 				{
 					"name": "Creeping Corruption",
 					"entries": [
-						"Creatures within 30 ft. that the Malikirian imp can see must make a {@dc 12} Charisma saving throw at the start of their turn. On a failure, the creature acts in accordance with its most selfish, venal, and ruthless impulses to the best of its ability. After 24 hours, the creature must make another Charisma saving throw, ending the compulsión on a success. Failure indicates the compulsión lasts indefinitely until the affected is subject to remove curse or similar magic. Creatures that cannot be {@condition charmed} are immune to this effect."
+						"Creatures within 30 ft. that the Malikirian imp can see must make a {@dc 12} Charisma saving throw at the start of their turn. On a failure, the creature acts in accordance with its most selfish, venal, and ruthless impulses to the best of its ability. After 24 hours, the creature must make another Charisma saving throw, ending the compulsión on a success. Failure indicates the compulsión lasts indefinitely until the affected is subject to levantar maldición or similar magic. Creatures that cannot be {@condition charmed} are immune to this effect."
 					]
 				},
 				{

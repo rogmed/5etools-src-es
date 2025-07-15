@@ -2106,11 +2106,11 @@
 										},
 										{
 											"type": "entries",
-											"name": "Can you extend the duration of armor of Agathys by gaining more temporary hit points?",
+											"name": "Can you extend the duration of armadura de agathys by gaining more temporary hit points?",
 											"id": "0ea",
 											"entries": [
 												"The spell is meant to work only as long as you have the temporary hit points that the spell grants. When those temporary hit points are gone, the spell is done.",
-												"Keep in mind that temporary hit points aren't cumulative. If you have temporary hit points and receive more of them, you don't add them together, unless a game feature says you can. You decide which temporary hit points to keep. As an example, let's say you're a warlock with the Dark One's Blessing feature, which gives you temporary hit points when you reduce a creature to 0 hit points. You currently have 2 temporary hit points remaining from {@spell armor of Agathys}, you just slew a monster, and your Dark One's Blessing can now give you 4 temporary hit points. If you take those temporary hit points, they replace the ones from {@spell armor of Agathys} and end that spell, so you might not want to take them and keep the spell going instead, so as to continue benefiting from the cold damage it delivers."
+												"Keep in mind that temporary hit points aren't cumulative. If you have temporary hit points and receive more of them, you don't add them together, unless a game feature says you can. You decide which temporary hit points to keep. As an example, let's say you're a warlock with the Dark One's Blessing feature, which gives you temporary hit points when you reduce a creature to 0 hit points. You currently have 2 temporary hit points remaining from {@spell armadura de agathys}, you just slew a monster, and your Dark One's Blessing can now give you 4 temporary hit points. If you take those temporary hit points, they replace the ones from {@spell armadura de agathys} and end that spell, so you might not want to take them and keep the spell going instead, so as to continue benefiting from the cold damage it delivers."
 											]
 										},
 										{
@@ -2235,7 +2235,7 @@
 											"entries": [
 												"{@spell Dispel magic} has a particular purpose: to break other spells. It has no effect on a vampire's Charm ability or any other magical effect that isn't a spell. It also does nothing to the properties of a magic item. It can, however, end a spell cast from a magic item or from another source. Spells\u2014they're what {@spell dispel magic} is about. For example, if you cast {@spell dispel magic} on a {@item staff of power}, the spell fails to disrupt the staff's magical properties, but if the staff's wielder casts {@spell inmovilizar monstruo} from the staff, {@spell dispel magic} can end that spell if cast on the target of {@spell inmovilizar monstruo}.",
 												"There are abilities and other spells that can end or suspend magical effects that aren't spells. For example, the {@spell greater restoration} spell can end a charm effect of any sort on a target (such as a {@creature Vampire||vampire's} Charm or a {@creature Dryad||dryad's} Fey Charm), and a paladin's Aura of Devotion can prevent or suspend such an effect.",
-												"Three of the most versatile spells for ending certain magical effects are {@spell lesser restoration}, {@spell greater restoration}, and {@spell remove curse}."
+												"Three of the most versatile spells for ending certain magical effects are {@spell lesser restoration}, {@spell greater restoration}, and {@spell levantar maldición}."
 											]
 										},
 										{

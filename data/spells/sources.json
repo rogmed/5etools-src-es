@@ -236,7 +236,7 @@
 				}
 			]
 		},
-		"Armor of Agathys": {
+		"Armadura de Agathys": {
 			"class": [
 				{
 					"name": "Brujo",
@@ -740,7 +740,7 @@
 				}
 			]
 		},
-		"Clairvoyance": {
+		"Clarividencia": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -904,7 +904,7 @@
 				}
 			]
 		},
-		"Confusion": {
+		"Confusión": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -2716,7 +2716,7 @@
 				}
 			]
 		},
-		"Hellish Rebuke": {
+		"Reprensión infernal": {
 			"class": [
 				{
 					"name": "Brujo",
@@ -3684,7 +3684,7 @@
 				}
 			]
 		},
-		"Modify Memory": {
+		"Alterar los recuerdos": {
 			"class": [
 				{
 					"name": "Bardo",
@@ -4348,7 +4348,7 @@
 				}
 			]
 		},
-		"Remove Curse": {
+		"Levantar maldición": {
 			"class": [
 				{
 					"name": "Clérigo",

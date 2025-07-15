@@ -5294,7 +5294,7 @@
 				{
 					"name": "Lynx's Sight (1/Day)",
 					"entries": [
-						"The lynx can cast {@spell clairvoyance}, requiring no spell components and using Wisdom as the spellcasting ability."
+						"The lynx can cast {@spell clarividencia}, requiring no spell components and using Wisdom as the spellcasting ability."
 					]
 				},
 				{

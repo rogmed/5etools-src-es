@@ -1236,7 +1236,7 @@
 							"{@spell suggestion}"
 						],
 						"3e": [
-							"{@spell hellish rebuke}",
+							"{@spell Reprensión infernal}",
 							"{@spell hex}",
 							"{@spell scorching ray} (at 3rd level)"
 						]
@@ -5433,7 +5433,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell bestow curse}",
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell counterspell}",
 								"{@spell dispel magic}",
 								"{@spell tongues}"
@@ -6238,7 +6238,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell dispel magic}",
 								"{@spell slow}"
 							]
@@ -6381,7 +6381,7 @@
 							"{@spell Imagen múltiple}"
 						],
 						"1e": [
-							"{@spell modify memory}",
+							"{@spell alterar los recuerdos}",
 							"{@spell Enlace telepático de Rary}"
 						]
 					},
@@ -6913,7 +6913,7 @@
 						"1e": [
 							"{@spell dominar persona}",
 							"{@spell mass suggestion}",
-							"{@spell modify memory}"
+							"{@spell alterar los recuerdos}"
 						]
 					},
 					"ability": "int"
@@ -7914,7 +7914,7 @@
 							"{@spell armadura de mago}"
 						],
 						"1e": [
-							"{@spell clairvoyance}",
+							"{@spell clarividencia}",
 							"{@spell locate object}"
 						]
 					},
@@ -8064,10 +8064,10 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Rakdos's spellcasting ability is Charisma (spell save {@dc 25}). He can innately cast {@spell hellish rebuke} (at 5th level) at will, requiring no material components."
+						"Rakdos's spellcasting ability is Charisma (spell save {@dc 25}). He can innately cast {@spell Reprensión infernal} (at 5th level) at will, requiring no material components."
 					],
 					"will": [
-						"{@spell hellish rebuke}"
+						"{@spell Reprensión infernal}"
 					],
 					"ability": "cha",
 					"hidden": [
@@ -9244,7 +9244,7 @@
 						"The sire's innate spellcasting ability is Charisma (spell save {@dc 18}, {@hit 10} to hit with spell attacks). The sire can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell clairvoyance}",
+						"{@spell clarividencia}",
 						"{@spell crown of madness}",
 						"{@spell major image}",
 						"{@spell suggestion}"
@@ -9764,7 +9764,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell counterspell}",
 								"{@spell dispel magic}"
 							]

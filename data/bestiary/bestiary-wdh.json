@@ -563,7 +563,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell sending}"
 							]
 						},
@@ -2390,7 +2390,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell protección contra energía}",
-								"{@spell remove curse}",
+								"{@spell levantar maldición}",
 								"{@spell sending}"
 							]
 						}
@@ -9001,7 +9001,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blink}",
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell dispel magic}",
 								"{@spell magic circle}",
 								"{@spell protección contra energía}"
@@ -9022,7 +9022,7 @@
 							"spells": [
 								"{@spell dominar persona}",
 								"{@spell flame strike}",
-								"{@spell modify memory}",
+								"{@spell alterar los recuerdos}",
 								"{@spell plaga de insectos}"
 							]
 						},

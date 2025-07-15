@@ -3631,7 +3631,7 @@
 									"page": 65,
 									"id": "106",
 									"entries": [
-										"Regional effects sometimes give dragons unusual magical capabilities. For example, gold dragons can appear in the dreams of creatures that sleep near their lairs, green dragons can't be tracked near their lairs, brass dragons are aware of creatures that come near water in their territory, and gem dragons can use {@spell clairvoyance} to observe particular features near their lairs. Similar effects include the following examples:",
+										"Regional effects sometimes give dragons unusual magical capabilities. For example, gold dragons can appear in the dreams of creatures that sleep near their lairs, green dragons can't be tracked near their lairs, brass dragons are aware of creatures that come near water in their territory, and gem dragons can use {@spell clarividencia} to observe particular features near their lairs. Similar effects include the following examples:",
 										"{@b Death Warning}. The dragon is instantly aware of the death of any creature within 1 mile of its lair and can review the last moments of the creature's life as seen through the creature's eyes.",
 										"{@b Menacing Dreams}. People who sleep within 6 miles of the dragon's lair dream of the menacing dragon.",
 										"{@b Name Alerts}. If the dragon's name is spoken within 1 mile of its lair, the dragon instantly knows it and hears everything said within 10 feet of that spot for the next 5 minutes."
@@ -3942,7 +3942,7 @@
 												]
 											]
 										},
-										"In general, ending the curse on a dragon's hoard is not as simple as casting a single spell. Magic can offer temporary respite, though. A {@spell remove curse} spell cast on any affected character suppresses the effect of the curse for 1 hour, while a {@spell greater restoration} spell suppresses the curse until the victim finishes a long rest.",
+										"In general, ending the curse on a dragon's hoard is not as simple as casting a single spell. Magic can offer temporary respite, though. A {@spell levantar maldición} spell cast on any affected character suppresses the effect of the curse for 1 hour, while a {@spell greater restoration} spell suppresses the curse until the victim finishes a long rest.",
 										"Returning the entire hoard to the dragon's lair ends the curse, but removing even a single coin activates it again. Short of the drastic step of abandoning the treasure, gathering the entire hoard together and performing some specific rite can end the curse. Such a rite might involve any or all of the elements suggested on the Breaking a Hoard Curse table.",
 										{
 											"type": "table",

@@ -4294,7 +4294,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Geas|XPHB}",
-							"{@spell Modify Memory|XPHB}"
+							"{@spell Alterar los recuerdos|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -6300,7 +6300,7 @@
 					"daily": {
 						"2e": [
 							"{@spell Mass Suggestion|XPHB}",
-							"{@spell Modify Memory|XPHB}",
+							"{@spell Alterar los recuerdos|XPHB}",
 							"{@spell Plane Shift|XPHB}"
 						]
 					},
@@ -7291,14 +7291,14 @@
 					"displayAs": "action"
 				},
 				{
-					"name": "Hellish Rebuke (2/Day)",
+					"name": "Reprensión infernal (2/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The azer casts {@spell Hellish Rebuke|XPHB} in response to that spell's trigger, using the same spellcasting ability as Spellcasting."
+						"The azer casts {@spell Reprensión infernal|XPHB} in response to that spell's trigger, using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"2": [
-							"{@spell Hellish Rebuke|XPHB}"
+							"{@spell Reprensión infernal|XPHB}"
 						]
 					},
 					"ability": "wis",
@@ -17049,13 +17049,13 @@
 					"name": "Divine Aid (2/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The deva casts {@spell Cure Wounds|XPHB}, {@spell Restablecimiento menor|XPHB}, or {@spell Remove Curse|XPHB}, using the same spellcasting ability as Spellcasting."
+						"The deva casts {@spell Cure Wounds|XPHB}, {@spell Restablecimiento menor|XPHB}, or {@spell Levantar maldición|XPHB}, using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"2": [
 							"{@spell Cure Wounds|XPHB}",
 							"{@spell Restablecimiento menor|XPHB}",
-							"{@spell Remove Curse|XPHB}"
+							"{@spell Levantar maldición|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -20853,13 +20853,13 @@
 					"displayAs": "action"
 				},
 				{
-					"name": "Hellish Rebuke",
+					"name": "Reprensión infernal",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The cultist casts {@spell Hellish Rebuke|XPHB} in response to that spell's trigger, using the same spellcasting ability as Spellcasting."
+						"The cultist casts {@spell Reprensión infernal|XPHB} in response to that spell's trigger, using the same spellcasting ability as Spellcasting."
 					],
 					"will": [
-						"{@spell Hellish Rebuke|XPHB}"
+						"{@spell Reprensión infernal|XPHB}"
 					],
 					"ability": "wis",
 					"displayAs": "reaction",
@@ -24474,7 +24474,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell Clairvoyance|XPHB}"
+							"{@spell Clarividencia|XPHB}"
 						]
 					},
 					"ability": "wis",
@@ -26651,7 +26651,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Confusion|XPHB}",
+							"{@spell confusión|XPHB}",
 							"{@spell Fly|XPHB}",
 							"{@spell Power Word Stun|XPHB}"
 						]
@@ -29809,7 +29809,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Clairvoyance|XPHB}",
+							"{@spell Clarividencia|XPHB}",
 							"{@spell Cure Wounds|XPHB} (level 6 version)",
 							"{@spell Golpe flamígero|XPHB} (level 6 version)",
 							"{@spell Geas|XPHB}",
@@ -37947,7 +37947,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell Clairvoyance|XPHB}",
+							"{@spell Clarividencia|XPHB}",
 							"{@spell Puerta dimensional|XPHB}",
 							"{@spell Bola de fuego|XPHB} (level 5 version)",
 							"{@spell Relámpago|XPHB} (level 5 version)",
@@ -43411,14 +43411,14 @@
 					"name": "Divine Aid (2/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The planetar casts {@spell Cure Wounds|XPHB}, {@spell Invisibilidad|XPHB}, {@spell Restablecimiento menor|XPHB}, or {@spell Remove Curse|XPHB}, using the same spellcasting ability as Spellcasting."
+						"The planetar casts {@spell Cure Wounds|XPHB}, {@spell Invisibilidad|XPHB}, {@spell Restablecimiento menor|XPHB}, or {@spell Levantar maldición|XPHB}, using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"2": [
 							"{@spell Cure Wounds|XPHB}",
 							"{@spell Invisibilidad|XPHB}",
 							"{@spell Restablecimiento menor|XPHB}",
-							"{@spell Remove Curse|XPHB}"
+							"{@spell Levantar maldición|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -49491,13 +49491,13 @@
 					"name": "Divine Aid (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The solar casts {@spell Cure Wounds|XPHB} (level 2 version), {@spell Restablecimiento menor|XPHB}, or {@spell Remove Curse|XPHB}, using the same spellcasting ability as Spellcasting."
+						"The solar casts {@spell Cure Wounds|XPHB} (level 2 version), {@spell Restablecimiento menor|XPHB}, or {@spell Levantar maldición|XPHB}, using the same spellcasting ability as Spellcasting."
 					],
 					"daily": {
 						"3": [
 							"{@spell Cure Wounds|XPHB} (level 2 version)",
 							"{@spell Restablecimiento menor|XPHB}",
-							"{@spell Remove Curse|XPHB}"
+							"{@spell Levantar maldición|XPHB}"
 						]
 					},
 					"ability": "cha",
@@ -49989,7 +49989,7 @@
 							"{@spell Conocer las leyendas|XPHB}",
 							"{@spell Localizar objeto|XPHB}",
 							"{@spell Plane Shift|XPHB}",
-							"{@spell Remove Curse|XPHB}",
+							"{@spell Levantar maldición|XPHB}",
 							"{@spell Tongues|XPHB}"
 						]
 					},
@@ -50163,7 +50163,7 @@
 					"daily": {
 						"1e": [
 							"{@spell Localizar objeto|XPHB}",
-							"{@spell Remove Curse|XPHB}"
+							"{@spell Levantar maldición|XPHB}"
 						]
 					},
 					"ability": "int",
@@ -54727,7 +54727,7 @@
 					],
 					"will": [
 						"{@spell Alterar el propio aspecto|XPHB}",
-						"{@spell Clairvoyance|XPHB}",
+						"{@spell Clarividencia|XPHB}",
 						"{@spell Detect Magic|XPHB}"
 					],
 					"daily": {

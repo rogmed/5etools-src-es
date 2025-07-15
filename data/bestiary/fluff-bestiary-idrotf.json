@@ -1345,7 +1345,7 @@
 									"type": "entries",
 									"name": "Spellbook",
 									"entries": [
-										"The wooden covers of Nass's spellbook are bound in nothic hide, and silver clasps hold the book shut. Nass's personal sigil is inscribed on the spine, which also bears the title Lantomir's Traveling Libram. The tome contains the following spells: {@spell clairvoyance}, {@spell nube de dagas}, {@spell counterspell}, {@spell detect magic}, {@spell detect thoughts}, {@spell find familiar}, {@spell Melf's acid arrow}, {@spell Tenser's floating disk}, and {@spell ola atronadora}."
+										"The wooden covers of Nass's spellbook are bound in nothic hide, and silver clasps hold the book shut. Nass's personal sigil is inscribed on the spine, which also bears the title Lantomir's Traveling Libram. The tome contains the following spells: {@spell clarividencia}, {@spell nube de dagas}, {@spell counterspell}, {@spell detect magic}, {@spell detect thoughts}, {@spell find familiar}, {@spell Melf's acid arrow}, {@spell Tenser's floating disk}, and {@spell ola atronadora}."
 									]
 								}
 							]
@@ -1698,7 +1698,7 @@
 									"type": "entries",
 									"name": "Spellbook",
 									"entries": [
-										"Vellynne's spellbook has black leather covers around pages of ragged parchment, all wrapped in a crimson sash. The necromancer's personal sigil is written in goat's blood on the title page. The tome contains the spells Vellynne has prepared plus the following additional spells: {@spell bestow curse}, {@spell blindness/deafness}, {@spell false life}, {@spell find familiar}, {@spell arma mágica}, {@spell polymorph}, {@spell protección contra el bien y el mal}, {@spell remove curse}, {@spell shield}, and {@spell Tenser's floating disk}."
+										"Vellynne's spellbook has black leather covers around pages of ragged parchment, all wrapped in a crimson sash. The necromancer's personal sigil is written in goat's blood on the title page. The tome contains the spells Vellynne has prepared plus the following additional spells: {@spell bestow curse}, {@spell blindness/deafness}, {@spell false life}, {@spell find familiar}, {@spell arma mágica}, {@spell polymorph}, {@spell protección contra el bien y el mal}, {@spell levantar maldición}, {@spell shield}, and {@spell Tenser's floating disk}."
 									]
 								}
 							]

@@ -1418,7 +1418,7 @@
 					"daily": {
 						"1e": [
 							"{@spell mass suggestion}",
-							"{@spell modify memory}"
+							"{@spell alterar los recuerdos}"
 						]
 					},
 					"ability": "cha",

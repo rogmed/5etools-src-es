@@ -5034,7 +5034,7 @@
 							"items": [
 								{
 									"type": "item",
-									"name": "Confusion",
+									"name": "Confusión",
 									"entries": [
 										"The target can't take reactions and acts randomly until the end of its next turn, as if it had failed the saving throw against the {@spell confusion} spell."
 									]
@@ -7974,7 +7974,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell modify memory}",
+							"{@spell alterar los recuerdos}",
 							"{@spell pass without trace}"
 						]
 					},
@@ -11196,7 +11196,7 @@
 						],
 						"3e": [
 							"{@spell dispel magic}",
-							"{@spell modify memory}"
+							"{@spell alterar los recuerdos}"
 						]
 					},
 					"ability": "cha",
@@ -24968,7 +24968,7 @@
 				{
 					"name": "Liar's Largesse",
 					"entries": [
-						"If a creature accepts a gift of jewelry from the gilded devil, the creature becomes cursed until cured by a {@spell remove curse} spell or similar magic. While cursed, the creature has disadvantage on saving throws against the devil's spells and abilities."
+						"If a creature accepts a gift of jewelry from the gilded devil, the creature becomes cursed until cured by a {@spell levantar maldición} spell or similar magic. While cursed, the creature has disadvantage on saving throws against the devil's spells and abilities."
 					]
 				},
 				{
@@ -26617,7 +26617,7 @@
 						],
 						"1e": [
 							"{@spell dispel magic}",
-							"{@spell remove curse}"
+							"{@spell levantar maldición}"
 						]
 					},
 					"ability": "wis",
@@ -44975,7 +44975,7 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing damage plus 7 ({@damage 2d6}) psychic damage. Damage from this attack doesn't wake an {@condition unconscious} creature, unless the {@condition unconscious} creature is below half its hp maximum. If the sandman scores a critical hit, the target is cursed with the eye-closer's curse. While cursed, the creature is {@condition blinded} until it finishes a long rest or until the curse is lifted by remove curse or similar magic."
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing damage plus 7 ({@damage 2d6}) psychic damage. Damage from this attack doesn't wake an {@condition unconscious} creature, unless the {@condition unconscious} creature is below half its hp maximum. If the sandman scores a critical hit, the target is cursed with the eye-closer's curse. While cursed, the creature is {@condition blinded} until it finishes a long rest or until the curse is lifted by levantar maldición or similar magic."
 					]
 				},
 				{
@@ -54604,7 +54604,7 @@
 				{
 					"name": "Nabboot",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) bludgeoning damage plus 13 ({@damage 3d8}) necrotic damage. If the target is a creature, it must succeed on a {@dc 16} Constitution saving throw or be cursed with tomb taint. The cursed target's speed is halved, and its hp maximum decreases by 3 ({@dice 1d6}) for every 24 hours that elapse. If the curse reduces the target's hp maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell remove curse} spell or comparable magic."
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) bludgeoning damage plus 13 ({@damage 3d8}) necrotic damage. If the target is a creature, it must succeed on a {@dc 16} Constitution saving throw or be cursed with tomb taint. The cursed target's speed is halved, and its hp maximum decreases by 3 ({@dice 1d6}) for every 24 hours that elapse. If the curse reduces the target's hp maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell levantar maldición} spell or comparable magic."
 					]
 				},
 				{
@@ -55295,7 +55295,7 @@
 				{
 					"name": "Venomous Fist",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning damage plus 10 ({@damage 3d6}) poison damage. If the target is a creature, it must succeed on a {@dc 12} Constitution saving throw or be cursed. Every 24 hours that elapse, the cursed target must succeed on a {@dc 12} Constitution saving throw or take 7 ({@damage 2d6}) poison damage, and its hp maximum is reduced by that amount. This reduction lasts until the target finishes a long rest after the curse is removed. The target dies if this effect reduces its hp maximum to 0. The curse lasts until removed by the {@spell remove curse} spell or similar magic."
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning damage plus 10 ({@damage 3d6}) poison damage. If the target is a creature, it must succeed on a {@dc 12} Constitution saving throw or be cursed. Every 24 hours that elapse, the cursed target must succeed on a {@dc 12} Constitution saving throw or take 7 ({@damage 2d6}) poison damage, and its hp maximum is reduced by that amount. This reduction lasts until the target finishes a long rest after the curse is removed. The target dies if this effect reduces its hp maximum to 0. The curse lasts until removed by the {@spell levantar maldición} spell or similar magic."
 					]
 				}
 			],

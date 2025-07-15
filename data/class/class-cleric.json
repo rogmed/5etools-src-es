@@ -634,12 +634,12 @@
 							"nondetection|xphb"
 						],
 						"7": [
-							"confusion|xphb",
+							"confusión|xphb",
 							"puerta dimensional|xphb"
 						],
 						"9": [
 							"dominar persona|xphb",
-							"modify memory|xphb"
+							"alterar los recuerdos|xphb"
 						]
 					}
 				}
@@ -1491,11 +1491,11 @@
 						],
 						[
 							"7",
-							"{@spell Confusion|XPHB}, {@spell Puerta dimensional|XPHB}"
+							"{@spell confusión|XPHB}, {@spell Puerta dimensional|XPHB}"
 						],
 						[
 							"9",
-							"{@spell Modify Memory|XPHB}, {@spell Dominar persona|XPHB}"
+							"{@spell Alterar los recuerdos|XPHB}, {@spell Dominar persona|XPHB}"
 						]
 					]
 				}

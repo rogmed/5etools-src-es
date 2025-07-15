@@ -15,14 +15,14 @@
 			]
 		},
 		{
-			"name": "Armor of Agathys",
+			"name": "Armadura de Agathys",
 			"source": "XPHB",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "spells/XPHB/Armor of Agathys.webp"
+						"path": "spells/XPHB/Armadura de Agathys.webp"
 					},
 					"credit": "Tuan Duong Chu"
 				}

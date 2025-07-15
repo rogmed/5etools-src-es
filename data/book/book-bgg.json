@@ -4718,7 +4718,7 @@
 										{
 											"type": "item",
 											"name": "Ordning's Path",
-											"entry": "A creature who spends 8 hours meditating in the grotto on the nature of order and the rightful course of history can cast one of the following spells at the end of that time (no additional casting time or spell components required): {@spell conocer las leyendas}, {@spell greater restoration}, or {@spell remove curse} (cast at 9th level). The spellcasting ability for the spell is the creature's choice of Intelligence, Wisdom, or Charisma. After casting the spell, the creature gains 2 levels of {@condition cansancio}."
+											"entry": "A creature who spends 8 hours meditating in the grotto on the nature of order and the rightful course of history can cast one of the following spells at the end of that time (no additional casting time or spell components required): {@spell conocer las leyendas}, {@spell greater restoration}, or {@spell levantar maldición} (cast at 9th level). The spellcasting ability for the spell is the creature's choice of Intelligence, Wisdom, or Charisma. After casting the spell, the creature gains 2 levels of {@condition cansancio}."
 										}
 									]
 								}
@@ -6246,7 +6246,7 @@
 									"page": 90,
 									"id": "11d",
 									"entries": [
-										"A {@creature storm giant} who sought to cleanse the Far Realm corruption from the keep has succumbed to the corruption and now gathers creatures from the {@book Giant Kin Encounters table|BGG|3|Giant Kin Encounters} in {@book chapter 3|BGG|3} to unleash on surrounding settlements. The giant can be cleansed of Far Realm influence by the {@spell remove curse} or {@spell greater restoration} spell, but only if the spell is cast while the giant has the {@condition incapacitated} condition and the caster succeeds on a {@dc 20} ability check using the caster's spellcasting ability."
+										"A {@creature storm giant} who sought to cleanse the Far Realm corruption from the keep has succumbed to the corruption and now gathers creatures from the {@book Giant Kin Encounters table|BGG|3|Giant Kin Encounters} in {@book chapter 3|BGG|3} to unleash on surrounding settlements. The giant can be cleansed of Far Realm influence by the {@spell levantar maldición} or {@spell greater restoration} spell, but only if the spell is cast while the giant has the {@condition incapacitated} condition and the caster succeeds on a {@dc 20} ability check using the caster's spellcasting ability."
 									]
 								},
 								{

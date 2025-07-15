@@ -1039,7 +1039,7 @@
 										{
 											"type": "item",
 											"name": "Paralyzing Ray:",
-											"entry": "{@spell modify memory}, {@spell silence} (1 minute)"
+											"entry": "{@spell alterar los recuerdos}, {@spell silence} (1 minute)"
 										},
 										{
 											"type": "item",
@@ -4859,7 +4859,7 @@
 													"items": [
 														"1st level (4 slots): {@spell bane}, {@spell bless}",
 														"2nd level (3 slots): {@spell augury}, {@spell detect thoughts}",
-														"3rd level (3 slots): {@spell clairvoyance}, {@spell dispel magic}, {@spell nondetection}",
+														"3rd level (3 slots): {@spell clarividencia}, {@spell dispel magic}, {@spell nondetection}",
 														"4th level (3 slots): {@spell ojo arcano}, {@spell locate creature}",
 														"5th level (2 slots): {@spell geas}, {@spell conocer las leyendas}",
 														"6th level (1 slot): {@spell true seeing}"

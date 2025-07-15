@@ -918,10 +918,10 @@
 			]
 		},
 		{
-			"name": "Armor of Agathys",
-			"originalname": "",
+			"name": "Armadura de Agathys",
+			"originalname": "Armor of Agathys",
 			"source": "XPHB",
-			"page": 243,
+			"page": 245,
 			"level": 1,
 			"school": "A",
 			"time": [
@@ -939,7 +939,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a shard of blue glass"
+				"m": "un trozo de vidrio azul"
 			},
 			"duration": [
 				{
@@ -951,14 +951,14 @@
 				}
 			],
 			"entries": [
-				"Protective magical frost surrounds you. You gain 5 {@variantrule Temporary Hit Points|XPHB}. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no {@variantrule Temporary Hit Points|XPHB}."
+				"Una escarcha mágica protectora te rodea y ganas 5 puntos de golpe temporales. Si una criatura te acierta con una tirada de ataque cuerpo a cuerpo antes de que el conjuro termine, dicha criatura sufre 5 de daño de frío. El conjuro termina antes de tiempo si no tienes puntos de golpe temporales."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The {@variantrule Temporary Hit Points|XPHB} and the Cold damage both increase by 5 for each spell slot level above 1."
+						"Los puntos de golpe temporales y el daño de frío aumentan en 5 por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -2850,7 +2850,7 @@
 				}
 			},
 			"components": {
-				"v": true
+			"v": true
 			},
 			"duration": [
 				{
@@ -2873,10 +2873,10 @@
 			]
 		},
 		{
-			"name": "Clairvoyance",
-			"originalname": "",
+			"name": "Clarividencia",
+			"originalname": "Clairvoyance",
 			"source": "XPHB",
-			"page": 250,
+			"page": 257,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -2898,7 +2898,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "a focus worth 100+ GP, either a jeweled horn for hearing or a glass eye for seeing",
+					"text": "un canalizador que valga al menos 100 po; puede ser una trompetilla enjoyada o un ojo de cristal",
 					"cost": 10000
 				}
 			},
@@ -2913,9 +2913,9 @@
 				}
 			],
 			"entries": [
-				"You create an {@condition Invisible|XPHB} sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invulnerable sensor remains in place for the duration.",
-				"When you cast the spell, choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As a {@variantrule Acción adicional|XPHB}, you can switch between seeing and hearing.",
-				"A creature that sees the sensor (such as a creature benefiting from {@spell Ver invisibilidad|XPHB} or {@sense Truesight|XPHB}) sees a luminous orb about the size of your fist."
+				"Creas un sensor {@condition invisible|XPHB} dentro del alcance en un lugar que conozcas (que hayas visitado o visto antes) o en un lugar obvio, aunque no lo conozcas (por ejemplo, tras una puerta, al girar una esquina o en una arboleda). Este sensor intangible e invulnerable permanecerá allí hasta que el conjuro termine.",
+				"Cuando lances el conjuro, elige la vista o el oído. Podrás usar el sentido elegido como si estuvieras en el espacio del sensor. Como acción adicional, puedes cambiar entre la vista y el oído.",
+				"Cualquier criatura que pueda percibir el sensor (por ejemplo, que se esté beneficiando del conjuro {@spell ver invisibilidad|XPHB} o que tenga visión verdadera) verá un orbe luminoso del tamaño aproximado de tu puño."
 			],
 			"miscTags": [
 				"UBA"
@@ -3520,7 +3520,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Confusion",
+			"name": "Confusión",
 			"originalname": "",
 			"source": "XPHB",
 			"page": 253,
@@ -9000,7 +9000,7 @@
 				"Das una orden verbal a una criatura que puedas ver dentro del alcance y la obligas a llevar a cabo un cometido o le impides realizar una acción o actividad, según desees. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition hechizado|XPHB} hasta que termine el conjuro. El objetivo la superará automáticamente si no entiende la orden.",
 				"Mientras esté {@condition hechizado|XPHB|hechizada}, la criatura sufre {@damage 5d10} de daño psíquico si actúa de manera contraria a tus instrucciones, y solo podrá recibir este daño una vez al día.",
 				"Puedes dar cualquier orden que quieras, siempre que no sea una actividad que suponga una muerte segura. Si das una orden suicida, el conjuro termina.",
-				"Un conjuro {@spell deseo|XPHB}, {@spell Remove Curse|XPHB|levantar maldición} o {@spell restablecimiento mayor|XPHB} también pone fin a este conjuro."
+				"Un conjuro {@spell deseo|XPHB}, {@spell Levantar maldición|XPHB|levantar maldición} o {@spell restablecimiento mayor|XPHB} también pone fin a este conjuro."
 			],
 			"entriesHigherLevel": [
 				{
@@ -10394,10 +10394,10 @@
 			]
 		},
 		{
-			"name": "Hellish Rebuke",
-			"originalname": "",
+			"name": "Reprensión infernal",
+			"originalname": "Hellish Rebuke",
 			"source": "XPHB",
-			"page": 284,
+			"page": 328,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -10406,7 +10406,7 @@
 				{
 					"number": 1,
 					"unit": "reacción",
-					"condition": "which you take in response to taking damage from a creature that you can see within 60 feet of yourself"
+					"condition": "que llevas a cabo enrespuesta a recibir daño de una criatura que puedas ver a 60 pies (18 m) o menos de ti"
 				}
 			],
 			"range": {
@@ -10426,14 +10426,14 @@
 				}
 			],
 			"entries": [
-				"The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking {@damage 2d10} Fire damage on a failed save or half as much damage on a successful one."
+				"La criatura que te ha dañado se ve rodeada momentáneamente por unas llamas verdes y hará una tirada de salvación de Destreza; sufrirá {@damage 2d10} de daño de fuego si la falla o la mitad del daño si la supera."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 2d10|1-9|1d10} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 2d10|1-9|1d10} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -13591,10 +13591,10 @@
 			]
 		},
 		{
-			"name": "Modify Memory",
-			"originalname": "",
+			"name": "Alterar los recuerdos",
+			"originalname": "Modify Memory",
 			"source": "XPHB",
-			"page": 299,
+			"page": 241,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -13627,11 +13627,11 @@
 				}
 			],
 			"entries": [
-				"You attempt to reshape another creature's memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has {@variantrule Advantage|XPHB} on the save. On a failed save, the target has the {@condition Hechizado|XPHB} condition for the duration. While {@condition Hechizado|XPHB} in this way, the target also has the {@condition Incapacitado|XPHB} condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.",
-				"While this charm lasts, you can affect the target's memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity, change its memory of the event's details, or create a memory of some other event.",
-				"You must speak to the target to describe how its memories are affected, and it must be able to understand your language for the modified memories to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you finish describing the modified memories, the creature's memory isn't altered. Otherwise, the modified memories take hold when the spell ends.",
-				"A modified memory doesn't necessarily affect how a creature behaves, particularly if the memory contradicts the creature's natural inclinations, alignment, or beliefs. An illogical modified memory, such as a false memory of how much the creature enjoyed swimming in acid, is dismissed as a bad dream. The DM might deem a modified memory too nonsensical to affect a creature.",
-				"A {@spell Remove Curse|XPHB} or {@spell Restablecimiento mayor|XPHB} spell cast on the target restores the creature's true memory."
+				"Intentas modificar los recuerdos de otra criatura. Una criatura que puedas ver dentro del alcance realiza una tirada de salvación de Sabiduría. Si estás luchando contra ella, tendrá ventaja en la tirada. Si la falla, tendrá el estado de {@condition Hechizado|XPHB|hechizada} hasta que termine el conjuro. Mientras esté hechizado de esta manera, el objetivo también tiene el estado de {@condition incapacitado|XPHB} y no es consciente de su entorno, aunque puede oírte. Si recibe cualquier daño o es el objetivo de otro conjuro, este conjuro termina y no se modifica ninguno de sus recuerdos.",
+				"Mientras dure este sortilegio, puedes afectar al recuerdo de un suceso que haya vivido el objetivo durante las últimas 24 horas y que no haya durado más de 10 minutos. Puedes eliminar permanentemente todo recuerdo del suceso, permitir que lo recuerde con claridad perfecta, cambiar cómo recuerda los detalles o crear un recuerdo de otro suceso.",
+				"Debes hablarle al objetivo para describir cómo se ven afectados sus recuerdos y este debe poder comprender tu idioma para que los recuerdos modificados se asienten. Su mente llenará cualquier hueco que falte en los detalles de tu descripción. Si el conjuro termina antes de que acabes de describir los recuerdos modificados, la memoria de la criatura no se verá afectada. De lo contrario, los recuerdos modificados ocuparán el lugar de los reales en cuanto el conjuro termine.",
+				"Un recuerdo modificado no tiene por qué afectar al comportamiento de una criatura, en especial si contradice sus inclinaciones naturales, su alineamiento o sus creencias. Un recuerdo modificado que no sea lógico, como cuánto disfrutó bañándose en ácido, se difuminará y la criatura lo considerará un mal sueño. Tu DM podría considerar que un recuerdo modificado es demasiado ilógico como para afectar a una criatura.",
+				"Un conjuro {@spell levantar maldición|XPHB} o {@spell Restablecimiento mayor|XPHB} lanzado sobre el objetivo restaurará los recuerdos auténticos de la criatura."
 			],
 			"entriesHigherLevel": [
 				{
@@ -16176,10 +16176,10 @@
 			]
 		},
 		{
-			"name": "Remove Curse",
-			"originalname": "",
+			"name": "Levantar maldición",
+			"originalname": "Remove Curse",
 			"source": "XPHB",
-			"page": 312,
+			"page": 304,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -16206,7 +16206,7 @@
 				}
 			],
 			"entries": [
-				"At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's {@variantrule Attunement|XPHB} to the object so it can be removed or discarded."
+				"Con tan solo tocar a una criatura o un objeto, eliminarás todas las maldiciones que le afecten. Si el objetivo es un objeto mágico maldito, la maldición permanecerá, pero este conjuro romperá la sintonización del objeto con el dueño, lo que le permitirá quitárselo o deshacerse de él."
 			],
 			"miscTags": [
 				"OBJ"
@@ -19559,7 +19559,7 @@
 		},
 		{
 			"name": "Telequinesis",
-			"originalname": "",
+			"originalname": "Telekinesis",
 			"source": "XPHB",
 			"page": 335,
 			"srd52": true,

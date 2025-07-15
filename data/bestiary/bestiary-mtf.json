@@ -3970,8 +3970,8 @@
 							"style": "list-hang-notitle",
 							"items": [
 								"Archfey patron: {@spell blink}, {@spell faerie fire}, {@spell hunger of Hadar}, {@spell hypnotic pattern}, {@spell phantasmal force}, {@spell sleep}",
-								"Fiend patron: {@spell blindness/deafness}, {@spell burning hands}, {@spell command}, {@spell fireball}, {@spell hellish rebuke}, {@spell scorching ray}",
-								"Great Old One patron: {@spell armor of Agathys}, {@spell detect thoughts}, {@spell dissonant whispers}, {@spell hunger of Hadar}, {@spell Tasha's hideous laughter}, {@spell phantasmal force}"
+								"Fiend patron: {@spell blindness/deafness}, {@spell burning hands}, {@spell command}, {@spell fireball}, {@spell Reprensión infernal}, {@spell scorching ray}",
+								"Great Old One patron: {@spell armadura de agathys}, {@spell detect thoughts}, {@spell dissonant whispers}, {@spell hunger of Hadar}, {@spell Tasha's hideous laughter}, {@spell phantasmal force}"
 							]
 						}
 					]
@@ -4085,7 +4085,7 @@
 											"{@spell burning hands}",
 											"{@spell command}",
 											"{@spell fireball}",
-											"{@spell hellish rebuke}",
+											"{@spell Reprensión infernal}",
 											"{@spell scorching ray}"
 										]
 									}
@@ -4097,7 +4097,7 @@
 					"variant": null
 				},
 				{
-					"name": "Deathlock (Great Old One Patron)",
+					"name": "Deathlock (Patrón primigenio)",
 					"source": "MTF",
 					"_mod": {
 						"spellcasting": {
@@ -4120,7 +4120,7 @@
 										"lower": 1,
 										"slots": 2,
 										"spells": [
-											"{@spell armor of Agathys}",
+											"{@spell armadura de agathys}",
 											"{@spell detect thoughts}",
 											"{@spell dissonant whispers}",
 											"{@spell hunger of Hadar}",
@@ -4296,8 +4296,8 @@
 							"style": "list-hang-notitle",
 							"items": [
 								"Archfey patron: {@spell blink}, {@spell dominar bestia}, {@spell dominar persona}, {@spell faerie fire}, {@spell greater invisibility}, {@spell hunger of Hadar}, {@spell hypnotic pattern}, {@spell phantasmal force}, {@spell seeming}, {@spell sleep}",
-								"Fiend patron: {@spell blindness/deafness}, {@spell burning hands}, {@spell command}, {@spell fire shield}, {@spell fireball}, {@spell flame strike}, {@spell hellish rebuke}, {@spell scorching ray}, {@spell nube apestosa}, {@spell wall of fire}",
-								"Great Old One patron: {@spell clairvoyance}, {@spell detect thoughts}, {@spell dissonant whispers}, {@spell dominar persona}, {@spell Evard's black tentacles}, {@spell hunger of Hadar}, {@spell phantasmal force}, {@spell sending}, {@spell Tasha's hideous laughter}, {@spell telekinesis}"
+								"Fiend patron: {@spell blindness/deafness}, {@spell burning hands}, {@spell command}, {@spell fire shield}, {@spell fireball}, {@spell flame strike}, {@spell Reprensión infernal}, {@spell scorching ray}, {@spell nube apestosa}, {@spell wall of fire}",
+								"Great Old One patron: {@spell clarividencia}, {@spell detect thoughts}, {@spell dissonant whispers}, {@spell dominar persona}, {@spell Evard's black tentacles}, {@spell hunger of Hadar}, {@spell phantasmal force}, {@spell sending}, {@spell Tasha's hideous laughter}, {@spell telekinesis}"
 							]
 						}
 					]
@@ -4429,7 +4429,7 @@
 											"{@spell fire shield}",
 											"{@spell fireball}",
 											"{@spell flame strike}",
-											"{@spell hellish rebuke}",
+											"{@spell Reprensión infernal}",
 											"{@spell scorching ray}",
 											"{@spell nube apestosa}",
 											"{@spell wall of fire}"
@@ -4443,7 +4443,7 @@
 					"variant": null
 				},
 				{
-					"name": "Deathlock Mastermind (Great Old One Patron)",
+					"name": "Deathlock Mastermind (Patrón primigenio)",
 					"source": "MTF",
 					"_mod": {
 						"spellcasting": {
@@ -4467,7 +4467,7 @@
 										"lower": 1,
 										"slots": 2,
 										"spells": [
-											"{@spell clairvoyance}",
+											"{@spell clarividencia}",
 											"{@spell detect thoughts}",
 											"{@spell dissonant whispers}",
 											"{@spell dominar persona}",
@@ -6280,7 +6280,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell clairvoyance}",
+							"{@spell clarividencia}",
 							"{@spell darkness}",
 							"{@spell detect thoughts}",
 							"{@spell dispel magic}",
@@ -6555,7 +6555,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell clairvoyance}",
+							"{@spell clarividencia}",
 							"{@spell darkness}",
 							"{@spell detect thoughts}",
 							"{@spell dispel magic}",
@@ -6603,7 +6603,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell bestow curse}",
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell dispel magic}",
 								"{@spell spirit guardians}"
 							]
@@ -9515,7 +9515,7 @@
 						],
 						"1e": [
 							"{@spell mirage arcane}",
-							"{@spell modify memory}",
+							"{@spell alterar los recuerdos}",
 							"{@spell project image}"
 						]
 					},
@@ -11118,7 +11118,7 @@
 							"lower": 1,
 							"slots": 3,
 							"spells": [
-								"{@spell armor of Agathys}",
+								"{@spell armadura de agathys}",
 								"{@spell blight}",
 								"{@spell darkness}",
 								"{@spell dream}",
@@ -12529,7 +12529,7 @@
 				{
 					"name": "Steal Memory (1/Day)",
 					"entries": [
-						"The hydroloth targets one creature it can see within 60 feet of it. The target takes {@damage 4d6} psychic damage, and it must make a {@dc 16} Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies, it can't cast spells, it can't understand language, and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A {@spell greater restoration} or {@spell remove curse} spell cast on the target ends this effect early."
+						"The hydroloth targets one creature it can see within 60 feet of it. The target takes {@damage 4d6} psychic damage, and it must make a {@dc 16} Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies, it can't cast spells, it can't understand language, and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A {@spell greater restoration} or {@spell levantar maldición} spell cast on the target ends this effect early."
 					]
 				},
 				{
@@ -21399,7 +21399,7 @@
 						"{@spell bestow curse}",
 						"{@spell confusion}",
 						"{@spell major image}",
-						"{@spell modify memory}",
+						"{@spell alterar los recuerdos}",
 						"{@spell nondetection}",
 						"{@spell sending}",
 						"{@spell suggestion}"

@@ -1211,7 +1211,7 @@
 						"1e": [
 							"{@spell calm emotions}",
 							"{@spell lesser restoration}",
-							"{@spell remove curse}",
+							"{@spell levantar maldición}",
 							"{@spell protección contra energía}"
 						]
 					},
@@ -7505,7 +7505,7 @@
 				{
 					"name": "Abyssal Curse",
 					"entries": [
-						"The vargouille targets one Humanoid within 5 feet of itself that has the {@condition incapacitated} condition. The target must succeed on a {@dc 12} Charisma saving throw or become cursed. The cursed target's Charisma decreases by 1 after each hour, as its head takes on fiendish aspects, and its Charisma can't increase. The curse doesn't advance while the target is in sunlight or the area of a {@spell daylight} spell. When the cursed target's Charisma becomes 2, the target dies, and its head tears from its body and becomes a new vargouille reflection. Casting remove curse, greater restoration, or a similar spell on the target before the transformation is complete ends the curse and restores the target's Charisma."
+						"The vargouille targets one Humanoid within 5 feet of itself that has the {@condition incapacitated} condition. The target must succeed on a {@dc 12} Charisma saving throw or become cursed. The cursed target's Charisma decreases by 1 after each hour, as its head takes on fiendish aspects, and its Charisma can't increase. The curse doesn't advance while the target is in sunlight or the area of a {@spell daylight} spell. When the cursed target's Charisma becomes 2, the target dies, and its head tears from its body and becomes a new vargouille reflection. Casting levantar maldición, greater restoration, or a similar spell on the target before the transformation is complete ends the curse and restores the target's Charisma."
 					]
 				},
 				{

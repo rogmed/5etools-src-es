@@ -351,7 +351,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell modify memory}",
+								"{@spell alterar los recuerdos}",
 								"{@spell wall of force}"
 							]
 						},
@@ -788,7 +788,7 @@
 								"3": {
 									"slots": 3,
 									"spells": [
-										"{@spell clairvoyance}",
+										"{@spell clarividencia}",
 										"{@spell dispel magic}",
 										"{@spell nondetection}"
 									]
@@ -1097,7 +1097,7 @@
 									"3": {
 										"slots": 3,
 										"spells": [
-											"{@spell clairvoyance}",
+											"{@spell clarividencia}",
 											"{@spell dispel magic}",
 											"{@spell nondetection}"
 										]
@@ -2683,7 +2683,7 @@
 								"3": {
 									"slots": 3,
 									"spells": [
-										"{@spell clairvoyance}",
+										"{@spell clarividencia}",
 										"{@spell dispel magic}",
 										"{@spell nondetection}"
 									]
@@ -2997,7 +2997,7 @@
 									"3": {
 										"slots": 3,
 										"spells": [
-											"{@spell clairvoyance}",
+											"{@spell clarividencia}",
 											"{@spell dispel magic}",
 											"{@spell nondetection}"
 										]
@@ -6216,7 +6216,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}*",
+								"{@spell clarividencia}*",
 								"{@spell fly}",
 								"{@spell fireball}"
 							]
@@ -7362,7 +7362,7 @@
 							"spells": [
 								"{@spell burning hands}",
 								"{@spell flaming sphere}",
-								"{@spell hellish rebuke}",
+								"{@spell Reprensión infernal}",
 								"{@spell scorching ray}"
 							]
 						}
@@ -11128,7 +11128,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dispel magic}",
-								"{@spell remove curse}",
+								"{@spell levantar maldición}",
 								"{@spell sending}"
 							]
 						},
@@ -12920,7 +12920,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell fear}",
 								"{@spell meld into stone}"
 							]
@@ -18294,7 +18294,7 @@
 				{
 					"name": "Kiss",
 					"entries": [
-						"The vargouille kisses one {@condition incapacitated} humanoid within 5 feet of it. The target must succeed on a {@dc 12} Charisma saving throw or become cursed. The cursed target loses 1 point of Charisma after each hour, as its head takes on fiendish aspects. The curse doesn't advance while the target is in sunlight or the area of a {@spell daylight} spell; don't count that time. When the cursed target's Charisma becomes 2, it dies, and its head tears from its body and becomes a new vargouille. Casting {@spell remove curse}, {@spell greater restoration}, or a similar spell on the target before the transformation is complete can end the curse. Doing so undoes the changes made to the target by the curse."
+						"The vargouille kisses one {@condition incapacitated} humanoid within 5 feet of it. The target must succeed on a {@dc 12} Charisma saving throw or become cursed. The cursed target loses 1 point of Charisma after each hour, as its head takes on fiendish aspects. The curse doesn't advance while the target is in sunlight or the area of a {@spell daylight} spell; don't count that time. When the cursed target's Charisma becomes 2, it dies, and its head tears from its body and becomes a new vargouille. Casting {@spell levantar maldición}, {@spell greater restoration}, or a similar spell on the target before the transformation is complete can end the curse. Doing so undoes the changes made to the target by the curse."
 					]
 				},
 				{
@@ -19205,7 +19205,7 @@
 								"{@spell banishment}",
 								"{@spell burning hands}",
 								"{@spell flame strike}",
-								"{@spell hellish rebuke}",
+								"{@spell Reprensión infernal}",
 								"{@spell magic circle}",
 								"{@spell scorching ray}",
 								"{@spell scrying}",
@@ -19398,10 +19398,10 @@
 							"lower": 1,
 							"slots": 3,
 							"spells": [
-								"{@spell armor of Agathys}",
+								"{@spell armadura de agathys}",
 								"{@spell Brazos de Hadar}",
 								"{@spell crown of madness}",
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell contactar con otro plano}",
 								"{@spell detect thoughts}",
 								"{@spell puerta dimensional}",
@@ -21828,7 +21828,7 @@
 							"spells": [
 								"{@spell command}",
 								"{@spell counterspell}",
-								"{@spell hellish rebuke}",
+								"{@spell Reprensión infernal}",
 								"{@spell invisibility}",
 								"{@spell paso brumoso}",
 								"{@spell unseen servant}",

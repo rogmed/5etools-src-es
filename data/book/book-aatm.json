@@ -2533,7 +2533,7 @@
 											"id": "024",
 											"entries": [
 												"Eight granite steles line a semicircular chamber within the Nevervault. Each stele is inscribed with arcane sigils that magically bind a restless soul to the stele. The steles each have an Armor Class of 17, 50 hit points, and immunity to poison and psychic damage.",
-												"Casting {@spell remove curse} on the stele or destroying the stele frees the soul trapped inside, which manifests as a {@creature specter}. For 1 minute, the specter is friendly toward its liberator and obeys their commands. In the absence of any commands, or if given a command that's likely to result in its destruction, the specter defends itself but otherwise takes no actions. At the end of the duration, the specter attempts to flee the Mortuary."
+												"Casting {@spell levantar maldición} on the stele or destroying the stele frees the soul trapped inside, which manifests as a {@creature specter}. For 1 minute, the specter is friendly toward its liberator and obeys their commands. In the absence of any commands, or if given a command that's likely to result in its destruction, the specter defends itself but otherwise takes no actions. At the end of the duration, the specter attempts to flee the Mortuary."
 											]
 										}
 									]

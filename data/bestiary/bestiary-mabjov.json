@@ -1611,7 +1611,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell clairvoyance}",
+							"{@spell clarividencia}",
 							"{@spell locate object}",
 							"{@spell scrying}"
 						],
@@ -2165,7 +2165,7 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell armor of Agathys}",
+							"{@spell armadura de agathys}",
 							"{@spell cono de frío}",
 							"{@spell darkness}",
 							"{@spell fear}",
@@ -2224,7 +2224,7 @@
 				{
 					"name": "Create Thrall",
 					"entries": [
-						"Darien touches an {@condition incapacitated} Humanoid. That creature is then {@condition charmed} by her until a {@spell remove curse} spell is cast on it, the {@condition charmed} condition is removed from it, or she uses this feature again. Darien can communicate telepathically with the {@condition charmed} creature as long as the two of them are on the same plane of existence."
+						"Darien touches an {@condition incapacitated} Humanoid. That creature is then {@condition charmed} by her until a {@spell levantar maldición} spell is cast on it, the {@condition charmed} condition is removed from it, or she uses this feature again. Darien can communicate telepathically with the {@condition charmed} creature as long as the two of them are on the same plane of existence."
 					]
 				},
 				{
@@ -4503,7 +4503,7 @@
 						"The kelubar casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 16}):"
 					],
 					"will": [
-						"{@spell clairvoyance}",
+						"{@spell clarividencia}",
 						"{@spell detect magic}",
 						"{@spell fear}",
 						"{@spell invisibility} (self only)",
@@ -6814,7 +6814,7 @@
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 10} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d8 + 5}) slashing damage or 10 ({@damage 1d10 + 5}) if wielded in two hands. If the target is a creature, it must succeed on a {@dc 16} Constitution saving throw or be cursed by Bhaal. The cursed target can't regain hit points. The curse lasts until removed by the {@spell remove curse} spell or other magic."
+						"{@atk mw} {@hit 10} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d8 + 5}) slashing damage or 10 ({@damage 1d10 + 5}) if wielded in two hands. If the target is a creature, it must succeed on a {@dc 16} Constitution saving throw or be cursed by Bhaal. The cursed target can't regain hit points. The curse lasts until removed by the {@spell levantar maldición} spell or other magic."
 					]
 				},
 				{
@@ -6982,7 +6982,7 @@
 						"The shator casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 18}):"
 					],
 					"will": [
-						"{@spell clairvoyance}",
+						"{@spell clarividencia}",
 						"{@spell detect magic}",
 						"{@spell fear}",
 						"{@spell invisibility} (self only)",

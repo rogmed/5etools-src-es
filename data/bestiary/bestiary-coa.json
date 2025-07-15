@@ -867,7 +867,7 @@
 						"{@spell Cure Wounds}",
 						"{@spell Darkness}",
 						"{@spell Restablecimiento menor}",
-						"{@spell Remove Curse}"
+						"{@spell Levantar maldición}"
 					],
 					"daily": {
 						"1e": [
@@ -5866,7 +5866,7 @@
 				{
 					"name": "Amnesia",
 					"entries": [
-						"Levistus selects a {@condition stunned} creature that he can see. The creature must succeed on a {@dc 23} Charisma saving throw or Levistus erases a specific memory from the target. The memory must be one that the target experienced in the last 24 hours and that lasted no more than 10 minutes. The memory can only be restored with a {@spell Remove Curse} or a {@spell Restablecimiento mayor} spell."
+						"Levistus selects a {@condition stunned} creature that he can see. The creature must succeed on a {@dc 23} Charisma saving throw or Levistus erases a specific memory from the target. The memory must be one that the target experienced in the last 24 hours and that lasted no more than 10 minutes. The memory can only be restored with a {@spell Levantar maldición} or a {@spell Restablecimiento mayor} spell."
 					]
 				},
 				{
@@ -7090,7 +7090,7 @@
 							"{@spell Dispel Evil and Good}",
 							"{@spell Hallar corcel}",
 							"{@spell Restablecimiento menor}",
-							"{@spell Remove Curse}",
+							"{@spell Levantar maldición}",
 							"{@spell Revivir}",
 							"{@spell Shield of Faith}"
 						]
@@ -7539,7 +7539,7 @@
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 12} to hit, reach 5ft., one target. {@h}10 ({@damage 1d8 + 6}) slashing damage or 11 ({@damage 1d10 + 6}) if wielded in two hands. The target must succeed on a {@dc 18} Constitution saving throw or be cursed by Bhaal, preventing it from regaining hit points. The curse lasts until removed by the {@spell Remove Curse} spell or similar effect."
+						"{@atk mw} {@hit 12} to hit, reach 5ft., one target. {@h}10 ({@damage 1d8 + 6}) slashing damage or 11 ({@damage 1d10 + 6}) if wielded in two hands. The target must succeed on a {@dc 18} Constitution saving throw or be cursed by Bhaal, preventing it from regaining hit points. The curse lasts until removed by the {@spell Levantar maldición} spell or similar effect."
 					]
 				},
 				{

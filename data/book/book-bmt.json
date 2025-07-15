@@ -10074,7 +10074,7 @@
 									"id": "1e4",
 									"entries": [
 										"Lavender takes voices as payment. A character loses their voice for 10 minutes when they buy a 1st-level scroll, 1 hour when they buy a 2nd-level scroll, and 1 day when they buy a 3rd-level scroll; these durations are cumulative for characters who purchase multiple scrolls.",
-										"Whenever a voiceless character tries to speak or vocalize, they burp tiny bubbles instead. Lavender can mimic that character's voice perfectly for the duration of the effect, and she delights in doing so. A {@spell Remove Curse} spell or similar magic ends this effect."
+										"Whenever a voiceless character tries to speak or vocalize, they burp tiny bubbles instead. Lavender can mimic that character's voice perfectly for the duration of the effect, and she delights in doing so. A {@spell Levantar maldición} spell or similar magic ends this effect."
 									]
 								}
 							]
@@ -10323,7 +10323,7 @@
 									"id": "1ed",
 									"entries": [
 										"A character who wishes to buy a doll or a glass object must trade Granny Goosefinger three days' worth of good dreams. She seals this bargain by having the character prick their finger with one of her sewing needles.",
-										"A character who pays this price is plagued with nightmares of haunted dolls for 3 days. Every time the character finishes a long rest during that period, they must make a {@dc 15} Wisdom saving throw. On a failed saving throw, the rest restores none of the character's Hit Dice. A {@spell Remove Curse} spell or similar magic ends this effect."
+										"A character who pays this price is plagued with nightmares of haunted dolls for 3 days. Every time the character finishes a long rest during that period, they must make a {@dc 15} Wisdom saving throw. On a failed saving throw, the rest restores none of the character's Hit Dice. A {@spell Levantar maldición} spell or similar magic ends this effect."
 									]
 								}
 							]
@@ -13010,7 +13010,7 @@
 									"page": 134,
 									"id": "237",
 									"entries": [
-										"A character who inexplicably reappears after spending time in the Donjon Sphere gains a lingering curse called a Mark of the Donjon. Determine the character's mark by rolling on the Marks of the Donjon table. A Mark of the Donjon lasts until removed by a {@spell Remove Curse} spell or similar magic.",
+										"A character who inexplicably reappears after spending time in the Donjon Sphere gains a lingering curse called a Mark of the Donjon. Determine the character's mark by rolling on the Marks of the Donjon table. A Mark of the Donjon lasts until removed by a {@spell Levantar maldición} spell or similar magic.",
 										{
 											"type": "table",
 											"caption": "Marks of the Donjon",
@@ -19824,7 +19824,7 @@
 												"Steps ascend to a dais that holds an elaborate throne made of cards."
 											]
 										},
-										"The first creature that sits on the throne gains the {@i Charm of the Throne} supernatural gift (see {@book chapter 8|BMT|7|Charm of the Throne}). While the charm lasts, however, the creature has disadvantage on Charisma checks and expects its every command to be quickly obeyed. This charm can be bestowed only once, and it can be removed with the {@spell Remove Curse} spell.",
+										"The first creature that sits on the throne gains the {@i Charm of the Throne} supernatural gift (see {@book chapter 8|BMT|7|Charm of the Throne}). While the charm lasts, however, the creature has disadvantage on Charisma checks and expects its every command to be quickly obeyed. This charm can be bestowed only once, and it can be removed with the {@spell Levantar maldición} spell.",
 										{
 											"type": "entries",
 											"name": "Secret Doors",
@@ -19961,7 +19961,7 @@
 											"page": 152,
 											"id": "2cd",
 											"entries": [
-												"If the medusa is killed, any character who targeted the medusa with an attack or spell that deals damage is cursed; the cursed character has disadvantage on ability checks and saving throws made with their highest ability score (if the character has their highest ability score in more than one ability, the DM should choose one). The curse can't be broken while the House of Cards exists. Otherwise, a {@spell Remove Curse} or similar magic ends it."
+												"If the medusa is killed, any character who targeted the medusa with an attack or spell that deals damage is cursed; the cursed character has disadvantage on ability checks and saving throws made with their highest ability score (if the character has their highest ability score in more than one ability, the DM should choose one). The curse can't be broken while the House of Cards exists. Otherwise, a {@spell Levantar maldición} or similar magic ends it."
 											]
 										}
 									]
@@ -20682,7 +20682,7 @@
 												{
 													"type": "item",
 													"name": "Consuming Emptiness",
-													"entry": "Whenever a creature that isn't Undead finishes a long rest within the Mothwing Grove, that creature must succeed on a {@dc 15} Constitution saving throw or have its hit point maximum reduced by 5. This reduction lasts until ended by the {@spell Remove Curse} spell or similar magic. If this effect reduces the creature to 0 hit points, it dies."
+													"entry": "Whenever a creature that isn't Undead finishes a long rest within the Mothwing Grove, that creature must succeed on a {@dc 15} Constitution saving throw or have its hit point maximum reduced by 5. This reduction lasts until ended by the {@spell Levantar maldición} spell or similar magic. If this effect reduces the creature to 0 hit points, it dies."
 												}
 											]
 										},
@@ -21516,7 +21516,7 @@
 							"page": 170,
 							"id": "302",
 							"entries": [
-								"Here are several blessings {@creature Hulgaz|BMT} can bestow on willing Humanoids. Other Fiends, particularly archdevils, might bestow such blessings as well, and you can create additional blessings {@creature Hulgaz|BMT} might bestow. Unlike most blessings, infernal blessings impose both desirable and detrimental effects on the user. Casting the {@spell Remove Curse} spell on the subject of an infernal blessing ends the blessing's effects, including its consequences.",
+								"Here are several blessings {@creature Hulgaz|BMT} can bestow on willing Humanoids. Other Fiends, particularly archdevils, might bestow such blessings as well, and you can create additional blessings {@creature Hulgaz|BMT} might bestow. Unlike most blessings, infernal blessings impose both desirable and detrimental effects on the user. Casting the {@spell Levantar maldición} spell on the subject of an infernal blessing ends the blessing's effects, including its consequences.",
 								{
 									"type": "image",
 									"href": {
@@ -21652,7 +21652,7 @@
 											"id": "318",
 											"entries": [
 												"As an action, {@creature Malaxxix|BMT} can teleport, along with any equipment it is wearing or carrying, to an unoccupied space within 60 feet of the cursed creature, regardless of the creature's location in the multiverse.",
-												"The curse of {@creature Malaxxix|BMT} lasts until ended with a {@spell Remove Curse} spell, a {@spell Restablecimiento mayor} spell, or similar magic."
+												"The curse of {@creature Malaxxix|BMT} lasts until ended with a {@spell Levantar maldición} spell, a {@spell Restablecimiento mayor} spell, or similar magic."
 											]
 										}
 									]

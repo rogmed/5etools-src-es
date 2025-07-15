@@ -2613,7 +2613,7 @@
 				{
 					"min": 28,
 					"max": 32,
-					"item": "{@item Potion of Clairvoyance}"
+					"item": "{@item Potion of Clarividencia}"
 				},
 				{
 					"min": 33,
@@ -5261,7 +5261,7 @@
 				{
 					"min": 41,
 					"max": 42,
-					"item": "{@item Potion of Clairvoyance|XDMG}"
+					"item": "{@item Potion of Clarividencia|XDMG}"
 				},
 				{
 					"min": 43,

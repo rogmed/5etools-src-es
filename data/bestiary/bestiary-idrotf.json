@@ -7251,7 +7251,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Hellish Rebuke (2/Day)",
+					"name": "Reprensión infernal (2/Day)",
 					"entries": [
 						"When Xardorok is damaged by a creature within 60 feet of him that he can see, the creature that damaged him is engulfed in hellish flames and must make a {@dc 15} Dexterity saving throw, taking 16 ({@damage 3d10}) fire damage on a failed save, or half as much damage on a successful one."
 					]

@@ -443,7 +443,7 @@
 						"2e": [
 							"{@spell create food and water}",
 							"{@spell polymorph}",
-							"{@spell remove curse}"
+							"{@spell levantar maldición}"
 						]
 					},
 					"ability": "int",
@@ -4609,7 +4609,7 @@
 						],
 						"2e": [
 							"{@spell polymorph}",
-							"{@spell remove curse}",
+							"{@spell levantar maldición}",
 							"{@spell speak with plants}"
 						]
 					},
@@ -5009,7 +5009,7 @@
 						],
 						"1e": [
 							"{@spell lesser restoration}",
-							"{@spell remove curse}",
+							"{@spell levantar maldición}",
 							"{@spell zone of truth}"
 						]
 					},

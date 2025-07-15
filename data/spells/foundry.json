@@ -1052,7 +1052,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Armor of Agathys",
+			"name": "Armadura de Agathys",
 			"source": "PHB",
 			"activities": [
 				{
@@ -1071,7 +1071,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Armor of Agathys",
+			"name": "Armadura de Agathys",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -2683,7 +2683,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Confusion",
+			"name": "Confusión",
 			"source": "XPHB",
 			"system": {
 				"target.template.size": "@item.level * 5 - 10"
@@ -2707,14 +2707,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "confusion"
+							"foundryId": "confusión"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "confusion",
+					"foundryId": "confusión",
 					"name": "Confused",
 					"duration": {
 						"seconds": 60
@@ -10462,7 +10462,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Modify Memory",
+			"name": "Alterar los recuerdos",
 			"source": "XPHB",
 			"activities": [
 				{

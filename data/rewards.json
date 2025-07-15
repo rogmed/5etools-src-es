@@ -1130,7 +1130,7 @@
 			]
 		},
 		{
-			"name": "Charm of Hellish Rebuke",
+			"name": "Charm of Reprensión infernal",
 			"source": "BGDIA",
 			"page": 215,
 			"type": "Charm",
@@ -1140,7 +1140,7 @@
 						"_": {
 							"limited": {
 								"9": [
-									"hellish rebuke#9"
+									"Reprensión infernal#9"
 								]
 							}
 						}
@@ -1148,7 +1148,7 @@
 				}
 			],
 			"entries": [
-				"A fiery halo appears above your head when you receive this charm. This charm allows you to cast the {@spell hellish rebuke} spell (9th-level version) as a reaction. Once used nine times, the charm vanishes from you, as does the fiery halo."
+				"A fiery halo appears above your head when you receive this charm. This charm allows you to cast the {@spell Reprensión infernal} spell (9th-level version) as a reaction. Once used nine times, the charm vanishes from you, as does the fiery halo."
 			]
 		},
 		{
@@ -1452,7 +1452,7 @@
 						"_": {
 							"limited": {
 								"3": [
-									"clairvoyance"
+									"clarividencia"
 								]
 							}
 						}
@@ -1460,7 +1460,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Clairvoyance} as an action, without using a spell slot and requiring no material components. Once used three times, the charm vanishes."
+				"You can cast {@spell Clarividencia} as an action, without using a spell slot and requiring no material components. Once used three times, the charm vanishes."
 			]
 		},
 		{
@@ -2048,7 +2048,7 @@
 					"name": "Curing the Curse",
 					"page": 39,
 					"entries": [
-						"Creatures who experience kindness or suffer near-death experiences can have epiphanies that allow their true self to tear through the bloody shroud of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor's} lies. A curse-afflicted creature who spends one week being treated with love and compassion instead of hatred and fear can make a {@dc 20} Wisdom {@quickref saving throws|PHB|2|1|saving throw}, breaking the curse on a success. The {@spell remove curse} spell also immediately ends the curse\u2014and many reformed clerics of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor} have united with clerics of other faiths to loosen the bloody god's grip on their families."
+						"Creatures who experience kindness or suffer near-death experiences can have epiphanies that allow their true self to tear through the bloody shroud of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor's} lies. A curse-afflicted creature who spends one week being treated with love and compassion instead of hatred and fear can make a {@dc 20} Wisdom {@quickref saving throws|PHB|2|1|saving throw}, breaking the curse on a success. The {@spell levantar maldición} spell also immediately ends the curse\u2014and many reformed clerics of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor} have united with clerics of other faiths to loosen the bloody god's grip on their families."
 					]
 				}
 			],
@@ -3073,7 +3073,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"clairvoyance"
+									"clarividencia"
 								]
 							}
 						}
@@ -3083,7 +3083,7 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Klothys trait}",
-				"You can cast {@spell clairvoyance} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell.",
+				"You can cast {@spell clarividencia} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell.",
 				"In addition, you have advantage on saving throws against being {@condition charmed}."
 			]
 		},
@@ -3699,7 +3699,7 @@
 							"limited": {
 								"1": [
 									"crown of madness",
-									"hellish rebuke",
+									"Reprensión infernal",
 									"shatter"
 								]
 							}
@@ -3708,7 +3708,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell crown of madness}, {@spell hellish rebuke}, or {@spell shatter} spell. The charm vanishes after you activate it."
+				"When you activate this charm, you can cast the {@spell crown of madness}, {@spell Reprensión infernal}, or {@spell shatter} spell. The charm vanishes after you activate it."
 			]
 		},
 		{

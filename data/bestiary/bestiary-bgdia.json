@@ -1498,7 +1498,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Hellish Rebuke (1st-Level Spell; 2/Day)",
+					"name": "Reprensión infernal (1st-Level Spell; 2/Day)",
 					"entries": [
 						"When Thalamra is damaged by a creature within 60 feet of her that she can see, the creature that damaged her is engulfed in hellish flames and must make a {@dc 14} Dexterity saving throw, taking 16 ({@damage 3d10}) fire damage on a failed save, or half as much damage on a successful one."
 					]
@@ -2992,7 +2992,7 @@
 							"{@spell charm person}",
 							"{@spell detect magic}",
 							"{@spell dispel magic}",
-							"{@spell hellish rebuke}",
+							"{@spell Reprensión infernal}",
 							"{@spell invisibility}",
 							"{@spell major image}",
 							"{@spell hablar con los muertos}",
@@ -3036,7 +3036,7 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) slashing damage, and the target is cursed if it's a creature. The curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a {@spell remove curse} spell or similar magic."
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) slashing damage, and the target is cursed if it's a creature. The curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a {@spell levantar maldición} spell or similar magic."
 					]
 				},
 				{

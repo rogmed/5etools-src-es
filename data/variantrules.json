@@ -656,7 +656,7 @@
 			"basicRules2024": true,
 			"ruleType": "C",
 			"entries": [
-				"Some game effects curse a creature or an object. The effect that confers a curse defines what the curse does. Curses can be removed by the {@spell Remove Curse|XPHB} and {@spell Restablecimiento mayor|XPHB} spells or other magic that explicitly ends curses."
+				"Some game effects curse a creature or an object. The effect that confers a curse defines what the curse does. Curses can be removed by the {@spell Levantar maldición|XPHB} and {@spell Restablecimiento mayor|XPHB} spells or other magic that explicitly ends curses."
 			]
 		},
 		{

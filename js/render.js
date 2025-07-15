@@ -9994,11 +9994,11 @@ Renderer.monster = class {
 				black: ["vitriolic sphere|XGE", "sickening radiance|XGE", "Evard's black tentacles", "marchitar", "hunger of Hadar"],
 				white: ["fire shield", "tormenta de hielo", "sleet storm"],
 				brass: ["charm monster|XGE", "sending", "wall of sand|XGE", "hypnotic pattern", "tongues"],
-				copper: ["polimorfar", "greater invisibility", "confusion", "nube apestosa", "major image", "charm monster|XGE"],
+				copper: ["polimorfar", "greater invisibility", "confusión", "nube apestosa", "major image", "charm monster|XGE"],
 			},
 			5: {
 				blue: ["telekinesis", "inmovilizar monstruo", "puerta dimensional", "muro de piedra", "wall of force"],
-				green: ["cloudkill", "charm monster|XGE", "modify memory", "mislead", "hallucinatory terrain", "puerta dimensional"],
+				green: ["cloudkill", "charm monster|XGE", "alterar los recuerdos", "mislead", "hallucinatory terrain", "puerta dimensional"],
 				bronze: ["steel wind strike|XGE", "control winds|XGE", "watery sphere|XGE", "storm sphere|XGE", "tidal wave|XGE"],
 				gold: ["inmovilizar monstruo", "immolation|XGE", "wall of fire", "greater invisibility", "puerta dimensional"],
 				silver: ["cono de frío", "tormenta de hielo", "teleportation circle", "skill empowerment|XGE", "creation", "Mordenkainen's private sanctum"],

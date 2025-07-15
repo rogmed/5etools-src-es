@@ -383,10 +383,10 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Arcturia is an 18th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 20}, {@hit 12} to hit with spell attacks). Arcturia can cast {@spell alter self} at will and has the following wizard spells prepared:"
+						"Arcturia is an 18th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 20}, {@hit 12} to hit with spell attacks). Arcturia can cast {@spell alterar el propio aspecto} at will and has the following wizard spells prepared:"
 					],
 					"will": [
-						"{@spell alter self}"
+						"{@spell alterar el propio aspecto}"
 					],
 					"spells": {
 						"0": {
@@ -629,7 +629,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Berlain is an 18th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 17}, {@hit 9} to hit with spell attacks). Berlain can cast {@spell disguise self} and invisibility at will and has the following wizard spells prepared:"
+						"Berlain is an 18th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 17}, {@hit 9} to hit with spell attacks). Berlain can cast {@spell disfrazarse} and invisibility at will and has the following wizard spells prepared:"
 					],
 					"spells": {
 						"0": {
@@ -646,7 +646,7 @@
 							"spells": [
 								"{@spell detect magic}",
 								"{@spell identify}",
-								"{@spell mage armor}*",
+								"{@spell armadura de mago}*",
 								"{@spell magic missile}"
 							]
 						},
@@ -1033,7 +1033,7 @@
 				14,
 				{
 					"ac": 17,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -1056,7 +1056,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Cassiok is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 19}, {@hit 11} to hit with spell attacks). Cassiok can cast {@spell disguise self} and invisibility at will and has the following wizard spells prepared:"
+						"Cassiok is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 19}, {@hit 11} to hit with spell attacks). Cassiok can cast {@spell disfrazarse} and invisibility at will and has the following wizard spells prepared:"
 					],
 					"spells": {
 						"0": {
@@ -1073,7 +1073,7 @@
 							"spells": [
 								"{@spell detect magic}",
 								"{@spell identify}",
-								"{@spell mage armor}*",
+								"{@spell armadura de mago}*",
 								"{@spell magic missile}"
 							]
 						},
@@ -2076,7 +2076,7 @@
 				14,
 				{
 					"ac": 17,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2131,10 +2131,10 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 22}, {@hit 14} to hit with spell attacks). He can cast {@spell disguise self} and {@spell invisibility} at will. He can cast {@spell fly} and {@spell relámpago} once each without expending a spell slot, but can't do so again until he finishes a short or long rest. Halaster has the following wizard spells prepared:"
+						"Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 22}, {@hit 14} to hit with spell attacks). He can cast {@spell disfrazarse} and {@spell invisibility} at will. He can cast {@spell fly} and {@spell relámpago} once each without expending a spell slot, but can't do so again until he finishes a short or long rest. Halaster has the following wizard spells prepared:"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell invisibility}"
 					],
 					"daily": {
@@ -2156,10 +2156,10 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}",
-								"{@spell silent image}"
+								"{@spell imagen silenciosa}"
 							]
 						},
 						"2": {
@@ -2485,7 +2485,7 @@
 				{
 					"name": "Magical Properties",
 					"entries": [
-						"A creature that uses an action to touch the living snail gains 6 temporary hit points that last for 24 hours. Any creature or object that touches the living snail also gains the benefit of a {@spell remove curse} spell. The snail loses these magical properties if it dies."
+						"A creature that uses an action to touch the living snail gains 6 temporary hit points that last for 24 hours. Any creature or object that touches the living snail also gains the benefit of a {@spell levantar maldición} spell. The snail loses these magical properties if it dies."
 					]
 				},
 				{

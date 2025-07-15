@@ -661,7 +661,7 @@
 											"50 gp"
 										],
 										[
-											"{@spell Remove curse}",
+											"{@spell levantar maldición}",
 											"75 gp"
 										],
 										[
@@ -12025,7 +12025,7 @@
 							"page": 176,
 							"id": "36d",
 							"entries": [
-								"Cliffside encompasses the docks and waterfront of Sharn, running along the edge of the Dagger River and up the cliff above it. Massive lifts levitate goods up to the skydocks in the district of Precarious. The area's rough and poor, filled with sailors and dockworkers. Many of these boisterous folk love the life in Cliffside; as a common saying goes, \"Better a tankard of ale in Cliffside than a barrel of Central wine.\"",
+								"Cliffside encompasses the docks and waterfront of Sharn, running along the edge of the Dagger River and up the cliff above it. Massive lifts levitar goods up to the skydocks in the district of Precarious. The area's rough and poor, filled with sailors and dockworkers. Many of these boisterous folk love the life in Cliffside; as a common saying goes, \"Better a tankard of ale in Cliffside than a barrel of Central wine.\"",
 								"Plenty of legitimate services can be found here\u2014ships need supplies and repairs, goods need to be stored, captains need to hire crew, and sailors need a dry bed to sleep in once in a while\u2014but other businesses meet different kinds of demands. These services include bordellos, taverns, gaming dens, and shadier entertainments for sailors to spend their off duty hours and wages on.",
 								"Even though the Sharn Watch has a token presence here, Cliffside remains one of the most crime-ridden districts in the city. This situation is exacerbated by the presence of sahuagin, who sell their services as guides to help ships traveling to Xen'drik. In fact, the sahuagin rarely initiate violence, but there have been clashes between them and aggressive, drunken sailors."
 							]
@@ -18469,7 +18469,7 @@
 										],
 										[
 											"3",
-											"A halfling pickpocket using alter self to pose as a child of another race plants contraband on people the Boromars are trying to frame."
+											"A halfling pickpocket using alterar el propio aspecto to pose as a child of another race plants contraband on people the Boromars are trying to frame."
 										],
 										[
 											"4",
@@ -20058,7 +20058,7 @@
 													"entries": [
 														"Player characters might manifest connections to the daelkyr in many ways. The Great Old One warlock patron is an excellent match to {@creature Belashyrra|ERLW} or {@creature Dyrrn|ERLW}, but other classes can just as easily reflect a connection to this darkness. For example, a barbarian's rage might be seen as a form of daelkyr-induced madness, or a hechicero's Sorcerous Origin could be the result of a daelkyr experiment.",
 														"When a character has a tie to a daelkyr, consider whether that tie was chosen or thrust upon them. Is the character a cultist who embraces their dark path, believing that a world transformed by the daelkyr will be a better place? Or is the character a victim of the daelkyr, consumed by the fear of what they might become?",
-														"The touch of the daelkyr might be purely mental, or it might be accompanied by a physical transformation. A barbarian touched by {@creature Belashyrra|ERLW} might serve as an eye of the All-Seer but remain physically unchanged, even as a barbarian tied to {@creature Dyrrn|ERLW} takes on aberrant features while raging. When a warlock character gains the Devil's Sight invocation, they might literally gain the fiery red eyes of a devil."
+														"The touch of the daelkyr might be purely mental, or it might be accompanied by a physical transformation. A barbarian touched by {@creature Belashyrra|ERLW} might serve as an eye of the All-Seer but remain physically unchanged, even as a barbarian tied to {@creature Dyrrn|ERLW} takes on aberrant features while raging. When a warlock character gains the Visión del diablo invocation, they might literally gain the fiery red eyes of a devil."
 													]
 												}
 											]

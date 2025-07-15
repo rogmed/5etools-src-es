@@ -414,7 +414,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -454,7 +454,7 @@
 						"The witch casts one of the following spells, using Charisma as the spellcasting ability (spell save {@dc 16}):"
 					],
 					"will": [
-						"{@spell mage armor} (self only)",
+						"{@spell armadura de mago} (self only)",
 						"{@spell prestidigitation}"
 					],
 					"daily": {
@@ -591,7 +591,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell silent image}"
+							"{@spell imagen silenciosa}"
 						]
 					},
 					"ability": "cha",
@@ -1432,7 +1432,7 @@
 				14,
 				{
 					"ac": 17,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -1495,7 +1495,7 @@
 						"{@spell dancing lights}",
 						"{@spell detect magic}",
 						"{@spell saber druídico}",
-						"{@spell mage armor} (self only)"
+						"{@spell armadura de mago} (self only)"
 					],
 					"daily": {
 						"2e": [
@@ -1975,7 +1975,7 @@
 					"name": "Tendrils of Slumber {@recharge 5}",
 					"entries": [
 						"The nightmare haunt creates spectral tendrils that cover the ground in a 20-foot square that it can see within 30 feet of itself for 1 minute or until it uses this action again. When a creature other than the nightmare haunt enters the affected area for the first time or starts its turn there, the creature must succeed on a {@dc 14} Strength saving throw or take 11 ({@damage 2d10}) necrotic damage and have the {@condition restrained} condition. The affected ground is also considered difficult terrain for creatures other than the nightmare haunt for the duration of its effect.",
-						"A creature that starts its turn in the area and is already {@condition restrained} by the tendrils must repeat the saving throw. On a failed save, it has the {@condition unconscious} condition and instead of the {@condition restrained} condition caused by the tendrils. On a successful save, the effect ends on the creature. An {@condition unconscious} creature remains asleep until it is no longer in the area with tendrils, takes any damage, or is targeted by a {@spell remove curse} spell or similar magic."
+						"A creature that starts its turn in the area and is already {@condition restrained} by the tendrils must repeat the saving throw. On a failed save, it has the {@condition unconscious} condition and instead of the {@condition restrained} condition caused by the tendrils. On a successful save, the effect ends on the creature. An {@condition unconscious} creature remains asleep until it is no longer in the area with tendrils, takes any damage, or is targeted by a {@spell levantar maldición} spell or similar magic."
 					]
 				}
 			],
@@ -2294,7 +2294,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -2596,7 +2596,7 @@
 					"name": "Mournful Keening {@recharge}",
 					"entries": [
 						"The specter utters a keening wail, calling to those close to death. Each non-Undead creature within 120 feet of the specter must make a {@dc 15} Constitution saving throw. On a failure, the creature hears the wail and is marked for death.",
-						"A creature marked for death can't regain hit points, has disadvantage on death saving throws, and all attack rolls against it are made with advantage. This effect lasts for 1 minute or until the creature is targeted by a {@spell remove curse} spell or similar magic."
+						"A creature marked for death can't regain hit points, has disadvantage on death saving throws, and all attack rolls against it are made with advantage. This effect lasts for 1 minute or until the creature is targeted by a {@spell levantar maldición} spell or similar magic."
 					]
 				},
 				{
@@ -2646,7 +2646,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -3040,7 +3040,7 @@
 			"type": {
 				"type": "dragon",
 				"tags": [
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -3102,7 +3102,7 @@
 					"will": [
 						"{@spell detect magic}",
 						"{@spell minor illusion}",
-						"{@spell speak with dead}"
+						"{@spell hablar con los muertos}"
 					],
 					"daily": {
 						"1e": [

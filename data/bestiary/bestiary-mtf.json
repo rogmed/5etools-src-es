@@ -13,7 +13,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -556,7 +556,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -869,7 +869,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -952,7 +952,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell fireball}"
 						],
 						"1e": [
@@ -965,7 +965,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the amnizu's darkvision."
 					]
@@ -1042,7 +1042,7 @@
 				"path": "bestiary/amnizu.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -1105,7 +1105,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -1630,7 +1630,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -1710,7 +1710,7 @@
 						"Bael's innate spellcasting ability is Charisma (spell save {@dc 21}, {@hit 13} to hit with spell attacks). He can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium when changing his appearance)",
+						"{@spell alterar el propio aspecto} (can become Medium when changing his appearance)",
 						"{@spell animate dead}",
 						"{@spell charm person}",
 						"{@spell detect magic}",
@@ -2054,7 +2054,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -2141,7 +2141,7 @@
 						],
 						"3e": [
 							"{@spell dispel magic}",
-							"{@spell dominate beast}",
+							"{@spell dominar bestia}",
 							"{@spell marca del cazador}",
 							"{@spell maze}",
 							"{@spell wall of stone}"
@@ -2354,7 +2354,7 @@
 						"The berbalang's innate spellcasting ability is Intelligence (spell save {@dc 13}). The berbalang can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell speak with dead}"
+						"{@spell hablar con los muertos}"
 					],
 					"daily": {
 						"1": [
@@ -2437,7 +2437,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -2508,7 +2508,7 @@
 			"cr": "7",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the abishai's darkvision."
 					]
@@ -2569,7 +2569,7 @@
 				"scimitar|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance",
 				"Magic Weapons"
 			],
@@ -2608,7 +2608,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -2697,7 +2697,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell chromatic orb}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell expeditious retreat}",
 								"{@spell magic missile}",
 								"{@spell charm person}",
@@ -2753,7 +2753,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the abishai's darkvision."
 					]
@@ -2803,7 +2803,7 @@
 				"quarterstaff|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance",
 				"Magic Weapons"
 			],
@@ -3152,7 +3152,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -3412,7 +3412,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -3847,7 +3847,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -3908,8 +3908,8 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell disguise self}",
-						"{@spell mage armor}"
+						"{@spell disfrazarse}",
+						"{@spell armadura de mago}"
 					],
 					"ability": "cha"
 				},
@@ -3923,7 +3923,7 @@
 						"0": {
 							"spells": [
 								"{@spell chill touch}",
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell mage hand}"
 							]
 						},
@@ -3970,8 +3970,8 @@
 							"style": "list-hang-notitle",
 							"items": [
 								"Archfey patron: {@spell blink}, {@spell faerie fire}, {@spell hunger of Hadar}, {@spell hypnotic pattern}, {@spell phantasmal force}, {@spell sleep}",
-								"Fiend patron: {@spell blindness/deafness}, {@spell burning hands}, {@spell command}, {@spell fireball}, {@spell hellish rebuke}, {@spell scorching ray}",
-								"Great Old One patron: {@spell armor of Agathys}, {@spell detect thoughts}, {@spell dissonant whispers}, {@spell hunger of Hadar}, {@spell Tasha's hideous laughter}, {@spell phantasmal force}"
+								"Fiend patron: {@spell blindness/deafness}, {@spell burning hands}, {@spell command}, {@spell fireball}, {@spell Reprensión infernal}, {@spell scorching ray}",
+								"Great Old One patron: {@spell armadura de agathys}, {@spell detect thoughts}, {@spell dissonant whispers}, {@spell hunger of Hadar}, {@spell Tasha's hideous laughter}, {@spell phantasmal force}"
 							]
 						}
 					]
@@ -4019,7 +4019,7 @@
 			"hasFluffImages": true,
 			"_versions": [
 				{
-					"name": "Deathlock (Archfey Patron)",
+					"name": "Deathlock (Patrón feérico)",
 					"source": "MTF",
 					"_mod": {
 						"spellcasting": {
@@ -4034,7 +4034,7 @@
 									"0": {
 										"spells": [
 											"{@spell chill touch}",
-											"{@spell eldritch blast}",
+											"{@spell descarga sobrenatural}",
 											"{@spell mage hand}"
 										]
 									},
@@ -4058,7 +4058,7 @@
 					"variant": null
 				},
 				{
-					"name": "Deathlock (Fiend Patron)",
+					"name": "Deathlock (Patrón infernal)",
 					"source": "MTF",
 					"_mod": {
 						"spellcasting": {
@@ -4073,7 +4073,7 @@
 									"0": {
 										"spells": [
 											"{@spell chill touch}",
-											"{@spell eldritch blast}",
+											"{@spell descarga sobrenatural}",
 											"{@spell mage hand}"
 										]
 									},
@@ -4085,7 +4085,7 @@
 											"{@spell burning hands}",
 											"{@spell command}",
 											"{@spell fireball}",
-											"{@spell hellish rebuke}",
+											"{@spell Reprensión infernal}",
 											"{@spell scorching ray}"
 										]
 									}
@@ -4097,7 +4097,7 @@
 					"variant": null
 				},
 				{
-					"name": "Deathlock (Great Old One Patron)",
+					"name": "Deathlock (Patrón primigenio)",
 					"source": "MTF",
 					"_mod": {
 						"spellcasting": {
@@ -4112,7 +4112,7 @@
 									"0": {
 										"spells": [
 											"{@spell chill touch}",
-											"{@spell eldritch blast}",
+											"{@spell descarga sobrenatural}",
 											"{@spell mage hand}"
 										]
 									},
@@ -4120,7 +4120,7 @@
 										"lower": 1,
 										"slots": 2,
 										"spells": [
-											"{@spell armor of Agathys}",
+											"{@spell armadura de agathys}",
 											"{@spell detect thoughts}",
 											"{@spell dissonant whispers}",
 											"{@spell hunger of Hadar}",
@@ -4161,7 +4161,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4223,8 +4223,8 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell disguise self}",
-						"{@spell mage armor}"
+						"{@spell disfrazarse}",
+						"{@spell armadura de mago}"
 					],
 					"ability": "cha"
 				},
@@ -4295,9 +4295,9 @@
 							"type": "list",
 							"style": "list-hang-notitle",
 							"items": [
-								"Archfey patron: {@spell blink}, {@spell dominate beast}, {@spell dominate person}, {@spell faerie fire}, {@spell greater invisibility}, {@spell hunger of Hadar}, {@spell hypnotic pattern}, {@spell phantasmal force}, {@spell seeming}, {@spell sleep}",
-								"Fiend patron: {@spell blindness/deafness}, {@spell burning hands}, {@spell command}, {@spell fire shield}, {@spell fireball}, {@spell flame strike}, {@spell hellish rebuke}, {@spell scorching ray}, {@spell nube apestosa}, {@spell wall of fire}",
-								"Great Old One patron: {@spell clairvoyance}, {@spell detect thoughts}, {@spell dissonant whispers}, {@spell dominate person}, {@spell Evard's black tentacles}, {@spell hunger of Hadar}, {@spell phantasmal force}, {@spell sending}, {@spell Tasha's hideous laughter}, {@spell telekinesis}"
+								"Archfey patron: {@spell blink}, {@spell dominar bestia}, {@spell dominar persona}, {@spell faerie fire}, {@spell greater invisibility}, {@spell hunger of Hadar}, {@spell hypnotic pattern}, {@spell phantasmal force}, {@spell seeming}, {@spell sleep}",
+								"Fiend patron: {@spell blindness/deafness}, {@spell burning hands}, {@spell command}, {@spell fire shield}, {@spell fireball}, {@spell flame strike}, {@spell Reprensión infernal}, {@spell scorching ray}, {@spell nube apestosa}, {@spell wall of fire}",
+								"Great Old One patron: {@spell clarividencia}, {@spell detect thoughts}, {@spell dissonant whispers}, {@spell dominar persona}, {@spell Evard's black tentacles}, {@spell hunger of Hadar}, {@spell phantasmal force}, {@spell sending}, {@spell Tasha's hideous laughter}, {@spell telekinesis}"
 							]
 						}
 					]
@@ -4355,7 +4355,7 @@
 			"hasFluffImages": true,
 			"_versions": [
 				{
-					"name": "Deathlock Mastermind (Archfey Patron)",
+					"name": "Deathlock Mastermind (Patrón feérico)",
 					"source": "MTF",
 					"_mod": {
 						"spellcasting": {
@@ -4380,8 +4380,8 @@
 										"slots": 2,
 										"spells": [
 											"{@spell blink}",
-											"{@spell dominate beast}",
-											"{@spell dominate person}",
+											"{@spell dominar bestia}",
+											"{@spell dominar persona}",
 											"{@spell faerie fire}",
 											"{@spell greater invisibility}",
 											"{@spell hunger of Hadar}",
@@ -4399,7 +4399,7 @@
 					"variant": null
 				},
 				{
-					"name": "Deathlock Mastermind (Fiend Patron)",
+					"name": "Deathlock Mastermind (Patrón infernal)",
 					"source": "MTF",
 					"_mod": {
 						"spellcasting": {
@@ -4429,7 +4429,7 @@
 											"{@spell fire shield}",
 											"{@spell fireball}",
 											"{@spell flame strike}",
-											"{@spell hellish rebuke}",
+											"{@spell Reprensión infernal}",
 											"{@spell scorching ray}",
 											"{@spell nube apestosa}",
 											"{@spell wall of fire}"
@@ -4443,7 +4443,7 @@
 					"variant": null
 				},
 				{
-					"name": "Deathlock Mastermind (Great Old One Patron)",
+					"name": "Deathlock Mastermind (Patrón primigenio)",
 					"source": "MTF",
 					"_mod": {
 						"spellcasting": {
@@ -4467,10 +4467,10 @@
 										"lower": 1,
 										"slots": 2,
 										"spells": [
-											"{@spell clairvoyance}",
+											"{@spell clarividencia}",
 											"{@spell detect thoughts}",
 											"{@spell dissonant whispers}",
-											"{@spell dominate person}",
+											"{@spell dominar persona}",
 											"{@spell Evard's black tentacles}",
 											"{@spell hunger of Hadar}",
 											"{@spell phantasmal force}",
@@ -4513,7 +4513,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4573,8 +4573,8 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell disguise self}",
-						"{@spell mage armor}"
+						"{@spell disfrazarse}",
+						"{@spell armadura de mago}"
 					],
 					"daily": {
 						"1e": [
@@ -4675,7 +4675,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -5191,7 +5191,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -5585,7 +5585,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha"
@@ -5607,7 +5607,7 @@
 						"0": {
 							"spells": [
 								"{@spell chill touch}",
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell mage hand}",
 								"{@spell poison spray}"
 							]
@@ -5786,7 +5786,7 @@
 				15,
 				{
 					"ac": 18,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -5837,7 +5837,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha"
@@ -5862,7 +5862,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell burning hands}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -6087,7 +6087,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha"
@@ -6280,12 +6280,12 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell clairvoyance}",
+							"{@spell clarividencia}",
 							"{@spell darkness}",
 							"{@spell detect thoughts}",
 							"{@spell dispel magic}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)",
+							"{@spell levitar} (self only)",
 							"{@spell suggestion}"
 						]
 					},
@@ -6555,12 +6555,12 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell clairvoyance}",
+							"{@spell clarividencia}",
 							"{@spell darkness}",
 							"{@spell detect thoughts}",
 							"{@spell dispel magic}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)",
+							"{@spell levitar} (self only)",
 							"{@spell suggestion}"
 						]
 					},
@@ -6603,7 +6603,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell bestow curse}",
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell dispel magic}",
 								"{@spell spirit guardians}"
 							]
@@ -6869,7 +6869,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha"
@@ -8308,7 +8308,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -8852,7 +8852,7 @@
 						"3e": [
 							"{@spell confusion}",
 							"{@spell puerta dimensional}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell fear}",
 							"{@spell hallucinatory terrain}",
 							"{@spell inmovilizar monstruo}",
@@ -9415,7 +9415,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -9500,7 +9500,7 @@
 						"Fraz-Urb'luu's spellcasting ability is Charisma (spell save {@dc 23}). Fraz-Urb'luu can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium when changing his appearance)",
+						"{@spell alterar el propio aspecto} (can become Medium when changing his appearance)",
 						"{@spell detect magic}",
 						"{@spell dispel magic}",
 						"{@spell phantasmal force}"
@@ -9515,7 +9515,7 @@
 						],
 						"1e": [
 							"{@spell mirage arcane}",
-							"{@spell modify memory}",
+							"{@spell alterar los recuerdos}",
 							"{@spell project image}"
 						]
 					},
@@ -9783,7 +9783,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -9864,7 +9864,7 @@
 						"Geryon's innate spellcasting ability is Charisma (spell save {@dc 21}). He can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium when changing his appearance)",
+						"{@spell alterar el propio aspecto} (can become Medium when changing his appearance)",
 						"{@spell detect magic}",
 						"{@spell geas}",
 						"{@spell tormenta de hielo}",
@@ -10301,7 +10301,7 @@
 							"spells": [
 								"{@spell blur}",
 								"{@spell invisibility}",
-								"{@spell levitate}"
+								"{@spell levitar}"
 							]
 						},
 						"3": {
@@ -10609,7 +10609,7 @@
 					"daily": {
 						"3e": [
 							"{@spell jump}",
-							"{@spell levitate} (self only)",
+							"{@spell levitar} (self only)",
 							"{@spell paso brumoso}",
 							"{@spell nondetection} (self only)"
 						],
@@ -11039,7 +11039,7 @@
 				14,
 				{
 					"ac": 17,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -11084,9 +11084,9 @@
 						"The gloom weaver's innate spellcasting ability is Charisma (spell save {@dc 16}, {@hit 8} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell arcane eye}",
-						"{@spell mage armor}",
-						"{@spell speak with dead}"
+						"{@spell ojo arcano}",
+						"{@spell armadura de mago}",
+						"{@spell hablar con los muertos}"
 					],
 					"daily": {
 						"1e": [
@@ -11111,14 +11111,14 @@
 								"{@spell minor illusion}",
 								"{@spell prestidigitation}",
 								"{@spell chill touch}",
-								"{@spell eldritch blast}*"
+								"{@spell descarga sobrenatural}*"
 							]
 						},
 						"5": {
 							"lower": 1,
 							"slots": 3,
 							"spells": [
-								"{@spell armor of Agathys}",
+								"{@spell armadura de agathys}",
 								"{@spell blight}",
 								"{@spell darkness}",
 								"{@spell dream}",
@@ -11126,7 +11126,7 @@
 								"{@spell fear}",
 								"{@spell hypnotic pattern}",
 								"{@spell major image}",
-								"{@spell contact other plane}",
+								"{@spell contactar con otro plano}",
 								"{@spell vampiric touch}",
 								"{@spell witch bolt}"
 							]
@@ -11357,7 +11357,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon",
 					"shapechanger"
@@ -11449,7 +11449,7 @@
 						"3e": [
 							"{@spell counterspell}",
 							"{@spell darkness}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell sanctuary}",
 							"{@spell telekinesis}",
 							"{@spell teleport}"
@@ -11596,7 +11596,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -11674,7 +11674,7 @@
 						"The abishai's innate spellcasting ability is Charisma (spell save {@dc 17}). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell major image}"
 					],
 					"daily": {
@@ -11685,7 +11685,7 @@
 						],
 						"1e": [
 							"{@spell confusion}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell mass suggestion}"
 						]
 					},
@@ -11694,7 +11694,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the abishai's darkvision."
 					]
@@ -11743,7 +11743,7 @@
 				"longsword|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance",
 				"Magic Weapons"
 			],
@@ -11965,7 +11965,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"C",
 				"E"
@@ -12100,7 +12100,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -12179,7 +12179,7 @@
 						"Hutijin's innate spellcasting ability is Charisma (spell save {@dc 22}). He can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium when changing his appearance)",
+						"{@spell alterar el propio aspecto} (can become Medium when changing his appearance)",
 						"{@spell animate dead}",
 						"{@spell detect magic}",
 						"{@spell inmovilizar monstruo}",
@@ -12385,7 +12385,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -12529,7 +12529,7 @@
 				{
 					"name": "Steal Memory (1/Day)",
 					"entries": [
-						"The hydroloth targets one creature it can see within 60 feet of it. The target takes {@damage 4d6} psychic damage, and it must make a {@dc 16} Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies, it can't cast spells, it can't understand language, and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A {@spell greater restoration} or {@spell remove curse} spell cast on the target ends this effect early."
+						"The hydroloth targets one creature it can see within 60 feet of it. The target takes {@damage 4d6} psychic damage, and it must make a {@dc 16} Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies, it can't cast spells, it can't understand language, and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A {@spell greater restoration} or {@spell levantar maldición} spell cast on the target ends this effect early."
 					]
 				},
 				{
@@ -12731,7 +12731,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -13583,7 +13583,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -13860,7 +13860,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -13921,7 +13921,7 @@
 			"cr": "4",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the merregon's darkvision."
 					]
@@ -13970,7 +13970,7 @@
 				"heavy crossbow|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -14010,7 +14010,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -14217,7 +14217,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -14297,7 +14297,7 @@
 						"Moloch's innate spellcasting ability is Charisma (spell save {@dc 21}). He can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium when changing his appearance)",
+						"{@spell alterar el propio aspecto} (can become Medium when changing his appearance)",
 						"{@spell animate dead}",
 						"{@spell burning hands} (as a 7th-level spell)",
 						"{@spell confusion}",
@@ -14484,7 +14484,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -14722,7 +14722,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -14994,7 +14994,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell dominate person}",
+								"{@spell dominar persona}",
 								"{@spell dream}",
 								"{@spell geas}"
 							]
@@ -15124,7 +15124,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -15442,7 +15442,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -16170,7 +16170,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -16400,7 +16400,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -16504,7 +16504,7 @@
 				{
 					"name": "Wand of Orcus",
 					"entries": [
-						"The wand has 7 charges, and any of its properties that require a saving throw have a save DC of 18. While holding it, Orcus can use an action to cast {@spell animate dead}, {@spell blight}, or {@spell speak with dead}. Alternatively, he can expend 1 or more of the wand's charges to cast one of the following spells from it: {@spell circle of death} (1 charge), {@spell finger of death} (1 charge), or {@spell Palabra de poder: Matar} (2 charges). The wand regains {@dice 1d4 + 3} charges daily at dawn.",
+						"The wand has 7 charges, and any of its properties that require a saving throw have a save DC of 18. While holding it, Orcus can use an action to cast {@spell animate dead}, {@spell blight}, or {@spell hablar con los muertos}. Alternatively, he can expend 1 or more of the wand's charges to cast one of the following spells from it: {@spell circle of death} (1 charge), {@spell finger of death} (1 charge), or {@spell Palabra de poder: Matar} (2 charges). The wand regains {@dice 1d4 + 3} charges daily at dawn.",
 						"While holding the wand, Orcus can use an action to conjure undead creatures whose combined average hit points don't exceed 500. These undead magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of Orcus and obey his commands until they are destroyed or until he dismisses them as an action. Once this property of the wand is used, the property can't be used again until the next dawn."
 					]
 				},
@@ -16633,7 +16633,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -17023,7 +17023,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -17094,7 +17094,7 @@
 			"cr": "19",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the abishai's darkvision."
 					]
@@ -17168,7 +17168,7 @@
 				"morningstar|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance",
 				"Magic Weapons"
 			],
@@ -17520,7 +17520,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -17923,7 +17923,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -19456,7 +19456,7 @@
 						"The larva mage's innate spellcasting ability is Charisma (spell save {@dc 16}, {@hit 8} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell eldritch blast}*",
+						"{@spell descarga sobrenatural}*",
 						"{@spell minor illusion}"
 					],
 					"daily": {
@@ -21312,7 +21312,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -21394,12 +21394,12 @@
 						"Titivilus's innate spellcasting ability is Charisma (spell save {@dc 21}). He can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell animate dead}",
 						"{@spell bestow curse}",
 						"{@spell confusion}",
 						"{@spell major image}",
-						"{@spell modify memory}",
+						"{@spell alterar los recuerdos}",
 						"{@spell nondetection}",
 						"{@spell sending}",
 						"{@spell suggestion}"
@@ -22161,7 +22161,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -22476,7 +22476,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -22542,7 +22542,7 @@
 			"cr": "6",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the abishai's darkvision."
 					]
@@ -22611,7 +22611,7 @@
 				"longsword|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance",
 				"Magic Weapons",
 				"Reckless"
@@ -22834,7 +22834,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -23060,7 +23060,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -23622,7 +23622,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -23703,7 +23703,7 @@
 						"Zariel's innate spellcasting ability is Charisma (spell save {@dc 26}). She can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self} (can become Medium when changing her appearance)",
+						"{@spell alterar el propio aspecto} (can become Medium when changing her appearance)",
 						"{@spell detect evil and good}",
 						"{@spell fireball}",
 						"{@spell invisibility} (self only)",
@@ -23721,7 +23721,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Zariel's darkvision."
 					]
@@ -23806,7 +23806,7 @@
 				"longsword|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Magic Weapons",
@@ -23895,7 +23895,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]

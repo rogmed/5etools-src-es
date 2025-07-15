@@ -147,7 +147,7 @@ class PageFilterEquipment extends PageFilterBase {
 				switch (item.scfType) {
 					case "arcane": {
 						if (!item._fFocus.includes("Hechicero")) item._fFocus.push("Hechicero");
-						if (!item._fFocus.includes("Warlock")) item._fFocus.push("Warlock");
+						if (!item._fFocus.includes("Brujo")) item._fFocus.push("Brujo");
 						if (!item._fFocus.includes("Mago")) item._fFocus.push("Mago");
 						break;
 					}

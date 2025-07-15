@@ -24,7 +24,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -99,7 +99,7 @@
 			"cr": "22",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Abigor's darkvision."
 					]
@@ -156,7 +156,7 @@
 				"warhammer|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -305,7 +305,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -380,7 +380,7 @@
 			"cr": "10",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the kocrachon's darkvision."
 					]
@@ -425,7 +425,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -769,7 +769,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -867,7 +867,7 @@
 						"{@spell Cure Wounds}",
 						"{@spell Darkness}",
 						"{@spell Restablecimiento menor}",
-						"{@spell Remove Curse}"
+						"{@spell Levantar maldición}"
 					],
 					"daily": {
 						"1e": [
@@ -1053,7 +1053,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -1337,7 +1337,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"swarmSize": "T",
 				"tags": [
 					"devil"
@@ -1424,7 +1424,7 @@
 			"cr": "12",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the ayperobo swarm's darkvision."
 					]
@@ -1465,7 +1465,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -1504,7 +1504,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -1612,7 +1612,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Baalzebul's darkvision."
 					]
@@ -1713,7 +1713,7 @@
 				"source": "CoA"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"
@@ -1891,7 +1891,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -2121,7 +2121,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -2206,7 +2206,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Belial's darkvision."
 					]
@@ -2298,7 +2298,7 @@
 				"ranseur of torture|coa"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"
@@ -2350,7 +2350,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -2427,7 +2427,7 @@
 			"cr": "21",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Adramalech's darkvision."
 					]
@@ -2500,7 +2500,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -2544,7 +2544,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -2626,7 +2626,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Morax's darkvision."
 					]
@@ -2703,7 +2703,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -2747,7 +2747,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -2830,7 +2830,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Buer's darkvision."
 					]
@@ -2905,7 +2905,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -2947,7 +2947,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -3051,7 +3051,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the paeliryon's darkvision."
 					]
@@ -3090,7 +3090,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Keen Senses",
 				"Magic Resistance"
 			],
@@ -3173,7 +3173,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -3327,7 +3327,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -3407,7 +3407,7 @@
 			"cr": "27",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Dispater's darkvision."
 					]
@@ -3503,7 +3503,7 @@
 				"wrought-iron tower|coa"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"
@@ -3550,7 +3550,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -3669,7 +3669,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -4024,7 +4024,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -4141,7 +4141,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -4540,7 +4540,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -5073,7 +5073,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -5144,7 +5144,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the bezekira's darkvision."
 					]
@@ -5171,7 +5171,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"B",
@@ -5443,7 +5443,7 @@
 						"{@spell Gentle Repose}",
 						"{@spell Restablecimiento menor}",
 						"{@spell Protección contra el bien y el mal}",
-						"{@spell Speak with Dead}"
+						"{@spell Hablar con los muertos}"
 					],
 					"daily": {
 						"1e": [
@@ -5703,7 +5703,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -5804,7 +5804,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Levistus's darkvision."
 					]
@@ -5866,7 +5866,7 @@
 				{
 					"name": "Amnesia",
 					"entries": [
-						"Levistus selects a {@condition stunned} creature that he can see. The creature must succeed on a {@dc 23} Charisma saving throw or Levistus erases a specific memory from the target. The memory must be one that the target experienced in the last 24 hours and that lasted no more than 10 minutes. The memory can only be restored with a {@spell Remove Curse} or a {@spell Restablecimiento mayor} spell."
+						"Levistus selects a {@condition stunned} creature that he can see. The creature must succeed on a {@dc 23} Charisma saving throw or Levistus erases a specific memory from the target. The memory must be one that the target experienced in the last 24 hours and that lasted no more than 10 minutes. The memory can only be restored with a {@spell Levantar maldición} or a {@spell Restablecimiento mayor} spell."
 					]
 				},
 				{
@@ -5887,7 +5887,7 @@
 				"source": "CoA"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance"
 			],
@@ -5946,7 +5946,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -6112,7 +6112,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -6192,7 +6192,7 @@
 			"cr": "26",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Mammon's darkvision."
 					]
@@ -6281,7 +6281,7 @@
 				"source": "CoA"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"
@@ -6330,7 +6330,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -6440,7 +6440,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Mephistopheles' darkvision."
 					]
@@ -6535,7 +6535,7 @@
 				"source": "CoA"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Flyby",
 				"Legendary Resistances",
 				"Magic Resistance",
@@ -6737,7 +6737,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"U"
 			],
@@ -6848,7 +6848,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -6926,7 +6926,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the excruciarch's darkvision."
 					]
@@ -6973,7 +6973,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -7090,7 +7090,7 @@
 							"{@spell Dispel Evil and Good}",
 							"{@spell Hallar corcel}",
 							"{@spell Restablecimiento menor}",
-							"{@spell Remove Curse}",
+							"{@spell Levantar maldición}",
 							"{@spell Revivir}",
 							"{@spell Shield of Faith}"
 						]
@@ -7211,7 +7211,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -7293,7 +7293,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Rimmon's darkvision."
 					]
@@ -7332,7 +7332,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -7539,7 +7539,7 @@
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 12} to hit, reach 5ft., one target. {@h}10 ({@damage 1d8 + 6}) slashing damage or 11 ({@damage 1d10 + 6}) if wielded in two hands. The target must succeed on a {@dc 18} Constitution saving throw or be cursed by Bhaal, preventing it from regaining hit points. The curse lasts until removed by the {@spell Remove Curse} spell or similar effect."
+						"{@atk mw} {@hit 12} to hit, reach 5ft., one target. {@h}10 ({@damage 1d8 + 6}) slashing damage or 11 ({@damage 1d10 + 6}) if wielded in two hands. The target must succeed on a {@dc 18} Constitution saving throw or be cursed by Bhaal, preventing it from regaining hit points. The curse lasts until removed by the {@spell Levantar maldición} spell or similar effect."
 					]
 				},
 				{
@@ -7634,7 +7634,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -7764,7 +7764,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				{
 					"special": "host's alignment"
@@ -7828,7 +7828,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the Slayer's darkvision."
 					]
@@ -7856,7 +7856,7 @@
 			],
 			"tokenCredit": "V-OneShot",
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"actionTags": [
@@ -8075,7 +8075,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -8121,7 +8121,7 @@
 					],
 					"will": [
 						"{@spell Perdición}",
-						"{@spell Disguise Self}",
+						"{@spell disfrazarse}",
 						"{@spell Disipar magia}",
 						"{@spell Mage Armor}",
 						"{@spell Imagen múltiple}",
@@ -8135,7 +8135,7 @@
 							"{@spell Charm Person}",
 							"{@spell Contagion}",
 							"{@spell Puerta dimensional}",
-							"{@spell Dominate Person}",
+							"{@spell Dominar persona}",
 							"{@spell Inmovilizar persona}",
 							"{@spell Pass Without Trace}",
 							"{@spell Polymorph}",
@@ -8704,7 +8704,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -8776,7 +8776,7 @@
 			"cr": "16",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the war devil's darkvision."
 					]
@@ -8815,7 +8815,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -8857,7 +8857,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -8941,7 +8941,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Zagum's darkvision."
 					]
@@ -8982,7 +8982,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -9022,7 +9022,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -9103,7 +9103,7 @@
 						"Zariel casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 26}):"
 					],
 					"will": [
-						"{@spell Alter Self} (can become Medium when changing her appearance)",
+						"{@spell Alterar el propio aspecto} (can become Medium when changing her appearance)",
 						"{@spell Detectar el bien y el mal}",
 						"{@spell Bola de fuego}",
 						"{@spell Invisibility} (self only)",
@@ -9123,7 +9123,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Zariel's darkvision."
 					]
@@ -9202,7 +9202,7 @@
 				"longsword|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance",
 				"Regeneration"
@@ -9278,7 +9278,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],

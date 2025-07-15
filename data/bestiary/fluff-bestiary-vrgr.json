@@ -520,7 +520,7 @@
 							"name": "Loup Garou Lycanthropy",
 							"entries": [
 								"A Humanoid who succumbs to a loup garou's lycanthropy becomes a werewolf. This form of lycanthropy can't be removed while the loup garou that inflicted the curse lives. See the {@i Monster Manual} for details on lycanthropy.",
-								"Once a loup garou is slain, a {@spell remove curse} spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a {@dc 17} Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of exhaustion. On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month."
+								"Once a loup garou is slain, a {@spell levantar maldición} spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a {@dc 17} Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of exhaustion. On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month."
 							]
 						}
 					]
@@ -1279,7 +1279,7 @@
 									"caption": "Hex Blast",
 									"colLabels": [
 										"d4",
-										"Hex"
+										"Maleficio"
 									],
 									"colStyles": [
 										"col-2 text-center",

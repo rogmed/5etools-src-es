@@ -1407,7 +1407,7 @@
 						"The inquisitor casts one of the following spells, requiring no components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell arcane eye}",
+						"{@spell ojo arcano}",
 						"{@spell calm emotions}",
 						"{@spell detect magic}",
 						"{@spell detect thoughts}",
@@ -1418,7 +1418,7 @@
 					"daily": {
 						"1e": [
 							"{@spell mass suggestion}",
-							"{@spell modify memory}"
+							"{@spell alterar los recuerdos}"
 						]
 					},
 					"ability": "cha",
@@ -1699,8 +1699,8 @@
 					"will": [
 						"{@spell detect magic}",
 						"{@spell dispel magic}",
-						"{@spell levitate}",
-						"{@spell mage armor}",
+						"{@spell levitar}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}",
 						"{@spell sending}"
 					],
@@ -1879,7 +1879,7 @@
 							"{@spell plane shift} (self only)"
 						],
 						"3e": [
-							"{@spell alter self}",
+							"{@spell alterar el propio aspecto}",
 							"{@spell command}",
 							"{@spell detect magic}"
 						]
@@ -3137,7 +3137,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"ac": [
 				{
 					"ac": 17,
@@ -3296,7 +3296,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"ac": [
 				{
 					"ac": 15,
@@ -4149,7 +4149,7 @@
 							"caption": "Hex Blast",
 							"colLabels": [
 								"d4",
-								"Hex"
+								"Maleficio"
 							],
 							"colStyles": [
 								"col-1 text-center",

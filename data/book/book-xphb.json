@@ -4162,7 +4162,7 @@
 											"High"
 										],
 										[
-											"{@class Warlock|XPHB}",
+											"{@class Brujo|XPHB}",
 											"Occult lore",
 											"Carisma",
 											"High"
@@ -4204,7 +4204,7 @@
 												{
 													"type": "item",
 													"name": "Wizard:",
-													"entry": "Replace with {@class Bardo|XPHB}, {@class Hechicero|XPHB}, or {@class Warlock|XPHB}"
+													"entry": "Replace with {@class Bardo|XPHB}, {@class Hechicero|XPHB}, or {@class Brujo|XPHB}"
 												}
 											]
 										}
@@ -4785,7 +4785,7 @@
 													"15"
 												],
 												[
-													"{@class Warlock|XPHB}",
+													"{@class Brujo|XPHB}",
 													"8",
 													"14",
 													"13",
@@ -5508,7 +5508,7 @@
 															"10 + Con. modifier"
 														],
 														[
-															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Pícaro|XPHB}, or {@class Warlock|XPHB}",
+															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Pícaro|XPHB}, or {@class Brujo|XPHB}",
 															"8 + Con. modifier"
 														],
 														[
@@ -5818,7 +5818,7 @@
 															"6 + Con. modifier"
 														],
 														[
-															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Pícaro|XPHB}, or {@class Warlock|XPHB}",
+															"{@class Bardo|XPHB}, {@class Cleric|XPHB}, {@class Druida|XPHB}, {@class Monje|XPHB}, {@class Pícaro|XPHB}, or {@class Brujo|XPHB}",
 															"5 + Con. modifier"
 														],
 														[
@@ -6047,7 +6047,7 @@
 									"id": "112",
 									"entries": [
 										"If you gain the Extra Attack feature from more than one class, the features don't stack. You can't make more than two attacks with this feature unless you have a feature that says you can (such as the Fighter's Two Extra Attacks feature).",
-										"Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra Attack feature with your pact weapon, doesn't give you additional attacks if you also have Extra Attack."
+										"Similarly, the Warlock's Filo sediento invocation, which grants you the Extra Attack feature with your pact weapon, doesn't give you additional attacks if you also have Extra Attack."
 									]
 								},
 								{
@@ -6364,7 +6364,7 @@
 													]
 												},
 												"Then look up this total level in the Level column of the Multiclass Spellcaster table. You use the slots for that level to cast spells of an appropriate level from any class whose Spellcasting feature you have.",
-												"This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like {@spell Burning Hands|XPHB}, has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.",
+												"This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like {@spell Manos ardientes|XPHB}, has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.",
 												"For example, if you are a level 4 Ranger / level 3 Hechicero, you count as a level 5 character when determining your spell slots, counting all your levels as a Hechicero and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can't prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare\u2014and potentially enhance their effects."
 											]
 										},
@@ -6739,7 +6739,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "{@class Warlock|XPHB}",
+									"name": "{@class Brujo|XPHB}",
 									"page": 152,
 									"entries": [
 										"Cast spells derived from occult knowledge. Then form a pact with the...",
@@ -6747,10 +6747,10 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@class Warlock|XPHB|Archfey Patron|Archfey|XPHB} to teleport and wield fey magic.",
-												"{@class Warlock|XPHB|Celestial Patron|Celestial|XPHB} to heal with heavenly magic.",
-												"{@class Warlock|XPHB|Fiend Patron|Fiend|XPHB} to call on sinister powers.",
-												"{@class Warlock|XPHB|Great Old One Patron|Great Old One|XPHB} to delve into forbidden lore."
+												"{@class Brujo|XPHB|Patrón feérico|Feérico|XPHB} to teleport and wield fey magic.",
+												"{@class Brujo|XPHB|Patrón celestial|Celestial|XPHB} to heal with heavenly magic.",
+												"{@class Brujo|XPHB|Patrón infernal|Infernal|XPHB} to call on sinister powers.",
+												"{@class Brujo|XPHB|Patrón primigenio|Primigenio|XPHB} to delve into forbidden lore."
 											]
 										}
 									],
@@ -12153,7 +12153,7 @@
 											"One"
 										],
 										[
-											"{@class Warlock|XPHB}",
+											"{@class Brujo|XPHB}",
 											"Gain a level",
 											"One"
 										],
@@ -12622,7 +12622,7 @@
 								"{@spell Salpicadura ácida|XPHB}",
 								"{@spell Auxilio|XPHB}",
 								"{@spell Alarma|XPHB}",
-								"{@spell Alter Self|XPHB}",
+								"{@spell Alterar el propio aspecto|XPHB}",
 								"{@spell Encantar animal|XPHB}",
 								"{@spell Mensajero animal|XPHB}",
 								"{@spell Animal Shapes|XPHB}",
@@ -12635,7 +12635,7 @@
 								"{@spell Arcane Gate|XPHB}",
 								"{@spell Cerradura arcana|XPHB}",
 								"{@spell Arcane Vigor|XPHB}",
-								"{@spell Armor of Agathys|XPHB}",
+								"{@spell Armadura de Agathys|XPHB}",
 								"{@spell Brazos de Hadar|XPHB}",
 								"{@spell Astral Projection|XPHB}",
 								"{@spell Augury|XPHB}",
@@ -12665,9 +12665,9 @@
 								"{@spell Marchitar|XPHB}",
 								"{@spell Blinding Smite|XPHB}",
 								"{@spell Sordera/ceguera|XPHB}",
-								"{@spell Blink|XPHB}",
+								"{@spell desplazamiento|XPHB}",
 								"{@spell Contorno borroso|XPHB}",
-								"{@spell Burning Hands|XPHB}"
+								"{@spell Manos ardientes|XPHB}"
 							]
 						},
 						{
@@ -12684,7 +12684,7 @@
 								"{@spell Orbe cromático|XPHB}",
 								"{@spell Circle of Death|XPHB}",
 								"{@spell Circle of Power|XPHB}",
-								"{@spell Clairvoyance|XPHB}",
+								"{@spell Clarividencia|XPHB}",
 								"{@spell Clone|XPHB}",
 								"{@spell Nube de dagas|XPHB}",
 								"{@spell Cloudkill|XPHB}",
@@ -12696,7 +12696,7 @@
 								"{@spell Comprehend Languages|XPHB}",
 								"{@spell Compulsión|XPHB}",
 								"{@spell Cono de frío|XPHB}",
-								"{@spell Confusion|XPHB}",
+								"{@spell confusión|XPHB}",
 								"{@spell Conjurar animales|XPHB}",
 								"{@spell Conjure Barrage|XPHB}",
 								"{@spell Conjure Celestial|XPHB}",
@@ -12705,7 +12705,7 @@
 								"{@spell Conjure Minor Elementals|XPHB}",
 								"{@spell Conjure Volley|XPHB}",
 								"{@spell Conjure Woodland Beings|XPHB}",
-								"{@spell Contact Other Plane|XPHB}",
+								"{@spell Contactar con otro plano|XPHB}",
 								"{@spell Contagion|XPHB}",
 								"{@spell Contingency|XPHB}",
 								"{@spell Continual Flame|XPHB}",
@@ -12740,7 +12740,7 @@
 								"{@spell Detectar venenos y enfermedades|XPHB}",
 								"{@spell Detectar pensamientos|XPHB}",
 								"{@spell Puerta dimensional|XPHB}",
-								"{@spell Disguise Self|XPHB}",
+								"{@spell disfrazarse|XPHB}",
 								"{@spell Disintegrate|XPHB}",
 								"{@spell Dispel Evil and Good|XPHB}",
 								"{@spell Disipar magia|XPHB}",
@@ -12749,9 +12749,9 @@
 								"{@spell Favor divino|XPHB}",
 								"{@spell Castigo divino|XPHB}",
 								"{@spell Divine Word|XPHB}",
-								"{@spell Dominate Beast|XPHB}",
+								"{@spell Dominar bestia|XPHB}",
 								"{@spell Dominate Monster|XPHB}",
-								"{@spell Dominate Person|XPHB}",
+								"{@spell Dominar persona|XPHB}",
 								"{@spell Dragon's Breath|XPHB}",
 								"{@spell Drawmij's Instant Summons|XPHB}",
 								"{@spell Dream|XPHB}",
@@ -12764,7 +12764,7 @@
 							"columns": 3,
 							"items": [
 								"{@spell Earthquake|XPHB}",
-								"{@spell Eldritch Blast|XPHB}",
+								"{@spell Descarga sobrenatural|XPHB}",
 								"{@spell Elemental Weapon|XPHB}",
 								"{@spell Elementalismo|XPHB}",
 								"{@spell Potenciar característica|XPHB}",
@@ -12850,10 +12850,10 @@
 								"{@spell Heal|XPHB}",
 								"{@spell Palabra de curación|XPHB}",
 								"{@spell Calentar metal|XPHB}",
-								"{@spell Hellish Rebuke|XPHB}",
+								"{@spell Reprensión infernal|XPHB}",
 								"{@spell Heroes' Feast|XPHB}",
 								"{@spell Heroísmo|XPHB}",
-								"{@spell Hex|XPHB}",
+								"{@spell maleficio|XPHB}",
 								"{@spell Inmovilizar monstruo|XPHB}",
 								"{@spell Inmovilizar persona|XPHB}",
 								"{@spell Holy Aura|XPHB}",
@@ -12904,8 +12904,8 @@
 								"{@spell Leomund's Secret Chest|XPHB}",
 								"{@spell Leomund's Tiny Hut|XPHB}",
 								"{@spell Restablecimiento menor|XPHB}",
-								"{@spell Levitate|XPHB}",
-								"{@spell Light|XPHB}",
+								"{@spell Levitar|XPHB}",
+								"{@spell Luz|XPHB}",
 								"{@spell Lightning Arrow|XPHB}",
 								"{@spell Relámpago|XPHB}",
 								"{@spell Localizar animales o plantas|XPHB}",
@@ -12945,7 +12945,7 @@
 								"{@spell Imagen múltiple|XPHB}",
 								"{@spell Engañar|XPHB}",
 								"{@spell Paso brumoso|XPHB}",
-								"{@spell Modify Memory|XPHB}",
+								"{@spell Alterar los recuerdos|XPHB}",
 								"{@spell Rayo de luna|XPHB}",
 								"{@spell Mordenkainen's Faithful Hound|XPHB}",
 								"{@spell Mordenkainen's Magnificent Mansion|XPHB}",
@@ -13018,7 +13018,7 @@
 								"{@spell Rayo nauseabundo|XPHB}",
 								"{@spell Regenerate|XPHB}",
 								"{@spell Reincarnate|XPHB}",
-								"{@spell Remove Curse|XPHB}",
+								"{@spell Levantar maldición|XPHB}",
 								"{@spell Resistencia|XPHB}",
 								"{@spell Resurrection|XPHB}",
 								"{@spell Reverse Gravity|XPHB}",
@@ -13048,7 +13048,7 @@
 								"{@spell Shining Smite|XPHB}",
 								"{@spell Agarre electrizante|XPHB}",
 								"{@spell Silencio|XPHB}",
-								"{@spell Silent Image|XPHB}",
+								"{@spell imagen silenciosa|XPHB}",
 								"{@spell Simulacrum|XPHB}",
 								"{@spell Dormir|XPHB}",
 								"{@spell Tormenta de aguanieve|XPHB}",
@@ -13056,7 +13056,7 @@
 								"{@spell Estallido mágico|XPHB}",
 								"{@spell Piedad con los moribundos|XPHB}",
 								"{@spell Hablar con los animales|XPHB}",
-								"{@spell Speak with Dead|XPHB}",
+								"{@spell Hablar con los muertos|XPHB}",
 								"{@spell Speak with Plants|XPHB}",
 								"{@spell Spider Climb|XPHB}",
 								"{@spell Spike Growth|XPHB}",
@@ -13072,7 +13072,7 @@
 								"{@spell Sugestión|XPHB}",
 								"{@spell Invocar aberración|XPHB}",
 								"{@spell Invocar bestia|XPHB}",
-								"{@spell Summon Celestial|XPHB}",
+								"{@spell Invocar celestial|XPHB}",
 								"{@spell Summon Construct|XPHB}",
 								"{@spell Summon Dragon|XPHB}",
 								"{@spell Summon Elemental|XPHB}",

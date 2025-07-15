@@ -3863,7 +3863,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -3908,9 +3908,9 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell fog cloud}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell witch bolt}"
 							]
 						},
@@ -5229,7 +5229,7 @@
 								"{@spell charm person}",
 								"{@spell color spray}",
 								"{@spell magic missile}",
-								"{@spell silent image}"
+								"{@spell imagen silenciosa}"
 							]
 						},
 						"2": {

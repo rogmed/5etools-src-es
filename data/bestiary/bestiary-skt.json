@@ -3208,7 +3208,7 @@
 					"will": [
 						"{@spell detect magic}",
 						"{@spell feather fall}",
-						"{@spell levitate}",
+						"{@spell levitar}",
 						"{@spell light}"
 					],
 					"daily": {
@@ -4342,7 +4342,7 @@
 				10,
 				{
 					"ac": 13,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4384,7 +4384,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell magic missile}",
 							"{@spell suggestion}"
 						]
@@ -4487,7 +4487,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell levitate}",
+						"{@spell levitar}",
 						"{@spell light}"
 					],
 					"daily": {
@@ -4773,7 +4773,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell levitate}",
+						"{@spell levitar}",
 						"{@spell light}"
 					],
 					"daily": {
@@ -4872,7 +4872,7 @@
 				10,
 				{
 					"ac": 13,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4912,7 +4912,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell ola atronadora}",
 							"{@spell witch bolt}"
 						]
@@ -5064,7 +5064,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -5401,7 +5401,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell levitate}",
+						"{@spell levitar}",
 						"{@spell light}"
 					],
 					"daily": {
@@ -6043,7 +6043,7 @@
 							"{@spell tormenta de hielo}"
 						],
 						"1e": [
-							"{@spell arcane eye}",
+							"{@spell ojo arcano}",
 							"{@spell chain lightning}",
 							"{@spell feeblemind}",
 							"{@spell foresight}",
@@ -7116,7 +7116,7 @@
 							"{@spell bestow curse}",
 							"{@spell cordon of arrows}",
 							"{@spell detect magic}",
-							"{@spell speak with dead}",
+							"{@spell hablar con los muertos}",
 							"{@spell spirit guardians}"
 						]
 					},
@@ -7409,7 +7409,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell levitate}",
+						"{@spell levitar}",
 						"{@spell light}"
 					],
 					"daily": {
@@ -8020,12 +8020,12 @@
 					"daily": {
 						"2e": [
 							"{@spell ráfaga de viento}",
-							"{@spell levitate}",
+							"{@spell levitar}",
 							"{@spell magic missile}"
 						],
 						"1e": [
 							"{@spell cono de frío}",
-							"{@spell contact other plane} (cast as 1 action)",
+							"{@spell contactar con otro plano} (cast as 1 action)",
 							"{@spell greater invisibility}",
 							"{@spell mass suggestion}",
 							"{@spell nondetection}",

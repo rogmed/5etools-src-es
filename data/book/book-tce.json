@@ -1459,7 +1459,7 @@
 												"1st level: {@spell Entangle}, {@spell castigo abrasador}",
 												"2nd level: {@spell Auxilio}, {@spell Enhance ability}, {@spell Gust of wind}, {@spell Magic weapon}, {@spell Summon beast|TCE}*",
 												"3rd level: {@spell Elemental weapon}, {@spell Meld into stone}, {@spell Revivir}, {@spell Summon fey|TCE}*",
-												"4th level: {@spell Dominate beast}, {@spell Summon elemental|TCE}*",
+												"4th level: {@spell dominar bestia}, {@spell Summon elemental|TCE}*",
 												"5th level: {@spell Greater restoration}"
 											]
 										}
@@ -1734,7 +1734,7 @@
 				},
 				{
 					"type": "section",
-					"name": "Warlock",
+					"name": "Brujo",
 					"page": 70,
 					"id": "19d",
 					"entries": [
@@ -1780,7 +1780,7 @@
 										"{@optfeature Pact of the Talisman|TCE}"
 									]
 								},
-								"{@classFeature Eldritch Versatility|Warlock|PHB|4|TCE} ({@i 4th-level warlock feature})",
+								"{@classFeature Eldritch Versatility|Brujo|PHB|4|TCE} ({@i 4th-level warlock feature})",
 								{
 									"type": "entries",
 									"name": "Eldritch Invocation Options",
@@ -1793,10 +1793,10 @@
 											"columns": 3,
 											"items": [
 												"{@optfeature Bond of the Talisman|TCE}",
-												"{@optfeature Eldritch Mind|TCE}",
+												"{@optfeature Mente sobrenatural|TCE}",
 												"{@optfeature Far Scribe|TCE}",
-												"{@optfeature Gift of the Protectors|TCE}",
-												"{@optfeature Investment of the Chain Master|TCE}",
+												"{@optfeature Don de los protectores|TCE}",
+												"{@optfeature Inversión del amo de las cadenas|TCE}",
 												"{@optfeature Protection of the Talisman|TCE}",
 												"{@optfeature Rebuke of the Talisman|TCE}",
 												"{@optfeature Undying Servitude|TCE}"
@@ -1817,8 +1817,8 @@
 									"type": "list",
 									"columns": 2,
 									"items": [
-										"{@class Warlock|phb|The Fathomless|Fathomless|TCE}",
-										"{@class Warlock|phb|The Genie|Genie|TCE}"
+										"{@class Brujo|phb|The Fathomless|Fathomless|TCE}",
+										"{@class Brujo|phb|The Genie|Genie|TCE}"
 									]
 								}
 							]
@@ -4430,7 +4430,7 @@
 								],
 								[
 									"5th",
-									"{@spell Summon Celestial|TCE}",
+									"{@spell Invocar celestial|TCE}",
 									"Conjuration",
 									"Yes",
 									"No",
@@ -5363,7 +5363,7 @@
 											"{@skill Arcana} or {@skill Nature}"
 										],
 										[
-											"Fiend",
+											"Infernal",
 											"{@skill Arcana} or {@skill Religion}"
 										],
 										[
@@ -6054,7 +6054,7 @@
 												],
 												[
 													"80\u201385",
-													"Natural features and structures in this region writhe to spell out words and form strange symbols. Any creature that tries to read the messages must make a {@dc 20} Intelligence ({@skill Arcana}) check. On a success, the creature gains insight as if it had cast the {@spell contact other plane} spell. On a failure, the creature is affected as if it failed a saving throw against the {@spell confusion} spell. This effect ends at the end of the creature's next turn."
+													"Natural features and structures in this region writhe to spell out words and form strange symbols. Any creature that tries to read the messages must make a {@dc 20} Intelligence ({@skill Arcana}) check. On a success, the creature gains insight as if it had cast the {@spell contactar con otro plano} spell. On a failure, the creature is affected as if it failed a saving throw against the {@spell confusion} spell. This effect ends at the end of the creature's next turn."
 												],
 												[
 													"86\u201390",
@@ -6147,7 +6147,7 @@
 												],
 												[
 													"41\u201345",
-													"One random creature in the region is targeted by the {@spell levitate} spell (save {@dc 15}) for 1 minute."
+													"One random creature in the region is targeted by the {@spell levitar} spell (save {@dc 15}) for 1 minute."
 												],
 												[
 													"46\u201350",
@@ -6909,7 +6909,7 @@
 												],
 												[
 													"4",
-													"Vocally, the creature can only cluck and croon like a chicken. The creature can also understand and speak to chickens. This curse lasts for 1 hour unless ended by a {@spell remove curse} spell or similar magic."
+													"Vocally, the creature can only cluck and croon like a chicken. The creature can also understand and speak to chickens. This curse lasts for 1 hour unless ended by a {@spell levantar maldición} spell or similar magic."
 												],
 												[
 													"5",

@@ -1501,14 +1501,14 @@
 						},
 						{
 							"type": "entries",
-							"name": "Warlock",
+							"name": "Brujo",
 							"page": 25,
 							"entries": [
 								"In a handful of guilds, service to a powerful individual is common among warlocks. Warlocks are most often found in the Cult of Rakdos and the Selesnya Conclave.",
 								"Members of any guild who delve too deeply into forbidden secrets\u2014perhaps at the behest of their guilds' leaders, or sometimes in defiance of them\u2014might unearth lore regarding the \"old gods\" of Ravnica. These mysterious beings, called the Nephilim, grant warlocks the mysterious and maddening powers of the Great Old One.",
 								{
 									"type": "table",
-									"caption": "Warlock",
+									"caption": "Brujo",
 									"colStyles": [
 										"col-6",
 										"col-6"
@@ -1519,19 +1519,19 @@
 									],
 									"rows": [
 										[
-											"{@class Warlock||The Archfey|Archfey}",
+											"{@class Brujo||The Archfey|Archfey}",
 											"Selesnya"
 										],
 										[
-											"{@class Warlock||The Celestial|Celestial|XGE}*",
+											"{@class Brujo||The Celestial|Celestial|XGE}*",
 											"Boros"
 										],
 										[
-											"{@class Warlock||The Fiend|Fiend}",
+											"{@class Brujo||The Fiend|Fiend}",
 											"{@creature Rakdos|GGR}"
 										],
 										[
-											"{@class Warlock||The Great Old One|Great Old One}",
+											"{@class Brujo||The Great Old One|Great Old One}",
 											"Any"
 										]
 									],
@@ -4931,7 +4931,7 @@
 									"name": "Duskmantle",
 									"page": 102,
 									"entries": [
-										"The Dimir guildhall is protected by memory wards (glyphs of warding that store {@spell modify memory} spells) to ensure that few know of its existence. Those who are called there never remember what transpired, beyond what is necessary. Most assume that the place lies somewhere within Nightveil, but it could lie anywhere in the undercity."
+										"The Dimir guildhall is protected by memory wards (glyphs of warding that store {@spell alterar los recuerdos} spells) to ensure that few know of its existence. Those who are called there never remember what transpired, beyond what is necessary. Most assume that the place lies somewhere within Nightveil, but it could lie anywhere in the undercity."
 									],
 									"id": "0ef"
 								},
@@ -11271,9 +11271,9 @@
 												"Cantrips (at will): {@spell friends}, {@spell mano de mago}, {@spell message}",
 												"1st level (4 slots): {@spell command}, {@spell golpe apresador}, {@spell shield}",
 												"2nd level (3 slots): {@spell calm emotions}, {@spell inmovilizar persona}, {@spell suggestion}",
-												"3rd level (3 slots): {@spell clairvoyance}, {@spell counterspell}, {@spell dispel magic}",
+												"3rd level (3 slots): {@spell clarividencia}, {@spell counterspell}, {@spell dispel magic}",
 												"4th level (3 slots): {@spell banishment}, {@spell divination}",
-												"5th level (1 slot): {@spell dominate person}"
+												"5th level (1 slot): {@spell dominar persona}"
 											]
 										},
 										{

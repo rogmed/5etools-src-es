@@ -145,7 +145,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -188,8 +188,8 @@
 							"{@spell Puerta dimensional}"
 						],
 						"1e": [
-							"{@spell Disguise Self}",
-							"{@spell Levitate}",
+							"{@spell disfrazarse}",
+							"{@spell Levitar}",
 							"{@spell Mage Armor}"
 						]
 					},

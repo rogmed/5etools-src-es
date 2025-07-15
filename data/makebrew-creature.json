@@ -277,7 +277,7 @@
 			]
 		},
 		{
-			"name": "Devil's Sight",
+			"name": "Visión del diablo",
 			"source": "MM",
 			"entries": [
 				"Magical darkness doesn't impede <$short_name$>'s darkvision."
@@ -1733,7 +1733,7 @@
 			"name": "Claw (Rakshasa)",
 			"source": "MM",
 			"entries": [
-				"{@atk mw} {@hit <$to_hit__str$>} to hit, reach 5 ft., one target. {@h}<$damage_avg__7+str$> ({@damage 2d6<$damage_mod__str$>}) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a {@spell remove curse} spell or similar magic."
+				"{@atk mw} {@hit <$to_hit__str$>} to hit, reach 5 ft., one target. {@h}<$damage_avg__7+str$> ({@damage 2d6<$damage_mod__str$>}) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a {@spell levantar maldición} spell or similar magic."
 			]
 		},
 		{
@@ -2118,7 +2118,7 @@
 			"name": "Rotting Fist (Mummy Lord)",
 			"source": "MM",
 			"entries": [
-				"{@atk mw} {@hit <$to_hit__str$>} to hit, reach 5 ft., one target. {@h}<$damage_avg__12+str$> ({@damage 3d6<$damage_mod__str$>}) bludgeoning damage plus 21 ({@damage 6d6}) necrotic damage. If the target is a creature, it must succeed on a DC <$dc__con$> saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell remove curse} spell or other magic."
+				"{@atk mw} {@hit <$to_hit__str$>} to hit, reach 5 ft., one target. {@h}<$damage_avg__12+str$> ({@damage 3d6<$damage_mod__str$>}) bludgeoning damage plus 21 ({@damage 6d6}) necrotic damage. If the target is a creature, it must succeed on a DC <$dc__con$> saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell levantar maldición} spell or other magic."
 			]
 		},
 		{

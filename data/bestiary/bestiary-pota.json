@@ -41,7 +41,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -99,7 +99,7 @@
 							"spells": [
 								"{@spell charm person}",
 								"{@spell feather fall}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell ola atronadora}"
 							]
 						},
@@ -263,7 +263,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -332,7 +332,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -1655,7 +1655,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -1708,7 +1708,7 @@
 							"spells": [
 								"{@spell burning hands}",
 								"{@spell expeditious retreat}",
-								"{@spell mage armor}"
+								"{@spell armadura de mago}"
 							]
 						},
 						"2": {
@@ -1791,7 +1791,7 @@
 				10,
 				{
 					"ac": 13,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -1830,7 +1830,7 @@
 						"0": {
 							"spells": [
 								"{@spell chill touch}",
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell mage hand}"
 							]
 						},
@@ -1838,7 +1838,7 @@
 							"lower": 1,
 							"slots": 2,
 							"spells": [
-								"{@spell armor of Agathys}",
+								"{@spell armadura de agathys}",
 								"{@spell expeditious retreat}",
 								"{@spell hex}",
 								"{@spell invisibility}",
@@ -1860,7 +1860,7 @@
 				{
 					"name": "Olhydra's Armor (Human Form Only)",
 					"entries": [
-						"The fathomer can cast {@spell mage armor} at will, without expending material components."
+						"The fathomer can cast {@spell armadura de mago} at will, without expending material components."
 					]
 				}
 			],
@@ -2127,7 +2127,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2179,7 +2179,7 @@
 							"spells": [
 								"{@spell burning hands}",
 								"{@spell color spray}",
-								"{@spell mage armor}"
+								"{@spell armadura de mago}"
 							]
 						},
 						"2": {
@@ -3445,7 +3445,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -3685,7 +3685,7 @@
 				10,
 				{
 					"ac": 13,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -3747,7 +3747,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell chromatic orb}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}"
 							]
 						},
@@ -4392,7 +4392,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4440,7 +4440,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell fog cloud}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell ola atronadora}"
 							]
 						},
@@ -4541,7 +4541,7 @@
 				11,
 				{
 					"ac": 14,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4592,7 +4592,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell false life}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell rayo nauseabundo}"
 							]
@@ -5101,7 +5101,7 @@
 				10,
 				{
 					"ac": 13,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -5170,8 +5170,8 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell disguise self}",
-								"{@spell mage armor}",
+								"{@spell disfrazarse}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}"
 							]
 						},
@@ -5266,7 +5266,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -5314,7 +5314,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell feather fall}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell witch bolt}"
 							]
 						},
@@ -5627,7 +5627,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell levitate}",
+								"{@spell levitar}",
 								"{@spell paso brumoso}"
 							]
 						},
@@ -5810,7 +5810,7 @@
 							"spells": [
 								"{@spell burning hands}",
 								"{@spell chromatic orb}",
-								"{@spell hellish rebuke}",
+								"{@spell Reprensión infernal}",
 								"{@spell shield}"
 							]
 						},
@@ -5840,7 +5840,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell dominate person}"
+								"{@spell dominar persona}"
 							]
 						}
 					},
@@ -6149,7 +6149,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell dissonant whispers}",
 								"{@spell ola atronadora}"
 							]

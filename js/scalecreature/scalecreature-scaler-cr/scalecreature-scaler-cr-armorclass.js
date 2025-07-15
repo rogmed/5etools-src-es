@@ -126,7 +126,7 @@ export class CrScalerArmorClass extends CrScalerBase {
 		"leather armor": 11,
 		"studded leather armor": 12,
 	};
-	_MAGE_ARMOR = "@spell mage armor";
+	_MAGE_ARMOR = "@spell armadura de mago";
 
 	_ALL_SHIELD_VARIANTS = null;
 	_ALL_HEAVY_VARIANTS = null;
@@ -164,7 +164,7 @@ export class CrScalerArmorClass extends CrScalerBase {
 
 		if (originalDexMod === currentDexMod) return;
 
-		// Handle mage armor, light armor, and medium armor.
+		// Handle armadura de mago, light armor, and medium armor.
 		//   Note that natural armor and "unarmored" also include DEX, but these are handled in the main loop.
 
 		if (this._isMageArmor(acItem)) {
@@ -398,7 +398,7 @@ export class CrScalerArmorClass extends CrScalerBase {
 		// "FROM" ADJUSTERS ========================================================================================
 
 		const handleMageArmor = () => {
-			// if there's mage armor, try adjusting dex
+			// if there's armadura de mago, try adjusting dex
 			if (this._isMageArmor(acItem)) {
 				if (canAdjustDex) {
 					acItem.ac = target;

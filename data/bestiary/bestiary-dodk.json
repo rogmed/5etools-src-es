@@ -1648,7 +1648,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell ola atronadora}"
 							]
@@ -1657,7 +1657,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell detect thoughts}",
-								"{@spell levitate}",
+								"{@spell levitar}",
 								"{@spell shatter}"
 							]
 						},
@@ -1948,7 +1948,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2862,7 +2862,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2906,7 +2906,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell false life}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}"
 							]
 						},
@@ -3891,7 +3891,7 @@
 							"spells": [
 								"{@spell dispel magic}",
 								"{@spell sending}",
-								"{@spell speak with dead}",
+								"{@spell hablar con los muertos}",
 								"{@spell spirit guardians}"
 							]
 						},
@@ -4341,7 +4341,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4397,7 +4397,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell false life}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -4497,7 +4497,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4577,7 +4577,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell delerium orb|DoDk}*",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -4869,7 +4869,7 @@
 					"ac": 23,
 					"from": [
 						"canny defense",
-						"{@spell mage armor}"
+						"{@spell armadura de mago}"
 					]
 				}
 			],
@@ -4923,7 +4923,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell suggestion}"
 					],
 					"ability": "int"
@@ -4948,7 +4948,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell feather fall}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell shield}",
 								"{@spell sleep}"
 							]
@@ -4980,7 +4980,7 @@
 						"5": {
 							"slots": 3,
 							"spells": [
-								"{@spell dominate person}",
+								"{@spell dominar persona}",
 								"{@spell scrying}",
 								"{@spell seeming}"
 							]
@@ -5619,7 +5619,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell charm person}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell sleep}"
 							]
 						},
@@ -6126,7 +6126,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -6165,8 +6165,8 @@
 						"The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save {@dc 12}, {@hit 4} to hit with spell attacks), requiring no material components:"
 					],
 					"will": [
-						"{@spell eldritch blast} (2 beams)",
-						"{@spell mage armor} (self only)",
+						"{@spell descarga sobrenatural} (2 beams)",
+						"{@spell armadura de mago} (self only)",
 						"{@spell minor illusion}",
 						"{@spell thaumaturgy}"
 					],

@@ -1011,7 +1011,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -1200,7 +1200,7 @@
 			"size": [
 				"H"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"C",
 				"E"
@@ -1972,7 +1972,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"C",
 				"E"
@@ -2220,7 +2220,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2269,11 +2269,11 @@
 						"The downcast apostate's spellcasting ability is Charisma. The apostate can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell detect magic}",
 						"{@spell invisibility}",
 						"{@spell jump}",
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell thaumaturgy}"
 					],
 					"ability": "cha"
@@ -2598,7 +2598,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell contact other plane}",
+								"{@spell contactar con otro plano}",
 								"{@spell contagion}",
 								"{@spell dream}"
 							]
@@ -2742,7 +2742,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell light}",
 								"{@spell sacred flame}",
 								"{@spell thaumaturgy}"
@@ -4401,7 +4401,7 @@
 							"{@spell silence}"
 						],
 						"1e": [
-							"{@spell levitate}",
+							"{@spell levitar}",
 							"{@spell tongues}"
 						]
 					},
@@ -4610,7 +4610,7 @@
 				14,
 				{
 					"ac": 18,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4687,9 +4687,9 @@
 						"The widow's spellcasting ability is Charisma (spell save {@dc 20}, {@hit 12} to hit with spell attacks). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell eldritch blast} (four beams)",
+						"{@spell descarga sobrenatural} (four beams)",
 						"{@spell expeditious retreat} *",
-						"{@spell mage armor} *",
+						"{@spell armadura de mago} *",
 						"{@spell mage hand}"
 					],
 					"daily": {
@@ -4772,9 +4772,9 @@
 			],
 			"legendary": [
 				{
-					"name": "Eldritch Blast",
+					"name": "Descarga sobrenatural",
 					"entries": [
-						"The widow casts {@spell eldritch blast}."
+						"The widow casts {@spell descarga sobrenatural}."
 					]
 				},
 				{
@@ -5045,7 +5045,7 @@
 				"type": "humanoide",
 				"tags": [
 					"any race",
-					"fiend"
+					"infernal"
 				]
 			},
 			"alignment": [
@@ -5342,7 +5342,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -6210,7 +6210,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -6311,7 +6311,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -6422,7 +6422,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -6523,7 +6523,7 @@
 			"size": [
 				"T"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -6605,7 +6605,7 @@
 				{
 					"name": "Creeping Corruption",
 					"entries": [
-						"Creatures within 30 ft. that the Malikirian imp can see must make a {@dc 12} Charisma saving throw at the start of their turn. On a failure, the creature acts in accordance with its most selfish, venal, and ruthless impulses to the best of its ability. After 24 hours, the creature must make another Charisma saving throw, ending the compulsión on a success. Failure indicates the compulsión lasts indefinitely until the affected is subject to remove curse or similar magic. Creatures that cannot be {@condition charmed} are immune to this effect."
+						"Creatures within 30 ft. that the Malikirian imp can see must make a {@dc 12} Charisma saving throw at the start of their turn. On a failure, the creature acts in accordance with its most selfish, venal, and ruthless impulses to the best of its ability. After 24 hours, the creature must make another Charisma saving throw, ending the compulsión on a success. Failure indicates the compulsión lasts indefinitely until the affected is subject to levantar maldición or similar magic. Creatures that cannot be {@condition charmed} are immune to this effect."
 					]
 				},
 				{
@@ -10990,7 +10990,7 @@
 				{
 					"name": "Vitebriance",
 					"entries": [
-						"While on the same plane of existence as a person {@condition charmed} by the vitebriate's Dominate Person action, the vitebriate may leech 1 hp per day permanently from the thrall. When a thrall is reduced to 0 hp through this process, it is killed. Drained hit points are regained after 7 days of rest."
+						"While on the same plane of existence as a person {@condition charmed} by the vitebriate's Dominar persona action, the vitebriate may leech 1 hp per day permanently from the thrall. When a thrall is reduced to 0 hp through this process, it is killed. Drained hit points are regained after 7 days of rest."
 					]
 				}
 			],
@@ -11008,9 +11008,9 @@
 					]
 				},
 				{
-					"name": "Dominate Person",
+					"name": "Dominar persona",
 					"entries": [
-						"A vitebriate can target a single humanoid with dominate person as the spell, with the following differences: once the vitebriate has chosen the target, it can use this ability only on the chosen target (until the next day when it can choose a different target and drop the focus on the current target). The spell does not require {@status concentration} but is broken if the vitebriate is knocked {@condition unconscious} involuntarily or killed (though not if it trances or sleeps). If the person has been {@condition charmed} for at least an hour, damage does not force a new saving throw."
+						"A vitebriate can target a single humanoid with dominar persona as the spell, with the following differences: once the vitebriate has chosen the target, it can use this ability only on the chosen target (until the next day when it can choose a different target and drop the focus on the current target). The spell does not require {@status concentration} but is broken if the vitebriate is knocked {@condition unconscious} involuntarily or killed (though not if it trances or sleeps). If the person has been {@condition charmed} for at least an hour, damage does not force a new saving throw."
 					]
 				}
 			],

@@ -1252,7 +1252,7 @@
 							"type": "entries",
 							"entries": [
 								"One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.",
-								"A beholder's spheroid body levitates at all times, and its great bulging eye sits above a wide, toothy maw, while the smaller eyestalks that crown its body twist and turn to keep its foes in sight. When a beholder sleeps, it closes its central eye but leaves its smaller eyes open and alert.",
+								"A beholder's spheroid body levitars at all times, and its great bulging eye sits above a wide, toothy maw, while the smaller eyestalks that crown its body twist and turn to keep its foes in sight. When a beholder sleeps, it closes its central eye but leaves its smaller eyes open and alert.",
 								{
 									"name": "Xenophobic Isolationists",
 									"type": "entries",
@@ -5459,7 +5459,7 @@
 									"name": "Eldritch Rejuvenation",
 									"type": "entries",
 									"entries": [
-										"A flameskull's shattered fragments reform unless they are splashed with Agua bendita or subjected to a {@spell dispel magic} or {@spell remove curse} spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous."
+										"A flameskull's shattered fragments reform unless they are splashed with Agua bendita or subjected to a {@spell dispel magic} or {@spell levantar maldición} spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous."
 									]
 								},
 								{
@@ -7875,7 +7875,7 @@
 																"2nd level (3 slots): {@spell inmovilizar persona}, {@spell locate object}",
 																"3rd level (3 slots): {@spell bestow curse}, {@spell counterspell}, {@spell relámpago}",
 																"4th level (3 slots): {@spell phantasmal killer}, {@spell polymorph}",
-																"5th level (2 slots): {@spell contact other plane}, {@spell scrying}",
+																"5th level (2 slots): {@spell contactar con otro plano}, {@spell scrying}",
 																"6th level (1 slot): {@spell eyebite}"
 															]
 														},
@@ -9634,7 +9634,7 @@
 									"type": "entries",
 									"name": "Curse of Lycanthropy",
 									"entries": [
-										"A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A {@spell remove curse} spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.",
+										"A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A {@spell levantar maldición} spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.",
 										"A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form-or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams.",
 										"Some individuals see little point in fighting the curse and accept what they are. With time and experience, they learn to master their shapechanging ability and can assume beast form or hybrid form at will. Most lycanthropes that embrace their bestial natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak."
 									]

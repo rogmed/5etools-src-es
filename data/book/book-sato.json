@@ -3157,7 +3157,7 @@
 									"id": "0b2",
 									"entries": [
 										"Along the banks of the Ditch (detailed below), a fire-gutted building conceals a gaping hole into the ground with a single ladder leading down into darkness. Here lies the Bones of the Night, a cavern complex home to the Master of Bones: Lothar the Old (neutral, human {@creature priest}). From the catacombs of {@book Undersigil|SatO|2|Undersigil} (detailed later in this chapter), Lothar gathers a macabre collection of skulls from various creatures, organizing them into a library of sorts. Ossuaries riddle the walls of his bizarre exhibit, their ledges richly decorated with grave goods paid to the departed.",
-										"The Master of Bones uses necromancy to comunión with the skulls in his collection and draw on their shared knowledge. For a fee, Lothar can cast the {@spell speak with dead} spell on any of his skulls, asking questions on the clients' behalf. He also trades and purchases new skulls. His prices range from 1 gp for a person who knew a single valuable story to upward of 10,000 gp for the skull of a factol or the high priest of a dead god.",
+										"The Master of Bones uses necromancy to comunión with the skulls in his collection and draw on their shared knowledge. For a fee, Lothar can cast the {@spell hablar con los muertos} spell on any of his skulls, asking questions on the clients' behalf. He also trades and purchases new skulls. His prices range from 1 gp for a person who knew a single valuable story to upward of 10,000 gp for the skull of a factol or the high priest of a dead god.",
 										"The library is well guarded. Lothar is a capable combatant in his own right and can animate a host of skulls in his collection as {@creature Flameskull||flameskulls}. To combat larger threats, the Master of Bones relies on a ghoul-shaped {@creature stone golem} that answers to his command."
 									]
 								},
@@ -3310,7 +3310,7 @@
 													],
 													"rows": [
 														[
-															"{@spell Comprehend languages}, {@spell detect magic}, {@spell disguise self}, {@spell feather fall}, {@spell illusory script}, {@spell protección contra el bien y el mal}, {@spell shield}, {@spell Tenser's floating disk}",
+															"{@spell Comprehend languages}, {@spell detect magic}, {@spell disfrazarse}, {@spell feather fall}, {@spell illusory script}, {@spell protección contra el bien y el mal}, {@spell shield}, {@spell Tenser's floating disk}",
 															"25 gp"
 														],
 														[
@@ -3326,7 +3326,7 @@
 															"300 gp"
 														],
 														[
-															"{@spell Contact other plane}, {@spell conocer las leyendas}, {@spell planar binding}, {@spell Enlace telepático de Rary}",
+															"{@spell contactar con otro plano}, {@spell conocer las leyendas}, {@spell planar binding}, {@spell Enlace telepático de Rary}",
 															"750 gp"
 														]
 													]
@@ -5188,7 +5188,7 @@
 									"id": "11e",
 									"entries": [
 										"Part salon and part fashion store, the Beehive Boutique pampers residents with magical makeovers and fine outfits cut from the same cloth. The boutique is a domed, two-story edifice of blond stone with curtained, amber windows. Inside, buzzing beauticians help each resident's appearance reflect their inner beauty. Creatures that stumble through the parlor's hexagonal black door a disheveled mess emerge exquisite and graceful.",
-										"For a premium rejuvenating experience, patrons can visit the second floor, where the Beehive's proprietor\u2014a {@creature mind flayer arcanist} (a variant {@creature mind flayer}) that uses a {@spell disguise self} spell to appear as a grinning human cosmetician named Doctor Goodcheer\u2014conducts special cleansing sessions. With the aid of illithid technology, the good doctor siphons \"impurities\" from his patients\u2014hatred, malice, and other loathsome emotions\u2014for use in foul experiments in a hidden laboratory beneath the boutique."
+										"For a premium rejuvenating experience, patrons can visit the second floor, where the Beehive's proprietor\u2014a {@creature mind flayer arcanist} (a variant {@creature mind flayer}) that uses a {@spell disfrazarse} spell to appear as a grinning human cosmetician named Doctor Goodcheer\u2014conducts special cleansing sessions. With the aid of illithid technology, the good doctor siphons \"impurities\" from his patients\u2014hatred, malice, and other loathsome emotions\u2014for use in foul experiments in a hidden laboratory beneath the boutique."
 									]
 								},
 								{

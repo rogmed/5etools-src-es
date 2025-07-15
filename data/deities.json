@@ -14891,7 +14891,7 @@
 				"E"
 			],
 			"category": "Lesser Idols",
-			"province": "Great Old One",
+			"province": "Primigenio",
 			"entries": [
 				"In the {@book Age of Arcanum|TDCSR|1|Age of Arcanum}, an archmage named Clemain Astural was the first to make contact with an otherworldly power of the Realms Beyond that called itself the Sightless. His legendary writings, the well-guarded {@book Astural Scrolls|TDCSR|3|The Astural Scrolls}, say that the entity's words of greeting to him were:",
 				"\"I am the Sightless. Will you not lend me your eyes?\"",
@@ -15273,7 +15273,7 @@
 				"N"
 			],
 			"category": "Lesser Idols",
-			"province": "Archfey",
+			"province": "Feérico",
 			"symbol": "An arch covered in emerald green vines with purple and orange flowers. Through the arch is a winding dirt path leading through a valley into a sunrise on the horizon.",
 			"symbolImg": {
 				"type": "image",

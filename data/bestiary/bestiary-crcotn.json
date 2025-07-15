@@ -437,7 +437,7 @@
 					"daily": {
 						"1e": [
 							"{@spell lesser restoration}",
-							"{@spell remove curse}",
+							"{@spell levantar maldición}",
 							"{@spell respirar bajo el agua}"
 						]
 					},
@@ -2006,7 +2006,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -2698,7 +2698,7 @@
 				"source": "MM"
 			},
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"orc"
 				]
@@ -2822,7 +2822,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell major image}",
 							"{@spell phantasmal force}"
 						]
@@ -2957,7 +2957,7 @@
 						"Galsariad casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}"
 					],
 					"daily": {
@@ -3095,7 +3095,7 @@
 						"Galsariad casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}"
 					],
 					"daily": {
@@ -3474,14 +3474,14 @@
 						"{@skill Insight} casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell light}",
 						"{@spell mage hand}"
 					],
 					"daily": {
 						"1e": [
 							"{@spell comprehend languages}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell zone of truth}"
 						]
 					},
@@ -4904,7 +4904,7 @@
 						"The infiltrator casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 14}):"
 					],
 					"will": [
-						"{@spell disguise self}"
+						"{@spell disfrazarse}"
 					],
 					"daily": {
 						"2e": [
@@ -5199,7 +5199,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell major image}",
 							"{@spell phantasmal force}"
 						]
@@ -5317,7 +5317,7 @@
 					"daily": {
 						"1e": [
 							"{@spell detect magic}",
-							"{@spell levitate}"
+							"{@spell levitar}"
 						]
 					},
 					"ability": "cha",
@@ -5439,7 +5439,7 @@
 						],
 						"2e": [
 							"{@spell charm person}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell sending}"
 						]
 					},
@@ -5843,7 +5843,7 @@
 						"1e": [
 							"{@spell comprehend languages}",
 							"{@spell identify} (as an action)",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						]
 					},
 					"ability": "int",
@@ -6034,14 +6034,14 @@
 						"The mastermind casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell light}",
 						"{@spell mage hand}"
 					],
 					"daily": {
 						"1e": [
 							"{@spell comprehend languages}",
-							"{@spell mage armor}",
+							"{@spell armadura de mago}",
 							"{@spell zone of truth}"
 						]
 					},
@@ -6763,7 +6763,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha",

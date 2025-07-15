@@ -1498,7 +1498,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell sleep}"
 						]
 					},
@@ -2490,7 +2490,7 @@
 										"slots": 4,
 										"spells": [
 											"{@spell shield}",
-											"{@spell mage armor}"
+											"{@spell armadura de mago}"
 										]
 									}
 								},
@@ -2504,7 +2504,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -3449,7 +3449,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -3489,7 +3489,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell friends}",
 								"{@spell poison spray}"
 							]
@@ -3498,7 +3498,7 @@
 							"lower": 1,
 							"slots": 2,
 							"spells": [
-								"{@spell armor of Agathys}",
+								"{@spell armadura de agathys}",
 								"{@spell charm person}",
 								"{@spell hex}",
 								"{@spell inmovilizar persona}",
@@ -3532,9 +3532,9 @@
 			],
 			"action": [
 				{
-					"name": "Armor of Shadows (Recharges after a Short or Long Rest)",
+					"name": "Armadura de sombras (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Narrak casts {@spell mage armor} on himself"
+						"Narrak casts {@spell armadura de mago} on himself"
 					]
 				},
 				{
@@ -3544,7 +3544,7 @@
 					]
 				},
 				{
-					"name": "One with Shadows",
+					"name": "Uno con las sombras",
 					"entries": [
 						"While he is in a dim light or darkness, Narrak can become {@condition invisible}. He remains so until he moves or takes an action or reaction."
 					]
@@ -3771,7 +3771,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha"
@@ -4340,7 +4340,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4399,7 +4399,7 @@
 						"1e": [
 							"{@spell blindness/deafness}",
 							"{@spell blur}",
-							"{@spell disguise self}"
+							"{@spell disfrazarse}"
 						]
 					},
 					"ability": "int"
@@ -4424,7 +4424,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell false life}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell rayo nauseabundo}",
 								"{@spell shield}"
 							]

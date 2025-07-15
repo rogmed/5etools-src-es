@@ -223,7 +223,7 @@
 						"2e": [
 							"{@spell animate dead} (as an action)",
 							"{@spell dispel magic}",
-							"{@spell speak with dead}"
+							"{@spell hablar con los muertos}"
 						],
 						"1e": [
 							"{@spell finger of death}",
@@ -374,7 +374,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -425,14 +425,14 @@
 					],
 					"will": [
 						"{@spell detect evil and good}",
-						"{@spell mage armor} (self only)",
+						"{@spell armadura de mago} (self only)",
 						"{@spell mage hand}"
 					],
 					"daily": {
 						"2e": [
 							"{@spell protección contra el bien y el mal}",
-							"{@spell remove curse}",
-							"{@spell speak with dead}"
+							"{@spell levantar maldición}",
+							"{@spell hablar con los muertos}"
 						],
 						"1e": [
 							"{@spell banishment}",

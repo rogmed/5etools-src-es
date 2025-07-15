@@ -3720,7 +3720,7 @@
 				"type": "humanoide",
 				"tags": [
 					"gith",
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -3730,7 +3730,7 @@
 				{
 					"ac": 13,
 					"from": [
-						"{@spell mage armor}"
+						"{@spell armadura de mago}"
 					]
 				}
 			],
@@ -3780,11 +3780,11 @@
 						"2e": [
 							"{@spell detect magic}",
 							"{@spell invisibility} (self only)",
-							"{@spell mage armor} (self only)",
+							"{@spell armadura de mago} (self only)",
 							"{@spell tongues}"
 						],
 						"1e": [
-							"{@spell contact other plane} (as an action)",
+							"{@spell contactar con otro plano} (as an action)",
 							"{@spell plane shift}",
 							"{@spell telekinesis}"
 						]
@@ -4831,7 +4831,7 @@
 				{
 					"ac": 13,
 					"from": [
-						"{@spell mage armor}"
+						"{@spell armadura de mago}"
 					]
 				}
 			],
@@ -4880,7 +4880,7 @@
 						"1e": [
 							"{@spell puerta dimensional}",
 							"{@spell invisibility}",
-							"{@spell mage armor} (self only)"
+							"{@spell armadura de mago} (self only)"
 						]
 					},
 					"ability": "int",
@@ -5479,7 +5479,7 @@
 			"type": {
 				"type": "aberration",
 				"tags": [
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -5550,7 +5550,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the neogi's darkvision."
 					]
@@ -5603,7 +5603,7 @@
 				}
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Spider Climb"
 			],
 			"senseTags": [
@@ -6083,7 +6083,7 @@
 				{
 					"ac": 15,
 					"from": [
-						"{@spell mage armor}"
+						"{@spell armadura de mago}"
 					]
 				}
 			],
@@ -6128,8 +6128,8 @@
 							"{@spell suggestion}"
 						],
 						"2e": [
-							"{@spell disguise self}",
-							"{@spell mage armor} (self only)"
+							"{@spell disfrazarse}",
+							"{@spell armadura de mago} (self only)"
 						]
 					},
 					"ability": "int",
@@ -6218,7 +6218,7 @@
 				{
 					"ac": 15,
 					"from": [
-						"{@spell mage armor}"
+						"{@spell armadura de mago}"
 					]
 				}
 			],
@@ -6267,8 +6267,8 @@
 					],
 					"daily": {
 						"2e": [
-							"{@spell disguise self}",
-							"{@spell mage armor} (self only)"
+							"{@spell disfrazarse}",
+							"{@spell armadura de mago} (self only)"
 						],
 						"1e": [
 							"{@spell puerta dimensional}",
@@ -6384,7 +6384,7 @@
 				{
 					"ac": 13,
 					"from": [
-						"{@spell mage armor}"
+						"{@spell armadura de mago}"
 					]
 				}
 			],
@@ -6425,7 +6425,7 @@
 							"{@spell suggestion}"
 						],
 						"2": [
-							"{@spell mage armor} (self only)"
+							"{@spell armadura de mago} (self only)"
 						]
 					},
 					"ability": "int",
@@ -6802,7 +6802,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"C",
 				"E"
@@ -7991,7 +7991,7 @@
 						"The thri-kreen casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability:"
 					],
 					"will": [
-						"{@spell levitate} (self only)",
+						"{@spell levitar} (self only)",
 						"{@spell mage hand} (the hand is invisible)"
 					],
 					"daily": {

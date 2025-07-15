@@ -452,7 +452,7 @@
 									"type": "entries",
 									"name": "Accidental Fey Contracts",
 									"entries": [
-										"A creature can accidentally stumble into a fey contract in a number of ways. The one bit of good news for the novice Feywild explorer is that most fey contracts can be broken with a {@spell remove curse} spell or similar magic. Only the most powerful fey contracts are hard to break\u2014ones woven by ancient hags, the queens of the Seelie and Unseelie Courts, and other powerful archfey. Such contracts usually require a {@spell wish} spell or an elaborate ritual to negate.",
+										"A creature can accidentally stumble into a fey contract in a number of ways. The one bit of good news for the novice Feywild explorer is that most fey contracts can be broken with a {@spell levantar maldición} spell or similar magic. Only the most powerful fey contracts are hard to break\u2014ones woven by ancient hags, the queens of the Seelie and Unseelie Courts, and other powerful archfey. Such contracts usually require a {@spell wish} spell or an elaborate ritual to negate.",
 										"Here are a few ways one might become unwittingly bound to a fey contract:",
 										{
 											"type": "list",
@@ -847,7 +847,7 @@
 										]
 									]
 								},
-								"A {@spell remove curse} spell or similar magic is usually enough to end a Fey curse on a creature, but some Fey curses are tenacious and resistant to all magic except a {@spell wish} spell. A creature can also remove such a curse on itself by learning and performing a specific task or ritual, determined by rolling on the Ending the Curse table.",
+								"A {@spell levantar maldición} spell or similar magic is usually enough to end a Fey curse on a creature, but some Fey curses are tenacious and resistant to all magic except a {@spell wish} spell. A creature can also remove such a curse on itself by learning and performing a specific task or ritual, determined by rolling on the Ending the Curse table.",
 								{
 									"type": "table",
 									"caption": "Ending the Curse",
@@ -1954,7 +1954,7 @@
 										],
 										[
 											"8",
-											"A friendly {@creature arcanaloth} using {@spell alter self} spells to assume Humanoid form as it searches the Feywild for one of the Books of Keeping"
+											"A friendly {@creature arcanaloth} using {@spell alterar el propio aspecto} spells to assume Humanoid form as it searches the Feywild for one of the Books of Keeping"
 										]
 									]
 								}

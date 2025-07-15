@@ -401,7 +401,7 @@
 				11,
 				{
 					"ac": 14,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -470,7 +470,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]

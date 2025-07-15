@@ -6469,7 +6469,7 @@
 			]
 		},
 		{
-			"name": "Fiend",
+			"name": "Infernal",
 			"source": "BMT",
 			"set": "Deck of Many More Things",
 			"page": 35,
@@ -9209,7 +9209,7 @@
 			]
 		},
 		{
-			"name": "Fiend",
+			"name": "Infernal",
 			"source": "DMTCRG",
 			"set": "Deck of Many More Things",
 			"page": 35,
@@ -15641,7 +15641,7 @@
 				"credit": "Joanna Barnum"
 			},
 			"entries": [
-				"As an action, you can brandish this card and use it to cast the {@spell Contact Other Plane} spell. When you cast the spell in this way, your questions are answered by the mysterious figure depicted on the card. Once this property is used, it can't be used again until the next dawn."
+				"As an action, you can brandish this card and use it to cast the {@spell Contactar con otro plano} spell. When you cast the spell in this way, your questions are answered by the mysterious figure depicted on the card. Once this property is used, it can't be used again until the next dawn."
 			]
 		},
 		{
@@ -16973,7 +16973,7 @@
 				"height": 959
 			},
 			"entries": [
-				"This black card spells disaster. Your soul is drawn from your body and held within machinery in either the control room of the Monastery of the Distressed Body (area M8) or Kwalish's lab in Daoine Gloine (area O7), whichever comes later in the adventure. While your soul is trapped in this way, your body is {@condition incapacitated}. {@spell Divination}, {@spell contact other plane}, or a similar spell of 4th level or higher reveals the location of the machinery that holds your soul. You draw no more cards."
+				"This black card spells disaster. Your soul is drawn from your body and held within machinery in either the control room of the Monastery of the Distressed Body (area M8) or Kwalish's lab in Daoine Gloine (area O7), whichever comes later in the adventure. While your soul is trapped in this way, your body is {@condition incapacitated}. {@spell Divination}, {@spell contactar con otro plano}, or a similar spell of 4th level or higher reveals the location of the machinery that holds your soul. You draw no more cards."
 			]
 		},
 		{
@@ -17199,7 +17199,7 @@
 				"height": 2233
 			},
 			"entries": [
-				"This card supernaturally saps your energy. You have disadvantage on initiative rolls. This effect lasts until you finish a long rest, but it can be ended early by a {@spell Remove Curse} spell or similar magic."
+				"This card supernaturally saps your energy. You have disadvantage on initiative rolls. This effect lasts until you finish a long rest, but it can be ended early by a {@spell Levantar maldición} spell or similar magic."
 			]
 		},
 		{
@@ -17218,7 +17218,7 @@
 				"height": 2233
 			},
 			"entries": [
-				"This card is an omen of death. You take {@damage 2d10} necrotic damage, and your hit point maximum is reduced by an amount equal to the damage taken. This effect can't reduce your hit point maximum below 10 hit points. This reduction lasts until you finish a long rest, but it can be ended early by a {@spell Remove Curse} spell or similar magic."
+				"This card is an omen of death. You take {@damage 2d10} necrotic damage, and your hit point maximum is reduced by an amount equal to the damage taken. This effect can't reduce your hit point maximum below 10 hit points. This reduction lasts until you finish a long rest, but it can be ended early by a {@spell Levantar maldición} spell or similar magic."
 			]
 		},
 		{
@@ -17332,7 +17332,7 @@
 				"height": 2233
 			},
 			"entries": [
-				"This card's monstrous visage curses you. While cursed in this way, whenever you make a saving throw, you must roll {@dice 1d4} and subtract the number rolled from the total. The curse lasts until you finish a long rest, but it can be ended early with a {@spell Remove Curse} spell or similar magic."
+				"This card's monstrous visage curses you. While cursed in this way, whenever you make a saving throw, you must roll {@dice 1d4} and subtract the number rolled from the total. The curse lasts until you finish a long rest, but it can be ended early with a {@spell Levantar maldición} spell or similar magic."
 			]
 		},
 		{
@@ -17450,7 +17450,7 @@
 					"type": "entries",
 					"name": "Bane Effect:",
 					"entries": [
-						"The target must succeed on a Constitution saving throw or it can't regain hit points until a {@spell remove curse} or {@spell greater restoration} spell is cast on it."
+						"The target must succeed on a Constitution saving throw or it can't regain hit points until a {@spell levantar maldición} or {@spell greater restoration} spell is cast on it."
 					]
 				},
 				{

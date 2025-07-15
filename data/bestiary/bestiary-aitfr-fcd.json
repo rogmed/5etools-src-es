@@ -189,7 +189,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}",
 								"{@spell ola atronadora}"

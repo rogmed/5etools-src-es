@@ -770,7 +770,7 @@
 			"originalname": "",
 			"source": "XPHB",
 			"page": 323,
-			"summonedBySpell": "Summon Celestial|XPHB",
+			"summonedBySpell": "invocar celestial|XPHB",
 			"summonedBySpellLevel": 5,
 			"size": [
 				"L"
@@ -1617,7 +1617,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N"
 			],
@@ -1673,7 +1673,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight (Devil Only)",
+					"name": "Visión del diablo (Devil Only)",
 					"entries": [
 						"Magical Darkness doesn't impede the spirit's Darkvision."
 					]
@@ -1713,7 +1713,7 @@
 			],
 			"traitTags": [
 				"Death Burst",
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"actionTags": [
@@ -1748,7 +1748,7 @@
 							},
 							{
 								"mode": "removeArr",
-								"names": "Devil's Sight (Devil Only)"
+								"names": "Visión del diablo (Devil Only)"
 							}
 						],
 						"action": [
@@ -1791,8 +1791,8 @@
 							{
 								"mode": "renameArr",
 								"renames": {
-									"rename": "Devil's Sight (Devil Only)",
-									"with": "Devil's Sight"
+									"rename": "Visión del diablo (Devil Only)",
+									"with": "Visión del diablo"
 								}
 							},
 							{
@@ -1825,7 +1825,7 @@
 						"fly": 60
 					},
 					"traitTags": [
-						"Devil's Sight",
+						"Visión del diablo",
 						"Magic Resistance"
 					],
 					"damageTags": [
@@ -1841,7 +1841,7 @@
 								"mode": "removeArr",
 								"names": [
 									"Death Throes (Demon Only)",
-									"Devil's Sight (Devil Only)"
+									"Visión del diablo (Devil Only)"
 								]
 							}
 						],
@@ -2057,7 +2057,7 @@
 					"choose": [
 						"celestial",
 						"fey",
-						"fiend"
+						"infernal"
 					]
 				}
 			},
@@ -2234,7 +2234,7 @@
 							}
 						]
 					},
-					"type": "fiend",
+					"type": "infernal",
 					"action": [
 						{
 							"name": "Otherworldly Slam",

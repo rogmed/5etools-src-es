@@ -1130,7 +1130,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Warlock",
+			"name": "Brujo",
 			"source": "XPHB",
 			"system": {
 				"spellcasting": {
@@ -2586,7 +2586,7 @@
 		{
 			"name": "Eldritch Invocations",
 			"source": "PHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
@@ -2600,7 +2600,7 @@
 		{
 			"name": "Pact Boon",
 			"source": "PHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"level": 3,
 			"isIgnored": true,
@@ -6997,7 +6997,7 @@
 		{
 			"name": "Eldritch Invocation Options",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 1,
 			"isIgnored": true,
@@ -7006,7 +7006,7 @@
 		{
 			"name": "Magical Cunning",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 2,
 			"activities": [
@@ -7037,7 +7037,7 @@
 		{
 			"name": "Mystic Arcanum",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 13,
 			"isIgnored": true,
@@ -7046,7 +7046,7 @@
 		{
 			"name": "Mystic Arcanum",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 15,
 			"isIgnored": true,
@@ -7055,7 +7055,7 @@
 		{
 			"name": "Mystic Arcanum",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 17,
 			"isIgnored": true,
@@ -7064,7 +7064,7 @@
 		{
 			"name": "Don épico",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 19,
 			"isIgnored": true,
@@ -7073,7 +7073,7 @@
 		{
 			"name": "Eldritch Master",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
 			"level": 20,
 			"activities": [
@@ -7091,7 +7091,7 @@
 								"value": "1",
 								"target": {
 									"prop": "classFeature",
-									"uid": "Magical Cunning|Warlock|XPHB|2"
+									"uid": "Magical Cunning|Brujo|XPHB|2"
 								}
 							},
 							{
@@ -10958,9 +10958,9 @@
 		{
 			"name": "Fey Presence",
 			"source": "PHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "PHB",
 			"level": 1,
 			"activities": [
@@ -10980,9 +10980,9 @@
 		{
 			"name": "Misty Escape",
 			"source": "PHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "PHB",
 			"level": 6,
 			"system": {
@@ -11005,9 +11005,9 @@
 		{
 			"name": "Beguiling Defenses",
 			"source": "PHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "PHB",
 			"level": 10,
 			"entryData": {
@@ -11020,9 +11020,9 @@
 		{
 			"name": "Dark Delirium",
 			"source": "PHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "PHB",
 			"level": 14,
 			"system": {
@@ -11045,9 +11045,9 @@
 		{
 			"name": "Awakened Mind",
 			"source": "PHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "PHB",
 			"level": 1,
 			"activities": [
@@ -11067,9 +11067,9 @@
 		{
 			"name": "Thought Shield",
 			"source": "PHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "PHB",
 			"level": 10,
 			"entryData": {
@@ -11082,7 +11082,7 @@
 		{
 			"name": "Gift of the Sea",
 			"source": "TCE",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"subclassShortName": "Fathomless",
 			"subclassSource": "TCE",
@@ -11105,7 +11105,7 @@
 		{
 			"name": "Tentacle of the Deeps",
 			"source": "TCE",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"subclassShortName": "Fathomless",
 			"subclassSource": "TCE",
@@ -11130,7 +11130,7 @@
 		{
 			"name": "Oceanic Soul",
 			"source": "TCE",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"subclassShortName": "Fathomless",
 			"subclassSource": "TCE",
@@ -11145,7 +11145,7 @@
 		{
 			"name": "Fathomless Plunge",
 			"source": "TCE",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"subclassShortName": "Fathomless",
 			"subclassSource": "TCE",
@@ -11171,7 +11171,7 @@
 		{
 			"name": "Sanctuary Vessel",
 			"source": "TCE",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"subclassShortName": "Genie",
 			"subclassSource": "TCE",
@@ -11196,7 +11196,7 @@
 		{
 			"name": "Necrotic Husk",
 			"source": "VRGR",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"subclassShortName": "Undead",
 			"subclassSource": "VRGR",
@@ -11223,7 +11223,7 @@
 		{
 			"name": "Radiant Soul",
 			"source": "XGE",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"subclassShortName": "Celestial",
 			"subclassSource": "XGE",
@@ -11238,7 +11238,7 @@
 		{
 			"name": "Searing Vengeance",
 			"source": "XGE",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"subclassShortName": "Celestial",
 			"subclassSource": "XGE",
@@ -11260,7 +11260,7 @@
 		{
 			"name": "Hex Warrior",
 			"source": "XGE",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"subclassShortName": "Hexblade",
 			"subclassSource": "XGE",
@@ -11283,7 +11283,7 @@
 		{
 			"name": "Accursed Specter",
 			"source": "XGE",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "PHB",
 			"subclassShortName": "Hexblade",
 			"subclassSource": "XGE",
@@ -20777,9 +20777,9 @@
 		{
 			"name": "Steps of the Fey",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -20896,9 +20896,9 @@
 		{
 			"name": "Misty Escape",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"activities": [
@@ -20995,9 +20995,9 @@
 		{
 			"name": "Beguiling Defenses",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Archfey",
+			"subclassShortName": "Feérico",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"activities": [
@@ -21032,7 +21032,7 @@
 		{
 			"name": "Healing Light",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Celestial",
 			"subclassSource": "XPHB",
@@ -21096,7 +21096,7 @@
 		{
 			"name": "Radiant Soul",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Celestial",
 			"subclassSource": "XPHB",
@@ -21136,7 +21136,7 @@
 		{
 			"name": "Celestial Resilience",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Celestial",
 			"subclassSource": "XPHB",
@@ -21194,7 +21194,7 @@
 		{
 			"name": "Searing Vengeance",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Celestial",
 			"subclassSource": "XPHB",
@@ -21261,9 +21261,9 @@
 		{
 			"name": "Dark One's Blessing",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Fiend",
+			"subclassShortName": "Infernal",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -21298,9 +21298,9 @@
 		{
 			"name": "Dark One's Own Luck",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Fiend",
+			"subclassShortName": "Infernal",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"system": {
@@ -21339,9 +21339,9 @@
 		{
 			"name": "Fiendish Resilience",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Fiend",
+			"subclassShortName": "Infernal",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"effects": [
@@ -21495,9 +21495,9 @@
 		{
 			"name": "Hurl Through Hell",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Fiend",
+			"subclassShortName": "Infernal",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"activities": [
@@ -21569,9 +21569,9 @@
 		{
 			"name": "Awakened Mind",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"activities": [
@@ -21602,9 +21602,9 @@
 		{
 			"name": "Clairvoyant Combatant",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"activities": [
@@ -21685,9 +21685,9 @@
 		{
 			"name": "Thought Shield",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"effects": [
@@ -21713,9 +21713,9 @@
 		{
 			"name": "Create Thrall",
 			"source": "XPHB",
-			"className": "Warlock",
+			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Great Old One",
+			"subclassShortName": "Primigenio",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"activities": [

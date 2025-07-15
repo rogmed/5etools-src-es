@@ -33,7 +33,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -84,7 +84,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell alarm}*",
-								"{@spell mage armor}*",
+								"{@spell armadura de mago}*",
 								"{@spell magic missile}",
 								"{@spell shield}*"
 							]
@@ -289,7 +289,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -319,7 +319,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -351,7 +351,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell modify memory}",
+								"{@spell alterar los recuerdos}",
 								"{@spell wall of force}"
 							]
 						},
@@ -538,7 +538,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell disguise self} (including the form of a Medium humanoid)",
+							"{@spell disfrazarse} (including the form of a Medium humanoid)",
 							"{@spell fog cloud}"
 						]
 					},
@@ -621,7 +621,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell contact other plane}",
+										"{@spell contactar con otro plano}",
 										"{@spell scrying}"
 									]
 								},
@@ -676,7 +676,7 @@
 									"spells": [
 										"{@spell animate dead}",
 										"{@spell revivify}",
-										"{@spell speak with dead}"
+										"{@spell hablar con los muertos}"
 									]
 								},
 								"4": {
@@ -739,7 +739,7 @@
 								"4": {
 									"slots": 3,
 									"spells": [
-										"{@spell dominate beast}",
+										"{@spell dominar bestia}",
 										"{@spell grasping vine}"
 									]
 								},
@@ -788,7 +788,7 @@
 								"3": {
 									"slots": 3,
 									"spells": [
-										"{@spell clairvoyance}",
+										"{@spell clarividencia}",
 										"{@spell dispel magic}",
 										"{@spell nondetection}"
 									]
@@ -796,7 +796,7 @@
 								"4": {
 									"slots": 3,
 									"spells": [
-										"{@spell arcane eye}",
+										"{@spell ojo arcano}",
 										"{@spell locate creature}"
 									]
 								},
@@ -917,7 +917,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell contact other plane}",
+											"{@spell contactar con otro plano}",
 											"{@spell scrying}"
 										]
 									},
@@ -969,7 +969,7 @@
 										"spells": [
 											"{@spell animate dead}",
 											"{@spell revivify}",
-											"{@spell speak with dead}"
+											"{@spell hablar con los muertos}"
 										]
 									},
 									"4": {
@@ -1040,7 +1040,7 @@
 									"4": {
 										"slots": 3,
 										"spells": [
-											"{@spell dominate beast}",
+											"{@spell dominar bestia}",
 											"{@spell grasping vine}"
 										]
 									},
@@ -1097,7 +1097,7 @@
 									"3": {
 										"slots": 3,
 										"spells": [
-											"{@spell clairvoyance}",
+											"{@spell clarividencia}",
 											"{@spell dispel magic}",
 											"{@spell nondetection}"
 										]
@@ -1105,7 +1105,7 @@
 									"4": {
 										"slots": 3,
 										"spells": [
-											"{@spell arcane eye}",
+											"{@spell ojo arcano}",
 											"{@spell locate creature}"
 										]
 									},
@@ -1215,7 +1215,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell burning hands}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell shield}"
 							]
 						}
@@ -1377,7 +1377,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell dominate beast}",
+								"{@spell dominar bestia}",
 								"{@spell locate creature}",
 								"{@spell piel pétrea}",
 								"{@spell wall of fire}"
@@ -1700,7 +1700,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -1774,7 +1774,7 @@
 						"{@spell dispel magic}",
 						"{@spell fear}",
 						"{@spell heat metal}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"ability": "wis"
 				}
@@ -2167,7 +2167,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"shapechanger"
 				]
@@ -2248,7 +2248,7 @@
 						"The barghest's innate spellcasting ability is Charisma (spell save {@dc 12}). It can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell levitate}",
+						"{@spell levitar}",
 						"{@spell minor illusion}",
 						"{@spell pass without trace}"
 					],
@@ -2516,7 +2516,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell contact other plane}",
+										"{@spell contactar con otro plano}",
 										"{@spell scrying}"
 									]
 								},
@@ -2571,7 +2571,7 @@
 									"spells": [
 										"{@spell animate dead}",
 										"{@spell revivify}",
-										"{@spell speak with dead}"
+										"{@spell hablar con los muertos}"
 									]
 								},
 								"4": {
@@ -2634,7 +2634,7 @@
 								"4": {
 									"slots": 3,
 									"spells": [
-										"{@spell dominate beast}",
+										"{@spell dominar bestia}",
 										"{@spell grasping vine}"
 									]
 								},
@@ -2683,7 +2683,7 @@
 								"3": {
 									"slots": 3,
 									"spells": [
-										"{@spell clairvoyance}",
+										"{@spell clarividencia}",
 										"{@spell dispel magic}",
 										"{@spell nondetection}"
 									]
@@ -2691,7 +2691,7 @@
 								"4": {
 									"slots": 3,
 									"spells": [
-										"{@spell arcane eye}",
+										"{@spell ojo arcano}",
 										"{@spell locate creature}"
 									]
 								},
@@ -2817,7 +2817,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell contact other plane}",
+											"{@spell contactar con otro plano}",
 											"{@spell scrying}"
 										]
 									},
@@ -2869,7 +2869,7 @@
 										"spells": [
 											"{@spell animate dead}",
 											"{@spell revivify}",
-											"{@spell speak with dead}"
+											"{@spell hablar con los muertos}"
 										]
 									},
 									"4": {
@@ -2940,7 +2940,7 @@
 									"4": {
 										"slots": 3,
 										"spells": [
-											"{@spell dominate beast}",
+											"{@spell dominar bestia}",
 											"{@spell grasping vine}"
 										]
 									},
@@ -2997,7 +2997,7 @@
 									"3": {
 										"slots": 3,
 										"spells": [
-											"{@spell clairvoyance}",
+											"{@spell clarividencia}",
 											"{@spell dispel magic}",
 											"{@spell nondetection}"
 										]
@@ -3005,7 +3005,7 @@
 									"4": {
 										"slots": 3,
 										"spells": [
-											"{@spell arcane eye}",
+											"{@spell ojo arcano}",
 											"{@spell locate creature}"
 										]
 									},
@@ -4766,8 +4766,8 @@
 							"slots": 4,
 							"spells": [
 								"{@spell cure wounds}",
-								"{@spell disguise self}",
-								"{@spell silent image}",
+								"{@spell disfrazarse}",
+								"{@spell imagen silenciosa}",
 								"{@spell Tasha's hideous laughter}"
 							]
 						},
@@ -4896,7 +4896,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4945,7 +4945,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell unseen servant}*"
 							]
@@ -5949,7 +5949,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"C",
 				"E"
@@ -6150,7 +6150,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -6202,7 +6202,7 @@
 							"spells": [
 								"{@spell detect magic}*",
 								"{@spell feather fall}",
-								"{@spell mage armor}"
+								"{@spell armadura de mago}"
 							]
 						},
 						"2": {
@@ -6216,7 +6216,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}*",
+								"{@spell clarividencia}*",
 								"{@spell fly}",
 								"{@spell fireball}"
 							]
@@ -6224,7 +6224,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell arcane eye}*",
+								"{@spell ojo arcano}*",
 								"{@spell tormenta de hielo}",
 								"{@spell piel pétrea}"
 							]
@@ -6421,7 +6421,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -6628,7 +6628,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -6808,7 +6808,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -6858,7 +6858,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell charm person}*",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}"
 							]
 						},
@@ -6881,7 +6881,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell dominate beast}*",
+								"{@spell dominar bestia}*",
 								"{@spell piel pétrea}"
 							]
 						},
@@ -6989,7 +6989,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -7039,7 +7039,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell burning hands}*",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}*"
 							]
 						},
@@ -7296,7 +7296,7 @@
 				10,
 				{
 					"ac": 13,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -7330,10 +7330,10 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The firenewt's innate spellcasting ability is Charisma. It can innately cast {@spell mage armor} (self only) at will, requiring no material components."
+						"The firenewt's innate spellcasting ability is Charisma. It can innately cast {@spell armadura de mago} (self only) at will, requiring no material components."
 					],
 					"will": [
-						"{@spell mage armor}"
+						"{@spell armadura de mago}"
 					],
 					"ability": "cha",
 					"hidden": [
@@ -7362,7 +7362,7 @@
 							"spells": [
 								"{@spell burning hands}",
 								"{@spell flaming sphere}",
-								"{@spell hellish rebuke}",
+								"{@spell Reprensión infernal}",
 								"{@spell scorching ray}"
 							]
 						}
@@ -10409,9 +10409,9 @@
 							"slots": 3,
 							"spells": [
 								"{@spell charm person}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell expeditious retreat}",
-								"{@spell silent image}"
+								"{@spell imagen silenciosa}"
 							]
 						}
 					},
@@ -10585,7 +10585,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -10868,7 +10868,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -10918,8 +10918,8 @@
 							"slots": 4,
 							"spells": [
 								"{@spell color spray}*",
-								"{@spell disguise self}*",
-								"{@spell mage armor}",
+								"{@spell disfrazarse}*",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}"
 							]
 						},
@@ -11128,7 +11128,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dispel magic}",
-								"{@spell remove curse}",
+								"{@spell levantar maldición}",
 								"{@spell sending}"
 							]
 						},
@@ -12604,7 +12604,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -12891,7 +12891,7 @@
 						"{@spell vicious mockery}",
 						"{@spell true strike}",
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -12920,7 +12920,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell fear}",
 								"{@spell meld into stone}"
 							]
@@ -13597,7 +13597,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -13650,7 +13650,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell false life}*",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell rayo nauseabundo}*"
 							]
 						},
@@ -14037,7 +14037,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast} (range 300 ft., +4 bonus to each damage roll)",
+								"{@spell descarga sobrenatural} (range 300 ft., +4 bonus to each damage roll)",
 								"{@spell guidance}",
 								"{@spell mage hand}",
 								"{@spell minor illusion}",
@@ -14226,7 +14226,7 @@
 						"The neothelid's innate spellcasting ability is Wisdom (spell save {@dc 16}). It can innately cast the following spells, requiring no components:"
 					],
 					"will": [
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -16106,7 +16106,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -17404,7 +17404,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon",
 					"orc"
@@ -17785,7 +17785,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -17836,13 +17836,13 @@
 							"spells": [
 								"{@spell chromatic orb}",
 								"{@spell expeditious retreat}*",
-								"{@spell mage armor}"
+								"{@spell armadura de mago}"
 							]
 						},
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell alter self}*",
+								"{@spell alterar el propio aspecto}*",
 								"{@spell inmovilizar persona}",
 								"{@spell knock}*"
 							]
@@ -18111,7 +18111,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -18241,7 +18241,7 @@
 			"size": [
 				"T"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"C",
 				"E"
@@ -18294,7 +18294,7 @@
 				{
 					"name": "Kiss",
 					"entries": [
-						"The vargouille kisses one {@condition incapacitated} humanoid within 5 feet of it. The target must succeed on a {@dc 12} Charisma saving throw or become cursed. The cursed target loses 1 point of Charisma after each hour, as its head takes on fiendish aspects. The curse doesn't advance while the target is in sunlight or the area of a {@spell daylight} spell; don't count that time. When the cursed target's Charisma becomes 2, it dies, and its head tears from its body and becomes a new vargouille. Casting {@spell remove curse}, {@spell greater restoration}, or a similar spell on the target before the transformation is complete can end the curse. Doing so undoes the changes made to the target by the curse."
+						"The vargouille kisses one {@condition incapacitated} humanoid within 5 feet of it. The target must succeed on a {@dc 12} Charisma saving throw or become cursed. The cursed target loses 1 point of Charisma after each hour, as its head takes on fiendish aspects. The curse doesn't advance while the target is in sunlight or the area of a {@spell daylight} spell; don't count that time. When the cursed target's Charisma becomes 2, it dies, and its head tears from its body and becomes a new vargouille. Casting {@spell levantar maldición}, {@spell greater restoration}, or a similar spell on the target before the transformation is complete can end the curse. Doing so undoes the changes made to the target by the curse."
 					]
 				},
 				{
@@ -18925,7 +18925,7 @@
 				11,
 				{
 					"ac": 14,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -18968,9 +18968,9 @@
 						"The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save {@dc 15}), requiring no material components:"
 					],
 					"will": [
-						"{@spell disguise self}",
-						"{@spell mage armor} (self only)",
-						"{@spell silent image}",
+						"{@spell disfrazarse}",
+						"{@spell armadura de mago} (self only)",
+						"{@spell imagen silenciosa}",
 						"{@spell speak with animals}"
 					],
 					"daily": {
@@ -18990,7 +18990,7 @@
 						"0": {
 							"spells": [
 								"{@spell dancing lights}",
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell friends}",
 								"{@spell mage hand}",
 								"{@spell minor illusion}",
@@ -19005,7 +19005,7 @@
 								"{@spell blink}",
 								"{@spell charm person}",
 								"{@spell puerta dimensional}",
-								"{@spell dominate beast}",
+								"{@spell dominar bestia}",
 								"{@spell faerie fire}",
 								"{@spell fear}",
 								"{@spell inmovilizar monstruo}",
@@ -19113,7 +19113,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -19165,11 +19165,11 @@
 						"The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save {@dc 15}), requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell false life}",
-						"{@spell levitate} (self only)",
-						"{@spell mage armor} (self only)",
-						"{@spell silent image}"
+						"{@spell levitar} (self only)",
+						"{@spell armadura de mago} (self only)",
+						"{@spell imagen silenciosa}"
 					],
 					"daily": {
 						"1e": [
@@ -19189,7 +19189,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell fire bolt}",
 								"{@spell friends}",
 								"{@spell mage hand}",
@@ -19205,7 +19205,7 @@
 								"{@spell banishment}",
 								"{@spell burning hands}",
 								"{@spell flame strike}",
-								"{@spell hellish rebuke}",
+								"{@spell Reprensión infernal}",
 								"{@spell magic circle}",
 								"{@spell scorching ray}",
 								"{@spell scrying}",
@@ -19317,7 +19317,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -19364,9 +19364,9 @@
 					"will": [
 						"{@spell detect magic}",
 						"{@spell jump}",
-						"{@spell levitate}",
-						"{@spell mage armor} (self only)",
-						"{@spell speak with dead}"
+						"{@spell levitar}",
+						"{@spell armadura de mago} (self only)",
+						"{@spell hablar con los muertos}"
 					],
 					"daily": {
 						"1e": [
@@ -19386,7 +19386,7 @@
 						"0": {
 							"spells": [
 								"{@spell chill touch}",
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell guidance}",
 								"{@spell mage hand}",
 								"{@spell minor illusion}",
@@ -19398,15 +19398,15 @@
 							"lower": 1,
 							"slots": 3,
 							"spells": [
-								"{@spell armor of Agathys}",
+								"{@spell armadura de agathys}",
 								"{@spell Brazos de Hadar}",
 								"{@spell crown of madness}",
-								"{@spell clairvoyance}",
-								"{@spell contact other plane}",
+								"{@spell clarividencia}",
+								"{@spell contactar con otro plano}",
 								"{@spell detect thoughts}",
 								"{@spell puerta dimensional}",
 								"{@spell dissonant whispers}",
-								"{@spell dominate beast}",
+								"{@spell dominar bestia}",
 								"{@spell telekinesis}",
 								"{@spell vampiric touch}"
 							]
@@ -20145,7 +20145,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -20182,7 +20182,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell mage armor} (self only)"
+						"{@spell armadura de mago} (self only)"
 					],
 					"ability": "cha"
 				},
@@ -20195,7 +20195,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell mage hand}",
 								"{@spell minor illusion}",
 								"{@spell poison spray}",
@@ -21306,7 +21306,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast} (range 300 ft., +3 bonus to each damage roll)",
+								"{@spell descarga sobrenatural} (range 300 ft., +3 bonus to each damage roll)",
 								"{@spell friends}",
 								"{@spell message}",
 								"{@spell minor illusion}",
@@ -21553,7 +21553,7 @@
 						"0": {
 							"spells": [
 								"{@spell chill touch}",
-								"{@spell eldritch blast} (range 300 ft., +3 bonus to each damage roll)",
+								"{@spell descarga sobrenatural} (range 300 ft., +3 bonus to each damage roll)",
 								"{@spell mage hand}",
 								"{@spell message}",
 								"{@spell poison spray}",
@@ -21814,7 +21814,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast} (range 300 ft., +3 bonus to each damage roll)",
+								"{@spell descarga sobrenatural} (range 300 ft., +3 bonus to each damage roll)",
 								"{@spell friends}",
 								"{@spell guidance}",
 								"{@spell mage hand}",
@@ -21828,7 +21828,7 @@
 							"spells": [
 								"{@spell command}",
 								"{@spell counterspell}",
-								"{@spell hellish rebuke}",
+								"{@spell Reprensión infernal}",
 								"{@spell invisibility}",
 								"{@spell paso brumoso}",
 								"{@spell unseen servant}",

@@ -718,7 +718,7 @@ Parser.stringToCasedSlug = function (str) {
 	return str.toAscii().replace(/[^\w ]+/g, "").replace(/ +/g, "-");
 };
 
-Parser.ITEM_SPELLCASTING_FOCUS_CLASSES = ["Artificer", "Bardo", "Clérigo", "Druida", "Paladín", "Explorador", "Hechicero", "Warlock", "Mago"];
+Parser.ITEM_SPELLCASTING_FOCUS_CLASSES = ["Artificer", "Bardo", "Clérigo", "Druida", "Paladín", "Explorador", "Hechicero", "Brujo", "Mago"];
 
 Parser.itemValueToFull = function (item, opts = {isShortForm: false, isSmallUnits: false}) {
 	return Parser._moneyToFull(item, "value", "valueMult", opts);
@@ -2276,7 +2276,7 @@ Parser.prereqSpellToFull = function (spell, {isTextOnly = false} = {}) {
 Parser.prereqPactToFull = function (pact) {
 	if (pact === "Chain") return "Pact of the Chain";
 	if (pact === "Tome") return "Pact of the Tome";
-	if (pact === "Blade") return "Pact of the Blade";
+	if (pact === "Blade") return "Pacto del filo";
 	if (pact === "Talisman") return "Pact of the Talisman";
 	return pact;
 };
@@ -2312,10 +2312,10 @@ Parser.featCategoryFromFull = (full) => {
 Parser.OPT_FEATURE_TYPE_TO_FULL = {
 	"AI": "Artificer Infusion",
 	"ED": "Elemental Discipline",
-	"EI": "Eldritch Invocation",
-	"MM": "Metamagic",
-	"MV": "Maneuver",
-	"MV:B": "Maneuver, Battle Master",
+	"IS": "Invocación sobrenatural",
+	"MM": "Metamagia",
+	"MV": "Maniobra",
+	"MV:B": "Maniobra, Maestro del Combate",
 	"MV:C2-UA": "Maneuver, Cavalier V2 (UA)",
 	"AS:V1-UA": "Arcane Shot, V1 (UA)",
 	"AS:V2-UA": "Arcane Shot, V2 (UA)",
@@ -2519,7 +2519,7 @@ Parser.CAT_ID_TO_FULL[Parser.CAT_ID_ITEM] = "Item";
 Parser.CAT_ID_TO_FULL[Parser.CAT_ID_CLASS] = "Class";
 Parser.CAT_ID_TO_FULL[Parser.CAT_ID_CONDITION] = "Condition";
 Parser.CAT_ID_TO_FULL[Parser.CAT_ID_FEAT] = "Dote";
-Parser.CAT_ID_TO_FULL[Parser.CAT_ID_ELDRITCH_INVOCATION] = "Eldritch Invocation";
+Parser.CAT_ID_TO_FULL[Parser.CAT_ID_ELDRITCH_INVOCATION] = "Invocación sobrenatural";
 Parser.CAT_ID_TO_FULL[Parser.CAT_ID_PSIONIC] = "Psionic";
 Parser.CAT_ID_TO_FULL[Parser.CAT_ID_RACE] = "Species";
 Parser.CAT_ID_TO_FULL[Parser.CAT_ID_OTHER_REWARD] = "Other Reward";
@@ -2927,7 +2927,7 @@ Parser.TP_CONSTRUCT = "construct";
 Parser.TP_DRAGON = "dragon";
 Parser.TP_ELEMENTAL = "elemental";
 Parser.TP_FEY = "fey";
-Parser.TP_FIEND = "fiend";
+Parser.TP_FIEND = "infernal";
 Parser.TP_GIANT = "giant";
 Parser.TP_HUMANOID = "humanoide";
 Parser.TP_MONSTROSITY = "monstrosity";

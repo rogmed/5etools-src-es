@@ -76,11 +76,11 @@
 						"The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save {@dc 15}), requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell false life}",
-						"{@spell levitate} (self only)",
-						"{@spell mage armor} (self only)",
-						"{@spell silent image}"
+						"{@spell levitar} (self only)",
+						"{@spell armadura de mago} (self only)",
+						"{@spell imagen silenciosa}"
 					],
 					"daily": {
 						"1e": [
@@ -101,7 +101,7 @@
 						"0": {
 							"spells": [
 								"{@spell chill touch}",
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell friends}",
 								"{@spell mage hand}",
 								"{@spell minor illusion}",
@@ -113,7 +113,7 @@
 							"lower": 1,
 							"slots": 4,
 							"spells": [
-								"{@spell armor of Agathys}",
+								"{@spell armadura de agathys}",
 								"{@spell banishment}",
 								"{@spell burning hands}",
 								"{@spell cloudkill}",

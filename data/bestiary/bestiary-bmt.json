@@ -544,7 +544,7 @@
 				"G"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -832,7 +832,7 @@
 				{
 					"name": "Bite (Wolf or Hybrid Form Only)",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}26 ({@damage 5d8 + 4}) piercing damage. If the target is a Humanoid, it must succeed on a {@dc 15} Constitution saving throw or be cursed with lycanthropy. While cursed in this way, the target retains its alignment, languages, and equipment but otherwise uses the werewolf stat block, excluding actions that require equipment the target doesn't have. During any night when there's a full moon in the sky, the target becomes an NPC under the DM's control and remains so until the night ends. A {@spell Remove Curse} spell or similar magic ends this curse."
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}26 ({@damage 5d8 + 4}) piercing damage. If the target is a Humanoid, it must succeed on a {@dc 15} Constitution saving throw or be cursed with lycanthropy. While cursed in this way, the target retains its alignment, languages, and equipment but otherwise uses the werewolf stat block, excluding actions that require equipment the target doesn't have. During any night when there's a full moon in the sky, the target becomes an NPC under the DM's control and remains so until the night ends. A {@spell Levantar maldición} spell or similar magic ends this curse."
 					]
 				},
 				{
@@ -971,7 +971,7 @@
 				{
 					"name": "Bite (Rat or Hybrid Form Only)",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}26 ({@damage 5d8 + 4}) piercing damage. If the target is a Humanoid, it must succeed on a {@dc 14} Constitution saving throw or be cursed with lycanthropy. While cursed in this way, the target retains its alignment, languages, and equipment but otherwise uses the wererat stat block, excluding actions that require equipment the target doesn't have. During any night when there's a full moon in the sky, the target becomes an NPC under the DM's control and remains so until the night ends. A {@spell Remove Curse} spell or similar magic ends this curse."
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}26 ({@damage 5d8 + 4}) piercing damage. If the target is a Humanoid, it must succeed on a {@dc 14} Constitution saving throw or be cursed with lycanthropy. While cursed in this way, the target retains its alignment, languages, and equipment but otherwise uses the wererat stat block, excluding actions that require equipment the target doesn't have. During any night when there's a full moon in the sky, the target becomes an NPC under the DM's control and remains so until the night ends. A {@spell Levantar maldición} spell or similar magic ends this curse."
 					]
 				},
 				{
@@ -1208,7 +1208,7 @@
 				"type": "humanoide",
 				"tags": [
 					"minotaur",
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -1294,11 +1294,11 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Brusipha makes two Eldritch Blast attacks."
+						"Brusipha makes two Descarga sobrenatural attacks."
 					]
 				},
 				{
-					"name": "Eldritch Blast",
+					"name": "Descarga sobrenatural",
 					"entries": [
 						"{@atk rs} {@hit 5} to hit, range 120 ft., one target. {@h}8 ({@damage 1d10 + 3}) force damage."
 					]
@@ -1955,7 +1955,7 @@
 					"will": [
 						"{@spell Bless}",
 						"{@spell Guidance}",
-						"{@spell Silent Image}"
+						"{@spell imagen silenciosa}"
 					],
 					"daily": {
 						"1e": [
@@ -2597,7 +2597,7 @@
 				14,
 				{
 					"ac": 17,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -3246,7 +3246,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -3323,7 +3323,7 @@
 				{
 					"name": "Comet's Voice (1/Day)",
 					"entries": [
-						"The hierophant can cast {@spell Contact Other Plane}, using Charisma as the spellcasting ability."
+						"The hierophant can cast {@spell Contactar con otro plano}, using Charisma as the spellcasting ability."
 					]
 				},
 				{
@@ -3426,7 +3426,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -3642,7 +3642,7 @@
 			"type": {
 				"type": "humanoide",
 				"tags": [
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -3991,7 +3991,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -5805,7 +5805,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"C",
 				"E"
@@ -5871,7 +5871,7 @@
 				{
 					"name": "Beak (Vulture or Hybrid Form Only)",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) piercing damage. If the target is a Humanoid, it must succeed on a {@dc 13} Constitution saving throw or be cursed until targeted by the {@spell Remove Curse} spell or a similar effect. If the cursed target drops to 0 hit points, it becomes a werevulture under the DM's control and regains 10 hit points."
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) piercing damage. If the target is a Humanoid, it must succeed on a {@dc 13} Constitution saving throw or be cursed until targeted by the {@spell Levantar maldición} spell or a similar effect. If the cursed target drops to 0 hit points, it becomes a werevulture under the DM's control and regains 10 hit points."
 					]
 				},
 				{

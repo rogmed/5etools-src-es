@@ -435,7 +435,7 @@
 							"spells": [
 								"{@spell charm person}",
 								"{@spell detect magic}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell identify}",
 								"{@spell Tasha's hideous laughter}"
 							]
@@ -691,7 +691,7 @@
 						"0": {
 							"spells": [
 								"{@spell chill touch}",
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell mage hand}"
 							]
 						},

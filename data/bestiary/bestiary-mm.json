@@ -8186,7 +8186,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -8268,7 +8268,7 @@
 						"The arcanaloth's innate spellcasting ability is Charisma (spell save {@dc 15}). The arcanaloth can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell darkness}",
 						"{@spell heat metal}",
 						"{@spell invisibility} (self only)",
@@ -8327,7 +8327,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell contact other plane}",
+								"{@spell contactar con otro plano}",
 								"{@spell inmovilizar monstruo}"
 							]
 						},
@@ -8560,7 +8560,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -8610,10 +8610,10 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 17}, {@hit 9} to hit with spell attacks). The archmage can cast {@spell disguise self} and {@spell invisibility} at will and has the following wizard spells prepared:"
+						"The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 17}, {@hit 9} to hit with spell attacks). The archmage can cast {@spell disfrazarse} and {@spell invisibility} at will and has the following wizard spells prepared:"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell invisibility}"
 					],
 					"spells": {
@@ -8631,7 +8631,7 @@
 							"spells": [
 								"{@spell detect magic}",
 								"{@spell identify}",
-								"{@spell mage armor}*",
+								"{@spell armadura de mago}*",
 								"{@spell magic missile}"
 							]
 						},
@@ -9649,7 +9649,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -10461,7 +10461,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -10538,7 +10538,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the devil's darkvision."
 					]
@@ -10596,7 +10596,7 @@
 				"path": "bestiary/barbed-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -10672,7 +10672,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -10745,7 +10745,7 @@
 							"{@spell phantasmal force}"
 						],
 						"2e": [
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell invisibility} (self only)"
 						]
 					},
@@ -11104,7 +11104,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -11169,7 +11169,7 @@
 			"cr": "3",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the devil's darkvision."
 					]
@@ -11230,7 +11230,7 @@
 				"glaive|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -11690,7 +11690,7 @@
 								{
 									"type": "item",
 									"name": "Paralyzing Ray:",
-									"entry": "{@spell modify memory}, {@spell silence} (1 minute)"
+									"entry": "{@spell alterar los recuerdos}, {@spell silence} (1 minute)"
 								},
 								{
 									"type": "item",
@@ -13334,7 +13334,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -13404,7 +13404,7 @@
 			"cr": "9",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the devil's darkvision."
 					]
@@ -13481,7 +13481,7 @@
 				"path": "bestiary/bone-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -15007,7 +15007,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"NX",
@@ -15085,7 +15085,7 @@
 							"{@spell plane shift} (self only)"
 						],
 						"3e": [
-							"{@spell alter self}",
+							"{@spell alterar el propio aspecto}",
 							"{@spell command}",
 							"{@spell detect magic}"
 						]
@@ -15901,7 +15901,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -15966,7 +15966,7 @@
 			"cr": "8",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the devil's darkvision."
 					]
@@ -16012,7 +16012,7 @@
 				"path": "bestiary/chain-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -16076,7 +16076,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -19011,7 +19011,7 @@
 							"type": "entries",
 							"name": "Disguises",
 							"entries": [
-								"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disguise self} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
+								"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disfrazarse} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
 							]
 						},
 						{
@@ -19080,7 +19080,7 @@
 						"_": {
 							"mode": "addSpells",
 							"will": [
-								"{@spell disguise self} (often with a longer duration than is normal for that spell; see Disguises)"
+								"{@spell disfrazarse} (often with a longer duration than is normal for that spell; see Disguises)"
 							],
 							"daily": {
 								"3e": [
@@ -19093,7 +19093,7 @@
 							"items": {
 								"name": "Disguises",
 								"entries": [
-									"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disguise self} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
+									"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disfrazarse} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
 								]
 							}
 						}
@@ -20182,7 +20182,7 @@
 						"1e": [
 							"{@spell blindness/deafness}",
 							"{@spell blur}",
-							"{@spell disguise self}"
+							"{@spell disfrazarse}"
 						]
 					},
 					"ability": "int"
@@ -21217,7 +21217,7 @@
 							"type": "entries",
 							"name": "Disguises",
 							"entries": [
-								"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disguise self} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
+								"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disfrazarse} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
 							]
 						},
 						{
@@ -21291,7 +21291,7 @@
 						"_": {
 							"mode": "addSpells",
 							"will": [
-								"{@spell disguise self} (often with a longer duration than is normal for that spell; see Disguises)"
+								"{@spell disfrazarse} (often with a longer duration than is normal for that spell; see Disguises)"
 							],
 							"daily": {
 								"3e": [
@@ -21304,7 +21304,7 @@
 							"items": {
 								"name": "Disguises",
 								"entries": [
-									"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disguise self} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
+									"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disfrazarse} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
 								]
 							}
 						}
@@ -21821,7 +21821,7 @@
 				"S"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -22079,7 +22079,7 @@
 								"Cantrips (at will): {@spell poison spray}, {@spell thaumaturgy}",
 								"1st level (4 slots): {@spell bane}, {@spell detect magic}, {@spell sanctuary}",
 								"2nd level (3 slots): {@spell inmovilizar persona}, {@spell silence}",
-								"3rd level (3 slots): {@spell clairvoyance}, {@spell dispel magic}",
+								"3rd level (3 slots): {@spell clarividencia}, {@spell dispel magic}",
 								"4th level (2 slots): {@spell divination}, {@spell libertad de movimiento}"
 							]
 						}
@@ -22169,7 +22169,7 @@
 								"3": {
 									"slots": 3,
 									"spells": [
-										"{@spell clairvoyance}",
+										"{@spell clarividencia}",
 										"{@spell dispel magic}"
 									]
 								},
@@ -22530,7 +22530,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha"
@@ -22749,7 +22749,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -22795,7 +22795,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha"
@@ -22818,7 +22818,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}",
 								"{@spell witch bolt}"
@@ -22827,7 +22827,7 @@
 						"2": {
 							"slots": 3,
 							"spells": [
-								"{@spell alter self}",
+								"{@spell alterar el propio aspecto}",
 								"{@spell paso brumoso}",
 								"{@spell web}"
 							]
@@ -23021,7 +23021,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha"
@@ -24533,7 +24533,7 @@
 							"type": "entries",
 							"name": "Disguises",
 							"entries": [
-								"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disguise self} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
+								"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disfrazarse} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
 							]
 						},
 						{
@@ -24596,7 +24596,7 @@
 						"_": {
 							"mode": "addSpells",
 							"will": [
-								"{@spell disguise self} (often with a longer duration than is normal for that spell; see Disguises)"
+								"{@spell disfrazarse} (often with a longer duration than is normal for that spell; see Disguises)"
 							],
 							"daily": {
 								"3e": [
@@ -24609,7 +24609,7 @@
 							"items": {
 								"name": "Disguises",
 								"entries": [
-									"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disguise self} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
+									"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disfrazarse} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
 								]
 							}
 						}
@@ -25122,7 +25122,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -27514,7 +27514,7 @@
 				{
 					"name": "Rejuvenation",
 					"entries": [
-						"If the flameskull is destroyed, it regains all its hit points in 1 hour unless Agua bendita is sprinkled on its remains or a {@spell dispel magic} or {@spell remove curse} spell is cast on them."
+						"If the flameskull is destroyed, it regains all its hit points in 1 hour unless Agua bendita is sprinkled on its remains or a {@spell dispel magic} or {@spell levantar maldición} spell is cast on them."
 					]
 				}
 			],
@@ -33804,7 +33804,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -34352,7 +34352,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"gnoll"
 				]
@@ -35476,7 +35476,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -36438,7 +36438,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell contact other plane}",
+										"{@spell contactar con otro plano}",
 										"{@spell scrying}"
 									]
 								},
@@ -36559,7 +36559,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell contact other plane}",
+											"{@spell contactar con otro plano}",
 											"{@spell scrying}"
 										]
 									},
@@ -37791,7 +37791,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell bestow curse}",
-								"{@spell clairvoyance}"
+								"{@spell clarividencia}"
 							]
 						},
 						"4": {
@@ -38014,7 +38014,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell dispel magic}",
-								"{@spell remove curse}",
+								"{@spell levantar maldición}",
 								"{@spell tongues}"
 							]
 						},
@@ -38707,7 +38707,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -39039,7 +39039,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -40206,7 +40206,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -40273,7 +40273,7 @@
 			"cr": "11",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the devil's darkvision."
 					]
@@ -40331,7 +40331,7 @@
 				"path": "bestiary/horned-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -40757,7 +40757,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -40824,7 +40824,7 @@
 			"cr": "14",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the devil's darkvision."
 					]
@@ -40915,7 +40915,7 @@
 				"path": "bestiary/ice-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -41191,7 +41191,7 @@
 				"T"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -41259,7 +41259,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the imp's darkvision."
 					]
@@ -41310,7 +41310,7 @@
 				"path": "bestiary/imp.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance",
 				"Shapechanger"
 			],
@@ -41391,7 +41391,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"shapechanger"
 				]
@@ -43959,7 +43959,7 @@
 						"The lamia's innate spellcasting ability is Charisma (spell save {@dc 13}). It can innately cast the following spells, requiring no material components."
 					],
 					"will": [
-						"{@spell disguise self} (any humanoid form)",
+						"{@spell disfrazarse} (any humanoid form)",
 						"{@spell major image}"
 					],
 					"daily": {
@@ -44073,7 +44073,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -44120,7 +44120,7 @@
 			"cr": "0",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the lemure's darkvision."
 					]
@@ -44145,7 +44145,7 @@
 				"path": "bestiary/lemure.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"SD"
@@ -45469,7 +45469,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -45519,7 +45519,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -46084,7 +46084,7 @@
 				"S"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -46497,7 +46497,7 @@
 							"type": "entries",
 							"name": "Disguises",
 							"entries": [
-								"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disguise self} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
+								"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disfrazarse} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
 							]
 						},
 						{
@@ -46576,7 +46576,7 @@
 						"_": {
 							"mode": "addSpells",
 							"will": [
-								"{@spell disguise self} (often with a longer duration than is normal for that spell; see Disguises)"
+								"{@spell disfrazarse} (often with a longer duration than is normal for that spell; see Disguises)"
 							],
 							"daily": {
 								"3e": [
@@ -46589,7 +46589,7 @@
 							"items": {
 								"name": "Disguises",
 								"entries": [
-									"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disguise self} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
+									"Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the {@spell disfrazarse} spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the {@spell true polymorph} spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well."
 								]
 							}
 						}
@@ -46661,7 +46661,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -47403,7 +47403,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -47898,7 +47898,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -48068,7 +48068,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -48097,7 +48097,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell shield}",
 								"{@spell sleep}"
 							]
@@ -48113,7 +48113,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell relámpago}",
 								"{@spell sending}"
 							]
@@ -49061,7 +49061,7 @@
 				{
 					"name": "Rotting Fist",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning damage plus 10 ({@damage 3d6}) necrotic damage. If the target is a creature, it must succeed on a {@dc 12} Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell remove curse} spell or other magic."
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning damage plus 10 ({@damage 3d6}) necrotic damage. If the target is a creature, it must succeed on a {@dc 12} Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell levantar maldición} spell or other magic."
 					]
 				},
 				{
@@ -49296,7 +49296,7 @@
 				{
 					"name": "Rotting Fist",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}14 ({@damage 3d6 + 4}) bludgeoning damage plus 21 ({@damage 6d6}) necrotic damage. If the target is a creature, it must succeed on a {@dc 16} Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell remove curse} spell or other magic."
+						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}14 ({@damage 3d6 + 4}) bludgeoning damage plus 21 ({@damage 6d6}) necrotic damage. If the target is a creature, it must succeed on a {@dc 16} Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell levantar maldición} spell or other magic."
 					]
 				},
 				{
@@ -49897,7 +49897,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -50231,7 +50231,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -50406,7 +50406,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell contact other plane}",
+										"{@spell contactar con otro plano}",
 										"{@spell scrying}"
 									]
 								},
@@ -50528,7 +50528,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell contact other plane}",
+											"{@spell contactar con otro plano}",
 											"{@spell scrying}"
 										]
 									},
@@ -50591,7 +50591,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -51082,7 +51082,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -53964,7 +53964,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -56320,7 +56320,7 @@
 				"T"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -56609,7 +56609,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -56677,7 +56677,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell mage hand}",
 						"{@spell minor illusion}"
 					],
@@ -56690,7 +56690,7 @@
 							"{@spell suggestion}"
 						],
 						"1e": [
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell fly}",
 							"{@spell plane shift}",
 							"{@spell true seeing}"
@@ -56717,7 +56717,7 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a {@spell remove curse} spell or similar magic."
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a {@spell levantar maldición} spell or similar magic."
 					]
 				}
 			],
@@ -60142,7 +60142,7 @@
 								"5": {
 									"slots": 2,
 									"spells": [
-										"{@spell contact other plane}",
+										"{@spell contactar con otro plano}",
 										"{@spell scrying}"
 									]
 								},
@@ -60257,7 +60257,7 @@
 									"5": {
 										"slots": 2,
 										"spells": [
-											"{@spell contact other plane}",
+											"{@spell contactar con otro plano}",
 											"{@spell scrying}"
 										]
 									},
@@ -60590,7 +60590,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -62671,7 +62671,7 @@
 				"S"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -62732,7 +62732,7 @@
 			"cr": "2",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the devil's darkvision."
 					]
@@ -62787,7 +62787,7 @@
 				"path": "bestiary/spined-devil.mp3"
 			},
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Flyby",
 				"Magic Resistance"
 			],
@@ -62946,7 +62946,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell dominate person}"
+								"{@spell dominar persona}"
 							]
 						}
 					},
@@ -64153,7 +64153,7 @@
 					"will": [
 						"{@spell detect magic}",
 						"{@spell feather fall}",
-						"{@spell levitate}",
+						"{@spell levitar}",
 						"{@spell light}"
 					],
 					"daily": {
@@ -64325,7 +64325,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"shapechanger"
 				]
@@ -67861,7 +67861,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -67938,8 +67938,8 @@
 						"The ultroloth's innate spellcasting ability is Charisma (spell save {@dc 17}). The ultroloth can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell alter self}",
-						"{@spell clairvoyance}",
+						"{@spell alterar el propio aspecto}",
+						"{@spell clarividencia}",
 						"{@spell darkness}",
 						"{@spell detect magic}",
 						"{@spell detect thoughts}",
@@ -69090,7 +69090,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell dominate person}"
+								"{@spell dominar persona}"
 							]
 						}
 					},
@@ -70040,7 +70040,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -73911,7 +73911,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon",
 					"shapechanger"
@@ -73996,7 +73996,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell dominate person}"
+							"{@spell dominar persona}"
 						]
 					},
 					"ability": "cha"

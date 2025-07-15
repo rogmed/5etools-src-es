@@ -287,7 +287,7 @@
 						{
 							"type": "item",
 							"name": "Watery Sight",
-							"entry": "Water within 6 miles of the lair is a conduit for the dragon's psionic presence. As an action, the dragon can cast the {@spell clairvoyance} spell, requiring no spell components and targeting any body of water in that region."
+							"entry": "Water within 6 miles of the lair is a conduit for the dragon's psionic presence. As an action, the dragon can cast the {@spell clarividencia} spell, requiring no spell components and targeting any body of water in that region."
 						}
 					]
 				},
@@ -461,7 +461,7 @@
 							"type": "item",
 							"name": "Meddlesome Magic",
 							"entries": [
-								"Whenever a creature other than the hag or its allies finishes a {@variantrule Descanso largo|XPHB} while within 1 mile of the lair, the next time that creature casts a spell using a spell slot, it also casts {@spell Confusion|XPHB} centered on itself. The spell uses the creature's spellcasting ability and doesn't require {@status Concentration|XPHB}."
+								"Whenever a creature other than the hag or its allies finishes a {@variantrule Descanso largo|XPHB} while within 1 mile of the lair, the next time that creature casts a spell using a spell slot, it also casts {@spell confusión|XPHB} centered on itself. The spell uses the creature's spellcasting ability and doesn't require {@status Concentration|XPHB}."
 							]
 						}
 					]
@@ -1998,7 +1998,7 @@
 						{
 							"type": "item",
 							"name": "Icy Sight",
-							"entry": "Ice and quartz within 6 miles of the lair become conduits for the dragon's psionic presence. As an action, the dragon can cast the {@spell clairvoyance} spell, requiring no spell components and targeting any ice or quartz crystals in that region."
+							"entry": "Ice and quartz within 6 miles of the lair become conduits for the dragon's psionic presence. As an action, the dragon can cast the {@spell clarividencia} spell, requiring no spell components and targeting any ice or quartz crystals in that region."
 						},
 						{
 							"type": "item",
@@ -2791,7 +2791,7 @@
 						{
 							"type": "item",
 							"name": "Fiery Sight",
-							"entry": "Fire and lava within 6 miles of the lair become conduits for the dragon's psionic presence. As an action, the dragon can cast the {@spell clairvoyance} spell, requiring no spell components and targeting any area of fire or lava in that region."
+							"entry": "Fire and lava within 6 miles of the lair become conduits for the dragon's psionic presence. As an action, the dragon can cast the {@spell clarividencia} spell, requiring no spell components and targeting any area of fire or lava in that region."
 						},
 						{
 							"type": "item",
@@ -4533,7 +4533,7 @@
 							"type": "item",
 							"name": "All-Seeing",
 							"entries": [
-								"While in its lair, the lich can cast {@spell Clairvoyance|XPHB}, requiring no spell components and using the same spellcasting ability as its Spellcasting action."
+								"While in its lair, the lich can cast {@spell Clarividencia|XPHB}, requiring no spell components and using the same spellcasting ability as its Spellcasting action."
 							]
 						},
 						{
@@ -5222,7 +5222,7 @@
 					"items": [
 						"Food instantly molders and water instantly evaporates when brought into the lair. Other non magical drinks are spoiled - wine turning to vinegar, for instance.",
 						"{@spell Divination} spells cast within the lair by creatures other than the mummy lord have a {@chance 25} chance to provide misleading results, as determined by the DM. If a {@spell divination} spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.",
-						"A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a {@spell remove curse} spell or other magic."
+						"A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a {@spell levantar maldición} spell or other magic."
 					]
 				},
 				"If the mummy lord is destroyed, these regional effects end immediately."
@@ -5769,7 +5769,7 @@
 							"type": "item",
 							"name": "Constant Surveillance",
 							"entries": [
-								"The Queen of Night and Magic can cast her senses to any area containing darkness, dim light, or shadows within 6 miles of her lair. This effect works like the clairvoyance spell, except its range is 6 miles."
+								"The Queen of Night and Magic can cast her senses to any area containing darkness, dim light, or shadows within 6 miles of her lair. This effect works like the clarividencia spell, except its range is 6 miles."
 							]
 						},
 						{
@@ -6068,7 +6068,7 @@
 							"type": "item",
 							"name": "Clearwater Sight",
 							"entries": [
-								"The waters of the river serve as a conduit for the riverine's consciousness. As an action, the riverine can cast the {@spell clairvoyance} spell, requiring no spell components, targeting any point along the river it's connected to."
+								"The waters of the river serve as a conduit for the riverine's consciousness. As an action, the riverine can cast the {@spell clarividencia} spell, requiring no spell components, targeting any point along the river it's connected to."
 							]
 						},
 						{
@@ -6132,7 +6132,7 @@
 						{
 							"type": "item",
 							"name": "Stony Sight",
-							"entry": "Natural stone within 6 miles of the lair is a conduit for the dragon's psionic presence. As an action, the dragon can cast the {@spell clairvoyance} spell, requiring no spell components and targeting any natural stone formation in that region."
+							"entry": "Natural stone within 6 miles of the lair is a conduit for the dragon's psionic presence. As an action, the dragon can cast the {@spell clarividencia} spell, requiring no spell components and targeting any natural stone formation in that region."
 						},
 						{
 							"type": "item",
@@ -6171,7 +6171,7 @@
 					"items": [
 						"{@creature Giant spider||Giant spiders} are attracted to the area within 6 miles of the lair and settle there in large numbers.",
 						"Natural stone within 6 miles of the lair grows plentiful crystal formations and sapphire gemstone veins, particularly underground.",
-						"Natural stone within 6 miles of the lair becomes a conduit for the dragon's psionic presence. As an action, the dragon can cast the {@spell clairvoyance} spell, requiring no components, targeting any natural stone formation in that region."
+						"Natural stone within 6 miles of the lair becomes a conduit for the dragon's psionic presence. As an action, the dragon can cast the {@spell clarividencia} spell, requiring no components, targeting any natural stone formation in that region."
 					]
 				}
 			]
@@ -6761,7 +6761,7 @@
 							"type": "item",
 							"name": "Distant Sight",
 							"entries": [
-								"While in its lair, the sphinx can cast {@spell Clairvoyance|XPHB}, requiring no spell components and using the same spellcasting ability as its Spellcasting action. When cast this way, the spell's range is 1 mile."
+								"While in its lair, the sphinx can cast {@spell Clarividencia|XPHB}, requiring no spell components and using the same spellcasting ability as its Spellcasting action. When cast this way, the spell's range is 1 mile."
 							]
 						},
 						{
@@ -6909,7 +6909,7 @@
 						"Until initiative count 20 of the next round, Strahd can pass through solid walls, doors, ceilings, and floors as if they weren't there.",
 						"Strahd targets any number of doors and windows that he can see, causing each one to either open or close as he wishes. Closed doors can be magically locked (needing a successful {@dc 20} Strength check to force open) until Strahd chooses to end the effect, or until Strahd uses this lair action again.",
 						"Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a {@creature specter}.",
-						"Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a {@dc 17} Charisma saving throw, its shadow detaches from it and becomes a {@creature shadow} that obeys Strahd's commands, acting on initiative count 20. A {@spell greater restoration} spell or a {@spell remove curse} spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed."
+						"Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a {@dc 17} Charisma saving throw, its shadow detaches from it and becomes a {@creature shadow} that obeys Strahd's commands, acting on initiative count 20. A {@spell greater restoration} spell or a {@spell levantar maldición} spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed."
 					]
 				}
 			]
@@ -6965,7 +6965,7 @@
 						{
 							"type": "item",
 							"name": "Memory Loss",
-							"entry": "Unless otherwise stated, a creature that leaves the domain must make a {@dc 10} Wisdom saving throw; Fey creatures and creatures with the Fey Ancestry trait automatically succeed on the saving throw. On a failed save, the creature remembers nothing of its time in the garden or the Palace of Spires. On a successful save, the creature's memories remain intact, but they're hazy and dreamlike. A Remove Curse or Restablecimiento mayor spell restores the creature's memories."
+							"entry": "Unless otherwise stated, a creature that leaves the domain must make a {@dc 10} Wisdom saving throw; Fey creatures and creatures with the Fey Ancestry trait automatically succeed on the saving throw. On a failed save, the creature remembers nothing of its time in the garden or the Palace of Spires. On a successful save, the creature's memories remain intact, but they're hazy and dreamlike. A Levantar maldición or Restablecimiento mayor spell restores the creature's memories."
 						},
 						{
 							"type": "item",
@@ -7092,7 +7092,7 @@
 						{
 							"type": "item",
 							"name": "Watery Sight",
-							"entry": "Water within 6 miles of the lair is a conduit for the dragon's psionic presence. As an action, the dragon can cast the {@spell clairvoyance} spell, requiring no spell components and targeting any body of water in that region."
+							"entry": "Water within 6 miles of the lair is a conduit for the dragon's psionic presence. As an action, the dragon can cast the {@spell clarividencia} spell, requiring no spell components and targeting any body of water in that region."
 						}
 					]
 				},
@@ -7247,7 +7247,7 @@
 					"items": [
 						"Food instantly molders and water instantly evaporates when brought into the lair. Other nonmagical drinks are spoiled\u2014wine turning to vinegar, for instance.",
 						"{@spell Divination} spells cast within the lair by creatures other than Valin have a {@chance 25} chance to provide misleading results, as determined by the DM. If a {@spell divination} spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.",
-						"A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a {@spell remove curse} spell or other magic."
+						"A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a {@spell levantar maldición} spell or other magic."
 					]
 				},
 				"If Valin is destroyed, these regional effects end immediately."

@@ -177,7 +177,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -238,7 +238,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell charm person}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}"
 							]
 						},
@@ -492,7 +492,7 @@
 				10,
 				{
 					"ac": 13,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -549,7 +549,7 @@
 								"{@spell comprehend languages}",
 								"{@spell identify}",
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell shield}"
 							]
 						},
@@ -563,7 +563,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell sending}"
 							]
 						},
@@ -953,7 +953,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell cure wounds}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell sleep}"
 							]
 						},
@@ -984,7 +984,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell dominate person}",
+								"{@spell dominar persona}",
 								"{@spell greater restoration}"
 							]
 						},
@@ -1272,7 +1272,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha"
@@ -1642,7 +1642,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell burning hands}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell shield}"
 							]
 						}
@@ -2203,7 +2203,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell burning hands}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell shield}"
 							]
 						}
@@ -2390,7 +2390,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell protección contra energía}",
-								"{@spell remove curse}",
+								"{@spell levantar maldición}",
 								"{@spell sending}"
 							]
 						}
@@ -3205,7 +3205,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha"
@@ -3382,7 +3382,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -3435,7 +3435,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -3924,7 +3924,7 @@
 						"1": {
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -4305,7 +4305,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4356,7 +4356,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -4572,7 +4572,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4623,7 +4623,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -4803,7 +4803,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -5019,7 +5019,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -6368,7 +6368,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell burning hands}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell shield}"
 							]
 						}
@@ -6441,7 +6441,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -6501,7 +6501,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell alarm}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -6569,7 +6569,7 @@
 				{
 					"name": "Arcane Ward",
 					"entries": [
-						"Remallia has a magical ward that has 30 hit points. Whenever she takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, Remallia takes any remaining damage. When Remallia casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. This applies to any of the following spells she casts: {@spell alarm}, {@spell mage armor}, {@spell shield}, {@spell arcane lock}, {@spell counterspell}, {@spell dispel magic}, {@spell banishment}, {@spell piel pétrea}, {@spell globe of invulnerability} and {@spell symbol}."
+						"Remallia has a magical ward that has 30 hit points. Whenever she takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, Remallia takes any remaining damage. When Remallia casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. This applies to any of the following spells she casts: {@spell alarm}, {@spell armadura de mago}, {@spell shield}, {@spell arcane lock}, {@spell counterspell}, {@spell dispel magic}, {@spell banishment}, {@spell piel pétrea}, {@spell globe of invulnerability} and {@spell symbol}."
 					]
 				}
 			],
@@ -6762,7 +6762,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -6818,7 +6818,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -7222,7 +7222,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -7280,7 +7280,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -7443,7 +7443,7 @@
 						"1e": [
 							"{@spell darkness}",
 							"{@spell faerie fire}",
-							"{@spell levitate} (self only)"
+							"{@spell levitar} (self only)"
 						]
 					},
 					"ability": "cha"
@@ -8544,7 +8544,7 @@
 				14,
 				{
 					"ac": 17,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -8605,7 +8605,7 @@
 							"spells": [
 								"{@spell detect magic}",
 								"{@spell identify}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell ola atronadora}"
 							]
 						},
@@ -8688,7 +8688,7 @@
 				{
 					"name": "Staff Spells",
 					"entries": [
-						"While holding the {@item Blackstaff|WDH}, Vajra can use an action to expend 1 or more of its charges to cast one of the following spells from it, using her spell save DC and spell attack bonus: {@spell cono de frío} (5 charges), {@spell fireball} (5th-level version, 5 charges), {@spell globe of invulnerability} (6 charges), {@spell inmovilizar monstruo} (5 charges), {@spell levitate} (2 charges), {@spell relámpago} (5th-level version, 5 charges), {@spell magic missile} (1 charge), {@spell ray of enfeeblement} (1 charge), or {@spell wall of force} (5 charges)."
+						"While holding the {@item Blackstaff|WDH}, Vajra can use an action to expend 1 or more of its charges to cast one of the following spells from it, using her spell save DC and spell attack bonus: {@spell cono de frío} (5 charges), {@spell fireball} (5th-level version, 5 charges), {@spell globe of invulnerability} (6 charges), {@spell inmovilizar monstruo} (5 charges), {@spell levitar} (2 charges), {@spell relámpago} (5th-level version, 5 charges), {@spell magic missile} (1 charge), {@spell ray of enfeeblement} (1 charge), or {@spell wall of force} (5 charges)."
 					]
 				}
 			],
@@ -8982,7 +8982,7 @@
 								"{@spell charm person}",
 								"{@spell command}",
 								"{@spell detect magic}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell protección contra el bien y el mal}",
 								"{@spell sanctuary}"
 							]
@@ -9001,7 +9001,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell blink}",
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell dispel magic}",
 								"{@spell magic circle}",
 								"{@spell protección contra energía}"
@@ -9020,9 +9020,9 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell dominate person}",
+								"{@spell dominar persona}",
 								"{@spell flame strike}",
-								"{@spell modify memory}",
+								"{@spell alterar los recuerdos}",
 								"{@spell plaga de insectos}"
 							]
 						},

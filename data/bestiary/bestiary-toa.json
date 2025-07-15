@@ -231,7 +231,7 @@
 				{
 					"name": "Invoke Curse",
 					"entries": [
-						"While holding the Staff of the Forgotten One, Acererak expends 1 charge from it and targets one creature he can see within 60 feet of him. The target must succeed on a {@dc 23} Constitution saving throw or be cursed. Until the curse is ended, the target can't regain hit points and has vulnerability to necrotic damage. {@spell Greater restoration}, {@spell remove curse}, or similar magic ends the curse on the target."
+						"While holding the Staff of the Forgotten One, Acererak expends 1 charge from it and targets one creature he can see within 60 feet of him. The target must succeed on a {@dc 23} Constitution saving throw or be cursed. Until the curse is ended, the target can't regain hit points and has vulnerability to necrotic damage. {@spell Greater restoration}, {@spell levantar maldición}, or similar magic ends the curse on the target."
 					]
 				}
 			],
@@ -3581,7 +3581,7 @@
 					"spells": {
 						"0": {
 							"spells": [
-								"{@spell eldritch blast}",
+								"{@spell descarga sobrenatural}",
 								"{@spell mage hand}"
 							]
 						},
@@ -4102,7 +4102,7 @@
 						"5": {
 							"slots": 2,
 							"spells": [
-								"{@spell contact other plane}",
+								"{@spell contactar con otro plano}",
 								"{@spell geas}"
 							]
 						},
@@ -5911,7 +5911,7 @@
 							"spells": [
 								"{@spell comprehend languages}",
 								"{@spell detect magic}",
-								"{@spell disguise self}"
+								"{@spell disfrazarse}"
 							]
 						}
 					},
@@ -6327,7 +6327,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell dominate person}"
+								"{@spell dominar persona}"
 							]
 						}
 					},
@@ -6444,7 +6444,7 @@
 				{
 					"name": "Touch",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one creature. {@h}13 ({@damage 3d8}) psychic damage. If the target is a humanoid that drops to 0 hit points as a result of this damage, it dies and is implanted with a yellow musk creeper bulb. Unless the bulb is destroyed, the corpse animates as a yellow musk zombie after being dead for 24 hours. The bulb is destroyed if the creature is raised from the dead before it can transform into a yellow musk zombie, or if the corpse is targeted by a {@spell remove curse} spell or similar magic before it animates."
+						"{@atk mw} {@hit 3} to hit, reach 5 ft., one creature. {@h}13 ({@damage 3d8}) psychic damage. If the target is a humanoid that drops to 0 hit points as a result of this damage, it dies and is implanted with a yellow musk creeper bulb. Unless the bulb is destroyed, the corpse animates as a yellow musk zombie after being dead for 24 hours. The bulb is destroyed if the creature is raised from the dead before it can transform into a yellow musk zombie, or if the corpse is targeted by a {@spell levantar maldición} spell or similar magic before it animates."
 					]
 				},
 				{
@@ -6592,7 +6592,7 @@
 					],
 					"will": [
 						"{@spell animal friendship} (snakes only)",
-						"{@spell eldritch blast} (2 beams)",
+						"{@spell descarga sobrenatural} (2 beams)",
 						"{@spell minor illusion}",
 						"{@spell poison spray}"
 					],
@@ -6810,14 +6810,14 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell tongues}"
 							]
 						},
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell dominate beast}",
+								"{@spell dominar bestia}",
 								"{@spell piel pétrea}"
 							]
 						},

@@ -546,21 +546,21 @@
 				{
 					"prepared": {
 						"3": [
-							"aid|xphb",
+							"auxilio|xphb",
 							"bless|xphb",
-							"cure wounds|xphb",
-							"lesser restoration|xphb"
+							"curar heridas|xphb",
+							"restablecimiento menor|xphb"
 						],
 						"5": [
 							"mass healing word|xphb",
-							"revivify|xphb"
+							"revivir|xphb"
 						],
 						"7": [
 							"aura of life|xphb",
 							"death ward|xphb"
 						],
 						"9": [
-							"greater restoration|xphb",
+							"restablecimiento mayor|xphb",
 							"mass cure wounds|xphb"
 						]
 					}
@@ -585,18 +585,18 @@
 				{
 					"prepared": {
 						"3": [
-							"burning hands|xphb",
-							"faerie fire|xphb",
-							"scorching ray|xphb",
+							"Manos ardientes|xphb",
+							"fuego feérico|xphb",
+							"rayo abrasador|xphb",
 							"see invisibility|xphb"
 						],
 						"5": [
-							"daylight|xphb",
-							"fireball|xphb"
+							"luz del día|xphb",
+							"bola de fuego|xphb"
 						],
 						"7": [
-							"arcane eye|xphb",
-							"wall of fire|xphb"
+							"ojo arcano|xphb",
+							"muro de fuego|xphb"
 						],
 						"9": [
 							"flame strike|xphb",
@@ -625,8 +625,8 @@
 					"prepared": {
 						"3": [
 							"charm person|xphb",
-							"disguise self|xphb",
-							"invisibility|xphb",
+							"disfrazarse|xphb",
+							"invisibilidad|xphb",
 							"pass without trace|xphb"
 						],
 						"5": [
@@ -634,12 +634,12 @@
 							"nondetection|xphb"
 						],
 						"7": [
-							"confusion|xphb",
+							"confusión|xphb",
 							"puerta dimensional|xphb"
 						],
 						"9": [
-							"dominate person|xphb",
-							"modify memory|xphb"
+							"dominar persona|xphb",
+							"alterar los recuerdos|xphb"
 						]
 					}
 				}
@@ -1483,7 +1483,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Disguise Self|XPHB}, {@spell Charm Person|XPHB}, {@spell Invisibilidad|XPHB}, {@spell Pass without Trace|XPHB}"
+							"{@spell disfrazarse|XPHB}, {@spell Charm Person|XPHB}, {@spell Invisibilidad|XPHB}, {@spell Pass without Trace|XPHB}"
 						],
 						[
 							"5",
@@ -1491,11 +1491,11 @@
 						],
 						[
 							"7",
-							"{@spell Confusion|XPHB}, {@spell Puerta dimensional|XPHB}"
+							"{@spell confusión|XPHB}, {@spell Puerta dimensional|XPHB}"
 						],
 						[
 							"9",
-							"{@spell Modify Memory|XPHB}, {@spell Dominate Person|XPHB}"
+							"{@spell Alterar los recuerdos|XPHB}, {@spell Dominar persona|XPHB}"
 						]
 					]
 				}

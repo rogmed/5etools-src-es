@@ -728,7 +728,7 @@
 			"reprintedAs": [
 				"Celestial Spirit|XPHB"
 			],
-			"summonedBySpell": "Summon Celestial|TCE",
+			"summonedBySpell": "invocar celestial|TCE",
 			"summonedBySpellLevel": 5,
 			"size": [
 				"L"
@@ -1581,7 +1581,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"U"
 			],
@@ -1642,7 +1642,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight (Devil Only)",
+					"name": "Visión del diablo (Devil Only)",
 					"entries": [
 						"Magical darkness doesn't impede the fiend's darkvision."
 					]
@@ -1676,7 +1676,7 @@
 			],
 			"traitTags": [
 				"Death Burst",
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -1714,7 +1714,7 @@
 							},
 							{
 								"mode": "removeArr",
-								"names": "Devil's Sight (Devil Only)"
+								"names": "Visión del diablo (Devil Only)"
 							}
 						],
 						"action": [
@@ -1757,8 +1757,8 @@
 							{
 								"mode": "renameArr",
 								"renames": {
-									"rename": "Devil's Sight (Devil Only)",
-									"with": "Devil's Sight"
+									"rename": "Visión del diablo (Devil Only)",
+									"with": "Visión del diablo"
 								}
 							},
 							{
@@ -1791,7 +1791,7 @@
 						"fly": 60
 					},
 					"traitTags": [
-						"Devil's Sight",
+						"Visión del diablo",
 						"Magic Resistance"
 					],
 					"damageTags": [
@@ -1807,7 +1807,7 @@
 								"mode": "removeArr",
 								"names": [
 									"Death Throes (Demon Only)",
-									"Devil's Sight (Devil Only)"
+									"Visión del diablo (Devil Only)"
 								]
 							}
 						],

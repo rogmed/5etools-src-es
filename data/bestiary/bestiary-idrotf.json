@@ -723,7 +723,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}"
 							]
 						},
@@ -1110,7 +1110,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"C",
 				"E"
@@ -1811,7 +1811,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell magic missile} *"
 							]
 						},
@@ -1819,7 +1819,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell invisibility}",
-								"{@spell levitate}",
+								"{@spell levitar}",
 								"{@spell phantasmal force}"
 							]
 						},
@@ -1834,7 +1834,7 @@
 						"4": {
 							"slots": 3,
 							"spells": [
-								"{@spell arcane eye}",
+								"{@spell ojo arcano}",
 								"{@spell confusion}"
 							]
 						},
@@ -1928,7 +1928,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell disguise self}",
+								"{@spell disfrazarse}",
 								"{@spell magic missile}*"
 							]
 						},
@@ -1936,7 +1936,7 @@
 							"slots": 2,
 							"spells": [
 								"{@spell invisibility}",
-								"{@spell levitate}",
+								"{@spell levitar}",
 								"{@spell phantasmal force}"
 							]
 						}
@@ -2880,7 +2880,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"daily": {
 						"1e": [
@@ -3017,10 +3017,10 @@
 					"name": "Innate Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The squidling's innate spellcasting ability is Intelligence (spell save {@dc 7}). It can innately cast {@spell levitate} at will, requiring no components."
+						"The squidling's innate spellcasting ability is Intelligence (spell save {@dc 7}). It can innately cast {@spell levitar} at will, requiring no components."
 					],
 					"will": [
-						"{@spell levitate}"
+						"{@spell levitar}"
 					],
 					"ability": "int",
 					"hidden": [
@@ -5532,7 +5532,7 @@
 						"1": {
 							"slots": 4,
 							"spells": [
-								"{@spell mage armor}*",
+								"{@spell armadura de mago}*",
 								"{@spell shield}",
 								"{@spell sleep}"
 							]
@@ -6144,7 +6144,7 @@
 					],
 					"daily": {
 						"3": [
-							"{@spell silent image}"
+							"{@spell imagen silenciosa}"
 						],
 						"1e": [
 							"{@spell chromatic orb}",
@@ -6769,7 +6769,7 @@
 						"4": {
 							"slots": 2,
 							"spells": [
-								"{@spell arcane eye}",
+								"{@spell ojo arcano}",
 								"{@spell blight}"
 							]
 						}
@@ -7191,7 +7191,7 @@
 						"Xardorok's innate spellcasting ability is Charisma (spell save {@dc 15}, {@hit 7} to hit with spell attacks). He can innately cast the following spells, requiring no material components:"
 					],
 					"will": [
-						"{@spell eldritch blast} (see \"Actions\" below)",
+						"{@spell descarga sobrenatural} (see \"Actions\" below)",
 						"{@spell mage hand}"
 					],
 					"daily": {
@@ -7221,7 +7221,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Xardorok attacks twice with a weapon or casts {@spell eldritch blast} twice."
+						"Xardorok attacks twice with a weapon or casts {@spell descarga sobrenatural} twice."
 					]
 				},
 				{
@@ -7231,7 +7231,7 @@
 					]
 				},
 				{
-					"name": "Eldritch Blast (Cantrip)",
+					"name": "Descarga sobrenatural (Cantrip)",
 					"entries": [
 						"{@atk rs} {@hit 7} to hit, range 120 ft., one creature. {@h}9 ({@damage 1d10 + 4}) force damage."
 					]
@@ -7251,7 +7251,7 @@
 			],
 			"reaction": [
 				{
-					"name": "Hellish Rebuke (2/Day)",
+					"name": "Reprensión infernal (2/Day)",
 					"entries": [
 						"When Xardorok is damaged by a creature within 60 feet of him that he can see, the creature that damaged him is engulfed in hellish flames and must make a {@dc 15} Dexterity saving throw, taking 16 ({@damage 3d10}) fire damage on a failed save, or half as much damage on a successful one."
 					]

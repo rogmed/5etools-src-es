@@ -4250,7 +4250,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -4691,7 +4691,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"swarmSize": "T"
 			},
 			"alignment": [
@@ -4777,7 +4777,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede Ia'Affrat's darkvision."
 					]
@@ -4879,7 +4879,7 @@
 				"urban"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Legendary Resistances",
 				"Magic Resistance"
 			],
@@ -5034,7 +5034,7 @@
 							"items": [
 								{
 									"type": "item",
-									"name": "Confusion",
+									"name": "Confusión",
 									"entries": [
 										"The target can't take reactions and acts randomly until the end of its next turn, as if it had failed the saving throw against the {@spell confusion} spell."
 									]
@@ -5126,7 +5126,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -5637,7 +5637,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -5708,7 +5708,7 @@
 			"cr": "10",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the devil's darkvision."
 					]
@@ -5771,7 +5771,7 @@
 				"whip|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -7480,7 +7480,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -7968,13 +7968,13 @@
 						"The blood hag casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell knock}",
 						"{@spell tongues}"
 					],
 					"daily": {
 						"3e": [
-							"{@spell modify memory}",
+							"{@spell alterar los recuerdos}",
 							"{@spell pass without trace}"
 						]
 					},
@@ -8922,7 +8922,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"shapechanger"
 				]
@@ -9871,7 +9871,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -9943,7 +9943,7 @@
 						"The cambium casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell detect thoughts}",
 						"{@spell spare the dying}"
 					],
@@ -11110,7 +11110,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -11196,7 +11196,7 @@
 						],
 						"3e": [
 							"{@spell dispel magic}",
-							"{@spell modify memory}"
+							"{@spell alterar los recuerdos}"
 						]
 					},
 					"ability": "cha",
@@ -11205,7 +11205,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the chort devil's darkvision."
 					]
@@ -11261,7 +11261,7 @@
 				"urban"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -13895,7 +13895,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -13967,7 +13967,7 @@
 			"cr": "6",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the crystalline devil's darkvision."
 					]
@@ -14024,7 +14024,7 @@
 				"urban"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"False Appearance",
 				"Magic Resistance"
 			],
@@ -15506,7 +15506,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -15747,7 +15747,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -15853,7 +15853,7 @@
 							"{@spell incendiary cloud}"
 						],
 						"3e": [
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell haste}"
 						]
 					},
@@ -16020,7 +16020,7 @@
 				"G"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -16292,7 +16292,7 @@
 				"G"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -17657,7 +17657,7 @@
 						"The domovoi casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell alter self}"
+						"{@spell alterar el propio aspecto}"
 					],
 					"daily": {
 						"3e": [
@@ -18363,7 +18363,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -23423,7 +23423,7 @@
 					],
 					"daily": {
 						"3e": [
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell suggestion}"
 						]
 					},
@@ -24857,7 +24857,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -24938,7 +24938,7 @@
 						"The gilded devil casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell detect thoughts}",
 						"{@spell suggestion}"
 					],
@@ -24954,7 +24954,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the gilded devil's darkvision."
 					]
@@ -24968,7 +24968,7 @@
 				{
 					"name": "Liar's Largesse",
 					"entries": [
-						"If a creature accepts a gift of jewelry from the gilded devil, the creature becomes cursed until cured by a {@spell remove curse} spell or similar magic. While cursed, the creature has disadvantage on saving throws against the devil's spells and abilities."
+						"If a creature accepts a gift of jewelry from the gilded devil, the creature becomes cursed until cured by a {@spell levantar maldición} spell or similar magic. While cursed, the creature has disadvantage on saving throws against the devil's spells and abilities."
 					]
 				},
 				{
@@ -25023,7 +25023,7 @@
 				"urban"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -26043,7 +26043,7 @@
 						"The grim jester casts one of the following spells, requiring no components and using Charisma as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell grease}"
 					],
 					"daily": {
@@ -26617,7 +26617,7 @@
 						],
 						"1e": [
 							"{@spell dispel magic}",
-							"{@spell remove curse}"
+							"{@spell levantar maldición}"
 						]
 					},
 					"ability": "wis",
@@ -26724,7 +26724,7 @@
 			"size": [
 				"H"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -26878,7 +26878,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -28479,7 +28479,7 @@
 				"S"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -28566,7 +28566,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the ink devil's darkvision."
 					]
@@ -28616,7 +28616,7 @@
 				"planar"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -29426,7 +29426,7 @@
 			"size": [
 				"S"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -29686,7 +29686,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -29773,7 +29773,7 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell dominate person}"
+							"{@spell dominar persona}"
 						],
 						"3": [
 							"{@spell glibness}"
@@ -30480,7 +30480,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -30545,7 +30545,7 @@
 			"cr": "11",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness does not impair the koralk's darkvision."
 					]
@@ -30605,7 +30605,7 @@
 				"planar"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -32673,7 +32673,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -32774,7 +32774,7 @@
 			],
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the lunar devil's darkvision."
 					]
@@ -32834,7 +32834,7 @@
 				"forest"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -33005,7 +33005,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -34901,7 +34901,7 @@
 						"The blood hag casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell ray of enfeeblement}"
 					],
 					"daily": {
@@ -36420,7 +36420,7 @@
 					"will": [
 						"{@spell charm person}",
 						"{@spell dancing lights}",
-						"{@spell silent image}"
+						"{@spell imagen silenciosa}"
 					],
 					"daily": {
 						"3e": [
@@ -36430,7 +36430,7 @@
 						],
 						"1e": [
 							"{@spell puerta dimensional}",
-							"{@spell dominate person}"
+							"{@spell dominar persona}"
 						]
 					},
 					"ability": "cha",
@@ -38488,7 +38488,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -38580,7 +38580,7 @@
 							"{@spell nondetection}"
 						],
 						"1e": [
-							"{@spell contact other plane} (as an action)",
+							"{@spell contactar con otro plano} (as an action)",
 							"{@spell conocer las leyendas} (as an action)"
 						]
 					},
@@ -39800,7 +39800,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -40447,7 +40447,7 @@
 					],
 					"will": [
 						"{@spell faerie fire}",
-						"{@spell silent image}",
+						"{@spell imagen silenciosa}",
 						"{@spell tongues}"
 					],
 					"daily": {
@@ -43687,7 +43687,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -43768,7 +43768,7 @@
 						"The rubezahl casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 16}):"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell fog cloud}"
 					],
 					"daily": {
@@ -44146,7 +44146,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -44218,7 +44218,7 @@
 			"cr": "6",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the salt devil's darkvision."
 					]
@@ -44270,7 +44270,7 @@
 				"scimitar|phb"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -44510,7 +44510,7 @@
 						"The sand hag casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 14}):"
 					],
 					"will": [
-						"{@spell silent image}"
+						"{@spell imagen silenciosa}"
 					],
 					"daily": {
 						"3e": [
@@ -44975,7 +44975,7 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing damage plus 7 ({@damage 2d6}) psychic damage. Damage from this attack doesn't wake an {@condition unconscious} creature, unless the {@condition unconscious} creature is below half its hp maximum. If the sandman scores a critical hit, the target is cursed with the eye-closer's curse. While cursed, the creature is {@condition blinded} until it finishes a long rest or until the curse is lifted by remove curse or similar magic."
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing damage plus 7 ({@damage 2d6}) psychic damage. Damage from this attack doesn't wake an {@condition unconscious} creature, unless the {@condition unconscious} creature is below half its hp maximum. If the sandman scores a critical hit, the target is cursed with the eye-closer's curse. While cursed, the creature is {@condition blinded} until it finishes a long rest or until the curse is lifted by levantar maldición or similar magic."
 					]
 				},
 				{
@@ -47017,7 +47017,7 @@
 					"daily": {
 						"1": [
 							"{@spell confusion}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell greater invisibility}",
 							"{@spell inmovilizar monstruo}",
 							"{@spell phantasmal killer}"
@@ -49087,7 +49087,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -49369,7 +49369,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -49502,7 +49502,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -49573,7 +49573,7 @@
 			"cr": "5",
 			"trait": [
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Magical darkness doesn't impede the spawn's darkvision."
 					]
@@ -49628,7 +49628,7 @@
 				"hill"
 			],
 			"traitTags": [
-				"Devil's Sight",
+				"Visión del diablo",
 				"Magic Resistance"
 			],
 			"senseTags": [
@@ -49884,7 +49884,7 @@
 							"{@spell silence}"
 						],
 						"1e": [
-							"{@spell arcane eye}",
+							"{@spell ojo arcano}",
 							"{@spell hypnotic pattern}"
 						]
 					},
@@ -50570,7 +50570,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"C",
 				"E"
@@ -51131,7 +51131,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -54604,7 +54604,7 @@
 				{
 					"name": "Nabboot",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) bludgeoning damage plus 13 ({@damage 3d8}) necrotic damage. If the target is a creature, it must succeed on a {@dc 16} Constitution saving throw or be cursed with tomb taint. The cursed target's speed is halved, and its hp maximum decreases by 3 ({@dice 1d6}) for every 24 hours that elapse. If the curse reduces the target's hp maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell remove curse} spell or comparable magic."
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) bludgeoning damage plus 13 ({@damage 3d8}) necrotic damage. If the target is a creature, it must succeed on a {@dc 16} Constitution saving throw or be cursed with tomb taint. The cursed target's speed is halved, and its hp maximum decreases by 3 ({@dice 1d6}) for every 24 hours that elapse. If the curse reduces the target's hp maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the {@spell levantar maldición} spell or comparable magic."
 					]
 				},
 				{
@@ -55295,7 +55295,7 @@
 				{
 					"name": "Venomous Fist",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning damage plus 10 ({@damage 3d6}) poison damage. If the target is a creature, it must succeed on a {@dc 12} Constitution saving throw or be cursed. Every 24 hours that elapse, the cursed target must succeed on a {@dc 12} Constitution saving throw or take 7 ({@damage 2d6}) poison damage, and its hp maximum is reduced by that amount. This reduction lasts until the target finishes a long rest after the curse is removed. The target dies if this effect reduces its hp maximum to 0. The curse lasts until removed by the {@spell remove curse} spell or similar magic."
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning damage plus 10 ({@damage 3d6}) poison damage. If the target is a creature, it must succeed on a {@dc 12} Constitution saving throw or be cursed. Every 24 hours that elapse, the cursed target must succeed on a {@dc 12} Constitution saving throw or take 7 ({@damage 2d6}) poison damage, and its hp maximum is reduced by that amount. This reduction lasts until the target finishes a long rest after the curse is removed. The target dies if this effect reduces its hp maximum to 0. The curse lasts until removed by the {@spell levantar maldición} spell or similar magic."
 					]
 				}
 			],
@@ -56343,7 +56343,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"

@@ -320,7 +320,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Alter Self",
+			"name": "Alterar el propio aspecto",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -1052,7 +1052,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Armor of Agathys",
+			"name": "Armadura de Agathys",
 			"source": "PHB",
 			"activities": [
 				{
@@ -1071,7 +1071,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Armor of Agathys",
+			"name": "Armadura de Agathys",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -2080,7 +2080,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Blink",
+			"name": "Desplazamiento",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -2093,14 +2093,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "blink"
+							"foundryId": "desplazamiento"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "blink",
+					"foundryId": "desplazamiento",
 					"name": "Ethereal",
 					"duration": {
 						"rounds": 1
@@ -2683,7 +2683,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Confusion",
+			"name": "Confusión",
 			"source": "XPHB",
 			"system": {
 				"target.template.size": "@item.level * 5 - 10"
@@ -2707,14 +2707,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "confusion"
+							"foundryId": "confusión"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "confusion",
+					"foundryId": "confusión",
 					"name": "Confused",
 					"duration": {
 						"seconds": 60
@@ -3103,7 +3103,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Contact Other Plane",
+			"name": "Contactar con otro plano",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -4444,7 +4444,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Dominate Beast",
+			"name": "Dominar bestia",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -4531,7 +4531,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Dominate Person",
+			"name": "Dominar persona",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -6331,7 +6331,7 @@
 					"creatureTypes": [
 						"celestial",
 						"fey",
-						"fiend"
+						"infernal"
 					]
 				}
 			],
@@ -8512,7 +8512,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Hex",
+			"name": "Maleficio",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -8551,7 +8551,7 @@
 					},
 					"effects": [
 						{
-							"foundryId": "hex"
+							"foundryId": "maleficio"
 						},
 						{
 							"foundryId": "hex1"
@@ -8573,7 +8573,7 @@
 			],
 			"effects": [
 				{
-					"foundryId": "hex",
+					"foundryId": "maleficio",
 					"name": "Hexed Strength",
 					"duration": {
 						"rounds": 1,
@@ -9441,7 +9441,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Levitate",
+			"name": "Levitar",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -9462,14 +9462,14 @@
 					},
 					"effects": [
 						{
-							"foundryId": "levitate"
+							"foundryId": "levitar"
 						}
 					]
 				}
 			],
 			"effects": [
 				{
-					"foundryId": "levitate",
+					"foundryId": "levitar",
 					"name": "Levitating",
 					"duration": {
 						"seconds": 600
@@ -10462,7 +10462,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Modify Memory",
+			"name": "Alterar los recuerdos",
 			"source": "XPHB",
 			"activities": [
 				{
@@ -14736,7 +14736,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Summon Celestial",
+			"name": "Invocar celestial",
 			"source": "TCE",
 			"activities": [
 				{
@@ -14766,7 +14766,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Summon Celestial",
+			"name": "Invocar celestial",
 			"source": "XPHB",
 			"activities": [
 				{

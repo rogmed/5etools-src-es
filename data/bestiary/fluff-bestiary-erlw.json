@@ -1012,7 +1012,7 @@
 								[
 									"2",
 									"Entertainer",
-									"{@spell Minor illusion}, {@spell thaumaturgy}. Ritual only: {@spell disguise self}.",
+									"{@spell Minor illusion}, {@spell thaumaturgy}. Ritual only: {@spell disfrazarse}.",
 									"{@skill Performance} (+3)"
 								],
 								[
@@ -1042,7 +1042,7 @@
 								[
 									"7",
 									"Medium",
-									"{@spell Minor illusion}. Ritual only: {@spell speak with dead}.",
+									"{@spell Minor illusion}. Ritual only: {@spell hablar con los muertos}.",
 									"{@skill Deception} (+3), {@skill Religion} (+4)"
 								],
 								[
@@ -1164,7 +1164,7 @@
 									"type": "entries",
 									"name": "Fallen Angels",
 									"entries": [
-										"The insatiable hunger to be adored can transform a fallen angel, physically and mentally. In its true form, a radiant idol appears to be a warped angel. It might have bloody stumps in place of its wings, or its wings could be weighted down with chains representing its pride. A radiant idol uses {@spell disguise self} to hide its corruption, presenting an image of celestial glory."
+										"The insatiable hunger to be adored can transform a fallen angel, physically and mentally. In its true form, a radiant idol appears to be a warped angel. It might have bloody stumps in place of its wings, or its wings could be weighted down with chains representing its pride. A radiant idol uses {@spell disfrazarse} to hide its corruption, presenting an image of celestial glory."
 									]
 								},
 								{

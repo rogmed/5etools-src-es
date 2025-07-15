@@ -504,7 +504,7 @@ const SUPP_CLASS = [
 	{min: 65, max: 70, result: "Explorador"},
 	{min: 71, max: 84, result: "Pícaro"},
 	{min: 85, max: 89, result: "Hechicero"},
-	{min: 90, max: 94, result: "Warlock"},
+	{min: 90, max: 94, result: "Brujo"},
 	{min: 95, max: 100, result: "Mago"},
 ];
 

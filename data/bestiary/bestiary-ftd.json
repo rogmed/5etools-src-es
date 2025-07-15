@@ -8826,7 +8826,7 @@
 					"daily": {
 						"2e": [
 							"{@spell puerta dimensional}",
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell sending}"
 						]
 					},
@@ -17026,7 +17026,7 @@
 						"1e": [
 							"{@spell detect thoughts}",
 							"{@spell invisibility}",
-							"{@spell silent image}"
+							"{@spell imagen silenciosa}"
 						]
 					},
 					"ability": "int",

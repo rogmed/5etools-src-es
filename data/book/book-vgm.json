@@ -1039,7 +1039,7 @@
 										{
 											"type": "item",
 											"name": "Paralyzing Ray:",
-											"entry": "{@spell modify memory}, {@spell silence} (1 minute)"
+											"entry": "{@spell alterar los recuerdos}, {@spell silence} (1 minute)"
 										},
 										{
 											"type": "item",
@@ -3809,7 +3809,7 @@
 									"entries": [
 										"Bugbears have no use for priests or shamans. No one needs to tell them what their gods want. If the brother gods are angry with them, they let the bugbears know with bolts of lightning (Hruggek) or by striking them blind or dead (Grankhul). Bugbears worship their gods simply by preying on other creatures, using no other sort of ceremony to show obeisance-with one exception.",
 										"In an act of worship that also sometimes attracts favorable attention from their gods, bugbears sever the heads of defeated foes, cut away or stitch open the eyelids, and leave the mouths hanging open. The heads are then placed on spikes or hung from cords around a bugbear den. The heads themselves are trophies that honor Hruggek, and their ever-staring eyes are an homage to sleepless Grankhul.",
-										"The heads of leaders and mighty opponents are particularly sacred, and offering up such a trophy can provide a bugbear gang with a special boon. A gang that gains the favor of Hruggek and Grankhul in this way might find that the head will emit a shout when an enemy gets too close (in the fashion of an alarm spell). Sometimes the heads of people who have information the bugbears need speak their secrets amid blubbered pleas for mercy (as with the {@spell speak with dead} spell).",
+										"The heads of leaders and mighty opponents are particularly sacred, and offering up such a trophy can provide a bugbear gang with a special boon. A gang that gains the favor of Hruggek and Grankhul in this way might find that the head will emit a shout when an enemy gets too close (in the fashion of an alarm spell). Sometimes the heads of people who have information the bugbears need speak their secrets amid blubbered pleas for mercy (as with the {@spell hablar con los muertos} spell).",
 										{
 											"type": "image",
 											"href": {
@@ -4817,7 +4817,7 @@
 													"items": [
 														"1st level (4 slots): {@spell false life}, {@spell inflict wounds}",
 														"2nd level (3 slots): {@spell gentle repose}, {@spell ray of enfeeblement}",
-														"3rd level (3 slots): {@spell animate dead} {@spell revivify}, {@spell speak with dead}",
+														"3rd level (3 slots): {@spell animate dead} {@spell revivify}, {@spell hablar con los muertos}",
 														"4th level (3 slots): {@spell blight}, {@spell death ward}",
 														"5th level (2 slots): {@spell contagion}, {@spell raise dead}",
 														"6th level (1 slot): {@spell circle of death}"
@@ -4839,7 +4839,7 @@
 														"1st level (4 slots): {@spell entangle}, {@spell speak with animals}",
 														"2nd level (3 slots): {@spell flaming sphere}, {@spell rayo de luna}, {@spell spike growth}",
 														"3rd level (3 slots): {@spell call lightning}, {@spell crecimiento vegetal}",
-														"4th level (3 slots): {@spell dominate beast}, {@spell grasping vine}",
+														"4th level (3 slots): {@spell dominar bestia}, {@spell grasping vine}",
 														"5th level (2 slots): {@spell plaga de insectos}, {@spell paso arbóreo}",
 														"6th level (1 slot): {@spell wall of thorns}"
 													]
@@ -4859,8 +4859,8 @@
 													"items": [
 														"1st level (4 slots): {@spell bane}, {@spell bless}",
 														"2nd level (3 slots): {@spell augury}, {@spell detect thoughts}",
-														"3rd level (3 slots): {@spell clairvoyance}, {@spell dispel magic}, {@spell nondetection}",
-														"4th level (3 slots): {@spell arcane eye}, {@spell locate creature}",
+														"3rd level (3 slots): {@spell clarividencia}, {@spell dispel magic}, {@spell nondetection}",
+														"4th level (3 slots): {@spell ojo arcano}, {@spell locate creature}",
 														"5th level (2 slots): {@spell geas}, {@spell conocer las leyendas}",
 														"6th level (1 slot): {@spell true seeing}"
 													]
@@ -6464,7 +6464,7 @@
 									"id": "1aa"
 								},
 								"No two lairs are the same, as the resident elder brain drives the form and function of each one. The lair shown in the accompanying map is typical and includes many elements found in every colony's stronghold.",
-								"The illithids, with their ability to levitate, design major portions of their lairs so as to make movement as difficult as possible for ordinary two-legged creatures. In such locations, thralls must climb or use ropes to move from place to place.",
+								"The illithids, with their ability to levitar, design major portions of their lairs so as to make movement as difficult as possible for ordinary two-legged creatures. In such locations, thralls must climb or use ropes to move from place to place.",
 								{
 									"type": "entries",
 									"name": "Brain Chamber",

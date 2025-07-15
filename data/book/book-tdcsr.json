@@ -1250,12 +1250,12 @@
 										[
 											"{@deity The Sightless|Exandria|TDCSR}",
 											"Chaotic evil",
-											"Great Old One"
+											"Primigenio"
 										],
 										[
 											"{@deity The Traveler|Exandria|TDCSR}",
 											"Chaotic neutral",
-											"Archfey"
+											"Feérico"
 										],
 										[
 											"{@deity Vesh|Exandria|TDCSR}",
@@ -6080,7 +6080,7 @@
 											"name": "Towers of Farsight",
 											"page": 104,
 											"entries": [
-												"The pinnacle of the palace is made up of four sky-scraping towers that gaze out over the {@book Cliffkeep Mountains|TDCSR|3|Cliffkeep Mountains}\u2014and all of Exandria. These private studies are the personal quarters of four of the league's chief spellwrights, and they are equipped with all manner of {@spell scrying} crystals and tools of clairvoyance, clairaudience, and far-speech."
+												"The pinnacle of the palace is made up of four sky-scraping towers that gaze out over the {@book Cliffkeep Mountains|TDCSR|3|Cliffkeep Mountains}\u2014and all of Exandria. These private studies are the personal quarters of four of the league's chief spellwrights, and they are equipped with all manner of {@spell scrying} crystals and tools of clarividencia, clairaudience, and far-speech."
 											],
 											"id": "183"
 										},

@@ -9,6 +9,6 @@
 	"explorador": "fluff-class-ranger.json",
 	"pícaro": "fluff-class-rogue.json",
 	"hechicero": "fluff-class-sorcerer.json",
-	"warlock": "fluff-class-warlock.json",
+	"brujo": "fluff-class-warlock.json",
 	"mago": "fluff-class-wizard.json"
 }

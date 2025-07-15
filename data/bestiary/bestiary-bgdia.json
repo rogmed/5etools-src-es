@@ -30,7 +30,7 @@
 				"T"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -506,7 +506,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"devil"
 				]
@@ -1139,7 +1139,7 @@
 				"G"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -1454,7 +1454,7 @@
 				"religión": "+3"
 			},
 			"senses": [
-				"darkvision 120 ft. (see devil's sight below)"
+				"darkvision 120 ft. (see Visión del diablo below)"
 			],
 			"passive": 13,
 			"languages": [
@@ -1470,7 +1470,7 @@
 					]
 				},
 				{
-					"name": "Devil's Sight",
+					"name": "Visión del diablo",
 					"entries": [
 						"Thalamra can see normally in darkness, both magical and nonmagical, out to a distance of 120 feet."
 					]
@@ -1480,11 +1480,11 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Thalamra uses eldritch blast twice or makes two unarmed strikes."
+						"Thalamra uses descarga sobrenatural twice or makes two unarmed strikes."
 					]
 				},
 				{
-					"name": "Eldritch Blast (Cantrip)",
+					"name": "Descarga sobrenatural (Cantrip)",
 					"entries": [
 						"{@atk rs} {@hit 6} to hit, range 120 ft., one creature. {@h}9 ({@damage 1d10 + 4}) force damage."
 					]
@@ -1498,14 +1498,14 @@
 			],
 			"reaction": [
 				{
-					"name": "Hellish Rebuke (1st-Level Spell; 2/Day)",
+					"name": "Reprensión infernal (1st-Level Spell; 2/Day)",
 					"entries": [
 						"When Thalamra is damaged by a creature within 60 feet of her that she can see, the creature that damaged her is engulfed in hellish flames and must make a {@dc 14} Dexterity saving throw, taking 16 ({@damage 3d10}) fire damage on a failed save, or half as much damage on a successful one."
 					]
 				}
 			],
 			"traitTags": [
-				"Devil's Sight"
+				"Visión del diablo"
 			],
 			"senseTags": [
 				"SD"
@@ -2046,7 +2046,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -2442,7 +2442,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -2735,7 +2735,7 @@
 							"spells": [
 								"{@spell animate dead}",
 								"{@spell magic circle}",
-								"{@spell speak with dead}",
+								"{@spell hablar con los muertos}",
 								"{@spell spirit guardians}",
 								"{@spell vampiric touch}"
 							]
@@ -2908,7 +2908,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -2983,7 +2983,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell mage hand}",
 						"{@spell minor illusion}"
 					],
@@ -2992,16 +2992,16 @@
 							"{@spell charm person}",
 							"{@spell detect magic}",
 							"{@spell dispel magic}",
-							"{@spell hellish rebuke}",
+							"{@spell Reprensión infernal}",
 							"{@spell invisibility}",
 							"{@spell major image}",
-							"{@spell speak with dead}",
+							"{@spell hablar con los muertos}",
 							"{@spell suggestion}"
 						],
 						"1e": [
 							"{@spell banishment}",
 							"{@spell demiplane}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell fly}",
 							"{@spell forcecage}",
 							"{@spell geas}",
@@ -3036,7 +3036,7 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) slashing damage, and the target is cursed if it's a creature. The curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a {@spell remove curse} spell or similar magic."
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) slashing damage, and the target is cursed if it's a creature. The curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a {@spell levantar maldición} spell or similar magic."
 					]
 				},
 				{
@@ -3790,7 +3790,7 @@
 					"daily": {
 						"1e": [
 							"{@spell charm person}",
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell sanctuary}"
 						]
 					},

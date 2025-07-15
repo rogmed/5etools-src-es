@@ -1213,7 +1213,7 @@
 										],
 										[
 											"2",
-											"{@item Spyglass of Clairvoyance|AI}, Tale of Safe Travel"
+											"{@item Spyglass of Clarividencia|AI}, Tale of Safe Travel"
 										],
 										[
 											"3",
@@ -1246,10 +1246,10 @@
 								},
 								{
 									"type": "entries",
-									"name": "Spyglass of Clairvoyance",
+									"name": "Spyglass of Clarividencia",
 									"page": 19,
 									"entries": [
-										"At rank 2, your Head Office-supplied spyglass becomes a common magic item. As an action, you can look through the {@item spyglass of clairvoyance|AI} at a location within 1 mile of you that is obstructing your view, such as a mountain, castle, or forest. You must then succeed on a {@dc 15} Wisdom check using {@item cartographer's tools|PHB} to map the natural terrain found within three miles of that chosen point. You do not gain any knowledge of creatures, structures, or anything other than natural terrain. This property of the spyglass cannot be used again until the next dawn."
+										"At rank 2, your Head Office-supplied spyglass becomes a common magic item. As an action, you can look through the {@item spyglass of clarividencia|AI} at a location within 1 mile of you that is obstructing your view, such as a mountain, castle, or forest. You must then succeed on a {@dc 15} Wisdom check using {@item cartographer's tools|PHB} to map the natural terrain found within three miles of that chosen point. You do not gain any knowledge of creatures, structures, or anything other than natural terrain. This property of the spyglass cannot be used again until the next dawn."
 									],
 									"id": "04d"
 								},
@@ -2129,7 +2129,7 @@
 													"A battered leather satchel, prone to spitting out multicolored sparks at the seams"
 												],
 												[
-													"Warlock",
+													"Brujo",
 													"A patchwork monster-leather satchel with a \"purely decorative\" fanged mouth."
 												],
 												[
@@ -5958,7 +5958,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Warlock",
+							"name": "Brujo",
 							"page": 68,
 							"entries": [
 								"{@i No, you don't understand. My magic exists outside of any known reality. I wield the power of an entity that dwells beyond space and time. Clearly, none of the profits created by that magic are taxable in this realm}.",
@@ -6039,7 +6039,7 @@
 									"name": "Master of Idiom",
 									"page": 69,
 									"entries": [
-										"As a warlock, you bring every dark aspect of your dark path and darker calling to bear darkly on your franchise's operations. Wrapping yourself in mysterious defensive power or tagging an enemy in the face with {@spell eldritch blast} are just as valuable for corporate espionage as for tomb raiding.",
+										"As a warlock, you bring every dark aspect of your dark path and darker calling to bear darkly on your franchise's operations. Wrapping yourself in mysterious defensive power or tagging an enemy in the face with {@spell descarga sobrenatural} are just as valuable for corporate espionage as for tomb raiding.",
 										"How you present yourself to the world at large is often a subtle reflection of your patron. Being a member of an Acquisitions Incorporated franchise means you have no trouble wearing suitable business apparel to make the right impression. But whether that stylish suit is made from fine Calimshan silk or the flayed skin of fiends is totally up to you."
 									],
 									"id": "14b"
@@ -7278,7 +7278,7 @@
 						"The line between competitors and enemies can be razor thin in an Acquisitions Incorporated campaign, and franchise members will often find themselves bumping heads with the members of other Acq Inc franchises. Things might even get rough sometimes. It's just business.",
 						"The following iconic features can be added to NPC or monster stat blocks to represent company positions similar to those of the characters. These features are inspired by the company positions in chapter 2 but are intended only for quick use in combat encounters, and thus do not recreate all of a position's features in NPC form. DMs creating NPCs who have company positions can use additional position features from chapter 2 for those NPCs as desired.",
 						"Other factions such as the Six or Dran Enterprises have employees that take on company positions similar to those adopted by members of Acq Inc. These features can be used for members of those factions as well, either on their own or added to the faction features from the previous section.",
-						"A monster or NPC that has a company position always carries the special items granted by that position (a cartographer's {@item spyglass of clairvoyance|AI} and {@item cartographer's map case|AI}, a hoardsperson's {@item living loot satchel|AI}, and so forth). As normal, these items do not function for anyone else, and will be actively sought out by the organization that owns them if they are lost or stolen.",
+						"A monster or NPC that has a company position always carries the special items granted by that position (a cartographer's {@item spyglass of clarividencia|AI} and {@item cartographer's map case|AI}, a hoardsperson's {@item living loot satchel|AI}, and so forth). As normal, these items do not function for anyone else, and will be actively sought out by the organization that owns them if they are lost or stolen.",
 						{
 							"type": "entries",
 							"name": "Iconic Cartographer",

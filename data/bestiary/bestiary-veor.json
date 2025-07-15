@@ -47,7 +47,7 @@
 				15,
 				{
 					"ac": 18,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -962,7 +962,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -1520,7 +1520,7 @@
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 10} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d8 + 5}) piercing damage plus 9 ({@damage 2d8}) necrotic damage. The target must succeed on a {@dc 16} Wisdom saving throw or have disadvantage on saving throws against the {@condition frightened} condition. This curse lasts until removed by the {@spell Remove Curse} spell or other magic."
+						"{@atk mw} {@hit 10} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d8 + 5}) piercing damage plus 9 ({@damage 2d8}) necrotic damage. The target must succeed on a {@dc 16} Wisdom saving throw or have disadvantage on saving throws against the {@condition frightened} condition. This curse lasts until removed by the {@spell Levantar maldición} spell or other magic."
 					]
 				},
 				{
@@ -1595,7 +1595,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -2303,7 +2303,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -2667,7 +2667,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -3342,7 +3342,7 @@
 				"H"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -3421,7 +3421,7 @@
 						"Miska casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 21}):"
 					],
 					"will": [
-						"{@spell Disguise Self}",
+						"{@spell disfrazarse}",
 						"{@spell Invisibility}",
 						"{@spell Mage Hand}",
 						"{@spell Ilusión menor}",
@@ -3777,7 +3777,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -3950,7 +3950,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -4128,7 +4128,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]
@@ -4196,7 +4196,7 @@
 						"The raklupis casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 20})."
 					],
 					"will": [
-						"{@spell Disguise Self}",
+						"{@spell disfrazarse}",
 						"{@spell Invisibility} (self only)",
 						"{@spell Mage Hand}",
 						"{@spell Ilusión menor}"
@@ -4350,7 +4350,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -4614,7 +4614,7 @@
 					"_": {
 						"mode": "addSpells",
 						"will": [
-							"{@spell speak with dead}"
+							"{@spell hablar con los muertos}"
 						]
 					}
 				}
@@ -5258,7 +5258,7 @@
 					],
 					"will": [
 						"{@spell Detect Magic}",
-						"{@spell Disguise Self}",
+						"{@spell disfrazarse}",
 						"{@spell Disipar magia}",
 						"{@spell Light}",
 						"{@spell Mage Hand}",
@@ -5752,7 +5752,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"demon"
 				]

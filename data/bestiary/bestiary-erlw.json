@@ -315,7 +315,7 @@
 							"spells": [
 								"{@spell command}",
 								"{@spell duelo forzado}",
-								"{@spell hellish rebuke}",
+								"{@spell Reprensión infernal}",
 								"{@spell castigo furioso}"
 							]
 						},
@@ -949,7 +949,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell disguise self}"
+						"{@spell disfrazarse}"
 					],
 					"daily": {
 						"3e": [
@@ -1483,12 +1483,12 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell dream}"
 						],
 						"3e": [
 							"{@spell detect thoughts}",
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell suggestion}"
 						]
 					},
@@ -1590,7 +1590,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -1646,7 +1646,7 @@
 							"{@spell dissonant whispers}",
 							"{@spell hex}",
 							"{@spell inmovilizar persona}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						]
 					},
 					"ability": "int"
@@ -1714,7 +1714,7 @@
 									"type": "entries",
 									"name": "Ojo arcano (3/Day)",
 									"entries": [
-										"The Inspired can cast the {@spell arcane eye} spell, requiring no material components."
+										"The Inspired can cast the {@spell ojo arcano} spell, requiring no material components."
 									]
 								}
 							]
@@ -1791,7 +1791,7 @@
 							"mode": "addSpells",
 							"daily": {
 								"3e": [
-									"{@spell arcane eye}"
+									"{@spell ojo arcano}"
 								]
 							}
 						},
@@ -2022,11 +2022,11 @@
 						"The quori's spellcasting ability is Charisma (spell save {@dc 21}, {@hit 13} to hit with spell attacks). It can innately cast the following spells, requiring no components:"
 					],
 					"will": [
-						"{@spell arcane eye}"
+						"{@spell ojo arcano}"
 					],
 					"daily": {
 						"3e": [
-							"{@spell clairvoyance}",
+							"{@spell clarividencia}",
 							"{@spell confusion}",
 							"{@spell dream}",
 							"{@spell eyebite}"
@@ -2077,7 +2077,7 @@
 				{
 					"name": "Mind Seed (1/Day)",
 					"entries": [
-						"The quori touches one humanoid, which must succeed on a {@dc 21} Intelligence saving throw or be cursed. The curse lasts until it's removed by a remove curse or {@spell greater restoration} spell.",
+						"The quori touches one humanoid, which must succeed on a {@dc 21} Intelligence saving throw or be cursed. The curse lasts until it's removed by a levantar maldición or {@spell greater restoration} spell.",
 						"The cursed target suffers 1 level of {@condition exhaustion} every 24 hours, and finishing a long rest doesn't reduce its {@condition exhaustion}. If the cursed target reaches {@condition exhaustion} level 6, it doesn't die; it instead becomes a thrall under the quori's control, and all its {@condition exhaustion} is removed. Only the {@spell wish} spell can free the thrall from this control."
 					]
 				},
@@ -3119,7 +3119,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -3196,7 +3196,7 @@
 					"will": [
 						"{@spell chromatic orb} (see \"Actions\" below)",
 						"{@spell detect thoughts}",
-						"{@spell disguise self}"
+						"{@spell disfrazarse}"
 					],
 					"daily": {
 						"1e": [
@@ -3383,13 +3383,13 @@
 					"will": [
 						"{@spell charm person}",
 						"{@spell cure wounds}",
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell thaumaturgy}"
 					],
 					"daily": {
 						"1e": [
 							"{@spell comunión}",
-							"{@spell dominate person}",
+							"{@spell dominar persona}",
 							"{@spell plaga de insectos}",
 							"{@spell mass suggestion}",
 							"{@spell raise dead}"
@@ -3490,7 +3490,7 @@
 			"size": [
 				"H"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -3818,7 +3818,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -5638,7 +5638,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -5707,7 +5707,7 @@
 					],
 					"will": [
 						"{@spell detect thoughts}",
-						"{@spell disguise self}"
+						"{@spell disfrazarse}"
 					],
 					"daily": {
 						"1": [

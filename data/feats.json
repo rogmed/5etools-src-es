@@ -1146,7 +1146,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"invisibility|xphb",
+									"invisibilidad|xphb",
 									{
 										"choose": "level=1|school=I;N"
 									}
@@ -2293,7 +2293,7 @@
 						"_": {
 							"daily": {
 								"1": [
-									"detect thoughts|xphb"
+									"detectar pensamientos|xphb"
 								]
 							}
 						}

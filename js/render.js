@@ -2179,7 +2179,7 @@ globalThis.Renderer = function () {
 
 			// LINKS ///////////////////////////////////////////////////////////////////////////////////////////
 			case "@filter": {
-				// format: {@filter Warlock Spells|spells|level=1;2|class=Warlock}
+				// format: {@filter Warlock Spells|spells|level=1;2|class=Brujo}
 				const [displayText, page, ...filters] = Renderer.splitTagByPipe(text);
 
 				const filterSubhashMeta = Renderer.getFilterSubhashes(filters);
@@ -3049,7 +3049,7 @@ Renderer._AbilityData = function ({asText, asTextShort, asCollection, areNegativ
 };
 
 /**
- * @param filters String of the form `"level=1;2|class=Warlock"`
+ * @param filters String of the form `"level=1;2|class=Brujo"`
  * @param namespace Filter namespace to use
  */
 Renderer.getFilterSubhashes = function (filters, namespace = null) {
@@ -9985,7 +9985,7 @@ Renderer.monster = class {
 				copper: ["knock", "Dormir", "detect thoughts", "blindness/deafness", "tasha's hideous laughter"],
 			},
 			3: {
-				blue: ["wall of sand|XGE", "thunder step|XGE", "relámpago", "blink", "Proyectil mágico", "slow"],
+				blue: ["wall of sand|XGE", "thunder step|XGE", "relámpago", "desplazamiento", "Proyectil mágico", "slow"],
 				red: ["fireball", "scorching ray", "haste", "erupting earth|XGE", "Aganazzar's scorcher|XGE"],
 				gold: ["slow", "fireball", "dispel magic", "counterspell", "Aganazzar's scorcher|XGE", "escudo"],
 				silver: ["sleet storm", "protección contra energía", "catnap|XGE", "locate object", "identify", "Leomund's tiny hut"],
@@ -9994,11 +9994,11 @@ Renderer.monster = class {
 				black: ["vitriolic sphere|XGE", "sickening radiance|XGE", "Evard's black tentacles", "marchitar", "hunger of Hadar"],
 				white: ["fire shield", "tormenta de hielo", "sleet storm"],
 				brass: ["charm monster|XGE", "sending", "wall of sand|XGE", "hypnotic pattern", "tongues"],
-				copper: ["polimorfar", "greater invisibility", "confusion", "nube apestosa", "major image", "charm monster|XGE"],
+				copper: ["polimorfar", "greater invisibility", "confusión", "nube apestosa", "major image", "charm monster|XGE"],
 			},
 			5: {
 				blue: ["telekinesis", "inmovilizar monstruo", "puerta dimensional", "muro de piedra", "wall of force"],
-				green: ["cloudkill", "charm monster|XGE", "modify memory", "mislead", "hallucinatory terrain", "puerta dimensional"],
+				green: ["cloudkill", "charm monster|XGE", "alterar los recuerdos", "mislead", "hallucinatory terrain", "puerta dimensional"],
 				bronze: ["steel wind strike|XGE", "control winds|XGE", "watery sphere|XGE", "storm sphere|XGE", "tidal wave|XGE"],
 				gold: ["inmovilizar monstruo", "immolation|XGE", "wall of fire", "greater invisibility", "puerta dimensional"],
 				silver: ["cono de frío", "tormenta de hielo", "teleportation circle", "skill empowerment|XGE", "creation", "Mordenkainen's private sanctum"],
@@ -10046,8 +10046,8 @@ Renderer.monster = class {
 				copper: ["lesser restoration", "phantasmal force", "stone shape"],
 			},
 			5: {
-				blue: ["arcane eye", "create or destroy water", "major image"],
-				red: ["bane", "dominate person", "heat metal", "hypnotic pattern", "suggestion"],
+				blue: ["ojo arcano", "create or destroy water", "major image"],
+				red: ["bane", "dominar persona", "heat metal", "hypnotic pattern", "suggestion"],
 				green: ["invisibilidad", "crecimiento vegetal", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "speak with animals"],
 				gold: ["bless", "comunión", "cure wounds", "geas", "slow", "suggestion", "zone of truth"],
@@ -10060,8 +10060,8 @@ Renderer.monster = class {
 			},
 			7: {
 				black: ["blindness/deafness", "create or destroy water", "plaga de insectos", "crecimiento vegetal"],
-				blue: ["arcane eye", "create or destroy water", "major image", "project image"],
-				red: ["bane", "dominate person", "heat metal", "hypnotic pattern", "power word stun", "suggestion"],
+				blue: ["ojo arcano", "create or destroy water", "major image", "project image"],
+				red: ["bane", "dominar persona", "heat metal", "hypnotic pattern", "power word stun", "suggestion"],
 				green: ["invisibilidad", "mass suggestion", "crecimiento vegetal", "speak with animals"],
 				bronze: ["beast sense", "controlar agua", "detect thoughts", "heroes' feast", "speak with animals"],
 				copper: ["lesser restoration", "move earth", "phantasmal force", "stone shape"],
@@ -10148,7 +10148,7 @@ Renderer.monster = class {
 				source: Parser.SRC_FTD,
 				entries: [
 					`${Renderer.monster.dragonCasterVariant.getSpellcasterDetailsPart(meta)}`,
-					`A suggested spell list is shown below, but you can also choose spells to reflect the dragon's character. A dragon who innately casts {@filter druid|spells|class=druid} spells feels different from one who casts {@filter warlock|spells|class=warlock} spells. You can also give a dragon spells of a higher level than this rule allows, but such a tweak might increase the dragon's challenge rating\u2014especially if those spells deal damage or impose conditions on targets.`,
+					`A suggested spell list is shown below, but you can also choose spells to reflect the dragon's character. A dragon who innately casts {@filter druid|spells|class=druid} spells feels different from one who casts {@filter warlock|spells|class=Brujo} spells. You can also give a dragon spells of a higher level than this rule allows, but such a tweak might increase the dragon's challenge rating\u2014especially if those spells deal damage or impose conditions on targets.`,
 					{
 						type: "list",
 						items: exampleSpellsFtd.map(it => `{@spell ${it}}`),
@@ -12431,7 +12431,7 @@ Renderer.item = class {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los brujos, hechiceros o magos pueden utilizar estos objetos como canalizadores mágicos."
-						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Warlock|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
+						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Brujo|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 				if (item.scfType === "Druida") {
@@ -12453,7 +12453,7 @@ Renderer.item = class {
 					Renderer.item._initFullEntries(item);
 					const wrapped = styleHint === "classic"
 						? "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los brujos, hechiceros o magos pueden utilizar estos objetos como canalizadores mágicos."
-						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Warlock|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
+						: "Un canalizador arcano está ornamentado o tallado para canalizar la magia arcana. Los {@class Brujo|XPHB|brujos}, {@class Hechicero|XPHB|hechiceros} y {@class Mago|XPHB|magos} pueden utilizar estos objetos como canalizadores mágicos.";
 					item._fullEntries.push({type: "wrapper", wrapped, data: {[VeCt.ENTDATA_ITEM_MERGED_ENTRY_TAG]: "type.SCF"}});
 				}
 				if (item.scfType === "Druida") {

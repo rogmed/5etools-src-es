@@ -759,7 +759,7 @@
 				"L"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -1211,7 +1211,7 @@
 						"1e": [
 							"{@spell calm emotions}",
 							"{@spell lesser restoration}",
-							"{@spell remove curse}",
+							"{@spell levantar maldición}",
 							"{@spell protección contra energía}"
 						]
 					},
@@ -1586,11 +1586,11 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell disguise self}"
+						"{@spell disfrazarse}"
 					],
 					"daily": {
 						"1e": [
-							"{@spell alter self}",
+							"{@spell alterar el propio aspecto}",
 							"{@spell fog cloud}",
 							"{@spell silence}"
 						]
@@ -2390,12 +2390,12 @@
 						"1e": [
 							"{@spell plane shift} (self only, 0 brains)",
 							"{@spell detect magic} (1 brain)",
-							"{@spell silent image} (2 brains)",
+							"{@spell imagen silenciosa} (2 brains)",
 							"{@spell invisibility} (3 brains)",
 							"{@spell hypnotic pattern} (4 brains)",
 							"{@spell major image} (5 brains)",
 							"{@spell telekinesis} (6 brains)",
-							"{@spell arcane eye} (7 brains)",
+							"{@spell ojo arcano} (7 brains)",
 							"{@spell mislead} (8 brains)",
 							"{@spell greater invisibility} (9 brains)",
 							"{@spell mass suggestion} (10 or more brains)"
@@ -2620,7 +2620,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -2799,7 +2799,7 @@
 				13,
 				{
 					"ac": 16,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -2838,7 +2838,7 @@
 						"The shaker casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 14}):"
 					],
 					"will": [
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}"
 					],
 					"daily": {
@@ -3103,7 +3103,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -3143,7 +3143,7 @@
 					"will": [
 						"{@spell dispel magic}",
 						"{@spell fly}",
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}",
 						"{@spell prestidigitation}"
 					],
@@ -3284,7 +3284,7 @@
 					],
 					"will": [
 						"{@spell dispel magic}",
-						"{@spell levitate} (self only)",
+						"{@spell levitar} (self only)",
 						"{@spell mage hand} (the hand is invisible)",
 						"{@spell see invisibility}"
 					],
@@ -3991,7 +3991,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -4029,7 +4029,7 @@
 						"The remnant casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}",
 						"{@spell prestidigitation}"
 					],
@@ -4456,7 +4456,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -5021,7 +5021,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -5270,7 +5270,7 @@
 				12,
 				{
 					"ac": 15,
-					"condition": "with {@spell mage armor}",
+					"condition": "with {@spell armadura de mago}",
 					"braces": true
 				}
 			],
@@ -5308,7 +5308,7 @@
 						"The matter smith casts one of the following spells, using Charisma as the spellcasting ability:"
 					],
 					"will": [
-						"{@spell mage armor}",
+						"{@spell armadura de mago}",
 						"{@spell mage hand}",
 						"{@spell prestidigitation}"
 					],
@@ -5456,7 +5456,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell invisibility}"
 						]
 					},
@@ -5844,7 +5844,7 @@
 				"type": {
 					"choose": [
 						"celestial",
-						"fiend"
+						"infernal"
 					]
 				}
 			},
@@ -6309,7 +6309,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -6521,7 +6521,7 @@
 				"M"
 			],
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"yugoloth"
 				]
@@ -6606,7 +6606,7 @@
 						"Shemeshka casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 18}):"
 					],
 					"will": [
-						"{@spell alter self}",
+						"{@spell alterar el propio aspecto}",
 						"{@spell darkness}",
 						"{@spell invisibility} (self only)",
 						"{@spell mage hand}",
@@ -6620,7 +6620,7 @@
 						],
 						"1e": [
 							"{@spell banishment}",
-							"{@spell contact other plane} (as an action)",
+							"{@spell contactar con otro plano} (as an action)",
 							"{@spell mind blank}"
 						]
 					},
@@ -7441,7 +7441,7 @@
 			"size": [
 				"T"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"C",
 				"E"
@@ -7505,7 +7505,7 @@
 				{
 					"name": "Abyssal Curse",
 					"entries": [
-						"The vargouille targets one Humanoid within 5 feet of itself that has the {@condition incapacitated} condition. The target must succeed on a {@dc 12} Charisma saving throw or become cursed. The cursed target's Charisma decreases by 1 after each hour, as its head takes on fiendish aspects, and its Charisma can't increase. The curse doesn't advance while the target is in sunlight or the area of a {@spell daylight} spell. When the cursed target's Charisma becomes 2, the target dies, and its head tears from its body and becomes a new vargouille reflection. Casting remove curse, greater restoration, or a similar spell on the target before the transformation is complete ends the curse and restores the target's Charisma."
+						"The vargouille targets one Humanoid within 5 feet of itself that has the {@condition incapacitated} condition. The target must succeed on a {@dc 12} Charisma saving throw or become cursed. The cursed target's Charisma decreases by 1 after each hour, as its head takes on fiendish aspects, and its Charisma can't increase. The curse doesn't advance while the target is in sunlight or the area of a {@spell daylight} spell. When the cursed target's Charisma becomes 2, the target dies, and its head tears from its body and becomes a new vargouille reflection. Casting levantar maldición, greater restoration, or a similar spell on the target before the transformation is complete ends the curse and restores the target's Charisma."
 					]
 				},
 				{

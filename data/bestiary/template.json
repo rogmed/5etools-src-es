@@ -164,7 +164,7 @@
 									"1e": [
 										"{@spell blindness/deafness}",
 										"{@spell blur}",
-										"{@spell disguise self}"
+										"{@spell disfrazarse}"
 									]
 								},
 								"ability": "int"
@@ -2895,7 +2895,7 @@
 								"daily": {
 									"1e": [
 										"{@spell darkness}",
-										"{@spell hellish rebuke}"
+										"{@spell Reprensión infernal}"
 									]
 								},
 								"ability": "cha"
@@ -2930,7 +2930,7 @@
 											"The target is {@condition blinded}, {@condition deafened}, or both. When this curse ends, the Vistana takes {@damage 5d6} psychic damage."
 										]
 									},
-									"The curse lasts until ended with a {@spell greater restoration} spell, a {@spell remove curse} spell, or similar magic. It doesn't end when the target dies. If a cursed target is returned to life, the curse remains in effect."
+									"The curse lasts until ended with a {@spell greater restoration} spell, a {@spell levantar maldición} spell, or similar magic. It doesn't end when the target dies. If a cursed target is returned to life, the curse remains in effect."
 								]
 							},
 							{

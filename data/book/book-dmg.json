@@ -4222,7 +4222,7 @@
 									"name": "Optional Rule: Beast Transformation",
 									"page": 60,
 									"entries": [
-										"Whenever a visitor slays a beast native to the plane, the slayer must succeed on a {@dc 10} Charisma saving throw or become transformed (as the {@i polymorph} spell) into the type of beast that was slain. In this form, the creature retains its intelligence and ability to speak. At the end of each long rest, the polymorphed creature can repeat the saving throw. On a successful saving throw, the creature returns to its true form. After three failed saving throws, the transformation can be undone only by a remove curse spell or similar magic."
+										"Whenever a visitor slays a beast native to the plane, the slayer must succeed on a {@dc 10} Charisma saving throw or become transformed (as the {@i polymorph} spell) into the type of beast that was slain. In this form, the creature retains its intelligence and ability to speak. At the end of each long rest, the polymorphed creature can repeat the saving throw. On a successful saving throw, the creature returns to its true form. After three failed saving throws, the transformation can be undone only by a levantar maldición spell or similar magic."
 									],
 									"id": "0eb"
 								}
@@ -9812,7 +9812,7 @@
 												],
 												[
 													"16",
-													"Warlock"
+													"Brujo"
 												],
 												[
 													"17-20",
@@ -14802,7 +14802,7 @@
 							"page": 138,
 							"entries": [
 								"Some magic items bear curses that bedevil their users, sometimes long after a user has stopped using an item. A magic item's description specifies whether the item is cursed. Most methods of identifying items, including the identify spell, fail to reveal such a curse, although lore might hint at it. A curse should be a surprise to the item's user when the curse's effects are revealed.",
-								"Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the {@spell remove curse} spell."
+								"Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the {@spell levantar maldición} spell."
 							],
 							"id": "24e"
 						},
@@ -14878,7 +14878,7 @@
 														],
 														[
 															"00",
-															"Only one potion works, but its effect is permanent. Choose the simplest effect to make permanent, or the one that seems the most fun. For example, a {@item potion of healing} might increase the drinker's hit point maximum by 4, or {@item oil of etherealness} might permanently trap the user in the Ethereal Plane. At your discretion, an appropriate spell, such as {@spell dispel magic} or {@spell remove curse}, might end this lasting effect."
+															"Only one potion works, but its effect is permanent. Choose the simplest effect to make permanent, or the one that seems the most fun. For example, a {@item potion of healing} might increase the drinker's hit point maximum by 4, or {@item oil of etherealness} might permanently trap the user in the Ethereal Plane. At your discretion, an appropriate spell, such as {@spell dispel magic} or {@spell levantar maldición}, might end this lasting effect."
 														]
 													]
 												}
@@ -15735,7 +15735,7 @@
 										],
 										[
 											"28-32",
-											"{@item Potion of clairvoyance}"
+											"{@item Potion of clarividencia}"
 										],
 										[
 											"33-37",
@@ -20356,7 +20356,7 @@
 							"name": "Going Mad",
 							"page": 259,
 							"entries": [
-								"Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as {@spell contact other plane} and {@spell symbol}, can cause insanity, and you can use the madness rules here instead of the spell effects in the Player's Handbook. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.",
+								"Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as {@spell contactar con otro plano} and {@spell symbol}, can cause insanity, and you can use the madness rules here instead of the spell effects in the Player's Handbook. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.",
 								"Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the {@variantrule New Ability Scores: Honor and Sanity||Sanity score} (see chapter 9, \"Dungeon Master's Workshop\"), a creature makes a Sanity saving throw instead."
 							],
 							"id": "301"
@@ -20559,7 +20559,7 @@
 							"name": "Curing Madness",
 							"page": 260,
 							"entries": [
-								"A {@spell calm emotions} spell can suppress the effects of madness, while a {@spell lesser restoration} spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, {@spell remove curse} or {@spell dispel evil and good||dispel evil} might also prove effective. A {@spell greater restoration} spell or more powerful magic is required to rid a character of indefinite madness."
+								"A {@spell calm emotions} spell can suppress the effects of madness, while a {@spell lesser restoration} spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, {@spell levantar maldición} or {@spell dispel evil and good||dispel evil} might also prove effective. A {@spell greater restoration} spell or more powerful magic is required to rid a character of indefinite madness."
 							],
 							"id": "303"
 						}
@@ -22623,7 +22623,7 @@
 											"name": "Determine an Appropriate AC",
 											"page": 276,
 											"entries": [
-												"Alternatively, you can determine an appropriate AC based on the type of armor the monster wears, its natural armor, or some other Armor Class booster (such as the mage armor spell). Again, don't worry if the monster's AC isn't matching up with the expected challenge rating for the monster.",
+												"Alternatively, you can determine an appropriate AC based on the type of armor the monster wears, its natural armor, or some other Armor Class booster (such as the armadura de mago spell). Again, don't worry if the monster's AC isn't matching up with the expected challenge rating for the monster.",
 												"If your monster wears manufactured armor, its Armor Class is based on the type of armor worn (see the Player's Handbook for armor types). If the monster carries a shield, apply the shield bonus to its AC as normal.",
 												"A monster that doesn't wear armor might have natural armor, in which case it has an AC equal to 10 + its Dexterity modifier + its natural armor bonus. A monster with a thick hide generally has a natural armor bonus of +1 to +3. The bonus can be higher if the creature is exceptionally well armored. A gorgon, for example, is covered in steely plates and has a natural armor bonus of +9."
 											],

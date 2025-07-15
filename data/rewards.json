@@ -81,7 +81,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"speak with dead"
+									"hablar con los muertos"
 								]
 							}
 						}
@@ -91,7 +91,7 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Athreos trait}",
-				"You can cast {@spell speak with dead} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"You can cast {@spell hablar con los muertos} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell."
 			]
 		},
 		{
@@ -1130,7 +1130,7 @@
 			]
 		},
 		{
-			"name": "Charm of Hellish Rebuke",
+			"name": "Charm of Reprensión infernal",
 			"source": "BGDIA",
 			"page": 215,
 			"type": "Charm",
@@ -1140,7 +1140,7 @@
 						"_": {
 							"limited": {
 								"9": [
-									"hellish rebuke#9"
+									"Reprensión infernal#9"
 								]
 							}
 						}
@@ -1148,7 +1148,7 @@
 				}
 			],
 			"entries": [
-				"A fiery halo appears above your head when you receive this charm. This charm allows you to cast the {@spell hellish rebuke} spell (9th-level version) as a reaction. Once used nine times, the charm vanishes from you, as does the fiery halo."
+				"A fiery halo appears above your head when you receive this charm. This charm allows you to cast the {@spell Reprensión infernal} spell (9th-level version) as a reaction. Once used nine times, the charm vanishes from you, as does the fiery halo."
 			]
 		},
 		{
@@ -1329,10 +1329,10 @@
 						"_": {
 							"limited": {
 								"1e": [
-									"greater restoration|xphb"
+									"restablecimiento mayor|xphb"
 								],
 								"3e": [
-									"lesser restoration|xphb"
+									"restablecimiento menor|xphb"
 								]
 							}
 						}
@@ -1452,7 +1452,7 @@
 						"_": {
 							"limited": {
 								"3": [
-									"clairvoyance"
+									"clarividencia"
 								]
 							}
 						}
@@ -1460,7 +1460,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Clairvoyance} as an action, without using a spell slot and requiring no material components. Once used three times, the charm vanishes."
+				"You can cast {@spell Clarividencia} as an action, without using a spell slot and requiring no material components. Once used three times, the charm vanishes."
 			]
 		},
 		{
@@ -2048,7 +2048,7 @@
 					"name": "Curing the Curse",
 					"page": 39,
 					"entries": [
-						"Creatures who experience kindness or suffer near-death experiences can have epiphanies that allow their true self to tear through the bloody shroud of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor's} lies. A curse-afflicted creature who spends one week being treated with love and compassion instead of hatred and fear can make a {@dc 20} Wisdom {@quickref saving throws|PHB|2|1|saving throw}, breaking the curse on a success. The {@spell remove curse} spell also immediately ends the curse\u2014and many reformed clerics of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor} have united with clerics of other faiths to loosen the bloody god's grip on their families."
+						"Creatures who experience kindness or suffer near-death experiences can have epiphanies that allow their true self to tear through the bloody shroud of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor's} lies. A curse-afflicted creature who spends one week being treated with love and compassion instead of hatred and fear can make a {@dc 20} Wisdom {@quickref saving throws|PHB|2|1|saving throw}, breaking the curse on a success. The {@spell levantar maldición} spell also immediately ends the curse\u2014and many reformed clerics of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor} have united with clerics of other faiths to loosen the bloody god's grip on their families."
 					]
 				}
 			],
@@ -2235,7 +2235,7 @@
 						"_": {
 							"limited": {
 								"1": [
-									"blink",
+									"desplazamiento",
 									"sleep#3"
 								]
 							}
@@ -2324,7 +2324,7 @@
 					"innate": {
 						"_": {
 							"ritual": [
-								"contact other plane"
+								"contactar con otro plano"
 							]
 						}
 					}
@@ -2332,7 +2332,7 @@
 			],
 			"entries": [
 				"You have begun to extend your awareness beyond the single world of the Material Plane that is your home.",
-				"You can cast {@spell contact other plane} as a ritual. The entity you contact is a dragon on another world in the Material Plane, so its knowledge of your world might be limited. Also, this dragon is an echo of the dragon who is the source of the gift, which might affect its attitude and behavior toward you."
+				"You can cast {@spell contactar con otro plano} as a ritual. The entity you contact is a dragon on another world in the Material Plane, so its knowledge of your world might be limited. Also, this dragon is an echo of the dragon who is the source of the gift, which might affect its attitude and behavior toward you."
 			]
 		},
 		{
@@ -3073,7 +3073,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"clairvoyance"
+									"clarividencia"
 								]
 							}
 						}
@@ -3083,7 +3083,7 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Klothys trait}",
-				"You can cast {@spell clairvoyance} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell.",
+				"You can cast {@spell clarividencia} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell.",
 				"In addition, you have advantage on saving throws against being {@condition charmed}."
 			]
 		},
@@ -3451,7 +3451,7 @@
 						"_": {
 							"limited": {
 								"1": [
-									"contact other plane|xphb"
+									"contactar con otro plano|xphb"
 								]
 							}
 						}
@@ -3459,7 +3459,7 @@
 				}
 			],
 			"entries": [
-				"You can use your Observatory to peer into the far corners of {@book Wildspace|XDMG|5|Wildspace} and the {@book Astral Plane|XDMG|5|Astral Plane}. After spending a Long Rest in your Observatory, you gain a magical Charm (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Contact Other Plane|XPHB} without expending a spell slot. You can't gain this Charm again while you still have it."
+				"You can use your Observatory to peer into the far corners of {@book Wildspace|XDMG|5|Wildspace} and the {@book Astral Plane|XDMG|5|Astral Plane}. After spending a Long Rest in your Observatory, you gain a magical Charm (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Contactar con otro plano|XPHB} without expending a spell slot. You can't gain this Charm again while you still have it."
 			]
 		},
 		{
@@ -3588,7 +3588,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 3+ Phenax trait}",
-				"As a devotee of Phenax, you have proven yourself accomplished at deception. You can call on Phenax's blessing and cast {@spell disguise self} with this trait. While the spell is active, your shadow still resembles your original form. You can cast the spell in this way a number of times equal to your Charisma modifier (minimum of once). You regain all expended uses when you finish a long rest. Charisma is your spellcasting ability for this spell."
+				"As a devotee of Phenax, you have proven yourself accomplished at deception. You can call on Phenax's blessing and cast {@spell disfrazarse} with this trait. While the spell is active, your shadow still resembles your original form. You can cast the spell in this way a number of times equal to your Charisma modifier (minimum of once). You regain all expended uses when you finish a long rest. Charisma is your spellcasting ability for this spell."
 			]
 		},
 		{
@@ -3699,7 +3699,7 @@
 							"limited": {
 								"1": [
 									"crown of madness",
-									"hellish rebuke",
+									"Reprensión infernal",
 									"shatter"
 								]
 							}
@@ -3708,7 +3708,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell crown of madness}, {@spell hellish rebuke}, or {@spell shatter} spell. The charm vanishes after you activate it."
+				"When you activate this charm, you can cast the {@spell crown of madness}, {@spell Reprensión infernal}, or {@spell shatter} spell. The charm vanishes after you activate it."
 			]
 		},
 		{
@@ -3722,7 +3722,7 @@
 						"_": {
 							"limited": {
 								"1": [
-									"greater restoration|xphb"
+									"restablecimiento mayor|xphb"
 								]
 							}
 						}
@@ -3971,7 +3971,7 @@
 						"_": {
 							"daily": {
 								"1e": [
-									"blink"
+									"desplazamiento"
 								]
 							}
 						}

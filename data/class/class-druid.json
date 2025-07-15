@@ -578,11 +578,11 @@
 					"prepared": {
 						"3": [
 							"contorno borroso|xphb",
-							"burning hands|xphb",
+							"Manos ardientes|xphb",
 							"fire bolt|xphb"
 						],
 						"5": [
-							"fireball|xphb"
+							"bola de fuego|xphb"
 						],
 						"7": [
 							"marchitar|xphb"
@@ -670,7 +670,7 @@
 				{
 					"prepared": {
 						"3": [
-							"cure wounds|xphb",
+							"curar heridas|xphb",
 							"rayo de luna|xphb",
 							"starry wisp|xphb"
 						],
@@ -714,15 +714,15 @@
 						],
 						"5": [
 							"relámpago|xphb",
-							"water breathing|xphb"
+							"respirar bajo el agua|xphb"
 						],
 						"7": [
 							"relámpago|xphb",
-							"water breathing|xphb"
+							"respirar bajo el agua|xphb"
 						],
 						"9": [
 							"relámpago|xphb",
-							"water breathing|xphb"
+							"respirar bajo el agua|xphb"
 						]
 					}
 				}

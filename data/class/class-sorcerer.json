@@ -640,9 +640,9 @@
 				{
 					"prepared": {
 						"3": [
-							"aid|xphb",
+							"auxilio|xphb",
 							"alarm|xphb",
-							"lesser restoration|xphb",
+							"restablecimiento menor|xphb",
 							"protección contra el bien y el mal|xphb"
 						],
 						"5": [
@@ -654,7 +654,7 @@
 							"summon construct|xphb"
 						],
 						"9": [
-							"greater restoration|xphb",
+							"restablecimiento mayor|xphb",
 							"wall of force|xphb"
 						]
 					}
@@ -682,9 +682,9 @@
 				{
 					"prepared": {
 						"3": [
-							"alter self|xphb",
+							"alterar el propio aspecto|xphb",
 							"orbe cromático|xphb",
-							"command|xphb",
+							"orden imperiosa|xphb",
 							"dragon's breath|xphb"
 						],
 						"5": [
@@ -692,7 +692,7 @@
 							"fly|xphb"
 						],
 						"7": [
-							"arcane eye|xphb",
+							"ojo arcano|xphb",
 							"charm monster|xphb"
 						],
 						"9": [
@@ -1615,7 +1615,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Alter Self|XPHB}, {@spell Orbe cromático|XPHB}, {@spell Orden imperiosa|XPHB}, {@spell Dragon's Breath|XPHB}"
+							"{@spell Alterar el propio aspecto|XPHB}, {@spell Orbe cromático|XPHB}, {@spell Orden imperiosa|XPHB}, {@spell Dragon's Breath|XPHB}"
 						],
 						[
 							"5",

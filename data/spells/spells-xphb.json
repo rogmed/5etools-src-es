@@ -188,10 +188,10 @@
 			]
 		},
 		{
-			"name": "Alter Self",
-			"originalname": "",
+			"name": "Alterar el propio aspecto",
+			"originalname": "Alter Self",
 			"source": "XPHB",
-			"page": 239,
+			"page": 240,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -223,26 +223,26 @@
 				}
 			],
 			"entries": [
-				"You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a {@action Magic|XPHB} action to replace the option you chose with a different one.",
+				"Modificas tu forma física. Elige una de las siguientes opciones. Los efectos duran hasta que el conjuro termine; entretanto, puedes usar una acción de magia para sustituir la opción elegida por otra distinta.",
 				{
 					"type": "entries",
-					"name": "Aquatic Adaptation",
+					"name": "Adaptación acuática",
 					"entries": [
-						"You sprout gills and grow webs between your fingers. You can breathe underwater and gain a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Velocidad|XPHB}."
+						"Te salen branquias y te crecen membranas entre los dedos. Puedes respirar bajo el agua y obtienes una velocidad nadando igual a tu velocidad."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Change Appearance",
+					"name": "Armas naturales",
 					"entries": [
-						"You alter your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and other distinguishing characteristics. You can make yourself appear as a member of another species, though none of your statistics change. You can't appear as a creature of a different size, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. For the duration, you can take a {@action Magic|XPHB} action to change your appearance in this way again."
+						"Te crecen cascos (contundente), colmillos (perforante), cuernos (perforante) o garras (cortante). Cuando hagas un ataque sin armas para causar daño con el nuevo apéndice, hará {@damage 1d6} de daño del tipo indicado entre paréntesis en vez del daño normal de tu ataque sin armas. Además, usarás tu modificador por aptitud mágica para las tiradas de ataque y de daño en vez de tu Fuerza."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "Natural Weapons",
+					"name": "Cambiar de aspecto",
 					"entries": [
-						"You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your {@variantrule Unarmed Strike|XPHB} to deal damage with that new growth, it deals {@damage 1d6} damage of the type in parentheses instead of dealing the normal damage for your {@variantrule Unarmed Strike|XPHB}, and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength."
+						"Alteras tu apariencia. Decide tu aspecto, especificando tu altura, peso, rasgos faciales, timbre de voz, longitud del pelo, tono de piel y cualquier otro rasgo distintivo. Puedes presentarte como un miembro: de otra especie, aunque esto no modificará tu perfil de juego. No puedes adoptar el aspecto de una criatura de un tamaño distinto y conservarás tu forma básica: si eres una criatura bípeda, no podrás usar este conjuro para ser un cuadrúpedo, por ejemplo. Hasta que termine el conjuro, puedes usar una acción de magia para volver a cambiar tu aspecto."
 					]
 				}
 			],
@@ -596,7 +596,7 @@
 				"dragon",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"giant",
 				"humanoide",
 				"monstrosity",
@@ -918,10 +918,10 @@
 			]
 		},
 		{
-			"name": "Armor of Agathys",
-			"originalname": "",
+			"name": "Armadura de Agathys",
+			"originalname": "Armor of Agathys",
 			"source": "XPHB",
-			"page": 243,
+			"page": 245,
 			"level": 1,
 			"school": "A",
 			"time": [
@@ -939,7 +939,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a shard of blue glass"
+				"m": "un trozo de vidrio azul"
 			},
 			"duration": [
 				{
@@ -951,14 +951,14 @@
 				}
 			],
 			"entries": [
-				"Protective magical frost surrounds you. You gain 5 {@variantrule Temporary Hit Points|XPHB}. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no {@variantrule Temporary Hit Points|XPHB}."
+				"Una escarcha mágica protectora te rodea y ganas 5 puntos de golpe temporales. Si una criatura te acierta con una tirada de ataque cuerpo a cuerpo antes de que el conjuro termine, dicha criatura sufre 5 de daño de frío. El conjuro termina antes de tiempo si no tienes puntos de golpe temporales."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The {@variantrule Temporary Hit Points|XPHB} and the Cold damage both increase by 5 for each spell slot level above 1."
+						"Los puntos de golpe temporales y el daño de frío aumentan en 5 por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -2198,10 +2198,10 @@
 			]
 		},
 		{
-			"name": "Blink",
-			"originalname": "",
+			"name": "Desplazamiento",
+			"originalname": "Blink",
 			"source": "XPHB",
-			"page": 248,
+			"page": 270,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -2232,8 +2232,8 @@
 				}
 			],
 			"entries": [
-				"Roll {@dice 1d6} at the end of each of your turns for the duration. On a roll of 4-6, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell ends instantly if you are already on that plane). While on the Ethereal Plane, you can perceive the plane you left, which is cast in shades of gray, but you can't see anything there more than 60 feet away. You can affect and be affected only by other creatures on the Ethereal Plane, and creatures on the other plane can't perceive you unless they have a special ability that lets them perceive things on the Ethereal Plane.",
-				"You return to the other plane at the start of your next turn and when the spell ends if you are on the Ethereal Plane. You return to an unoccupied space of your choice that you can see within 10 feet of the space you left. If no unoccupied space is available within that range, you appear in the nearest unoccupied space."
+				"Tira {@dice 1d6} al final de cada uno de tus turnos hasta que el conjuro termine. Si el resultado es 4-6, desapareces de tu plano de existencia actual y apareces en el Plano Etéreo (el conjuro termina al instante si ya estabas en ese plano). Mientras estás en el Plano Etéreo, puedes percibir lo que sucede en el plano del que procedes, que se muestra en distintos tonos de gris, pero no puedes ver nada que esté a más de 60 pies (18 m). Solo puedes afectar a criaturas que estén en el Plano Etéreo y solo estas criaturas te pueden afectar a ti. Las criaturas que estén en el otro plano no pueden percibirte en el Plano Etéreo a menos que tengan una capacidad especial que les permita percibir cosas en el Plano Etéreo.",
+				"Al principio de tu siguiente turno, y si el conjuro acaba mientras estás en el Plano Etéreo, volverás al otro plano y aparecerás en un espacio sin ocupar de tu elección que puedas ver a 10 pies (3 m) o menos del espacio que hayas abandonado. Si no hay ningún espacio sin ocupar en ese alcance, aparecerás en el espacio sin ocupar más cercano."
 			],
 			"miscTags": [
 				"SGT"
@@ -2850,7 +2850,7 @@
 				}
 			},
 			"components": {
-				"v": true
+			"v": true
 			},
 			"duration": [
 				{
@@ -2873,10 +2873,10 @@
 			]
 		},
 		{
-			"name": "Clairvoyance",
-			"originalname": "",
+			"name": "Clarividencia",
+			"originalname": "Clairvoyance",
 			"source": "XPHB",
-			"page": 250,
+			"page": 257,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -2898,7 +2898,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "a focus worth 100+ GP, either a jeweled horn for hearing or a glass eye for seeing",
+					"text": "un canalizador que valga al menos 100 po; puede ser una trompetilla enjoyada o un ojo de cristal",
 					"cost": 10000
 				}
 			},
@@ -2913,9 +2913,9 @@
 				}
 			],
 			"entries": [
-				"You create an {@condition Invisible|XPHB} sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invulnerable sensor remains in place for the duration.",
-				"When you cast the spell, choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As a {@variantrule Acción adicional|XPHB}, you can switch between seeing and hearing.",
-				"A creature that sees the sensor (such as a creature benefiting from {@spell Ver invisibilidad|XPHB} or {@sense Truesight|XPHB}) sees a luminous orb about the size of your fist."
+				"Creas un sensor {@condition invisible|XPHB} dentro del alcance en un lugar que conozcas (que hayas visitado o visto antes) o en un lugar obvio, aunque no lo conozcas (por ejemplo, tras una puerta, al girar una esquina o en una arboleda). Este sensor intangible e invulnerable permanecerá allí hasta que el conjuro termine.",
+				"Cuando lances el conjuro, elige la vista o el oído. Podrás usar el sentido elegido como si estuvieras en el espacio del sensor. Como acción adicional, puedes cambiar entre la vista y el oído.",
+				"Cualquier criatura que pueda percibir el sensor (por ejemplo, que se esté beneficiando del conjuro {@spell ver invisibilidad|XPHB} o que tenga visión verdadera) verá un orbe luminoso del tamaño aproximado de tu puño."
 			],
 			"miscTags": [
 				"UBA"
@@ -3520,7 +3520,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Confusion",
+			"name": "Confusión",
 			"originalname": "",
 			"source": "XPHB",
 			"page": 253,
@@ -4112,10 +4112,10 @@
 			]
 		},
 		{
-			"name": "Contact Other Plane",
-			"originalname": "",
+			"name": "Contactar con otro plano",
+			"originalname": "Contact Other Plane",
 			"source": "XPHB",
-			"page": 255,
+			"page": 262,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -4148,8 +4148,8 @@
 				"ritual": true
 			},
 			"entries": [
-				"You mentally contact a demigod, the spirit of a long-dead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly intelligence can break your mind. When you cast this spell, make a {@dc 15} Intelligence saving throw. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as \"yes,\" \"no,\" \"maybe,\" \"never,\" \"irrelevant,\" or \"unclear\" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.",
-				"On a failed save, you take {@damage 6d6} Psychic damage and have the {@condition Incapacitado|XPHB} condition until you finish a {@variantrule Descanso largo|XPHB}. A {@spell Restablecimiento mayor|XPHB} spell cast on you ends this effect."
+				"Contactas mentalmente con un semidiós, el espíritu de un erudito muerto hace tiempo o cualquier otra entidad ilustrada de otro plano. Contactar con esta inteligencia sobrenatural puede hacer añicos tu mente. Cuando lances este conjuro, haz una tirada de salvación de Inteligencia con CD 15. Si superas la tirada, puedes hacerle a la entidad hasta cinco preguntas, que debes realizar antes de que el conjuro termine. Tu DM responderá a cada pregunta con una sola palabra, como “sí”, “no”, “puede”, “nunca”, “irrelevante” o “ambiguo” (si la entidad no conoce la respuesta a la pregunta). Si una respuesta de una sola palabra pudiera inducir a error, tu DM podría ofrecer en su lugar una frase corta.",
+				"Si fallas la tirada, sufrirás {@damage 6d6} de daño psíquico y tendrás el estado de {@condition incapacitado|XPHB} hasta que finalices un descanso largo. Si te lanzan un conjuro {@spell restablecimiento mayor|XPHB}, el efecto acabará."
 			],
 			"damageInflict": [
 				"psychic"
@@ -5457,7 +5457,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			]
 		},
@@ -5823,7 +5823,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			],
 			"miscTags": [
@@ -6152,10 +6152,10 @@
 			]
 		},
 		{
-			"name": "Dominate Beast",
-			"originalname": "",
+			"name": "Dominar bestia",
+			"originalname": "Dominate Beast",
 			"source": "XPHB",
-			"page": 265,
+			"page": 273,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 4,
@@ -6188,16 +6188,16 @@
 				}
 			],
 			"entries": [
-				"One Beast you can see within range must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target has {@variantrule Advantage|XPHB} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.",
-				"You have a telepathic link with the {@condition Hechizado|XPHB} target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as \"{@action Attack|XPHB} that creature,\" \"Move over there,\" or \"Fetch that object.\" The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.",
-				"You can command the target to take a {@variantrule Reaction|XPHB} but must take your own {@variantrule Reaction|XPHB} to do so."
+				"Una bestia que puedas ver dentro del alcance deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition Hechizado|XPHB|hechizada} hasta que termine el conjuro. El objetivo tiene ventaja en la tirada si está luchando contra ti o tus aliados. Siempre que reciba daño, repetirá la tirada de salvación y, si tiene éxito, se librará del conjuro.",
+				"Tendrás un vínculo telepático con el objetivo {@condition hechizado|XPHB} mientras estéis en el mismo plano de existencia. En tu turno, puedes usar este vínculo para dar órdenes al objetivo (no requiere acción), como “ataca a esa criatura”, “muévete hacia allí” o “tráeme ese objeto”. En su turno, el objetivo hace todo lo posible por obedecer. Si lleva a cabo una orden y no recibe más instrucciones de tu parte, actúa y se mueve libremente y se centra en protegerse.",
+				"Puedes ordenarle al objetivo que lleve a cabo reacciones, pero para ello deberás usar tu propia reacción."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Your {@status Concentration|XPHB} can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours)."
+						"Tu {@status concentración|XPHB} puede durar más con un espacio de conjuro de nivel 5 (hasta 10 minutos), 6 (hasta 1 hora) o 7 o más (hasta 8 horas)."
 					]
 				}
 			],
@@ -6281,10 +6281,10 @@
 			]
 		},
 		{
-			"name": "Dominate Person",
-			"originalname": "",
+			"name": "Dominar persona",
+			"originalname": "Dominate Person",
 			"source": "XPHB",
-			"page": 266,
+			"page": 274,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -6317,16 +6317,16 @@
 				}
 			],
 			"entries": [
-				"One Humanoid you can see within range must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target has {@variantrule Advantage|XPHB} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.",
-				"You have a telepathic link with the {@condition Hechizado|XPHB} target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as \"{@action Attack|XPHB} that creature,\" \"Move over there,\" or \"Fetch that object.\" The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.",
-				"You can command the target to take a {@variantrule Reaction|XPHB} but must take your own {@variantrule Reaction|XPHB} to do so."
+				"Un humanoide que puedas ver dentro del alcance deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition hechizado|XPHB} hasta que termine el conjuro. El objetivo tiene ventaja en la tirada si está luchando contra ti o tus aliados. Siempre que reciba daño, repetirá la tirada de salvación y, si tiene éxito, se librará del conjuro.",
+				"Tendrás un vínculo telepático con el objetivo {@condition hechizado|XPHB} mientras estéis en el mismo plano de existencia. En tu turno, puedes usar este vínculo para dar órdenes al objetivo (no requiere acción), como “ataca a esa criatura”, “muévete hacia allí” o “tráeme ese objeto”. En su turno, el objetivo hace todo lo posible por obedecer. Si lleva a cabo una orden y no recibe más instrucciones de tu parte, actúa y se mueve libremente y se centra en protegerse.",
+				"Puedes ordenarle al objetivo que lleve a cabo reacciones, pero para ello deberás usar tu propia reacción."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Your {@status Concentration|XPHB} can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours)."
+						"Tu {@status concentración|XPHB} puede durar más con un espacio de conjuro de nivel 6 (hasta 10 minutos), 7 (hasta 1 hora) u 8 o más (hasta 8 horas)."
 					]
 				}
 			],
@@ -6652,10 +6652,10 @@
 			]
 		},
 		{
-			"name": "Eldritch Blast",
-			"originalname": "",
+			"name": "Descarga sobrenatural",
+			"originalname": "Eldritch Blast",
 			"source": "XPHB",
-			"page": 267,
+			"page": 268,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 0,
@@ -6683,14 +6683,14 @@
 				}
 			],
 			"entries": [
-				"You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes {@damage 1d10} Force damage."
+				"Lanzas un rayo de energía chisporroteante. Haz un ataque de conjuro a distancia contra una criatura u objeto dentro del alcance. Si acierta, el objetivo recibe {@damage 1d10} de daño de fuerza."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Mejora de truco",
 					"entries": [
-						"The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam."
+						"El conjuro crea dos rayos a nivel 5, tres rayos a nivel 11 y cuatro rayos a nivel 17. Puedes dirigir los rayos al mismo objetivo o a objetivos distintos. Realiza una tirada de ataque por separado para cada rayo."
 					]
 				}
 			],
@@ -8574,7 +8574,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			],
 			"miscTags": [
@@ -8966,7 +8966,7 @@
 			"name": "Geas",
 			"originalname": "",
 			"source": "XPHB",
-			"page": 278,
+			"page": 286,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -8997,17 +8997,17 @@
 				}
 			],
 			"entries": [
-				"You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target automatically succeeds if it can't understand your command.",
-				"While {@condition Hechizado|XPHB}, the creature takes {@damage 5d10} Psychic damage if it acts in a manner directly counter to your command. It takes this damage no more than once each day.",
-				"You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.",
-				"A {@spell Remove Curse|XPHB}, {@spell Restablecimiento mayor|XPHB}, or {@spell Deseo|XPHB} spell ends this spell."
+				"Das una orden verbal a una criatura que puedas ver dentro del alcance y la obligas a llevar a cabo un cometido o le impides realizar una acción o actividad, según desees. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition hechizado|XPHB} hasta que termine el conjuro. El objetivo la superará automáticamente si no entiende la orden.",
+				"Mientras esté {@condition hechizado|XPHB|hechizada}, la criatura sufre {@damage 5d10} de daño psíquico si actúa de manera contraria a tus instrucciones, y solo podrá recibir este daño una vez al día.",
+				"Puedes dar cualquier orden que quieras, siempre que no sea una actividad que suponga una muerte segura. Si das una orden suicida, el conjuro termina.",
+				"Un conjuro {@spell deseo|XPHB}, {@spell Levantar maldición|XPHB|levantar maldición} o {@spell restablecimiento mayor|XPHB} también pone fin a este conjuro."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above."
+						"Si usas un espacio de niveles 7 u 8, la duración será de 365 días. Si usas un espacio de nivel 9, el conjuro durará hasta que se le pone fin mediante uno de los conjuros mencionados anteriormente."
 					]
 				}
 			],
@@ -10073,7 +10073,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			],
 			"miscTags": [
@@ -10394,10 +10394,10 @@
 			]
 		},
 		{
-			"name": "Hellish Rebuke",
-			"originalname": "",
+			"name": "Reprensión infernal",
+			"originalname": "Hellish Rebuke",
 			"source": "XPHB",
-			"page": 284,
+			"page": 328,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -10406,7 +10406,7 @@
 				{
 					"number": 1,
 					"unit": "reacción",
-					"condition": "which you take in response to taking damage from a creature that you can see within 60 feet of yourself"
+					"condition": "que llevas a cabo enrespuesta a recibir daño de una criatura que puedas ver a 60 pies (18 m) o menos de ti"
 				}
 			],
 			"range": {
@@ -10426,14 +10426,14 @@
 				}
 			],
 			"entries": [
-				"The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking {@damage 2d10} Fire damage on a failed save or half as much damage on a successful one."
+				"La criatura que te ha dañado se ve rodeada momentáneamente por unas llamas verdes y hará una tirada de salvación de Destreza; sufrirá {@damage 2d10} de daño de fuego si la falla o la mitad del daño si la supera."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"The damage increases by {@scaledamage 2d10|1-9|1d10} for each spell slot level above 1."
+						"El daño aumenta en {@scaledamage 2d10|1-9|1d10} por cada nivel por encima de 1 que tenga el espacio."
 					]
 				}
 			],
@@ -10566,10 +10566,10 @@
 			]
 		},
 		{
-			"name": "Hex",
-			"originalname": "",
+			"name": "Maleficio",
+			"originalname": "Hex",
 			"source": "XPHB",
-			"page": 285,
+			"page": 307,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 1,
@@ -10590,7 +10590,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "the petrified eye of a newt"
+				"m": "el ojo petrificado de un tritón"
 			},
 			"duration": [
 				{
@@ -10603,15 +10603,15 @@
 				}
 			],
 			"entries": [
-				"You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra {@damage 1d6} Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has {@variantrule Disadvantage|XPHB} on ability checks made with the chosen ability.",
-				"If the target drops to 0 {@variantrule Hit Points|XPHB} before this spell ends, you can take a {@variantrule Acción adicional|XPHB} on a later turn to curse a new creature."
+				"Impones una maldición a una criatura que puedas ver dentro del alcance. Hasta que el conjuro termine, infliges {@damage 1d6} de daño necrótico adicional al objetivo siempre que le aciertes con una tirada de ataque. Además, elige una característica cuando lances el conjuro. El objetivo tendrá desventaja en las pruebas que haga con la característica elegida.",
+				"Silos puntos de golpe del objetivo se reducen a 0 antes de que el conjuro termine, puedes usar una acción adicional en un turno posterior para maldecir a una nueva criatura."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"Your {@status Concentration|XPHB} can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours)."
+						"Tu {@status concentración|XPHB} puede durar más si usas un espacio de conjuro de nivel 2 (hasta 4 horas), 3 o 4 (hasta 8 horas) o 5 o más (24 horas)."
 					]
 				}
 			],
@@ -11879,10 +11879,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Levitate",
-			"originalname": "",
+			"name": "Levitar",
+			"originalname": "Levitate",
 			"source": "XPHB",
-			"page": 291,
+			"page": 304,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 2,
@@ -11903,7 +11903,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "a metal spring"
+				"m": "un muelle de metal"
 			},
 			"duration": [
 				{
@@ -11916,9 +11916,9 @@
 				}
 			],
 			"entries": [
-				"One creature or loose object of your choice that you can see within range rises vertically up to 20 feet and remains suspended there for the duration. The spell can levitate an object that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.",
-				"The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can take a {@action Magic|XPHB} action to move the target, which must remain within the spell's range.",
-				"When the spell ends, the target floats gently to the ground if it is still aloft."
+				"Una criatura o un objeto suelto de tu elección que puedas ver dentro del alcance se eleva verticalmente hasta 20 pies (6 m) y se mantiene suspendido hasta que el conjuro termine. El conjuro puede hacer levitar un objeto que pese hasta 250 kg y no afecta a una criatura no voluntaria que supere una tirada de salvación de Constitución.",
+				"El objetivo solo puede moverse empujándose o tirando de un objeto fijo o una superficie a su alcance (como una pared o techo), lo que le permite desplazarse como si estuviera trepando. En tu turno, puedes variar la altitud del objetivo hasta 20 pies (6 m) en cualquier sentido. Si tú mismo eres el objetivo, te puedes mover hacia arriba o abajo como parte de tu movimiento. En caso contrario, puedes usar una acción de magia para mover al objetivo, que deberá permanecer dentro del alcance del conjuro.",
+				"Cuando el conjuro termine, el objetivo flotará suavemente hasta llegar al suelo si todavía está en el aire."
 			],
 			"savingThrow": [
 				"constitución"
@@ -12426,7 +12426,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			],
 			"miscTags": [
@@ -13591,10 +13591,10 @@
 			]
 		},
 		{
-			"name": "Modify Memory",
-			"originalname": "",
+			"name": "Alterar los recuerdos",
+			"originalname": "Modify Memory",
 			"source": "XPHB",
-			"page": 299,
+			"page": 241,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -13627,11 +13627,11 @@
 				}
 			],
 			"entries": [
-				"You attempt to reshape another creature's memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has {@variantrule Advantage|XPHB} on the save. On a failed save, the target has the {@condition Hechizado|XPHB} condition for the duration. While {@condition Hechizado|XPHB} in this way, the target also has the {@condition Incapacitado|XPHB} condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.",
-				"While this charm lasts, you can affect the target's memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity, change its memory of the event's details, or create a memory of some other event.",
-				"You must speak to the target to describe how its memories are affected, and it must be able to understand your language for the modified memories to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you finish describing the modified memories, the creature's memory isn't altered. Otherwise, the modified memories take hold when the spell ends.",
-				"A modified memory doesn't necessarily affect how a creature behaves, particularly if the memory contradicts the creature's natural inclinations, alignment, or beliefs. An illogical modified memory, such as a false memory of how much the creature enjoyed swimming in acid, is dismissed as a bad dream. The DM might deem a modified memory too nonsensical to affect a creature.",
-				"A {@spell Remove Curse|XPHB} or {@spell Restablecimiento mayor|XPHB} spell cast on the target restores the creature's true memory."
+				"Intentas modificar los recuerdos de otra criatura. Una criatura que puedas ver dentro del alcance realiza una tirada de salvación de Sabiduría. Si estás luchando contra ella, tendrá ventaja en la tirada. Si la falla, tendrá el estado de {@condition Hechizado|XPHB|hechizada} hasta que termine el conjuro. Mientras esté hechizado de esta manera, el objetivo también tiene el estado de {@condition incapacitado|XPHB} y no es consciente de su entorno, aunque puede oírte. Si recibe cualquier daño o es el objetivo de otro conjuro, este conjuro termina y no se modifica ninguno de sus recuerdos.",
+				"Mientras dure este sortilegio, puedes afectar al recuerdo de un suceso que haya vivido el objetivo durante las últimas 24 horas y que no haya durado más de 10 minutos. Puedes eliminar permanentemente todo recuerdo del suceso, permitir que lo recuerde con claridad perfecta, cambiar cómo recuerda los detalles o crear un recuerdo de otro suceso.",
+				"Debes hablarle al objetivo para describir cómo se ven afectados sus recuerdos y este debe poder comprender tu idioma para que los recuerdos modificados se asienten. Su mente llenará cualquier hueco que falte en los detalles de tu descripción. Si el conjuro termina antes de que acabes de describir los recuerdos modificados, la memoria de la criatura no se verá afectada. De lo contrario, los recuerdos modificados ocuparán el lugar de los reales en cuanto el conjuro termine.",
+				"Un recuerdo modificado no tiene por qué afectar al comportamiento de una criatura, en especial si contradice sus inclinaciones naturales, su alineamiento o sus creencias. Un recuerdo modificado que no sea lógico, como cuánto disfrutó bañándose en ácido, se difuminará y la criatura lo considerará un mal sueño. Tu DM podría considerar que un recuerdo modificado es demasiado ilógico como para afectar a una criatura.",
+				"Un conjuro {@spell levantar maldición|XPHB} o {@spell Restablecimiento mayor|XPHB} lanzado sobre el objetivo restaurará los recuerdos auténticos de la criatura."
 			],
 			"entriesHigherLevel": [
 				{
@@ -14643,7 +14643,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend"
+				"infernal"
 			],
 			"miscTags": [
 				"SMN"
@@ -15656,7 +15656,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			],
 			"miscTags": [
@@ -15803,7 +15803,7 @@
 				"dragon",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"giant",
 				"humanoide",
 				"monstrosity",
@@ -16176,10 +16176,10 @@
 			]
 		},
 		{
-			"name": "Remove Curse",
-			"originalname": "",
+			"name": "Levantar maldición",
+			"originalname": "Remove Curse",
 			"source": "XPHB",
-			"page": 312,
+			"page": 304,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -16206,7 +16206,7 @@
 				}
 			],
 			"entries": [
-				"At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's {@variantrule Attunement|XPHB} to the object so it can be removed or discarded."
+				"Con tan solo tocar a una criatura o un objeto, eliminarás todas las maldiciones que le afecten. Si el objetivo es un objeto mágico maldito, la maldición permanecerá, pero este conjuro romperá la sintonización del objeto con el dueño, lo que le permitirá quitárselo o deshacerse de él."
 			],
 			"miscTags": [
 				"OBJ"
@@ -16306,7 +16306,7 @@
 				"dragon",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"giant",
 				"humanoide",
 				"monstrosity",
@@ -16568,7 +16568,7 @@
 		},
 		{
 			"name": "Rayo abrasador",
-			"originalname": "",
+			"originalname": "Scorching Ray",
 			"source": "XPHB",
 			"page": 324,
 			"srd52": true,
@@ -17826,10 +17826,10 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Speak with Dead",
-			"originalname": "",
+			"name": "Hablar con los muertos",
+			"originalname": "Speak with Dead",
 			"source": "XPHB",
-			"page": 318,
+			"page": 289,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 3,
@@ -17850,7 +17850,7 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "burning incense"
+				"m": "incienso para quemar)"
 			},
 			"duration": [
 				{
@@ -17862,8 +17862,8 @@
 				}
 			],
 			"entries": [
-				"You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days.",
-				"Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsión to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events."
+				"Otorgas una apariencia de vida a un cadáver de tu elección dentro del alcance para que pueda responder a tus preguntas. El cadáver debe tener boca y el conjuro falla si la criatura difunta era un muerto viviente cuando falleció. El conjuro también falla si el cadáver ya ha sido el objetivo de este conjuro en los últimos 10 días.",
+				"Hasta que el conjuro termine, puedes hacerle al cadáver hasta cinco preguntas. Este solo sabe lo que sabía en vida, incluidos los idiomas. Sus respuestas suelen ser breves, crípticas o repetitivas, y no se siente obligado a darte una respuesta verdadera si eres hostil con él o te reconoce como un enemigo. Este conjuro no devuelve el alma de la criatura a su cuerpo, solo anima su espíritu. Por tanto, el cadáver no puede aprender nueva información, no entiende nada que haya ocurrido después su muerte y no puede especular sobre sucesos futuros."
 			],
 			"affectsCreatureType": [
 				"aberration",
@@ -17873,7 +17873,7 @@
 				"dragon",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"giant",
 				"humanoide",
 				"monstrosity",
@@ -18728,10 +18728,10 @@
 			]
 		},
 		{
-			"name": "Summon Celestial",
-			"originalname": "",
+			"name": "Invocar celestial",
+			"originalname": "Summon Celestial",
 			"source": "XPHB",
-			"page": 323,
+			"page": 298,
 			"level": 5,
 			"school": "C",
 			"time": [
@@ -18751,7 +18751,7 @@
 				"v": true,
 				"s": true,
 				"m": {
-					"text": "a reliquary worth 500+ GP",
+					"text": "un relicario que valga al menos 500 po",
 					"cost": 50000
 				}
 			},
@@ -18766,8 +18766,8 @@
 				}
 			],
 			"entries": [
-				"You call forth a Celestial spirit. It manifests in an angelic form in an unoccupied space that you can see within range and uses the {@creature Celestial Spirit|XPHB} stat block. When you cast the spell, choose Avenger or Defender. Your choice determines certain details in its stat block. The creature disappears when it drops to 0 {@variantrule Hit Points|XPHB} or when the spell ends.",
-				"The creature is an ally to you and your allies. In combat, the creature shares your {@variantrule Initiative|XPHB} count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the {@action Dodge|XPHB} action and uses its movement to avoid danger."
+				"Invocas un espíritu celestial que se manifiesta con una forma angelical en un espacio sin ocupar que puedas ver dentro del alcance y usa el perfil del {@b {@creature Celestial Spirit|XPHB|espíritu celestial}}. Cuando lances el conjuro, elige defensor o vengador. Tu elección determinará ciertos detalles de su perfil. La criatura desaparecerá si sus puntos de golpe se reducen a 0 o si el conjuro termina.",
+				"La criatura se considera un aliado para tus aliados y para ti. En combate, la criatura comparte tu orden de iniciativa, pero su turno va justo después del tuyo, obedece tus órdenes verbales (no requiere acción) y, si no le das ninguna, realiza la acción de esquivar y usa su movimiento para evitar el peligro."
 			],
 			"entriesHigherLevel": [
 				{
@@ -19559,7 +19559,7 @@
 		},
 		{
 			"name": "Telequinesis",
-			"originalname": "",
+			"originalname": "Telekinesis",
 			"source": "XPHB",
 			"page": 335,
 			"srd52": true,

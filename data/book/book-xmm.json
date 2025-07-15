@@ -14716,7 +14716,7 @@
 								{
 									"type": "list",
 									"style": "list-caption",
-									"name": "Fiend",
+									"name": "Infernal",
 									"items": [
 										"{@creature Arcanaloth|XMM}",
 										"{@creature Balor|XMM}",

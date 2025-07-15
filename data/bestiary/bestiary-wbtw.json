@@ -443,7 +443,7 @@
 						"2e": [
 							"{@spell create food and water}",
 							"{@spell polymorph}",
-							"{@spell remove curse}"
+							"{@spell levantar maldición}"
 						]
 					},
 					"ability": "int",
@@ -2361,7 +2361,7 @@
 					],
 					"will": [
 						"{@spell detect magic}",
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell invisibility}",
 						"{@spell light}",
 						"{@spell mage hand}",
@@ -2876,7 +2876,7 @@
 					],
 					"daily": {
 						"1e": [
-							"{@spell dominate beast}",
+							"{@spell dominar bestia}",
 							"{@spell fly}",
 							"{@spell Imagen múltiple}",
 							"{@spell web}"
@@ -2979,7 +2979,7 @@
 				"type": "humanoide",
 				"tags": [
 					"kenku",
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -3027,7 +3027,7 @@
 						"Kettlesteam casts one of the following spells, using Charisma as the spellcasting ability (spell save {@dc 13}):"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell friends}",
 						"{@spell mage hand}",
 						"{@spell minor illusion}"
@@ -3771,9 +3771,9 @@
 					]
 				},
 				{
-					"name": "Levitate",
+					"name": "Levitar",
 					"entries": [
-						"While wearing boots of levitation, Molliver casts {@spell levitate} (self only)."
+						"While wearing boots of levitation, Molliver casts {@spell levitar} (self only)."
 					]
 				}
 			],
@@ -4184,7 +4184,7 @@
 				{
 					"name": "Staff Spell",
 					"entries": [
-						"While holding his {@item staff of power}, Ringlerun can expend 1 or more of its charges to cast one of the following spells from it (spell save {@dc 14}, {@hit 8} to hit with spell attacks): cono de frío ({@damage 8d8} cold damage; 5 charges), fireball ({@damage 10d6} fire damage; 5 charges), globe of invulnerability (6 charges), inmovilizar monstruo (5 charges), levitate (2 charges), relámpago ({@damage 10d6} lightning damage; 5 charges), magic missile (1 charge), ray of enfeeblement (1 charge), or wall of force (5 charges)."
+						"While holding his {@item staff of power}, Ringlerun can expend 1 or more of its charges to cast one of the following spells from it (spell save {@dc 14}, {@hit 8} to hit with spell attacks): cono de frío ({@damage 8d8} cold damage; 5 charges), fireball ({@damage 10d6} fire damage; 5 charges), globe of invulnerability (6 charges), inmovilizar monstruo (5 charges), levitar (2 charges), relámpago ({@damage 10d6} lightning damage; 5 charges), magic missile (1 charge), ray of enfeeblement (1 charge), or wall of force (5 charges)."
 					]
 				}
 			],
@@ -4609,7 +4609,7 @@
 						],
 						"2e": [
 							"{@spell polymorph}",
-							"{@spell remove curse}",
+							"{@spell levantar maldición}",
 							"{@spell speak with plants}"
 						]
 					},
@@ -4702,7 +4702,7 @@
 				"type": "humanoide",
 				"tags": [
 					"human",
-					"warlock"
+					"brujo"
 				]
 			},
 			"alignment": [
@@ -4751,12 +4751,12 @@
 					"daily": {
 						"1e": [
 							"{@spell detect magic}",
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell faerie fire}",
 							"{@spell fly}",
 							"{@spell hypnotic pattern}",
 							"{@spell invisibility}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						]
 					},
 					"ability": "cha",
@@ -5009,7 +5009,7 @@
 						],
 						"1e": [
 							"{@spell lesser restoration}",
-							"{@spell remove curse}",
+							"{@spell levantar maldición}",
 							"{@spell zone of truth}"
 						]
 					},
@@ -5919,7 +5919,7 @@
 							"{@spell gaseous form}",
 							"{@spell inmovilizar persona}",
 							"{@spell silence}",
-							"{@spell speak with dead}"
+							"{@spell hablar con los muertos}"
 						]
 					},
 					"ability": "wis",

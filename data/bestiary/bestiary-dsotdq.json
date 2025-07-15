@@ -1061,11 +1061,11 @@
 					],
 					"daily": {
 						"1": [
-							"{@spell dominate person}"
+							"{@spell dominar persona}"
 						],
 						"2e": [
 							"{@spell puerta dimensional}",
-							"{@spell disguise self}",
+							"{@spell disfrazarse}",
 							"{@spell sending}"
 						]
 					},
@@ -6862,11 +6862,11 @@
 					"daily": {
 						"2e": [
 							"{@spell puerta dimensional}",
-							"{@spell mage armor}"
+							"{@spell armadura de mago}"
 						],
 						"1e": [
-							"{@spell arcane eye}",
-							"{@spell dominate person}",
+							"{@spell ojo arcano}",
+							"{@spell dominar persona}",
 							"{@spell wall of force}"
 						]
 					},
@@ -8917,7 +8917,7 @@
 				{
 					"name": "Banner Pike",
 					"entries": [
-						"{@atk mw} {@hit 10} to hit, reach 5 ft., one target. {@h}10 ({@damage 1d10 + 5}) piercing damage plus 13 ({@damage 3d8}) necrotic damage. If the target is a Humanoid, it must succeed on a {@dc 16} Charisma saving throw or be cursed. The curse lasts until it is lifted by remove curse or similar magic. Black, thorny rose stems sprout from the creature's body while it is cursed, imposing disadvantage on the creature's ability checks and attack rolls and halving its speed. A creature that succeeds on the saving throw against the curse is immune to it for 24 hours."
+						"{@atk mw} {@hit 10} to hit, reach 5 ft., one target. {@h}10 ({@damage 1d10 + 5}) piercing damage plus 13 ({@damage 3d8}) necrotic damage. If the target is a Humanoid, it must succeed on a {@dc 16} Charisma saving throw or be cursed. The curse lasts until it is lifted by levantar maldición or similar magic. Black, thorny rose stems sprout from the creature's body while it is cursed, imposing disadvantage on the creature's ability checks and attack rolls and halving its speed. A creature that succeeds on the saving throw against the curse is immune to it for 24 hours."
 					]
 				},
 				{

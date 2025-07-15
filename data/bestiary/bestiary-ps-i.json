@@ -1160,7 +1160,7 @@
 									"slots": 4,
 									"spells": [
 										"{@spell detect magic}",
-										"{@spell mage armor}",
+										"{@spell armadura de mago}",
 										"{@spell magic missile}",
 										"{@spell shield}"
 									]
@@ -1334,7 +1334,7 @@
 									"slots": 4,
 									"spells": [
 										"{@spell detect magic}",
-										"{@spell mage armor}",
+										"{@spell armadura de mago}",
 										"{@spell magic missile}",
 										"{@spell shield}"
 									]

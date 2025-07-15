@@ -656,7 +656,7 @@
 						"2": {
 							"slots": 2,
 							"spells": [
-								"{@spell alter self}",
+								"{@spell alterar el propio aspecto}",
 								"{@spell invisibility}"
 							]
 						}
@@ -666,7 +666,7 @@
 			],
 			"action": [
 				{
-					"name": "Claws (Requires Alter Self)",
+					"name": "Claws (Requires Alterar el propio aspecto)",
 					"entries": [
 						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) slashing damage. This attack is magical."
 					]
@@ -1309,7 +1309,7 @@
 						"3": {
 							"slots": 3,
 							"spells": [
-								"{@spell clairvoyance}",
+								"{@spell clarividencia}",
 								"{@spell relámpago}",
 								"{@spell magic circle}"
 							]
@@ -1360,7 +1360,7 @@
 				{
 					"name": "Curse (Recharges after a Long Rest)",
 					"entries": [
-						"Ezmerelda targets one creature that she can see within 30 feet of her. The target must succeed on a {@dc 14} Wisdom saving throw or be cursed. While cursed, the target has vulnerability to one type of damage of Ezmerelda's choice. The curse lasts until ended with a {@spell greater restoration} spell, a {@spell remove curse} spell, or similar magic. When the curse ends, Ezmerelda takes {@damage 3d6} psychic damage."
+						"Ezmerelda targets one creature that she can see within 30 feet of her. The target must succeed on a {@dc 14} Wisdom saving throw or be cursed. While cursed, the target has vulnerability to one type of damage of Ezmerelda's choice. The curse lasts until ended with a {@spell greater restoration} spell, a {@spell levantar maldición} spell, or similar magic. When the curse ends, Ezmerelda takes {@damage 3d6} psychic damage."
 					]
 				},
 				{
@@ -1860,7 +1860,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]
@@ -2280,7 +2280,7 @@
 							"slots": 3,
 							"spells": [
 								"{@spell create food and water}",
-								"{@spell speak with dead}",
+								"{@spell hablar con los muertos}",
 								"{@spell spirit guardians}"
 							]
 						},
@@ -2334,7 +2334,7 @@
 				{
 					"name": "Curse (Recharges after a Long Rest)",
 					"entries": [
-						"Madam Eva targets one creature that she can see within 30 feet of her. The target must succeed on a {@dc 17} Wisdom saving throw or be cursed. While cursed, the target is {@condition blinded} and {@condition deafened}. The curse lasts until ended with a {@spell greater restoration} spell, a {@spell remove curse} spell, or similar magic. When the curse ends, Madam Eva takes {@damage 5d6} psychic damage."
+						"Madam Eva targets one creature that she can see within 30 feet of her. The target must succeed on a {@dc 17} Wisdom saving throw or be cursed. While cursed, the target is {@condition blinded} and {@condition deafened}. The curse lasts until ended with a {@spell greater restoration} spell, a {@spell levantar maldición} spell, or similar magic. When the curse ends, Madam Eva takes {@damage 5d6} psychic damage."
 					]
 				},
 				{
@@ -3327,8 +3327,8 @@
 							"slots": 3,
 							"spells": [
 								"{@spell magic circle}",
-								"{@spell remove curse}",
-								"{@spell speak with dead}"
+								"{@spell levantar maldición}",
+								"{@spell hablar con los muertos}"
 							]
 						},
 						"4": {
@@ -3680,7 +3680,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell charm person}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell shield}",
 								"{@spell sleep}"
 							]
@@ -3710,7 +3710,7 @@
 						"5": {
 							"slots": 1,
 							"spells": [
-								"{@spell dominate person}"
+								"{@spell dominar persona}"
 							]
 						}
 					},
@@ -4391,10 +4391,10 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mad mage is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 17}, {@hit 9} to hit with spell attacks). He can cast {@spell disguise self} and {@spell invisibility} at will and has the following wizard spells prepared:"
+						"The mad mage is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 17}, {@hit 9} to hit with spell attacks). He can cast {@spell disfrazarse} and {@spell invisibility} at will and has the following wizard spells prepared:"
 					],
 					"will": [
-						"{@spell disguise self}",
+						"{@spell disfrazarse}",
 						"{@spell invisibility}"
 					],
 					"spells": {
@@ -4411,7 +4411,7 @@
 							"slots": 4,
 							"spells": [
 								"{@spell detect magic}",
-								"{@spell mage armor}",
+								"{@spell armadura de mago}",
 								"{@spell magic missile}",
 								"{@spell shield}"
 							]

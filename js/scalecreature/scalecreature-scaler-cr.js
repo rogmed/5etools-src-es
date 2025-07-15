@@ -34,7 +34,7 @@ export class ScaleCreature {
 	}
 
 	// cantrips that should be preserved when lowering the number of cantrips known, to ensure caster effectiveness
-	static _PROTECTED_CANTRIPS = ["salpicadura ácida", "chill touch", "eldritch blast", "fire bolt", "poison spray", "crear llama", "ray of frost", "sacred flame", "shocking grasp", "látigo de espinas", "vicious mockery"];
+	static _PROTECTED_CANTRIPS = ["salpicadura ácida", "chill touch", "descarga sobrenatural", "fire bolt", "poison spray", "crear llama", "ray of frost", "sacred flame", "shocking grasp", "látigo de espinas", "vicious mockery"];
 
 	// analysis of official data + some manual smoothing
 	static _CR_TO_CASTER_LEVEL_AVG = {
@@ -410,7 +410,7 @@ export class ScaleCreature {
 						slots,
 						lower: 1,
 						spells: [
-							`A selection of ${maxSpellLevel === 1 ? `{@filter 1st-level warlock spells|spells|level=${1}|class=warlock}.` : `{@filter 1st- to ${Parser.spLevelToFull(maxSpellLevel)}-level warlock spells|spells|level=${[...new Array(maxSpellLevel)].map((_, i) => i + 1).join(";")}|class=warlock}.`}  Examples include: ${spellsKnown.sort(SortUtil.ascSortLower).map(it => `{@spell ${it}}`).joinConjunct(", ", " and ")}`,
+							`A selection of ${maxSpellLevel === 1 ? `{@filter 1st-level warlock spells|spells|level=${1}|class=Brujo}.` : `{@filter 1st- to ${Parser.spLevelToFull(maxSpellLevel)}-level warlock spells|spells|level=${[...new Array(maxSpellLevel)].map((_, i) => i + 1).join(";")}|class=Brujo}.`}  Examples include: ${spellsKnown.sort(SortUtil.ascSortLower).map(it => `{@spell ${it}}`).joinConjunct(", ", " and ")}`,
 						],
 					};
 				} else {

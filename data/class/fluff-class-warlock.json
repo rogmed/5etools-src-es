@@ -80,8 +80,8 @@
 			]
 		},
 		{
-			"name": "Fiend Patron",
-			"shortName": "Fiend",
+			"name": "Patrón infernal",
+			"shortName": "Infernal",
 			"source": "XPHB",
 			"className": "Brujo",
 			"classSource": "XPHB",

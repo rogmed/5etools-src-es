@@ -725,7 +725,7 @@
 			"size": [
 				"H"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"L",
 				"E"
@@ -845,7 +845,7 @@
 			"size": [
 				"G"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"C",
 				"E"

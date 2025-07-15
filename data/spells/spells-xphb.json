@@ -596,7 +596,7 @@
 				"dragon",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"giant",
 				"humanoide",
 				"monstrosity",
@@ -5457,7 +5457,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			]
 		},
@@ -5823,7 +5823,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			],
 			"miscTags": [
@@ -8574,7 +8574,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			],
 			"miscTags": [
@@ -8966,7 +8966,7 @@
 			"name": "Geas",
 			"originalname": "",
 			"source": "XPHB",
-			"page": 278,
+			"page": 286,
 			"srd52": true,
 			"basicRules2024": true,
 			"level": 5,
@@ -8997,17 +8997,17 @@
 				}
 			],
 			"entries": [
-				"You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the {@condition Hechizado|XPHB} condition for the duration. The target automatically succeeds if it can't understand your command.",
-				"While {@condition Hechizado|XPHB}, the creature takes {@damage 5d10} Psychic damage if it acts in a manner directly counter to your command. It takes this damage no more than once each day.",
-				"You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.",
-				"A {@spell Remove Curse|XPHB}, {@spell Restablecimiento mayor|XPHB}, or {@spell Deseo|XPHB} spell ends this spell."
+				"Das una orden verbal a una criatura que puedas ver dentro del alcance y la obligas a llevar a cabo un cometido o le impides realizar una acción o actividad, según desees. El objetivo deberá superar una tirada de salvación de Sabiduría o tendrá el estado de {@condition hechizado|XPHB} hasta que termine el conjuro. El objetivo la superará automáticamente si no entiende la orden.",
+				"Mientras esté {@condition hechizado|XPHB|hechizada}, la criatura sufre {@damage 5d10} de daño psíquico si actúa de manera contraria a tus instrucciones, y solo podrá recibir este daño una vez al día.",
+				"Puedes dar cualquier orden que quieras, siempre que no sea una actividad que suponga una muerte segura. Si das una orden suicida, el conjuro termina.",
+				"Un conjuro {@spell deseo|XPHB}, {@spell Remove Curse|XPHB|levantar maldición} o {@spell restablecimiento mayor|XPHB} también pone fin a este conjuro."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Con un espacio de conjuro de nivel superior.",
 					"entries": [
-						"If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above."
+						"Si usas un espacio de niveles 7 u 8, la duración será de 365 días. Si usas un espacio de nivel 9, el conjuro durará hasta que se le pone fin mediante uno de los conjuros mencionados anteriormente."
 					]
 				}
 			],
@@ -10073,7 +10073,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			],
 			"miscTags": [
@@ -12426,7 +12426,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			],
 			"miscTags": [
@@ -14643,7 +14643,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend"
+				"infernal"
 			],
 			"miscTags": [
 				"SMN"
@@ -15656,7 +15656,7 @@
 				"celestial",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"undead"
 			],
 			"miscTags": [
@@ -15803,7 +15803,7 @@
 				"dragon",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"giant",
 				"humanoide",
 				"monstrosity",
@@ -16306,7 +16306,7 @@
 				"dragon",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"giant",
 				"humanoide",
 				"monstrosity",
@@ -16568,7 +16568,7 @@
 		},
 		{
 			"name": "Rayo abrasador",
-			"originalname": "",
+			"originalname": "Scorching Ray",
 			"source": "XPHB",
 			"page": 324,
 			"srd52": true,
@@ -17873,7 +17873,7 @@
 				"dragon",
 				"elemental",
 				"fey",
-				"fiend",
+				"infernal",
 				"giant",
 				"humanoide",
 				"monstrosity",

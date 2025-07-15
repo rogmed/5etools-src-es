@@ -2006,7 +2006,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"alignment": [
 				"N",
 				"E"
@@ -2698,7 +2698,7 @@
 				"source": "MM"
 			},
 			"type": {
-				"type": "fiend",
+				"type": "infernal",
 				"tags": [
 					"orc"
 				]

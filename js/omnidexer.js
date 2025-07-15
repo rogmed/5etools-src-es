@@ -54,7 +54,7 @@ class Omnidexer {
 		 *   c: 10, // category ID
 		 *   id: 123, // index ID
 		 *   [t: "spell"], // tag
-		 *   [uu: "fireball|phb"], // UID
+		 *   [uu: "bola de fuego|phb"], // UID
 		 *   [m: "img/spell/Fireball.webp"], // Image
 		 *   [xF: {...}], // Foundry extras
 		 * }

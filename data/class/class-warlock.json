@@ -496,12 +496,12 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Fiend Patron",
-			"shortName": "Fiend",
+			"name": "Patrón infernal",
+			"shortName": "Infernal",
 			"source": "XPHB",
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"page": 161,
+			"page": 77,
 			"srd52": true,
 			"basicRules2024": true,
 			"edition": "one",
@@ -509,17 +509,17 @@
 				{
 					"prepared": {
 						"3": [
-							"burning hands|xphb",
-							"command|xphb",
-							"scorching ray|xphb",
-							"suggestion|xphb"
+							"Manos ardientes|xphb",
+							"orden imperiosa|xphb",
+							"rayo abrasador|xphb",
+							"sugestión|xphb"
 						],
 						"5": [
-							"fireball|xphb",
+							"bola de fuego|xphb",
 							"nube apestosa|xphb"
 						],
 						"7": [
-							"fire shield|xphb",
+							"escudo de fuego|xphb",
 							"muro de fuego|xphb"
 						],
 						"9": [
@@ -530,10 +530,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Fiend Patron|Brujo|XPHB|Fiend|XPHB|3",
-				"Dark One's Own Luck|Brujo|XPHB|Fiend|XPHB|6",
-				"Fiendish Resilience|Brujo|XPHB|Fiend|XPHB|10",
-				"Hurl Through Hell|Brujo|XPHB|Fiend|XPHB|14"
+				"Patrón infernal|Brujo|XPHB|Infernal|XPHB|3",
+				"La suerte del oscuro|Brujo|XPHB|Infernal|XPHB|6",
+				"Resistencia infernal|Brujo|XPHB|Infernal|XPHB|10",
+				"Arrastrar por el infierno|Brujo|XPHB|Infernal|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
@@ -543,7 +543,7 @@
 			"source": "XPHB",
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"page": 162,
+			"page": 78,
 			"edition": "one",
 			"additionalSpells": [
 				{
@@ -1407,62 +1407,62 @@
 			]
 		},
 		{
-			"name": "Fiend Patron",
+			"name": "Patrón infernal",
 			"source": "XPHB",
-			"page": 161,
+			"page": 77,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Fiend",
+			"subclassShortName": "Infernal",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Make a Deal with the Lower Planes}",
-				"Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron's aims are evil\u2014the corruption or destruction of all things, ultimately including you\u2014and your path is defined by the extent to which you strive against those aims.",
+				"{@i Haz un trato con los Planos Inferiores}",
+				"Tu pacto recurre a los Planos Inferiores, los reinos de la perdición. Puedes negociar con un señor demoníaco, como Demogorgon u Orcus, con un archidiablo como Asmodeo, o con un diablo de la sima, balor, yugoloth o una saga de la noche especialmente notable. Estos patrones desean la corrupción y la destrucción de todas las cosas (incluyéndote a ti en última instancia) y tu camino se verá definido por la medida en que luchas contra esos deseos.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Fiend Spells|Brujo|XPHB|Fiend|XPHB|3"
+					"subclassFeature": "Bendición del oscuro|Brujo|XPHB|Infernal|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Dark One's Blessing|Brujo|XPHB|Fiend|XPHB|3"
+					"subclassFeature": "Conjuros del infernal|Brujo|XPHB|Infernal|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Dark One's Blessing",
+			"name": "Bendición del oscuro",
 			"source": "XPHB",
-			"page": 161,
+			"page": 77,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Fiend",
+			"subclassShortName": "Infernal",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"When you reduce an enemy to 0 {@variantrule Hit Points|XPHB}, you gain {@variantrule Temporary Hit Points|XPHB} equal to your Charisma modifier plus your Warlock level (minimum of 1 {@variantrule Temporary Hit Points|XPHB|Temporary Hit Point}). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 {@variantrule Hit Points|XPHB}."
+				"Cuando reduzcas a 0 los puntos de golpe de un enemigo, obtienes una cantidad de puntos de golpe temporales igual a tu modificador por Carisma más tu nivel de brujo (mínimo de 1 punto de golpe temporal). También obtienes este beneficio si otra criatura reduce a O los puntos de golpe de un enemigo a 10 pies (3 m) o menos de ti."
 			]
 		},
 		{
-			"name": "Fiend Spells",
+			"name": "Conjuros del infernal",
 			"source": "XPHB",
-			"page": 161,
+			"page": 77,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Fiend",
+			"subclassShortName": "Infernal",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Fiend Spells table, you thereafter always have the listed spells prepared.",
+				"La magia de tu patrón garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de brujo especificado en la tabla “Conjuros del infernal”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Fiend Spells",
+					"caption": "CONJUROS DEL INFERNAL",
 					"colLabels": [
 						"Nivel de brujo",
 						"Conjuros"
@@ -1474,7 +1474,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Burning Hands|XPHB}, {@spell Orden imperiosa|XPHB}, {@spell Rayo abrasador|XPHB}, {@spell Sugestión|XPHB}"
+							"{@spell Manos ardientes|XPHB}, {@spell Orden imperiosa|XPHB}, {@spell Rayo abrasador|XPHB}, {@spell Sugestión|XPHB}"
 						],
 						[
 							"5",
@@ -1493,59 +1493,59 @@
 			]
 		},
 		{
-			"name": "Dark One's Own Luck",
+			"name": "La suerte del oscuro",
 			"source": "XPHB",
-			"page": 162,
+			"page": 78,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Fiend",
+			"subclassShortName": "Infernal",
 			"subclassSource": "XPHB",
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add {@dice 1d10} to your roll. You can do so after seeing the roll but before any of the roll's effects occur.",
-				"You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a {@variantrule Descanso largo|XPHB}."
+				"Puedes invocar a tu patrón infernal para alterar el destino a tu favor. Cuando hagas una prueba de característica o una tirada de salvación, puedes utilizar este rasgo para sumar {@dice 1d10} a tu tirada. Puedes hacerlo después de ver el resultado de la tirada, pero antes de que ocurran sus efectos.",
+				"Puedes usar este rasgo una cantidad de veces igual a tu modificador por Carisma (mínimo una vez), pero no más de una vez por tirada. Recuperas todos los usos tras finalizar un descanso largo."
 			]
 		},
 		{
-			"name": "Fiendish Resilience",
+			"name": "Resistencia infernal",
 			"source": "XPHB",
-			"page": 162,
+			"page": 78,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Fiend",
+			"subclassShortName": "Infernal",
 			"subclassSource": "XPHB",
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"Choose one damage type, other than Force, whenever you finish a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}. You have {@variantrule Resistance|XPHB} to that damage type until you choose a different one with this feature."
+				"Tras finalizar un descanso corto o largo, elige un tipo de daño que no sea el de fuerza. Tienes resistencia a ese tipo de daño hasta que elijas uno distinto con este rasgo."
 			]
 		},
 		{
-			"name": "Hurl Through Hell",
+			"name": "Arrastrar por el infierno",
 			"source": "XPHB",
-			"page": 162,
+			"page": 78,
 			"srd52": true,
 			"basicRules2024": true,
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"subclassShortName": "Fiend",
+			"subclassShortName": "Infernal",
 			"subclassSource": "XPHB",
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes {@damage 8d10} Psychic damage if it isn't a Fiend, and it has the {@condition Incapacitado|XPHB} condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB} unless you expend a Magia del pacto spell slot (no action required) to restore your use of it."
+				"Una vez por turno, cuando aciertas a una criatura con una tirada de ataque, puedes intentar teletransportar instantáneamente al objetivo a los Planos Inferiores. El objetivo deberá superar una tirada de salvación de Carisma contra tu CD de salvación de conjuros o desaparecerá y se precipitará a través de un paisaje de pesadilla. Si el objetivo no es un infernal, sufrirá {@damage 8d10} de daño psíquico y tendrá el estado de {@condition incapacitado|XPHB} hasta el final de tu siguiente turno, momento en el que volverá al espacio que ocupaba anteriormente o al espacio sin ocupar más cercano.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo, a menos que gastes un espacio de conjuro de Magia del pacto (no requiere acción) para restablecer su uso."
 			]
 		},
 		{
 			"name": "Great Old One Patron",
 			"source": "XPHB",
-			"page": 162,
+			"page": 78,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Great Old One",
@@ -1571,7 +1571,7 @@
 		{
 			"name": "Awakened Mind",
 			"source": "XPHB",
-			"page": 162,
+			"page": 78,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Great Old One",

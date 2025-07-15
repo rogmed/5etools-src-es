@@ -917,7 +917,7 @@
 								{
 									"type": "item",
 									"name": "Maeve:",
-									"entry": "Mirabella puts her thumbs together and wiggles her fingertips. {@i (Maeve mimics this action.)} Fire shoots out from her fingers, catching the ones on our side of the stream. {@spell Burning Hands|XPHB}!"
+									"entry": "Mirabella puts her thumbs together and wiggles her fingertips. {@i (Maeve mimics this action.)} Fire shoots out from her fingers, catching the ones on our side of the stream. {@spell Manos ardientes|XPHB}!"
 								}
 							]
 						},

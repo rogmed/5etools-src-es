@@ -3137,7 +3137,7 @@
 			"size": [
 				"L"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"ac": [
 				{
 					"ac": 17,
@@ -3296,7 +3296,7 @@
 			"size": [
 				"M"
 			],
-			"type": "fiend",
+			"type": "infernal",
 			"ac": [
 				{
 					"ac": 15,

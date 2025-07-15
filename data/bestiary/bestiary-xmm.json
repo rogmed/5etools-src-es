@@ -6610,7 +6610,7 @@
 						"{@spell Detectar pensamientos|XPHB}",
 						"{@spell disfrazarse|XPHB}",
 						"{@spell Invisibilidad|XPHB}",
-						"{@spell Light|XPHB}",
+						"{@spell Luz|XPHB}",
 						"{@spell Mage Armor|XPHB} (included in AC)",
 						"{@spell Mage Hand|XPHB}",
 						"{@spell Prestidigitation|XPHB}"
@@ -6800,7 +6800,7 @@
 						"The archpriest casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save {@dc 17}):"
 					],
 					"will": [
-						"{@spell Light|XPHB}",
+						"{@spell Luz|XPHB}",
 						"{@spell Thaumaturgy|XPHB}"
 					],
 					"daily": {
@@ -13695,7 +13695,7 @@
 					"will": [
 						"{@spell Detect Magic|XPHB}",
 						"{@spell Nube de oscurecimiento|XPHB}",
-						"{@spell Light|XPHB}"
+						"{@spell Luz|XPHB}"
 					],
 					"daily": {
 						"1e": [
@@ -14997,7 +14997,7 @@
 						"The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 12}, {@hit 4} to hit with spell attacks):"
 					],
 					"will": [
-						"{@spell Light|XPHB}",
+						"{@spell Luz|XPHB}",
 						"{@spell Thaumaturgy|XPHB}"
 					],
 					"daily": {
@@ -35697,7 +35697,7 @@
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
-						"{@spell Light|XPHB}",
+						"{@spell Luz|XPHB}",
 						"{@spell Mage Armor|XPHB} (included in AC)",
 						"{@spell Mage Hand|XPHB}",
 						"{@spell Prestidigitation|XPHB}"
@@ -37219,7 +37219,7 @@
 					],
 					"will": [
 						"{@spell Elementalismo|XPHB}",
-						"{@spell Light|XPHB}"
+						"{@spell Luz|XPHB}"
 					],
 					"daily": {
 						"1e": [
@@ -43943,7 +43943,7 @@
 						"The priest casts one of the following spells, using Wisdom as the spellcasting ability:"
 					],
 					"will": [
-						"{@spell Light|XPHB}",
+						"{@spell Luz|XPHB}",
 						"{@spell Thaumaturgy|XPHB}"
 					],
 					"daily": {
@@ -44093,7 +44093,7 @@
 						"The priest casts one of the following spells, using Wisdom as the spellcasting ability:"
 					],
 					"will": [
-						"{@spell Light|XPHB}",
+						"{@spell Luz|XPHB}",
 						"{@spell Thaumaturgy|XPHB}"
 					],
 					"ability": "wis",
@@ -51827,7 +51827,7 @@
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
-						"{@spell Light|XPHB}"
+						"{@spell Luz|XPHB}"
 					],
 					"daily": {
 						"1": [

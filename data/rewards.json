@@ -1329,10 +1329,10 @@
 						"_": {
 							"limited": {
 								"1e": [
-									"greater restoration|xphb"
+									"restablecimiento mayor|xphb"
 								],
 								"3e": [
-									"lesser restoration|xphb"
+									"restablecimiento menor|xphb"
 								]
 							}
 						}
@@ -3722,7 +3722,7 @@
 						"_": {
 							"limited": {
 								"1": [
-									"greater restoration|xphb"
+									"restablecimiento mayor|xphb"
 								]
 							}
 						}

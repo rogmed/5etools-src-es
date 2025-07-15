@@ -6748,7 +6748,7 @@
 											"style": "list-hang-notitle",
 											"items": [
 												"{@class Brujo|XPHB|Patrón feérico|Feérico|XPHB} to teleport and wield fey magic.",
-												"{@class Brujo|XPHB|Celestial Patron|Celestial|XPHB} to heal with heavenly magic.",
+												"{@class Brujo|XPHB|Patrón celestial|Celestial|XPHB} to heal with heavenly magic.",
 												"{@class Brujo|XPHB|Fiend Patron|Fiend|XPHB} to call on sinister powers.",
 												"{@class Brujo|XPHB|Great Old One Patron|Great Old One|XPHB} to delve into forbidden lore."
 											]
@@ -12905,7 +12905,7 @@
 								"{@spell Leomund's Tiny Hut|XPHB}",
 								"{@spell Restablecimiento menor|XPHB}",
 								"{@spell Levitar|XPHB}",
-								"{@spell Light|XPHB}",
+								"{@spell Luz|XPHB}",
 								"{@spell Lightning Arrow|XPHB}",
 								"{@spell Relámpago|XPHB}",
 								"{@spell Localizar animales o plantas|XPHB}",
@@ -13072,7 +13072,7 @@
 								"{@spell Sugestión|XPHB}",
 								"{@spell Invocar aberración|XPHB}",
 								"{@spell Invocar bestia|XPHB}",
-								"{@spell Summon Celestial|XPHB}",
+								"{@spell Invocar celestial|XPHB}",
 								"{@spell Summon Construct|XPHB}",
 								"{@spell Summon Dragon|XPHB}",
 								"{@spell Summon Elemental|XPHB}",

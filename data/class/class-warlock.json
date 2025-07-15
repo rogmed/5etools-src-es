@@ -450,48 +450,48 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Celestial Patron",
+			"name": "Patrón celestial",
 			"shortName": "Celestial",
 			"source": "XPHB",
 			"className": "Brujo",
 			"classSource": "XPHB",
-			"page": 160,
+			"page": 75,
 			"edition": "one",
 			"additionalSpells": [
 				{
 					"known": {
 						"1": [
-							"sacred flame|xphb#c",
-							"light|xphb#c"
+							"llama sagrada|xphb#c",
+							"luz|xphb#c"
 						]
 					},
 					"prepared": {
 						"3": [
-							"aid|xphb",
-							"cure wounds|xphb",
+							"auxilio|xphb",
+							"curar heridas|xphb",
 							"saeta guía|xphb",
-							"lesser restoration|xphb"
+							"restablecimiento menor|xphb"
 						],
 						"5": [
-							"daylight|xphb",
-							"revivify|xphb"
+							"luz del día|xphb",
+							"revivir|xphb"
 						],
 						"7": [
 							"guardián de la fe|xphb",
-							"wall of fire|xphb"
+							"muro de fuego|xphb"
 						],
 						"9": [
-							"greater restoration|xphb",
-							"summon celestial|xphb"
+							"restablecimiento mayor|xphb",
+							"invocar celestial|xphb"
 						]
 					}
 				}
 			],
 			"subclassFeatures": [
-				"Celestial Patron|Brujo|XPHB|Celestial|XPHB|3",
-				"Radiant Soul|Brujo|XPHB|Celestial|XPHB|6",
-				"Celestial Resilience|Brujo|XPHB|Celestial|XPHB|10",
-				"Searing Vengeance|Brujo|XPHB|Celestial|XPHB|14"
+				"Patrón celestial|Brujo|XPHB|Celestial|XPHB|3",
+				"Alma radiante|Brujo|XPHB|Celestial|XPHB|6",
+				"Resiliencia celestial|Brujo|XPHB|Celestial|XPHB|10",
+				"Venganza ardiente|Brujo|XPHB|Celestial|XPHB|14"
 			],
 			"hasFluffImages": true
 		},
@@ -520,7 +520,7 @@
 						],
 						"7": [
 							"fire shield|xphb",
-							"wall of fire|xphb"
+							"muro de fuego|xphb"
 						],
 						"9": [
 							"geas|xphb",
@@ -1283,31 +1283,31 @@
 			]
 		},
 		{
-			"name": "Celestial Patron",
+			"name": "Patrón celestial",
 			"source": "XPHB",
-			"page": 160,
+			"page": 75,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Celestial",
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"{@i Call on the Power of the Heavens}",
-				"Your pact draws on the Upper Planes, the realms of everlasting bliss. You might enter an agreement with an empyrean, a couatl, a sphinx, a unicorn, or another heavenly entity. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience a hint of the holy light that illuminates the multiverse.",
+				"{@i Invoca el poder de los cielos}",
+				"Tu pacto recurre a los Planos Superiores, los reinos de la dicha eterna. Podrías llegar a un acuerdo con un empíreo, un couatl, una esfinge, un unicornio u otro ser de los cielos, o quizá prefieras recurrir a varios seres de este tipo para lograr objetivos comunes con los suyos. Tu pacto te permite experimentar una pizca de la luz sagrada que ilumina el multiverso.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Celestial Spells|Brujo|XPHB|Celestial|XPHB|3"
+					"subclassFeature": "Conjuros del celestial|Brujo|XPHB|Celestial|XPHB|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Healing Light|Brujo|XPHB|Celestial|XPHB|3"
+					"subclassFeature": "Luz sanadora|Brujo|XPHB|Celestial|XPHB|3"
 				}
 			]
 		},
 		{
-			"name": "Celestial Spells",
+			"name": "Conjuros del celestial",
 			"source": "XPHB",
-			"page": 160,
+			"page": 75,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Celestial",
@@ -1315,10 +1315,10 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Celestial Spells table, you thereafter always have the listed spells prepared.",
+				"La magia de tu patrón garantiza que siempre tengas ciertos conjuros preparados. Cuando alcances un nivel de brujo especificado en la tabla “Conjuros del celestial”, a partir de entonces siempre tendrás preparados los conjuros que se indican.",
 				{
 					"type": "table",
-					"caption": "Celestial Spells",
+					"caption": "CONJUROS DEL CELESTIAL",
 					"colLabels": [
 						"Nivel de brujo",
 						"Conjuros"
@@ -1330,7 +1330,7 @@
 					"rows": [
 						[
 							"3",
-							"{@spell Auxilio|XPHB}, {@spell Curar heridas|XPHB}, {@spell Saeta guía|XPHB}, {@spell Restablecimiento menor|XPHB}, {@spell Light|XPHB}, {@spell Llama sagrada|XPHB}"
+							"{@spell Auxilio|XPHB}, {@spell Curar heridas|XPHB}, {@spell Saeta guía|XPHB}, {@spell Restablecimiento menor|XPHB}, {@spell Luz|XPHB}, {@spell Llama sagrada|XPHB}"
 						],
 						[
 							"5",
@@ -1342,16 +1342,16 @@
 						],
 						[
 							"9",
-							"{@spell Restablecimiento mayor|XPHB}, {@spell Summon Celestial|XPHB}"
+							"{@spell Restablecimiento mayor|XPHB}, {@spell Invocar celestial|XPHB}"
 						]
 					]
 				}
 			]
 		},
 		{
-			"name": "Healing Light",
+			"name": "Luz sanadora",
 			"source": "XPHB",
-			"page": 160,
+			"page": 75,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Celestial",
@@ -1359,14 +1359,14 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.",
-				"As a {@variantrule Acción adicional|XPHB}, you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of {@variantrule Hit Points|XPHB} equal to the roll's total. Your pool regains all expended dice when you finish a {@variantrule Descanso largo|XPHB}."
+				"Obtienes la facultad de canalizar energía celestial para curar heridas. Tienes una reserva de d6 para alimentar esta sanación. La cantidad de dados de tu reserva es de 1 más tu nivel de brujo.",
+				"Como acción adicional, puedes gastar dados de tu reserva para curarte a ti mismo o a una criatura que puedas ver a 60 pies (18 m) o menos de ti. La cantidad máxima de dados que puedes usar a la vez es igual a tu modificador por Carisma (un dado como mínimo). Tira los dados que gastes y restablece una cantidad de puntos de golpe igual al resultado total de la tirada. Tu reserva recupera todos los dados gastados tras finalizar un descanso largo."
 			]
 		},
 		{
-			"name": "Radiant Soul",
+			"name": "Alma radiante",
 			"source": "XPHB",
-			"page": 160,
+			"page": 75,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Celestial",
@@ -1374,13 +1374,13 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Your link to your patron allows you to serve as a conduit for radiant energy. You have {@variantrule Resistance|XPHB} to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets."
+				"Tu vínculo con tu patrón te permite servir de canalizador de energía radiante. Tienes resistencia al daño radiante. Una vez por turno, si causas daño radiante o de fuego con un conjuro, puedes sumar tu modificador por Carisma al daño del conjuro contra uno de sus objetivos."
 			]
 		},
 		{
-			"name": "Celestial Resilience",
+			"name": "Resiliencia celestial",
 			"source": "XPHB",
-			"page": 161,
+			"page": 75,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Celestial",
@@ -1388,13 +1388,13 @@
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"You gain {@variantrule Temporary Hit Points|XPHB} whenever you use your Astucia mágica feature or finish a {@variantrule Descanso corto|XPHB|Short} or {@variantrule Descanso largo|XPHB}. These {@variantrule Temporary Hit Points|XPHB} equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain {@variantrule Temporary Hit Points|XPHB} equal to half your Warlock level plus your Charisma modifier."
+				"Obtienes puntos de golpe temporales siempre que uses el rasgo Astucia mágica o finalices un descanso corto o largo. La cantidad obtenida es igual a tu nivel de brujo más tu modificador por Carisma. Además, eliges hasta cinco criaturas que puedas ver cuando obtengas los puntos. Cada una de ellas obtiene una cantidad de puntos de golpe temporales igual a la mitad de tu nivel de brujo más tu modificador por Carisma."
 			]
 		},
 		{
-			"name": "Searing Vengeance",
+			"name": "Venganza ardiente",
 			"source": "XPHB",
-			"page": 161,
+			"page": 75,
 			"className": "Brujo",
 			"classSource": "XPHB",
 			"subclassShortName": "Celestial",
@@ -1402,8 +1402,8 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"When you or an ally within 60 feet of you is about to make a {@variantrule Death Saving Throw|XPHB}, you can unleash radiant energy to save the creature. The creature regains {@variantrule Hit Points|XPHB} equal to half its {@variantrule Hit Points|XPHB|Hit Point} maximum and can end the {@condition Prone|XPHB} condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to {@dice 2d8} plus your Charisma modifier, and each has the {@condition Cegado|XPHB} condition until the end of the current turn.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Descanso largo|XPHB}."
+				"Cuando tú o un aliado a 60 pies (18 m) o menos de ti vayáis a hacer una tirada de salvación contra muerte, puedes emitir energía radiante para salvar a esa criatura. La criatura recupera una cantidad de puntos de golpe igual a la mitad de sus puntos de golpe máximos y puede poner fin a su estado de {@condition derribado|XPHB|derribada}. Todas las criaturas de tu elección que se encuentren a 30 pies (9 m) o menos de la criatura sufren una cantidad de daño radiante igual a {@dice 2d8} más tu modificador por Carisma y tienen el estado de {@condition Cegado|XPHB|cegadas} hasta el final del turno actual.",
+				"Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso largo."
 			]
 		},
 		{

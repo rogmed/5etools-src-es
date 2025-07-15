@@ -728,7 +728,7 @@
 			"reprintedAs": [
 				"Celestial Spirit|XPHB"
 			],
-			"summonedBySpell": "Summon Celestial|TCE",
+			"summonedBySpell": "invocar celestial|TCE",
 			"summonedBySpellLevel": 5,
 			"size": [
 				"L"

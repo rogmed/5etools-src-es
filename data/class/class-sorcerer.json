@@ -640,9 +640,9 @@
 				{
 					"prepared": {
 						"3": [
-							"aid|xphb",
+							"auxilio|xphb",
 							"alarm|xphb",
-							"lesser restoration|xphb",
+							"restablecimiento menor|xphb",
 							"protección contra el bien y el mal|xphb"
 						],
 						"5": [
@@ -654,7 +654,7 @@
 							"summon construct|xphb"
 						],
 						"9": [
-							"greater restoration|xphb",
+							"restablecimiento mayor|xphb",
 							"wall of force|xphb"
 						]
 					}

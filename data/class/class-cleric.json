@@ -546,21 +546,21 @@
 				{
 					"prepared": {
 						"3": [
-							"aid|xphb",
+							"auxilio|xphb",
 							"bless|xphb",
-							"cure wounds|xphb",
-							"lesser restoration|xphb"
+							"curar heridas|xphb",
+							"restablecimiento menor|xphb"
 						],
 						"5": [
 							"mass healing word|xphb",
-							"revivify|xphb"
+							"revivir|xphb"
 						],
 						"7": [
 							"aura of life|xphb",
 							"death ward|xphb"
 						],
 						"9": [
-							"greater restoration|xphb",
+							"restablecimiento mayor|xphb",
 							"mass cure wounds|xphb"
 						]
 					}
@@ -591,12 +591,12 @@
 							"see invisibility|xphb"
 						],
 						"5": [
-							"daylight|xphb",
+							"luz del día|xphb",
 							"fireball|xphb"
 						],
 						"7": [
 							"ojo arcano|xphb",
-							"wall of fire|xphb"
+							"muro de fuego|xphb"
 						],
 						"9": [
 							"flame strike|xphb",

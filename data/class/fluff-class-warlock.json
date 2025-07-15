@@ -8,11 +8,11 @@
 					"type": "section",
 					"name": "Brujo",
 					"source": "XPHB",
-					"page": 152,
+					"page": 69,
 					"entries": [
-						"Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.",
-						"Warlocks view their patrons as resources, as means to the end of achieving magical power. Some Warlocks respect, revere, or even love their patrons; some serve their patrons grudgingly; and some seek to undermine their patrons even as they wield the power their patrons have given them.",
-						"Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked with mere study. Most Warlocks spend their days pursuing greater power and deeper knowledge, which typically means some kind of adventure."
+						"Los brujos rastrean el conocimiento que yace escondido tras el tejido del multiverso. Suelen comenzar su búsqueda de poder mágico indagando en grimorios de saberes prohibidos, aventurándose con invocaciones destinadas a atraer la energía de seres extraplanares o registrando lugares de poder donde se perciba su influencia. Más pronto que tarde, los brujos forjan un pacto vinculante con un poderoso patrón. A partir del conocimiento ancestral que poseen entidades como ángeles, demonios, diablos, sagas, señores feéricos o extraños entes del Reino Lejano, los brujos descubren secretos arcanos que refuerzan sus propios poderes.",
+						"Los brujos ven a sus patrones como recursos, como un medio para lograr poderes mágicos. Algunos los respetan, adoran e incluso aman; otros, los sirven a regañadientes, y también los hay que buscan socavarlos, incluso cuando emplean el poder que les han proporcionado.",
+						"Una vez forjado el pacto, la sed de conocimiento y poder de un brujo no puede aplacarse solo con el estudio. La mayoría de ellos se dedican a buscar un poder y un conocimiento cada vez mayores, lo que suele desembocar en algún tipo de aventura."
 					]
 				}
 			],
@@ -61,7 +61,7 @@
 			]
 		},
 		{
-			"name": "Celestial Patron",
+			"name": "Patrón celestial",
 			"shortName": "Celestial",
 			"source": "XPHB",
 			"className": "Brujo",

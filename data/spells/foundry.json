@@ -14736,7 +14736,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Summon Celestial",
+			"name": "Invocar celestial",
 			"source": "TCE",
 			"activities": [
 				{
@@ -14766,7 +14766,7 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Summon Celestial",
+			"name": "Invocar celestial",
 			"source": "XPHB",
 			"activities": [
 				{
